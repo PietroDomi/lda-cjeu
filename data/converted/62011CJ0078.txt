@@ -1,0 +1,804 @@
+
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+21 giugno 2012 ( *1 )
+
+«Direttiva 2003/88/CE — Organizzazione dell’orario di lavoro — Diritto alle
+ferie annuali retribuite — Congedo di malattia — Ferie annuali che coincidono
+con un congedo di malattia — Diritto di beneficiare in un altro periodo delle
+ferie annuali retribuite»
+
+Nella causa C-78/11,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Tribunal Supremo (Spagna) con decisione
+del 26 gennaio 2011, pervenuta in cancelleria il 22 febbraio 2011, nel
+procedimento
+
+Asociación Nacional de Grandes Empresas de Distribución (ANGED)
+
+contro
+
+Federación de Asociaciones Sindicales (FASGA),
+
+Federaciόn de Trabajadores Independientes de Comercio (Fetico),
+
+Federaciόn Estatal de Trabajadores de Comercio, Hostelería, Turismo y Juego de
+UGT,
+
+Federaciόn de Comercio, Hostelería y Turismo de CC.OO.,
+
+LA CORTE (Quinta Sezione),
+
+composta dal sig. M. Safjan, presidente di sezione, dai sigg. M. Ilešič e E.
+Levits (relatore), giudici,
+
+avvocato generale: sig.ra V. Trstenjak
+
+cancelliere: sig.ra M. Ferreira, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all’udienza del 29 marzo
+2012,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Federación de Asociaciones Sindicales (FASGA), da J. Caballero Ramos,
+abogado;  
+  
+---|---  
+  
+—
+
+|
+
+per la Federación Estatal de Trabajadores de Comercio, Hostelería, Turismo y
+Juego de UGT, da J. Jiménez de Eugenio, abogado;  
+  
+---|---  
+  
+—
+
+|
+
+per la Federación del Comercio, Hostelería y Turismo de CC.OO., da A. Martín
+Aguado e J. Jiménez de Eugenio, abogados;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo spagnolo, da A. Rubio González, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo italiano, da G. Palmieri, in qualità di agente, assistita da G.
+Palatiello, avvocato dello Stato;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da S. Pardo Quintillán e M. van Beek, in qualità
+di agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+7, paragrafo 1, della direttiva 2003/88/CE del Parlamento europeo e del
+Consiglio, del 4 novembre 2003, concernente taluni aspetti dell’organizzazione
+dell’orario di lavoro (GU L 299, pag. 9; in prosieguo: la «direttiva
+2003/88»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra, da un
+lato, l’Asociación Nacional de Grandes Empresas de Distribución (in prosieguo:
+l’«ANGED») e, dall’altro, la Federación de Asociaciones Sindicales (FASGA), la
+Federaciόn de Trabajadores Independientes de Comercio (Fetico), la Federaciόn
+Estatal de Trabajadores de Comercio, Hostelería, Turismo y Juego de UGT e la
+Federación de Comercio, Hostelería y Turismo de CC.OO. (in prosieguo: la
+«FASGA e a.»), sindacati rappresentativi dei lavoratori, controversia relativa
+ai ricorsi collettivi proposti da tali sindacati diretti a far riconoscere il
+diritto di taluni lavoratori di beneficiare delle loro ferie annuali
+retribuite anche qualora esse coincidano con periodi di congedo per incapacità
+lavorativa temporanea.  
+  
+---|---  
+  
+Contesto normativo
+
+La normativa dell’Unione
+
+3
+
+|
+
+L’articolo 1 della direttiva 2003/88, intitolato «Oggetto e campo di
+applicazione», enuncia quanto segue:
+
+«1. La presente direttiva stabilisce prescrizioni minime di sicurezza e di
+salute in materia di organizzazione dell’orario di lavoro.
+
+2\. La presente direttiva si applica:
+
+|
+
+a)
+
+|
+
+ai periodi minimi di (...) ferie annuali (...)  
+  
+---|---  
+  
+(…)».  
+  
+4
+
+|
+
+L’articolo 7 di tale direttiva, intitolato «Ferie annuali», così dispone:
+
+«1. Gli Stati membri prendono le misure necessarie affinché ogni lavoratore
+benefici di ferie annuali retribuite di almeno 4 settimane, secondo le
+condizioni di ottenimento e di concessione previste dalle legislazioni e/o
+prassi nazionali.
+
+2\. Il periodo minimo di ferie annuali retribuite non può essere sostituito da
+un’indennità finanziaria, salvo in caso di fine del rapporto di lavoro».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 17 della direttiva 2003/88 prevede che gli Stati membri possano
+derogare a talune disposizioni di quest’ultima. Nessuna deroga è ammessa
+riguardo all’articolo 7 di detta direttiva.  
+  
+---|---  
+  
+La normativa nazionale
+
+6
+
+|
+
+Il decreto legislativo reale n. 1/1995, recante approvazione del testo
+consolidato della legge sullo statuto dei lavoratori (Real Decreto Legislativo
+1/1995, por el que se aprueba el texto refundido de la Ley del Estatuto de los
+Trabajadores), del 24 marzo 1995 (BOE n. 75 del 29 marzo 1995, pag. 9654),
+quale modificato dalla legge organica n. 3/2007 in favore dell’effettiva
+uguaglianza tra donne e uomini (Ley orgánica 3/2007 para la igualdad efectiva
+de mujeres y hombres), del 22 marzo 2007 (BOE n. 71 del 23 marzo 2007, pag.
+12611; in prosieguo: lo «statuto»), disciplina in particolare la materia delle
+ferie annuali retribuite nonché quella dell’incapacità lavorativa temporanea.  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 38 dello statuto stabilisce quanto segue:
+
+«1. Il periodo di ferie annuali retribuite, non sostituibile da indennità
+pecuniaria, è quello stabilito nel contratto collettivo o nel contratto
+individuale. In nessun caso la durata del congedo potrà essere inferiore a
+trenta giorni.
+
+2\. Il periodo o i periodi di godimento delle ferie sono fissati di comune
+accordo tra il datore di lavoro ed il lavoratore, in base a quanto stabilito,
+se del caso, nei contratti collettivi sulla pianificazione annuale delle
+ferie.
+
+In caso di disaccordo fra le parti, il giudice competente fissa il periodo di
+godimento delle ferie mediante decisione non impugnabile. Il procedimento è
+sommario e ha natura prioritaria.
+
+3\. Il calendario delle ferie è fissato in ciascuna impresa. Il lavoratore
+deve conoscere i periodi attribuitigli almeno due mesi prima dell’inizio delle
+ferie.
+
+Ove il periodo di ferie fissato nel calendario delle ferie dell’impresa di cui
+al comma precedente coincida con un periodo di incapacità lavorativa dovuta a
+gravidanza, parto o allattamento, o con il periodo di sospensione del
+contratto di lavoro previsto dall’articolo 48, paragrafo 4, della presente
+legge, l’interessato ha diritto a fruire delle ferie in un periodo diverso da
+quello di incapacità lavorativa o di fruizione del congedo concessogli in
+applicazione della suddetta norma, una volta terminato il periodo di
+sospensione, anche qualora sia già trascorso il corrispondente anno civile».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 37 del contratto collettivo dei grandi magazzini 2009-2010 contiene
+una disposizione analoga a quella dell’ultimo paragrafo dell’articolo 38 dello
+statuto.  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 48, paragrafo 4, dello statuto disciplina la sospensione del
+contratto di lavoro nei casi di parto, morte della madre successiva al parto,
+parto prematuro, ricovero ospedaliero del neonato, adozione, affido.  
+  
+---|---  
+  
+Causa principale e questione pregiudiziale
+
+10
+
+|
+
+Con ricorsi separati, successivamente riuniti, la FASGA e a. hanno avviato un
+procedimento per la risoluzione di una controversia collettiva affinché sia
+accertato il diritto dei lavoratori compresi nell’ambito di applicazione del
+contratto collettivo dei grandi magazzini 2009-2010 di beneficiare delle loro
+ferie annuali retribuite anche qualora esse coincidano con periodi di congedo
+per incapacità lavorativa.  
+  
+---|---  
+  
+11
+
+|
+
+L’ANGED ritiene che i lavoratori che si trovano in situazione di incapacità
+lavorativa temporanea prima dell’inizio di un periodo di ferie previamente
+stabilito, o nel corso di tale periodo, non abbiano il diritto di beneficiare
+delle loro ferie successivamente al termine della situazione di incapacità
+lavorativa, ad eccezione dei casi espressamente previsti da detto contratto
+collettivo, vale a dire quelli previsti all’articolo 48, paragrafo 4, dello
+statuto.  
+  
+---|---  
+  
+12
+
+|
+
+Con sentenza del 23 novembre 2009 l’Audiencia Nacional ha interamente accolto
+il ricorso della FASGA e a.  
+  
+---|---  
+  
+13
+
+|
+
+L’ANGED ha quindi impugnato tale sentenza con ricorso per cassazione dinanzi
+al Tribunal Supremo.  
+  
+---|---  
+  
+14
+
+|
+
+Il Tribunal Supremo richiama la giurisprudenza della Corte, ma considera
+comunque necessario, dal momento che tale impugnazione riguarda il caso in cui
+l’incapacità lavorativa sopravviene dopo l’inizio del periodo di ferie annuali
+retribuite, sospendere il procedimento e sottoporre alla Corte la seguente
+questione pregiudiziale:
+
+«Se l’articolo 7, paragrafo 1, della direttiva 2003/88 (…) osti ad
+un’interpretazione della normativa nazionale che non consente di interrompere
+il periodo di ferie per beneficiare, in un momento successivo, del periodo
+completo – o rimanente – qualora durante la fruizione delle ferie sopravvenga
+una situazione di incapacità lavorativa temporanea».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+15
+
+|
+
+Con la sua questione, il giudice del rinvio chiede, in sostanza, se l’articolo
+7, paragrafo 1, della direttiva 2003/88 debba essere interpretato nel senso
+che osta a disposizioni nazionali le quali prevedono che un lavoratore, che si
+trovi in una situazione di incapacità lavorativa sopravvenuta durante il
+periodo di ferie annuali retribuite, non ha il diritto di beneficiare
+successivamente di dette ferie annuali coincidenti con il periodo di
+incapacità lavorativa.  
+  
+---|---  
+  
+16
+
+|
+
+Al riguardo, si deve ricordare, anzitutto, che, secondo costante
+giurisprudenza, il diritto di ogni lavoratore alle ferie annuali retribuite
+deve essere considerato come un principio particolarmente importante del
+diritto sociale dell’Unione, al quale non si può derogare e la cui attuazione
+da parte delle autorità nazionali competenti può essere effettuata solo nei
+limiti esplicitamente indicati dalla direttiva 93/104/CE del Consiglio, del 23
+novembre 1993, concernente taluni aspetti dell’organizzazione dell’orario di
+lavoro (GU L 307, pag. 18), direttiva che è stata codificata dalla direttiva
+2003/88 (sentenza del 22 novembre 2011, KHS, C-214/10, Racc. pag. I-11757,
+punto 23 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+17
+
+|
+
+In secondo luogo, si deve rilevare che il diritto a un periodo annuale di
+ferie retribuite non solo riveste una particolare importanza quale principio
+di diritto sociale dell’Unione, ma è anche espressamente sancito all’articolo
+31, paragrafo 2, della Carta dei diritti fondamentali dell’Unione europea, cui
+l’articolo 6, paragrafo 1, TUE riconosce il medesimo valore giuridico dei
+trattati (sentenze KHS, cit., punto 37, e del 3 maggio 2012, Neidel, C-337/10,
+punto 40).  
+  
+---|---  
+  
+18
+
+|
+
+In terzo luogo, il diritto alle ferie annuali retribuite non può essere
+interpretato in senso restrittivo (v. sentenza del 22 aprile 2010,
+Zentralbetriebsrat der Landeskrankenhäuser Tirols, C-486/08, Racc. pag.
+I-3527, punto 29).  
+  
+---|---  
+  
+19
+
+|
+
+È pacifico, inoltre, che lo scopo del diritto alle ferie annuali retribuite è
+consentire al lavoratore di riposarsi e di beneficiare di un periodo di
+distensione e di ricreazione. Tale finalità è diversa da quella del diritto al
+congedo per malattia, accordato al lavoratore affinché possa ristabilirsi da
+una malattia che dà luogo a incapacità lavorativa (v. sentenza del 10
+settembre 2009, Vicente Pereda, C-277/08, Racc. pag. I-8405, punto 21).  
+  
+---|---  
+  
+20
+
+|
+
+In tal senso, la Corte ha già dichiarato che discende, in particolare, dalla
+finalità del diritto alle ferie annuali retribuite, che un lavoratore, in
+congedo per malattia durante un periodo di ferie annuali precedentemente
+fissato, ha diritto, su sua richiesta e affinché possa godere in concreto
+delle ferie annuali, di beneficiarne in un periodo diverso da quello
+coincidente con il periodo di congedo per malattia (v. sentenza Vicente
+Pereda, cit., punto 22).  
+  
+---|---  
+  
+21
+
+|
+
+Dalla giurisprudenza summenzionata, che riguarda un lavoratore che si trovi in
+situazione di incapacità lavorativa prima dell’inizio di un periodo di ferie
+annuali retribuite, consegue che il momento in cui detta incapacità
+sopravviene è irrilevante. Pertanto, il lavoratore ha il diritto di fruire
+delle sue ferie annuali retribuite coincidenti con un periodo di congedo di
+malattia in un periodo successivo, e ciò indipendentemente dal momento in cui
+tale incapacità lavorativa sia sopravvenuta.  
+  
+---|---  
+  
+22
+
+|
+
+Sarebbe infatti aleatorio, e contrario alla finalità del diritto alle ferie
+annuali retribuite, precisata al punto 19 della presente sentenza, riconoscere
+detto diritto al lavoratore soltanto a condizione che quest’ultimo si trovi
+già in una situazione di incapacità lavorativa all’inizio del periodo di ferie
+annuali retribuite.  
+  
+---|---  
+  
+23
+
+|
+
+In tale contesto la Corte ha già dichiarato che il nuovo periodo di ferie
+annuali, corrispondente alla durata della sovrapposizione tra il periodo di
+ferie annuali stabilito inizialmente e il congedo per malattia, di cui il
+lavoratore ha diritto di beneficiare dopo che si sia ristabilito, può essere
+fissato, eventualmente, al di fuori del corrispondente periodo di riferimento
+per le ferie annuali (v., in tal senso, sentenza Vicente Pereda, punto 23 e
+dispositivo).  
+  
+---|---  
+  
+24
+
+|
+
+Tenuto conto di quanto precede, si deve rispondere alla questione sollevata
+che l’articolo 7, paragrafo 1, della direttiva 2003/88 deve essere
+interpretato nel senso che osta a disposizioni nazionali le quali prevedono
+che un lavoratore che si trovi in una situazione di incapacità lavorativa
+sopravvenuta durante il periodo di ferie annuali retribuite non ha il diritto
+di beneficiare in un momento successivo di dette ferie annuali coincidenti con
+il periodo di incapacità lavorativa.  
+  
+---|---  
+  
+Sulle spese
+
+25
+
+|
+
+Nei confronti delle parti nella causa principale il presente procedimento
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 7, paragrafo 1, della direttiva 2003/88/CE del Parlamento europeo e
+del Consiglio, del 4 novembre 2003, concernente taluni aspetti
+dell’organizzazione dell’orario di lavoro, deve essere interpretato nel senso
+che osta a disposizioni nazionali le quali prevedono che un lavoratore che si
+trovi in una situazione di incapacità lavorativa sopravvenuta durante il
+periodo di ferie annuali retribuite non ha il diritto di beneficiare in un
+momento successivo di dette ferie annuali coincidenti con il periodo di
+incapacità lavorativa.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: lo spagnolo.
+
+  
+
+Parti  
+Motivazione della sentenza  
+Dispositivo  
+
+## Parti
+
+Nella causa C-78/11,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Tribunal Supremo (Spagna) con decisione
+del 26 gennaio 2011, pervenuta in cancelleria il 22 febbraio 2011, nel
+procedimento
+
+Asociación Nacional de Grandes Empresas de Distribución (ANGED)
+
+contro
+
+Federación de Asociaciones Sindicales (FASGA),
+
+Federaciόn de Trabajadores Independientes de Comercio (Fetico),
+
+Federaciόn Estatal de Trabajadores de Comercio, Hostelería, Turismo y Juego de
+UGT,
+
+Federaciόn de Comercio, Hostelería y Turismo de CC.OO.,
+
+LA CORTE (Quinta Sezione),
+
+composta dal sig. M. Safjan, presidente di sezione, dai sigg. M. Ilešič e E.
+Levits (relatore), giudici,
+
+avvocato generale: sig.ra V. Trstenjak
+
+cancelliere: sig.ra M. Ferreira, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all’udienza del 29 marzo
+2012,
+
+considerate le osservazioni presentate:
+
+– per la Federación de Asociaciones Sindicales (FASGA), da J. Caballero Ramos,
+abogado;
+
+– per la Federación Estatal de Trabajadores de Comercio, Hostelería, Turismo y
+Juego de UGT, da J. Jiménez de Eugenio, abogado;
+
+– per la Federación del Comercio, Hostelería y Turismo de CC.OO., da A. Martín
+Aguado e J. Jiménez de Eugenio, abogados;
+
+– per il governo spagnolo, da A. Rubio González, in qualità di agente;
+
+– per il governo italiano, da G. Palmieri, in qualità di agente, assistita da
+G. Palatiello, avvocato dello Stato;
+
+– per la Commissione europea, da S. Pardo Quintillán e M. van Beek, in qualità
+di agenti,
+
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+## Motivazione della sentenza
+
+1\. La domanda di pronuncia pregiudiziale verte sull’interpretazione
+dell’articolo 7, paragrafo 1, della direttiva 2003/88/CE del Parlamento
+europeo e del Consiglio, del 4 novembre 2003, concernente taluni aspetti
+dell’organizzazione dell’orario di lavoro (GU L 299, pag. 9; in prosieguo: la
+«direttiva 2003/88»).
+
+2\. Tale domanda è stata presentata nell’ambito di una controversia tra, da un
+lato, l’Asociación Nacional de Grandes Empresas de Distribución (in prosieguo:
+l’«ANGED») e, dall’altro, la Federación de Asociaciones Sindicales (FASGA), la
+Federaciόn de Trabajadores Independientes de Comercio (Fetico), la Federaciόn
+Estatal de Trabajadores de Comercio, Hostelería, Turismo y Juego de UGT e la
+Federación de Comercio, Hostelería y Turismo de CC.OO. (in prosieguo: la
+«FASGA e a.»), sindacati rappresentativi dei lavoratori, controversia relativa
+ai ricorsi collettivi proposti da tali sindacati diretti a far riconoscere il
+diritto di taluni lavoratori di beneficiare delle loro ferie annuali
+retribuite anche qualora esse coincidano con periodi di congedo per incapacità
+lavorativa temporanea.
+
+Contesto normativo
+
+La normativa dell’Unione
+
+3\. L’articolo 1 della direttiva 2003/88, intitolato «Oggetto e campo di
+applicazione», enuncia quanto segue:
+
+«1. La presente direttiva stabilisce prescrizioni minime di sicurezza e di
+salute in materia di organizzazione dell’orario di lavoro.
+
+2\. La presente direttiva si applica:
+
+a) ai periodi minimi di (...) ferie annuali (...)
+
+(…)».
+
+4\. L’articolo 7 di tale direttiva, intitolato «Ferie annuali», così dispone:
+
+«1. Gli Stati membri prendono le misure necessarie affinché ogni lavoratore
+benefici di ferie annuali retribuite di almeno 4 settimane, secondo le
+condizioni di ottenimento e di concessione previste dalle legislazioni e/o
+prassi nazionali.
+
+2\. Il periodo minimo di ferie annuali retribuite non può essere sostituito da
+un’indennità finanziaria, salvo in caso di fine del rapporto di lavoro».
+
+5\. L’articolo 17 della direttiva 2003/88 prevede che gli Stati membri possano
+derogare a talune disposizioni di quest’ultima. Nessuna deroga è ammessa
+riguardo all’articolo 7 di detta direttiva.
+
+La normativa nazionale
+
+6\. Il decreto legislativo reale n. 1/1995, recante approvazione del testo
+consolidato della legge sullo statuto dei lavoratori (Real Decreto Legislativo
+1/1995, por el que se aprueba el texto refundido de la Ley del Estatuto de los
+Trabajadores), del 24 marzo 1995 (BOE n. 75 del 29 marzo 1995, pag. 9654),
+quale modificato dalla legge organica n. 3/2007 in favore dell’effettiva
+uguaglianza tra donne e uomini (Ley orgánica 3/2007 para la igualdad efectiva
+de mujeres y hombres), del 22 marzo 2007 (BOE n. 71 del 23 marzo 2007, pag.
+12611; in prosieguo: lo «statuto»), disciplina in particolare la materia delle
+ferie annuali retribuite nonché quella dell’incapacità lavorativa temporanea.
+
+7\. L’articolo 38 dello statuto stabilisce quanto segue:
+
+«1. Il periodo di ferie annuali retribuite, non sostituibile da indennità
+pecuniaria, è quello stabilito nel contratto collettivo o nel contratto
+individuale. In nessun caso la durata del congedo potrà essere inferiore a
+trenta giorni.
+
+2\. Il periodo o i periodi di godimento delle ferie sono fissati di comune
+accordo tra il datore di lavoro ed il lavoratore, in base a quanto stabilito,
+se del caso, nei contratti collettivi sulla pianificazione annuale delle
+ferie.
+
+In caso di disaccordo fra le parti, il giudice competente fissa il periodo di
+godimento delle ferie mediante decisione non impugnabile. Il procedimento è
+sommario e ha natura prioritaria.
+
+3\. Il calendario delle ferie è fissato in ciascuna impresa. Il lavoratore
+deve conoscere i periodi attribuitigli almeno due mesi prima dell’inizio delle
+ferie.
+
+Ove il periodo di ferie fissato nel calendario delle ferie dell’impresa di cui
+al comma precedente coincida con un periodo di incapacità lavorativa dovuta a
+gravidanza, parto o allattamento, o con il periodo di sospensione del
+contratto di lavoro previsto dall’articolo 48, paragrafo 4, della presente
+legge, l’interessato ha diritto a fruire delle ferie in un periodo diverso da
+quello di incapacità lavorativa o di fruizione del congedo concessogli in
+applicazione della suddetta norma, una volta terminato il periodo di
+sospensione, anche qualora sia già trascorso il corrispondente anno civile».
+
+8\. L’articolo 37 del contratto collettivo dei grandi magazzini 2009-2010
+contiene una disposizione analoga a quella dell’ultimo paragrafo dell’articolo
+38 dello statuto.
+
+9\. L’articolo 48, paragrafo 4, dello statuto disciplina la sospensione del
+contratto di lavoro nei casi di parto, morte della madre successiva al parto,
+parto prematuro, ricovero ospedaliero del neonato, adozione, affido.
+
+Causa principale e questione pregiudiziale
+
+10\. Con ricorsi separati, successivamente riuniti, la FASGA e a. hanno
+avviato un procedimento per la risoluzione di una controversia collettiva
+affinché sia accertato il diritto dei lavoratori compresi nell’ambito di
+applicazione del contratto collettivo dei grandi magazzini 2009-2010 di
+beneficiare delle loro ferie annuali retribuite anche qualora esse coincidano
+con periodi di congedo per incapacità lavorativa.
+
+11\. L’ANGED ritiene che i lavoratori che si trovano in situazione di
+incapacità lavorativa temporanea prima dell’inizio di un periodo di ferie
+previamente stabilito, o nel corso di tale periodo, non abbiano il diritto di
+beneficiare delle loro ferie successivamente al termine della situazione di
+incapacità lavorativa, ad eccezione dei casi espressamente previsti da detto
+contratto collettivo, vale a dire quelli previsti all’articolo 48, paragrafo
+4, dello statuto.
+
+12\. Con sentenza del 23 novembre 2009 l’Audiencia Nacional ha interamente
+accolto il ricorso della FASGA e a.
+
+13\. L’ANGED ha quindi impugnato tale sentenza con ricorso per cassazione
+dinanzi al Tribunal Supremo.
+
+14\. Il Tribunal Supremo richiama la giurisprudenza della Corte, ma considera
+comunque necessario, dal momento che tale impugnazione riguarda il caso in cui
+l’incapacità lavorativa sopravviene dopo l’inizio del periodo di ferie annuali
+retribuite, sospendere il procedimento e sottoporre alla Corte la seguente
+questione pregiudiziale:
+
+«Se l’articolo 7, paragrafo 1, della direttiva 2003/88 (…) osti ad
+un’interpretazione della normativa nazionale che non consente di interrompere
+il periodo di ferie per beneficiare, in un momento successivo, del periodo
+completo – o rimanente – qualora durante la fruizione delle ferie sopravvenga
+una situazione di incapacità lavorativa temporanea».
+
+Sulla questione pregiudiziale
+
+15\. Con la sua questione, il giudice del rinvio chiede, in sostanza, se
+l’articolo 7, paragrafo 1, della direttiva 2003/88 debba essere interpretato
+nel senso che osta a disposizioni nazionali le quali prevedono che un
+lavoratore, che si trovi in una situazione di incapacità lavorativa
+sopravvenuta durante il periodo di ferie annuali retribuite, non ha il diritto
+di beneficiare successivamente di dette ferie annuali coincidenti con il
+periodo di incapacità lavorativa.
+
+16\. Al riguardo, si deve ricordare, anzitutto, che, secondo costante
+giurisprudenza, il diritto di ogni lavoratore alle ferie annuali retribuite
+deve essere considerato come un principio particolarmente importante del
+diritto sociale dell’Unione, al quale non si può derogare e la cui attuazione
+da parte delle autorità nazionali competenti può essere effettuata solo nei
+limiti esplicitamente indicati dalla direttiva 93/104/CE del Consiglio, del 23
+novembre 1993, concernente taluni aspetti dell’organizzazione dell’orario di
+lavoro (GU L 307, pag. 18), direttiva che è stata codificata dalla direttiva
+2003/88 (sentenza del 22 novembre 2011, KHS, C-214/10, Racc. pag. I-11757,
+punto 23 e giurisprudenza ivi citata).
+
+17\. In secondo luogo, si deve rilevare che il diritto a un periodo annuale di
+ferie retribuite non solo riveste una particolare importanza quale principio
+di diritto sociale dell’Unione, ma è anche espressamente sancito all’articolo
+31, paragrafo 2, della Carta dei diritti fondamentali dell’Unione europea, cui
+l’articolo 6, paragrafo 1, TUE riconosce il medesimo valore giuridico dei
+trattati (sentenze KHS, cit., punto 37, e del 3 maggio 2012, Neidel, C-337/10,
+punto 40).
+
+18\. In terzo luogo, il diritto alle ferie annuali retribuite non può essere
+interpretato in senso restrittivo (v. sentenza del 22 aprile 2010,
+Zentralbetriebsrat der Landeskrankenhäuser Tirols, C-486/08, Racc. pag.
+I-3527, punto 29).
+
+19\. È pacifico, inoltre, che lo scopo del diritto alle ferie annuali
+retribuite è consentire al lavoratore di riposarsi e di beneficiare di un
+periodo di distensione e di ricreazione. Tale finalità è diversa da quella del
+diritto al congedo per malattia, accordato al lavoratore affinché possa
+ristabilirsi da una malattia che dà luogo a incapacità lavorativa (v. sentenza
+del 10 settembre 2009, Vicente Pereda, C-277/08, Racc. pag. I-8405, punto 21).
+
+20\. In tal senso, la Corte ha già dichiarato che discende, in particolare,
+dalla finalità del diritto alle ferie annuali retribuite, che un lavoratore,
+in congedo per malattia durante un periodo di ferie annuali precedentemente
+fissato, ha diritto, su sua richiesta e affinché possa godere in concreto
+delle ferie annuali, di beneficiarne in un periodo diverso da quello
+coincidente con il periodo di congedo per malattia (v. sentenza Vicente
+Pereda, cit., punto 22).
+
+21\. Dalla giurisprudenza summenzionata, che riguarda un lavoratore che si
+trovi in situazione di incapacità lavorativa prima dell’inizio di un periodo
+di ferie annuali retribuite, consegue che il momento in cui detta incapacità
+sopravviene è irrilevante. Pertanto, il lavoratore ha il diritto di fruire
+delle sue ferie annuali retribuite coincidenti con un periodo di congedo di
+malattia in un periodo successivo, e ciò indipendentemente dal momento in cui
+tale incapacità lavorativa sia sopravvenuta.
+
+22\. Sarebbe infatti aleatorio, e contrario alla finalità del diritto alle
+ferie annuali retribuite, precisata al punto 19 della presente sentenza,
+riconoscere detto diritto al lavoratore soltanto a condizione che quest’ultimo
+si trovi già in una situazione di incapacità lavorativa all’inizio del periodo
+di ferie annuali retribuite.
+
+23\. In tale contesto la Corte ha già dichiarato che il nuovo periodo di ferie
+annuali, corrispondente alla durata della sovrapposizione tra il periodo di
+ferie annuali stabilito inizialmente e il congedo per malattia, di cui il
+lavoratore ha diritto di beneficiare dopo che si sia ristabilito, può essere
+fissato, eventualmente, al di fuori del corrispondente periodo di riferimento
+per le ferie annuali (v., in tal senso, sentenza Vicente Pereda, punto 23 e
+dispositivo).
+
+24\. Tenuto conto di quanto precede, si deve rispondere alla questione
+sollevata che l’articolo 7, paragrafo 1, della direttiva 2003/88 deve essere
+interpretato nel senso che osta a disposizioni nazionali le quali prevedono
+che un lavoratore che si trovi in una situazione di incapacità lavorativa
+sopravvenuta durante il periodo di ferie annuali retribuite non ha il diritto
+di beneficiare in un momento successivo di dette ferie annuali coincidenti con
+il periodo di incapacità lavorativa.
+
+Sulle spese
+
+25\. Nei confronti delle parti nella causa principale il presente procedimento
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+## Dispositivo
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:
+
+L’articolo 7, paragrafo 1, della direttiva 2003/88/CE del Parlamento europeo e
+del Consiglio, del 4 novembre 2003, concernente taluni aspetti
+dell’organizzazione dell’orario di lavoro, deve essere interpretato nel senso
+che osta a disposizioni nazionali le quali prevedono che un lavoratore che si
+trovi in una situazione di incapacità lavorativa sopravvenuta durante il
+periodo di ferie annuali retribuite non ha il diritto di beneficiare in un
+momento successivo di dette ferie annuali coincidenti con il periodo di
+incapacità lavorativa.
+

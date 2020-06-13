@@ -1,0 +1,721 @@
+
+
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+6 ottobre 2015 ( *1 )
+
+«Rinvio pregiudiziale — Regolamento (CE, Euratom) n. 2988/95 — Tutela degli
+interessi finanziari dell’Unione europea — Articoli 1, paragrafo 2, e 3,
+paragrafo 1, primo comma — Recupero di una restituzione all’esportazione —
+Termine di prescrizione — Dies a quo — Azione od omissione dell’operatore
+economico — Insorgere del pregiudizio — Infrazione continuata — Infrazione
+puntuale»
+
+Nella causa C‑59/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Finanzgericht Hamburg (Germania), con
+decisione del 13 dicembre 2013, pervenuta in cancelleria il 7 febbraio 2014,
+nel procedimento
+
+Firma Ernst Kollmer Fleischimport und -export
+
+contro
+
+Hauptzollamt Hamburg-Jonas,
+
+LA CORTE (Quarta Sezione),
+
+composta da L. Bay Larsen, presidente di sezione, K. Jürimäe (relatore), J.
+Malenovský, M. Safjan e A. Prechal, giudici,
+
+avvocato generale: P. Cruz Villalón
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Firma Ernst Kollmer Fleischimport und -export, da D. Ehle,
+Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ellenico, da I. Chalkias e E. Leftheriotou, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da J. Baquero Cruz, P. Rossi e B. Eggers, in
+qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza dell’11
+giugno 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 1, paragrafo 2, e 3, paragrafo 1, primo comma, del regolamento (CE,
+Euratom) n. 2988/95 del Consiglio, del 18 dicembre 1995, relativo alla tutela
+degli interessi finanziari delle Comunità (GU L 312, pag. 1).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la Firma
+Ernst Kollmer Fleischimport und -export e lo Hauptzollamt Hamburg-Jonas
+(ufficio doganale principale di Amburgo-Jonas; in prosieguo: lo
+«Hauptzollamt») in merito al rimborso di restituzioni all’esportazione.  
+  
+---|---  
+  
+Contesto normativo
+
+Il regolamento n. 2988/95
+
+3
+
+|
+
+L’articolo 1 del regolamento n. 2988/95 così dispone:
+
+«1. Ai fini della tutela degli interessi finanziari delle Comunità europee è
+adottata una normativa generale relativa a dei controlli omogenei e a delle
+misure e sanzioni amministrative riguardanti irregolarità relative al diritto
+comunitario.
+
+2\. Costituisce irregolarità qualsiasi violazione di una disposizione del
+diritto comunitario derivante da un’azione o un’omissione di un operatore
+economico che abbia o possa avere come conseguenza un pregiudizio al bilancio
+generale delle Comunità o ai bilanci da queste gestite, attraverso la
+diminuzione o la soppressione di entrate provenienti da risorse proprie
+percepite direttamente per conto delle Comunità, ovvero una spesa indebita».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 3, paragrafo 1, del regolamento in parola prevede quanto segue:
+
+«Il termine di prescrizione delle azioni giudiziarie è di quattro anni a
+decorrere dall’esecuzione dell’irregolarità di cui all’articolo 1, paragrafo
+1. Tuttavia, le normative settoriali possono prevedere un termine inferiore e
+comunque non inferiore a tre anni.
+
+Per le irregolarità permanenti o ripetute, il termine di prescrizione decorre
+dal giorno in cui cessa l’irregolarità. (...)
+
+(...)».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 4 del suddetto regolamento riguarda le misure amministrative volte
+alla ripetizione dei vantaggi indebitamente ottenuti. L’articolo 5 del
+medesimo regolamento enuncia le sanzioni amministrative che possono comportare
+le irregolarità intenzionali o causate da negligenza.  
+  
+---|---  
+  
+Il regolamento (CEE) n. 565/80
+
+6
+
+|
+
+In forza dell’articolo 5, paragrafo 1, del regolamento (CEE) n. 565/80 del
+Consiglio, del 4 marzo 1980, relativo al pagamento anticipato delle
+restituzioni all’esportazione per i prodotti agricoli (GU L 62, pag. 5), prima
+della sua abrogazione da parte del regolamento (CE) n. 1713/2006 della
+Commissione, del 20 novembre 2006, che abolisce il prefinanziamento delle
+restituzioni all’esportazione per i prodotti agricoli (GU L 321, pag. 11), «a
+richiesta dell’interessato, viene pagato un importo pari alla restituzione
+all’esportazione non appena i prodotti o le merci siano sottoposti al regime
+di deposito doganale o di zona franca ai fini della loro esportazione entro un
+determinato termine».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 6 del medesimo regolamento era del seguente tenore:
+
+«Il beneficio dei regimi previsti dal presente regolamento è subordinato alla
+costituzione di una cauzione che garantisca il rimborso di un importo pari a
+quello pagato, maggiorato di un importo supplementare.
+
+A prescindere dai casi di forza maggiore, questa cauzione viene incamerata
+totalmente o parzialmente:
+
+|
+
+—
+
+|
+
+nel caso in cui il rimborso non sia stato effettuato in quanto l’esportazione
+non ha avuto luogo entro il termine di cui all’articolo 4, paragrafo 1, e
+all’articolo 5, paragrafo 1,
+
+o  
+  
+---|---  
+  
+—
+
+|
+
+se risulta che non è sorto alcun diritto alla restituzione o che il diritto
+alla restituzione riguardava un importo inferiore».  
+  
+---|---  
+  
+Il regolamento (CEE) n. 3665/87
+
+8
+
+|
+
+L’articolo 17, paragrafo 1, del regolamento (CEE) n. 3665/87 della
+Commissione, del 27 novembre 1987, recante modalità comuni di applicazione del
+regime delle restituzioni all’esportazione per i prodotti agricoli (GU L 351,
+pag. 1), prima della sua abrogazione da parte del regolamento (CE) n. 800/1999
+della Commissione, del 15 aprile 1999, recante modalità comuni di applicazione
+del regime delle restituzioni all’esportazione per i prodotti agricoli (GU L
+102, pag. 11), era redatto nei seguenti termini:
+
+«Il prodotto deve essere stato importato come tale nel paese terzo o in uno
+dei paesi terzi per i quali è prevista la restituzione entro 12 mesi dalla
+data di accettazione della dichiarazione d’esportazione (...)».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 18, paragrafo 1, di tale regolamento così disponeva:
+
+«La prova dell’espletamento delle formalità doganali di immissione in consumo
+è costituita:
+
+|
+
+a)
+
+|
+
+dalla presentazione del documento doganale o di una copia o fotocopia; tale
+copia o fotocopia deve essere certificata conforme dall’organismo che ha
+vistato il documento originale oppure dai servizi ufficiali del paese terzo
+interessato o di uno degli Stati membri,
+
+o  
+  
+---|---  
+  
+b)
+
+|
+
+dalla presentazione del “certificato di sdoganamento” compilato su un modulo
+conforme al modello riprodotto nell’allegato II; questo modulo deve essere in
+una o più delle lingue ufficiali della Comunità e in una lingua del paese
+terzo interessato,  
+  
+---|---  
+  
+(...)».  
+  
+Procedimento principale e questioni pregiudiziali
+
+10
+
+|
+
+Con decisioni adottate nel 1992 e 1993, lo Hauptzollamt ha concesso alla
+ricorrente nel procedimento principale il pagamento anticipato di restituzioni
+all’esportazione, dietro costituzione di una cauzione, a norma degli articoli
+5, paragrafo 1, e 6 del regolamento n. 565/80. Tali anticipi riguardavano vari
+lotti di carne bovina immagazzinati ai fini della loro esportazione.  
+  
+---|---  
+  
+11
+
+|
+
+Con lettera del 10 agosto 1993, la ricorrente nel procedimento principale ha
+trasmesso allo Hauptzollamt la dichiarazione doganale n. 79/239 rilasciata
+dalle autorità doganali giordane il 9 marzo 1993. La suddetta dichiarazione
+certificava l’immissione in consumo, in Giordania, di un lotto di carne bovina
+esportato dalla ricorrente nel procedimento principale. In data 30 aprile 1996
+e 4 marzo 1998, lo Hauptzollamt ha proceduto allo svincolo delle cauzioni
+costituite dalla medesima.  
+  
+---|---  
+  
+12
+
+|
+
+Dal 28 febbraio al 14 marzo 1998, l’Ufficio europeo per la lotta antifrode
+(OLAF) ha eseguito un’ispezione nel corso della quale è emerso che la
+dichiarazione doganale rilasciata dalle autorità giordane era stata annullata
+prima della riscossione dei dazi all’importazione e che il lotto di carne
+bovina di cui trattasi, in realtà, era stato riesportato in Iraq.  
+  
+---|---  
+  
+13
+
+|
+
+Con decisione del 23 settembre 1999, lo Hauptzollamt ha ordinato il recupero
+di un importo pari a EUR 103289,89. In seguito ad un reclamo proposto dalla
+ricorrente nel procedimento principale avverso la decisione di recupero, tale
+somma è stata ridotta a EUR 59545,70, con decisione del 26 settembre 2011. Il
+reclamo è stato respinto per il resto, con decisione del 23 gennaio 2012.  
+  
+---|---  
+  
+14
+
+|
+
+Il 5 febbraio 2012, la ricorrente nel procedimento principale ha presentato un
+ricorso dinanzi al Finanzgericht Hamburg (Tribunale finanziario di Amburgo),
+con cui chiede l’annullamento delle tre decisioni summenzionate. Essa fa
+valere la prescrizione del diritto a ripetizione. A suo avviso, a norma
+dell’articolo 3, paragrafo 1, del regolamento n. 2988/95, il termine di
+prescrizione decorre non dallo svincolo della cauzione, bensì dall’esecuzione
+dell’irregolarità. Infatti, l’articolo 1, paragrafo 2, del regolamento in
+parola collegherebbe la nozione di «irregolarità» ad un’azione o ad
+un’omissione di un operatore economico. Di conseguenza, occorrerebbe basarsi
+sulla data di presentazione della dichiarazione doganale rilasciata dalle
+autorità giordane, ossia il 10 agosto 1993, per determinare se l’azione di
+ripetizione dell’indebito sia prescritta.  
+  
+---|---  
+  
+15
+
+|
+
+Il giudice del rinvio è propenso a ritenere che, indipendentemente dal momento
+in cui si verifica il pregiudizio, il termine di prescrizione decorra
+dall’azione o dall’omissione dell’operatore economico costitutive di una
+violazione di una disposizione del diritto dell’Unione. Un’interpretazione del
+genere risulterebbe dalla formulazione degli articoli 1, paragrafo 2, e 3,
+paragrafo 1, del regolamento n. 2988/95. Infatti, da una parte, la
+formulazione dell’articolo 1, paragrafo 2, di tale regolamento indicherebbe
+che il legislatore dell’Unione, che ha scelto l’uso dell’espressione «possa
+avere» nel redigere tale disposizione, non collega la nozione di
+«irregolarità» al verificarsi di un pregiudizio, poiché la condotta di un
+operatore economico può integrare un’irregolarità anche quando «possa avere»
+come conseguenza un pregiudizio al bilancio dell’Unione. Dall’altra, dalla
+formulazione dell’articolo 3, paragrafo 1, primo comma, del regolamento in
+parola, che fa riferimento all’«esecuzione dell’irregolarità», si evincerebbe
+che il legislatore dell’Unione ha inteso collegare la decorrenza del termine
+di prescrizione non all’«emergere», bensì all’«esecuzione» dell’irregolarità,
+ossia a una condotta dell’operatore economico che deve consistere in una
+violazione di una disposizione del diritto dell’Unione.  
+  
+---|---  
+  
+16
+
+|
+
+Il giudice del rinvio è nondimeno del parere che, nei casi in cui la
+violazione di disposizioni del diritto dell’Unione sia stata scoperta soltanto
+dopo il verificarsi del pregiudizio, la questione della determinazione della
+decorrenza del termine di prescrizione potrebbe essere oggetto di una
+valutazione diversa. Infatti, si potrebbe considerare che la nozione di
+«irregolarità», di cui all’articolo 1, paragrafo 2, del regolamento n.
+2988/95, presupponga il ricorrere di due condizioni, ossia, da un lato, una
+condotta dell’operatore economico e, dall’altro, il pregiudizio che ne deriva.  
+  
+---|---  
+  
+17
+
+|
+
+Nell’ipotesi in cui il termine di prescrizione previsto dall’articolo 3,
+paragrafo 1, primo comma, del regolamento n. 2988/95 inizi a decorrere
+soltanto alla data in cui si verifica il pregiudizio, il giudice del rinvio si
+chiede se il «pregiudizio», ai sensi dell’articolo 1, paragrafo 2, del
+regolamento n. 2988/95, insorga sin dal pagamento a titolo di anticipo
+dell’importo corrispondente alla restituzione all’esportazione o solo alla
+data della concessione definitiva della restituzione all’esportazione con lo
+svincolo della cauzione.  
+  
+---|---  
+  
+18
+
+|
+
+Ciò premesso, il Finanzgericht Hamburg ha deciso di sospendere il procedimento
+e di sottoporre alla Corte le seguenti questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Qualora la violazione di una disposizione del diritto dell’Unione sia stata
+scoperta soltanto dopo l’insorgenza di un pregiudizio, se l’irregolarità,
+necessaria a norma dell’articolo 3, paragrafo 1, primo comma, del regolamento
+n. 2988/95 affinché inizi a decorrere il termine di prescrizione e definita
+all’articolo 1, paragrafo 2, dello stesso regolamento, presupponga in via
+cumulativa, oltre a un’azione o a un’omissione dell’operatore economico, che
+sia stato arrecato un pregiudizio al bilancio generale dell’Unione o ai
+bilanci da questa gestiti, cosicché il termine di prescrizione inizia a
+decorrere soltanto dal momento in cui si è verificato il danno, o se il
+termine di prescrizione inizi a decorrere con l’azione o l’omissione
+dell’operatore economico che integra una violazione di una disposizione del
+diritto dell’Unione, a prescindere dal momento in cui è insorto il
+pregiudizio.  
+  
+---|---  
+  
+2)
+
+|
+
+Qualora si risponda alla prima questione nel senso che il termine di
+prescrizione inizia a decorrere soltanto con l’insorgere del pregiudizio:
+
+se – rispetto al rimborso di una restituzione all’esportazione concessa in via
+definitiva – un “pregiudizio” ai sensi dell’articolo 1, paragrafo 2, del
+regolamento n. 2988/95, sussista già a fronte del pagamento a favore di un
+esportatore di un importo pari alla restituzione all’esportazione ai sensi
+dell’articolo 5, paragrafo 1, del regolamento n. 565/80, senza che sia stata
+già svincolata la cauzione ai sensi dell’articolo 6 del regolamento n. 565/80,
+o se un pregiudizio insorga soltanto nel momento dello svincolo della cauzione
+ovvero della definitiva concessione della restituzione all’esportazione».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla prima questione
+
+19
+
+|
+
+Con la sua prima questione, il giudice del rinvio chiede sostanzialmente se,
+in circostanze come quelle di cui trattasi nel procedimento principale, in cui
+la violazione di una disposizione del diritto dell’Unione sia stata scoperta
+soltanto dopo il verificarsi di un pregiudizio, gli articoli 1, paragrafo 2, e
+3, paragrafo 1, primo comma, del regolamento n. 2988/95 debbano essere
+interpretati nel senso che il termine di prescrizione inizia a decorrere dalla
+data in cui si verifica il pregiudizio al bilancio dell’Unione o ai bilanci da
+questa gestiti oppure che tale termine inizia a decorrere a prescindere da
+tale data, sin dall’azione o dall’omissione di un operatore economico
+costitutive di una violazione del diritto dell’Unione.  
+  
+---|---  
+  
+20
+
+|
+
+In via preliminare, va ricordato, da un lato, che la norma di prescrizione
+quadriennale prevista all’articolo 3, paragrafo 1, primo comma, del
+regolamento n. 2988/95 è, in assenza di normativa settoriale dell’Unione o di
+una normativa nazionale che preveda un regime di prescrizione specifico,
+applicabile alle irregolarità che ledano gli interessi finanziari dell’Unione
+(v., in tal senso, sentenza Pfeifer & Langen, C‑564/10, EU:C:2012:190, punti
+39 e 40 nonché la giurisprudenza ivi citata).  
+  
+---|---  
+  
+21
+
+|
+
+Dall’altro lato, va rilevato che l’articolo 3, paragrafo 1, del regolamento n.
+2988/95 è applicabile nella specie, sebbene i fatti oggetto del procedimento
+principale risalgano agli anni 1992 e 1993. Infatti, la Corte ha già statuito
+che il termine di prescrizione previsto dalla disposizione citata si applica a
+irregolarità commesse prima dell’entrata in vigore del suddetto regolamento
+(v., in tal senso, sentenza Josef Vosding Schlacht-, Kühl- und Zerlegebetrieb
+e a., da C‑278/07 a C‑280/07, EU:C:2009:38, punto 34).  
+  
+---|---  
+  
+22
+
+|
+
+Secondo giurisprudenza costante della Corte, per determinare la portata di
+disposizioni del diritto dell’Unione, nel caso di specie gli articoli 1,
+paragrafo 2, e 3, paragrafo 1, primo comma, del regolamento n. 2988/95,
+occorre tener conto allo stesso tempo del loro tenore letterale, del loro
+contesto e delle loro finalità (sentenza Angerer, C‑477/13, EU:C:2015:239,
+punto 26 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+23
+
+|
+
+Conformemente alla lettera dell’articolo 3, paragrafo 1, primo comma, del
+regolamento n. 2988/95, il termine di prescrizione delle azioni giudiziarie è
+di quattro anni a decorrere dall’esecuzione dell’irregolarità. L’articolo 1,
+paragrafo 2, del regolamento in parola definisce la nozione di «irregolarità»
+nel senso che essa riguarda qualsiasi violazione di una disposizione del
+diritto dell’Unione derivante da un’azione o da un’omissione di un operatore
+economico che abbia o possa avere come conseguenza un pregiudizio al bilancio
+generale dell’Unione o ai bilanci da questa gestiti.  
+  
+---|---  
+  
+24
+
+|
+
+L’esecuzione di un’irregolarità, che fa decorrere il termine di prescrizione,
+presuppone dunque il ricorrere di due condizioni, ossia un’azione o
+un’omissione di un operatore economico, costitutive di una violazione del
+diritto dell’Unione, nonché un pregiudizio, o un pregiudizio potenziale,
+arrecato al bilancio dell’Unione.  
+  
+---|---  
+  
+25
+
+|
+
+In circostanze, come quelle in esame nel procedimento principale, in cui la
+violazione del diritto dell’Unione sia stata scoperta dopo il verificarsi del
+pregiudizio, il termine di prescrizione inizia a decorrere dall’esecuzione
+dell’irregolarità, vale a dire dal momento in cui si sono verificati tanto
+l’azione o l’omissione di un operatore economico costitutive di una violazione
+del diritto dell’Unione quanto il pregiudizio arrecato al bilancio dell’Unione
+o ai bilanci da questa gestiti.  
+  
+---|---  
+  
+26
+
+|
+
+Una siffatta conclusione è conforme all’obiettivo del regolamento n. 2988/95,
+il quale, in forza del suo articolo 1, paragrafo 1, mira alla tutela degli
+interessi finanziari dell’Unione. Infatti, il dies a quo si colloca alla data
+dell’evento sopraggiunto per ultimo, ossia alla data del verificarsi del
+pregiudizio qualora tale pregiudizio si verifichi dopo l’azione o l’omissione
+costitutive di una violazione del diritto dell’Unione, oppure alla data di
+tale azione od omissione, qualora il vantaggio di cui trattasi sia stato
+concesso prima della suddetta azione od omissione. Viene quindi agevolato il
+conseguimento dell’obiettivo di tutela degli interessi finanziari dell’Unione.  
+  
+---|---  
+  
+27
+
+|
+
+Inoltre, siffatta conclusione non viene rimessa in discussione dall’argomento
+del governo ellenico secondo cui il dies a quo si collocherebbe nel giorno
+della scoperta, da parte delle autorità competenti, dell’irregolarità.
+Infatti, tale argomento contrasta con la giurisprudenza della Corte secondo
+cui la data in cui le autorità sono venute a conoscenza di un’irregolarità non
+influisce sul dies a quo del termine di prescrizione (sentenza Pfeifer &
+Langen, C‑52/14, EU:C:2015:381, punto 67).  
+  
+---|---  
+  
+28
+
+|
+
+D’altronde, seconda la giurisprudenza della Corte, all’amministrazione incombe
+un obbligo generale di diligenza nella verifica della regolarità dei pagamenti
+da essa stessa effettuati e che gravano sul bilancio dell’Unione (sentenza Ze
+Fu Fleischhandel GmbH e Vion Trading, C‑201/10 e C‑202/10, EU:C:2011:282,
+punto 44). Ammettere che il dies a quo corrisponde al giorno della scoperta
+dell’irregolarità di cui trattasi sarebbe contrario a siffatto obbligo di
+diligenza.  
+  
+---|---  
+  
+29
+
+|
+
+Alla luce delle considerazioni che precedono, occorre rispondere alla prima
+questione dichiarando che gli articoli 1, paragrafo 2, e 3, paragrafo 1, primo
+comma, del regolamento n. 2988/95 devono essere interpretati nel senso che, in
+circostanze come quelle in esame nel procedimento principale, in cui la
+violazione di una disposizione del diritto dell’Unione è stata scoperta
+soltanto dopo il verificarsi di un pregiudizio, il termine di prescrizione
+inizia a decorrere dal momento in cui si sono verificati tanto l’azione o
+l’omissione di un operatore economico, costitutive di una violazione del
+diritto dell’Unione, quanto il pregiudizio arrecato al bilancio dell’Unione o
+ai bilanci da questa gestiti.  
+  
+---|---  
+  
+Sulla seconda questione
+
+30
+
+|
+
+Con la sua seconda questione, il giudice del rinvio si interroga sul momento
+in cui si verifica un «pregiudizio», ai sensi dell’articolo 1, paragrafo 2,
+del regolamento n. 2988/95, in circostanze come quelle in esame nel
+procedimento principale.  
+  
+---|---  
+  
+31
+
+|
+
+Prima di rispondere alla suddetta questione, occorre ricordare la cronologia
+dei fatti oggetto del procedimento principale. In un primo momento, negli anni
+1992 e 1993, alla ricorrente nel procedimento principale è stato concesso il
+pagamento anticipato di un importo pari alla restituzione all’esportazione a
+norma dell’articolo 5, paragrafo 1, del regolamento n. 565/80. In un secondo
+momento, il 10 agosto 1993, la ricorrente nel procedimento principale ha
+presentato una dichiarazione doganale rilasciata dalle autorità giordane,
+destinata a comprovare l’espletamento delle formalità doganali di immissione
+in consumo in Giordania, ai sensi degli articoli 17, paragrafo 3, e 18,
+paragrafo 1, del regolamento n. 3665/87. In un terzo momento, in data 30
+aprile 1996 e 4 marzo 1998, sono state svincolate le cauzioni costituite
+contestualmente alla concessione dell’anticipo a norma dell’articolo 6 del
+regolamento n. 565/80.  
+  
+---|---  
+  
+32
+
+|
+
+In siffatte circostanze, va rilevato che un «pregiudizio», ai sensi
+dell’articolo 1, paragrafo 2, del regolamento n. 2988/95, si verifica alla
+data in cui la decisione di concedere definitivamente il vantaggio di cui
+trattasi, nella specie le restituzioni all’esportazione, è adottata. Infatti,
+è a partire da tale momento che sussiste effettivamente un pregiudizio
+arrecato al bilancio dell’Unione. Non si può ritenere che tale pregiudizio
+sussista prima della data della concessione definitiva del suddetto vantaggio,
+salvo ammettere che il termine di prescrizione per recuperare lo stesso
+vantaggio possa decorrere già in un momento in cui il medesimo non era stato
+ancora concesso.  
+  
+---|---  
+  
+33
+
+|
+
+Tenuto conto dei rilievi che precedono, occorre rispondere alla seconda
+questione dichiarando che l’articolo 1, paragrafo 2, del regolamento n.
+2988/95 deve essere interpretato nel senso che, in circostanze come quelle in
+esame nel procedimento principale, un pregiudizio si verifica sin
+dall’adozione della decisione di concedere la restituzione all’esportazione
+all’esportatore di cui trattasi.  
+  
+---|---  
+  
+Sulle spese
+
+34
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+Gli articoli 1, paragrafo 2, e 3, paragrafo 1, primo comma, del regolamento
+(CE, Euratom) n. 2988/95 del Consiglio, del 18 dicembre 1995, relativo alla
+tutela degli interessi finanziari delle Comunità, devono essere interpretati
+nel senso che, in circostanze come quelle in esame nel procedimento
+principale, in cui la violazione di una disposizione del diritto dell’Unione è
+stata scoperta soltanto dopo il verificarsi di un pregiudizio, il termine di
+prescrizione inizia a decorrere dal momento in cui si sono verificati tanto
+l’azione o l’omissione di un operatore economico costitutive di una violazione
+del diritto dell’Unione, quanto il pregiudizio arrecato al bilancio
+dell’Unione o ai bilanci da questa gestiti.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 1, paragrafo 2, del regolamento n. 2988/95 deve essere interpretato
+nel senso che, in circostanze come quelle in esame nel procedimento
+principale, un pregiudizio si verifica sin dall’adozione della decisione di
+concedere la restituzione all’esportazione all’esportatore di cui trattasi.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il tedesco.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

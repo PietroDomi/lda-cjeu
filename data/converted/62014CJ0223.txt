@@ -1,0 +1,1167 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+11 novembre 2015 ( * )
+
+«Rinvio pregiudiziale — Cooperazione giudiziaria in materia civile —
+Notificazione e comunicazione degli atti giudiziari ed extragiudiziali —
+Nozione di “atto extragiudiziale” — Atto privato — Incidenza transfrontaliera
+— Funzionamento del mercato interno»
+
+Nella causa C‑223/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dallo Juzgado de Primera Instancia n. 7 de
+Las Palmas de Gran Canaria (Tribunale di primo grado n. 7 di Las Palmas de
+Gran Canaria, Spagna), con decisione del 28 aprile 2014, pervenuta in
+cancelleria il 7 maggio 2014, nel procedimento
+
+Tecom Mican SL,
+
+José Arias Domínguez,
+
+LA CORTE (Prima Sezione),
+
+composta da A. Tizzano (relatore), vicepresidente della Corte, facente
+funzione di presidente della Prima Sezione, F. Biltgen, A. Borg Barthet, E.
+Levits e M. Berger, giudici,
+
+avvocato generale: Y. Bot
+
+cancelliere: M. Ferreira, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all’udienza del 25 marzo
+2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Tecom Mican SL, da T. Rosales Hernández, abogado;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo spagnolo, da A. Gavela Llopis, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo tedesco, da T. Henze e J. Kemper, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ungherese, da M. Fehér e G. Koós, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo portoghese, da L. Inez Fernandes, A. Fonseca Santos e R.
+Chambel Margarido, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da F. Castillo de la Torre e M. Wilderspin, in
+qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 4
+giugno 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+16 del regolamento (CE) n. 1393/2007 del Parlamento europeo e del Consiglio,
+del 13 novembre 2007, relativo alla notificazione e alla comunicazione negli
+Stati membri degli atti giudiziari ed extragiudiziali in materia civile o
+commerciale («notificazione o comunicazione degli atti») e che abroga il
+regolamento (CE) n. 1348/2000 del Consiglio (GU L 324, pag. 79).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di un procedimento giurisdizionale
+avviato dinanzi allo Juzgado de Primera Instancia n. 7 de Las Palmas de Gran
+Canaria (Tribunale di primo grado n. 7 de Las Palmas de Gran Canaria) da un
+agente commerciale, la Tecom Mican SL (in prosieguo: la «Tecom»), contro una
+decisione del cancelliere di tale organo giurisdizionale con cui quest’ultimo
+rifiutava di notificare alla MAN Diesel & Turbo SE (in prosieguo: la «MAN
+Diesel»), al di fuori di un procedimento giudiziario, una lettera di diffida.  
+  
+---|---  
+  
+Contesto normativo
+
+Diritto internazionale
+
+3
+
+|
+
+L’articolo 17 della Convenzione dell’Aia del 15 novembre 1965, relativa alla
+notificazione e alla comunicazione all’estero degli atti giudiziari e
+extragiudiziari in materia civile o commerciale (in prosieguo: la «Convenzione
+dell’Aia del 1965»), così prevede:
+
+«Gli atti extragiudiziari delle autorità e degli ufficiali “ministeriali” di
+uno stato contraente possono essere trasmessi per la notificazione o la
+comunicazione in un altro stato contraente nei modi e alle condizioni previste
+dalla presente convenzione».  
+  
+---|---  
+  
+4
+
+|
+
+Il manuale pratico sul funzionamento della Convenzione dell’Aia (Ufficio
+permanente della Conferenza dell’Aia di diritto internazionale privato,
+Manuale pratico sul funzionamento della Convenzione dell’Aia sulla
+notificazione degli atti, 3a edizione, Bruylant, Bruxelles, 2006), indica in
+particolare che «gli atti extragiudiziali si distinguono dagli atti giudiziari
+per il fatto di non essere direttamente connessi a un processo, e dagli atti
+strettamente privati per il fatto che richiedono il coinvolgimento di
+un’autorità o di un pubblico ufficiale».  
+  
+---|---  
+  
+Diritto dell’Unione
+
+5
+
+|
+
+Con atto del 26 maggio 1997, il Consiglio dell’Unione europea ha stabilito,
+sulla base dell’articolo K.3 del Trattato UE (gli articoli da K a K.9 del
+Trattato UE sono stati sostituiti dagli articoli da 29 UE a 42 UE), la
+convenzione relativa alla notificazione negli Stati membri dell’Unione europea
+di atti giudiziari ed extragiudiziali in materia civile o commerciale (GU C
+261, pag. 1; in prosieguo: la «Convenzione del 1997»).  
+  
+---|---  
+  
+6
+
+|
+
+Tale convenzione non definisce la nozione di atto extragiudiziale. Tuttavia,
+la relazione esplicativa concernente la convenzione stabilita in base
+all’articolo K.3 del Trattato sull’Unione europea relativa alla notificazione
+negli Stati membri dell’Unione europea di atti giudiziari ed extragiudiziali
+in materia civile e commerciale (JO 1997, C 261, pag. 26) indica, nel commento
+relativo all’articolo 1 di tale convenzione, quanto segue:
+
+«(...) Non sembra invece possibile dare una definizione precisa di “atti
+extragiudiziali”. Si può ritenere che si tratti di atti redatti da un
+ufficiale ministeriale, quali gli atti notarili o gli atti trasmessi
+dall’ufficiale giudiziario o di atti di un’autorità ufficiale dello Stato
+membro ovvero di atti la cui natura o importanza ne giustifica la trasmissione
+e la comunicazione ai destinatari secondo una procedura ufficiale».  
+  
+---|---  
+  
+7
+
+|
+
+La convenzione non è stata ratificata da tutti gli Stati membri.  
+  
+---|---  
+  
+8
+
+|
+
+Ispirato al testo di detta convenzione, il regolamento (CE) n. 1348/2000 del
+Consiglio, del 29 maggio 2000, relativo alla notificazione e alla
+comunicazione negli Stati membri degli atti giudiziari ed extragiudiziali in
+materia civile o commerciale (GU L 160, pag. 37), prevedeva, al suo articolo
+16, quanto segue:
+
+«Gli atti extragiudiziali possono essere trasmessi ai fini della notificazione
+o della comunicazione in un altro Stato membro, ai sensi delle disposizioni
+del presente regolamento».  
+  
+---|---  
+  
+9
+
+|
+
+Il successivo articolo 17, lett. b), prevedeva l’elaborazione di un repertorio
+degli atti che potevano essere notificati o comunicati ai sensi del
+regolamento medesimo.  
+  
+---|---  
+  
+10
+
+|
+
+Tale repertorio costituiva l’allegato II della decisione 2001/781/CE della
+Commissione, del 25 settembre 2001, che istituisce un manuale degli organi
+riceventi e un repertorio degli atti che possono essere notificati o
+comunicati, in applicazione del regolamento n. 1348/2000 (GU L 298, pag. 1, e
+rettifiche in GU 2002, L 31, pag. 88, e GU 2003, L 60, pag. 3), quale
+modificata dalla decisione 2007/500/CE della Commissione, del 16 luglio 2007
+(GU L 185, pag. 24). Tale allegato comprendeva le informazioni comunicate
+dagli Stati membri ai sensi dell’articolo 17, lett. b), del regolamento n.
+1348/2000. Per quanto attiene al Regno di Spagna, viene ivi indicato,
+segnatamente, che «[g]li atti extragiudiziali da notificare o comunicare sono
+i documenti non giudiziari, emananti da autorità pubbliche che secondo la
+legge spagnola hanno la competenza di effettuare notificazioni o
+comunicazioni».  
+  
+---|---  
+  
+11
+
+|
+
+Il regolamento n. 1348/2000 è stato abrogato e sostituito dal regolamento n.
+1393/2007.  
+  
+---|---  
+  
+12
+
+|
+
+Conformemente ai considerando 2 e 6 del regolamento n. 1393/2007:
+
+|
+
+«(2)
+
+|
+
+Il buon funzionamento del mercato interno presuppone che fra gli Stati membri
+sia migliorata ed accelerata la trasmissione, a fini di notificazione e di
+comunicazione, degli atti giudiziari ed extragiudiziali in materia civile o
+commerciale.  
+  
+---|---  
+  
+(...)
+
+(6)
+
+|
+
+L’efficacia e la rapidità dei procedimenti giudiziari in materia civile
+esigono che la trasmissione degli atti giudiziari ed extragiudiziali avvenga
+in modo diretto e con mezzi rapidi tra gli organi locali designati dagli Stati
+membri. (...)».  
+  
+---|---  
+  
+13
+
+|
+
+L’articolo 2, paragrafo 1, di tale regolamento stabilisce che:
+
+«Ciascuno Stato membro designa i pubblici ufficiali, le autorità o altri
+soggetti, di seguito denominati “organi mittenti”, competenti per trasmettere
+gli atti giudiziari o extragiudiziali che devono essere notificati o
+comunicati in un altro Stato membro».  
+  
+---|---  
+  
+14
+
+|
+
+Conformemente all’articolo 23, paragrafo 1, di detto regolamento, il Regno di
+Spagna ha comunicato alla Commissione europea di aver designato come «organo
+mittente» il cancelliere degli organi giurisdizionali nazionali (Secretario
+Judicial) (in prosieguo: il «cancelliere»).  
+  
+---|---  
+  
+15
+
+|
+
+Gli articoli da 12 a 15 del regolamento n. 1393/2007 prevedono gli «[a]ltri
+mezzi di trasmissione e notificazione o comunicazione di atti giudiziari».  
+  
+---|---  
+  
+16
+
+|
+
+L’articolo 16 di tale regolamento è formulato come segue:
+
+«Gli atti extragiudiziali possono essere trasmessi ai fini della notificazione
+o della comunicazione in un altro Stato membro, a norma delle disposizioni del
+presente regolamento».  
+  
+---|---  
+  
+Il diritto spagnolo
+
+17
+
+|
+
+La legge 12/1992 sul contratto di agenzia (Ley 12/1992, sobre contrato de
+agencia), del 27 maggio 1992 (BOE del 29 maggio 1992; in prosieguo: la «legge
+12/1992») ha recepito, nel diritto interno spagnolo, la direttiva 86/653/CEE
+del Consiglio, del 18 dicembre 1986, relativa al coordinamento dei diritti
+degli Stati membri concernenti gli agenti commerciali indipendenti (GU L 382,
+pag. 17).  
+  
+---|---  
+  
+18
+
+|
+
+L’articolo 15, paragrafo 2, della legge 12/1992 prevede quanto segue:
+
+«L’agente ha il diritto di esigere che gli sia fornita la documentazione
+contabile del preponente nella misura necessaria affinché possa verificare
+tutti gli elementi relativi alle provvigioni che gli spettano e
+nell’osservanza della forma prevista dal codice di commercio. Parimenti,
+l’agente ha il diritto che gli siano comunicate le informazioni a disposizione
+del preponente, necessarie per verificare l’importo di dette provvigioni».  
+  
+---|---  
+  
+19
+
+|
+
+L’articolo 28 di detta legge, intitolato «Indennità di fine rapporto», dispone
+quanto segue:
+
+«1. Quando il contratto d’agenzia, a tempo determinato o indeterminato, ha
+termine, l’agente che abbia procurato nuovi clienti al preponente o abbia
+sensibilmente sviluppato le operazioni con i clienti esistenti ha diritto a
+un’indennità se la sua attività anteriore può ancora apportare al preponente
+vantaggi sostanziali e il pagamento di tale indennità sia equo tenuto conto
+dell’esistenza di clausole di non concorrenza, delle commissioni che l’agente
+commerciale perde e delle altre circostanze del caso di specie.
+
+(...)».  
+  
+---|---  
+  
+20
+
+|
+
+Ai sensi dell’articolo 31 della legge 12/1992:
+
+«L’azione per rivendicare l’indennità di fine rapporto o chiedere il
+risarcimento dei danni subiti si prescrive [nel termine di] un anno dalla
+risoluzione del contratto».  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+21
+
+|
+
+La MAN Diesel, società di diritto tedesco, e la Tecom, società di diritto
+spagnolo, hanno stipulato, nel novembre 2009, un contratto di agenzia.  
+  
+---|---  
+  
+22
+
+|
+
+L’8 marzo 2012, la MAN Diesel ha risolto unilateralmente tale contratto, con
+effetto al 31 dicembre 2012.  
+  
+---|---  
+  
+23
+
+|
+
+A seguito di tale risoluzione, il 19 novembre 2013 la Tecom ha chiesto al
+cancelliere del Juzgado de Primera Instancia n. 7 de Las Palmas de Gran
+Canaria (Tribunale di primo grado n. 7 di Las Palmas de Gran Canaria) di
+notificare alla MAN Diesel, tramite l’autorità tedesca competente, una lettera
+di diffida con cui chiedeva, ai sensi della legge 12/1992, il pagamento di un
+importo che la Tecom riteneva dovutole a titolo di indennità di fine rapporto,
+e di somme relative a provvigioni dovute e non corrisposte, o, in subordine,
+la comunicazione di dati contabili. Detta lettera indicava, peraltro, che la
+stessa richiesta di pagamento era già stata indirizzata alla MAN Diesel con
+un’altra diffida redatta dinanzi a un notaio spagnolo al fine di conferirle
+forza di atto pubblico notarile.  
+  
+---|---  
+  
+24
+
+|
+
+In data 11 dicembre 2013 il cancelliere ha respinto la domanda presentata
+dalla Tecom, considerando che non esisteva nessun procedimento giudiziario nel
+cui ambito fosse necessario espletare l’atto di assistenza giudiziaria
+richiesto.  
+  
+---|---  
+  
+25
+
+|
+
+Il giorno successivo la Tecom ha presentato ricorso amministrativo ai fini del
+riesame di tale decisione di rigetto, sostenendo che in base alla sentenza
+Roda Golf & Beach Resort (C‑14/08, EU:C:2009:395), l’articolo 16 del
+regolamento n. 1393/2007 non richiede l’esistenza di un procedimento
+giudiziario in corso per procedere alla notifica di un atto extragiudiziale
+come quello di cui trattasi nel procedimento principale.  
+  
+---|---  
+  
+26
+
+|
+
+In ogni caso, il 13 dicembre 2013, la Tecom ha notificato alla MAN Diesel,
+tramite un notaio spagnolo, un’altra lettera di diffida, chiedendo il
+pagamento delle provvigioni dovute e non corrisposte nonché dell’indennità di
+fine rapporto, al fine di rispettare il termine di prescrizione di un anno
+dalla risoluzione del contratto previsto all’articolo 31 della legge 12/1992
+per l’esercizio dell’azione relativa a tale indennità.  
+  
+---|---  
+  
+27
+
+|
+
+Con ordinanza del 20 dicembre 2013, il cancelliere ha respinto il ricorso e ha
+confermato la decisione di diniego impugnata, precisando che non era possibile
+considerare qualsiasi atto privato come un «atto extragiudiziale» che potesse
+formare oggetto di una «comunicazione» ai sensi dell’articolo 16 del
+regolamento n. 1393/2007. In particolare, esso dichiarava che solo gli atti
+extragiudiziali che per loro natura o per il loro carattere formale producono
+effetti giuridici determinati rientrano nel campo di applicazione di tale
+regolamento.  
+  
+---|---  
+  
+28
+
+|
+
+Con lettera del 2 gennaio 2014, la Tecom ha proposto ricorso per revisione
+avverso tale ordinanza, sostenendo che anche un atto meramente privato può
+essere comunicato, quale «atto extragiudiziale», ai sensi dell’articolo 16 del
+regolamento n. 1393/2007.  
+  
+---|---  
+  
+29
+
+|
+
+Investito di tale ricorso, il Juzgado de Primera Instancia n. 7 de Las Palmas
+de Gran Canaria (Tribunale di primo grado n. 7 di Las Palmas de Gran Canaria)
+ha ricordato che, certamente, secondo la sentenza Roda Golf & Beach Resort
+(C‑14/08, EU:C:2009:395), la nozione di «atto extragiudiziale» ai sensi di
+detto articolo 16 è una nozione autonoma di diritto dell’Unione, e che la
+cooperazione giudiziaria prevista in tale articolo e dal regolamento n.
+1393/2007 «può manifestarsi tanto nell’ambito di un procedimento giudiziario
+quanto al di fuori di un procedimento siffatto». Tuttavia, esso ha anche
+precisato di non disporre di nessun elemento che gli consenta di stabilire se
+un atto non emanato o non redatto da un’autorità o da un pubblico ufficiale
+possa essere qualificato come «atto extragiudiziale».  
+  
+---|---  
+  
+30
+
+|
+
+Il Juzgado de Primera Instancia n. 7 de Las Palmas de Gran Canaria (Tribunale
+di primo grado n. 7 di Las Palmas de Gran Canaria) ha pertanto deciso di
+sospendere il procedimento e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se un atto puramente privato possa essere considerato un “atto
+extragiudiziale” ai sensi dell’articolo 16 del regolamento n. 1393/2007, a
+prescindere dalla circostanza che sia stato emanato da un’autorità o da un
+pubblico ufficiale non giudiziari.  
+  
+---|---  
+  
+2)
+
+|
+
+In caso affermativo, se qualsiasi atto privato possa essere considerato quale
+atto extragiudiziale, ovvero debba presentare caratteristiche specifiche.  
+  
+---|---  
+  
+3)
+
+|
+
+Anche qualora l’atto privato presenti tali caratteristiche, se un cittadino
+dell’Unione possa chiedere la notificazione e comunicazione per mezzo della
+procedura di cui all’articolo 16 dell’attuale regolamento n. 1393/2007, nel
+caso in cui abbia già provveduto ad effettuare tale comunicazione per mezzo di
+un’altra autorità pubblica non giudiziaria, ad esempio un notaio.  
+  
+---|---  
+  
+4)
+
+|
+
+Infine, se, ai fini dell’articolo 16 del regolamento n. 1393/2007, occorra
+tenere conto del fatto che detta cooperazione presenti un’incidenza
+transfrontaliera e risulti necessaria al buon funzionamento del mercato
+interno, e in quali circostanze si debba ritenere che la cooperazione presenti
+un’incidenza transfrontaliera e risulti necessaria al buon funzionamento del
+mercato interno».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla questioni prima e seconda
+
+31
+
+|
+
+Con le prime due questioni, che occorre esaminare congiuntamente, il giudice
+del rinvio chiede in sostanza se, ed eventualmente in quali condizioni,
+l’articolo 16 del regolamento n. 1393/2007 debba essere interpretato nel senso
+che la nozione di «atto extragiudiziale» contenuta in tale articolo include un
+atto privato che non sia stato redatto o certificato da un’autorità pubblica o
+da un pubblico ufficiale.  
+  
+---|---  
+  
+32
+
+|
+
+Per fornire una risposta utile a tali questioni, occorre anzitutto ricordare
+che, riguardo alla nozione di «atto extragiudiziale» figurante all’articolo 16
+del regolamento n. 1348/2000, regolamento abrogato e sostituito dal
+regolamento n. 1393/2007, la Corte ha già statuito che essa dev’essere
+considerata quale nozione autonoma di diritto dell’Unione (sentenza Roda Golf
+& Beach Resort, C‑14/08, EU:C:2009:395, punti 49 e 50). Orbene, come
+sottolineato anche dall’avvocato generale al paragrafo 46 delle sue
+conclusioni, non vi è motivo di non intepretare analogamente la stessa nozione
+di «atto extragiudiziale» di cui all’articolo 16 du règlement no 1393/2007.  
+  
+---|---  
+  
+33
+
+|
+
+Al riguardo, si deve altresì rilevare che, come già dichiarato dalla Corte,
+detta nozione di «atto extragiudiziale» dev’essere intesa secondo un’accezione
+ampia e non può essere pertanto circoscritta ai soli atti interventuti nel
+contesto di un procedimento giudiziario, potendo pertanto includere gli atti
+redatti dai notai (v., in tal senso, sentenza Roda Golf & Beach Resort,
+C‑14/08, EU:C:2009:395, punti da 56 a 59).  
+  
+---|---  
+  
+34
+
+|
+
+Tale constatazione non consente tuttavia, da sola, di decidere se una siffatta
+nozione comprenda solo gli atti redatti o certificati, al di fuori di un
+procedimento giudiziario, da una pubblica autorità o da un pubblico ufficiale,
+o se essa si estenda sino ad includere anche gli atti privati.  
+  
+---|---  
+  
+35
+
+|
+
+Orbene, data l’imprecisione del testo stesso dell’articolo 16 del regolamento
+n. 1393/2007, per determinare a tali fini la portata di detta nozione si deve
+tenere conto, conformemente a una giurisprudenza costante, del contesto di
+detto articolo 16 e degli obiettivi perseguiti da tale regolamento, nonché,
+eventualmente, della genesi di quest’ultimo (v. sentenze Drukarnia Multipress,
+C‑357/13, EU:C:2015:253, punto 22, e Bund für Umwelt und Naturschutz
+Deutschland, C‑461/13, EU:C:2015:433, punto 30).  
+  
+---|---  
+  
+36
+
+|
+
+Riguardo anzitutto al contesto, si deve ricordare che il regolamento n.
+1393/2007, adottato sulla base dell’articolo 61, lettera c), CE, stabilisce,
+come enunciato nel suo considerando 1, un meccanismo di notificazione e
+comunicazione intracomunitarie degli atti giudiziari ed extragiudiziali in
+materia civile o commerciale, al fine di realizzare progressivamente uno
+spazio di libertà, di sicurezza e di giustizia.  
+  
+---|---  
+  
+37
+
+|
+
+In tale prospettiva, occorre altresì rilevare che secondo il considerando 2 di
+tale regolamento, quest’ultimo ha l’obiettivo di migliorare ed accelerare la
+trasmissione fra gli Stati membri degli atti giudiziari ed extragiudiziali in
+materia civile o commerciale, al fine di rafforzare il buon funzionamento del
+mercato interno (v., in tal senso, sentenze Alder, C‑325/11, EU:C:2012:824,
+punti 29 e 34, e Roda Golf & Beach Resort, C‑14/08, EU:C:2009:395, punto 54).  
+  
+---|---  
+  
+38
+
+|
+
+Poiché tuttavia nessuna indicazione determinante deriva da tali precisazioni
+rispetto alla portata della nozione di atto extragiudiziale, è necessario
+cercare altri elementi utili anche negli antecedenti normativi del regolamento
+n. 1393/2007, e più precisamente nel contesto dello sviluppo del settore della
+cooperazione giudiziaria in materia civile, nel cui ambito tale regolamento
+s’inscrive (v., in tal senso, sentenza Weiss und Partner, C‑14/07,
+EU:C:2008:264, punto 50).  
+  
+---|---  
+  
+39
+
+|
+
+Al riguardo occorre ricordare che, con atto del 26 maggio 1997, prima ancora
+dell’entrata in vigore del regolamento n. 1348/2000, il Consiglio aveva
+adottato la convenzione del 1997.  
+  
+---|---  
+  
+40
+
+|
+
+Tale convenzione non definiva la nozione di atto extragiudiziale. Tuttavia, la
+relazione esplicativa ad essa relativa, menzionata al punto 6 della presente
+sentenza, indicava, nel commento all’articolo 1, che tale nozione poteva
+includere non solo gli atti redatti da un pubblico ufficiale, quali gli atti
+notarili, gli atti trasmessi dall’ufficiale giudiziario o gli atti di
+un’autorità ufficiale dello Stato membro, ma anche gli atti privati «la cui
+natura o importanza ne giustifica la trasmissione e la comunicazione ai
+destinatari secondo una procedura ufficiale».  
+  
+---|---  
+  
+41
+
+|
+
+Benché tale convenzione non sia stata ratificata dagli Stati membri, essa ha
+tuttavia costituito fonte d’ispirazione nell’ambito dei lavori preparatori del
+regolamento n. 1348/2000, la cui adozione mirava proprio a garantire la
+continuità dei risultati ottenuti nel contesto della conclusione di questa
+stessa convenzione.  
+  
+---|---  
+  
+42
+
+|
+
+In effetti, nemmeno il regolamento n. 1348/2000 forniva una definizione
+precisa e uniforme della nozione di atto extragiudiziale, e, ai sensi del suo
+articolo 17, lettera b), affidava semplicemente alla Commissione il compito di
+elaborare, di concerto con gli Stati membri, un repertorio degli atti che
+possono essere notificati o comunicati, le cui informazioni, comunicate dagli
+Stati membri, avevano peraltro soltanto valore indicativo (v. sentenza Roda
+Golf & Beach Resort, C‑14/08, EU:C:2009:395, punti 46 e 47).  
+  
+---|---  
+  
+43
+
+|
+
+La lettura di tale repertorio rivela comunque che gli Stati membri, sotto il
+controllo della Commissione, avevano definito in modo differente gli atti che,
+a loro avviso, potevano essere notificati o comunicati in applicazione del
+regolamento medesimo (v. sentenza Roda Golf & Beach Resort, C‑14/08,
+EU:C:2009:395, punto 47), includendo nella categoria degli atti
+extragiudiziali, come evidenziato dall’avvocato generale al paragrafo 36 delle
+sue conclusioni, non solo gli atti che promanano da un’autorità pubblica o da
+un pubblico ufficiale, bensì anche atti privati aventi una specifica
+importanza nel dato ordinamento giuridico.  
+  
+---|---  
+  
+44
+
+|
+
+Dal complesso delle precedenti considerazioni si può dedurre che,
+conformemente agli orientamenti derivanti dalla giurisprudenza citata al punto
+33 della presente sentenza e come sottolineato dall’avvocato generale al
+paragrafo 60 delle sue conclusioni, la nozione di «atto extragiudiziale» ai
+sensi dell’articolo 16 del regolamento n. 1393/2007, dev’essere interpretata
+come comprendente sia i documenti redatti o certificati da un’autorità
+pubblica o da un pubblico ufficiale, sia gli atti privati la cui formale
+trasmissione al loro destinatario residente all’estero è necessaria per
+l’esercizio, la prova o la tutela di un diritto o di una pretesa giuridica in
+materia civile o commerciale.  
+  
+---|---  
+  
+45
+
+|
+
+Infatti, la trasmissione transfrontaliera di tali atti, per mezzo del
+meccanismo di notificazione e comunicazione introdotto dal regolamento n.
+1393/2007, contribuisce anch’essa a rafforzare, nel settore della cooperazione
+in materia civile o commerciale, il buon funzionamento del mercato interno e
+concorre alla progressiva realizzazione di uno spazio di libertà, di sicurezza
+e di giustizia dell’Unione europea.  
+  
+---|---  
+  
+46
+
+|
+
+Tenuto conto di quanto precede, si deve rispondere alle prime due questioni
+che l’articolo 16 del regolamento n. 1393/2007 dev’essere interpretato nel
+senso che la nozione di «atto extragiudiziale» in esso contenuta comprende non
+solo gli atti redatti o certificati da un’autorità pubblica o da un pubblico
+ufficiale, ma anche gli atti privati la cui formale trasmissione al loro
+destinatario residente all’estero è necessaria per l’esercizio, la prova o la
+tutela di un diritto o di una pretesa giuridica in materia civile o
+commerciale.  
+  
+---|---  
+  
+Sulla terza questione
+
+47
+
+|
+
+Con la sua terza questione, il giudice del rinvio chiede in sostanza se il
+regolamento n. 1393/2007 debba essere interpretato nel senso che la
+notificazione o la comunicazione di un atto extragiudiziale conformemente alle
+modalità stabilite da tale regolamento è ammissibile anche quando una prima
+notifica o una prima comunicazione di tale atto sia già avvenuta per altra
+via.  
+  
+---|---  
+  
+48
+
+|
+
+Occorre preliminarmente rilevare che né dal fascicolo, né dalle precisazioni
+fornite dalle parti in udienza può evincersi se la prima notificazione o la
+prima comunicazione cui si riferisce la questione sia stata effettuata
+seguendo una via di trasmissione non prevista dal regolamento n. 1393/2007 o
+uno degli altri mezzi di trasmissione in esso stabiliti.  
+  
+---|---  
+  
+49
+
+|
+
+Pertanto, al fine di fornire una risposta utile al giudice del rinvio, occorre
+in primo luogo esaminare il caso di specie in cui un ricorrente abbia eseguito
+la prima notificazione o la prima comunicazione secondo modalità non previste
+dal regolamento n. 1393/2007.  
+  
+---|---  
+  
+50
+
+|
+
+Al riguardo è sufficiente ricordare che il testo dell’articolo 1, paragrafo 1,
+di tale regolamento, precisa che quest’ultimo si applica, in materia civile e
+commerciale, «quando un atto (...) extragiudiziale deve essere trasmesso in un
+altro Stato membro per essere notificato o comunicato al suo destinatario»
+(sentenza Alder, C‑325/11, EU:C:2012:824, punto 20).  
+  
+---|---  
+  
+51
+
+|
+
+In tale contesto, come la Corte ha già dichiarato, detto regolamento prevede
+soltanto due ipotesi in cui la notificazione e la comunicazione di un atto tra
+gli Stati membri sono escluse dal suo ambito di applicazione e non possono
+essere realizzate secondo le modalità stabilite dal medesimo, ovvero, da un
+lato, qualora il domicilio o la dimora abituale del destinatario non siano
+noti, e, dall’altro, qualora quest’ultimo abbia nominato un rappresentante
+autorizzato nello Stato in cui si svolge il procedimento giudiziario (v.
+sentenza Alder, C‑325/11, EU:C:2012:824, punto 24).  
+  
+---|---  
+  
+52
+
+|
+
+È pertanto assodato, come sottolinea l’avvocato generale al paragrafo 75 delle
+sue conclusioni, che il regolamento n. 1393/2007 non prevede nessun’altra
+eccezione all’utilizzazione dei mezzi previsti per la trasmissione tra Stati
+membri di un atto extragiudiziale nell’ipotesi in cui un ricorrente avesse già
+precedentemente notificato o comunicato questo stesso atto seguendo una
+modalità di trasmissione diversa da quelle previste da tale regolamento.  
+  
+---|---  
+  
+53
+
+|
+
+Ne consegue che in tale ipotesi, la notificazione o la comunicazione
+transfrontaliera di un atto extragiudiziale secondo le modalità di
+trasmissione stabilite dal regolamento n. 1393/2007 resta ammissibile.  
+  
+---|---  
+  
+54
+
+|
+
+Con riferimento, in secondo luogo, alle conseguenze connesse alla fattispecie
+in cui un ricorrente avrebbe effettuato una prima notificazione o una prima
+comunicazione conformemente alle modalità stabilite dal regolamento n.
+1393/2007, si deve rilevare che quest’ultimo prevede, in modo esaustivo,
+diversi mezzi di trasmissione (v. sentenza Alder, C‑325/11, EU:C:2012:824,
+punto 32) per la notificazione o la comunicazione degli atti extragiudiziali
+in forza del suo articolo 16.  
+  
+---|---  
+  
+55
+
+|
+
+In particolare, l’articolo 2 di detto regolamento dispone che la trasmissione
+degli atti sia effettuata, in linea di principio, tra gli organi mittenti e
+gli organi riceventi designati dagli Stati membri (sentenza Alder, C‑325/11,
+EU:C:2012:824, punto 30).  
+  
+---|---  
+  
+56
+
+|
+
+Inoltre tale regolamento prevede, alla sua sezione 2, altri mezzi di
+trasmissione quali la trasmissione per via consolare o diplomatica nonché la
+notificazione o comunicazione tramite agenti diplomatici o consolari, tramite
+i servizi postali o ancora, su domanda di chiunque vi abbia interesse,
+direttamente tramite gli ufficiali giudiziari, funzionari o altre persone
+competenti dello Stato richiesto (sentenza Alder, C‑325/11, EU:C:2012:824,
+punto 31).  
+  
+---|---  
+  
+57
+
+|
+
+In tale contesto occorre comunque precisare, da un lato, che il regolamento n.
+1393/2007 non ha stabilito alcuna gerarchia tra i diversi mezzi di
+trasmissione da esso previsti (sentenze Alder, C‑325/11, EU:C:2012:824, punto
+31, e Plumex, C‑473/04, EU:C:2006:96, punto 20).  
+  
+---|---  
+  
+58
+
+|
+
+Dall’altro, si deve rilevare che, come sottolineato dall’avvocato generale ai
+paragrafi 78 e 79 delle sue conclusioni, al fine di garantire un rapido
+compimento della trasmissione transfrontaliera degli atti interessati, tale
+regolamento non attribuisce né agli organi mittenti né a quelli riceventi, né
+agli agenti diplomatici o consolari, né agli ufficiali giudiziari, ai
+funzionari o alle altre persone competenti dello Stato richiesto il compito di
+una verifica di opportunità o un controllo della pertinenza dei motivi per cui
+un ricorrente procede alla notificazione o alla comunicazione di un atto
+mediante i mezzi di trasmissione stabiliti.  
+  
+---|---  
+  
+59
+
+|
+
+Da tali considerazioni discende che, in materia di notificazione o
+comunicazione di un atto extragiudiziale, al ricorrente è consentito non solo
+scegliere l’uno o l’altro mezzo di trasmissione stabilito dal regolamento n.
+1393/2007, ma anche ricorrere simultaneamente o in successione, a due o a più
+mezzi che, tenuto conto delle circostanze del caso di specie, egli ritenga
+essere i più opportuni o appropriati (v., in tal senso, sentenza Plumex,
+C‑473/04, EU:C:2006:96, punti 21, 22 e 31).  
+  
+---|---  
+  
+60
+
+|
+
+Di conseguenza, la notificazione o la comunicazione di un atto extragiudiziale
+mediante uno dei mezzi stabiliti dal regolamento n. 1393/2007 rimane valida,
+anche se una prima trasmissione di tale atto sia già stata effettuata con un
+mezzo diverso da quelli ivi previsti.  
+  
+---|---  
+  
+61
+
+|
+
+Tenuto conto di tutte le considerazioni che precedono, si deve rispondere alla
+terza questione che il regolamento n. 1393/2007 dev’essere interpretato nel
+senso che la notificazione o la comunicazione di un atto extragiudiziale
+conformemente alle modalità stabilite da tale regolamento è ammissibile anche
+quando il ricorrente abbia già effettuato una prima notifica o una prima
+comunicazione di tale atto seguendo una via di trasmissione non prevista da
+detto regolamento o utilizzando uno degli altri mezzi di trasmissione in esso
+stabiliti.  
+  
+---|---  
+  
+Sulla quarta questione
+
+62
+
+|
+
+Con la sua quarta questione, il giudice del rinvio chiede, in sostanza, se
+l’articolo 16 del regolamento n. 1393/2007 debba essere interpretato nel senso
+che, ai fini dell’applicazione di tale articolo occorre verificare, caso per
+caso, che la notificazione o la comunicazione di un atto extragiudiziale
+presenti un’incidenza transfrontaliera e risulti necessaria al buon
+funzionamento del mercato interno.  
+  
+---|---  
+  
+63
+
+|
+
+Al riguardo, rispetto anzitutto all’incidenza transfrontaliera, è sufficiente
+ricordare che il regolamento n. 1393/2007 costituisce una misura che, ai sensi
+degli articoli 61, lettera c), CE e 65 CE, rientra nel settore della
+cooperazione giudiziaria in materia civile, che ha precisamente detta
+incidenza (v., in tal senso, sentenza Roda Golf & Beach Resort, C‑14/08,
+EU:C:2009:395, punto 53).  
+  
+---|---  
+  
+64
+
+|
+
+Infatti, l’articolo 1, paragrafo 1, di detto regolamento prevede espressamente
+che, fatti salvi i settori esclusi, esso si applica, in materia civile e
+commerciale, quando un atto giudiziario o extragiudiziale deve essere
+trasmesso «in un altro Stato membro» per essere notificato o comunicato al suo
+destinatario.  
+  
+---|---  
+  
+65
+
+|
+
+Pertanto, poiché l’incidenza transfrontaliera della trasmissione di un atto
+giudiziario o, come nel caso di specie, extragiudiziale, costituisce una
+condizione oggettiva di applicabilità del regolamento n. 1393/2007, essa
+dev’essere considerata sempre necessariamente soddisfatta quando la
+notificazione o la comunicazione di detto atto rientri nell’ambito di
+applicazione di tale regolamento e dev’essere quindi eseguita conformemente al
+sistema stabilito da quest’ultimo.  
+  
+---|---  
+  
+66
+
+|
+
+Con riferimento, in secondo luogo, al buon funzionamento del mercato interno,
+è assodato che esso costituisce, come risulta dal considerando 2 del
+regolamento n. 1393/2007, la finalità principale del meccanismo di
+notificazione o comunicazione previsto da quest’ultimo (v., in tal senso,
+sentenza Roda Golf & Beach Resort, C‑14/08, EU:C:2009:395, punto 55).  
+  
+---|---  
+  
+67
+
+|
+
+In tale contesto, dal momento che tutti i mezzi di trasmissione degli atti
+giudiziari ed extragiudiziari previsti da tale regolamento sono stati
+espressamente stabiliti per raggiungere detto obiettivo, è legittimo
+considerare che, una volta soddisfatte le condizioni di applicazione di tali
+mezzi, la notificazione o la comunicazione di tali atti contribuisce
+necessariamente al buon funzionamento del mercato interno.  
+  
+---|---  
+  
+68
+
+|
+
+Di conseguenza, come anche sottolineato dall’avvocato generale al paragrafo 71
+delle sue conclusioni, il buon funzionamento del mercato interno non può
+essere considerato come un elemento da esaminare prima di ogni notificazione o
+comunicazione effettuate secondo le modalità stabilite dal regolamento n.
+1393/2007, in particolare al suo articolo 16.  
+  
+---|---  
+  
+69
+
+|
+
+Tenuto conto di tutte le suddette considerazioni, si deve rispondere alla
+quarta questione che l’articolo 16 del regolamento n. 1393/2007 dev’essere
+interpretato nel senso che, quando le condizioni di applicazione di tale
+articolo sono soddisfatte, non occorre verificare caso per caso che la
+notificazione o la comunicazione di un atto extragiudiziale abbia un’incidenza
+transfrontaliera e sia necessaria al buon funzionamento del mercato interno.  
+  
+---|---  
+  
+Sulle spese
+
+70
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 16 del regolamento (CE) n. 1393/2007 del Parlamento europeo e del
+Consiglio, del 13 novembre 2007, relativo alla notificazione e alla
+comunicazione negli Stati membri degli atti giudiziari ed extragiudiziali in
+materia civile o commerciale («notificazione o comunicazione degli atti») e
+che abroga il regolamento (CE) n. 1348/2000 del Consiglio, dev’essere
+interpretato nel senso che la nozione di «atto extragiudiziale» in esso
+contenuta comprende non solo gli atti redatti o certificati da un’autorità
+pubblica o da un pubblico ufficiale, ma anche gli atti privati la cui formale
+trasmissione al loro destinatario residente all’estero è necessaria per
+l’esercizio, la prova o la tutela di un diritto o di una pretesa giuridica in
+materia civile o commerciale.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+Il regolamento n. 1393/2007 dev’essere interpretato nel senso che la
+notificazione o la comunicazione di un atto extragiudiziale conformemente alle
+modalità stabilite da tale regolamento è ammissibile anche quando il
+ricorrente abbia già effettuato una prima notifica o una prima comunicazione
+di tale atto seguendo una via di trasmissione non prevista da detto
+regolamento o utilizzando uno degli altri mezzi di trasmissione in esso
+stabiliti.  
+  
+---|---  
+|  |
+
+3)
+
+|
+
+L’articolo 16 del regolamento n. 1393/2007 dev’essere interpretato nel senso
+che, quando le condizioni di applicazione di tale articolo sono soddisfatte,
+non occorre verificare caso per caso che la notificazione o la comunicazione
+di un atto extragiudiziale abbia un’incidenza transfrontaliera e sia
+necessaria al buon funzionamento del mercato interno.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: lo spagnolo.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

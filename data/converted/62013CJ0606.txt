@@ -1,0 +1,793 @@
+
+
+SENTENZA DELLA CORTE (Settima Sezione)
+
+1o ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Direttiva 2003/96/CE — Articoli 4 e 21 — Direttiva
+2008/118/CE — Direttiva 92/12/CEE — Articolo 3, paragrafo 1 — Ambito di
+applicazione — Disciplina di uno Stato membro — Riscossione di una tassa sul
+rendimento termico dei reattori nucleari»
+
+Nella causa C‑606/13,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Kammarrätten i Sundsvall (Svezia), con
+decisione del 29 ottobre 2013, pervenuta in cancelleria il 25 novembre 2013,
+nel procedimento
+
+OKG AB
+
+contro
+
+Skatteverket,
+
+LA CORTE (Settima Sezione),
+
+composta da J.‑C. Bonichot, presidente di sezione, A. Arabadjiev e J.L. da
+Cruz Vilaça (relatore), giudici,
+
+avvocato generale: M. Szpunar
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la OKG AB, da M. Nilsson e M. Palm, advokater;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo tedesco, da T. Henze e K. Petersen, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo svedese, da A. Falk, C. Meyer-Seitz, U. Persson, E. Karlsson,
+L. Swedenborg, C. Hagerman e K. Sparrman, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da A. Cordewener e J. Enegren, in qualità di
+agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione, da un lato,
+degli articoli 4, paragrafo 2, e 21, paragrafo 5, della direttiva 2003/96/CE
+del Consiglio, del 27 ottobre 2003, che ristruttura il quadro comunitario per
+la tassazione dei prodotti energetici e dell’elettricità (GU L 283, pag. 51),
+e, dall’altro, dell’articolo 1, paragrafo 1, della direttiva 2008/118/CE del
+Consiglio, del 16 ottobre 2008, relativa al regime generale delle accise e che
+abroga la direttiva 92/12/CEE (GU 2009, L 9, pag. 12).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nel contesto di una controversia pendente tra
+la OKG AB (in prosieguo: la «OKG») e lo Skatteverket (amministrazione
+tributaria) in merito alla decisione di quest’ultimo di riscuotere dalla OKG
+la tassa sul rendimento termico dei reattori nucleari.  
+  
+---|---  
+  
+Contesto normativo
+
+Diritto dell’Unione
+
+3
+
+|
+
+L’articolo 1 della direttiva 2003/96 è formulato nel seguente modo:
+
+«Gli Stati membri tassano i prodotti energetici e l’elettricità conformemente
+alla presente direttiva».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 2 della direttiva in parola recita:
+
+«1. Ai fini della presente direttiva s’intendono per “prodotti energetici” i
+prodotti:
+
+|
+
+a)
+
+|
+
+di cui ai codici NC da 1507 a 1518, se destinati ad essere utilizzati come
+combustibile per riscaldamento o come carburante per motori;  
+  
+---|---  
+  
+(...)
+
+h)
+
+|
+
+di cui al codice NC 3824 90 99 qualora siano destinati ad essere utilizzati
+come combustibile per riscaldamento o come carburante per motori.  
+  
+---|---  
+  
+2\. La presente direttiva si applica altresì all’elettricità di cui al codice
+NC 2716.
+
+3\. Qualora siano destinati ad essere utilizzati, siano messi in vendita o
+siano utilizzati come carburante per motori o combustibile per riscaldamento,
+i prodotti energetici diversi da quelli per i quali nella presente direttiva è
+specificato un livello di tassazione, sono tassati, in relazione al loro uso,
+all’aliquota applicabile al combustibile per riscaldamento o carburante per
+motori equivalente.
+
+(...)
+
+4\. La presente direttiva non si applica:
+
+(...)
+
+b)
+
+|
+
+ai seguenti usi dei prodotti energetici e dell’elettricità:
+
+|
+
+—
+
+|
+
+prodotti energetici utilizzati per fini diversi dall’utilizzazione come
+carburante per motori o come combustibile per riscaldamento,  
+  
+---|---  
+  
+(...)».  
+  
+5
+
+|
+
+Ai sensi dell’articolo 3 di tale direttiva:
+
+«I riferimenti agli “oli minerali” e alle “accise” applicate agli oli minerali
+di cui alla direttiva 92/12/CEE [del Consiglio, del 25 febbraio 1992, relativa
+al regime generale, alla detenzione, alla circolazione ed ai controlli dei
+prodotti soggetti ad accisa (GU L 76, pag. 1)], s’intendono come riferimenti
+riguardanti tutti i prodotti energetici, l’elettricità e tutte le imposte
+indirette nazionali di cui, rispettivamente, all’articolo 2 e all’articolo 4,
+paragrafo 2, della presente direttiva».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 4, paragrafo 2, della medesima direttiva così dispone:
+
+«Ai fini della presente direttiva si intende per “livello di tassazione”
+l’onere fiscale complessivo derivante dal cumulo di tutte le imposte indirette
+(eccetto l’IVA), calcolate direttamente o indirettamente sulla quantità di
+prodotti energetici e di elettricità, all’atto dell’immissione in consumo».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 21, paragrafo 5, della direttiva 2003/96 così prevede:
+
+«Ai fini dell’applicazione degli articoli 5 e 6 della direttiva 92/12/CEE,
+l’elettricità e il gas naturale sono soggetti ad imposizione e diventano
+imponibili al momento della fornitura da parte del distributore o del
+ridistributore (...)».  
+  
+---|---  
+  
+8
+
+|
+
+Ai sensi dell’articolo 1 della direttiva 92/12:
+
+«1. La presente direttiva stabilisce il regime dei prodotti sottoposti alle
+accise e ad altre imposte indirette gravanti, direttamente o indirettamente,
+sul consumo di questi prodotti, ad esclusione dell’imposta sul valore aggiunto
+e delle imposte stabilite dalla Comunità.
+
+(...)».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 3, paragrafo 1, della citata direttiva stabilisce quanto segue:
+
+«La presente direttiva è applicabile, a livello comunitario, ai prodotti
+seguenti, come definiti nelle direttive ad essi relative:
+
+|
+
+—
+
+|
+
+gli oli minerali,  
+  
+---|---  
+  
+—
+
+|
+
+l’alcole e le bevande alcoliche,  
+  
+---|---  
+  
+—
+
+|
+
+i tabacchi lavorati».  
+  
+---|---  
+  
+10
+
+|
+
+L’articolo 1, paragrafo 1, della direttiva 2008/118 così dispone:
+
+«La presente direttiva stabilisce il regime generale relativo alle accise
+gravanti, direttamente o indirettamente, sul consumo dei seguenti prodotti
+(“prodotti sottoposti ad accisa”):
+
+|
+
+a)
+
+|
+
+prodotti energetici ed elettricità di cui alla direttiva 2003/96/CE;  
+  
+---|---  
+  
+(...)».  
+  
+11
+
+|
+
+Ai sensi dell’articolo 47 di tale direttiva:
+
+«1. La direttiva 92/12/CEE è abrogata con efficacia al 1o aprile 2010.
+
+(...)
+
+2\. I riferimenti alla direttiva abrogata si intendono fatti alla presente
+direttiva».  
+  
+---|---  
+  
+Diritto svedese
+
+12
+
+|
+
+L’articolo 1 della legge (2000:466), relativa alla tassa sul rendimento
+termico dei reattori nucleari [lagen (2000:466) om skatt på termisk effekt i
+kärnkraftsreaktorer], così prevede:
+
+«È dovuta allo Stato, in conformità alle disposizioni della presente legge,
+una tassa sul rendimento termico di ogni reattore nucleare. Per “rendimento
+termico” si intende, ai sensi della presente legge, la capacità del reattore
+nucleare di produrre calore».  
+  
+---|---  
+  
+13
+
+|
+
+L’articolo 2 di detta legge precisa che «la tassa è dovuta per ogni mese
+civile per il quale sussiste l’autorizzazione a possedere e a gestire un
+reattore nucleare. Qualora l’autorizzazione alla gestione sia scaduta o sia
+stata revocata prima della fine del mese civile, l’obbligo di pagamento della
+tassa ha termine a tale scadenza».  
+  
+---|---  
+  
+14
+
+|
+
+A termini dell’articolo 3 di detta legge:
+
+«È debitore d’imposta il titolare dell’autorizzazione a possedere e a gestire
+un reattore nucleare».  
+  
+---|---  
+  
+15
+
+|
+
+L’articolo 5 della medesima legge prevede quanto segue:
+
+«Qualora un reattore nucleare sia rimasto disattivato per un periodo
+ininterrotto di almeno 90 giorni solari, è ammessa una detrazione di 415
+[corone svedesi (SEK) (circa EUR 43,54)] per megawatt di rendimento termico
+per ogni giorno solare eccedente il 90°».  
+  
+---|---  
+  
+Fatti della controversia principale e questioni pregiudiziali
+
+16
+
+|
+
+La OKG gestisce una centrale nucleare. Essa ha pagato, per gli esercizi di
+aprile, maggio e giugno 2009, la tassa sul rendimento termico dei reattori
+nucleari.  
+  
+---|---  
+  
+17
+
+|
+
+Tale società ha successivamente proposto ricorso avverso la decisione di
+tassazione che ne costituiva la premessa e ha chiesto il rimborso della tassa
+all’amministrazione. A sostegno del suo ricorso, in particolare, essa ha
+affermato che detta tassa costituiva, in pratica, un diritto d’accisa sulla
+produzione di elettricità che era in contrasto con gli articoli 4, paragrafo
+2, e 21, paragrafo 5, della direttiva 2003/96.  
+  
+---|---  
+  
+18
+
+|
+
+Poiché l’amministrazione tributaria ha confermato la sua decisione iniziale,
+la OKG ha proposto ricorso dinanzi al förvaltningsrätten i Falun (Tribunale
+amministrativo di Falun). Quest’ultimo ha respinto la sua domanda, in
+considerazione del fatto che la tasssa in parola non ricadeva nell’ambito
+d’applicazione né della direttiva 2003/96 né della direttiva 2008/118.  
+  
+---|---  
+  
+19
+
+|
+
+Contro tale sentenza la OKG ha interposto appello dinanzi al giudice del
+rinvio. Detta società sostiene che la tassa sul rendimento termico dei
+reattori nucleari costituisce, in pratica, un diritto d’accisa sulla
+produzione di elettricità alla luce del collegamento diretto tra il rendimento
+termico della centrale e l’elettricità prodotta da quest’ultima. L’esistenza
+di siffatto collegamento sarebbe a maggior ragione dimostrata in quanto, se la
+produzione di elettricità fosse interrotta per un periodo ininterrotto
+superiore ai 90 giorni, non verrebbe riscossa nessuna tassa.  
+  
+---|---  
+  
+20
+
+|
+
+La OKG considera, infine, che la situazione è analoga a quella di cui
+trattavasi nella causa sfociata nella sentenza Braathens (C‑346/97,
+EU:C:1999:291), in cui la Corte ha concluso che una tassa, derivante dal
+calcolo forfettario in funzione del quantitativo stimato di idrocarburi emesso
+da un aereo, gravava, in effetti, sul consumo di carburante degli aerei e che,
+quindi, la direttiva 92/81/CEE del Consiglio, del 19 ottobre 1992, relativa
+all’armonizzazione delle strutture delle accise sugli oli minerali (GU L 316,
+pag. 12), era applicabile e la tassa di cui trattavasi era incompatibile con
+tale direttiva.  
+  
+---|---  
+  
+21
+
+|
+
+L’amministrazione tributaria considera, da parte sua, che la tassa di cui
+trattasi costituisce un’imposta fissa fondata sulla capacità di produzione
+teorica di calore massima autorizzata di un reattore nucleare e non una tassa
+variabile in funzione del quantitativo effettivo di elettricità prodotto. Essa
+insiste sul fatto che detta tassa viene riscossa anche se la produzione è
+sospesa. Infatti, soltanto in caso di disattivazione straordinaria, per una
+durata superiore ai 90 giorni ininterrotti, tale imposta potrebbe non essere
+dovuta.  
+  
+---|---  
+  
+22
+
+|
+
+Alla luce di ciò, il Kammarrätten i Sundsvall (Corte amministrativa d’appello
+di Sundsvall) ha deciso di sospendere il procedimento e di sottoporre alla
+Corte le seguenti questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Considerando che, ai sensi dell’articolo 4, paragrafo 2, della direttiva
+2003/96, per “livello di tassazione” si intende l’onere fiscale complessivo
+derivante dal cumulo di tutte le imposte indirette (eccetto [l’imposta sul
+valore aggiunto]), calcolate direttamente o indirettamente sulla quantità di
+elettricità, all’atto dell’immissione in consumo, e tenuto conto che
+l’articolo 21, paragrafo 5, della medesima direttiva dispone che l’elettricità
+è soggetta ad imposizione e diventa imponibile al momento della fornitura da
+parte del distributore o del ridistributore, se detti articoli ostino
+all’applicazione di una tassa sul rendimento termico dei reattori nucleari.  
+  
+---|---  
+  
+2)
+
+|
+
+Se una tassa sul rendimento termico costituisca un diritto d’accisa gravante,
+direttamente o indirettamente, sul consumo dei prodotti (soggetti ad accisa)
+di cui all’articolo 1, paragrafo 1, della direttiva 2008/118».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla prima questione
+
+23
+
+|
+
+Con la sua prima questione, il giudice del rinvio chiede, in sostanza, se gli
+articoli 4, paragrafo 2, e 21, paragrafo 5, della direttiva 2003/96 debbano
+essere interpretati nel senso che ostano ad una normativa nazionale, come
+quella in discussione nel procedimento principale, che preveda la riscossione
+di una tassa gravante sul rendimento termico dei reattori nucleari.  
+  
+---|---  
+  
+24
+
+|
+
+Va osservato, al riguardo, che la prima questione, come formulata dal giudice
+del rinvio, è basata sulla premessa secondo cui la direttiva 2003/96 è
+applicabile ratione materiae alla controversia principale. Ai sensi
+dell’articolo 1 di tale direttiva, il suo ambito d’applicazione è circoscritto
+alla tassazione dei prodotti energetici e dell’elettricità, come definiti
+rispettivamente all’articolo 2, paragrafi 1 e 2, di detta direttiva.  
+  
+---|---  
+  
+25
+
+|
+
+In tal contesto, occorre verificare, previamente, se la nozione di «rendimento
+termico di un reattore nucleare», inteso come capacità di tale reattore a
+produrre calore, rientri nell’ambito d’applicazione della direttiva 2003/96.  
+  
+---|---  
+  
+26
+
+|
+
+In primo luogo, va ricordato che l’articolo 2, paragrafo 1, di tale direttiva
+definisce la nozione di «prodotti energetici», utilizzata ai fini di tale
+direttiva, redigendo esaustivamente l’elenco dei prodotti che ricadono nella
+definizione di tale nozione con riferimento ai codici della nomenclatura
+combinata (sentenza Kernkraftwerke Lippe‑Ems, C‑5/14, EU:C:2015:354, punto
+47).  
+  
+---|---  
+  
+27
+
+|
+
+Poiché il rendimento termico di un reattore nucleare non compare in tale
+elenco, esso non può essere considerato come prodotto energetico ai sensi
+della direttiva 2003/96.  
+  
+---|---  
+  
+28
+
+|
+
+Detta interpretazione è corroborata dalle disposizioni di cui all’articolo 2,
+paragrafi 1, 3 e 4, lettera b), di detta direttiva, dalle quali risulta che la
+nozione di «prodotto energetico» designa esclusivamente i prodotti destinati
+ad essere utilizzati come carburanti o combustibili. Ciò non vale per il
+rendimento termico di un reattore nucleare, in quanto esso designa la capacità
+del reattore a produrre calore.  
+  
+---|---  
+  
+29
+
+|
+
+Di conseguenza, il rendimento termico di un reattore nucleare non rientra
+nella nozione di «prodotto energetico» ai sensi della direttiva 2003/96.  
+  
+---|---  
+  
+30
+
+|
+
+In secondo luogo, si deve osservare che l’articolo 2, paragrafo 2, della
+directive 2003/96 prevede che l’elettricità vada definita in conformità al
+codice NC 2716.  
+  
+---|---  
+  
+31
+
+|
+
+Al riguardo, e tenuto conto della nozione di «tassa sul rendimento termico di
+un reattore nucleare», come definita al punto 28 della presente sentenza, va
+rilevato che la tassa di cui trattasi nel procedimento principale consiste nel
+prelievo di un importo mensile fisso calcolato in funzione di un valore
+teorico, consistente nel numero di megawatt di rendimento termico massimo
+fissato per ciascun reattore nucleare con l’autorizzazione, rilasciata
+dall’amministrazione nazionale, a possedere e gestire tale reattore nucleare.
+Inoltre, il titolare dell’autorizzazione a possedere e a gestire un reattore
+nucleare è debitore della tassa sul rendimento termico, anche in assenza della
+gestione di tale reattore, eccezion fatta per anomali periodi di sospensione
+che eccedano 90 giorni consecutivi.  
+  
+---|---  
+  
+32
+
+|
+
+Non esiste pertanto alcun collegamento tra, da un lato, il fatto generatore
+della tassa di cui trattasi nel procedimento principale, cioè la capacità di
+produzione teorica del reattore nucleare, e, dall’altro, l’effettiva
+produzione di elettricità da parte di tale reattore.  
+  
+---|---  
+  
+33
+
+|
+
+Il rendimento termico di un reattore nucleare come inteso dalla normativa
+nazionale di cui trattasi nel procedimento principale non ricade quindi nella
+nozione di «elettricità», ai sensi della direttiva 2003/96.  
+  
+---|---  
+  
+34
+
+|
+
+In terzo luogo, va constatato che, alla luce delle considerazioni che figurano
+nei punti 31 e 32 della presente sentenza, una tassa come quella di cui
+trattasi nel procedimento principale non può considerarsi calcolata
+direttamente o indirettamente sul quantitativo di energia effettivamente
+prodotto «all’atto dell’immissione in consumo», ai sensi dell’articolo 4,
+paragrafo 2, della direttiva 2003/96.  
+  
+---|---  
+  
+35
+
+|
+
+Del pari, non si può ritenere che esista un collegamento diretto e
+indissociabile tra il fatto generatore dell’imposta e il consumo
+dell’elettricità prodotta da un determinato reattore nucleare ai sensi della
+sentenza Braathens (C‑346/97, EU:C:1999:291, punto 23).  
+  
+---|---  
+  
+36
+
+|
+
+Risulta dall’insieme delle considerazioni che precedono che una tassa come
+quella di cui trattasi nel procedimento principale, gravante sul rendimento
+termico di un reattore nucleare, non rientra nell’ambito d’applicazione di
+tale direttiva.  
+  
+---|---  
+  
+37
+
+|
+
+Pertanto, occorre rispondere alla prima questione dichiarando che gli articoli
+4, paragrafo 2, e 21, paragrafo 5, della direttiva 2003/96 devono essere
+interpretati nel senso che essi non ostano ad una normativa nazionale, come
+quella di cui al procedimento principale, che preveda la riscossione di una
+tassa gravante sul rendimento termico dei reattori nucleari, in quanto tale
+tassa non rientra nell’ambito d’applicazione di siffatta direttiva.  
+  
+---|---  
+  
+Sulla seconda questione
+
+38
+
+|
+
+Va preliminarmente osservato che, in forza dell’articolo 47 della direttiva
+2008/118, la direttiva 92/12 è abrogata con effetto dal 1o aprile 2010. Poiché
+i periodi di tassazione di cui trattasi nel procedimento principale sono
+anteriori a tale data, occorre esaminare la seconda questione alla luce delle
+disposizioni della direttiva 92/12.  
+  
+---|---  
+  
+39
+
+|
+
+Conseguentemente, la seconda questione va intesa nel senso che il giudice del
+rinvio chiede, sostanzialmente, se la direttiva 92/12 debba essere
+interpretata nel senso che una tassa sul rendimento termico di un reattore
+nucleare costituisce un «diritto di accisa» ai sensi di tale direttiva.  
+  
+---|---  
+  
+40
+
+|
+
+A tenore dell’ articolo 3, paragrafo 1, di tale direttiva, quest’ultima è
+applicabile agli oli minerali, all’alcole e alle bevande alcoliche, nonché ai
+tabacchi lavorati, come definiti nelle direttive ad essi relative.  
+  
+---|---  
+  
+41
+
+|
+
+Dall’articolo 3 della direttiva 2003/96 deriva che, oltre alla tassazione di
+tali prodotti, la direttiva 92/12 disciplina anche l’imposizione dei prodotti
+considerati agli articoli 2 e 4, paragrafo 2, della direttiva 2003/96, tra
+cui, in particolare, il consumo di elettricità.  
+  
+---|---  
+  
+42
+
+|
+
+Al riguardo, la Corte ha già constatato, al punto 36 della presente sentenza,
+che una tassa come quella di cui trattasi nel procedimento principale non
+rientra nell’ambito d’applicazione della direttiva 2003/96. Pertanto, siffatta
+imposta non rientra neppure nell’ambito d’applicazione della direttiva 92/12.  
+  
+---|---  
+  
+43
+
+|
+
+Occorre, pertanto, rispondere alla seconda questione dichiarando che la
+direttiva 92/12 deve essere interpretata nel senso che una tassa gravante sul
+rendimento termico di un reattore nucleare non costituisce «un diritto di
+accisa» ai sensi di tale direttiva.  
+  
+---|---  
+  
+Sulle spese
+
+44
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Settima Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+Gli articoli 4, paragrafo 2, e 21, paragrafo 5, della direttiva 2003/96/CE del
+Consiglio, del 27 ottobre 2003, che ristruttura il quadro comunitario per la
+tassazione dei prodotti energetici e dell’elettricità, devono essere
+interpretati nel senso che essi non ostano ad una normativa nazionale, come
+quella di cui al procedimento principale, che preveda la riscossione di una
+tassa gravante sul rendimento termico dei reattori nucleari, in quanto tale
+tassa non rientra nell’ambito d’applicazione di siffatta direttiva.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+La direttiva 92/12/CEE del Consiglio, del 25 febbraio 1992, relativa al regime
+generale, alla detenzione, alla circolazione ed ai controlli dei prodotti
+soggetti ad accisa, deve essere interpretata nel senso che una tassa gravante
+sul rendimento termico di un reattore nucleare non costituisce un diritto di
+accisa ai sensi di tale direttiva.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: lo svedese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

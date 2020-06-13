@@ -1,0 +1,818 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+29 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Direttiva 93/13/CEE — Contratto di mutuo ipotecario —
+Clausole abusive — Procedimento di esecuzione — Incidente di opposizione —
+Termini di decadenza»
+
+Nella causa C‑8/14,
+
+avente ad oggetto una domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Juzgado de Primera Instancia n. 4 de
+Martorell (Tribunale di primo grado n. 4 di Martorell, Spagna), con decisione
+del 28 ottobre 2013, pervenuta in cancelleria il 10 gennaio 2014, nel
+procedimento
+
+BBVA SA, già Unnim Banc SA,
+
+contro
+
+Pedro Peñalva López,
+
+Clara López Durán,
+
+Diego Fernández Gabarro,
+
+LA CORTE (Prima Sezione),
+
+composta da A. Tizzano, vicepresidente della Corte, facente funzione di
+presidente della Prima Sezione, F. Biltgen, A. Borg Barthet, E. Levits
+(relatore) e S. Rodin, giudici,
+
+avvocato generale: M. Szpunar
+
+cancelliere: M. Ferreira
+
+vista la fase scritta del procedimento e in seguito all’udienza dell’11
+febbraio 2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la BBVA SA, già Unnim Banc SA, da J. Rodríguez Cárcamo e B. García Gómez,
+abogados,  
+  
+---|---  
+  
+—
+
+|
+
+per il sig. Peñalva López, la sig.ra López Durán e il sig. Fernández Gabarro,
+da M. Alemany Canals, A. Martínez Hiruela, T. Moreno e A. Davalos, abogados,  
+  
+---|---  
+  
+—
+
+|
+
+per il governo spagnolo, da M.J. García-Valdecasas Dorrego, in qualità di
+agente,  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da J. Baquero Cruz e M. van Beek, in qualità di
+agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 13
+maggio 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 6 e 7 della direttiva 93/13/CEE del Consiglio, del 5 aprile 1993,
+concernente le clausole abusive nei contratti stipulati con i consumatori (GU
+L 95, pag. 29).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata proposta nell’ambito di una controversia tra la BBVA SA,
+già Unnim Banc SA (in prosieguo: la «BBVA»), e i sig.ri Fernández Gabarro e
+Peñalva López e la sig.ra López Durán, in merito alla loro opposizione a
+un’esecuzione ipotecaria avente ad oggetto un posto auto e una rimessa.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+L’articolo 6, paragrafo 1, della direttiva 93/13 dispone quanto segue:
+
+«Gli Stati membri prevedono che le clausole abusive contenute in un contratto
+stipulato fra un consumatore ed un professionista non vincolano il
+consumatore, alle condizioni stabilite dalle loro legislazioni nazionali, e
+che il contratto resti vincolante per le parti secondo i medesimi termini,
+sempre che esso possa sussistere senza le clausole abusive».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 7, paragrafo 1, di detta direttiva così recita:
+
+«Gli Stati membri, nell’interesse dei consumatori e dei concorrenti
+professionali, provvedono a fornire mezzi adeguati ed efficaci per far cessare
+l’inserzione di clausole abusive nei contratti stipulati tra un professionista
+e dei consumatori».  
+  
+---|---  
+  
+Il diritto spagnolo
+
+5
+
+|
+
+La legge 1/2013, relativa alle misure volte a rafforzare la tutela dei
+debitori ipotecari, la ristrutturazione del debito e il canone sociale (Ley
+1/2013, de medidas para reforzar la protección a los deudores hipotecarios,
+reestructuración de deuda y alquiler social), del 14 maggio 2013 (BOE n. 116,
+del 15 maggio 2013, pag. 36373), ha modificato il codice di procedura civile
+(Ley de enjuiciamiento civil), del 7 gennaio 2000 (BOE n. 7, dell’8 gennaio
+2000, pag. 575), esso stesso modificato dal decreto legge 7/2013, recante
+misure urgenti di natura tributaria e di bilancio e che promuove la ricerca,
+lo sviluppo e l’innovazione (decreto-ley 7/2013, de medidas urgentes de
+naturaleza tributaria, presupuestarias y de fomento de la investigación, el
+desarrollo y la innovación), del 28 giugno 2013 (BOE n. 155, del 29 giugno
+2013, pag. 48767; in prosieguo: il «codice di procedura civile»).  
+  
+---|---  
+  
+6
+
+|
+
+La quarta disposizione transitoria della legge 1/2013 (in prosieguo: la
+«disposizione transitoria controversa») riguarda i procedimenti di esecuzione
+avviati prima dell’entrata in vigore della legge 1/2013 e non ancora conclusi.
+Detta disposizione è formulata come segue:
+
+|
+
+«1.
+
+|
+
+Le modifiche [del codice di procedura civile] introdotte dalla presente legge
+si applicano ai procedimenti di esecuzione già iniziati al momento
+dell’entrata in vigore della stessa, con riguardo unicamente agli atti
+esecutivi la cui realizzazione è pendente.  
+  
+---|---  
+  
+2.
+
+|
+
+In ogni caso, nei procedimenti di esecuzione in corso alla data di entrata in
+vigore della presente legge nei quali sia decorso il termine di dieci giorni
+per l’opposizione previsto all’articolo 556, paragrafo 1, [del codice di
+procedura civile], le parti escusse dispongono di un termine di decadenza di
+un mese per formulare un incidente straordinario di opposizione basandosi sui
+nuovi motivi di opposizione previsti all’articolo 557, paragrafo 1, punto 7 e
+all’articolo 695, paragrafo 1, punto 4, [del codice di procedura civile].  
+  
+---|---  
+  
+Il termine di decadenza di un mese decorre dal giorno successivo a quello di
+entrata in vigore della presente legge e la proposizione ad opera delle parti
+dell’incidente di opposizione ha come effetto la sospensione del procedimento
+fino alla risoluzione dell’incidente, conformemente a quanto previsto dagli
+articoli 558 e seguenti e 695 [del codice di procedura civile].
+
+La presente disposizione transitoria si applica a tutti i procedimenti di
+esecuzione che non si siano conclusi con l’immissione nel possesso
+dell’immobile a favore dell’acquirente, conformemente a quanto previsto
+dall’articolo 675 [del codice di procedura civile].
+
+3.
+
+|
+
+Nei procedimenti di esecuzione in corso, nei quali, alla data di entrata in
+vigore della presente legge, abbia già cominciato a decorrere il termine di
+dieci giorni per proporre opposizione previsto all’articolo 556, paragrafo 1,
+[del codice di procedura civile], le parti escusse dispongono parimenti del
+medesimo termine di decadenza di un mese, di cui al paragrafo precedente, per
+formulare opposizione basata sull’esistenza di un qualsivoglia motivo di
+opposizione previsto agli articoli 557 e 695 [del codice di procedura civile].  
+  
+---|---  
+  
+4.
+
+|
+
+La pubblicità della presente disposizione ha carattere di comunicazione piena
+e valida agli effetti di notificazione e computo dei termini di cui ai
+paragrafi 2 e 3 del presente articolo, non essendo necessario in alcun caso
+adottare una decisione espressa al tal fine».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 556, paragrafo 1, del codice di procedura civile è formulato come
+segue:
+
+«Qualora il titolo esecutivo sia una decisione di carattere procedurale o
+arbitrale di condanna o un accordo di mediazione, il debitore escusso può, nei
+dieci giorni successivi alla notifica dell’ordinanza di esecuzione, opporsi a
+quest’ultima per iscritto invocando il pagamento o il rispetto del dispositivo
+della sentenza, del lodo arbitrale o dell’accordo, di cui dovrà fornire prove
+documentali.
+
+È altresì possibile opporre la decadenza dell’azione in esecuzione nonché gli
+accordi e transazioni che sarebbero stati conclusi per evitare l’esecuzione,
+purché tali accordi e transazioni figurino in un atto notarile».  
+  
+---|---  
+  
+8
+
+|
+
+Ai sensi dell’articolo 557 del codice di procedura civile, relativo al
+procedimento di opposizione all’esecuzione fondato su titoli non giudiziari o
+arbitrali:
+
+«1. Quando l’esecuzione è ordinata per i titoli previsti dall’articolo 517,
+paragrafo 2, punti 4, 5, 6 e 7, nonché per altri documenti muniti di forza
+esecutiva previsti dall’articolo 517, paragrafo 2, punto 9, il debitore
+escusso può opporsi, nei termini e nelle forme previsti dall’articolo
+precedente, solo invocando uno dei seguenti motivi:
+
+(...)
+
+|
+
+7°
+
+|
+
+Il titolo contiene clausole abusive.  
+  
+---|---  
+  
+2\. Qualora sia proposta l’opposizione prevista dal paragrafo precedente, il
+cancelliere sospende l’esecuzione mediante una misura di organizzazione del
+procedimento».  
+  
+9
+
+|
+
+L’articolo 695, paragrafi 1, punto 4, e 2, del codice di procedura civile,
+prevede quanto segue:
+
+«1. Nei procedimenti di cui al presente capo l’opposizione all’esecuzione del
+debitore escusso sarà ammissibile solo quando sia basata sui seguenti motivi:
+
+(...)
+
+|
+
+(4)
+
+|
+
+carattere abusivo di una clausola contrattuale costituente il fondamento
+dell’esecuzione o che abbia consentito di determinare l’importo esigibile.  
+  
+---|---  
+  
+2\. Nell’ipotesi di presentazione dell’opposizione di cui al paragrafo
+precedente, la cancelleria del tribunale dispone la sospensione
+dell’esecuzione e convoca le parti a comparire dinanzi al tribunale che ha
+emesso l’ordine di esecuzione. L’atto di citazione deve precedere di almeno
+quindici giorni lo svolgimento dell’udienza in questione. Alla suddetta
+udienza il giudice sente le parti, esamina i documenti prodotti ed emette
+entro due giorni la decisione da esso ritenuta opportuna sotto forma di
+ordinanza».  
+  
+Procedimento principale e questione pregiudiziale
+
+10
+
+|
+
+Prima dell’entrata in vigore della legge 1/2013, il 15 maggio 2013, la BBVA ha
+avviato un procedimento di esecuzione ipotecaria nei confronti dei sig.ri
+Fernández Gabarro e Peñalva López e della sig.ra López Durán. A tale data,
+detto procedimento non si era ancora concluso. Dal fascicolo di cui dispone la
+Corte risulta che tale esecuzione ha ad oggetto un posto auto e una rimessa.  
+  
+---|---  
+  
+11
+
+|
+
+Il 17 giugno 2013, dopo la scadenza del termine di un mese per presentare un
+incidente straordinario di opposizione all’esecuzione ipotecaria, previsto
+dalla disposizione transitoria controversa, i convenuti nel procedimento
+principale hanno sostenuto dinanzi al giudice nazionale che il termine di
+decadenza stabilito da tale disposizione era contrario alla direttiva 93/13.  
+  
+---|---  
+  
+12
+
+|
+
+Infatti, da un lato, il termine di decadenza di un mese per eccepire il
+carattere abusivo delle clausole contenute nel titolo esecutivo risultava
+insufficiente per i tribunali, chiamati a controllare d’ufficio il contenuto
+dei contratti di mutuo o di credito con garanzia ipotecaria in corso di
+esecuzione e, a fortiori, per i consumatori chiamati a far valere l’eventuale
+carattere abusivo delle clausole che figuravano in tali contratti.  
+  
+---|---  
+  
+13
+
+|
+
+Dall’altro lato, i convenuti nel procedimento principale affermano che, nella
+misura in cui, ai sensi del paragrafo 4 della disposizione transitoria
+controversa, il termine di decadenza di un mese iniziava a decorrere dalla
+notifica effettuata attraverso la pubblicazione della legge in una gazzetta
+ufficiale e non in modo individualizzato, l’accesso del consumatore alla
+giustizia era molto difficile, benché egli beneficiasse di assistenza legale.  
+  
+---|---  
+  
+14
+
+|
+
+Il giudice del rinvio ritiene che, per poter decidere in merito alla
+controversia dinanzi ad esso pendente, sia necessario che la Corte si pronunci
+sulla questione relativa all’armonizzazione del principio di decadenza dei
+termini processuali, intrinsecamente collegato al principio di certezza del
+diritto, con la tutela d’ufficio del consumatore, che è imprescrittibile,
+mediante la declaratoria di nullità assoluta della clausola abusiva e della
+sua mancata inclusione nel contratto, come previsto dalla direttiva 93/13,
+così come interpretata dalla Corte nella sua recente giurisprudenza.  
+  
+---|---  
+  
+15
+
+|
+
+Il Juzgado de Primera Instancia n. 4 de Martorell (Tribunale di primo grado n.
+4 di Martorell) ha pertanto deciso di sospendere il procedimento e di
+sottoporre alla Corte la seguente questione pregiudiziale:
+
+«Se il termine di un mese stabilito dalla quarta disposizione transitoria
+della legge 1/2013 debba essere interpretato nel senso che esso è in contrasto
+con gli articoli 6 e 7 della direttiva 93/13».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+16
+
+|
+
+Con la sua questione, il giudice del rinvio chiede, in sostanza, se gli
+articoli 6 e 7 della direttiva 93/13 debbano essere interpretati nel senso che
+ostano a una disposizione nazionale transitoria, come la disposizione
+transitoria controversa, che assoggetta i consumatori nei confronti dei quali
+è stato avviato, prima dell’entrata in vigore della legge che contiene tale
+disposizione, un procedimento di esecuzione ipotecaria non ancora concluso a
+tale data a un termine di decadenza di un mese, calcolato a partire dal giorno
+successivo alla pubblicazione di tale legge per proporre opposizione
+all’esecuzione forzata, in particolare sul fondamento del carattere
+asseritamene abusivo di clausole contrattuali.  
+  
+---|---  
+  
+17
+
+|
+
+Al fine di rispondere a tale questione, si deve immediatamente rammentare che,
+secondo giurisprudenza consolidata, il sistema di tutela istituito con la
+direttiva 93/13 si fonda sull’idea che il consumatore si trovi in una
+posizione d’inferiorità nei confronti del professionista per quanto riguarda
+sia il potere negoziale, sia il livello di informazione (sentenze Aziz,
+C‑415/11, EU:C:2013:164, punto 44, nonché Sánchez Morcillo e Abril García,
+C‑169/14, EU:C:2014:2099, punto 22).  
+  
+---|---  
+  
+18
+
+|
+
+Alla luce di una siffatta situazione di inferiorità, l’articolo 6, paragrafo
+1, della direttiva 93/13 prevede che le clausole abusive non vincolino i
+consumatori. Si tratta di una disposizione imperativa tesa a sostituire
+all’equilibrio formale, che il contratto determina fra i diritti e gli
+obblighi delle parti contraenti, un equilibrio reale, finalizzato a
+ristabilire l’uguaglianza tra queste ultime (sentenza Banco Español de
+Crédito, C‑618/10, EU:C:2012:349, punto 40 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+19
+
+|
+
+Inoltre, data la natura e l’importanza dell’interesse pubblico che costituisce
+la tutela dei consumatori che si trovano in una tale situazione d’inferiorità,
+l’articolo 7, paragrafo 1, di detta direttiva impone agli Stati membri di
+prevedere mezzi adeguati e efficaci per far cessare l’inserzione di clausole
+abusive nei contratti stipulati tra un professionista e dei consumatori
+(sentenze Banco Español de Crédito, C‑618/10, EU:C:2012:349, punto 68; Kásler
+e Káslerné Rábai, C‑26/13, EU:C:2014:282, punto 78, nonché Unicaja Banco e
+Caixabank, C‑482/13, C‑484/13, C‑485/13 e C‑487/13, EU:C:2015:21, punto 30).  
+  
+---|---  
+  
+20
+
+|
+
+La Corte ha anche sottolineato che i procedimenti nazionali di esecuzione,
+quali i procedimenti di esecuzione ipotecaria, sono soggetti agli obblighi
+derivanti dalla sua costante giurisprudenza volta alla tutela effettiva dei
+consumatori (sentenza Sánchez Morcillo e Abril García, C‑169/14,
+EU:C:2014:2099, punto 25).  
+  
+---|---  
+  
+21
+
+|
+
+Al fine di tener conto di tale giurisprudenza e, più precisamente, a seguito
+della pronuncia della sentenza Aziz (C‑415/11, EU:C:2013:164), la legge 1/2013
+ha modificato in particolare gli articoli del codice di procedura civile
+relativi al procedimento di esecuzione dei beni sottoposti a ipoteca.
+Pertanto, per i procedimenti avviati dopo l’entrata in vigore della legge
+1/2013, l’opposizione del debitore escusso, fondata sul carattere abusivo di
+una clausola contrattuale e proposta entro un termine ordinario di dieci
+giorni dalla data della notifica dell’atto che dispone l’esecuzione, consente
+ormai la sospensione del procedimento di esecuzione ipotecaria fino alla
+definizione dell’incidente di opposizione.  
+  
+---|---  
+  
+22
+
+|
+
+Nell’ambito di tale riforma legislativa, la disposizione transitoria
+controversa è volta a tener conto dei procedimenti di esecuzione in corso al
+momento dell’entrata in vigore della legge 1/2013, nei quali il termine di
+dieci giorni per l’opposizione è già iniziato a decorrere o è scaduto. Come
+rilevato dall’avvocato generale al paragrafo 34 delle sue conclusioni,
+nonostante il fatto che le sentenze della Corte spieghino effetti ex tunc e,
+quindi, dalla data di entrata in vigore della disposizione interpretata, il
+legislatore spagnolo ha ritenuto necessaria l’introduzione di un meccanismo di
+termine transitorio al fine di consentire anche ai consumatori coinvolti in un
+procedimento di esecuzione in corso di proporre, a livello procedurale, entro
+un termine da fissare da parte del legislatore spagnolo, un incidente
+straordinario di opposizione fondandosi, in particolare, sull’esistenza di
+clausole abusive.  
+  
+---|---  
+  
+23
+
+|
+
+Occorre valutare se, e, se del caso, in che misura, la direttiva 93/13, come
+interpretata dalla giurisprudenza della Corte, sviluppata segnatamente a
+partire dalla sua sentenza Aziz (C‑415/11, EU:C:2013:164), osti al meccanismo
+di termine transitorio, adottato dal legislatore spagnolo e introdotto dalla
+legge 1/2013.  
+  
+---|---  
+  
+24
+
+|
+
+A questo riguardo, si deve osservare che, certamente, in mancanza di
+armonizzazione dei meccanismi nazionali di esecuzione forzata, le modalità
+della determinazione del termine di opposizione, ammesso nel quadro di un
+procedimento di esecuzione ipotecaria, rientrano nella competenza
+dell’ordinamento giuridico interno degli Stati membri in forza del principio
+di autonomia processuale di questi ultimi. Tuttavia, la Corte ha sottolineato
+che dette modalità devono soddisfare la doppia condizione di non essere meno
+favorevoli di quelle che disciplinano situazioni analoghe soggette al diritto
+nazionale (principio di equivalenza) e di non rendere praticamente impossibile
+o eccessivamente difficile l’esercizio dei diritti attribuiti ai consumatori
+dal diritto dell’Unione (principio di effettività) (sentenze Aziz, C‑415/11,
+EU:C:2013:164, punto 50, e Barclays Bank, C‑280/13, EU:C:2014:279, punto 37).  
+  
+---|---  
+  
+25
+
+|
+
+Per quanto riguarda, da un lato, il principio di equivalenza, si deve rilevare
+che la Corte non dispone di alcun elemento tale da suscitare un dubbio quanto
+alla conformità a quest’ultimo della disposizione transitoria controversa.  
+  
+---|---  
+  
+26
+
+|
+
+Dall’altro lato, per quanto riguarda il principio di effettività, la Corte ha
+già dichiarato che ciascun caso in cui si pone la questione se una norma
+processuale nazionale renda impossibile o eccessivamente difficile
+l’applicazione del diritto dell’Unione dev’essere esaminato tenendo conto del
+ruolo di detta norma nell’insieme del procedimento, dello svolgimento e delle
+peculiarità dello stesso, dinanzi ai vari organi giurisdizionali nazionali.
+Sotto tale profilo, si devono considerare i principi che sono alla base del
+sistema giurisdizionale nazionale, quali la tutela dei diritti della difesa,
+il principio della certezza del diritto e il regolare svolgimento del
+procedimento (sentenza Sánchez Morcillo e Abril García, C‑169/14,
+EU:C:2014:2099, punto 34 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+27
+
+|
+
+Tali aspetti, evocati dalla giurisprudenza precedentemente citata, devono
+essere presi in considerazione al momento dell’analisi delle caratteristiche
+del termine di cui al procedimento principale. Pertanto, come rilevato
+dall’avvocato generale al punto 45 delle sue conclusioni, tale analisi deve
+vertere su due aspetti, vale a dire la durata del termine di decadenza
+stabilita dal legislatore e la modalità prescelta per dare inizio al decorso
+di detto termine.  
+  
+---|---  
+  
+28
+
+|
+
+Per quanto riguarda, in primo luogo, la durata del termine, si deve rilevare
+che, secondo una giurisprudenza costante, è compatibile con il diritto
+dell’Unione la fissazione di termini di ricorso ragionevoli a pena di
+decadenza nell’interesse della certezza del diritto. Infatti, termini del
+genere non sono tali da rendere praticamente impossibile o eccessivamente
+difficile l’esercizio dei diritti attribuiti dall’ordinamento giuridico
+dell’Unione (sentenza Asturcom Telecomunicaciones, C‑40/08, EU:C:2009:615,
+punto 41 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+29
+
+|
+
+La Corte ha altresì constatato che il termine concesso deve essere
+materialmente sufficiente per consentire agli interessati la preparazione e la
+proposizione di un ricorso effettivo (v., in tal senso, sentenza Samba Diouf,
+C‑69/10, EU:C:2011:524, punto 66).  
+  
+---|---  
+  
+30
+
+|
+
+Nella specie, si deve constatare che il termine di un mese è stabilito, in via
+eccezionale, da una disposizione transitoria che mira ad assicurare ai
+consumatori, parti escusse in un procedimento di esecuzione nel corso del
+quale il termine di dieci giorni per l’opposizione ordinaria è già iniziato a
+decorrere o è scaduto, la possibilità di far valere, nell’ambito del medesimo
+procedimento, un motivo di opposizione nuovo, non previsto al momento
+dell’introduzione dell’azione di cui trattasi.  
+  
+---|---  
+  
+31
+
+|
+
+Di conseguenza, occorre considerare che, tenuto conto del ruolo della
+disposizione transitoria controversa nell’insieme del procedimento di
+esecuzione ipotecaria, un termine di decadenza di un mese per presentare un
+incidente straordinario di opposizione non appare, in linea di principio,
+materialmente insufficiente per la preparazione e la proposizione di un
+ricorso e risulta pertanto ragionevole e proporzionato rispetto ai diritti e
+agli interessi in questione.  
+  
+---|---  
+  
+32
+
+|
+
+Ne consegue che non si può ritenere che la disposizione transitoria
+controversa arrechi pregiudizio al principio di effettività, tenuto conto
+della durata del termine di opposizione concesso al consumatore nell’ambito di
+un procedimento di esecuzione ipotecaria in corso alla data di entrata in
+vigore della legge 1/2013.  
+  
+---|---  
+  
+33
+
+|
+
+Per quanto riguarda, in secondo luogo, l’analisi del secondo aspetto attinente
+alle caratteristiche del termine di cui al procedimento principale, vertente
+sulla modalità scelta dal legislatore per l’inizio del decorso di detto
+termine, si impongono le seguenti considerazioni.  
+  
+---|---  
+  
+34
+
+|
+
+È pacifico, innanzitutto, che la legge 1/2013, in cui è contenuta la
+disposizione transitoria controversa, fissa un quadro legislativo di portata
+generale. Tale legge è entrata in vigore il giorno della sua pubblicazione nel
+Boletín Oficial del Estado.  
+  
+---|---  
+  
+35
+
+|
+
+La legge 1/2013, che ha ad oggetto una maggiore protezione dei cittadini in un
+ampio numero di situazioni connesse ai mutui ipotecari, include, in modo
+esplicito, quella dei consumatori che si trovano, alla data di entrata in
+vigore di tale legge, nella posizione di convenuto nell’ambito di un
+procedimento di esecuzione in corso avente ad oggetto i loro beni.  
+  
+---|---  
+  
+36
+
+|
+
+Orbene, tali consumatori sono stati informati, alla data di avvio del
+procedimento di esecuzione nei loro confronti, per mezzo di una notifica
+individuale, che è stata loro indirizzata personalmente, del loro diritto di
+fare opposizione all’esecuzione entro un termine di dieci giorni da tale
+notifica.  
+  
+---|---  
+  
+37
+
+|
+
+Tuttavia, detta notifica, precedente alla data di entrata in vigore della
+legge 1/2013, non conteneva informazioni riguardanti il diritto di detti
+consumatori di proporre opposizione all’esecuzione facendo valere il carattere
+abusivo di una clausola contrattuale che costituisce il fondamento del titolo
+esecutivo poiché una tale possibilità è stata introdotta all’articolo 557,
+paragrafo 1, punto 7, del codice di procedura civile, soltanto dalla legge
+1/2013.  
+  
+---|---  
+  
+38
+
+|
+
+In tali circostanze, alla luce, segnatamente, dei principi dei diritti della
+difesa, della certezza del diritto e di tutela del legittimo affidamento, i
+consumatori non potevano ragionevolmente aspettarsi di beneficiare di una
+nuova possibilità di presentare un incidente di opposizione senza esserne
+stati informati attraverso la medesima modalità procedurale con cui
+l’informazione iniziale era loro giunta.  
+  
+---|---  
+  
+39
+
+|
+
+Di conseguenza, si deve rilevare che, nella parte in cui prevede che il
+termine di decadenza inizia a decorrere nel caso di specie senza che i
+consumatori interessati siano informati personalmente della possibilità di far
+valere un nuovo motivo di opposizione nell’ambito di un procedimento di
+esecuzione già avviato prima dell’entrata in vigore di detta legge, la
+disposizione transitoria controversa non è idonea a garantire il pieno
+godimento di tale termine e, quindi, l’esercizio effettivo del nuovo diritto
+riconosciuto dalla modifica legislativa di cui trattasi.  
+  
+---|---  
+  
+40
+
+|
+
+Infatti, tenuto conto dello svolgimento, della peculiarità e della complessità
+del procedimento nonché della legislazione applicabile, sussiste un rischio
+significativo che detto termine scada senza che i consumatori interessati
+possano far valere effettivamente e utilmente i propri diritti in sede
+giurisdizionale, in particolare a causa del fatto che essi ignorano o non
+percepiscono, in realtà, la portata esatta dei loro diritti (v., in tal senso,
+sentenza Aziz, C‑415/11, EU:C:2013:164, punto 58 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+41
+
+|
+
+Pertanto, si deve concludere che la disposizione transitoria controversa viola
+il principio di effettività.  
+  
+---|---  
+  
+42
+
+|
+
+Alla luce dell’insieme di tali considerazioni, occorre rispondere alla
+questione sollevata dichiarando che gli articoli 6 e 7 della direttiva 93/13
+devono essere interpretati nel senso che ostano a una disposizione nazionale
+transitoria, come quella oggetto del procedimento principale, che assoggetta i
+consumatori nei confronti dei quali è stato avviato un procedimento di
+esecuzione ipotecaria prima della data di entrata in vigore della legge che
+contiene tale disposizione e non concluso a tale data a un termine di
+decadenza di un mese calcolato a partire dal giorno successivo alla
+pubblicazione di tale legge per proporre opposizione all’esecuzione forzata
+sul fondamento del carattere asseritamente abusivo di clausole contrattuali.  
+  
+---|---  
+  
+Sulle spese
+
+43
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:  
+  
+---|---  
+|
+
+Gli articoli 6 e 7 della direttiva 93/13/CEE del Consiglio, del 5 aprile 1993,
+concernente le clausole abusive nei contratti stipulati con i consumatori,
+devono essere interpretati nel senso che ostano a una disposizione nazionale
+transitoria, come quella oggetto del procedimento principale, che assoggetta i
+consumatori nei confronti dei quali è stato avviato un procedimento di
+esecuzione ipotecaria prima della data di entrata in vigore della legge che
+contiene tale disposizione e non concluso a tale data a un termine di
+decadenza di un mese calcolato a partire dal giorno successivo alla
+pubblicazione di tale legge per proporre opposizione all’esecuzione forzata
+sul fondamento del carattere asseritamente abusivo di clausole contrattuali.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: lo spagnolo.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

@@ -1,0 +1,1170 @@
+
+
+SENTENZA DELLA CORTE (Seconda Sezione)
+
+22 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Servizio di vaglia postale — Direttiva 97/67/CE —
+Ambito di applicazione — Normativa nazionale che attribuisce un diritto
+esclusivo di fornitura del servizio di vaglia postale — Aiuto di Stato —
+Attività economica — Servizi di interesse economico generale»
+
+Nella causa C‑185/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Varhoven administrativen sad (Corte
+suprema amministrativa, Bulgaria), con decisione del 9 aprile 2014, pervenuta
+in cancelleria il 14 aprile 2014, nel procedimento
+
+«EasyPay» AD,
+
+«Finance Engineering» AD
+
+contro
+
+Ministerski savet na Republika Bulgaria,
+
+Natsionalen osiguritelen institut,
+
+LA CORTE (Seconda Sezione),
+
+composta da R. Silva de Lapuerta, presidente della Prima Sezione, facente
+funzione di presidente della Seconda Sezione, J.L. da Cruz Vilaça (relatore),
+A. Arabadjiev, C. Lycourgos e J.‑C. Bonichot, giudici,
+
+avvocato generale: M. Wathelet
+
+cancelliere: M. Aleksejev, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 4 giugno
+2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la «EasyPay» AD, da B. Grigorov, direttore;  
+  
+---|---  
+  
+—
+
+|
+
+per il Natsionalen osiguritelen institut, da B. Petkov, direttore;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo bulgaro, da E. Petranova e D. Drambozova, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da G. Koleva, R. Sauer e C. Vollrath, in qualità
+di agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione della
+direttiva 97/67/CE del Parlamento Europeo e del Consiglio, del 15 dicembre
+1997, concernente regole comuni per lo sviluppo del mercato interno dei
+servizi postali comunitari e il miglioramento della qualità del servizio (GU
+1998, L 15, pag. 14), come modificata dalla direttiva 2008/6/CE del Parlamento
+europeo e del Consiglio, del 20 febbraio 2008 (GU L 52, pag. 3; in prosieguo:
+la «direttiva 97/67»), nonché degli articoli 106 TFUE e 107 TFUE.  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata proposta nell’ambito di una controversia tra la «Easy
+Pay» AD e la «Finance Engineering» AD, da un lato, e il Ministerski savet na
+Republika Bulgaria (Consiglio dei ministri della Repubblica di Bulgaria; in
+prosieguo: il «Consiglio dei ministri») ed il Natsionalen osiguritelen
+institut (Istituto nazionale della previdenza sociale; in prosieguo:
+l’«Istituto»), dall’altro, volta all’annullamento o alla declaratoria di
+nullità di taluni articoli del regolamento sulle pensioni e sui periodi di
+contribuzione (Naredba za pensiite i osiguritelniya stazh; in prosieguo: il
+«regolamento»).  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+Ai sensi dell’articolo 1 della direttiva 97/67:
+
+«La presente direttiva fissa le regole comuni concernenti:
+
+|
+
+—
+
+|
+
+le condizioni relative alla fornitura dei servizi postali,  
+  
+---|---  
+  
+—
+
+|
+
+la fornitura di un servizio postale universale nella Comunità,  
+  
+---|---  
+  
+—
+
+|
+
+il finanziamento dei servizi universali a condizioni che garantiscano la
+fornitura permanente di tali servizi,  
+  
+---|---  
+  
+—
+
+|
+
+i principi tariffari e la trasparenza contabile per la fornitura del servizio
+universale,  
+  
+---|---  
+  
+—
+
+|
+
+la fissazione di norme di qualità per la fornitura del servizio universale e
+la creazione di un sistema che garantisca il rispetto di queste norme,  
+  
+---|---  
+  
+—
+
+|
+
+l’armonizzazione delle norme tecniche,  
+  
+---|---  
+  
+—
+
+|
+
+la creazione di autorità nazionali di regolamentazione indipendenti».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 2 di tale direttiva così dispone:
+
+«Ai fini della presente direttiva s’intende per:
+
+|
+
+1)
+
+|
+
+servizi postali: i servizi che includono la raccolta, lo smistamento, il
+trasporto e la distribuzione degli invii postali;  
+  
+---|---  
+  
+(…)
+
+4)
+
+|
+
+raccolta: l’operazione di raccolta degli invii postali da parte di un
+fornitore di servizi postali;  
+  
+---|---  
+  
+5)
+
+|
+
+distribuzione: il processo che va dallo smistamento nel centro incaricato di
+organizzare la distribuzione alla consegna degli invii postali ai destinatari;  
+  
+---|---  
+  
+6)
+
+|
+
+invio postale: l’invio, nella forma definitiva al momento in cui viene preso
+in consegna dal fornitore di servizi postali. Si tratta, oltre agli invii di
+corrispondenza, di, ad esempio, libri, cataloghi, giornali, periodici e pacchi
+postali contenenti merci con o senza valore commerciale;  
+  
+---|---  
+  
+7)
+
+|
+
+invio di corrispondenza: la comunicazione in forma scritta, su supporto
+materiale di qualunque natura che sarà trasportato e consegnato all’indirizzo
+indicato dal mittente sull’oggetto stesso o sul suo involucro; libri,
+cataloghi, quotidiani e periodici non sono considerati invii di
+corrispondenza;  
+  
+---|---  
+  
+(…)».  
+  
+5
+
+|
+
+La decisione 2012/21/UE della Commissione, del 20 dicembre 2011, riguardante
+l’applicazione delle disposizioni dell’articolo 106, paragrafo 2, del trattato
+sul funzionamento dell’Unione europea agli aiuti di Stato sotto forma di
+compensazione degli obblighi di servizio pubblico, concessi a determinate
+imprese incaricate della gestione di servizi di interesse economico generale
+(GU 2012, L 7, pag. 3; in prosieguo: la «decisione SIEG»), all’articolo 2
+dispone quanto segue:
+
+«1. La presente decisione si applica agli aiuti di Stato concessi sotto forma
+di compensazione degli obblighi di servizio pubblico ad imprese incaricate di
+servizi di interesse economico generale di cui all’articolo 106, paragrafo 2,
+[TFUE], che rientrano in una delle seguenti categorie:
+
+|
+
+а)
+
+|
+
+compensazioni di importo annuo inferiore a 15 milioni di [euro] per la
+prestazione di servizi di interesse economico generale in settori diversi da
+quello dei trasporti e delle relative infrastrutture.  
+  
+---|---  
+  
+(…)
+
+2\. La presente decisione si applica esclusivamente quando il periodo durante
+il quale l’impresa è incaricata della gestione di servizi di interesse
+economico generale ha durata inferiore a dieci anni. Qualora il periodo di
+incarico sia superiore a dieci anni, la presente decisione si applica soltanto
+nella misura in cui il fornitore de[i] serviz[i] debba effettuare investimenti
+significativi da ammortizzare su un arco di tempo più lungo in base a principi
+contabili generalmente riconosciuti.
+
+(…)».  
+  
+6
+
+|
+
+Ai sensi dell’articolo 3 di tale decisione, relativo alla compatibilità ed
+all’esenzione dall’obbligo di notifica:
+
+«Gli aiuti di Stato sotto forma di compensazione di obblighi di servizio
+pubblico che soddisfano le condizioni stabilite dalla presente decisione sono
+compatibili con il mercato interno ed esenti dall’obbligo di notifica
+preventiva di cui all’articolo 108, paragrafo 3, [TFUE], purché rispondano
+altresì alle prescrizioni derivanti dal trattato [FUE] e dalle normative
+settoriali dell’Unione».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 10 della decisione SIEG, recante disposizioni transitorie, così
+dispone:
+
+«La presente decisione si applica agli aiuti individuali e ai regimi di aiuti
+secondo le seguenti modalità:
+
+|
+
+а)
+
+|
+
+qualsiasi regime di aiuti messo ad esecuzione prima dell’entrata in vigore
+della presente decisione, che fosse compatibile con il mercato interno ed
+esente dall’obbligo di notifica a norma della decisione 2005/842/CE [della
+Commissione, del 28 novembre 2005, riguardante l’applicazione dell’articolo
+[106], paragrafo 2, [TFUE] agli aiuti di Stato sotto forma di compensazione
+degli obblighi di servizio pubblico, concessi a determinate imprese incaricate
+della gestione di servizi d’interesse economico generale (GU L 312, pag. 67)],
+continua a essere compatibile con il mercato interno e esente dall’obbligo di
+notifica per un ulteriore periodo di due anni;  
+  
+---|---  
+  
+(…)».  
+  
+8
+
+|
+
+Ai sensi dell’articolo 11 di tale decisione, «[l]a decisione 2005/842/CE è
+abrogata».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 12 della decisione SIEG dispone che «[l]a presente decisione entra
+in vigore il 31 gennaio 2012».  
+  
+---|---  
+  
+Il diritto bulgaro
+
+10
+
+|
+
+A norma dell’articolo 106 del codice della previdenza sociale (Kodeks za
+sotsialno osiguriavane), sia l’applicazione del capo 6 di tale codice,
+intitolato «Regime previdenziale obbligatorio», sia l’erogazione delle
+pensioni sono disciplinate da un atto normativo del Consiglio dei ministri.  
+  
+---|---  
+  
+11
+
+|
+
+Ai sensi dell’articolo 50 del regolamento, adottato con decreto n. 30 del 10
+marzo 2000 del Consiglio dei ministri, «[l]e pensioni e le indennità sono
+erogate dalle sezioni territoriali [dell’Istituto] attraverso gli uffici
+postali e le banche nazionali (…)».  
+  
+---|---  
+  
+12
+
+|
+
+L’articolo 51 del regolamento precisa che «[l]e pensioni e le indennità sono
+erogate dagli uffici postali al recapito abituale o attuale del pensionato
+secondo le modalità stabilite nel regolamento».  
+  
+---|---  
+  
+13
+
+|
+
+Ai sensi dell’articolo 54, paragrafo 1, del regolamento, «[l]a sezione
+territoriale [dell’Istituto] rilascia a ciascun pensionato un mandato di
+pagamento sulla base del quale l’ufficio postale gli eroga la pensione (o le
+pensioni) e le indennità. Il mandato di pagamento, sottoscritto di volta in
+volta dal pensionato, vale come ricevuta degli avvenuti pagamenti».  
+  
+---|---  
+  
+14
+
+|
+
+L’articolo 58 del decreto prevede che:
+
+«[L’Istituto] versa regolarmente alla sezione territoriale della [“Balgarski
+poshti” EAD (in prosieguo: la “Balgarski poshti”)] la liquidità necessaria per
+l’erogazione delle pensioni e delle indennità, in modo da garantire la loro
+tempestiva erogazione (…)».  
+  
+---|---  
+  
+15
+
+|
+
+L’articolo 92 del decreto dispone quanto segue:
+
+«(1) La sezione territoriale [dell’Istituto] versa i fondi necessari per
+l’erogazione delle pensioni su un conto collettivo della sezione territoriale
+della “Balgarski poshti”. I rapporti contabili tra la sezione territoriale
+[dell’Istituto] e la sezione territoriale della “Balgarski poshti” relativi
+alle pensioni erogate nel corso del mese di riferimento sono regolati entro la
+fine dello stesso mese.
+
+(2) Per il servizio di erogazione delle pensioni svolto attraverso la rete
+postale, [l’Istituto] riconosce alle sezioni territoriali della “Balgarski
+poshti”, attraverso le proprie sezioni territoriali, un importo pari all’8,5
+per mille delle pensioni erogande nel mese di riferimento. Tale importo viene
+versato entro il 7 del mese successivo.
+
+(3) La sezione territoriale [dell’Istituto] versa l’imposta sul valore
+aggiunto dovuta sull’importo indicato nel paragrafo 2 alla sezione
+territoriale della “Balgarksi poshti” insieme al medesimo importo.
+
+(4) I versamenti di cui ai paragrafi 2 e 3 vengono effettuati sulla base di
+una fattura emessa dalla sezione territoriale della “Balgarksi poshti”
+successivamente al pagamento delle pensioni nel mese di riferimento.
+
+(5) Qualora, per colpa di un impiegato dell’ufficio postale, venga
+erroneamente erogata una pensione, l’importo viene rimborsato dalla sezione
+territoriale della “Balgarski poshti” alla sezione territoriale
+[dell’Istituto] (…)».  
+  
+---|---  
+  
+16
+
+|
+
+Ai sensi dell’articolo 4 della legge sui servizi postali (Zakon za
+poshtenskite uslugi), come modificata (in prosieguo: la «legge sui servizi
+postali»), «i servizi postali comprendono il servizio postale universale e i
+servizi postali che non rientrano nel servizio universale».  
+  
+---|---  
+  
+17
+
+|
+
+L’articolo 25, paragrafo 2, della legge sui servizi postali, così dispone:
+
+«Un operatore postale tenuto a prestare il servizio postale universale può
+fornire anche altri servizi postali secondo le modalità stabilite nella
+presente legge ed esercitare altre attività rientranti nel proprio oggetto
+sociale, nella sua qualità di società commerciale».  
+  
+---|---  
+  
+18
+
+|
+
+L’articolo 29 ter di detta legge precisa che:
+
+«Un operatore postale tenuto a prestare il servizio postale universale
+organizza la sua attività e procede alla relativa contabilizzazione in base ai
+principi contabili applicabili e applica un sistema di suddivisione dei costi
+sia per la società commerciale nel suo insieme sia, in modo analitico e
+distinto, per:
+
+|
+
+1.
+
+|
+
+il servizio postale universale in base alle tipologie di servizi;  
+  
+---|---  
+  
+2.
+
+|
+
+i vaglia postali;  
+  
+---|---  
+  
+3.
+
+|
+
+i servizi postali non rientranti nel servizio universale ai sensi
+dell’articolo 38, punti da 1 a 3;  
+  
+---|---  
+  
+4.
+
+|
+
+altre attività commerciali».  
+  
+---|---  
+  
+19
+
+|
+
+Dall’articolo 38 della legge sui servizi postali risulta che i servizi postali
+non rientranti nel servizio universale comprendono:
+
+|
+
+«1.
+
+|
+
+la raccolta, il trasporto e la consegna di pubblicità diretta per
+corrispondenza;  
+  
+---|---  
+  
+2.
+
+|
+
+i servizi di cui all’articolo 3, punto 2;  
+  
+---|---  
+  
+3.
+
+|
+
+i servizi di corriere;  
+  
+---|---  
+  
+4.
+
+|
+
+i vaglia postali».  
+  
+---|---  
+  
+20
+
+|
+
+Ai sensi dell’articolo 39, punto 3, della legge sui servizi postali, la
+licenza individuale prevista da tale legge è un atto amministrativo
+individuale emesso, inter alia, per vaglia postale.  
+  
+---|---  
+  
+21
+
+|
+
+L’articolo 1, punto 9, delle disposizioni complementari della stessa legge
+dispone che «[p]er “vaglia postali” s’intendono i servizi postali diretti al
+pagamento di importi in denaro da parte del mittente al destinatario mediante
+un documento cartaceo e per il tramite degli uffici postali di un operatore
+postale titolare di licenza per la prestazione di servizi ai sensi
+dell’articolo 39, punto 3».  
+  
+---|---  
+  
+22
+
+|
+
+Ai sensi dell’articolo 70 delle disposizioni transitorie e finali di detta
+legge «[l]’operatore postale su cui grava, a norma dell’articolo 24, l’obbligo
+della fornitura del servizio postale universale, per un periodo di quindici
+anni a decorrere dal giorno della pubblicazione della presente legge nel
+Darzhaven vestnik [(Gazzetta ufficiale) n. 102 del 2010, in vigore dal 30
+dicembre 2010], è la società commerciale [“Balgarski poshti”]».  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+23
+
+|
+
+Con decreto del 10 marzo 2000, il Consiglio dei ministri ha emanato il
+regolamento, entrato in vigore il 1o gennaio 2000. Tale regolamento prevede
+che le pensioni vengano erogate dalle sezioni territoriali dell’Istituto
+attraverso le banche nazionali e gli uffici postali dell’operatore postale
+nazionale Balgarski poshti, società commerciale unipersonale a partecipazione
+statale del 100%. Tali vaglia postali comprendono l’erogazione delle pensioni
+sia agli uffici postali sia al domicilio del destinatario mediante un
+impiegato delle poste. Alla data dell’adozione del regolamento, soltanto la
+Balgarski poshti era abilitata, ai sensi della legge sui servizi postali, a
+garantire il servizio postale universale, comprendente i vaglia postali.  
+  
+---|---  
+  
+24
+
+|
+
+In seguito ad una modifica di detta legge, i vaglia postali non sono più
+inclusi nel servizio postale universale dal 3 novembre 2009. La «EasyPay» AD e
+la «Finance Engineering» AD sono imprese titolari di una licenza, rilasciata
+dalla Commissione di regolamentazione delle telecomunicazioni, che consente di
+fornire il servizio di vaglia postale. Tali imprese ritengono, pertanto, che
+il regolamento, nel conferire alla Balgarski poshti il diritto esclusivo
+all’erogazione delle pensioni mediante vaglia postale, limiti i loro diritti
+come operatori postali e pregiudichi la libera concorrenza.  
+  
+---|---  
+  
+25
+
+|
+
+Il Consiglio dei ministri sostiene che la concessione ed il pagamento delle
+pensioni rientrino nelle funzioni dello Stato in materia di previdenza sociale
+e che non possano quindi essere qualificati come attività economica. La
+Balgarski poshti sarebbe stata incaricata, con atto regolamentare, di
+assicurare un’attività di servizio pubblico che non rientrerebbe nell’ambito
+di applicazione del diritto della concorrenza. Il Consiglio dei ministri
+aggiunge che solo tale società dispone di una rete di filiali estesa su tutto
+il territorio bulgaro, comprese le zone scarsamente popolate.  
+  
+---|---  
+  
+26
+
+|
+
+Il giudice di primo grado ha affermato che l’articolo 106 del codice della
+previdenza sociale riconosce al Consiglio dei ministri la possibilità di
+scegliere la società che soddisfi al meglio le esigenze pubbliche e ne ha
+dedotto che il ricorso proposto dalla «EasyPay» AD e dalla «Finance
+Engineering» AD doveva essere respinto in quanto infondato. Le parti hanno
+successivamente presentato ricorso in cassazione dinanzi al giudice del
+rinvio.  
+  
+---|---  
+  
+27
+
+|
+
+In tale contesto il Varhoven administrativen sad (Corte suprema
+amministrativa) ha deciso di sospendere il procedimento e di sottoporre alla
+Corte le seguenti questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se un servizio postale, quale il servizio di vaglia postale, con cui vengono
+trasferiti importi in denaro dal mittente, in questo caso lo Stato, ai
+destinatari, ossia beneficiari di prestazioni previdenziali, debba essere
+considerato escluso dalla sfera di applicazione della direttiva 97/67,
+ricadendo conseguentemente nella sfera di applicazione delle disposizioni di
+cui agli articoli 106 TFUE e 107 TFUE.  
+  
+---|---  
+  
+2)
+
+|
+
+In caso di risposta affermativa alla prima questione, se gli articoli 106 TFUE
+e 107 TFUE debbano essere interpretati nel senso che, nel caso di fornitura di
+un servizio postale come quello descritto, non consentano una restrizione alla
+libera concorrenza, qualora essa sia giustificata da ragioni imperative
+inerenti alla garanzia di un diritto costituzionale dei cittadini e alla
+politica sociale dello Stato e, nel contempo, la prestazione possa essere
+qualificata, per le sue caratteristiche, come servizio di interesse economico
+generale, laddove il compenso percepito dal soggetto erogatore del servizio
+costituisca una compensazione che non superi l’importo stabilito nell’articolo
+2, paragrafo 1, lettera a), della decisione SIEG».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla prima questione
+
+28
+
+|
+
+Con la prima questione pregiudiziale, il giudice del rinvio chiede, in
+sostanza, se la direttiva 97/67 debba essere interpretata nel senso che
+rientra nel suo ambito di applicazione il servizio di vaglia postale mediante
+il quale il mittente, in questo caso lo Stato, trasferisce importi in denaro
+al destinatario attraverso l’operatore tenuto a fornire il servizio postale
+universale.  
+  
+---|---  
+  
+29
+
+|
+
+Occorre ricordare che l’articolo 2, punto 1, della direttiva 97/67 elenca in
+termini esaustivi i servizi rientranti nella nozione di «servizio postale» ai
+sensi della direttiva stessa, i quali includono la raccolta, lo smistamento,
+il trasporto e la distribuzione degli invii postali. Inoltre, il punto 6 di
+tale articolo descrive dettagliatamente cosa debba intendersi per «invio
+postale» ai sensi di detta direttiva.  
+  
+---|---  
+  
+30
+
+|
+
+Ebbene, né l’articolo 2 né alcuna altra disposizione della direttiva 97/67
+menzionano i servizi finanziari, compresi quelli forniti a titolo aggiuntivo
+dai prestatori di servizi postali (v., in tal senso, sentenza Asempre e
+Asociación Nacional de Empresas de Externalización y Gestión de Envíos y
+Pequeña Paquetería, C‑240/02, EU:C:2004:140, punto 31).  
+  
+---|---  
+  
+31
+
+|
+
+Occorre inoltre precisare che, tenuto conto del carattere preciso e limitativo
+di tale disposizione della direttiva 97/67, non può essere accolta una sua
+interpretazione estensiva, che comporterebbe l’estensione dell’ambito di
+applicazione di tale direttiva a situazioni non rientranti in quest’ultima
+(v., in tal senso, sentenza Asempre e Asociación Nacional de Empresas de
+Externalización y Gestión de Envíos y Pequeña Paquetería, C‑240/02,
+EU:C:2004:140, punto 32).  
+  
+---|---  
+  
+32
+
+|
+
+È stato quindi affermato che i servizi di vaglia postale, consistenti
+nell’effettuazione di pagamenti mediante la rete postale pubblica a favore di
+persone fisiche o giuridiche per conto e a richiesta di altri, non rientrano
+nella sfera d’applicazione della direttiva 97/67 (v. sentenza Asempre e
+Asociación Nacional de Empresas de Externalización y Gestión de Envíos y
+Pequeña Paquetería, C‑240/02, EU:C:2004:140, punto 34).  
+  
+---|---  
+  
+33
+
+|
+
+Occorre pertanto rispondere alla prima questione dichiarando che la direttiva
+97/67 deve essere interpretata nel senso che non rientra nel suo ambito di
+applicazione il servizio di vaglia postale mediante il quale il mittente, in
+questo caso lo Stato, trasferisce importi in denaro ad un destinatario
+attraverso l’operatore tenuto a fornire il servizio postale universale.  
+  
+---|---  
+  
+Sulla seconda questione
+
+34
+
+|
+
+Con la seconda questione pregiudiziale, il giudice del rinvio chiede, in
+sostanza, se l’articolo 107, paragrafo 1, TFUE, debba essere interpretato nel
+senso che osta a che uno Stato membro conceda ad un’impresa, come quella di
+cui al procedimento principale, il diritto esclusivo di procedere
+all’erogazione delle pensioni mediante vaglia postale.  
+  
+---|---  
+  
+35
+
+|
+
+Occorre ricordare, in via preliminare, che la qualificazione come aiuto di
+Stato richiede che sussistano tutti i presupposti menzionati all’articolo 107,
+paragrafo 1, TFUE. In primo luogo, pertanto, deve trattarsi di un intervento
+dello Stato o effettuato mediante risorse statali. In secondo luogo, tale
+intervento deve essere idoneo ad incidere sugli scambi tra gli Stati membri.
+In terzo luogo, deve concedere un vantaggio al suo beneficiario. In quarto
+luogo, esso deve falsare o minacciare di falsare la concorrenza (v. sentenza
+Libert e a., C‑197/11 e C‑203/11, EU:C:2013:288, punto 74 e giurisprudenza ivi
+citata).  
+  
+---|---  
+  
+36
+
+|
+
+Pertanto, ai fini della qualificazione come aiuto di Stato, l’articolo 107,
+paragrafo 1, TFUE, presuppone, inter alia, la sussistenza di un vantaggio
+concesso ad un’impresa.  
+  
+---|---  
+  
+37
+
+|
+
+A tale riguardo, occorre in un primo momento sottolineare, da un lato, che
+costituisce un’impresa, ai fini dell’applicazione delle disposizioni del
+diritto dell’Unione in materia di concorrenza, qualsiasi entità che eserciti
+un’attività economica, a prescindere dal suo status giuridico e dalle sue
+modalità di finanziamento. Dall’altro, costituisce attività economica
+qualunque attività consistente nell’offrire beni o servizi in un determinato
+mercato (v. sentenza Compass-Datenbank, C‑138/11, EU:C:2012:449, punto 35).  
+  
+---|---  
+  
+38
+
+|
+
+È stato peraltro affermato che gli enti che concorrono alla gestione del
+servizio pubblico di previdenza sociale svolgono una funzione di carattere
+esclusivamente sociale. Tale attività si fonda, infatti, sul principio di
+solidarietà e non ha alcuno scopo di lucro. Le prestazioni corrisposte sono
+prestazioni stabilite dalla legge e indipendenti dall’importo dei contributi
+(v., in tal senso, sentenza Poucet e Pistre, C‑159/91 e C‑160/91,
+EU:C:1993:63, punto 18).  
+  
+---|---  
+  
+39
+
+|
+
+Spetta al giudice del rinvio verificare se l’attività di vaglia postale,
+esercitata dalla Balgarski poshti, che consente l’erogazione delle pensioni di
+cui trattasi, concorra o meno al funzionamento del servizio pubblico di
+previdenza sociale e, pertanto, se essa debba essere considerata o meno come
+un’attività economica rientrante nell’articolo 107, paragrafo 1, TFUE.  
+  
+---|---  
+  
+40
+
+|
+
+In tale contesto, occorre ricordare che, per escludere la qualificazione come
+attività economica, tale attività deve essere, per la sua natura, per il suo
+oggetto, nonché per le norme alle quali è soggetta, inscindibilmente legata al
+sistema pensionistico nazionale (v., per analogia, sentenza Aéroports de
+Paris/Commissione, C‑82/01 P, EU:C:2002:617, punto 81). Pertanto, nel
+procedimento principale, deve essere preso in considerazione l’eventuale
+carattere scindibile dell’attività di vaglia postale.  
+  
+---|---  
+  
+41
+
+|
+
+A tale riguardo, risulta in particolare dagli articoli 50, 54, paragrafo 1, e
+58 del regolamento, che le prestazioni di vecchiaia concesse nell’ambito del
+sistema statale di previdenza sociale rientrano nelle funzioni dell’Istituto,
+il quale, nell’esercizio di tali funzioni, ricorre alla Balgarski poshti
+unicamente per assicurare l’erogazione delle pensioni.  
+  
+---|---  
+  
+42
+
+|
+
+Inoltre, l’articolo 50 del regolamento prevede che l’erogazione delle pensioni
+possa essere effettuata anche tramite istituti bancari. Così, secondo i dati
+forniti dall’Istituto al governo bulgaro, e da quest’ultimo richiamati nel
+corso della fase orale, al 1o maggio 2015 circa il 53% del numero totale delle
+pensioni verrebbe erogato mediante bonifico bancario. Pertanto, i vaglia
+postali effettuati dalla Balgarski poshti non costituiscono in realtà l’unico
+mezzo per procedere all’erogazione delle pensioni.  
+  
+---|---  
+  
+43
+
+|
+
+Tali elementi costituiscono un indizio che consente di ritenere che l’attività
+di vaglia postale mediante la quale vengono erogate le pensioni potrebbe
+essere scissa dal sistema pensionistico nazionale. Spetta al giudice del
+rinvio valutare la pertinenza di tali elementi, in particolare alla luce degli
+altri elementi di fatto e di diritto dei quali dispone.  
+  
+---|---  
+  
+44
+
+|
+
+In un secondo momento, nel caso in cui l’attività di vaglia postale che
+consente l’erogazione delle pensioni in questione fosse scindibile dal
+servizio pubblico di previdenza sociale e dovesse essere considerata come
+un’attività economica, si pone la questione se la misura con la quale uno
+Stato membro conceda ad un’impresa il diritto esclusivo di procedere
+all’erogazione delle pensioni mediante vaglia postale possa costituire un
+vantaggio, ai sensi dell’articolo 107, paragrafo 1, TFUE.  
+  
+---|---  
+  
+45
+
+|
+
+A tale riguardo, occorre ricordare che non rientra nell’ambito di applicazione
+dell’articolo 107, paragrafo 1, TFUE un intervento statale considerato come
+una compensazione che rappresenta la contropartita di prestazioni effettuate
+dalle imprese beneficiarie per assolvere obblighi di servizio pubblico, di
+modo che tali imprese non traggono, in realtà, un vantaggio finanziario e il
+suddetto intervento non ha quindi l’effetto di collocarle in una posizione
+concorrenziale più favorevole rispetto alle imprese concorrenti (v. sentenze
+Libert e a., C‑197/11 e C‑203/11, EU:C:2013:288, punto 84, nonché Altmark
+Trans e Regierungspräsidium Magdeburg, C‑280/00, EU:C:2003:415, punto 87).  
+  
+---|---  
+  
+46
+
+|
+
+Tuttavia, affinché, in un caso concreto, una compensazione di tal genere possa
+sottrarsi alla qualificazione di aiuto di Stato, devono ricorrere taluni
+presupposti (sentenza Altmark Trans e Regierungspräsidium Magdeburg, C‑280/00,
+EU:C:2003:415, punto 88).  
+  
+---|---  
+  
+47
+
+|
+
+In primo luogo, dal punto 89 della sentenza Altmark Trans e
+Regierungspräsidium Magdeburg (C‑280/00, EU:C:2003:415) emerge che, affinché
+una siffatta compensazione si sottragga alla qualificazione di aiuto di Stato,
+l’impresa beneficiaria deve essere effettivamente incaricata dell’adempimento
+di obblighi di servizio pubblico e tali obblighi devono essere definiti in
+modo chiaro.  
+  
+---|---  
+  
+48
+
+|
+
+Nel caso di specie, il giudice del rinvio deve esaminare se la Balgarski
+poshti sia effettivamente incaricata dell’adempimento di obblighi di servizio
+pubblico e se questi ultimi risultino in modo chiaro dalla normativa nazionale
+di cui al procedimento principale.  
+  
+---|---  
+  
+49
+
+|
+
+In secondo luogo, dal punto 90 della sentenza Altmark Trans e
+Regierungspräsidium Magdeburg (C‑280/00, EU:C:2003:415) emerge che spetta al
+giudice del rinvio determinare se i parametri sulla base dei quali viene
+calcolata la compensazione siano previamente definiti in modo obiettivo e
+trasparente.  
+  
+---|---  
+  
+50
+
+|
+
+A tale riguardo, si può rilevare che l’articolo 92, paragrafo 2, del
+regolamento indica l’importo di base su cui viene calcolata la compensazione
+dell’obbligo di servizio pubblico.  
+  
+---|---  
+  
+51
+
+|
+
+Del pari, spetta al giudice del rinvio verificare se, in applicazione del
+terzo presupposto previsto dal punto 92 della sentenza Altmark Trans e
+Regierungspräsidium Magdeburg (C‑280/00, EU:C:2003:415), la compensazione
+eccede quanto necessario per coprire interamente o in parte i costi originati
+dall’erogazione delle pensioni mediante vaglia postale, tenendo conto dei
+relativi introiti nonché di un margine di utile ragionevole per l’adempimento
+di tale obbligo.  
+  
+---|---  
+  
+52
+
+|
+
+Nel caso in cui, come nel procedimento principale, la scelta dell’impresa
+incaricata del servizio di interesse economico generale non sia stata
+effettuata nell’ambito di una procedura di appalto pubblico, spetta ugualmente
+al giudice del rinvio assicurarsi, conformemente al quarto presupposto
+enunciato al punto 93 della sentenza Altmark Trans e Regierungspräsidium
+Magdeburg (C‑280/00, EU:C:2003:415), che il livello di tale compensazione sia
+determinato sulla base di un’analisi dei costi che un’impresa media, gestita
+in modo efficiente e dotata di mezzi adeguati, avrebbe dovuto sopportare per
+adempiere i suoi obblighi di servizio pubblico, tenendo conto dei relativi
+introiti nonché di un margine di utile ragionevole per l’adempimento di detti
+obblighi.  
+  
+---|---  
+  
+53
+
+|
+
+In un terzo momento, sebbene il giudice del rinvio sottolinei che il compenso
+percepito dalla Balgarski poshti rappresenta una compensazione che non supera
+l’importo indicato all’articolo 2, paragrafo 1, lettera a), della decisione
+SIEG, si deve tuttavia precisare che tale decisione riguarda le misure che
+costituiscono aiuto di Stato ai sensi dell’articolo 107 TFUE (v., in tal
+senso, sentenza Libert e a., C‑197/11 e C‑203/11, EU:C:2013:288, punto 102).
+Infatti, soltanto nel caso in cui non siano rispettati i criteri di cui ai
+punti da 47 a 52 della presente sentenza e sussistano i presupposti per
+l’applicazione dell’articolo 107, paragrafo 1, TFUE, il giudice del rinvio può
+applicare detta decisione al fine di determinare se la misura di cui al
+procedimento principale, qualificabile come aiuto di Stato ai sensi
+dell’articolo 107 TFUE, sia compatibile con il mercato interno, conformemente
+all’articolo 106, paragrafo 2, TFUE, e possa essere esentata dall’obbligo di
+notifica preventiva di cui all’articolo 108, paragrafo 3, TFUE.  
+  
+---|---  
+  
+54
+
+|
+
+A tale riguardo, occorre ricordare che dagli articoli 11 e 12 della decisione
+SIEG risulta che quest’ultima abroga la decisione 2005/842 ed entra in vigore
+il 31 gennaio 2012. Come rilevato dalla Commissione europea, l’articolo 10
+della decisione SIEG prevede che i regimi di aiuti messi ad esecuzione prima
+dell’entrata in vigore di detta decisione, che fossero compatibili con il
+mercato interno ed esenti dall’obbligo di notifica in base alla decisione
+2005/842, continuano ad essere compatibili con il mercato interno e esenti
+dall’obbligo di notifica preventiva per un ulteriore periodo di due anni,
+ossia sino al 31 gennaio 2014. A decorrere da tale data, un regime di aiuti di
+Stato deve rispettare le condizioni stabilite dalla decisione SIEG al fine di
+poter essere esentato dall’obbligo di notifica.  
+  
+---|---  
+  
+55
+
+|
+
+Inoltre, poiché, come emerge dal punto 23 della presente sentenza, il
+regolamento è entrato in vigore nel gennaio del 2000, si deve rilevare che, ai
+sensi dell’articolo 2, paragrafo 2, della decisione SIEG, nel caso in cui un
+fornitore di servizi gestisca un servizio di interesse economico generale da
+più di dieci anni, tale decisione si applica soltanto nella misura in cui tale
+fornitore abbia dovuto effettuare investimenti significativi per adempiere al
+suo obbligo di servizio di interesse economico generale. Tale valutazione
+spetta al giudice nazionale.  
+  
+---|---  
+  
+56
+
+|
+
+Alla luce di quanto precede, occorre rispondere alla seconda questione
+dichiarando che l’articolo 107, paragrafo 1, TFUE deve essere interpretato nel
+senso che, nel caso in cui l’attività di vaglia postale che consente
+l’erogazione delle pensioni costituisca un’attività economica, comunque non
+rientra nell’ambito di applicazione di tale disposizione la concessione da
+parte di uno Stato membro del diritto esclusivo di procedere all’erogazione
+delle pensioni mediante vaglia postale ad un’impresa come quella di cui al
+procedimento principale, laddove tale servizio costituisca un servizio di
+interesse economico generale la cui compensazione rappresenta la contropartita
+delle prestazioni effettuate da tale impresa per assolvere il suo obbligo di
+servizio pubblico.  
+  
+---|---  
+  
+Sulle spese
+
+57
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Seconda Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+La direttiva 97/67/CE del Parlamento europeo e del Consiglio, del 15 dicembre
+1997, concernente regole comuni per lo sviluppo del mercato interno dei
+servizi postali comunitari e il miglioramento della qualità del servizio, come
+modificata dalla direttiva 2008/6/CE del Parlamento europeo e del Consiglio,
+del 20 febbraio 2008, deve essere interpretata nel senso che non rientra nel
+suo ambito di applicazione il servizio di vaglia postale mediante il quale il
+mittente, in questo caso lo Stato, trasferisce importi in denaro ad un
+destinatario attraverso l’operatore tenuto a fornire il servizio postale
+universale.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 107, paragrafo 1, TFUE deve essere interpretato nel senso che, nel
+caso in cui l’attività di vaglia postale che consente l’erogazione delle
+pensioni costituisca un’attività economica, comunque non rientra nell’ambito
+di applicazione di tale disposizione la concessione da parte di uno Stato
+membro del diritto esclusivo di procedere all’erogazione delle pensioni
+mediante vaglia postale ad un’impresa come quella di cui al procedimento
+principale, laddove tale servizio costituisca un servizio di interesse
+economico generale la cui compensazione rappresenta la contropartita delle
+prestazioni effettuate da tale impresa per assolvere il suo obbligo di
+servizio pubblico.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il bulgaro.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

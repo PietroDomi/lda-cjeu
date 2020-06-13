@@ -1,0 +1,757 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+27 giugno 2013 ( *1 )
+
+«IVA — Direttiva 2006/112/CE — Articoli 44 e 47 — Luogo in cui si considerano
+fornite le operazioni imponibili — Collegamento fiscale — Nozione di
+“prestazioni di servizi relativi ad un bene immobile” — Servizio
+transfrontaliero complesso di stoccaggio merci»
+
+Nella causa C-155/12,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Naczelny Sąd Administracyjny (Polonia),
+con decisione dell’8 febbraio 2012, pervenuta in cancelleria il 30 marzo 2012,
+nel procedimento
+
+Minister Finansów
+
+contro
+
+RR Donnelley Global Turnkey Solutions Poland sp. z o.o.,
+
+LA CORTE (Prima Sezione),
+
+composta da A. Tizzano, presidente di sezione, M. Berger, A. Borg Barthet, E.
+Levits e J.-J. Kasel (relatore), giudici,
+
+avvocato generale: J. Kokott
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la RR Donnelley Global Turnkey Solutions Poland sp. z o.o., da W. Varga,
+radca prawny;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo polacco, da B. Majczyna e M. Szpunar, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ellenico, da K. Paraskevopoulou e M. Germani, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da J. Hottiaux e C. Soulay, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 31
+gennaio 2013,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 44 e 47 della direttiva 2006/112/CE del Consiglio, del 28 novembre
+2006, relativa al sistema comune d’imposta sul valore aggiunto (GU L 347, pag.
+1), come modificata dalla direttiva 2008/8/CE del Consiglio, del 12 febbraio
+2008 (GU L 44, pag. 11; in prosieguo: la «direttiva IVA»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra il
+Minister Finansów (Ministro delle Finanze) e la RR Donnelley Global Turnkey
+Solutions Poland sp. z o.o. (in prosieguo: la «RR»), una società di diritto
+polacco soggetta all’imposta sul valore aggiunto (in prosieguo: l’«IVA»), in
+merito alla determinazione, ai fini della riscossione di quest’ultima, del
+luogo in cui si presume effettuata una prestazione di servizio di stoccaggio
+merci.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+L’articolo 44 della direttiva IVA prevede quanto segue:
+
+«Il luogo delle prestazioni di servizi resi a un soggetto passivo che agisce
+in quanto tale è il luogo in cui questi ha fissato la sede della propria
+attività economica. Tuttavia, se i servizi sono prestati ad una stabile
+organizzazione del soggetto passivo situata in un luogo diverso da quello in
+cui esso ha fissato la sede della propria attività economica, il luogo delle
+prestazioni di tali servizi è il luogo in cui è situata la stabile
+organizzazione. In mancanza di tale sede o stabile organizzazione, il luogo
+delle prestazioni di servizi è il luogo del domicilio o della residenza
+abituale del soggetto passivo destinatario dei servizi in questione».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 47 della direttiva in parola così dispone:
+
+«Il luogo delle prestazioni di servizi relativi a un bene immobile, incluse le
+prestazioni di periti, di agenti immobiliari, la fornitura di alloggio nel
+settore alberghiero o in settori con funzione analoga, quali i campi di
+vacanza o i terreni attrezzati per il campeggio, la concessione di diritti di
+utilizzazione di un bene immobile e le prestazioni tendenti a preparare o a
+coordinare l’esecuzione di lavori edili come, ad esempio, le prestazioni
+fornite dagli architetti e dagli uffici di sorveglianza, è il luogo in cui è
+situato il bene».  
+  
+---|---  
+  
+Il diritto polacco
+
+5
+
+|
+
+L’articolo 5, paragrafo 1, punto 1, della legge relativa all’imposta sul
+valore aggiunto (ustawa o podatku od towarów i usług), dell’11 marzo 2004 (Dz.
+U. n. 54, voce 535), nella versione applicabile al procedimento principale (in
+prosieguo: la «legge relativa all’IVA»), dispone che le cessioni di beni e le
+prestazioni di servizi effettuate sul territorio nazionale siano soggette
+all’IVA.  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 8, paragrafi 1 e 4, della legge relativa all’IVA recita:
+
+«1. Per “prestazione di servizi”, di cui all’articolo 5, paragrafo 1, punto 1,
+si intende qualsiasi prestazione effettuata in favore di una persona fisica o
+giuridica, o di un ente senza personalità giuridica, che non costituisca una
+cessione di beni ai sensi dell’articolo 7, ivi compresi:
+
+|
+
+1)
+
+|
+
+la cessione di beni immateriali, qualunque sia la forma dell’atto giuridico
+con cui essa è avvenuta;  
+  
+---|---  
+  
+2)
+
+|
+
+l’obbligo di non fare o di tollerare un atto o una situazione;  
+  
+---|---  
+  
+3)
+
+|
+
+l’esecuzione di un servizio in base ad un’espropriazione eseguita dalla
+pubblica autorità o in suo nome o a norma di legge.  
+  
+---|---  
+  
+(…)
+
+4\. Ai fini della determinazione del luogo della prestazione del servizio, i
+servizi vengono individuati per mezzo di classificazioni statistiche, se le
+disposizioni di legge o le misure regolamentari di esecuzione attribuiscono
+loro simboli statistici».  
+  
+7
+
+|
+
+In base all’articolo 28b, paragrafo 1, della legge relativa all’IVA, il luogo
+della prestazione del servizio reso a un soggetto passivo è il luogo in cui
+questi ha fissato la propria sede o il proprio domicilio, fatti salvi i
+paragrafi da 2 a 4 e gli articoli 28e, 28f, paragrafo 1, 28g, paragrafo 1,
+28i, 28j e 28n.  
+  
+---|---  
+  
+8
+
+|
+
+In forza dell’articolo 28b, paragrafo 2, della legge relativa all’IVA, se i
+servizi sono forniti alla stabile organizzazione del soggetto passivo ubicata
+in un luogo diverso da quello in cui esso ha fissato la propria sede o il
+proprio domicilio, il luogo della prestazione di tali servizi è il luogo in
+cui è situata la stabile organizzazione.  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 28e della legge relativa all’IVA ha il seguente tenore:
+
+«Il luogo delle prestazioni di servizi relativi a un bene immobile, incluse le
+prestazioni di periti, di agenti immobiliari, i servizi di alloggio in
+alberghi o luoghi aventi un’analoga funzione, quali i campi di vacanza o i
+terreni attrezzati per il campeggio, la gestione e l’utilizzazione di un bene
+immobile nonché le prestazioni tese a preparare o a coordinare l’esecuzione di
+lavori edili come, ad esempio, le prestazioni fornite dagli architetti e dalle
+imprese di sorveglianza dei lavori, è il luogo in cui è situato il bene».  
+  
+---|---  
+  
+Procedimento principale e questione pregiudiziale
+
+10
+
+|
+
+Nell’ambito dell’esercizio delle sue attività commerciali la RR fornisce a
+operatori economici, soggetti all’IVA e stabiliti in Stati membri diversi
+dalla Repubblica di Polonia, un servizio complesso di stoccaggio merci. Tale
+servizio include, in particolare, il ricevimento delle merci in magazzino, la
+sistemazione delle stesse nelle apposite aree di stoccaggio, la custodia,
+l’imballaggio per i clienti, la consegna, lo scarico e il carico. Inoltre, per
+alcune controparti contrattuali, le quali forniscono materiale ai gruppi
+informatici, il servizio in questione si estende al reimballaggio in
+confezioni singole del materiale consegnato in blocco. La messa a disposizione
+di aree di stoccaggio rappresenta soltanto uno dei tanti elementi facenti
+parte del processo logistico gestito dalla RR. Per il servizio in questione,
+quest’ultima ricorre peraltro al proprio personale nonché a materiali
+d’imballaggio i cui costi costituiscono una voce del corrispettivo del
+servizio. Le controparti contrattuali della RR committenti del servizio di
+stoccaggio non dispongono né di una sede né di una stabile organizzazione sul
+territorio polacco.  
+  
+---|---  
+  
+11
+
+|
+
+Il 25 marzo 2010, la RR ha presentato una domanda di parere individuale
+riguardante la determinazione del luogo della prestazione del servizio
+complesso di stoccaggio ai fini del calcolo dell’IVA. Secondo detta società,
+il luogo in cui viene effettuata una prestazione di servizi analoga alla
+propria deve essere quello della sede del beneficiario di tale prestazione. Di
+conseguenza, i servizi offerti dalla RR non dovrebbero essere assoggettati
+all’IVA in Polonia. Più specificamente, il servizio complesso di stoccaggio
+merci non dovrebbe essere considerato come un servizio relativo a un bene
+immobile. Infatti, l’intento delle parti non sarebbe di concedere ai
+beneficiari del servizio di cui trattasi diritti di utilizzazione dell’area di
+stoccaggio, ma unicamente di conservare le merci in condizioni inalterate e di
+assicurare tutte le prestazioni complementari connesse a un siffatto servizio.  
+  
+---|---  
+  
+12
+
+|
+
+Nel suo parere individuale, adottato l’8 giugno 2010, l’amministrazione
+finanziaria polacca, rappresentata dal Minister Finansów, ha invece
+considerato che i servizi di stoccaggio di merci avessero carattere di
+prestazioni di servizi relativi a un bene immobile e che, di conseguenza,
+rientrassero nell’ambito di applicazione dell’articolo 28e della legge
+relativa all’IVA. Ciò premesso, il luogo della prestazione di servizi siffatti
+sarebbe il luogo in cui si trova il bene immobile usato come magazzino.  
+  
+---|---  
+  
+13
+
+|
+
+La RR ha proposto ricorso avverso tale parere individuale facendo valere che
+l’interpretazione dell’articolo 28e della legge relativa all’IVA sostenuta dal
+Minister Finansów si discosta dal tenore letterale e dall’interpretazione
+dell’articolo 47 della direttiva IVA, è contraria al principio di coerenza del
+diritto dell’Unione e rimette in questione l’applicazione uniforme di tale
+diritto negli Stati membri. Infatti, in base alle disposizioni della predetta
+direttiva, le prestazioni di servizi relativi a un bene immobile sarebbero
+servizi riguardanti il bene immobile medesimo. Orbene, non sarebbe esattamente
+questo il caso della prestazione di servizi in esame nel procedimento
+principale.  
+  
+---|---  
+  
+14
+
+|
+
+Con sentenza del 25 novembre 2010, il Wojewódzki Sąd Administracyjny w Łodzi
+(Tribunale amministrativo del voivodato di Łódź) ha accolto il suddetto
+ricorso considerando che i servizi forniti dalla RR non sono prestazioni di
+servizi relativi a un bene immobile. In particolare, secondo detto giudice,
+non è possibile classificare i servizi di cui trattasi fra quelli comprendenti
+«la concessione di diritti di utilizzazione di un bene immobile» poiché i
+contratti stipulati dalla RR con le sue controparti hanno per oggetto la
+conservazione e la gestione attiva delle merci depositate nei suoi magazzini.
+Ai clienti non verrebbe concesso alcun diritto di utilizzazione degli immobili
+sotto nessuna forma. L’elemento determinante di una prestazione di servizi
+come quella in esame nel procedimento principale sarebbe la gestione della
+merce allo scopo di consentire ai clienti di commercializzarla con la massima
+efficacia. Peraltro, tale prestazione di servizi non presenterebbe alcun
+«nesso sufficientemente diretto con un bene immobile», ai sensi della
+giurisprudenza della Corte (sentenza del 7 settembre 2006, Heger, C-166/05,
+Racc. pag. I-7749), e non potrebbe dunque rientrare nell’ambito di
+applicazione dell’articolo 47 della direttiva IVA. Di conseguenza, quando
+servizi siffatti sono forniti a beneficiari stabiliti al di fuori del
+territorio polacco, essi non dovrebbero essere tassati in Polonia.  
+  
+---|---  
+  
+15
+
+|
+
+A sostegno del ricorso per cassazione da esso proposto avverso la suddetta
+sentenza dinanzi al Naczelny Sąd Administracyjny (Corte suprema
+amministrativa), il Minister Finansów ha dedotto che, nel caso di specie, il
+servizio di stoccaggio costituirebbe il servizio principale e prevalente,
+mentre gli altri servizi offerti dalla RR conseguirebbero alla natura del
+servizio principale. Orbene, lo stretto nesso di tale servizio con il bene
+immobile concretamente designato come magazzino sarebbe innegabile. Pertanto,
+il luogo d’imposizione di tale servizio dovrebbe essere definito in base
+all’articolo 28e della legge relativa all’IVA e sarebbe dunque situato in
+Polonia.  
+  
+---|---  
+  
+16
+
+|
+
+Secondo il giudice del rinvio, dalle sentenze Heger, citata; del 3 settembre
+2009, RCI Europe (C-37/08, Racc. pag. I-7533), e del 27 ottobre 2011, Inter-
+Mark Group (C-530/09, Racc. pag. I-10675), risulterebbe che, per determinare
+se si tratti di una prestazione di servizi relativi a un bene immobile a norma
+dell’articolo 47 della direttiva IVA, deve essere soddisfatta un serie di
+condizioni. Orbene, nella fattispecie, sussisterebbe sicuramente un certo
+collegamento tra la prestazione di servizi di cui trattasi e un bene immobile,
+ma sarebbe meramente secondario.  
+  
+---|---  
+  
+17
+
+|
+
+Ciò posto, il Naczelny Sąd Administracyjny ha deciso di sospendere il
+procedimento e di sottoporre alla Corte la seguente questione pregiudiziale:
+
+|
+
+«–
+
+|
+
+Se le disposizioni di cui agli articoli 44 e 47 della [direttiva IVA] debbano
+essere interpretate nel senso che servizi complessi di stoccaggio merci,
+comprendenti il ricevimento delle merci in magazzino, la sistemazione delle
+medesime nelle apposite aree di stoccaggio, la custodia per il cliente, la
+consegna, lo scarico e il carico nonché, per alcuni clienti soltanto, il
+reimballaggio in confezioni singole del materiale consegnato in blocco, sono
+prestazioni di servizi relativi a un bene immobile assoggettate ad imposta nel
+luogo in cui è situato tale bene immobile, conformemente all’articolo 47 della
+[direttiva IVA],  
+  
+---|---  
+  
+–
+
+|
+
+o se si tratti di servizi soggetti ad imposta nel luogo in cui il loro
+destinatario ha la sede dell’attività economica o una stabile organizzazione
+o, in mancanza, il domicilio o la residenza abituale, ai sensi dell’articolo
+44 della [direttiva IVA]».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+18
+
+|
+
+Con la sua questione, il giudice del rinvio chiede, in sostanza, se l’articolo
+47 della direttiva TVA debba essere interpretato nel senso che una prestazione
+di servizio complesso di stoccaggio, consistente nel ricevere le merci in
+magazzino, sistemarle nelle apposite aree di stoccaggio, custodirle,
+imballarle, consegnarle, scaricarle e caricarle, nonché, per alcuni clienti
+soltanto, nel reimballare in confezioni singole il materiale consegnato in
+blocco, costituisce una prestazione di servizi relativi a un bene immobile ai
+sensi del suddetto articolo.  
+  
+---|---  
+  
+19
+
+|
+
+Al fine di fornire una risposta utile al giudice del rinvio e alla luce della
+circostanza che l’operazione menzionata nella questione pregiudiziale
+comprende più elementi, occorre esaminare anzitutto la questione se tale
+operazione debba essere considerata come costituita da una prestazione unica o
+da più prestazioni distinte e indipendenti da valutare separatamente ai fini
+dell’IVA.  
+  
+---|---  
+  
+20
+
+|
+
+Infatti, dalla giurisprudenza della Corte emerge che, in determinate
+circostanze, più prestazioni formalmente distinte, che potrebbero essere
+fornite separatamente e dare così luogo separatamente a imposizione o a
+esenzione, devono essere considerate come un’unica operazione quando non sono
+indipendenti (sentenze del 21 febbraio 2008, Part Service, C-425/06, Racc.
+pag. I-897, punto 51, e del 27 settembre 2012, Field Fisher Waterhouse,
+C-392/11, punto 15).  
+  
+---|---  
+  
+21
+
+|
+
+Al riguardo, la Corte ha dichiarato che una prestazione deve essere
+considerata unica quando due o più elementi o atti forniti dal soggetto
+passivo sono così strettamente collegati da formare, oggettivamente, un’unica
+prestazione economica indissociabile la cui scomposizione avrebbe carattere
+artificiale (v., in tal senso, sentenze del 27 ottobre 2005, Levob
+Verzekeringen e OV Bank, C-41/04, Racc. pag. I-9433, punto 22, e Field Fisher
+Waterhouse, cit., punto 16).  
+  
+---|---  
+  
+22
+
+|
+
+Tale è il caso anche quando una o più prestazioni costituiscono una
+prestazione principale e la o le altre prestazioni costituiscono una o più
+prestazioni accessorie cui si applica lo stesso trattamento fiscale della
+prestazione principale. In particolare, una prestazione dev’essere considerata
+accessoria a una principale quando per la clientela non costituisce un fine a
+sé stante, bensì il mezzo per fruire al meglio del servizio principale offerto
+dal prestatore (v., in tal senso, sentenze del 25 febbraio 1999, CPP,
+C-349/96, Racc. pag. I-973, punto 30; del 10 marzo 2011, Bog e a., C-497/09,
+C-499/09, C-501/09 e C-502/09, Racc. pag. I-1457, punto 54, nonché Field
+Fisher Waterhouse, cit., punto 17).  
+  
+---|---  
+  
+23
+
+|
+
+Sebbene spetti al giudice nazionale determinare se in una fattispecie
+particolare un soggetto passivo fornisca una prestazione unica e apportare in
+proposito tutte le valutazioni definitive sui fatti, la Corte può nondimeno
+fornirgli tutti gli elementi interpretativi utili per dirimere la controversia
+(v., in tal senso, sentenze Levob Verzekeringen e OV Bank, cit., punto 23, e
+del 19 luglio 2012, X, C-334/10, punto 24).  
+  
+---|---  
+  
+24
+
+|
+
+A tal riguardo va evidenziato, come ha già fatto l’avvocato generale ai
+paragrafi da 21 a 23 delle sue conclusioni, che dagli atti di causa emerge
+come, nel procedimento principale, lo stoccaggio delle merci costituisca, in
+linea di massima, la prestazione principale, mentre il ricevimento, la
+sistemazione, la consegna, lo scarico e il carico delle merci configurano
+soltanto prestazioni accessorie. Infatti, per la clientela, queste ultime
+prestazioni non hanno, in via di principio, una finalità propria, bensì
+costituiscono operazioni che le consentono di fruire al meglio del servizio
+principale.  
+  
+---|---  
+  
+25
+
+|
+
+Tuttavia, per quanto concerne il reimballaggio in confezioni singole delle
+merci consegnate in blocco, si deve aggiungere che tale prestazione, fornita
+soltanto a taluni clienti, deve essere considerata costituire una prestazione
+principale autonoma in tutti i casi in cui il nuovo confezionamento non è
+indispensabile per garantire un migliore stoccaggio delle merci di cui
+trattasi.  
+  
+---|---  
+  
+26
+
+|
+
+Siccome dagli atti di causa non emerge che, con la sua questione, il giudice
+del rinvio si sia riferito a questa seconda ipotesi, occorre considerare nel
+prosieguo del ragionamento che la prestazione complessa di stoccaggio in esame
+nel procedimento principale configuri un’unica operazione la cui prestazione
+principale consiste nello stoccaggio merci.  
+  
+---|---  
+  
+27
+
+|
+
+Atteso quanto precede, occorre ora determinare il luogo in cui si reputa
+fornita questa operazione unica.  
+  
+---|---  
+  
+28
+
+|
+
+A tal proposito si deve constatare che la direttiva IVA, al pari della sesta
+direttiva 77/388/CEE del Consiglio, del 17 maggio 1977, in materia di
+armonizzazione delle legislazioni degli Stati membri relative alle imposte
+sulla cifra di affari – Sistema comune di imposta sul valore aggiunto: base
+imponibile uniforme (GU L 145, pag. 1; in prosieguo: la «sesta direttiva»), da
+essa sostituita, al titolo V, dedicato al luogo delle operazioni imponibili,
+contiene un capo 3, relativo al luogo delle prestazioni di servizi, le cui
+sezioni 2 e 3 enunciano, come indicano i loro stessi titoli, tanto norme
+generali per la determinazione del luogo d’imposizione di una tale prestazione
+quanto disposizioni particolari relative a prestazioni di servizi specifici.  
+  
+---|---  
+  
+29
+
+|
+
+Pertanto, prima di poter decidere se, in una data situazione, una determinata
+prestazione di servizi rientri nell’ambito di applicazione degli articoli 44 e
+45 della direttiva IVA, che prevedono norme generali, occorre stabilire se
+tale situazione non sia disciplinata da una delle disposizioni particolari
+contenute negli articoli da 46 a 59 ter della medesima direttiva (v., per
+analogia con la sesta direttiva, sentenza del 26 settembre 1996, Dudda,
+C-327/94, Racc. pag. I-4595, punto 21).  
+  
+---|---  
+  
+30
+
+|
+
+Nella specie, si deve esaminare se una prestazione di stoccaggio come quella
+di cui trattasi nel procedimento principale possa rientrare nell’ambito di
+applicazione dell’articolo 47 della direttiva IVA.  
+  
+---|---  
+  
+31
+
+|
+
+Per quanto concerne il tenore letterale del suddetto articolo 47, che in
+sostanza corrisponde all’articolo 9, paragrafo 2, lettera a), della sesta
+direttiva, è giocoforza constatare che le prestazioni di stoccaggio non fanno
+parte delle prestazioni esplicitamente elencate in tale articolo 47, sicché
+dal testo di quest’ultimo non si può trarre una conclusione utile per la
+risposta alla questione sollevata.  
+  
+---|---  
+  
+32
+
+|
+
+Dalla giurisprudenza della Corte emerge, però, che solo prestazioni di servizi
+che presentano un nesso sufficientemente diretto con un bene immobile
+rientrano nell’ambito di applicazione dell’articolo 47 della direttiva IVA
+(v., in tal senso, sentenza Inter-Mark Group, cit., punto 30). Un simile nesso
+caratterizza d’altronde tutte le prestazioni di servizi elencate in tale
+articolo [v., per quanto riguarda l’articolo 9, paragrafo 2, lettera a), della
+sesta direttiva, sentenza Heger, cit., punto 24].  
+  
+---|---  
+  
+33
+
+|
+
+Orbene, quanto alla nozione di «bene immobile», occorre ricordare che la Corte
+ha già statuito che una delle caratteristiche essenziali di un tale bene è di
+essere collegato a una porzione determinata del territorio dello Stato membro
+in cui è ubicato (v., in tal senso, sentenza Heger, cit., punto 20).  
+  
+---|---  
+  
+34
+
+|
+
+Pertanto, come rilevato dall’avvocato generale al paragrafo 35 delle sue
+conclusioni, affinché una prestazione di servizi rientri nell’ambito di
+applicazione dell’articolo 47 della direttiva IVA, è necessario che tale
+prestazione sia collegata a un bene immobile espressamente determinato.  
+  
+---|---  
+  
+35
+
+|
+
+Siccome, però, un ampio numero di servizi si riferisce in un modo o nell’altro
+a un bene immobile, occorre pure che il bene immobile sia l’oggetto stesso
+della prestazione di servizi. Tale ipotesi si verifica, in particolare, quando
+un bene immobile espressamente determinato debba essere considerato elemento
+costitutivo di una prestazione di servizi, in quanto ne rappresenta un
+elemento centrale e indispensabile (v., in tal senso, sentenza Heger, cit.,
+punto 25).  
+  
+---|---  
+  
+36
+
+|
+
+Infatti, è giocoforza constatare che le prestazioni di servizi elencate
+all’articolo 47 della direttiva IVA, che riguardano l’uso o la sistemazione di
+un bene immobile oppure la gestione, compreso lo sfruttamento, e la
+valutazione dello stesso, sono caratterizzate dal fatto che il bene immobile
+costituisce il loro stesso oggetto.  
+  
+---|---  
+  
+37
+
+|
+
+Ne consegue che una prestazione di stoccaggio come quella in esame nel
+procedimento principale, che non può essere considerata relativa alla
+sistemazione, alla gestione o alla valutazione di un bene immobile, può
+rientrare nell’ambito di applicazione del suddetto articolo 47 soltanto se
+viene riconosciuto al suo beneficiario il diritto di utilizzare in tutto o in
+parte un bene immobile espressamente determinato.  
+  
+---|---  
+  
+38
+
+|
+
+Se, come rilevato dall’avvocato generale ai paragrafi 42 e 43 delle sue
+conclusioni, dovesse risultare che i beneficiari di una simile prestazione di
+stoccaggio non hanno, per esempio, alcun diritto di accesso alla parte
+dell’immobile in cui sono stoccate le loro merci o che l’immobile sul quale o
+nel quale le medesime devono essere stoccate non costituisce un elemento
+centrale e indispensabile della prestazione di servizi, cosa che spetta ai
+giudici nazionali verificare, una prestazione di servizi come quella in esame
+nel procedimento principale non può rientrare nell’ambito di applicazione
+dell’articolo 47 della direttiva IVA.  
+  
+---|---  
+  
+39
+
+|
+
+Di conseguenza, occorre rispondere alla questione sollevata dichiarando che
+l’articolo 47 della direttiva IVA deve essere interpretato nel senso che una
+prestazione di servizio complesso di stoccaggio, consistente nel ricevere le
+merci in magazzino, sistemarle nelle apposite aree di stoccaggio, custodirle,
+imballarle, consegnarle, scaricarle e caricarle, rientra nell’ambito di
+applicazione di detto articolo unicamente se lo stoccaggio costituisce la
+prestazione principale di un’operazione unica e ai suoi beneficiari viene
+riconosciuto il diritto di utilizzare in tutto o in parte un bene immobile
+espressamente determinato.  
+  
+---|---  
+  
+Sulle spese
+
+40
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 47 della direttiva 2006/112/CE del Consiglio, del 28 novembre 2006,
+relativa al sistema comune d’imposta sul valore aggiunto, come modificata
+dalla direttiva 2008/8/CE del Consiglio, del 12 febbraio 2010, deve essere
+interpretato nel senso che una prestazione di servizio complesso di
+stoccaggio, consistente nel ricevere le merci in magazzino, sistemarle nelle
+apposite aree di stoccaggio, custodirle, imballarle, consegnarle, scaricarle e
+caricarle, rientra nell’ambito di applicazione di detto articolo unicamente se
+lo stoccaggio costituisce la prestazione principale di un’operazione unica e
+ai suoi beneficiari viene riconosciuto il diritto di utilizzare in tutto o in
+parte un bene immobile espressamente determinato.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il polacco.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

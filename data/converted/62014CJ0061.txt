@@ -1,0 +1,1391 @@
+
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+6 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Direttiva 89/665/CEE — Appalti pubblici — Normativa
+nazionale — Tassazione per l’accesso alla giustizia amministrativa nell’ambito
+degli appalti pubblici — Diritto a un ricorso effettivo — Tassazione
+dissuasiva — Controllo giurisdizionale degli atti amministrativi — Principi di
+effettività e di equivalenza — Effetto utile»
+
+Nella causa C‑61/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Tribunale regionale di giustizia
+amministrativa di Trento (Italia), con decisione del 21 novembre 2013,
+pervenuta in cancelleria il 7 febbraio 2014, nel procedimento
+
+Orizzonte Salute – Studio Infermieristico Associato
+
+contro
+
+Azienda Pubblica di Servizi alla Persona San Valentino – Città di Levico
+Terme,
+
+Ministero della Giustizia,
+
+Ministero dell’Economia e delle Finanze,
+
+Presidenza del Consiglio dei Ministri,
+
+Segretario generale del Tribunale regionale di giustizia amministrativa di
+Trento,
+
+con l’intervento di:
+
+Associazione Infermieristica D & F Care,
+
+Camera degli Avvocati Amministrativisti,
+
+Camera Amministrativa Romana,
+
+Associazione dei Consumatori Cittadini europei,
+
+Coordinamento delle associazioni e dei comitati di tutela dell’ambiente e dei
+diritti degli utenti e dei consumatori (Codacons),
+
+Associazione dei Giovani Amministrativisti (AGAmm),
+
+Ordine degli Avvocati di Roma,
+
+Società italiana degli Avvocati Amministrativisti (SIAA),
+
+Ordine degli Avvocati di Trento,
+
+Consiglio dell’Ordine degli Avvocati di Firenze,
+
+Medical Systems SpA,
+
+LA CORTE (Quinta Sezione),
+
+composta da T. von Danwitz, presidente di sezione, C. Vajda, A. Rosas, E.
+Juhász (relatore) e D. Šváby, giudici,
+
+avvocato generale: N. Jääskinen
+
+cancelliere: L. Carrasco Marco, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza dell’11
+febbraio 2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per Orizzonte Salute – Studio Infermieristico Associato, da M. Carlin, M.
+Napoli, M. Zoppolato e M. Boifava, avvocati;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Azienda Pubblica di Servizi alla Persona San Valentino – Città di Levico
+Terme, da R. De Pretis, avvocato;  
+  
+---|---  
+  
+—
+
+|
+
+per la Camera degli Avvocati Amministrativisti, da A. Grappelli, M. Ida
+Leonardo, M. Rossi Tafuri, F. Marascio, M. Martinelli, E. Papponetti e M.
+Togna, avvocati;  
+  
+---|---  
+  
+—
+
+|
+
+per la Camera Amministrativa Romana, da F. Tedeschini, C. Malinconico, P.
+Leozappa, F. Lattanzi, A. M. Valorzi, avvocati;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Associazione dei Consumatori Cittadini europei, da C. Giurdanella, P.
+Menchetti, S. Raimondi e E. Barbarossa, avvocati;  
+  
+---|---  
+  
+—
+
+|
+
+per il Coordinamento delle associazioni per la tutela dell’ambiente e dei
+diritti degli utenti e consumatori (Codacons), da C. Rienzi, G. Giuliano, V.
+Graziussi e G.Urzini, avvocati;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Associazione dei Giovani Amministrativisti (AGAmm), da G. Leccisi e J.
+D’Auria, avvocati;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Ordine degli Avvocati di Roma, da S. Orestano, S. Dore e P. Ziotti,
+avvocati;  
+  
+---|---  
+  
+—
+
+|
+
+per la Società italiana degli Avvocati Amministrativisti (SIAA), da F.
+Lubrano, E. Lubrano, P. De Caterini, A. Guerino, A. Lorang, B. Nascimbene, E.
+Picozza, F. G. Scoca, F. Sorrentino, avvocati;  
+  
+---|---  
+  
+—
+
+|
+
+per la Medical Systems SpA, da R. Damonte, M. Carlin e E. Boglione, avvocati;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo italiano, da G. Palmieri, in qualità di agente, assistita da P.
+Gentili, avvocato dello Stato;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ellenico, da K. Paraskevopoulou e V. Stroumpouli, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo austriaco, da M. Fruhmann, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo polacco, da B. Majczyna, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da F. Moro e A. Tokár, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 7
+maggio 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+1 della direttiva 89/665/CEE del Consiglio, del 21 dicembre 1989, che coordina
+le disposizioni legislative, regolamentari e amministrative relative
+all’applicazione delle procedure di ricorso in materia di aggiudicazione degli
+appalti pubblici di forniture e di lavori (GU L 395, pag. 33), come modificata
+dalla direttiva 2007/66/CE del Parlamento europeo e del Consiglio, dell’11
+dicembre 2007 (GU L 335, pag. 31; in prosieguo: la «direttiva 89/665»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra Orizzonte
+Salute – Studio Infermieristico Associato (in prosieguo: «Orizzonte Salute»),
+da una parte e, dall’altra, l’Azienda Pubblica di Servizi alla persona San
+Valentino – Città di Levico Terme (in prosieguo: l’«Azienda»), nonché il
+Ministero della Giustizia, il Ministero dell’Economia e delle Finanze, la
+Presidenza del Consiglio dei Ministri e il Segretario generale del Tribunale
+regionale di giustizia amministrativa di Trento con riguardo alla proroga di
+un appalto di servizi infermieristici e alla gara di appalto successivamente
+bandita nonché ai tributi giudiziari da versare per proporre ricorsi
+giurisdizionali amministrativi in materia di appalti pubblici.  
+  
+---|---  
+  
+Contesto normativo
+
+Diritto dell’Unione
+
+3
+
+|
+
+Ai sensi del terzo considerando della direttiva 89/665, l’apertura degli
+appalti pubblici alla concorrenza [dell’Unione] rende necessario un aumento
+notevole delle garanzie di trasparenza e di non discriminazione e occorre,
+affinché essa sia seguita da effetti concreti, che esistano mezzi di ricorso
+efficaci e rapidi in caso di violazione del diritto [dell’Unione] in materia
+di appalti pubblici o delle norme nazionali che recepiscono tale diritto.  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 1 di detta direttiva, intitolato «Ambito di applicazione e
+accessibilità delle procedure di ricorso», dispone quanto segue:
+
+«1. La presente direttiva si applica agli appalti di cui alla direttiva
+2004/18/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, relativa
+al coordinamento delle procedure di aggiudicazione degli appalti pubblici di
+lavori, di forniture e di servizi [GU L 134, pag. 114], a meno che tali
+appalti siano esclusi a norma degli articoli da 10 a 18 di tale direttiva.
+
+Gli appalti di cui alla presente direttiva comprendono gli appalti pubblici,
+gli accordi quadro, le concessioni di lavori pubblici e i sistemi dinamici di
+acquisizione.
+
+Gli Stati membri adottano i provvedimenti necessari per garantire che, per
+quanto riguarda gli appalti disciplinati dalla direttiva 2004/18/CE, le
+decisioni prese dalle amministrazioni aggiudicatrici possano essere oggetto di
+un ricorso efficace e, in particolare, quanto più rapido possibile, secondo le
+condizioni previste negli articoli da 2 a 2 septies della presente direttiva,
+sulla base del fatto che hanno violato il diritto [dell’Unione] in materia di
+aggiudicazione degli appalti pubblici o le norme nazionali che lo recepiscono.
+
+2\. Gli Stati membri garantiscono che non vi sia alcuna discriminazione tra le
+imprese suscettibili di far valere un pregiudizio nell’ambito di una procedura
+di aggiudicazione di un appalto, a motivo della distinzione effettuata dalla
+presente direttiva tra le norme nazionali che recepiscono il diritto
+[dell’Unione] e le altre norme nazionali.
+
+3\. Gli Stati membri provvedono a rendere accessibili le procedure di ricorso,
+secondo modalità che gli Stati membri possono determinare, a chiunque abbia o
+abbia avuto interesse a ottenere l’aggiudicazione di un determinato appalto e
+sia stato o rischi di essere leso a causa di una presunta violazione.
+
+(...)».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 7 della direttiva 2004/18, intitolato «Importi delle soglie degli
+appalti pubblici», fissa le soglie dei valori stimati a partire dalle quali
+l’aggiudicazione di un appalto deve essere effettuata conformemente alle norme
+della medesima direttiva.  
+  
+---|---  
+  
+6
+
+|
+
+Tali soglie sono modificate a intervalli regolari da regolamenti della
+Commissione europea e adattate alle circostanze economiche. Alla data dei
+fatti del procedimento principale, la soglia concernente gli appalti di
+servizi assegnati da amministrazioni aggiudicatrici diverse dalle autorità
+governative centrali era fissata in EUR 193000 dal regolamento (CE) n.
+1177/2009 della Commissione, del 30 novembre 2009, che modifica le direttive
+del Parlamento europeo e del Consiglio 2004/17/CE, 2004/18/CE e 2009/81/CE
+riguardo alle soglie di applicazione in materia di procedure di aggiudicazione
+degli appalti (GU L 314, pag. 64).  
+  
+---|---  
+  
+Diritto italiano
+
+7
+
+|
+
+L’articolo 13, comma 1, del decreto del Presidente della Repubblica n. 115,
+del 30 maggio 2002, come modificato dalla legge n. 228 del 24 dicembre 2012
+(in prosieguo: il «decreto»), ha introdotto un regime di tassazione degli atti
+giudiziari, costituito da un contributo unificato fissato in proporzione al
+valore della controversia.  
+  
+---|---  
+  
+8
+
+|
+
+A differenza di quanto previsto per i processi civili, l’articolo 13, comma 6
+bis, del decreto fissa l’importo del contributo unificato indipendentemente
+dal valore della controversia nell’ambito dei processi amministrativi.  
+  
+---|---  
+  
+9
+
+|
+
+Ai sensi di detto articolo 13, comma 6 bis, per i ricorsi proposti dinanzi ai
+tribunali amministrativi regionali e al Consiglio di Stato, l’importo del
+contributo unificato è pari, in linea di principio, a EUR 650. Tuttavia, in
+questa stessa disposizione, per specifiche materie sono fissati importi
+diversi, che possono essere ridotti o aumentati.  
+  
+---|---  
+  
+10
+
+|
+
+In forza di detto articolo 13, comma 6 bis, lettera d), del decreto, il
+contributo in materia di appalti pubblici è pari a:
+
+|
+
+—
+
+|
+
+EUR 2000 quando il valore dell’appalto è pari o inferiore a EUR 200000;  
+  
+---|---  
+  
+—
+
+|
+
+EUR 4000 per le controversie di valore compreso tra EUR 200000 e 1000000, e  
+  
+---|---  
+  
+—
+
+|
+
+EUR 6000 per quelle di valore superiore a EUR 1000000.  
+  
+---|---  
+  
+11
+
+|
+
+Ai sensi dell’articolo 13, comma 1 bis, del decreto, per i procedimenti in
+materia di aggiudicazione di appalti pubblici tali importi sono maggiorati del
+50%.  
+  
+---|---  
+  
+12
+
+|
+
+Ai sensi dell’articolo 13, comma 1 quater, del decreto, quando l’impugnazione,
+anche incidentale, è respinta integralmente o è dichiarata inammissibile o
+improcedibile, la parte che l’ha proposta è tenuta a versare un ulteriore
+importo a titolo di contributo unificato pari a quello dovuto per la stessa
+impugnazione, principale o incidentale.  
+  
+---|---  
+  
+13
+
+|
+
+Risulta dalla decisione di rinvio che, ai sensi della normativa applicabile,
+il contributo unificato è versato non solo all’atto del deposito del ricorso
+introduttivo del giudizio, ma anche per il ricorso incidentale e i motivi
+aggiunti che introducono domande nuove.  
+  
+---|---  
+  
+14
+
+|
+
+Dall’articolo 14, comma 3, del decreto si evince che il valore della causa
+corrisponde non al margine di utile che si può trarre dall’esecuzione del
+contratto d’appalto fissato dalle amministrazioni aggiudicatrici, bensì
+all’importo posto a base d’asta dell’appalto stesso.  
+  
+---|---  
+  
+Procedimento principale e questione pregiudiziale
+
+15
+
+|
+
+Orizzonte Salute è un’associazione che fornisce servizi infermieristici a
+favore di enti pubblici e privati. Con il suo ricorso, integrato più volte con
+motivi aggiunti, essa contesta dinanzi al giudice del rinvio le successive
+attribuzioni della gestione dei servizi infermieristici da parte dell’Azienda
+all’Associazione Infermieristica D & F Care nonché altre decisioni adottate
+dall’Azienda.  
+  
+---|---  
+  
+16
+
+|
+
+La gestione di tale servizio è stata attribuita, inizialmente, con proroga del
+contratto concluso con l’Associazione Infermieristica D & F Care per un
+periodo precedente e, successivamente, nel contesto di un bando di gara cui si
+invitavano a partecipare unicamente talune associazioni accreditate dal
+collegio degli Infermieri Professionali Assistenti Sanitari Vigilatrici
+d’Infanzia (IPASVI), di cui Orizzonte Salute non era membro.  
+  
+---|---  
+  
+17
+
+|
+
+Orizzonte Salute ha pagato, a titolo di tributi giudiziari, un contributo
+unificato di un importo pari a EUR 650, corrispondente al costo della
+proposizione di un ricorso amministrativo ordinario.  
+  
+---|---  
+  
+18
+
+|
+
+Con decisione del 5 giugno 2013, il Segretario generale del Tribunale
+regionale di giustizia amministrativa di Trento ha invitato Orizzonte Salute a
+completare il pagamento precedentemente effettuato in quanto, in ragione dei
+motivi aggiunti, la controversia ricadeva ormai nell’ambito
+dell’aggiudicazione di appalti pubblici, per raggiungere la somma del
+contributo unificato relativa a tale tipo di controversie, che era pari,
+pertanto, a EUR 2000.  
+  
+---|---  
+  
+19
+
+|
+
+Con un nuovo ricorso, proposto il 2 luglio 2013, Orizzonte Salute ha impugnato
+tale decisione, facendo valere la violazione dell’articolo 13, comma 6 bis,
+del decreto e, inoltre, l’illegittimità costituzionale di detta disposizione.  
+  
+---|---  
+  
+20
+
+|
+
+È alla luce di tale ricorso che le amministrazioni statali hanno proposto
+un’azione giurisdizionale eccependo il difetto di competenza del giudice
+amministrativo del rinvio, dal momento che il contributo unificato
+costituirebbe una prestazione fiscale la cui contestazione ricadrebbe nella
+competenza del giudice tributario. Esse hanno altresì contestato la fondatezza
+di detto ricorso.  
+  
+---|---  
+  
+21
+
+|
+
+Il giudice del rinvio, pur riconoscendo che il contributo unificato possiede
+il carattere di una tassa, rileva che, nella causa pendente dinanzi ad esso,
+si tratta di un atto emanato dal suo Segretario generale, che possiede la
+natura di una decisione amministrativa. In tal senso, a suo avviso, occorre
+assoggettare la decisione del 5 giugno 2013 al controllo del giudice
+amministrativo. Inoltre, il giudice del rinvio ritiene che Orizzonte Salute
+disponga di un interesse all’annullamento della domanda di pagamento dei
+tributi giudiziari maggiorati.  
+  
+---|---  
+  
+22
+
+|
+
+Detto giudice ricorda che, per i processi amministrativi, contrariamente a
+quanto è previsto per i processi civili, l’importo del contributo unificato
+non è vincolato al valore della lite e, per particolari materie di diritto
+amministrativo, sono fissati importi specifici.  
+  
+---|---  
+  
+23
+
+|
+
+Il giudice del rinvio rileva che, nell’ambito delle procedure di
+aggiudicazione di appalti pubblici, il contributo unificato da versare è
+considerevolmente più elevato degli importi da versare per le controversie
+amministrative assoggettate al procedimento ordinario.  
+  
+---|---  
+  
+24
+
+|
+
+Detto giudice considera che la tassazione dei ricorsi dinanzi al giudice
+amministrativo, soprattutto in materia di aggiudicazione di appalti pubblici,
+possa dissuadere le imprese dal proporre un’azione giurisdizionale e pone
+pertanto problemi di conformità con i criteri e i principi dell’ordinamento
+giuridico dell’Unione. Esso presume che il beneficio dell’impresa sia pari, in
+genere, a circa il 10% dell’importo dell’appalto e ritiene che il versamento
+anticipato di un contributo unificato superiore all’importo di detto beneficio
+possa indurre gli amministrati a rinunciare a taluni meccanismi processuali.  
+  
+---|---  
+  
+25
+
+|
+
+In tal modo, secondo il giudice del rinvio, la normativa nazionale oggetto del
+procedimento principale limita il diritto di agire in giudizio, incide
+sull’effettività del controllo giurisdizionale, discrimina gli operatori che
+possiedono una debole capacità finanziaria rispetto a quelli che dispongono di
+un’elevata capacità finanziaria e li pone in una situazione svantaggiosa
+rispetto a coloro che, nell’ambito delle proprie attività, adiscono i giudici
+civili e commerciali. Esso ritiene che il costo sopportato dallo Stato ai fini
+del funzionamento della giustizia amministrativa in materia di appalti
+pubblici non sia sensibilmente differente, distinto o più elevato di quello
+relativo ai procedimenti legati ad altri tipi di contenzioso.  
+  
+---|---  
+  
+26
+
+|
+
+Il giudice del rinvio fa riferimento alla dottrina secondo la quale il
+legislatore nazionale ha certamente inteso alleggerire il peso del contenzioso
+arretrato e facilitare sia la realizzazione di opere pubbliche sia
+l’acquisizione pubblica di beni e servizi e rileva, al riguardo, che il
+contenzioso in materia di appalti pubblici ha avuto una significativa
+flessione a partire dal 2012.  
+  
+---|---  
+  
+27
+
+|
+
+Detto giudice precisa che il valore dell’appalto pubblico, globalmente
+calcolato, è superiore al limite previsto dalla direttiva 2004/18 e considera,
+pertanto, che i principi di effettività, celerità, non discriminazione e
+accessibilità, di cui all’articolo 1 della direttiva 89/665, siano applicabili
+al procedimento principale. A suo avviso, la normativa nazionale in parola
+viola tali principi nonché il diritto alla tutela giurisdizionale effettiva,
+ribadito dall’articolo 47 della Carta dei diritti fondamentali dell’Unione
+europea (in prosieguo: la «Carta»).  
+  
+---|---  
+  
+28
+
+|
+
+Alla luce di quanto sopra, il Tribunale regionale di giustizia amministrativa
+di Trento ha deciso di sospendere il procedimento e di sottoporre alla Corte
+la seguente questione pregiudiziale:
+
+«Se i principi fissati dalla direttiva 89/665 (…) ostino ad una normativa
+nazionale (…) che [ha] stabilito elevati importi di contributo unificato per
+l’accesso alla giustizia amministrativa in materia di contratti pubblici».  
+  
+---|---  
+  
+Sulla ricevibilità delle osservazioni scritte presentate alla Corte dalle
+parti intervenienti nel procedimento principale
+
+29
+
+|
+
+Sono intervenuti nel procedimento principale a sostegno di Orizzonte Salute e
+hanno presentato osservazioni scritte alla Corte il Coordinamento delle
+associazioni e dei comitati di tutela dell’ambiente e dei diritti degli utenti
+e dei consumatori (Codacons), la Camera Amministrativa Romana, l’Associazione
+dei Consumatori Cittadini europei, l’Ordine degli Avvocati di Roma,
+l’Associazione dei Giovani Amministrativisti e la Società italiana degli
+Avvocati Amministrativisti (in prosieguo, congiuntamente: gli «intervenienti
+nel procedimento principale»).  
+  
+---|---  
+  
+30
+
+|
+
+Il governo italiano fa valere l’irricevibilità delle osservazioni scritte
+depositate dalle parti intervenute dopo la pronuncia della decisione di rinvio
+e la sospensione del procedimento principale. Tale irricevibilità
+discenderebbe dall’articolo 23 dello Statuto della Corte di giustizia
+dell’Unione europea e il giudice nazionale non potrebbe, dopo la sospensione
+del procedimento, valutare la ricevibilità di un intervento successivo al
+rinvio. Secondo tale governo, occorre escludere dagli atti le osservazioni
+scritte depositate da persone fisiche e giuridiche diverse da quelle in causa
+alla data in cui la domanda di pronuncia pregiudiziale è stata introdotta, per
+evitare che il procedimento si trasformi in actio popularis.  
+  
+---|---  
+  
+31
+
+|
+
+A tal riguardo occorre ricordare che, quanto alla partecipazione al
+procedimento pregiudiziale, ai sensi dell’articolo 96, paragrafo 1, del
+regolamento di procedura, in combinato disposto con l’articolo 23 dello
+Statuto della Corte, possono presentare osservazioni dinanzi alla Corte le
+parti nel procedimento principale, gli Stati membri, la Commissione, nonché,
+eventualmente, l’istituzione, l’organo o l’organismo dell’Unione europea che
+ha adottato l’atto sulla cui validità o interpretazione si controverte, gli
+Stati aderenti all’accordo sullo Spazio economico europeo diversi dagli Stati
+membri, l’Autorità di vigilanza AELS e gli Stati terzi interessati. Dato che
+l’elenco contenuto in tali disposizioni è esaustivo, questo diritto non può
+essere esteso a persone fisiche o giuridiche che non siano espressamente
+previste.  
+  
+---|---  
+  
+32
+
+|
+
+Le «parti nel procedimento principale», ai sensi dell’articolo 97, paragrafo
+1, del regolamento di procedura, sono determinate in quanto tali dal giudice
+del rinvio, conformemente alle disposizioni del diritto nazionale.
+Conseguentemente, spetta al giudice del rinvio determinare, secondo le norme
+processuali nazionali, le parti del procedimento principale dinanzi ad esso
+pendente.  
+  
+---|---  
+  
+33
+
+|
+
+Non spetta alla Corte verificare se una decisione del giudice del rinvio che
+consente un intervento dinanzi ad esso sia stata adottata conformemente a tali
+norme. La Corte deve attenersi a tale decisione fintantoché esso non sia stato
+revocato nell’ambito dei mezzi di ricorso previsti dal diritto nazionale (v.,
+per analogia, sentenze Radlberger Getränkegesellschaft e S. Spitz, C‑309/02,
+EU:C:2004:799, punto 26, nonché Burtscher, C‑213/04, EU:C:2005:731, punto 32).  
+  
+---|---  
+  
+34
+
+|
+
+Orbene, nella specie non si sostiene che la decisione relativa
+all’ammissibilità delle parti intervenienti nel procedimento principale non
+sia stata conforme alle norme che disciplinano il procedimento pendente
+dinanzi al giudice del rinvio né che sia stato proposto un ricorso avverso
+tale decisione.  
+  
+---|---  
+  
+35
+
+|
+
+Non può riconoscersi la qualità di «parte nel procedimento principale» ai
+sensi dell’articolo 96, paragrafo 1, del regolamento di procedura, letto in
+combinato disposto con l’articolo 23 dello Statuto della Corte di giustizia,
+ad una persona, e quest’ultima non può essere ammessa ad un procedimento
+dinanzi alla Corte ai sensi dell’articolo 267 TFUE, qualora questa persona
+introduca dinanzi a un giudice nazionale la sua domanda di intervento non per
+assumere un ruolo attivo nella prosecuzione dell’azione dinanzi al giudice
+nazionale, ma al solo fine di partecipare al procedimento dinanzi alla Corte
+(v., in tal senso, ordinanza Football Association Premier League e a.,
+C‑403/08 e C‑429/08, EU:C:2009:789, punto 9).  
+  
+---|---  
+  
+36
+
+|
+
+Tuttavia, occorre rilevare che nessun elemento del fascicolo indica che gli
+intervenienti nel procedimento principale non intenderebbero assumere un ruolo
+attivo nel procedimento dinanzi al giudice del rinvio e vorrebbero
+manifestarsi esclusivamente nel contesto del procedimento dinanzi alla Corte.  
+  
+---|---  
+  
+37
+
+|
+
+Infine, sarebbe incompatibile con il principio di buona amministrazione della
+giustizia e con l’esigenza di trattare le questioni pregiudiziali entro un
+termine ragionevole il fatto che il procedimento scritto dinanzi alla Corte,
+in ragione di successive ammissioni di interventi e del termine di due mesi
+previsto dall’articolo 23, secondo comma, dello Statuto della Corte di
+giustizia per il deposito delle osservazioni scritte di tali intervenienti,
+non possa concludersi o che la fase scritta del procedimento debba essere
+riaperta.  
+  
+---|---  
+  
+38
+
+|
+
+È in tale contesto che l’articolo 97, paragrafo 2, del regolamento di
+procedura della Corte prevede che, quando un giudice nazionale comunica alla
+Corte l’intervento di una parte nuova nel procedimento principale, e la causa
+è già pendente dinanzi alla Corte, la nuova parte accetti di assumere la causa
+nello stato in cui essa si trova alla data di tale informazione.  
+  
+---|---  
+  
+39
+
+|
+
+In tal modo, la Corte può essere indotta a consentire che un interveniente nel
+procedimento principale depositi osservazioni scritte solo entro il termine di
+cui godono, a tal fine, gli interessati ai sensi dell’articolo 23 dello
+Statuto della Corte, ai quali la domanda di pronuncia pregiudiziale è stata
+inizialmente notificata.  
+  
+---|---  
+  
+40
+
+|
+
+Si deve rilevare che, nell’ambito del presente procedimento, il deposito delle
+osservazioni scritte delle parti intervenienti ammesse al procedimento
+principale dal giudice del rinvio non ha costituito un rischio per la buona
+amministrazione della giustizia né per il trattamento della causa entro un
+termine ragionevole. La Corte ha pertanto considerato che non occorreva far
+ricorso alla facoltà menzionata al punto che precede della presente sentenza.  
+  
+---|---  
+  
+41
+
+|
+
+Alla luce delle suesposte considerazioni, occorre respingere gli argomenti del
+governo italiano intesi a far dichiarare irricevibili le osservazioni scritte
+depositate dagli intervenienti al procedimento principale. Tali osservazioni
+scritte sottoposte alla Corte sono ricevibili.  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+42
+
+|
+
+Con la sua questione, il giudice del rinvio chiede, in sostanza, se l’articolo
+1 della direttiva 89/665 nonché i principi di equivalenza e di effettività
+debbano essere interpretati nel senso che essi ostano a una normativa
+nazionale come quella oggetto del procedimento principale, la quale impone,
+all’atto di proposizione di un ricorso nei procedimenti giurisdizionali
+amministrativi in materia di appalti pubblici, il versamento di tributi
+giudiziari più elevati che in altre materie.  
+  
+---|---  
+  
+43
+
+|
+
+L’articolo 1, paragrafi 1 e 3, della direttiva 89/665 impone agli Stati membri
+di adottare i provvedimenti necessari per garantire l’esistenza di ricorsi
+efficaci e quanto più rapidi possibile contro le decisioni delle autorità
+aggiudicatrici incompatibili con il diritto dell’Unione, garantendo un’ampia
+accessibilità dei ricorsi da parte di chiunque abbia o abbia avuto interesse a
+ottenere l’aggiudicazione di un determinato appalto e sia stato o rischi di
+essere leso a causa di una presunta violazione.  
+  
+---|---  
+  
+44
+
+|
+
+Tale direttiva riconosce agli Stati membri un potere discrezionale nella
+scelta delle garanzie procedurali da essa previste e delle formalità ad esse
+relative (v. sentenza Combinatie Spijker Infrabouw-De Jonge Konstruktie e a.,
+C‑568/08, EU:C:2010:751, punto 57).  
+  
+---|---  
+  
+45
+
+|
+
+Segnatamente, la direttiva 89/665 non contiene alcuna disposizione attinente
+specificamente ai tributi giudiziari da versare da parte degli amministrati
+per proporre, ai sensi dell’articolo 2, paragrafo 1, lettera b), della
+direttiva medesima, un ricorso di annullamento avverso una decisione
+asseritamente illegittima relativa ad un procedimento di aggiudicazione di
+appalti pubblici.  
+  
+---|---  
+  
+46
+
+|
+
+Secondo costante giurisprudenza, in assenza di una disciplina dell’Unione in
+materia, spetta a ciascuno Stato membro, in forza del principio di autonomia
+processuale degli Stati membri, stabilire le modalità della procedura
+amministrativa e quelle relative alla procedura giurisdizionale intese a
+garantire la tutela dei diritti spettanti agli amministrati in forza del
+diritto dell’Unione. Tali modalità procedurali non devono, tuttavia, essere
+meno favorevoli di quelle che riguardano ricorsi analoghi previsti per la
+tutela dei diritti derivanti dall’ordinamento interno (principio di
+equivalenza), né devono rendere praticamente impossibile o eccessivamente
+difficile l’esercizio dei diritti conferiti dall’ordinamento giuridico
+dell’Unione (principio di effettività) (sentenze Club Hotel Loutraki e a.,
+C‑145/08 e C‑149/08, EU:C:2010:247, punto 74 nonché eVigilo, C‑538/13,
+EU:C:2015:166, punto 39).  
+  
+---|---  
+  
+47
+
+|
+
+Inoltre, dato che siffatti tributi giudiziari costituiscono modalità
+procedurali di ricorso giurisdizionale destinate ad assicurare la salvaguardia
+dei diritti conferiti dal diritto dell’Unione ai candidati ed agli offerenti
+lesi da decisioni delle autorità aggiudicatrici, essi non devono mettere in
+pericolo l’effetto utile della direttiva 89/665 (v., in tal senso, sentenze
+Universale-Bau e a., C‑470/99, EU:C:2002:746, punto 72, nonché eVigilo,
+C‑538/13, EU:C:2015:166, punto 40).  
+  
+---|---  
+  
+48
+
+|
+
+Per quanto riguarda il principio di effettività, la Corte ha già avuto modo di
+affermare che esso implica un’esigenza di tutela giurisdizionale, sancita
+dall’articolo 47 della Carta, che il giudice nazionale è tenuto a rispettare
+(v., in tal senso, sentenza Sánchez Morcillo e Abril García, C‑169/14,
+EU:C:2014:2099, punto 35 nonché la giurisprudenza ivi richiamata).  
+  
+---|---  
+  
+49
+
+|
+
+In tal senso, l’articolo 1 della direttiva 89/665 deve necessariamente essere
+interpretato alla luce dei diritti fondamentali sanciti da tale Carta, in
+particolare il diritto al ricorso effettivo dinanzi a un giudice, previsto dal
+suo articolo 47 (v., in tal senso, sentenza Ryneš, C‑212/13, EU:C:2014:2428,
+punto 29).  
+  
+---|---  
+  
+50
+
+|
+
+Occorre pertanto verificare se una normativa come quella oggetto del
+procedimento principale possa essere considerata conforme ai principi di
+equivalenza e di effettività nonché all’effetto utile della direttiva 89/665.  
+  
+---|---  
+  
+51
+
+|
+
+I due aspetti di questa verifica riguardano, da una parte, l’importo del
+contributo unificato da versare per la proposizione di un ricorso in
+procedimenti giurisdizionali amministrativi in materia di appalti pubblici e,
+dall’altra, l’ipotesi di cumulo di tali contributi versati nel contesto di una
+stessa procedura giurisdizionale amministrativa in materia di appalti
+pubblici.  
+  
+---|---  
+  
+Sul contributo unificato da versare per la proposizione di un ricorso in
+procedimenti giurisdizionali amministrativi in materia di appalti pubblici
+
+52
+
+|
+
+In primo luogo, occorre ricordare, al pari del governo austriaco, che, ai
+sensi dell’articolo 1, paragrafo 1, della direttiva 89/665, detta direttiva si
+applica agli appalti di cui alla direttiva 2004/18, a meno che tali appalti
+siano esclusi a norma degli articoli da 10 a 18 di quest’ultima direttiva.  
+  
+---|---  
+  
+53
+
+|
+
+Orbene, ai sensi dell’articolo 7, che si trova nel capo II della direttiva
+2004/18, intitolato «Campo di applicazione», detta direttiva si applica solo
+agli appalti pubblici il cui valore stimato al netto dell’imposta sul valore
+aggiunto è pari o superiore alle soglie previste dalla stessa disposizione.  
+  
+---|---  
+  
+54
+
+|
+
+Ne consegue che agli appalti pubblici di servizi aggiudicati da
+amministrazioni aggiudicatrici diverse da autorità governative centrali il cui
+valore sia inferiore a EUR 193000 non si applica la direttiva 2004/18 e,
+conseguentemente, nemmeno la direttiva 89/665.  
+  
+---|---  
+  
+55
+
+|
+
+Per quanto riguarda il principio di effettività, occorre ricordare che il
+regime dei tributi giudiziari oggetto del procedimento principale prevede tre
+importi fissi di contributo unificato pari a EUR 2000, 4000 e 6000, per le tre
+categorie di appalti pubblici, vale a dire quelli di valore pari o inferiore a
+EUR 200000, quelli il cui valore si situa tra EUR 200000 e 1000000, e quelli
+il cui valore è superiore a EUR 1000000.  
+  
+---|---  
+  
+56
+
+|
+
+Dagli atti sottoposti alla Corte risulta che il sistema degli importi fissi di
+contributo unificato è proporzionale al valore degli appalti pubblici che
+ricadono in queste tre differenti categorie a possiede, complessivamente
+inteso, carattere degressivo.  
+  
+---|---  
+  
+57
+
+|
+
+Infatti, il contributo unificato da versare, espresso in percentuale dei
+valori «limite» delle tre categorie di appalti pubblici, varia dall’1,0%
+all’1,036% del valore dell’appalto se esso si situa tra EUR 193000 e 200000,
+dallo 0,4 al 2,0% se tale valore si situa tra EUR 200000 e 1000000, e
+corrisponde allo 0,6% del valore dell’appalto o a una percentuale inferiore,
+se detto valore è superiore a EUR 1000000.  
+  
+---|---  
+  
+58
+
+|
+
+Orbene, i tributi giudiziari da versare per proporre ricorsi giurisdizionali
+amministrativi in materia di appalti pubblici che non siano superiori al 2%
+del valore dell’appalto in questione non sono tali da rendere praticamente
+impossibile o eccessivamente difficile l’esercizio dei diritti conferiti
+dall’ordinamento giuridico dell’Unione in materia di appalti pubblici.  
+  
+---|---  
+  
+59
+
+|
+
+Nessuno degli elementi dedotti dal giudice del rinvio o dagli interessati che
+hanno presentato osservazioni alla Corte rimette in questione tale
+affermazione.  
+  
+---|---  
+  
+60
+
+|
+
+Segnatamente, per quanto riguarda la fissazione del contributo unificato in
+funzione del valore dell’appalto oggetto del procedimento principale e non in
+funzione del beneficio che l’impresa partecipante al bando di gara può
+legittimamente attendersi dall’appalto stesso, occorre indicare, da un canto,
+che diversi Stati membri riconoscono la possibilità di calcolare i tributi
+processuali da versare basandosi sul valore dell’oggetto della controversia.  
+  
+---|---  
+  
+61
+
+|
+
+D’altro canto, come rilevato dall’avvocato generale al paragrafo 40 delle
+conclusioni, nell’ambito degli appalti pubblici un sistema che imponga calcoli
+specifici per ogni procedura di aggiudicazione di un appalto e per ogni
+impresa, il cui risultato potrebbe essere contestato, risulterebbe complicato
+e imprevedibile.  
+  
+---|---  
+  
+62
+
+|
+
+Quanto all’applicazione del contributo unificato italiano a svantaggio degli
+operatori che possiedono una debole capacità finanziaria, occorre rilevare, da
+un canto, al pari della Commissione, che tale contributo è imposto
+indistintamente, quanto alla sua forma e al suo importo, nei confronti di
+tutti gli amministrati che intendano proporre ricorso avverso una decisione
+adottata dalle amministrazioni aggiudicatrici.  
+  
+---|---  
+  
+63
+
+|
+
+Occorre rilevare che tale sistema non crea una discriminazione tra gli
+operatori che esercitano nel medesimo settore di attività.  
+  
+---|---  
+  
+64
+
+|
+
+Peraltro, risulta dalle disposizioni delle direttive dell’Unione in materia di
+appalti pubblici, quali l’articolo 47 della direttiva 2004/18, che la
+partecipazione di un’impresa ad un appalto pubblico presuppone una capacità
+economica e finanziaria adeguata.  
+  
+---|---  
+  
+65
+
+|
+
+Infine, sebbene la parte ricorrente abbia l’obbligo di anticipare il
+contributo unificato all’atto di proposizione del proprio ricorso
+giurisdizionale avverso una decisione in materia di appalti pubblici, la parte
+soccombente è tenuta, in linea di principio, a rimborsare i tributi giudiziari
+anticipati dalla parte che risulta vincitrice.  
+  
+---|---  
+  
+66
+
+|
+
+Quanto al principio di equivalenza, la circostanza per la quale, nell’ambito
+delle procedure di aggiudicazione di appalti pubblici, il contributo unificato
+da versare è considerevolmente più elevato, da una parte, degli importi da
+versare per le controversie amministrative assoggettate al procedimento
+ordinario e, dall’altra parte, dei tributi giudiziari percepiti nei
+procedimenti civili, non può, di per sé, dimostrare una violazione di detto
+principio.  
+  
+---|---  
+  
+67
+
+|
+
+Il principio di equivalenza, infatti, come è stato ricordato al punto 46 della
+presente sentenza, implica un pari trattamento dei ricorsi fondati su una
+violazione del diritto nazionale e di quelli, simili, fondati su una
+violazione del diritto dell’Unione, e non l’equivalenza delle norme
+processuali nazionali applicabili a contenziosi di diversa natura, quali il
+contenzioso civile, da un lato, e quello amministrativo, dall’altro, o a
+contenziosi che ricadono in due differenti settori del diritto (v. sentenza
+ÖBB Personenverkehr, C‑417/13, EU:C:2015:38, punto 74).  
+  
+---|---  
+  
+68
+
+|
+
+Nella specie, nessuno degli elementi fatti valere dinanzi alla Corte è tale da
+supportare l’argomento secondo cui il sistema del contributo unificato
+italiano si applicherebbe in modo diverso ai ricorsi fondati su diritti che
+spettano agli amministrati in forza del diritto dell’Unione relativo agli
+appalti pubblici rispetto a quelli che si fondano sulla violazione del diritto
+interno aventi il medesimo oggetto.  
+  
+---|---  
+  
+69
+
+|
+
+Se ne deve trarre la conclusione che i tributi giudiziari da versare all’atto
+di proposizione di un ricorso nei procedimenti giurisdizionali amministrativi
+in materia di appalti pubblici, quali il contributo unificato oggetto del
+procedimento principale, non lede né l’effetto utile della direttiva 89/665 né
+i principi di equivalenza e di effettività.  
+  
+---|---  
+  
+Sul cumulo dei contributi unificati versati nel contesto di una stessa
+procedura giurisdizionale amministrativa in materia di appalti pubblici
+
+70
+
+|
+
+Secondo la normativa nazionale, il contributo unificato deve essere versato
+non solo all’atto del deposito del ricorso introduttivo del giudizio avverso
+la decisione adottata da un’amministrazione aggiudicatrice in materia di
+aggiudicazione di appalti pubblici, ma il medesimo importo deve essere
+parimenti versato per i ricorsi incidentali e i motivi aggiunti che
+introducono domande nuove nel corso del giudizio.  
+  
+---|---  
+  
+71
+
+|
+
+Dalla decisione di rinvio risulta che, ai sensi di una circolare del
+Segretario generale della Giustizia Amministrativa del 18 ottobre 2001, solo
+l’introduzione di atti procedurali autonomi rispetto al ricorso introduttivo
+del giudizio e intesi ad estendere considerevolmente l’oggetto della
+controversia dà luogo al pagamento di tributi supplementari.  
+  
+---|---  
+  
+72
+
+|
+
+La percezione di tributi giudiziari multipli e cumulativi nel contesto del
+medesimo procedimento giurisdizionale amministrativo non si pone in contrasto,
+in linea di principio, né con l’articolo 1 della direttiva 89/665, letto alla
+luce dell’articolo 47 della Carta, né con i principi di equivalenza e di
+effettività.  
+  
+---|---  
+  
+73
+
+|
+
+Una tale percezione, infatti, contribuisce, in linea di principio, al buon
+funzionamento del sistema giurisdizionale, in quanto essa costituisce una
+fonte di finanziamento dell’attività giurisdizionale degli Stati membri e
+dissuade l’introduzione di domande che siano manifestamente infondate o siano
+intese unicamente a ritardare il procedimento.  
+  
+---|---  
+  
+74
+
+|
+
+Tali obiettivi possono giustificare un’applicazione multipla di tributi
+giudiziari come quelli oggetto del procedimento principale solo se gli oggetti
+dei ricorsi o dei motivi aggiunti sono effettivamente distinti e costituiscono
+un ampliamento considerevole dell’oggetto della controversia già pendente.  
+  
+---|---  
+  
+75
+
+|
+
+Se la situazione non è in tali termini, l’obbligo di pagamento aggiuntivo di
+tributi giudiziari in ragione della presentazione di tali ricorsi o motivi si
+pone, invece, in contrasto con l’accessibilità dei mezzi di ricorso garantita
+dalla direttiva 89/665 e con il principio di effettività.  
+  
+---|---  
+  
+76
+
+|
+
+Quando una persona propone diversi ricorsi giurisdizionali o presenta diversi
+motivi aggiunti nel contesto del medesimo procedimento giurisdizionale, la
+sola circostanza che la finalità di questa persona sia quella di ottenere un
+determinato appalto non comporta necessariamente l’identità di oggetto dei
+suoi ricorsi o dei suoi motivi.  
+  
+---|---  
+  
+77
+
+|
+
+Nell’ipotesi di contestazione di una parte interessata, spetta al giudice
+nazionale esaminare gli oggetti dei ricorsi presentati da un amministrato o
+dei motivi dedotti dal medesimo nel contesto dello stesso procedimento. Il
+giudice nazionale, se accerta che tali oggetti non sono effettivamente
+distinti o non costituiscono un ampliamento considerevole dell’oggetto della
+controversia già pendente, è tenuto a dispensare l’amministrato dall’obbligo
+di pagamento di tributi giudiziari cumulativi.  
+  
+---|---  
+  
+78
+
+|
+
+Peraltro, dinanzi alla Corte non è stato sollevato alcun argomento tale da
+rimettere in questione la conformità del cumulo delle contribuzioni unificate
+con il principio di equivalenza.  
+  
+---|---  
+  
+79
+
+|
+
+Considerato quanto precede, occorre risolvere la questione presentata come
+segue:
+
+|
+
+—
+
+|
+
+L’articolo 1 della direttiva 89/665 nonché i principi di equivalenza e di
+effettività devono essere interpretati nel senso che essi non ostano a una
+normativa nazionale che impone il versamento di tributi giudiziari, come il
+contributo unificato oggetto del procedimento principale, all’atto di
+proposizione di un ricorso in materia di appalti pubblici dinanzi ai giudici
+amministrativi.  
+  
+---|---  
+  
+—
+
+|
+
+L’articolo 1 della direttiva 89/665 nonché i principi di equivalenza e di
+effettività non ostano né alla riscossione di tributi giudiziari multipli nei
+confronti di un amministrato che introduca diversi ricorsi giurisdizionali
+relativi alla medesima aggiudicazione di appalti pubblici né a che tale
+amministrato sia obbligato a versare tributi giudiziari aggiuntivi per poter
+dedurre motivi aggiunti relativi alla medesima aggiudicazione di appalti
+pubblici, nel contesto di un procedimento giurisdizionale in corso. Tuttavia,
+nell’ipotesi di contestazione di una parte interessata, spetta al giudice
+nazionale esaminare gli oggetti dei ricorsi presentati da un amministrato o
+dei motivi dedotti dal medesimo nel contesto di uno stesso procedimento. Il
+giudice nazionale, se accerta che tali oggetti non sono effettivamente
+distinti o non costituiscono un ampliamento considerevole dell’oggetto della
+controversia già pendente, è tenuto a dispensare l’amministrato dall’obbligo
+di pagamento di tributi giudiziari cumulativi.  
+  
+---|---  
+  
+Sulle spese
+
+80
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 1 della direttiva 89/665/CEE del Consiglio, del 21 dicembre 1989,
+che coordina le disposizioni legislative, regolamentari e amministrative
+relative all’applicazione delle procedure di ricorso in materia di
+aggiudicazione degli appalti pubblici di forniture e di lavori, come
+modificata dalla direttiva 2007/66/CE del Parlamento europeo e del Consiglio,
+dell’11 dicembre 2007, nonché i principi di equivalenza e di effettività
+devono essere interpretati nel senso che essi non ostano a una normativa
+nazionale che impone il versamento di tributi giudiziari, come il contributo
+unificato oggetto del procedimento principale, all’atto di proposizione di un
+ricorso in materia di appalti pubblici dinanzi ai giudici amministrativi.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 1 della direttiva 89/665, come modificata dalla direttiva 2007/66,
+nonché i principi di equivalenza e di effettività non ostano né alla
+riscossione di tributi giudiziari multipli nei confronti di un amministrato
+che introduca diversi ricorsi giurisdizionali relativi alla medesima
+aggiudicazione di appalti pubblici né a che tale amministrato sia obbligato a
+versare tributi giudiziari aggiuntivi per poter dedurre motivi aggiunti
+relativi alla medesima aggiudicazione di appalti pubblici, nel contesto di un
+procedimento giurisdizionale in corso. Tuttavia, nell’ipotesi di contestazione
+di una parte interessata, spetta al giudice nazionale esaminare gli oggetti
+dei ricorsi presentati da un amministrato o dei motivi dedotti dal medesimo
+nel contesto di uno stesso procedimento. Il giudice nazionale, se accerta che
+tali oggetti non sono effettivamente distinti o non costituiscono un
+ampliamento considerevole dell’oggetto della controversia già pendente, è
+tenuto a dispensare l’amministrato dall’obbligo di pagamento di tributi
+giudiziari cumulativi.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: l’italiano.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

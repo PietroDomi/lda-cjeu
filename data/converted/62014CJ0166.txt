@@ -1,0 +1,1016 @@
+
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+26 novembre 2015 ( * )
+
+«Rinvio pregiudiziale — Appalti pubblici — Direttiva 89/665/CEE — Principi di
+effettività e di equivalenza — Procedure di ricorso in materia di
+aggiudicazione di appalti pubblici — Termine di ricorso — Normativa nazionale
+che subordina l’azione di risarcimento alla previa constatazione
+dell’illegittimità della procedura — Termine di decadenza che inizia a
+decorrere indipendentemente dalla conoscenza dell’illegittimità da parte del
+richiedente»
+
+Nella causa C‑166/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Verwaltungsgerichtshof (Corte
+amministrativa, Austria), con decisione del 25 marzo 2014, pervenuta in
+cancelleria il 7 aprile 2014, nel procedimento
+
+MedEval – Qualitäts-, Leistungs- und Struktur-Evaluierung im Gesundheitswesen
+GmbH,
+
+con l’intervento di:
+
+Bundesminister für Wissenschaft, Forschung und Wirtschaft,
+
+Hauptverband der österreichischen Sozialversicherungsträger,
+
+Pharmazeutische Gehaltskasse für Österreich,
+
+LA CORTE (Quinta Sezione),
+
+composta da T. von Danwitz, presidente della Quarta Sezione, facente funzione
+di presidente della Quinta Sezione, D. Šváby, A. Rosas, E. Juhász (relatore) e
+C. Vajda, giudici,
+
+avvocato generale: J. Kokott,
+
+cancelliere: C. Strömholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 22 aprile
+2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la MedEval - Qualitäts-, Leistungs- und Struktur‑Evaluierung im
+Gesundheitswesen GmbH, da M. Oder e A. Hiersche, Rechtsanwälte;  
+  
+---|---  
+  
+—
+
+|
+
+per lo Hauptverband der österreichischen Sozialversicherungsträger, da G.
+Streit, Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo austriaco, da M. Fruhmann, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo italiano, da G. Palmieri, in qualità di agente, assistita da A.
+De Stefano, avvocato dello Stato;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da B.-R. Killmann e A. Tokár, in qualità di
+agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 21
+maggio 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione della
+direttiva 89/665/CEE del Consiglio, del 21 dicembre 1989, che coordina le
+disposizioni legislative, regolamentari e amministrative relative
+all’applicazione delle procedure di ricorso in materia di aggiudicazione degli
+appalti pubblici di forniture e di lavori (GU L 395, pag. 33), come modificata
+dalla direttiva 2007/66/CE del Parlamento europeo e del Consiglio, dell’11
+dicembre 2007 (GU L 335, pag. 31, in prosieguo: la «direttiva 89/665»), nonché
+dei principi di effettività e di equivalenza.  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di un ricorso proposto dalla
+MedEval - Qualitäts-, Leistungs- und Struktur‑Evaluierung im Gesundheitswesen
+GmbH (in prosieguo: la «MedEval»), nei confronti di una decisione del
+Bundesvergabeamt (Ufficio federale degli appalti, in prosieguo: l’«Ufficio»),
+con la quale quest’ultimo ha respinto la domanda della MedEval diretta a far
+constatare l’illegittimità della procedura di gara d’appalto pubblico svolta
+dallo Hauptverband der österreichischen Sozialversicherungsträger (Federazione
+degli organismi austriaci di sicurezza sociale; in prosieguo: la
+«Federazione») e riguardante l’attuazione di un sistema di gestione
+elettronica della prescrizione di medicinali, appalto che e stato assegnato
+alla Pharmazeutische Gehaltskasse für Österreich (Cassa delle retribuzioni dei
+farmacisti).  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+I considerando 2, 13, 14, 25 e 27 della direttiva 2007/66 sono così formulati:
+
+|
+
+«(2)
+
+|
+
+[La direttiva 89/665] si [applica] unicamente alle procedure di aggiudicazione
+degli appalti disciplinate [dalla direttiva 2004/18/CE del Parlamento europeo
+e del Consiglio, del 31 marzo 2004, relativa al coordinamento delle procedure
+di aggiudicazione degli appalti pubblici di lavori, di forniture e di servizi
+(GU L 134, pag. 114)] (...), come interpretat[a] dalla Corte di giustizia
+[dell’Unione europea] a prescindere dalla procedura di evidenza pubblica
+utilizzata e dai mezzi con cui si indice una gara, compresi i concorsi di
+progettazione, i sistemi di qualificazione e i sistemi dinamici di
+acquisizione. Secondo la giurisprudenza della Corte di giustizia, gli Stati
+membri dovrebbero garantire che siano accessibili mezzi di ricorso efficaci e
+rapidi avverso le decisioni prese dalle amministrazioni aggiudicatrici e dagli
+enti aggiudicatori relativamente alla questione se un determinato appalto
+rientri o meno nel campo di applicazione ratione personae e ratione materiae
+[della direttiva 2004/18] (...)  
+  
+---|---  
+  
+(...)
+
+(13)
+
+|
+
+Per contrastare l’aggiudicazione di appalti mediante affidamenti diretti
+illegittimi, che secondo la Corte di giustizia (...) rappresenta la violazione
+più grave del diritto [dell’Unione] degli appalti pubblici da parte di
+un’amministrazione aggiudicatrice o di un ente aggiudicatore, è opportuno
+prevedere sanzioni effettive, proporzionate e dissuasive. Pertanto, un
+contratto risultante da un’aggiudicazione mediante affidamenti diretti
+illegittimi dovrebbe essere considerato in linea di principio privo di
+effetto. La carenza di effetti non dovrebbe essere automatica ma dovrebbe
+essere accertata da un organo di ricorso indipendente o dovrebbe essere il
+risultato di una decisione di quest’ultimo.  
+  
+---|---  
+  
+(14)
+
+|
+
+La privazione di effetti è il modo più sicuro per ripristinare la concorrenza
+e creare nuove opportunità commerciali per gli operatori economici che sono
+stati illegittimamente privati delle possibilità di competere. (...)  
+  
+---|---  
+  
+(...)
+
+(25)
+
+|
+
+Inoltre, la necessità di garantire nel tempo la certezza giuridica delle
+decisioni prese dalle amministrazioni aggiudicatrici e dagli enti
+aggiudicatori impone di fissare un termine minimo ragionevole di prescrizione
+o decadenza dei ricorsi allo scopo di far stabilire che il contratto è privo
+di effetti.  
+  
+---|---  
+  
+(...)
+
+(27)
+
+|
+
+Dato che la presente direttiva rafforza le procedure di ricorso nazionali,
+specie nei casi di aggiudicazione mediante affidamento diretto illegittimo,
+gli operatori economici dovrebbero essere incoraggiati ad avvalersi di questi
+nuovi meccanismi. Per motivi di certezza giuridica, la possibilità di far
+valere la privazione di effetti di un contratto è limitata ad un determinato
+periodo. L’effettività di tali termini dovrebbe essere rispettata».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 1 della direttiva 89/665 recita:
+
+«1. La presente direttiva si applica agli appalti di cui alla direttiva
+[2004/18], a meno che tali appalti siano esclusi a norma degli articoli da 10
+a 18 di tale direttiva.
+
+(...)
+
+Gli Stati membri adottano i provvedimenti necessari per garantire che, per
+quanto riguarda gli appalti disciplinati dalla direttiva [2004/18], le
+decisioni prese dalle amministrazioni aggiudicatrici possano essere oggetto di
+un ricorso efficace e, in particolare, quanto più rapido possibile, secondo le
+condizioni previste negli articoli da 2 a 2 septies della presente direttiva,
+sulla base del fatto che hanno violato il diritto comunitario in materia di
+aggiudicazione degli appalti pubblici o le norme nazionali che lo recepiscono.
+
+(...)
+
+3\. Gli Stati membri provvedono a rendere accessibili le procedure di ricorso,
+secondo modalità che gli Stati membri possono determinare, a chiunque abbia o
+abbia avuto interesse a ottenere l’aggiudicazione di un determinato appalto e
+sia stato o rischi di essere leso a causa di una presunta violazione.
+
+(...)».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 2 di tale direttiva, rubricato «Requisiti per le procedure di
+ricorso», dispone:
+
+«1. Gli Stati membri fanno sì che i provvedimenti presi ai fini dei ricorsi di
+cui all’articolo 1 prevedano i poteri che permettano di:
+
+(...)
+
+|
+
+b)
+
+|
+
+annullare o far annullare le decisioni illegittime, compresa la soppressione
+delle specificazioni tecniche, economiche o finanziarie discriminatorie
+figuranti nei documenti di gara, nei capitolati d’oneri o in ogni altro
+documento connesso con la procedura di aggiudicazione dell’appalto in
+questione;  
+  
+---|---  
+  
+c)
+
+|
+
+accordare un risarcimento danni ai soggetti lesi dalla violazione.  
+  
+---|---  
+  
+(...)
+
+6\. Gli Stati membri possono prevedere che, se un risarcimento danni viene
+domandato a causa di una decisione presa illegalmente, per prima cosa l’organo
+che ha la competenza necessaria a tal fine annulli la decisione contestata.
+
+7\. Eccetto nei casi di cui agli articoli da 2 quinquies a 2 septies gli
+effetti dell’esercizio dei poteri di cui al paragrafo 1 del presente articolo
+sul contratto stipulato in seguito all’aggiudicazione di un appalto sono
+determinati dal diritto nazionale.
+
+Inoltre, tranne che nei casi in cui una decisione debba essere annullata prima
+della concessione di un risarcimento danni, uno Stato membro può prevedere
+che, dopo la conclusione di un contratto a norma dell’articolo 1, paragrafo 5,
+del paragrafo 3 del presente articolo o degli articoli da 2 bis a 2 septies, i
+poteri dell’organo responsabile delle procedure di ricorso si limitino alla
+concessione di un risarcimento danni a qualsiasi persona lesa da una
+violazione.
+
+(...)».  
+  
+6
+
+|
+
+L’articolo 2 quater della suddetta direttiva, intitolato «Termini per la
+proposizione del ricorso», ha il seguente tenore letterale
+
+«Quando uno Stato membro stabilisce che qualsiasi ricorso avverso una
+decisione presa da un’amministrazione aggiudicatrice nel quadro di o in
+relazione ad una procedura di aggiudicazione di un appalto disciplinata dalla
+direttiva [2004/18] debba essere presentato prima dello scadere di un
+determinato termine, quest’ultimo è di almeno dieci giorni civili a decorrere
+dal giorno successivo alla data in cui la decisione dell’amministrazione
+aggiudicatrice è stata inviata all’offerente o al candidato, se la spedizione
+è avvenuta per fax o per via elettronica, oppure, se la spedizione è avvenuta
+con altri mezzi di comunicazione, di almeno quindici giorni civili a decorrere
+dal giorno successivo alla data in cui la decisione dell’amministrazione
+aggiudicatrice è stata inviata all’offerente o al candidato o di almeno dieci
+giorni civili a decorrere dal giorno successivo alla data di ricezione della
+decisione dell’amministrazione aggiudicatrice. La comunicazione della
+decisione dell’amministrazione aggiudicatrice ad ogni offerente o candidato è
+accompagnata da una relazione sintetica dei motivi pertinenti. In caso di
+presentazione di un ricorso relativo alle decisioni di cui all’articolo 2,
+paragrafo 1, lettera b), della presente direttiva che non sono soggette ad una
+notifica specifica, il termine è almeno di dieci giorni civili a decorrere
+dalla data della pubblicazione della decisione di cui trattasi».  
+  
+---|---  
+  
+7
+
+|
+
+Con il titolo «Privazione di effetti», l’articolo 2 quinquies, paragrafo 1,
+della stessa direttiva dispone:
+
+«Gli Stati membri assicurano che un contratto sia considerato privo di effetti
+da un organo di ricorso indipendente dall’amministrazione aggiudicatrice o che
+la sua privazione di effetti sia la conseguenza di una decisione di detto
+organo di ricorso nei casi seguenti:
+
+|
+
+a)
+
+|
+
+se l’amministrazione aggiudicatrice ha aggiudicato un appalto senza previa
+pubblicazione del bando nella Gazzetta ufficiale dell’Unione europea senza che
+ciò sia consentito a norma della direttiva [2004/18];  
+  
+---|---  
+  
+(...)».  
+  
+8
+
+|
+
+Ai sensi dell’articolo 2 septies della direttiva 89/665, intitolato «Termini»:
+
+«1. Gli Stati membri possono stabilire che la proposizione di un ricorso a
+norma dell’articolo 2 quinquies, paragrafo 1, debba avvenire:
+
+(...)
+
+|
+
+b)
+
+|
+
+in ogni caso prima dello scadere di un periodo di almeno sei mesi a decorrere
+dal giorno successivo alla data di stipula del contratto.  
+  
+---|---  
+  
+2\. In tutti gli altri casi, compresi i ricorsi proposti a norma dell’articolo
+2 sexies, paragrafo 1, i termini per la proposizione del ricorso sono
+determinati dal diritto nazionale, fermo restando l’articolo 2 quater».  
+  
+Il diritto austriaco
+
+9
+
+|
+
+Le disposizioni che traspongono la direttiva 89/665 sono riportate
+essenzialmente nel capo II della quarta parte della legge federale del 2006
+sull’aggiudicazione degli appalti pubblici (Bundesvergabegesetz 2006, in
+prosieguo: la «legge federale relativa all’aggiudicazione degli appalti
+pubblici»), modificata a più riprese.  
+  
+---|---  
+  
+10
+
+|
+
+Nella sua versione vigente al 1o marzo 2011, data in cui la MedEval si è
+rivolta all’Ufficio, l’articolo 312, paragrafo 3, punto 3, della legge
+federale relativa all’aggiudicazione degli appalti pubblici prevedeva che tale
+Ufficio era competente a constatare l’illegittimità di una procedura di
+aggiudicazione di appalti pubblici, in particolare qualora tale procedura si
+sia svolta senza la previa pubblicazione di un bando di gara ovvero senza che
+sia stata previamente indetta una gara.  
+  
+---|---  
+  
+11
+
+|
+
+Conformemente all’articolo 331 di tale legge:
+
+«1. Un imprenditore che avesse interesse alla stipula di un contratto
+ricompreso nella sfera di applicazione della presente legge federale può
+chiedere, qualora dalla pretesa decisione illegittima gli sia derivato o possa
+derivargli un danno, l’accertamento
+
+(...)
+
+|
+
+2.
+
+|
+
+dell’illegittimità, per violazione della presente legge federale, dei
+regolamenti adottati per la sua applicazione o del diritto comunitario
+direttamente applicabile, dell’aggiudicazione effettuata senza la previa
+pubblicazione del bando di gara o senza che sia stata indetta una gara (...)  
+  
+---|---  
+  
+(...)».  
+  
+12
+
+|
+
+L’articolo 332, paragrafo 3, della suddetta legge, intitolato «Contenuto e
+irricevibilità dell’azione di accertamento», aveva il seguente tenore
+letterale:
+
+«Le domande di cui all’articolo 331, paragrafo 1, punti da 2 a 4, devono
+essere presentate entro sei mesi dal giorno successivo alla data di
+aggiudicazione dell’appalto. (...)».  
+  
+---|---  
+  
+13
+
+|
+
+L’articolo 334, paragrafo 2, della stessa legge prevedeva che, una volta
+accertato l’illegittimo svolgimento di una procedura di aggiudicazione di un
+appalto per mancata previa pubblicazione del bando, l’Ufficio, in linea di
+principio, è tenuto a dichiarare la nullità del contratto.  
+  
+---|---  
+  
+14
+
+|
+
+Con il titolo «Competenze e procedimento», l’articolo 341, paragrafo 2, della
+legge federale relativa all’aggiudicazione degli appalti pubblici così
+disponeva:
+
+«L’azione di risarcimento del danno è ammissibile solo previo accertamento, da
+parte della competente autorità di vigilanza sugli appalti pubblici, che
+
+(...)
+
+|
+
+2.
+
+|
+
+l’esecuzione di una procedura di aggiudicazione di un appalto pubblico senza
+previa pubblicazione del bando di gara né indizione di gara era illegittima in
+per violazione della presente legge federale, dei regolamenti adottati in
+materia o del diritto dell’Unione europea direttamente applicabile (...)  
+  
+---|---  
+  
+(...)».  
+  
+Procedimento principale e questione pregiudiziale
+
+15
+
+|
+
+Il 10 agosto 2010, la Federazione ha stipulato un contratto con la Cassa delle
+retribuzioni dei farmacisti riguardante «la realizzazione di un progetto
+pilota per il progetto di gestione elettronica della prescrizione di
+medicinali in tre regioni pilota, compresi i lavori di allestimento e gestione
+a tal fine necessari». Dalla decisione di rinvio risulta che la data di
+stipula del contratto corrisponde al giorno dell’aggiudicazione dell’appalto.  
+  
+---|---  
+  
+16
+
+|
+
+Il 1o marzo 2011, la MedEval si è rivolta all’Ufficio per far constatare che
+la procedura di aggiudicazione dell’appalto era illegittima per violazione
+della legge federale relativa all’aggiudicazione degli appalti pubblici, in
+quanto l’appalto in questione non aveva formato oggetto di una previa
+pubblicazione né indizione di gara.  
+  
+---|---  
+  
+17
+
+|
+
+Il 13 maggio 2011, fondandosi sull’articolo 332, paragrafo 3, della legge
+federale relativa all’aggiudicazione degli appalti pubblici, l’Ufficio ha
+dichiarato irricevibile il ricorso della MedEval. Esso ha infatti considerato
+che il termine semestrale previsto da tale articolo per proporre un’azione di
+accertamento dell’illegittimità iniziava a decorrere dal giorno successivo
+alla data di aggiudicazione dell’appalto, indipendentemente dalla circostanza
+che la MedEval, in quel momento, fosse a conoscenza o meno dell’illegittimità
+della procedura in questione, il che, secondo lo stesso ufficio, era
+consentito dall’articolo 2 septies, paragrafo 1, lettera b), della direttiva
+89/665.  
+  
+---|---  
+  
+18
+
+|
+
+La MedEval ha proposto un ricorso dinanzi al Verwaltungsgerichtshof (Corte
+amministrativa) nei confronti di tale decisione.  
+  
+---|---  
+  
+19
+
+|
+
+Il giudice del rinvio constata che l’articolo 312, paragrafo 3, della legge
+federale relativa all’aggiudicazione degli appalti pubblici riconosce
+all’Ufficio la competenza per procedere, dopo l’aggiudicazione dell’appalto, a
+talune constatazioni, tra le quali quelle relative all’illegittimità
+dell’appalto in questione a causa dell’assenza di un previo bando di gara o
+della mancata indizione della gara. A tal riguardo, tale giudice sottolinea
+che le azioni di accertamento dell’illegittimità devono essere proposte entro
+un termine di sei mesi a partire dal giorno successivo all’assegnazione
+dell’appalto, conformemente all’articolo 332, paragrafo 3, della legge
+federale relativa all’aggiudicazione degli appalti pubblici.  
+  
+---|---  
+  
+20
+
+|
+
+Esso rileva che l’articolo 341, paragrafo 2, della legge federale relativa
+all’aggiudicazione degli appalti pubblici prevede che un’azione per
+risarcimento danni collegata all’aggiudicazione illegittima di un appalto
+pubblico è ricevibile solo qualora, in via preliminare, e in forza di
+un’azione di accertamento di illegittimità ammissibile solo se proposta entro
+il termine semestrale previsto all’articolo 332, paragrafo 3, di tale stessa
+legge, l’Ufficio abbia accertato che la procedura di aggiudicazione
+dell’appalto, svolta senza previa pubblicazione di una bando di gara, era
+illegittima.  
+  
+---|---  
+  
+21
+
+|
+
+Il giudice del rinvio precisa che la peculiarità del suo diritto nazionale
+deriva dal fatto che qualora l’Ufficio accerti l’illegittimità della procedura
+di aggiudicazione dell’appalto per mancata pubblicazione del previo bando di
+gara, lo stesso ufficio è tenuto, in linea di principio, a pronunciare la
+nullità del contratto. Tale peculiarità è quindi tale da istituire uno stretto
+collegamento tra le azioni dirette ad ottenere il risarcimento dei danni e
+quelle dirette all’annullamento del contratto stipulato nell’ambito
+dell’aggiudicazione di un appalto.  
+  
+---|---  
+  
+22
+
+|
+
+Il giudice del rinvio s’interroga sul problema se il fatto di subordinare la
+ricevibilità di un’azione diretta ad ottenere il risarcimento dei danni per
+violazione delle regole sugli appalti pubblici ad un termine semestrale di
+decadenza, che inizia a decorrere dal giorno successivo alla data
+dell’aggiudicazione dell’appalto, indipendentemente dalla conoscenza o meno di
+tale evento da parte di colui che propone l’azione, sia conforme alla
+direttiva 89/665 e ai principi di equivalenza e di effettività.  
+  
+---|---  
+  
+23
+
+|
+
+A sostegno di tale domanda, il giudice del rinvio si fonda segnatamente sulla
+sentenza Uniplex (UK) (C‑406/08, EU:C:2010:45), secondo la quale il termine
+per proporre un ricorso diretto ad ottenere un risarcimento dei danni può solo
+decorrere dalla data in cui il richiedente è venuto a conoscenza o avrebbe
+dovuto essere a conoscenza dell’illegittimità fatta valere.  
+  
+---|---  
+  
+24
+
+|
+
+Lo stesso giudice sottolinea infine il fatto che tale sentenza della Corte è
+intervenuta tuttavia prima dell’adozione della direttiva 2007/66, in un
+momento in cui la direttiva 89/665 non prevedeva disposizioni precise
+riguardanti i termini per la proposizione di ricorsi in materia di
+impugnazione di appalti pubblici.  
+  
+---|---  
+  
+25
+
+|
+
+In tale contesto, il Verwaltungsgerichtshof (Corte amministrativa) ha deciso
+di sospendere il procedimento e di sottoporre alla Corte la seguente questione
+pregiudiziale:  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+26
+
+|
+
+Con la sua questione, il giudice del rinvio chiede, sostanzialmente, se il
+diritto dell’Unione, segnatamente i principi di effettività e di equivalenza,
+osti ad una normativa nazionale che subordina la proposizione di un ricorso
+diretto ad ottenere il risarcimento danni per violazione di una norma in
+materia di appalti pubblici al previo accertamento dell’illegittimità della
+procedura di aggiudicazione dell’appalto in questione per mancata previa
+pubblicazione di un bando di gara, qualora tale azione di accertamento di
+illegittimità sia soggetta ad un termine di decadenza di sei mesi a partire
+dal giorno successivo alla data dell’aggiudicazione dell’appalto pubblico di
+cui trattasi, indipendentemente dal problema di sapere se colui che propone
+l’azione sia o meno in grado di conoscere l’esistenza dell’illegittimità che
+vizia tale decisione dell’amministrazione aggiudicatrice.  
+  
+---|---  
+  
+27
+
+|
+
+Occorre ricordare, in limine, che conformemente all’articolo 1, paragrafo 1,
+primo e secondo comma, della direttiva 89/665, letto alla luce del
+considerando 2 della direttiva 2007/66, la direttiva 89/665 trova
+applicazione, in un contesto come quello del procedimento principale, solo
+agli appalti rientranti nell’ambito di applicazione della direttiva 2004/18,
+salvo tuttavia i casi in cui tali appalti sono esclusi in applicazione degli
+articoli da 10 a 18 di tale ultima direttiva. Le considerazioni seguenti sono
+quindi fondate sulla premessa che la direttiva 2004/18 è applicabile
+all’appalto di cui trattasi nel procedimento principale e, quindi, che la
+direttiva 89/665 è altresì applicabile al procedimento principale, il che
+tuttavia deve essere verificato dal giudice del rinvio.  
+  
+---|---  
+  
+28
+
+|
+
+Occorre ricordare che l’articolo 1, paragrafi 1 e 3, della direttiva 89/665
+impone agli Stati membri di adottare i provvedimenti necessari per garantire
+l’esistenza di ricorsi efficaci e quanto più rapidi possibile contro le
+decisioni delle autorità aggiudicatrici incompatibili con il diritto
+dell’Unione, garantendo un’ampia accessibilità dei ricorsi da parte di
+chiunque abbia o abbia avuto interesse a ottenere l’aggiudicazione di un
+determinato appalto e sia stato o rischi di essere leso a causa di una
+presunta violazione (sentenza Orizzonte Salute, C‑61/14, EU:C:2015:655, punto
+43).  
+  
+---|---  
+  
+29
+
+|
+
+A tal fine, la direttiva 89/665 dispone, al suo articolo 2, paragrafo 1, che
+gli Stati membri sono tenuti a prevedere nei loro ordinamenti nazionali tre
+tipi di ricorsi che consentono ad un soggetto leso nell’ambito di una
+procedura di gara d’appalto pubblico di chiedere presso l’organo responsabile
+dei procedimenti di ricorso, in primo luogo, «provvedimenti cautelari intesi a
+riparare la violazione denunciata o ad impedire che altri danni siano causati
+agli interessi coinvolti, compresi i provvedimenti intesi a sospendere o a far
+sospendere la procedura di aggiudicazione [dell’]appalto pubblico o
+l’esecuzione di qualsiasi decisione presa dall’amministrazione
+aggiudicatrice», in secondo luogo, l’annullamento delle decisioni illegittime
+e, in terzo luogo, il risarcimento dei danni.  
+  
+---|---  
+  
+30
+
+|
+
+Quanto ai termini di ricorso, l’articolo 2 septies, paragrafo 1, della
+direttiva 89/665, inserito in quest’ultima dalla direttiva 2007/66, precisa
+che gli Stati membri possono prevedere termini applicabili ai ricorsi a norma
+dell’articolo 2 quinquies di quest’ultima diretti a far dichiarare un
+contratto privo di effetti e, in particolare, un termine minimo di decadenza
+di sei mesi, che inizia a decorrere il giorno successivo alla data della
+stipula del contratto.  
+  
+---|---  
+  
+31
+
+|
+
+A tal riguardo, i considerando 25 e 27 della direttiva 2007/66 indicano che la
+limitazione nel tempo della possibilità di far valere l’assenza di effetti di
+un appalto è giustificata dalla «necessità di garantire nel tempo la certezza
+giuridica delle decisioni prese dalle amministrazioni aggiudicatrici e dagli
+enti aggiudicatori», il che esige che «l’effettività di tali termini dovrebbe
+essere rispettata».  
+  
+---|---  
+  
+32
+
+|
+
+Per quanto riguarda tutte le altre azioni giudiziarie relative agli appalti
+pubblici, comprese le azioni dirette ad ottenere il risarcimento dei danni,
+l’articolo 2 septies, paragrafo 2, della direttiva 89/665 precisa che, salvo
+le disposizioni dell’articolo 2 quater di tale direttiva, peraltro irrilevanti
+ai fini della questione sollevata, «i termini per la proposizione del ricorso
+sono determinati dal diritto nazionale». Spetta pertanto a ciascuno Stato
+membro definire tali termini processuali.  
+  
+---|---  
+  
+33
+
+|
+
+Il fatto che il legislatore dell’Unione europea ha deciso, da un lato, di
+regolamentare espressamente i termini relativi ai ricorsi aventi ad oggetto la
+declaratoria della privazione di effetti dei contratti e, dall’altro, di
+rinviare al diritto degli Stati membri per quanto riguarda i termini attinenti
+ai ricorsi aventi natura differente dimostra che tale legislatore ha accordato
+un’importanza particolare a tale prima categoria di ricorsi, alla luce
+dell’efficacia del sistema di ricorsi in materia di aggiudicazione di appalti
+pubblici.  
+  
+---|---  
+  
+34
+
+|
+
+Infatti, l’articolo 2 septies, paragrafo 1, lettera b), della direttiva 89/665
+non osta a disposizioni di diritto nazionale, come quelle di cui trattasi nel
+procedimento principale, le quali prevedano che un ricorso diretto a privare
+di effetti un appalto pubblico concluso senza la previa pubblicazione di un
+bando di gara o senza che sia stata indetta una gara debba essere proposto
+entro un termine di sei mesi a partire dal giorno seguente l’aggiudicazione di
+tale appalto allorché la data dell’aggiudicazione dell’appalto corrisponde al
+giorno della stipula del contratto. Siffatte disposizioni corrispondono
+altresì allo scopo perseguito dall’articolo 2 septies, paragrafo 1, lettera
+b), della direttiva 89/665 espresso in particolare al considerando 27 della
+direttiva 2007/66, secondo cui la limitazione della possibilità di far valere
+l’assenza di effetti di un appalto dovrebbe essere rispettata.  
+  
+---|---  
+  
+35
+
+|
+
+Per quanto riguarda le azioni di risarcimento danni, occorre rilevare che la
+direttiva 89/665 prevede al suo articolo 2, paragrafo 6, che gli Stati membri
+possono subordinare l’esercizio di una siffatta azione al previo annullamento
+della decisione contestata da parte dell’«organo che ha la competenza
+necessaria a tal fine» senza per questo contenere una regola relativa ai
+termini di ricorso o ad altre condizioni di irricevibilità di azioni siffatte.  
+  
+---|---  
+  
+36
+
+|
+
+Nel caso di specie, risulta, in linea di principio, che l’articolo 2,
+paragrafo 6, della direttiva 89/665 non osta a una disposizione di diritto
+nazionale come l’articolo 341, paragrafo 2, della legge federale relativa
+all’aggiudicazione degli appalti pubblici, secondo la quale la constatazione
+di una violazione del diritto degli appalti ivi menzionata costituisce la
+condizione preliminare per l’esercizio di un’azione per risarcimento danni.
+Tuttavia, il combinato disposto degli articoli 341, paragrafo 2, e 332,
+paragrafo 3, della legge federale relativa all’aggiudicazione degli appalti
+pubblici comporta che un ricorso per risarcimento danni è irricevibile in
+assenza del previo ottenimento di una decisione che constati l’illegittimità
+dell’appalto in questione, la quale interviene in forza di un procedimento
+soggetto ad un termine di decadenza di sei mesi a partire dal giorno
+successivo alla data di aggiudicazione dell’appalto pubblico di cui trattasi,
+indipendentemente dalla circostanza che colui che propone l’azione fosse o
+meno in grado di conoscere l’esistenza dell’illegittimità che viziava tale
+decisione di aggiudicazione.  
+  
+---|---  
+  
+37
+
+|
+
+Alla luce delle considerazioni svolte ai punti 32 e 35 della presente
+sentenza, spetta agli Stati membri disciplinare le modalità procedurali dei
+ricorsi per risarcimento danni. Tali modalità procedurali non devono tuttavia
+essere meno favorevoli di quelle che riguardano ricorsi analoghi previsti per
+la tutela dei diritti derivanti dall’ordinamento interno (principio di
+equivalenza), né devono rendere praticamente impossibile o eccessivamente
+difficile l’esercizio dei diritti conferiti dall’ordinamento giuridico
+dell’Unione (principio di effettività) (v., in tal senso, sentenze eVigilo,
+C‑538/13, EU:C:2015:166, punto 39, nonché Orizzonte Salute, C‑61/14,
+EU:C:2015:655, punto 46).  
+  
+---|---  
+  
+38
+
+|
+
+Di conseguenza, occorre esaminare se i principi di effettività e di
+equivalenza ostino ad una normativa nazionale come quella esposta al punto 36
+della presente sentenza.  
+  
+---|---  
+  
+39
+
+|
+
+Per quanto riguarda il principio di effettività, va sottolineato che il grado
+di esigenza della certezza del diritto relativa alle condizioni della
+ricevibilità dei ricorsi non è identico a seconda che si tratti di ricorsi per
+risarcimento danni o di ricorsi diretti a privare un contratto dei suoi
+effetti.  
+  
+---|---  
+  
+40
+
+|
+
+Infatti, privare dei suoi effetti un contratto stipulato in esito ad una
+procedura di aggiudicazione di appalto pubblico pone fine all’esistenza, ed
+eventualmente all’esecuzione, del suddetto contratto, il che costituisce un
+intervento sostanziale dell’autorità amministrativa o giurisdizionale nei
+rapporti contrattuali intervenuti tra i privati e gli organismi statali. Una
+siffatta decisione può infatti comportare una notevole alterazione e perdite
+economiche non solo sul lato dell’aggiudicatario dell’appalto in questione, ma
+anche su quello dell’amministrazione aggiudicatrice e, di conseguenza, del
+pubblico, beneficiario finale della fornitura dei lavori o servizi oggetto
+dell’appalto pubblico di cui trattasi. Come risulta dai considerando 25 e 27
+della direttiva 2007/66, il legislatore dell’Unione ha riconosciuto
+un’importanza maggiore all’esigenza della certezza del diritto riguardante i
+ricorsi diretti a privare di effetti un contratto rispetto ai ricorsi per
+risarcimento danni.  
+  
+---|---  
+  
+41
+
+|
+
+Subordinare la ricevibilità delle azioni per risarcimento danni alla previa
+constatazione dell’illegittimità della procedura di aggiudicazione
+dell’appalto in questione a causa dell’assenza della previa pubblicazione di
+un bando di gara, allorché tale azione di constatazione è soggetta a un
+termine semestrale di decadenza, senza tener conto della conoscenza o meno, da
+parte del soggetto leso, dell’esistenza di una violazione di una norma
+giuridica, può rendere praticamente impossibile o eccessivamente difficile
+l’esercizio del diritto di proporre un’azione per risarcimento danni.  
+  
+---|---  
+  
+42
+
+|
+
+Infatti, in caso di assenza di previa pubblicazione di un bando di gara, un
+siffatto termine semestrale rischia di non consentire ad un soggetto leso di
+raccogliere le informazioni necessarie al fine di un eventuale ricorso, in tal
+modo impedendo la proposizione di tale ricorso.  
+  
+---|---  
+  
+43
+
+|
+
+Il riconoscimento dei danni subiti dai soggetti lesi dalla violazione di norme
+in materia di aggiudicazione di appalti pubblici costituisce uno dei rimedi
+garantiti dal diritto dell’Unione. Quindi, in condizioni come quelle del
+procedimento principale, il soggetto leso sarebbe privato non solo della
+possibilità di far annullare la decisione dell’amministrazione aggiudicatrice,
+ma anche di tutti i rimedi previsti all’articolo 2, paragrafo 1, della
+direttiva 89/665.  
+  
+---|---  
+  
+44
+
+|
+
+Pertanto, il principio di effettività osta ad un regime come quello di cui
+trattasi nel procedimento principale.  
+  
+---|---  
+  
+45
+
+|
+
+Di conseguenza, non occorre esaminare se il principio di equivalenza osti ad
+una normativa nazionale come quella di cui trattasi nel procedimento
+principale.  
+  
+---|---  
+  
+46
+
+|
+
+Alla luce delle considerazioni che precedono, occorre rispondere alla
+questione proposta dichiarando che il diritto dell’Unione e segnatamente il
+principio di effettività ostano ad una normativa nazionale che subordina la
+proposizione di un ricorso diretto ad ottenere il risarcimento danni per
+violazione di una norma in materia di appalti pubblici al previo accertamento
+dell’illegittimità della procedura di aggiudicazione dell’appalto in questione
+per mancata previa pubblicazione di un bando di gara, qualora tale azione di
+accertamento di illegittimità sia soggetta ad un termine di decadenza di sei
+mesi a partire dal giorno successivo alla data dell’aggiudicazione
+dell’appalto pubblico di cui trattasi, indipendentemente dalla circostanza che
+colui che propone l’azione fosse o meno in grado di conoscere l’esistenza
+dell’illegittimità di tale decisione dell’amministrazione aggiudicatrice.  
+  
+---|---  
+  
+Sulle spese
+
+47
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:  
+  
+---|---  
+|
+
+Il diritto dell’Unione europea, segnatamente il principio di effettività, osta
+ad una normativa nazionale che subordina la proposizione di un ricorso diretto
+ad ottenere il risarcimento danni per violazione di una norma in materia di
+appalti pubblici al previo accertamento dell’illegittimità della procedura di
+aggiudicazione dell’appalto in questione per mancata previa pubblicazione di
+un bando di gara, qualora tale azione di accertamento di illegittimità sia
+soggetta ad un termine di decadenza di sei mesi a partire dal giorno
+successivo alla data dell’aggiudicazione dell’appalto pubblico di cui
+trattasi, indipendentemente dalla circostanza che colui che propone l’azione
+fosse o meno in grado di conoscere l’esistenza dell’illegittimità di tale
+decisione dell’amministrazione aggiudicatrice.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il tedesco.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

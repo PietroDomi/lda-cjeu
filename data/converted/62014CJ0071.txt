@@ -1,0 +1,1264 @@
+
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+6 ottobre 2015 ( *1 )
+
+«Rinvio pregiudiziale — Convenzione di Aarhus — Direttiva 2003/4/CE — Articoli
+5 e 6 — Accesso del pubblico all’informazione ambientale — Tassa per la
+fornitura di informazioni ambientali — Nozione di “importo ragionevole” —
+Costi di mantenimento di una banca dati e spese generali — Accesso alla
+giustizia — Controllo amministrativo e giurisdizionale della decisione che
+applica una tassa»
+
+Nella causa C‑71/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal First‑tier Tribunal (General Regulatory
+Chamber, Information Rights) (Regno Unito), con decisione del 4 febbraio 2014,
+pervenuta in cancelleria il 10 febbraio 2014, nel procedimento
+
+East Sussex County Council
+
+contro
+
+Information Commissioner,
+
+con l’intervento di:
+
+Property Search Group,
+
+Local Government Association,
+
+LA CORTE (Quinta Sezione),
+
+composta da T. von Danwitz (relatore), presidente di sezione, C. Vajda, A.
+Rosas, E. Juhász e D. Šváby, giudici,
+
+avvocato generale: E. Sharpston
+
+cancelliere: C. Strömholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza dell’11
+dicembre 2014,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per l’East Sussex County Council, da R. Cobb e C. Brannigan, solicitors,
+nonché da N. Pleming, QC;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Information Commissioner, da R. Bailey, solicitor, e A. Proops,
+barrister;  
+  
+---|---  
+  
+—
+
+|
+
+per la Property Search Group, da N. Clayton;  
+  
+---|---  
+  
+—
+
+|
+
+per la Local Government Association, da R. Cobb, solicitor;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo del Regno Unito, da L. Christie, in qualità di agente,
+assistito da J. Maurici e S. Blackmore, barristers;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo danese, da C. Thorning e M. Wolff, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da L. Pignataro‑Nolin, L. Armati e J.
+Norris‑Usher, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 16
+aprile 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 5 e 6 della direttiva 2003/4/CE del Parlamento europeo e del
+Consiglio, del 28 gennaio 2003, sull’accesso del pubblico all’informazione
+ambientale e che abroga la direttiva 90/313/CEE del Consiglio (GU L 41, pag.
+26).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia che oppone
+l’East Sussex County Council (consiglio della contea dell’East Sussex; in
+prosieguo: il «County Council») all’Information Commissioner (commissario
+all’informazione) in merito ad una decisione di quest’ultimo che dichiara
+illecita una tassa applicata dal County Council alla PSG Eastbourne, società
+di ricerca immobiliare.  
+  
+---|---  
+  
+Contesto normativo
+
+Diritto internazionale
+
+3
+
+|
+
+La convenzione sull’accesso alle informazioni, la partecipazione del pubblico
+ai processi decisionali e l’accesso alla giustizia in materia ambientale è
+stata sottoscritta ad Aarhus il 25 giugno 1998 e approvata a nome della
+Comunità europea con la decisione 2005/370/CE del Consiglio, del 17 febbraio
+2005 (GU L 124, pag. 1; in prosieguo: la «convenzione di Aarhus»).  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 4 di detta convenzione, intitolato «Accesso alle informazioni
+ambientali», prevede, al suo paragrafo 1, che, fatte salve determinate riserve
+e condizioni, ciascuna parte della medesima convenzione provvede affinché, nel
+quadro della legislazione nazionale, le autorità pubbliche forniscano al
+pubblico le informazioni ambientali loro richieste.  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 4, paragrafo 8, della convenzione di Aarhus precisa quanto segue:
+
+«Ciascuna Parte può autorizzare le autorità pubbliche a subordinare il
+rilascio di informazioni al pagamento di un corrispettivo, che tuttavia non
+può superare un importo ragionevole. Le autorità pubbliche che intendono
+rilasciare informazioni a titolo oneroso mettono a disposizione dei
+richiedenti un tariffario, indicando i casi in cui il rilascio delle
+informazioni è soggetto o non è soggetto a pagamento e i casi in cui è
+subordinato al pagamento anticipato del corrispettivo».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 9 di tale convenzione, intitolato «Accesso alla giustizia», al
+paragrafo 1 così dispone:
+
+«Nel quadro della propria legislazione nazionale, ciascuna Parte provvede
+affinché chiunque ritenga che la propria richiesta di informazioni formulata
+ai sensi dell’articolo 4 sia stata ignorata, immotivatamente respinta in tutto
+o in parte, non abbia ricevuto una risposta adeguata o comunque non sia stata
+trattata in modo conforme alle disposizioni di tale articolo, abbia accesso a
+una procedura di ricorso dinanzi a un organo giurisdizionale o a un altro
+organo indipendente e imparziale istituito dalla legge.
+
+La Parte che preveda il ricorso dinanzi a un organo giurisdizionale dispone
+affinché l’interessato abbia anche accesso a una procedura stabilita dalla
+legge, rapida e gratuita o poco onerosa, ai fini del riesame della propria
+richiesta da parte dell’autorità pubblica o da parte di un organo indipendente
+e imparziale di natura non giurisdizionale.
+
+(...)».  
+  
+---|---  
+  
+Diritto dell’Unione
+
+La direttiva 90/313/CEE
+
+7
+
+|
+
+Ai sensi dell’articolo 5 della direttiva 90/313/CEE del Consiglio, del 7
+giugno 1990, concernente la libertà di accesso all’informazione in materia di
+ambiente (GU L 158, pag. 56):
+
+«Gli Stati membri possono fornire le informazioni a titolo oneroso, tuttavia
+entro limiti di costi ragionevoli».  
+  
+---|---  
+  
+La direttiva 2003/4
+
+8
+
+|
+
+I considerando 2 e 18 della direttiva 2003/4 così recitano:
+
+|
+
+«(2)
+
+|
+
+(...) La presente direttiva amplia l’accesso esistente sancito dalla direttiva
+90/313/CEE.  
+  
+---|---  
+  
+(...)
+
+(18)
+
+|
+
+Le autorità pubbliche dovrebbero poter fornire l’informazione ambientale
+dietro pagamento di un corrispettivo che dovrebbe essere di entità
+ragionevole. Ciò implica che, in linea di principio, il corrispettivo non può
+eccedere i costi effettivi della produzione del materiale in questione.
+(...)».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 1, lettera a), di tale direttiva dispone quanto segue:
+
+«La presente direttiva ha i seguenti obiettivi:
+
+|
+
+a)
+
+|
+
+garantire il diritto di accesso all’informazione ambientale detenuta dalle
+autorità pubbliche o per conto di esse e stabilire i termini e le condizioni
+di base nonché modalità pratiche per il suo esercizio; (...)».  
+  
+---|---  
+  
+10
+
+|
+
+L’articolo 3, paragrafo 1, di detta direttiva stabilisce quanto segue:
+
+«Gli Stati membri provvedono affinché le autorità pubbliche siano tenute, ai
+sensi delle disposizioni della presente direttiva, a rendere disponibile
+l’informazione ambientale detenuta da essi o per loro conto a chiunque ne
+faccia richiesta, senza che il richiedente debba dichiarare il proprio
+interesse».  
+  
+---|---  
+  
+11
+
+|
+
+L’articolo 3, paragrafo 5, della medesima direttiva così dispone:
+
+«Ai fini del presente articolo, gli Stati membri assicurano che:
+
+(...)
+
+|
+
+c)
+
+|
+
+siano stabilite le modalità pratiche per assicurare che il diritto di accesso
+all’informazione ambientale possa essere effettivamente esercitato, in
+particolare:
+
+|
+
+—
+
+|
+
+la designazione di addetti all’informazione,  
+  
+---|---  
+  
+—
+
+|
+
+l’istituzione e il mantenimento di uffici per la consultazione
+dell’informazione richiesta,  
+  
+---|---  
+  
+—
+
+|
+
+registri o elenchi dell’informazione ambientale detenuta dalle autorità
+pubbliche o dai punti di informazione, con indicazioni chiare per quanto
+riguarda il luogo dove tale informazione è disponibile.  
+  
+---|---  
+  
+(...)».  
+  
+12
+
+|
+
+L’articolo 5 della direttiva 2003/4, intitolato «Tasse», ai paragrafi 1 e 2
+dispone quanto segue:
+
+«1. L’accesso a tutti i registri o elenchi pubblici, istituiti e mantenuti
+come previsto dall’articolo 3, paragrafo 5, e l’esame in situ
+dell’informazione richiesta sono gratuiti.
+
+2\. Le autorità pubbliche possono applicare una tassa per la fornitura
+dell’informazione ambientale, ma tale tassa non supera un importo
+ragionevole».  
+  
+---|---  
+  
+13
+
+|
+
+L’articolo 6 della predetta direttiva, intitolato «Accesso alla giustizia», ai
+suoi paragrafi 1 e 2 così dispone:
+
+«1. Gli Stati membri provvedono affinché il richiedente, allorché reputa che
+la sua richiesta di informazioni sia stata ignorata o infondatamente respinta
+(in tutto o in parte), non abbia ricevuto una risposta adeguata o non sia
+stata trattata ai sensi delle disposizioni degli articoli 3, 4 e 5, possa
+esperire una procedura mediante la quale gli atti o le omissioni della
+pubblica autorità interessata sono riesaminati dalla stessa o da un’altra
+autorità pubblica o in via amministrativa da un organo indipendente e
+imparziale istituito dalla legge. In entrambi i casi le procedure sono celeri
+e gratuite o non dispendiose.
+
+2\. Oltre alla procedura di riesame di cui al paragrafo 1, gli Stati membri
+provvedono affinché il richiedente possa presentare ricorso, per chiedere il
+riesame degli atti o delle omissioni dell’autorità pubblica in questione,
+dinanzi ad un organo giurisdizionale o ad un altro organo indipendente e
+imparziale istituito dalla legge le cui decisioni possano diventare
+definitive. Gli Stati membri possono inoltre prevedere che terzi messi sotto
+accusa per effetto della divulgazione dell’informazione possano ugualmente
+presentare ricorso».  
+  
+---|---  
+  
+Il diritto del Regno Unito
+
+14
+
+|
+
+Il regolamento del 2004 sull’informazione ambientale (Environmental
+Information Regulations 2004; in prosieguo: l’«EIR 2004») è diretto a recepire
+la direttiva 2003/4 nel diritto interno.  
+  
+---|---  
+  
+15
+
+|
+
+L’articolo 8, paragrafi da 1 a 3, dell’EIR 2004 dispone quanto segue:
+
+«1. Alle condizioni di cui ai paragrafi da 2 a 8, un’autorità pubblica può,
+quando fornisce informazioni ambientali (…), applicare al richiedente una
+tassa per la fornitura delle medesime.
+
+2\. Un’autorità pubblica non può applicare alcuna tassa:
+
+|
+
+a)
+
+|
+
+per l’accesso a registri pubblici o elenchi dell’informazione ambientale dalla
+stessa detenuti; né  
+  
+---|---  
+  
+b)
+
+|
+
+per la consultazione in situ dell’informazione fornita.  
+  
+---|---  
+  
+3\. Una tassa ai sensi del paragrafo 1 non può superare l’importo che
+l’autorità pubblica ritiene essere un importo ragionevole».  
+  
+16
+
+|
+
+In forza dell’articolo 50, paragrafo 1, della legge del 2000 relativa alla
+libertà d’informazione, come modificato dall’articolo 18 dell’EIR 2004,
+qualsiasi interessato può adire l’Information Commissioner affinché questi
+pronunci una decisione sulla questione se l’autorità pubblica di cui trattasi
+abbia trattato la sua richiesta d’informazione in ottemperanza alle
+disposizioni dell’EIR 2004.  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+17
+
+|
+
+Nell’ambito di una transazione immobiliare, la PSG Eastbourne, una società di
+ricerca immobiliare, ha presentato una richiesta di informazione ambientale al
+County Council allo scopo di fornire l’informazione ottenuta a fini
+commerciali a persone interessate da detta transazione. Il County Council, a
+cui vengono spesso presentate richieste di tale tipo, cosiddette «ricerche
+immobiliari», ha fornito le risposte richieste e ha imposto diverse tasse
+ammontanti a un importo totale di 17 sterline (GBP) (circa EUR 23), in
+applicazione di un tariffario standard. Come emerge dall’allegato C della
+decisione di rinvio, l’importo di tali tasse si situa per ciascuna di esse tra
+GBP 1 e GBP 4,50 (tra EUR 1 e 6 circa).  
+  
+---|---  
+  
+18
+
+|
+
+Una parte rilevante dei dati utilizzati per rispondere a tali ricerche
+immobiliari è trattata e organizzata da una squadra «informazione» del County
+Council in una banca dati contenente dati in versione elettronica o cartacea.
+Di tale banca dati si servono anche altre divisioni del County Council per
+svolgere diversi compiti.  
+  
+---|---  
+  
+19
+
+|
+
+Il tariffario impiegato dal County Council associa a ciascun tipo di
+informazione richiesta un costo forfettario, applicato in maniera uniforme a
+prescindere dall’autore della domanda. Tali costi sono stati calcolati dal
+County Council sulla base di un tasso orario tenendo conto del tempo dedicato
+dall’insieme della squadra «informazione» al mantenimento della banca dati e
+alla risposta alle richieste di informazione individuali. Conformemente alla
+prassi del County Council, le tasse richieste nella fattispecie sono destinate
+a coprire la totalità dei costi sopportati da detta autorità per lo
+svolgimento di tali due compiti senza procurarle utili. Il tasso orario preso
+in considerazione per la determinazione dell’importo di tali tasse comprende
+non solo i costi salariali del personale, ma anche una quota delle spese
+generali. Secondo il giudice del rinvio, l’inclusione delle spese generali nel
+calcolo di dette tasse corrisponde agli abituali principi contabili.  
+  
+---|---  
+  
+20
+
+|
+
+In seguito ad un reclamo della PSG Eastbourne avverso l’imposizione delle
+tasse richieste dal County Council, l’Information Commissioner ha emanato una
+decisione in cui ha dichiarato che tali tasse non erano conformi all’articolo
+8, paragrafo 3, dell’EIR 2004 in quanto prendevano in considerazione costi
+diversi dalle spese postali, fotocopie o altri esborsi associati alla
+fornitura delle informazioni richieste.  
+  
+---|---  
+  
+21
+
+|
+
+Il County Council, sostenuto dalla Local Government Association (associazione
+di enti locali), ha presentato un ricorso avverso tale decisione dinanzi al
+giudice del rinvio facendo valere che le tasse figuranti nel suo tariffario
+sono lecite e non superano un importo ragionevole. L’Information Commissioner,
+sostenuto dal Property Search Group (gruppo di ricerca immobiliare), fa valere
+invece che l’articolo 5, paragrafo 2, della direttiva 2003/4 osta a che i
+costi connessi al mantenimento di una banca dati o spese generali siano presi
+in considerazione nel calcolo di siffatte tasse. Tuttavia, alla luce dei
+lavori preparatori relativi all’adozione della direttiva 2003/4, l’Information
+Commissioner ha ammesso che tasse esigibili in virtù di tale articolo non sono
+limitate a esborsi sostenuti, ma possono prendere in considerazione anche i
+costi associati al tempo dedicato dal personale per rispondere a richieste di
+informazione individuali.  
+  
+---|---  
+  
+22
+
+|
+
+Pur condividendo tale valutazione, il giudice del rinvio ritiene che le tasse
+figuranti nel tariffario impiegato dal County Council non possano dissuadere
+nessuno dal chiedere informazioni ambientali nel contesto particolare delle
+ricerche immobiliari, tenuto conto del valore delle transazioni di cui
+trattasi.  
+  
+---|---  
+  
+23
+
+|
+
+Inoltre, tale giudice considera che il calcolo delle tasse effettuato dal
+County Council è errato in quanto include nel loro insieme i costi annuali di
+personale connessi al mantenimento della banca dati del County Council, mentre
+alcune parti di tale banca dati sono mantenute anche a fini diversi da quello
+di rispondere alle richieste di informazione individuali. Pertanto, esso
+ritiene che tutt’al più una parte dei costi associati al mantenimento di detta
+banca dati avrebbe dovuto essere inclusa nel calcolo delle tasse.  
+  
+---|---  
+  
+24
+
+|
+
+Tuttavia, il giudice del rinvio si chiede se una parte dei costi associati al
+mantenimento della banca dati del County Council e le spese generali
+imputabili al tempo impiegato dal personale di quest’ultimo per il
+mantenimento di tale banca dati e per rispondere alle richieste di
+informazione individuali possano essere comprese nel calcolo delle tasse
+conformemente all’articolo 5, paragrafo 2, della direttiva 2003/4.  
+  
+---|---  
+  
+25
+
+|
+
+Peraltro, il giudice di rinvio si interroga sulla portata necessaria del
+controllo amministrativo e giurisdizionale previsto all’articolo 6, paragrafi
+1 e 2, della direttiva 2003/4 quanto all’importo ragionevole di una tassa, pur
+considerando che l’incidenza pratica di tale questione sull’esito del
+procedimento principale non è certa. A tal proposito, detto giudice rileva che
+la formulazione letterale dell’articolo 8, paragrafo 3, dell’EIR 2004,
+interpretato conformemente ai principi del diritto amministrativo inglese,
+limita la portata del controllo della decisione adottata dall’autorità
+interessata alla questione se la decisione di cui trattasi fosse essa stessa
+irragionevole, vale a dire irrazionale, illegittima o ingiusta, con una
+possibilità molto limitata di controllare le conclusioni di fatto pertinenti a
+cui tale autorità è giunta.  
+  
+---|---  
+  
+26
+
+|
+
+È in tale contesto che il First-tier Tribunal (Tribunale di primo grado)
+(General Regulatory Chamber, Information Rights) (divisione della
+regolamentazione generale, diritti d’informazione) ha deciso di sospendere il
+procedimento e di sottoporre alla Corte le seguenti questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Quale significato debba attribuirsi all’articolo 5, paragrafo 2, della
+direttiva 2003/4 e, in particolare, se una tassa di importo ragionevole per la
+fornitura di un particolare tipo di informazione ambientale possa includere:
+
+|
+
+a)
+
+|
+
+parte del costo per il mantenimento di una banca dati utilizzata dall’autorità
+pubblica per rispondere alle richieste di quel particolare tipo di
+informazione;  
+  
+---|---  
+  
+b)
+
+|
+
+i costi generali attribuibili alle ore lavorative del personale da tenere
+adeguatamente in considerazione quando si stabilisce la tassa.  
+  
+---|---  
+  
+2)
+
+|
+
+Se sia compatibile con gli articoli 5, paragrafo 2, e 6 della [direttiva
+2003/4] la legislazione di uno Stato membro che preveda che un’autorità
+pubblica possa applicare una tassa per la fornitura dell’informazione
+ambientale che “non eccede l’importo che l’autorità pubblica ritiene essere
+ragionevole”, qualora la decisione dell’autorità pubblica in merito al
+concetto di “importo ragionevole” sia soggetta a riesame in sede
+amministrativa e giurisdizionale come previsto dalla legislazione inglese».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla prima questione
+
+27
+
+|
+
+Con la sua prima questione, il giudice del rinvio chiede, in sostanza, se
+l’articolo 5, paragrafo 2, della direttiva 2003/4 debba essere interpretato
+nel senso che la tassa applicata per la fornitura di un tipo particolare di
+informazione ambientale può comprendere una parte delle spese causate dal
+mantenimento di una banca dati, quale quella di cui trattasi nel procedimento
+principale, usata a tale scopo dall’autorità pubblica, nonché le spese
+generali imputabili al tempo che il personale di tale autorità ha dedicato, da
+un lato, al mantenimento di tale banca dati e, dall’altro, a rispondere a
+richieste di informazione individuali, prese in considerazione adeguatamente
+nella determinazione di tale tassa.  
+  
+---|---  
+  
+28
+
+|
+
+Ai termini dell’articolo 5, paragrafo 2, della direttiva 2003/4, gli Stati
+membri possono fornire le informazioni a titolo oneroso, tuttavia entro limiti
+di costi ragionevoli.  
+  
+---|---  
+  
+29
+
+|
+
+Come l’avvocato generale ha rilevato ai paragrafi 44 e 46 delle sue
+conclusioni, detta disposizione assoggetta l’applicazione di una tassa a due
+condizioni. Da un lato, tutti gli elementi in base ai quali è calcolato
+l’importo della tassa devono riguardare la «fornitura» dell’informazione
+ambientale richiesta. Dall’altro, se tale prima condizione è soddisfatta, è
+necessario inoltre che l’importo globale della tassa non superi un «importo
+ragionevole».  
+  
+---|---  
+  
+30
+
+|
+
+In primo luogo, occorre pertanto esaminare se le spese causate dal
+mantenimento di una banca dati, quale quella di cui trattasi nel procedimento
+principale, utilizzata ai fini della fornitura di informazioni ambientali,
+nonché le spese generali imputabili al tempo dedicato dal personale
+dell’autorità pubblica interessata, da un lato, al mantenimento di tale banca
+dati e, dall’altro, a rispondere a richieste di informazione individuali,
+costituiscano elementi che riguardano la «fornitura» dell’informazione
+ambientale.  
+  
+---|---  
+  
+31
+
+|
+
+Per determinare cosa costituisca una «fornitura» dell’informazione ambientale
+ai sensi dell’articolo 5, paragrafo 2, della direttiva 2003/4, occorre tener
+conto dell’articolazione tra detta disposizione e l’articolo 5, paragrafo 1,
+di tale direttiva.  
+  
+---|---  
+  
+32
+
+|
+
+A tal riguardo, occorre osservare che la direttiva 2003/4 introduce una
+distinzione tra, da un lato, la «fornitura» dell’informazione ambientale, per
+la quale le autorità possono applicare una tassa in virtù dell’articolo 5,
+paragrafo 2, di tale direttiva, e, dall’altro, l’«accesso» ai registri o agli
+elenchi pubblici istituiti e mantenuti come previsto dall’articolo 3,
+paragrafo 5, di detta direttiva nonché «l’esame in situ» dell’informazione
+richiesta, i quali, conformemente all’articolo 5, paragrafo 1, della stessa
+direttiva, sono gratuiti.  
+  
+---|---  
+  
+33
+
+|
+
+Infatti, l’articolo 5, paragrafo 1, della direttiva 2003/4 fa riferimento
+all’articolo 3, paragrafo 5, di tale direttiva. Conformemente a detto articolo
+3, paragrafo 5, lettera c), gli Stati membri assicurano che siano stabilite le
+modalità pratiche per assicurare che il diritto di accesso all’informazione
+ambientale possa essere effettivamente esercitato. A tale scopo sono
+menzionati, in particolare, «l’istituzione e il mantenimento di uffici per la
+consultazione dell’informazione richiesta» nonché «registri o elenchi
+dell’informazione ambientale detenuta dalle autorità pubbliche o dai punti di
+informazione, con indicazioni chiare per quanto riguarda il luogo dove tale
+informazione è disponibile».  
+  
+---|---  
+  
+34
+
+|
+
+Pertanto, dall’articolo 5, paragrafo 1, della direttiva 2003/4, in combinato
+disposto con l’articolo 3, paragrafo 5, lettera c), di tale direttiva, risulta
+che gli Stati membri sono tenuti non solo a istituire e mantenere registri e
+elenchi dell’informazione ambientale detenuta dalle autorità pubbliche o dai
+punti di informazione nonché uffici per la consultazione dell’informazione, ma
+anche a dare accesso gratuitamente a tali registri, elenchi e uffici per la
+consultazione.  
+  
+---|---  
+  
+35
+
+|
+
+Orbene, la gratuità dell’accesso a tali registri, elenchi e uffici per la
+consultazione prevista all’articolo 5, paragrafo 1, della direttiva 2003/4
+deve servire a delimitare la nozione di «fornitura» dell’informazione
+ambientale ai sensi dell’articolo 5, paragrafo 2, di detta direttiva, la
+quale, da parte sua, può essere assoggettata a tassa.  
+  
+---|---  
+  
+36
+
+|
+
+Ne deriva che, in linea di principio, solo i costi non risultanti
+dall’istituzione e manutenzione di detti registri, elenchi e uffici per la
+consultazione sono imputabili alla «fornitura» dell’informazione ambientale e
+solo per essi le autorità nazionali possono applicare una tassa in base
+all’articolo 5, paragrafo 2, della direttiva 2003/4.  
+  
+---|---  
+  
+37
+
+|
+
+Di conseguenza, le spese causate dal mantenimento di una banca dati impiegata
+dall’autorità pubblica per rispondere alle richieste di informazione
+ambientale non possono essere prese in considerazione nel calcolo di una tassa
+per la «fornitura» dell’informazione ambientale.  
+  
+---|---  
+  
+38
+
+|
+
+Infatti, conformemente all’articolazione fra l’articolo 5, paragrafo 1, della
+direttiva 2003/4 e l’articolo 5, paragrafo 2, di tale direttiva rilevata ai
+punti da 31 a 35 della presente sentenza, siffatte spese sono associate
+all’istituzione e alla manutenzione dei registri, degli elenchi e degli uffici
+per la consultazione, i cui costi non sono recuperabili in virtù dell’articolo
+5, paragrafo 1, della direttiva 2003/4, in combinato disposto con l’articolo
+3, paragrafo 5, lettera c), di tale direttiva. Orbene, sarebbe contraddittorio
+se le autorità pubbliche potessero ripercuotere tali spese sulle persone che
+hanno presentato richieste di informazione sul fondamento dell’articolo 5,
+paragrafo 2, della direttiva 2003/4, mentre la consultazione in situ delle
+informazioni figuranti nella banca dati è gratuita conformemente all’articolo
+5, paragrafo 1, di tale direttiva.  
+  
+---|---  
+  
+39
+
+|
+
+Invece, i costi relativi alla «fornitura» dell’ informazione ambientale,
+esigibili in base all’articolo 5, paragrafo 2, della direttiva 2003/4,
+comprendono non solo le spese postali e di fotocopia, ma anche i costi
+imputabili al tempo dedicato dal personale dell’autorità pubblica interessata
+a rispondere ad una richiesta di informazione individuale, compreso,
+segnatamente, il tempo per cercare le informazioni in questione e porle nel
+formato richiesto. Infatti, siffatti costi non risultano dall’istituzione e
+dalla manutenzione dei registri e degli elenchi dell’informazione ambientale
+detenuta né dagli uffici per la consultazione di tali informazioni. Tale
+conclusione è peraltro confortata dal considerando 18 di tale direttiva
+secondo cui, in linea di principio, le tasse non possono eccedere i «costi
+effettivi» di produzione del materiale in questione.  
+  
+---|---  
+  
+40
+
+|
+
+Tenuto conto dell’utilizzo della nozione di «costi effettivi» in detto
+considerando, occorre constatare che spese generali, prese adeguatamente in
+considerazione, possono, in linea di principio, essere incluse nel calcolo
+della tassa prevista dall’articolo 5, paragrafo 2, della direttiva 2003/4.
+Infatti, come ha rilevato il giudice del rinvio, l’inclusione delle spese
+generali nel calcolo di tale tassa corrisponde ai principi contabili abituali.
+Tuttavia, tali spese possono essere incluse nel calcolo di detta tassa solo in
+quanto sono imputabili ad un elemento di costo rientrante nella «fornitura»
+dell’informazione ambientale.  
+  
+---|---  
+  
+41
+
+|
+
+Alla luce della circostanza che il tempo dedicato dal personale dell’autorità
+pubblica interessata a rispondere a richieste di informazione individuali
+rientra nella «fornitura» dell’informazione ambientale, come è stato
+constatato al punto 39 della presente sentenza, la parte delle spese generali
+imputabile a tale tempo può parimenti essere inclusa nel calcolo della tassa
+prevista all’articolo 5, paragrafo 2, della direttiva 2003/4. Ciò non avviene,
+invece, per quanto riguarda la parte delle spese generali imputabile al tempo
+dedicato dal personale all’istituzione e alla manutenzione di una banca dati
+utilizzata dall’autorità pubblica per rispondere alle richieste di
+informazione.  
+  
+---|---  
+  
+42
+
+|
+
+Quanto, in secondo luogo, alla seconda condizione fissata all’articolo 5,
+paragrafo 2, della direttiva 2003/4, secondo cui l’importo globale della tassa
+prevista da tale disposizione non deve eccedere un importo ragionevole, emerge
+dalla giurisprudenza della Corte relativa all’articolo 5 della direttiva
+90/313, la quale continua ad essere pertinente ai fini dell’applicazione
+dell’articolo 5, paragrafo 2, della direttiva 2003/4, che si deve escludere
+qualsiasi interpretazione della nozione di «importo ragionevole» che possa
+produrre un effetto dissuasivo sulle persone che intendono ottenere
+informazioni o limitare il diritto delle medesime di accedervi (v., in tal
+senso, sentenza Commissione/GermaniaC‑217/97, EU:C:1999:395, punto 47).  
+  
+---|---  
+  
+43
+
+|
+
+Per valutare se una tassa applicata in virtù dell’articolo 5, paragrafo 2,
+della direttiva 2003/4 abbia effetto dissuasivo, occorre tener conto tanto
+della situazione economica del richiedente l’informazione quanto
+dell’interesse generale legato alla tutela dell’ambiente. Tale valutazione non
+può, quindi, essere effettuata unicamente rispetto alla situazione economica
+dell’interessato, ma deve basarsi anche su un’analisi obiettiva dell’importo
+di tale tassa. In tale misura, detta tassa non deve oltrepassare le capacità
+finanziaria dell’interessato né apparire, in ogni caso, oggettivamente
+irragionevole.  
+  
+---|---  
+  
+44
+
+|
+
+Poiché il giudice del rinvio considera che, alla luce del valore delle
+transazioni di cui trattasi, le tasse applicate dal County Council non
+appaiono dissuasive nel contesto particolare delle ricerche immobiliari,
+occorre dunque constatare che il semplice fatto che tali tasse non siano
+dissuasive rispetto alla situazione economica delle persone coinvolte in
+transazioni immobiliari non dispensa l’autorità pubblica dal suo obbligo di
+assicurare, parimenti, che dette tasse non appaiono irragionevoli al pubblico
+tenuto conto dell’interesse generale legato alla protezione dell’ambiente.
+Tuttavia, con riserva di verifica da parte del giudice del rinvio, non sembra
+che tasse quali quelle di cui trattasi nel procedimento principale, che sono
+state menzionate al punto 17 della presente sentenza e che, del resto, devono
+essere ridotte per escludere spese associate all’istituzione e alla
+manutenzione della banca dati, oltrepassino ciò che è ragionevole.  
+  
+---|---  
+  
+45
+
+|
+
+Alla luce di tutte le considerazioni che precedono, occorre rispondere alla
+prima questione che l’articolo 5, paragrafo 2, della direttiva 2003/4 deve
+essere interpretato nel senso che la tassa applicata per la fornitura di un
+tipo particolare di informazioni ambientali non può comprendere alcuna parte
+delle spese causate dal mantenimento di una banca dati, quale quella di cui
+trattasi nel procedimento principale, utilizzata a tale scopo dall’autorità
+pubblica, ma può comprendere le spese generali imputabili al tempo che il
+personale di tale autorità ha dedicato a rispondere a richieste di
+informazione individuali, preso in considerazione adeguatamente nella
+determinazione di tale tassa, purché l’importo complessivo di detta tassa non
+ecceda un importo ragionevole.  
+  
+---|---  
+  
+Sulla seconda questione
+
+46
+
+|
+
+Con la sua seconda questione, il giudice del rinvio chiede, in sostanza, se
+l’articolo 6 della direttiva 2003/4 debba essere interpretato nel senso che
+esso osta ad una normativa nazionale secondo cui la ragionevolezza della tassa
+imposta per la fornitura di un tipo particolare di informazione ambientale sia
+assoggettata solo ad un controllo amministrativo e giurisdizionale limitato,
+quale previsto dal diritto inglese.  
+  
+---|---  
+  
+Sulla ricevibilità
+
+47
+
+|
+
+La Commissione europea e il governo del Regno Unito nutrono dubbi sulla
+ricevibilità della seconda questione, poiché il giudice del rinvio ritiene che
+l’incidenza pratica di tale questione sull’esito della procedimento principale
+non sia certa.  
+  
+---|---  
+  
+48
+
+|
+
+A tal proposito occorre ricordare che, secondo costante giurisprudenza, il
+procedimento ex articolo 267 TFUE costituisce uno strumento di cooperazione
+tra la Corte e i giudici nazionali, per mezzo del quale le questioni relative
+all’interpretazione del diritto dell’Unione sollevate dal giudice nazionale
+nel contesto di diritto e di fatto che egli individua sotto la propria
+responsabilità, del quale non spetta alla Corte verificare l’esattezza, godono
+di una presunzione di pertinenza. Il rifiuto della Corte di statuire su una
+domanda di pronuncia pregiudiziale presentata da un giudice nazionale è
+possibile solo qualora risulti manifestamente che l’interpretazione del
+diritto dell’Unione richiesta non ha alcun rapporto con la realtà effettiva o
+con l’oggetto della controversia principale, qualora il problema sia di natura
+ipotetica oppure qualora la Corte non disponga degli elementi di fatto e di
+diritto necessari per rispondere utilmente alle questioni che le sono
+sottoposte (v., in tal senso, sentenza Fish Legal e Shirley, C‑279/12,
+EU:C:2013:853, punti 29 e 30).  
+  
+---|---  
+  
+49
+
+|
+
+Orbene, la semplice incertezza del giudice del rinvio con riferimento alla
+questione se la portata del controllo amministrativo e giurisdizionale della
+ragionevolezza della tassa imposta per la fornitura dell’informazione
+ambientale abbia un’incidenza pratica sull’esito del procedimento principale
+non può bastare a consentire la conclusione manifesta che l’interpretazione
+del diritto dell’Unione richiesta con la seconda questione non ha alcun
+rapporto con l’oggetto della controversia principale o che essa riguarda un
+problema di natura ipotetica. Tale questione è dunque ricevibile.  
+  
+---|---  
+  
+Nel merito
+
+50
+
+|
+
+L’articolo 6, paragrafo 1, della direttiva 2003/4 enuncia, in sostanza che gli
+Stati membri provvedono affinché il richiedente possa esperire una procedura
+mediante la quale gli atti o le omissioni della pubblica autorità interessata
+sono riesaminati dalla stessa o da un’altra autorità pubblica, oppure in via
+amministrativa da un organo indipendente e imparziale istituito dalla legge.  
+  
+---|---  
+  
+51
+
+|
+
+Il paragrafo 2 del medesimo articolo dispone, in sostanza, che gli Stati
+membri provvedono affinché il richiedente possa presentare ricorso, per
+chiedere il riesame degli atti o delle omissioni dell’autorità pubblica in
+questione dinanzi ad un organo giurisdizionale o ad un altro organo
+indipendente e imparziale istituito dalla legge le cui decisioni possano
+diventare definitive.  
+  
+---|---  
+  
+52
+
+|
+
+In virtù di una giurisprudenza costante, laddove, in assenza di disposizioni
+fissate in tale settore dal diritto dell’Unione, spetti all’ordinamento
+giuridico di ciascuno Stato membro designare i giudici competenti e
+disciplinare le modalità procedurali dei ricorsi diretti a garantire la
+salvaguardia dei diritti che i singoli vantano in forza del diritto
+dell’Unione, tali modalità non devono essere meno favorevoli di quelle
+riguardanti ricorsi analoghi di natura interna (principio di equivalenza) e
+non devono rendere praticamente impossibile o eccessivamente difficile
+l’esercizio dei diritti conferiti dall’ordinamento giuridico dell’Unione
+(principio di effettività) (sentenza Gruber, C‑570/13, EU:C:2015:231, punto 37
+e la giurisprudenza ivi citata). Per quanto riguarda quest’ultimo principio,
+occorre ricordare anche che l’articolo 47 della Carta dei diritti fondamentali
+dell’Unione europea sancisce il diritto a un ricorso effettivo dinanzi a un
+giudice imparziale (v., a tal riguardo, sentenza Unibet, C‑432/05,
+EU:C:2007:163, punto 37 e la giurisprudenza ivi citata).  
+  
+---|---  
+  
+53
+
+|
+
+Nella direttiva 2003/4, i termini «sono riesaminati» e «riesaminati (…) in via
+amministrativa» figuranti all’articolo 6, paragrafo 1, della medesima nonché
+il termine «riesame» figurante al paragrafo 2 di detto articolo non
+determinano la portata del controllo amministrativo e giurisdizionale
+richiesto da detta direttiva. In mancanza di precisazione nel diritto
+dell’Unione, la determinazione di tale portata rientra nell’ordinamento
+giuridico degli Stati membri, fatto salvo il rispetto dei principi di
+equivalenza e di effettività.  
+  
+---|---  
+  
+54
+
+|
+
+Per quanto riguarda il principio di equivalenza, occorre constatare che il
+fascicolo sottoposto alla Corte non contiene alcun elemento che consenta di
+concludere che le modalità procedurali dei ricorsi istituiti dal diritto
+inglese per assicurare la salvaguardia dei diritti derivanti ai singoli dal
+diritto dell’Unione sono meno favorevoli di quelle di ricorsi analoghi diretti
+ad assicurare la salvaguardia di diritti dei singoli fondati su disposizioni
+interne.  
+  
+---|---  
+  
+55
+
+|
+
+Quanto al principio di effettività, esso richiede, nella fattispecie, che la
+protezione dei diritti che derivano ai richiedenti l’informazione dalla
+direttiva 2003/4 non sia assoggettata a condizioni che possano rendere
+praticamente impossibile o eccessivamente difficile l’esercizio di tali
+diritti.  
+  
+---|---  
+  
+56
+
+|
+
+Occorre ricordare che, adottando la direttiva 2003/4, il legislatore
+dell’Unione ha inteso garantire la compatibilità del diritto dell’Unione con
+la convenzione di Aarhus prevedendo un regime generale volto a garantire che
+qualsiasi persona fisica o giuridica di uno Stato membro abbia il diritto di
+accedere all’informazione ambientale detenuta dalla pubblica amministrazione o
+per conto di essa, senza che tale persona sia obbligata a far valere un
+interesse (sentenza Fish Legal e Shirley, C‑279/12, EU:C:2013:853, punto 36 e
+la giurisprudenza ivi citata). L’esistenza di un controllo amministrativo e
+giurisdizionale effettivo dell’applicazione di una tassa per la fornitura di
+siffatta informazione è intrinsecamente legata alla realizzazione di tale
+obiettivo. Inoltre, tale controllo deve necessariamente vertere sulla
+questione se l’autorità pubblica abbia rispettato le due condizioni previste
+dall’articolo 5, paragrafo 2, di tale direttiva, indicate al punto 29 della
+presente sentenza.  
+  
+---|---  
+  
+57
+
+|
+
+Nella fattispecie, il giudice del rinvio rileva che la formulazione letterale
+dell’articolo 8, paragrafo 3, dell’EIR 2004, interpretato conformemente ai
+principi del diritto amministrativo inglese, limita la portata del controllo
+amministrativo e giurisdizionale alla questione se la decisione adottata
+dall’autorità pubblica interessata fosse irrazionale, illegittima o ingiusta,
+con una possibilità molto limitata di controllare le conclusioni di fatto
+pertinenti a cui tale autorità è giunta.  
+  
+---|---  
+  
+58
+
+|
+
+A tal proposito, la Corte ha constatato che l’esercizio dei diritti conferiti
+dall’ordinamento giuridico dell’Unione non viene reso praticamente impossibile
+o eccessivamente difficile solo perché un procedimento di controllo
+giurisdizionale delle decisioni delle autorità amministrative non consente un
+controllo integrale di dette decisioni. Tuttavia, secondo questa medesima
+giurisprudenza, qualsiasi procedimento nazionale di controllo giurisdizionale
+deve consentire al giudice investito di un ricorso di annullamento di una tale
+decisione di applicare effettivamente, nell’ambito del controllo di
+legittimità della medesima, i principi e le regole del diritto dell’Unione
+pertinenti (v., in tal senso, sentenze Upjohn, C‑120/97, EU:C:1999:14, punti
+30, 35 e 36, nonché HLH Warenvertrieb e Orthica, C‑211/03, C‑299/03 e da
+C‑316/03 a C‑318/03, EU:C:2005:370, punti da 75 a 77). Pertanto, un controllo
+giurisdizionale limitato alla valutazione di talune questioni di fatto è
+conforme al diritto dell’Unione, a condizione che consenta al giudice
+investito di un ricorso di annullamento di una tale decisione di applicare
+effettivamente, nell’ambito del controllo di legittimità della medesima, i
+principi e le regole del diritto dell’Unione pertinenti (v., in tal senso,
+sentenza HLH Warenvertrieb e Orthica, C‑211/03, C‑299/03 e da C‑316/03 a
+C‑318/03, EU:C:2005:370, punto 79).  
+  
+---|---  
+  
+59
+
+|
+
+Ad ogni modo, occorre precisare che sia la questione se un elemento di costo
+riguardi la «fornitura» dell’informazione richiesta e possa quindi, in quanto
+tale, essere preso in considerazione per il calcolo di una tassa applicata sia
+la questione se l’importo globale della tassa sia ragionevole costituiscono
+questioni di diritto dell’Unione. Esse devono essere assoggettate ad un
+controllo amministrativo e giurisdizionale effettuato sulla base di elementi
+obiettivi, idoneo ad assicurare il pieno rispetto delle condizioni risultanti
+dall’articolo 5, paragrafo 2, della direttiva 2003/4.  
+  
+---|---  
+  
+60
+
+|
+
+Spetta al giudice del rinvio verificare se i requisiti soprammenzionati siano
+soddisfatti nel procedimento principale e, eventualmente, interpretare il
+diritto nazionale conformemente a tali requisiti.  
+  
+---|---  
+  
+61
+
+|
+
+Alla luce delle considerazioni che precedono, occorre rispondere alla seconda
+questione che l’articolo 6 della direttiva 2003/4 deve essere interpretato nel
+senso che esso non osta ad una normativa nazionale secondo cui la
+ragionevolezza della tassa applicata per la fornitura di un tipo particolare
+di informazioni ambientali è oggetto di un controllo amministrativo e
+giurisdizionale solo limitato, quale previsto dal diritto inglese, purché tale
+controllo sia effettuato sulla base di elementi oggettivi e verta,
+conformemente ai principi di equivalenza e di effettività, sulla questione se
+l’autorità pubblica che impone una tale tassa abbia rispettato le condizioni
+previste dall’articolo 5, paragrafo 2, di tale direttiva, circostanza che
+spetta al giudice del rinvio verificare.  
+  
+---|---  
+  
+Sulle spese
+
+62
+
+|
+
+Nei confronti delle parti nella causa principale il presente procedimento
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 5, paragrafo 2, della direttiva 2003/4/CE del Parlamento europeo e
+del Consiglio, del 28 gennaio 2003, sull’accesso del pubblico all’informazione
+ambientale e che abroga la direttiva 90/313/CEE del Consiglio, deve essere
+interpretato nel senso che la tassa applicata per la fornitura di un tipo
+particolare di informazioni ambientali non può comprendere alcuna parte delle
+spese causate dal mantenimento di una banca dati, quale quella di cui trattasi
+nel procedimento principale, utilizzata a tale scopo dall’autorità pubblica,
+ma può comprendere le spese generali imputabili al tempo che il personale di
+tale autorità ha dedicato a rispondere a richieste di informazione
+individuali, preso in considerazione adeguatamente nella determinazione di
+tale tassa, purché l’importo complessivo di detta tassa non ecceda un importo
+ragionevole.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 6 della direttiva 2003/4 deve essere interpretato nel senso che
+esso non osta ad una normativa nazionale secondo cui la ragionevolezza della
+tassa applicata per la fornitura di un tipo particolare di informazioni
+ambientali è oggetto di un controllo amministrativo e giurisdizionale solo
+limitato, quale previsto dal diritto inglese, purché tale controllo sia
+effettuato sulla base di elementi oggettivi e verta, conformemente ai principi
+di equivalenza e di effettività, sulla questione se l’autorità pubblica che
+impone una tale tassa abbia rispettato le condizioni previste dall’articolo 5,
+paragrafo 2, di tale direttiva, circostanza che spetta al giudice del rinvio
+verificare.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: l’inglese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

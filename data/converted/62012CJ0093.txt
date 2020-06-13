@@ -1,0 +1,1133 @@
+
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+27 giugno 2013 ( *1 )
+
+«Agricoltura — Autonomia procedurale degli Stati membri — Politica agricola
+comune — Aiuti — Esame dei contenziosi amministrativi — Determinazione della
+giurisdizione competente — Criterio nazionale — Tribunale amministrativo nella
+cui circoscrizione ha sede l’autorità che ha adottato l’atto impugnato —
+Principio di equivalenza — Principio di effettività — Articolo 47 della Carta
+dei diritti fondamentali dell’Unione europea»
+
+Nella causa C-93/12,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dall’Administrativen sad Sofia-grad
+(Bulgaria), con decisione del 9 febbraio 2012, pervenuta in cancelleria il 21
+febbraio 2012, nel procedimento
+
+ET Agrokonsulting-04-Velko Stoyanov
+
+contro
+
+Izpalnitelen direktor na Darzhaven fond «Zemedelie» – Razplashtatelna
+agentsia,
+
+LA CORTE (Terza Sezione),
+
+composta da M. Ilešič, presidente di sezione, K. Lenaerts, vicepresidente
+della Corte, facente funzione di giudice della Terza Sezione, E. Jarašiūnas,
+A. Ó Caoimh (relatore) e C.G. Fernlund, giudici,
+
+avvocato generale: Y. Bot
+
+cancelliere: M. Aleksejev, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 6 febbraio
+2013,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la ET Agrokonsulting-04-Velko Stoyanov, da R. Trifonova, advokat;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Izpalnitelen direktor na Darzhaven fond «Zemedelie» – Razplashtatelna
+agentsia, da R. Porozhanov e I. Boyanov, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo bulgaro, da E. Petranova, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo tedesco, da T. Henze, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da H. Tserepa-Lacombe e N. Nikolova, in qualità di
+agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 14
+marzo 2013,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dei principi
+di equivalenza e di effettività nonché dell’articolo 47 della Carta dei
+diritti fondamentali dell’Unione europea (in prosieguo: la «Carta»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata sollevata nell’ambito della controversia che contrappone
+la ET Agrokonsulting-04-Velko Stoyanov (in prosieguo: l’«Agrokonsulting»)
+all’Izpalnitelen direktor na Darzhaven fond «Zemedelie» – Razplashtatelna
+agentsia (direttore esecutivo del Fondo nazionale «Agricoltura» – organismo
+pagatore; in prosieguo: il «Direktor») riguardo a una domanda di aiuto in
+vista di un finanziamento nell’ambito della politica agricola comune
+dell’Unione europea.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+Come risulta dai suoi articoli 1, lettera c), e 2, lettera g), il regolamento
+(CE) n. 73/2009 del Consiglio, del 19 gennaio 2009, che stabilisce norme
+comuni relative ai regimi di sostegno diretto agli agricoltori nell’ambito
+della politica agricola comune e istituisce taluni regimi di sostegno a favore
+degli agricoltori, e che modifica i regolamenti (CE) n. 1290/2005, (CE) n.
+247/2006, (CE) n. 378/2007 e abroga il regolamento (CE) n. 1782/2003 (GU L 30,
+pag. 16), disciplina, in particolare, nel titolo V, capitolo 2, un regime
+detto «di pagamento unico per superficie», ossia un regime di sostegno
+semplificato e transitorio al reddito per gli agricoltori degli Stati membri
+che hanno aderito all’Unione nel 2004 e nel 2007.  
+  
+---|---  
+  
+4
+
+|
+
+Detto regolamento istituisce ugualmente, come emerge dal suo articolo 1,
+lettera e), un quadro che permetta a tali nuovi Stati membri di concedere
+«pagamenti diretti integrativi». Tale quadro è previsto all’articolo 132 del
+suddetto regolamento, intitolato «Pagamenti diretti nazionali integrativi e
+pagamenti diretti», ai sensi del quale gli Sati membri interessati hanno la
+facoltà, salva autorizzazione della Commissione europea, di integrare, nel
+rispetto delle modalità precisate nel medesimo articolo, i pagamenti diretti
+concessi agli agricoltori nell’ambito di uno dei regimi di sostegno elencati
+nell’allegato I di questo stesso regolamento. Detto allegato comprende in
+particolare il regime di pagamento unico per superficie.  
+  
+---|---  
+  
+5
+
+|
+
+Secondo l’articolo 14 del regolamento n. 73/2009, in combinato disposto con
+quest’ultimo allegato, ogni Stato membro è tenuto a stabilire e gestire, ai
+fini in particolare del regime di pagamento unico per superficie, un «sistema
+integrato di gestione e di controllo». Tale sistema deve comprendere,
+conformemente all’articolo 15, paragrafo 1, del medesimo regolamento, una
+banca dati informatizzata, un sistema di identificazione delle parcelle
+agricole, un sistema di identificazione e di registrazione dei diritti
+all’aiuto, le domande di aiuto, un sistema integrato di controllo nonché un
+sistema unico di registrazione dell’identità degli agricoltori che presentano
+domande di aiuto.  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 16 di detto regolamento dispone quanto segue:
+
+«1. Nella banca dati informatizzata sono registrati, per ogni azienda
+agricola, i dati ricavati dalle domande di aiuto.
+
+La banca dati consente, in particolare, la consultazione, tramite l’autorità
+competente dello Stato membro, dei dati relativi agli anni civili e/o alle
+campagne di commercializzazione, a decorrere dal 2000. Consente inoltre la
+consultazione diretta e immediata dei dati relativi ai quattro anni o campagne
+precedenti.
+
+2\. Gli Stati membri possono creare banche dati decentrate, a condizione che
+le medesime e le procedure amministrative per la registrazione e la
+consultazione dei dati siano concepite in modo omogeneo nell’insieme del loro
+territorio e siano tra loro compatibili al fine di consentire verifiche
+incrociate».  
+  
+---|---  
+  
+7
+
+|
+
+A termini dell’articolo 17 del regolamento (CE) n. 73/2009, il «sistema di
+identificazione delle parcelle agricole è costituito sulla base di mappe o
+estremi catastali o altri riferimenti cartografici». Le tecniche utilizzate
+devono basarsi su un «sistema informatizzato d’informazione geografica,
+comprese di preferenza ortoimmagini aeree o spaziali».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 18 di tale regolamento così prevede:
+
+«1. È introdotto un sistema di identificazione e di registrazione dei diritti
+all’aiuto in modo da consentire l’accertamento dei diritti, nonché verifiche
+incrociate con le domande di aiuto e con il sistema di identificazione delle
+parcelle agricole.
+
+2\. Il sistema di cui al paragrafo 1 consente la consultazione diretta e
+immediata, tramite l’autorità competente dello Stato membro, dei dati relativi
+almeno agli ultimi quattro anni civili consecutivi».  
+  
+---|---  
+  
+9
+
+|
+
+Conformemente all’articolo 19 del suddetto regolamento, le domande di aiuto
+per i pagamenti diretti nell’ambito, in particolare, del regime di pagamento
+unico per superficie devono essere presentate anno per anno.  
+  
+---|---  
+  
+10
+
+|
+
+L’articolo 20, paragrafi 1 e 2, di questo stesso regolamento recita:
+
+«1. Gli Stati membri compiono controlli amministrativi sulle domande di aiuto
+per verificare le condizioni di ammissibilità all’aiuto.
+
+2\. I controlli amministrativi sono completati da un sistema di controlli in
+loco intesi a verificare l’ammissibilità all’aiuto. A questo scopo, gli Stati
+membri elaborano un piano di campionamento delle aziende agricole.
+
+Al fine di effettuare controlli in loco nelle parcelle agricole gli Stati
+membri possono impiegare tecniche di telerilevamento e del sistema globale di
+navigazione satellitare (GNSS)».  
+  
+---|---  
+  
+11
+
+|
+
+Ai sensi dell’articolo 29, paragrafi 2 e 3, del regolamento n. 73/2009:
+
+«2. I pagamenti sono effettuati in non più di due rate all’anno, tra il 1o
+dicembre e il 30 giugno dell’anno civile successivo.
+
+3\. I pagamenti nell’ambito dei regimi di sostegno elencati nell’allegato I
+sono effettuati solo dopo che sia stata ultimata la verifica delle condizioni
+di ammissibilità a cura degli Stati membri a norma dell’articolo 20».  
+  
+---|---  
+  
+12
+
+|
+
+Secondo l’articolo 122 del medesimo regolamento, il pagamento unico per
+superficie è accordato su base annuale.  
+  
+---|---  
+  
+13
+
+|
+
+A termini dell’articolo 124, paragrafi 1 e 2, del suddetto regolamento:
+
+«1. (...)
+
+Per la Bulgaria e la Romania la superficie agricola soggetta al regime di
+pagamento unico per superficie è la parte della superficie agricola utilizzata
+che è stata mantenuta in buone condizioni agronomiche, a prescindere dal fatto
+che sia o meno in produzione, se del caso adeguata conformemente ai criteri
+oggettivi e non discriminatori che saranno stabiliti dalla Bulgaria o dalla
+Romania previa approvazione della Commissione.
+
+2\. Ai fini dell’erogazione di pagamenti in base al regime di pagamento unico
+per superficie, (...) per la Bulgaria e la Romania sono ammissibili tutte le
+parcelle agricole che rispondono ai criteri di cui al paragrafo 1, nonché le
+parcelle agricole coltivate a bosco ceduo a rotazione rapida.
+
+(...)».  
+  
+---|---  
+  
+14
+
+|
+
+Come risulta dal suo stesso titolo, il regolamento (CE) n. 1122/2009 della
+Commissione, del 30 novembre 2009, recante modalità di applicazione del
+regolamento (CE) n. 73/2009 del Consiglio per quanto riguarda la
+condizionalità, la modulazione e il sistema integrato di gestione e di
+controllo nell’ambito dei regimi di sostegno diretto agli agricoltori di cui
+al medesimo regolamento e modalità di applicazione del regolamento (CE) n.
+1234/2007 del Consiglio per quanto riguarda la condizionalità nell’ambito del
+regime di sostegno per il settore vitivinicolo (GU L 316, pag. 65), fissa in
+particolare le modalità di applicazione del suddetto regolamento n. 73/2009
+per quanto riguarda la condizionalità, la modulazione e il sistema integrato
+di gestione e di controllo nell’ambito dei regimi di sostegno diretto agli
+agricoltori previsto da tale ultimo regolamento.  
+  
+---|---  
+  
+15
+
+|
+
+L’articolo 58 del regolamento n. 1122/2009 enuncia riduzioni ed esclusioni in
+caso di dichiarazioni eccessive emesse nell’ambito di domande di aiuto a
+titolo dei regimi di aiuto «per superficie», fra i quali figura in
+particolare, come risulta dall’articolo 2, punto 12, del medesimo regolamento,
+il regime di pagamento unico per superficie di cui al titolo V del regolamento
+n. 73/2009.  
+  
+---|---  
+  
+Il diritto bulgaro
+
+16
+
+|
+
+La legge sul sostegno agli agricoltori (Zakon za podpomagane na zemedelskite
+proizvoditeli, DV n. 58 del 22 maggio 1998), nella versione applicabile al
+procedimento principale, disciplina in particolare, a norma del suo articolo
+1, paragrafi 1 e 6, «gli aiuti di Stato agli agricoltori per la produzione di
+prodotti agricoli (...) e le misure previste dal piano nazionale per lo
+sviluppo dell’agricoltura e delle regioni agricole» nonché «l’attuazione del
+regime di pagamento unico per superficie in conformità della politica agricola
+comune dell’Unione europea».  
+  
+---|---  
+  
+17
+
+|
+
+Secondo l’articolo 32, paragrafo 1, della suddetta legge, le domande di aiuto
+devono essere depositate presso i servizi regionali dell’organismo pagatore.  
+  
+---|---  
+  
+18
+
+|
+
+A termini dell’articolo 1 del regolamento n. 5/2009, concernente i requisiti e
+le modalità di presentazione delle domande nell’ambito dei regimi di aiuto per
+superficie (La Naredba n. 5/2009 g. za usloviata i reda za podavane na
+zayavlenia po shemi i merki za podpomagane na plosht), nella versione
+applicabile al procedimento principale:
+
+«Il presente regolamento disciplina i requisiti e le modalità di presentazione
+delle domande di aiuto nell’ambito dei seguenti regimi e misure della politica
+agricola comune:
+
+|
+
+1.
+
+|
+
+regime di pagamento unico per superficie;  
+  
+---|---  
+  
+2.
+
+|
+
+regime di pagamenti nazionali integrativi per superficie;  
+  
+---|---  
+  
+(...)».  
+  
+19
+
+|
+
+In conformità all’articolo 128 del codice di procedura amministrativa
+(Administrativnoprotsesualen kodeks; in prosieguo: l’«APK») tutti i
+procedimenti concernenti domande di adozione, di modifica, di revoca o di
+annullamento di atti amministrativi sono devoluti alla competenza dei
+tribunali amministrativi.  
+  
+---|---  
+  
+20
+
+|
+
+L’articolo 133, paragrafo 1, dell’APK così dispone:
+
+«Le cause vengono esaminate dall’Administrativen sad [(Tribunale
+amministrativo)] nella cui circoscrizione ha sede l’autorità che ha adottato
+l’atto amministrativo impugnato (...)».  
+  
+---|---  
+  
+21
+
+|
+
+A norma dell’articolo 135, paragrafo 3, dell’APK, sui conflitti di competenza
+fra i tribunali amministrativi decide il Varhoven administrativen sad (Corte
+suprema amministrativa).  
+  
+---|---  
+  
+22
+
+|
+
+L’articolo 1 della legge sulla proprietà e sullo sfruttamento delle superfici
+agricole (Zakon za sobstvenostta i polzuvaneto na zemedelskite zemi, DV n. 17
+del 1o marzo 2001), nella versione applicabile al procedimento principale (in
+prosieguo: lo «ZSPZZ»), enuncia che tale legge disciplina la proprietà e lo
+sfruttamento dei terreni agricoli.  
+  
+---|---  
+  
+23
+
+|
+
+Il paragrafo 19 delle disposizioni transitorie e finali della legge che
+modifica e integra l’APK prevede quanto segue:
+
+|
+
+«1)
+
+|
+
+Gli atti amministrativi individuali adottati ai sensi dello [ZSPZZ] e del suo
+regolamento di esecuzione, nonché i dinieghi di adozione di siffatti atti,
+possono essere impugnati dinanzi al Rayonen sad [(Tribunale regionale)] del
+luogo di ubicazione dell’immobile ai sensi [dell’APK], sempreché essi non
+siano stati adottati dal Ministro dell’Agricoltura e dell’Alimentazione.  
+  
+---|---  
+  
+(...)».  
+  
+Procedimento principale e questioni pregiudiziali
+
+24
+
+|
+
+L’Agrokonsulting, con sede a Burgas (Bulgaria), è registrata come agricoltore.
+L’11 maggio 2010, essa presentava una domanda di aiuto a titolo, da un lato,
+del regime di pagamento unico per superficie e, dall’altro, dei pagamenti
+integrativi nazionali per ettaro di superficie agricola, indicando in
+particolare di coltivare diverse specie di cereali, di verdura e di frutta. Le
+superfici agricole interessate si trovano nel territorio del paese di
+Merdanya, nella regione di Veliko Tarnovo (Bulgaria), distante circa 250 km da
+Sofia.  
+  
+---|---  
+  
+25
+
+|
+
+Con lettera del 2 ottobre 2011 il Direktor respingeva la domanda
+dell’Agrokonsulting in quanto le superfici dichiarate da quest’ultima non
+soddisfacevano i requisiti del regolamento n. 1122/2009.  
+  
+---|---  
+  
+26
+
+|
+
+L’Agrokonsulting proponeva ricorso contro detta decisione davanti
+all’Admnistrativen sad – Burgas (Tribunale amministrativo di Burgas),
+allegando l’illegittimità delle conclusioni del Direktor secondo cui parte
+delle unità da essa dichiarate non rientrerebbe fisicamente fra quelle
+ammissibili all’aiuto. L’argomentazione sviluppata dall’Agrokonsulting in tale
+contesto si basava essenzialmente sulla pretesa violazione, nella decisione
+del Direktor, della normativa bulgara di trasposizione nell’ordinamento
+interno del diritto dell’Unione relativo alla politica agricola comune.
+L’Agrokonsulting sosteneva inoltre che la suddetta decisione si basava su
+un’erronea applicazione dell’articolo 58 del regolamento n. 1122/2009.  
+  
+---|---  
+  
+27
+
+|
+
+La decisione di rinvio precisa che l’Agrokonsulting faceva valere pure che
+della controversia doveva essere investito l’Administrativen sad – Burgas, in
+quanto la domanda di aiuto era stata presentata all’Obshtinska sluzhba
+«Zemedelie» (servizio municipale «Agricoltura») della regione di Burgas.
+Secondo l’Agrokonsulting, la causa doveva essere decisa dall’Administrativen
+sad – Burgas per garantire la celerità del procedimento. A suo avviso,
+infatti, la lentezza del procedimento sarebbe di ostacolo al perseguimento
+degli obiettivi della politica agricola comune.  
+  
+---|---  
+  
+28
+
+|
+
+Con ordinanza del 16 novembre 2011, l’Administrativen sad - Burgas sospendeva
+il procedimento e rimetteva la causa al giudice del rinvio per la decisione
+della questione di competenza. Nella motivazione dell’ordinanza veniva
+precisato che la controversia doveva essere esaminata, ai sensi dell’articolo
+133, paragrafo 1, dell’APK, dal Tribunale amministrativo nella cui
+circoscrizione si trovava la sede del Direktor, ossia l’Administrativen sad
+Sofia-grad.  
+  
+---|---  
+  
+29
+
+|
+
+Il giudice del rinvio ritiene che non debba conoscere della controversia e che
+il conflitto di competenza debba essere devoluto al Varhoven administrativen
+sad, a termini dell’articolo 135, paragrafo 3, dell’APK. Esso ritiene tuttavia
+opportuno sottoporre prima una domanda di pronuncia pregiudiziale alla Corte,
+«in relazione all’interpretazione e alla portata, in sede di applicazione di
+disposizioni procedurali come quella enunciata all’articolo 133 dell’APK, dei
+principi dell’autonomia procedurale dei giudici nazionali, di effettività e di
+equivalenza elaborati nella giurisprudenza della Corte».  
+  
+---|---  
+  
+30
+
+|
+
+In effetti, per il giudice del rinvio, secondo una prassi amministrativa
+costante in Bulgaria, gli atti dell’organismo pagatore nell’ambito della
+politica agricola comune sono adottati dal Direktor, che ha sede a Sofia,
+qualunque siano il servizio territoriale presso il quale la domanda è stata
+presentata e il luogo di ubicazione delle parcelle agricole per le quali è
+stato chiesto l’aiuto. Pertanto, ai sensi dell’articolo 133, paragrafo 1,
+dell’APK, l’Administrativen sad Sofia-grad sarebbe tenuto a statuire su tutti
+i ricorsi presentati avverso atti del Direktor. In tal modo, tutte le
+controversie in materia di aiuti agli agricoltori nell’ambito dei regimi e
+delle misure della politica agricola comune verrebbero concentrate presso il
+giudice del rinvio.  
+  
+---|---  
+  
+31
+
+|
+
+Quest’ultimo ritiene che il procedimento di cui è investito sia complicato
+dalla lontananza delle parcelle agricole alle quali si riferisce la decisione
+del Direktor del 2 ottobre 2011. A suo avviso, l’assunzione di prove, la
+redazione di perizie e l’ispezione di terreni che sono spesso distanti
+centinaia di chilometri dalla città di Sofia possono comportare ritardi
+considerevoli e costi supplementari, in violazione del diritto ad una tutela
+giurisdizionale effettiva degli agricoltori, considerati dal giudice del
+rinvio «gruppo sociale vulnerabile».  
+  
+---|---  
+  
+32
+
+|
+
+L’Administrativen sad Sofia-grad si chiede se il principio di equivalenza non
+osti a che una norma nazionale colleghi la competenza giurisdizionale in
+materia di controversie amministrative relative a diritti sostanziali
+risultanti dall’ordinamento dell’Unione unicamente alla sede dell’autorità
+amministrativa che ha adottato l’atto impugnato. Al riguardo il giudice del
+rinvio osserva che la regola generale di competenza territoriale enunciata
+all’articolo 133, paragrafo 1, dell’APK non tiene conto della localizzazione
+dei terreni agricoli in questione, al contrario della regola speciale di
+competenza territoriale prevista al paragrafo 19 delle disposizioni
+transitorie e finali della legge che modifica e integra l’APK nel caso di atti
+adottati ai sensi dello ZSPZZ.  
+  
+---|---  
+  
+33
+
+|
+
+In tali circostanze, l’Administrativen sad Sofia-grad ha deciso di sospendere
+il procedimento e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se il principio di effettività, elaborato dalla giurisprudenza [dell’Unione],
+e il principio della tutela giurisdizionale effettiva, sancito dall’articolo
+47 della [Carta], debbano essere interpretati nel senso che ostano a una norma
+procedurale nazionale come quella enunciata all’articolo 133, paragrafo 1,
+[dell’APK], la quale fa dipendere la competenza giurisdizionale sulle
+controversie amministrative aventi ad oggetto l’attuazione della politica
+agricola comune dell’[Unione] unicamente dalla sede dell’autorità
+amministrativa che ha adottato l’atto impugnato, senza tener conto né del
+luogo di ubicazione dei terreni né del domicilio del soggetto interessato.  
+  
+---|---  
+  
+2)
+
+|
+
+Se il principio di equivalenza, elaborato dalla giurisprudenza della Corte,
+debba essere interpretato nel senso che esso osta a una norma procedurale
+nazionale come quella enunciata all’articolo 133, paragrafo 1, [dell’APK], la
+quale fa dipendere la competenza giurisdizionale sulle controversie
+amministrative aventi ad oggetto l’attuazione della politica agricola comune
+dell’[Unione] unicamente dalla sede dell’autorità amministrativa che ha
+adottato l’atto impugnato, tenuto conto del paragrafo 19 delle disposizioni
+transitorie e finali della legge che modifica e integra [l’APK], concernente
+la competenza giurisdizionale sulle controversie amministrative nazionali
+aventi ad oggetto superfici agricole».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+34
+
+|
+
+Con le sue questioni, che occorre esaminare congiuntamente, il giudice del
+rinvio chiede, in sostanza, se il diritto dell’Unione, in particolare i
+principi di equivalenza e di effettività nonché l’articolo 47 della Carta,
+debba essere interpretato nel senso che osta ad una regola di competenza
+nazionale, come quella enunciata all’articolo 133, paragrafo 1, dell’APK, che
+riserva ad un unico organo giurisdizionale tutto il contenzioso relativo alle
+decisioni di un’autorità nazionale incaricata del pagamento degli aiuti
+all’agricoltura in sede di applicazione della politica agricola comune.  
+  
+---|---  
+  
+35
+
+|
+
+Conformemente alla giurisprudenza costante della Corte, in mancanza di una
+disciplina dell’Unione in materia, spetta all’ordinamento giuridico interno di
+ciascuno Stato membro, in virtù del principio dell’autonomia procedurale,
+designare i giudici competenti e stabilire le modalità procedurali dei ricorsi
+intesi a garantire la tutela dei diritti spettanti ai singoli in forza del
+diritto dell’Unione, fermo restando che, tuttavia, gli Stati membri sono
+tenuti a garantire in ogni caso la tutela effettiva di tali diritti (v., in
+tal senso, sentenze del 30 settembre 2003, Köbler, C-224/01, Racc. pag.
+I-10239, punto 47; del 15 aprile 2008, Impact, C-268/06, Racc. pag. I-2483,
+punti 44 e 45; del 16 luglio 2009, Mono Car Styling, C-12/08, Racc. pag.
+I-6653, punto 48, nonché del 18 marzo 2010, Alassini e a., da C-317/08 a
+C-320/08, Racc. pag. I-2213, punto 47).  
+  
+---|---  
+  
+36
+
+|
+
+In tal senso, in osservanza del principio di cooperazione leale, sancito ormai
+dall’articolo 4, paragrafo 3, TUE, le modalità procedurali dei ricorsi intesi
+a garantire la tutela dei diritti spettanti ai singoli in forza del diritto
+dell’Unione non devono essere meno favorevoli di quelle che riguardano ricorsi
+analoghi di natura interna (principio di equivalenza), né devono rendere
+praticamente impossibile o eccessivamente difficile l’esercizio dei diritti
+conferiti dall’ordinamento giuridico dell’Unione (principio di effettività)
+(v., in particolare, sentenze del 16 dicembre 1976, Rewe-Zentralfinanz e Rewe-
+Zentral, 33/76, Racc. pag. 1989, punto 5; del 14 dicembre 1995, Peterbroeck,
+C-312/93, Racc. pag. I-4599, punto 12, nonché del 15 gennaio 2013, Križan e
+a., C-416/10, punto 85).  
+  
+---|---  
+  
+37
+
+|
+
+Dalla giurisprudenza della Corte emerge che le esigenze di equivalenza e di
+effettività valgono sia sul piano della designazione dei giudici competenti a
+conoscere delle azioni fondate su tale diritto sia per quanto riguarda la
+definizione delle modalità procedurali che reggono tali azioni (v. citate
+sentenze Impact, punto 47, nonché Alassini e a., punto 49).  
+  
+---|---  
+  
+38
+
+|
+
+Il rispetto di dette esigenze deve essere valutato dalle varie istanze
+nazionali tenendo conto del ruolo delle norme di cui trattasi nel procedimento
+complessivamente inteso, dello svolgimento del medesimo e delle specificità di
+tali norme (v., in tal senso, sentenze Peterbroeck, cit., punto 14; del 1o
+dicembre 1998, Levez, C-326/96, Racc. pag. I-7835, punto 44, nonché del 29
+ottobre 2009, Pontin, C-63/08, Racc. pag. I-10467, punti 46 et 47 e la
+giurisprudenza citata).  
+  
+---|---  
+  
+39
+
+|
+
+Per quanto riguarda, anzitutto, il principio di equivalenza, emerge dalla
+giurisprudenza della Corte che il rispetto dello stesso presuppone che la
+norma nazionale controversa si applichi indifferentemente ai ricorsi fondati
+sui diritti che i singoli traggono dal diritto dell’Unione e a quelli fondati
+sull’inosservanza del diritto interno aventi un oggetto e una causa analoghi.
+Spetta al giudice nazionale, che dispone di una conoscenza diretta delle
+modalità procedurali applicabili, verificare le somiglianze tra i ricorsi di
+cui trattasi quanto a oggetto, motivo ed elementi essenziali (v., in tal
+senso, sentenze Pontin, cit., punto 45 e la giurisprudenza citata, e del 19
+luglio 2012, Littlewoods Retail Ltd e a., C-591/10, punto 31).  
+  
+---|---  
+  
+40
+
+|
+
+Nella decisione di rinvio, per illustrare le sue preoccupazioni riguardo al
+principio di equivalenza, l’Administrativen sad Sofia-grad ricorre a un
+paragone tra le controversie in materia di applicazione della politica
+agricola comune dell’Unione e quelle di diritto interno bulgaro relative al
+ripristino del diritto di proprietà e allo sfruttamento dei terreni agricoli.
+In effetti, per quanto riguarda queste ultime controversie, il paragrafo 19
+delle disposizioni transitorie e finali della legge che modifica e integra
+l’APK prevedrebbe il ricorso al Rayonen sad del luogo di ubicazione del
+terreno.  
+  
+---|---  
+  
+41
+
+|
+
+Tuttavia, dalla decisione di rinvio risulta che l’articolo 133, paragrafo 1,
+dell’APK stabilisce una regola di competenza nazionale che si applica in
+maniera generale ai ricorsi proposti contro gli atti amministrativi, inclusi
+gli atti amministrativi relativi ai pagamenti diretti agli agricoltori
+nell’ambito del regime di pagamento unico per superficie istituito dal
+regolamento n. 73/2009, mentre il paragrafo 19 delle disposizioni transitorie
+e finali della legge che modifica e integra l’APK riguarda esclusivamente i
+ricorsi contro taluni atti adottati in base allo ZSPZZ e al suo regolamento di
+esecuzione. Dal fascicolo di causa emerge che gli atti amministrativi adottati
+sul fondamento dello ZSPZZ sono strettamente connessi a diritti reali sui beni
+immobili e comprendono, in particolare, gli atti concernenti la restituzione
+dei diritti di proprietà o di uso dei terreni agricoli, l’indennizzo dei
+proprietari nonché le attività di aggiornamento della mappa dei terreni
+agricoli per i quali la proprietà è stata ripristinata.  
+  
+---|---  
+  
+42
+
+|
+
+In tali circostanze, tenuto conto della giurisprudenza citata ai punti 38 e 39
+della presente sentenza, e fatte salve le ulteriori verifiche che spettano, se
+necessario, al giudice del rinvio, risulta che le regole di competenza
+enunciate, rispettivamente, all’articolo 133, paragrafo 1, dell’APK e al
+paragrafo 19 delle disposizioni transitorie e finali della legge che modifica
+e integra l’APK non sono comparabili ai fini dell’applicazione del principio
+di equivalenza.  
+  
+---|---  
+  
+43
+
+|
+
+Al contrario, ai fini dell’applicazione della giurisprudenza citata al punto
+36 dalla presente sentenza, i ricorsi per la tutela dei diritti derivanti da
+eventuali regimi di aiuto agli agricoltori previsti dal diritto interno sono
+sicuramente comparabili a quelli volti a garantire la tutela dei diritti
+spettanti ai singoli in forza del diritto dell’Unione.  
+  
+---|---  
+  
+44
+
+|
+
+Sul punto, è opportuno ricordare che il semplice fatto che, ai sensi
+dell’articolo 132 del regolamento n. 73/2009, la concessione dei pagamenti
+diretti nazionali integrativi sia subordinata all’approvazione della
+Commissione e inquadrata dalle modalità previste da detto articolo non
+impedisce, ai fini dell’applicazione del principio di equivalenza, di
+considerare il regime dei pagamenti diretti nazionali integrativi come
+appartenente all’ordinamento giuridico interno dello Stato membro interessato.  
+  
+---|---  
+  
+45
+
+|
+
+Al riguardo, dal fascicolo di causa risulta che, nel quadro enunciato
+all’articolo 132 del regolamento n. 73/2009, la Repubblica di Bulgaria si è
+avvalsa della facoltà di aggiungere i pagamenti diretti nazionali integrativi
+ai pagamenti diretti previsti da detto regolamento.  
+  
+---|---  
+  
+46
+
+|
+
+Durante l’udienza davanti alla Corte, il Direktor e il governo bulgaro hanno
+indicato, sul punto, che i ricorsi relativi a questi ultimi pagamenti sono
+disciplinati anch’essi dalla regola di competenza territoriale generale
+enunciata all’articolo 133, paragrafo 1, dell’APK.  
+  
+---|---  
+  
+47
+
+|
+
+Se tale affermazione dovesse rivelarsi esatta in seguito agli accertamenti in
+merito che spettano al giudice del rinvio, non si potrebbe concludere che le
+modalità procedurali previste per i ricorsi relativi ai pagamenti diretti
+nazionali integrativi disattendono il principio di equivalenza.  
+  
+---|---  
+  
+48
+
+|
+
+Per quanto riguarda, poi, il principio di effettività, occorre ricordare che,
+nella prospettiva della disamina richiesta dalla giurisprudenza citata al
+punto 38 della presente sentenza, la questione se una norma procedurale
+nazionale renda praticamente impossibile o eccessivamente difficile
+l’esercizio dei diritti conferiti ai singoli dal diritto dell’Unione
+dev’essere esaminata tenendo conto, se necessario, dei principi che sono alla
+base del sistema giurisdizionale nazionale in causa, quali la tutela dei
+diritti della difesa, il principio della certezza del diritto e il regolare
+svolgimento del procedimento (v., in particolare, in tal senso, citate
+sentenze Peterbroeck, punto 14, e Pontin, punto 47).  
+  
+---|---  
+  
+49
+
+|
+
+Nel procedimento principale, per quanto riguarda le preoccupazioni espresse ai
+punti 30 e 31 della presente sentenza, il giudice del rinvio deve tener conto
+degli elementi seguenti.  
+  
+---|---  
+  
+50
+
+|
+
+In primo luogo, occorre verificare se un agricoltore che vuole contestare un
+atto amministrativo del Direktor che lo riguardi debba partecipare
+personalmente al procedimento. Dalle osservazioni presentate alla Corte
+emerge, al riguardo, che un singolo che si trovi in una posizione come quella
+dell’Agrokonsulting non è tenuto a comparire personalmente, ma può farsi
+rappresentare da un avvocato, un coniuge, un ascendente o discendente di primo
+grado, un consulente legale o un impiegato con formazione giuridica. Il
+governo bulgaro aggiunge che il gratuito patrocinio è concesso qualora sia
+dimostrato che il singolo non dispone di mezzi sufficienti a pagare i servizi
+di un avvocato. Inoltre, secondo lo stesso governo, le spese, inclusi gli
+onorari dell’avvocato, sono riconosciute alla parte che vince il ricorso se ne
+ha fatto domanda. Le spese saranno rifuse al ricorrente anche nel caso di
+archiviazione in seguito al ritiro dell’atto amministrativo impugnato.
+Peraltro, secondo il Direktor, nell’ambito dei ricorsi contro gli atti da lui
+adottati, l’affermazione da parte del ricorrente dell’illegittimità dell’atto
+contestato è sufficiente a far gravare sull’amministrazione l’onere della
+prova della legittimità di detto atto. Spetta, se necessario, al giudice del
+rinvio, che, diversamente dalla Corte nell’ambito dell’articolo 267 TFUE, è
+competente a interpretare il diritto bulgaro, esaminare tali punti.  
+  
+---|---  
+  
+51
+
+|
+
+In secondo luogo, dal fascicolo di causa si evince che, nel caso di ricorsi
+proposti dagli agricoltori contro atti amministrativi adottati dal Fondo
+nazionale «Agricoltura», il metodo di prova privilegiato è solitamente la
+perizia. In tale ambito, la missione del perito designato dal Tribunale
+competente consiste nel prendere visione degli elementi di prova pertinenti e
+nel presentare poi le proprie conclusioni rispondendo ai quesiti che gli
+vengono posti.  
+  
+---|---  
+  
+52
+
+|
+
+Tuttavia, in materia di ricorsi contro la riduzione o il rifiuto degli aiuti a
+titolo del regime di pagamento unico per superficie non sembra che la
+procedura sia complicata dalla lontananza dell’autorità nazionale competente
+dalle parcelle agricole di cui trattasi.  
+  
+---|---  
+  
+53
+
+|
+
+In effetti, da un lato, come si evince in particolare dagli articoli 16,
+paragrafo 1, 17 e 18 del regolamento n. 73/2009, nell’ambito dei ricorsi
+contro l’illegittimità delle conclusioni secondo cui parte delle unità
+dichiarate non rientrerebbe fisicamente fra quelle ammissibili all’aiuto –
+come il ricorso all’origine del procedimento principale – sarebbe necessario
+in generale, se non sempre, prendere visione delle ortoimmagini nonché dei
+dati del sistema integrato di gestione e di controllo previsto all’articolo 14
+di detto regolamento.  
+  
+---|---  
+  
+54
+
+|
+
+Dall’altro lato, dagli articoli 17 e 20, paragrafo 2, del regolamento n.
+73/2009 si evince che, quando debbono verificare l’utilizzo di determinate
+parcelle agricole nell’anno cui si riferisce la domanda, gli Stati membri
+possono usare tecniche di telerilevamento o un sistema globale di navigazione
+via satellite per realizzare le verifiche in loco. Inoltre, come si inferisce
+in particolare dagli articoli 19, 29 e 122 di detto regolamento, il
+contenzioso concernente il rifiuto o la riduzione degli aiuti a titolo del
+regime di pagamento unico per superficie avrebbe luogo, di solito, solo
+successivamente all’anno relativo alla domanda di aiuto in causa. In tali
+circostanze l’ispezione delle parcelle agricole mediante una visita sul
+territorio non sarebbe, il più delle volte, di grande utilità al fine di
+verificare l’utilizzo esatto che ne è stato fatto nel corso di un anno
+precedente. Per questo l’articolo 16, paragrafo 1, del suddetto regolamento
+prevede espressamente che la banca dati facente parte del sistema integrato di
+gestione e di controllo debba consentire la consultazione diretta e immediata
+dei dati relativi ai quattro anni precedenti.  
+  
+---|---  
+  
+55
+
+|
+
+In terzo luogo, sia il Direktor che il governo bulgaro hanno fatto valere
+dinanzi alla Corte che, nel caso di ricorsi contro atti adottati dal Direktor
+nell’ambito della politica agricola comune, l’Administrativen sad Sofia-grad
+statuisce di norma nell’arco di sei/otto mesi. In linea di principio, una tale
+durata media, che spetta al giudice del rinvio confermare, non sembra
+eccessiva nel contesto del regime di pagamento unico per superficie.  
+  
+---|---  
+  
+56
+
+|
+
+In quarto luogo, non può essere escluso, a tale ultimo riguardo, che la
+concentrazione del contezioso consenta al giudice del rinvio di deliberare
+sulle questioni riguardanti gli aiuti all’agricoltura acquisendo una
+conoscenza specifica e limitando per ciò stesso la durata media dei
+procedimenti. Inoltre, come ha rilevato in particolare il governo tedesco, un
+organo giurisdizionale centralizzato, specializzato in materia di aiuti
+all’agricoltura, appare in grado di assicurare una prassi uniforme sull’intero
+territorio nazionale contribuendo così alla certezza del diritto.  
+  
+---|---  
+  
+57
+
+|
+
+Alla luce del principio di autonomia procedurale è di certo possibile alla
+Repubblica di Bulgaria, fatto salvo il rispetto dei principi di equivalenza e
+di effettività, adottare una regola di competenza diversa da quella enunciata
+all’articolo 133, paragrafo 1, dell’APK. Da ciò non può tuttavia concludersi
+che una tale disposizione, per il solo fatto di comportare che un ricorso
+contro un atto amministrativo sia di competenza del tribunale amministrativo
+nella cui circoscrizione ha sede l’organo che ha emanato l’atto, disconosce il
+principio di effettività.  
+  
+---|---  
+  
+58
+
+|
+
+Alla luce di quanto precede, risultano sussistere ragioni connesse, in
+particolare, al regolare svolgimento del procedimento per concludere che
+l’applicazione di una regola di competenza nazionale, come quella enunciata
+all’articolo 133, paragrafo 1, dell’APK, che riserva ad un unico organo
+giurisdizionale tutto il contenzioso relativo alle decisioni di un’autorità
+nazionale incaricata del pagamento degli aiuti all’agricoltura nell’ambito
+della politica agricola comune, non disconosce il principio di effettività.
+Spetta tuttavia al giudice del rinvio, che, diversamente dalla Corte
+nell’ambito dell’articolo 267 TFUE, è competente a valutare i fatti del
+procedimento principale e ad interpretare il diritto bulgaro, verificare se
+tale ipotesi ricorra nella fattispecie.  
+  
+---|---  
+  
+59
+
+|
+
+Per quanto riguarda, infine, l’articolo 47 della Carta, emerge dalla
+giurisprudenza della Corte che tale disposizione costituisce una
+riaffermazione del principio di tutela giurisdizionale effettiva, un principio
+generale del diritto dell’Unione che deriva dalle tradizioni costituzionali
+comuni agli Stati membri e che è stato sancito dagli articoli 6 e 13 della
+Convenzione europea per la salvaguardia dei diritti dell’uomo e delle libertà
+fondamentali, firmata a Roma il 4 novembre 1950 (v., in tal senso, in
+particolare, sentenze del 15 maggio 1986, Johnston, 222/84, Racc. pag. 1651,
+punto 18; del 13 marzo 2007, Unibet, C-432/05, Racc. pag. I-2271, punto 37,
+nonché del 28 febbraio 2013, Réexamen Arango Jaramillo e a./BEI, C-334/12 RX-
+II, punto 40).  
+  
+---|---  
+  
+60
+
+|
+
+Nel caso di specie, è sufficiente rilevare al riguardo che, tenuto conto in
+particolare delle considerazioni esposte ai punti da 50 a 58 della presente
+sentenza e alla luce delle informazioni di cui dispone la Corte nella causa,
+non risulta che un singolo che si trovi in una posizione come quella
+dell’Agrokonsulting sia privato della possibilità di un ricorso effettivo
+davanti al giudice per la tutela dei diritti conferitigli dall’ordinamento
+dell’Unione.  
+  
+---|---  
+  
+61
+
+|
+
+Alla luce di quanto precede, si deve rispondere alle questioni sollevate
+dichiarando che il diritto dell’Unione, in particolare i principi di
+equivalenza e di effettività nonché l’articolo 47 della Carta, non osta a una
+regola di competenza giurisdizionale nazionale, come quella enunciata
+all’articolo 133, paragrafo 1, dell’APK, che riserva ad un unico organo
+giurisdizionale tutto il contenzioso relativo alle decisioni di un’autorità
+nazionale incaricata del pagamento degli aiuti all’agricoltura nell’ambito
+della politica agricola comune dell’Unione, sempreché i ricorsi per la tutela
+dei diritti che i singoli traggono dall’ordinamento dell’Unione non vengano
+esercitati in condizioni meno favorevoli di quelle stabilite per i ricorsi a
+tutela dei diritti derivati da eventuali regimi di sostegno all’agricoltura
+previsti dall’ordinamento interno e che una tale regola di competenza non
+causi ai soggetti interessati inconvenienti procedurali, in termini
+segnatamente di durata del procedimento, tali da rendere eccessivamente
+difficile l’esercizio dei diritti conferiti dall’ordinamento dell’Unione,
+circostanza che spetta al giudice del rinvio verificare.  
+  
+---|---  
+  
+Sulle spese
+
+62
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:  
+  
+---|---  
+|
+
+Il diritto dell’Unione, in particolare i principi di equivalenza e di
+effettività nonché l’articolo 47 della Carta dei diritti fondamentali
+dell’Unione europea, non osta a una regola di competenza giurisdizionale
+nazionale, come quella enunciata all’articolo 133, paragrafo 1, del codice di
+procedura amministrativa bulgaro (Administrativnoprotsesualen kodeks), che
+riserva ad un unico organo giurisdizionale tutto il contenzioso relativo alle
+decisioni di un’autorità nazionale incaricata del pagamento degli aiuti
+all’agricoltura nell’ambito della politica agricola comune dell’Unione
+europea, sempreché i ricorsi per la tutela dei diritti che i singoli traggono
+dall’ordinamento dell’Unione non vengano esercitati in condizioni meno
+favorevoli di quelle stabilite per i ricorsi a tutela dei diritti derivati da
+eventuali regimi di sostegno all’agricoltura previsti dall’ordinamento interno
+e che una tale regola di competenza non causi ai soggetti interessati
+inconvenienti procedurali, in termini segnatamente di durata del procedimento,
+tali da rendere eccessivamente difficile l’esercizio dei diritti conferiti
+dall’ordinamento dell’Unione, circostanza che spetta al giudice del rinvio
+verificare.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il bulgaro.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

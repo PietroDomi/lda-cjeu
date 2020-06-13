@@ -1,0 +1,684 @@
+
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+22 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — IVA — Direttiva 2006/112/CE — Articolo 168 — Diritto
+alla detrazione — Detrazione dell’imposta assolta a monte per l’acquisto o per
+la fabbricazione di beni d’investimento — Percorso ricreativo direttamente
+destinato all’utilizzo gratuito da parte del pubblico — Utilizzo del percorso
+ricreativo in vista di operazioni soggette ad imposta»
+
+Nella causa C‑126/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Lietuvos vyriausiasis administracinis
+teismas (Corte amministrativa suprema, Lituania), con decisione del 18
+febbraio 2014, pervenuta in cancelleria il 17 marzo 2014, nel procedimento
+
+«Sveda» UAB
+
+contro
+
+Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos,
+
+con l’intervento di:
+
+Klaipėdos apskrities valstybinė mokesčių inspekcija,
+
+LA CORTE (Quinta Sezione),
+
+composta da T. von Danwitz, presidente della Quarta Sezione, facente funzioni
+di presidente della Quinta Sezione, D. Šváby, A. Rosas, E. Juhász e C. Vajda
+(relatore), giudici,
+
+avvocato generale: J. Kokott
+
+cancelliere: M. Aleksejev, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 4 febbraio
+2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il governo lituano, da D. Kriaučiūnas, R. Dzikovič e D. Stepanienė, in
+qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo del Regno Unito, da S. Brighouse, J. Kraehling e M. Holt, in
+qualità di agenti, assistiti da O. Thomas, barrister;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da L. Lozano Palacios e A. Steiblytė, in qualità
+di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 22
+aprile 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+168 della direttiva 2006/112/CE del Consiglio, del 28 novembre 2006, relativa
+al sistema comune d’imposta sul valore aggiunto (GU L 347, pag. 1; in
+prosieguo: la «direttiva IVA»).  
+  
+---|---  
+  
+2
+
+|
+
+Detta domanda è stata proposta nell’ambito di una controversia tra la «Sveda»
+UAB (in prosieguo: la «Sveda») e la Valstybinė mokesčių inspekcija prie
+Lietuvos Respublikos finansų ministerijos (Ispettorato nazionale delle
+imposte, facente capo al Ministero delle Finanze della Repubblica di Lituania;
+in prosieguo: l’«Ispettorato nazionale delle imposte») in merito a una
+decisione che denega la detrazione dell’imposta sul valore aggiunto (IVA) che
+la Sveda ha assolto a monte nel contesto della realizzazione di un percorso
+ricreativo e di riscoperta della mitologia baltica (in prosieguo: il «percorso
+ricreativo»).  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+L’articolo 9, paragrafo 1, della direttiva IVA dispone:
+
+«Si considera “soggetto passivo” chiunque esercita, in modo indipendente e in
+qualsiasi luogo, un’attività economica, indipendentemente dallo scopo o dai
+risultati di detta attività.
+
+Si considera “attività economica” ogni attività di produzione, di
+commercializzazione o di prestazione di servizi, comprese le attività
+estrattive, agricole, nonché quelle di professione libera o assimilate. Si
+considera, in particolare, attività economica lo sfruttamento di un bene
+materiale o immateriale per ricavarne introiti aventi carattere di stabilità».  
+  
+---|---  
+  
+4
+
+|
+
+Ai sensi dell’articolo 63 di detta direttiva:
+
+«Il fatto generatore dell’imposta si verifica e l’imposta diventa esigibile
+nel momento in cui è effettuata la cessione di beni o la prestazione di
+servizi».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 167 della stessa direttiva è formulato nel modo seguente:
+
+«Il diritto a detrazione sorge quando l’imposta detraibile diventa esigibile».  
+  
+---|---  
+  
+6
+
+|
+
+Il successivo articolo 168 così recita:
+
+«Nella misura in cui i beni e i servizi sono impiegati ai fini di sue
+operazioni soggette ad imposta, il soggetto passivo ha il diritto, nello Stato
+membro in cui effettua tali operazioni, di detrarre dall’importo dell’imposta
+di cui è debitore gli importi seguenti:
+
+|
+
+a)
+
+|
+
+l’IVA dovuta o assolta in tale Stato membro per i beni che gli sono o gli
+saranno ceduti e per i servizi che gli sono o gli saranno resi da un altro
+soggetto passivo;  
+  
+---|---  
+  
+(…)».  
+  
+Il diritto lituano
+
+7
+
+|
+
+L’articolo 58, paragrafo 1, punto 1, della legge n. IX-751, del 5 marzo 2002,
+relativa all’imposta sul valore aggiunto, è così formulato:
+
+«Il soggetto passivo dell’IVA ha diritto alla detrazione dell’IVA assolta a
+monte e/o all’importazione sui beni e/o i servizi acquistati e/o importati, se
+detti beni e/o servizi sono destinati ad essere utilizzati per le seguenti
+attività che questi realizzi:
+
+|
+
+1)
+
+|
+
+cessione di beni e/o prestazione di servizi soggetti a IVA».  
+  
+---|---  
+  
+Procedimento principale e questione pregiudiziale
+
+8
+
+|
+
+La Sveda è una persona giuridica che opera a scopo di lucro nei seguenti
+ambiti: accoglienza, ristorazione, organizzazione di convegni, fiere e tempo
+libero, ingegneria e connesse consulenze.  
+  
+---|---  
+  
+9
+
+|
+
+Il 2 marzo 2012, la Sveda concludeva un accordo di finanziamento con
+l’Organismo pagatore nazionale presso il Ministero dell’Agricoltura
+(Nacionalinė mokėjimo agentūra prie Žemės ūkio ministerijos). Conformemente a
+tale accordo, essa s’impegnava ad attuare il progetto intitolato «Percorso
+ricreativo (educativo) della mitologia baltica» e a metterlo gratuitamente a
+disposizione del pubblico, mentre l’Organismo si accollava fino al 90% dei
+costi della sua realizzazione. La Sveda restava debitrice dei costi residui.  
+  
+---|---  
+  
+10
+
+|
+
+La Sveda detraeva l’IVA relativa all’acquisto ovvero alla fabbricazione di
+determinati beni d’investimento nell’ambito dei lavori di realizzazione di
+detto percorso ricreativo e, nella dichiarazione IVA corrispondente al mese di
+giugno 2012, indicava l’imposta assolta a monte come detraibile. L’Ispettorato
+nazionale delle imposte del distretto di Klaipėda (Klaipėdos apskrities
+valstybinė mokesčių inspekcija), investito di una domanda della Sveda di
+rimborso degli importi IVA in questione, respingeva tuttavia la richiesta
+dichiarando un tale rimborso ingiustificato. Non era, infatti, dimostrato che
+i beni e i servizi acquistati fossero stati utilizzati ai fini di un’attività
+soggetta a IVA. Su tale fondamento, il 24 agosto 2012, l’Ispettorato nazionale
+delle imposte del distretto di Klaipėda denegava la detrazione delle somme.  
+  
+---|---  
+  
+11
+
+|
+
+La Sveda proponeva un ricorso di annullamento della decisione di diniego della
+detrazione dinanzi al Vilniaus apygardos administracinis teismas (Corte
+amministrativa regionale di Vilnius). Il ricorso veniva respinto in quanto
+infondato.  
+  
+---|---  
+  
+12
+
+|
+
+La Sveda ha allora proposto ricorso dinanzi al Lietuvos vyriausiasis
+administracinis teismas (Corte amministrativa suprema).  
+  
+---|---  
+  
+13
+
+|
+
+Secondo il giudice del rinvio, la Sveda ha effettuato le spese d’investimento
+in questione in vista di attività economiche in progetto; lo stesso giudice
+nutre, nondimeno, dubbi sulla detraibilità dell’IVA assolta a monte. Esso
+s’interroga al riguardo sulla sussistenza di un nesso diretto e immediato tra
+le spese connesse ai lavori realizzati e le attività economiche previste dalla
+Sveda, atteso che il percorso ricreativo è destinato direttamente all’utilizzo
+gratuito da parte del pubblico.  
+  
+---|---  
+  
+14
+
+|
+
+Di conseguenza, il Lietuvos vyriausiasis administracinis teismas (Corte
+suprema amministrativa) ha deciso di sospendere il procedimento e di
+sottoporre alla Corte la seguente questione pregiudiziale:
+
+«Se l’articolo 168 della [direttiva IVA] possa essere interpretato nel senso
+di conferire a un soggetto passivo il diritto di detrarre l’IVA assolta a
+monte per la fabbricazione o per l’acquisto di beni d’investimento intesi a
+fini d’impresa, i quali, come quelli del procedimento principale, siano
+direttamente destinati all’utilizzo gratuito da parte del pubblico, ma possano
+essere considerati un mezzo per attrarre visitatori in un luogo dove il
+soggetto passivo progetta di fornire beni e/o servizi nell’esercizio delle sue
+attività economiche».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+15
+
+|
+
+Con la sua questione il giudice del rinvio domanda, in sostanza, se l’articolo
+168 della direttiva IVA debba essere interpretato nel senso di conferire, in
+circostanze come quelle del procedimento principale, a un soggetto passivo il
+diritto di detrarre l’IVA assolta a monte per la fabbricazione o per
+l’acquisto di beni d’investimento intesi a un’attività economica progettata,
+di turismo rurale e ricreativo, i quali siano direttamente destinati
+all’utilizzo gratuito da parte del pubblico, ma possano consentire la
+realizzazione di operazioni soggette ad imposta.  
+  
+---|---  
+  
+16
+
+|
+
+Al fine di rispondere a tale questione, occorre, in limine, ricordare che il
+diritto a detrazione previsto dall’articolo 168, lettera a), della direttiva
+IVA fa parte integrante del meccanismo dell’IVA e, in linea di principio, non
+può essere limitato. Tale diritto è esercitato immediatamente per la totalità
+delle imposte che hanno gravato sulle operazioni effettuate a monte (v., in
+tal senso, sentenza SFK, C‑29/08, EU:C:2009:665, punto 55 e giurisprudenza ivi
+citata).  
+  
+---|---  
+  
+17
+
+|
+
+Infatti, il regime delle detrazioni mira a sgravare interamente l’imprenditore
+dall’onere dell’IVA dovuta o pagata nell’ambito di tutte le sue attività
+economiche. Il sistema comune dell’IVA garantisce, in tal modo, la neutralità
+dell’imposizione fiscale per tutte le attività economiche, indipendentemente
+dallo scopo o dai risultati delle stesse, purché queste siano, in linea di
+principio, di per sé soggette all’IVA (v., in particolare, sentenza Eon Aset
+Menidjmunt, C‑118/11, EU:C:2012:97, punto 43 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+18
+
+|
+
+Dall’articolo 168 della direttiva IVA risulta che il soggetto passivo è
+autorizzato a detrarre l’IVA dovuta o versata per i beni acquistati quando,
+agendo in quanto tale nel momento in cui acquista detti beni, li utilizzi ai
+fini delle proprie operazioni imponibili (v., segnatamente, sentenza Klub,
+C‑153/11, EU:C:2012:163, punto 36 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+19
+
+|
+
+Quanto, in primo luogo, alla questione se la Sveda abbia agito come soggetto
+passivo al momento della costruzione del percorso ricreativo, ossia ai fini di
+un’attività economica, ai sensi dell’articolo 9, paragrafo 1, secondo comma,
+della direttiva IVA, occorre ricordare che un privato che acquisti beni o
+servizi ai fini di un’attività economica ai sensi di detta disposizione può
+agire come soggetto passivo anche se non dovesse impiegarli immediatamente per
+detta attività economica (v., in tal senso, sentenza Lennartz, C‑97/90,
+EU:C:1991:315, punto 14).  
+  
+---|---  
+  
+20
+
+|
+
+È giurisprudenza costante che chiunque effettui spese d’investimento con
+l’intenzione, confermata da elementi oggettivi, di esercitare un’attività
+economica, ai sensi dell’articolo 9, paragrafo 1, della direttiva IVA, deve
+essere considerato un soggetto passivo. Agendo in quanto tale egli ha, quindi,
+conformemente agli articoli 167 e seguenti di detta direttiva, il diritto di
+detrarre immediatamente l’IVA dovuta o assolta sulle spese d’investimento
+sostenute in vista delle operazioni che intende effettuare e che danno diritto
+a detrazione (v., in tal senso, sentenza Gran Via Moineşti, C‑257/11,
+EU:C:2012:759, punto 27 e giurisprudenza ivi citata). Tale diritto a
+detrazione sorge, conformemente agli articoli 63 e 167 della direttiva IVA,
+nel momento in cui l’imposta detraibile diventa esigibile, ossia all’atto
+della cessione dei beni (sentenza Klub, C‑153/11, EU:C:2012:163, punto 36 e
+giurisprudenza ivi citata).  
+  
+---|---  
+  
+21
+
+|
+
+La questione se il soggetto passivo abbia agito in quanto tale ai fini di
+un’attività economica è una questione di fatto che deve essere valutata
+tenendo conto di tutti i dati di specie, tra i quali figurano la natura del
+bene considerato e il periodo di tempo intercorso tra l’acquisto dello stesso
+e il suo impiego ai fini delle attività economiche del soggetto passivo (v.,
+in tal senso, in particolare, sentenza Klub, C‑153/11, EU:C:2012:163, punti 40
+e 41 e giurisprudenza ivi citata). Tali valutazioni spettano al giudice del
+rinvio.  
+  
+---|---  
+  
+22
+
+|
+
+Nel caso di specie, il giudice del rinvio ha descritto le spese relative ai
+beni d’investimento di cui al procedimento principale come, in definitiva,
+destinate all’esercizio delle attività economiche previste dalla Sveda.
+Secondo le constatazioni del medesimo giudice, suffragate da elementi
+oggettivi del fascicolo al suo esame, il percorso ricreativo in questione può
+essere considerato un mezzo per attrarre visitatori onde rifornirli di beni e
+di servizi, per esempio vendendo loro souvenir, cibarie e bibite, ma anche
+offrendogli la possibilità di accedere ad attrazioni e a bagni a pagamento.  
+  
+---|---  
+  
+23
+
+|
+
+Da tali constatazioni si può inferire che la Sveda ha acquistato o fabbricato
+i beni d’investimento in questione con l’intenzione, confermata da elementi
+oggettivi, di esercitare un’attività economica, sicché ha agito in quanto
+soggetto passivo ai sensi dell’articolo 9, paragrafo 1, della direttiva IVA.  
+  
+---|---  
+  
+24
+
+|
+
+Non inficia punto tale conclusione la circostanza, rilevata dal governo
+lituano, secondo cui tali beni d’investimento dovranno, ai termini
+dell’accordo di finanziamento succitato, essere messi a disposizione del
+pubblico gratuitamente per cinque anni dalla loro acquisizione, tale che per
+tutto questo tempo non potranno essere utilizzati nel contesto delle attività
+economiche della Sveda.  
+  
+---|---  
+  
+25
+
+|
+
+Infatti, la circostanza che l’accordo di finanziamento non consenta, per la
+durata di detto periodo, di mettere onerosamente a disposizione il percorso
+ricreativo di cui al procedimento principale non impedisce alla Sveda di
+esercitare le attività economiche enunciate al punto 22 della presente
+sentenza. Più esattamente, secondo il giudice del rinvio, si può considerare
+che il percorso ricreativo in parola sia destinato ad attrarre visitatori e a
+incoraggiarli ad acquistare i beni e i servizi soggetti a IVA proposti dalla
+Sveda. Inoltre, come emerge dalla decisione di rinvio, le spese d’investimento
+sopportate dalla Sveda, una persona giuridica con scopo di lucro, per la
+costruzione di detto percorso ricreativo saranno, almeno in parte, coperte dai
+proventi della fornitura di beni e di servizi nell’ambito di dette attività
+economiche in progetto.  
+  
+---|---  
+  
+26
+
+|
+
+Quanto, in secondo luogo, alla questione se i beni d’investimento di cui
+trattasi nel procedimento principale siano utilizzati dalla Sveda ai fini di
+sue operazioni soggette ad imposta, conformemente all’articolo 168 della
+direttiva IVA, risulta dalle constatazioni del giudice del rinvio che
+l’acquisto o la fabbricazione di detti beni d’investimento sono direttamente
+destinati a un utilizzo pubblico gratuito, ma s’inseriscono, al contempo,
+nell’obiettivo della realizzazione ulteriore, da parte del soggetto passivo,
+di operazioni imponibili.  
+  
+---|---  
+  
+27
+
+|
+
+Secondo costante giurisprudenza, la sussistenza di un nesso diretto e
+immediato tra una specifica operazione a monte e una o più operazioni a valle
+che danno diritto a detrazione è, in via di principio, necessaria affinché sia
+riconosciuto al soggetto passivo un diritto a detrarre l’IVA assolta a monte e
+possa essere determinata la portata di siffatto diritto. Il diritto a detrarre
+l’IVA gravante a monte sull’acquisto di beni o servizi presuppone che le spese
+sostenute per acquistare questi ultimi facciano parte degli elementi
+costitutivi del prezzo delle operazioni tassate a valle che danno diritto a
+detrazione (v., in particolare, sentenza SKF, C‑29/08, EU:C:2009:665, punto
+57).  
+  
+---|---  
+  
+28
+
+|
+
+Tuttavia, come ha rilevato l’avvocato generale ai paragrafi 33 e 34 delle
+conclusioni, la Corte ha ammesso un diritto a detrazione dell’IVA a beneficio
+del soggetto passivo anche qualora manchi un nesso diretto e immediato tra una
+specifica operazione a monte e una o più operazioni a valle che danno diritto
+a detrazione, quando le spese sostenute fanno parte dei costi generali del
+soggetto passivo e rappresentano, in quanto tali, elementi costitutivi del
+prezzo dei beni o dei servizi che esso fornisce. Spese di tal genere
+presentano, infatti, un nesso diretto e immediato con il complesso delle
+attività economiche del soggetto passivo (v., in tal senso, sentenze
+Investrand, C‑435/05, EU:C:2007:87, punto 24, e SKF, C‑29/08, EU:C:2009:665,
+punto 58).  
+  
+---|---  
+  
+29
+
+|
+
+Dalla giurisprudenza della Corte emerge che, nell’ambito dell’applicazione del
+criterio del nesso diretto, la quale incombe alle amministrazioni finanziarie
+e ai giudici nazionali, questi ultimi devono prendere in considerazione tutte
+le circostanze in presenza delle quali si sono svolte le operazioni in
+questione e tener conto unicamente delle operazioni che sono oggettivamente
+connesse all’attività imponibile del soggetto passivo. La sussistenza di un
+tale nesso deve dunque essere valutata alla luce del contenuto oggettivo
+dell’operazione considerata (v., in tal senso, sentenza Becker, C‑104/12,
+EU:C:2013:99, punti 22, 23 e 33 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+30
+
+|
+
+Si evince dalle constatazioni effettuate dal giudice del rinvio che, nel
+procedimento principale, le spese sostenute dalla Sveda per i lavori di
+costruzione del percorso ricreativo di cui trattasi dovrebbero rientrare in
+parte nel prezzo dei beni o dei servizi che essa fornirà nell’ambito
+dell’attività economica progettata.  
+  
+---|---  
+  
+31
+
+|
+
+Eppure, il giudice del rinvio nutre dubbi quanto alla sussistenza di un nesso
+diretto e immediato tra le operazioni a monte e il complesso delle attività
+economiche previste dalla Sveda, atteso che i beni d’investimento in questione
+sono direttamente destinati a un uso gratuito da parte del pubblico.  
+  
+---|---  
+  
+32
+
+|
+
+Al riguardo, è giurisprudenza della Corte che, qualora beni o servizi
+acquistati da un soggetto passivo vengano impiegati a fini di operazioni
+esenti o non rientranti nell’ambito di applicazione dell’IVA, non è possibile
+né riscossione dell’imposta a valle né detrazione dell’imposta a monte
+(sentenza Eon Aset Menidjmunt, C‑118/11, EU:C:2012:97, punto 44 e
+giurisprudenza ivi citata). Infatti, in entrambi i casi, il nesso diretto e
+immediato tra le spese sostenute a monte e le attività economiche realizzate
+in seguito dal soggetto passivo è interrotto.  
+  
+---|---  
+  
+33
+
+|
+
+Orbene, da un lato, nella decisione di rinvio nulla indica che la messa a
+disposizione del pubblico del percorso ricreativo considerato nel procedimento
+principale benefici di un’esenzione ai sensi della direttiva IVA. Dall’altro
+lato, le spese sostenute dalla Sveda per attuare detto percorso, potendo
+essere ricondotte, come risulta dal punto 23 della presente sentenza,
+all’attività economica prevista dal soggetto passivo, non si riferiscono ad
+attività estranee all’ambito di applicazione dell’IVA.  
+  
+---|---  
+  
+34
+
+|
+
+Di conseguenza, l’utilizzo immediato dei beni d’investimento a titolo gratuito
+non rimette in causa, in circostanze come quelle del procedimento principale,
+il nesso diretto e immediato tra le operazioni a monte e quelle a valle che
+danno diritto a detrazione ovvero con il complesso delle attività del soggetto
+passivo; per questo, tale utilizzo è ininfluente sulla sussistenza di un
+diritto a detrazione dell’IVA.  
+  
+---|---  
+  
+35
+
+|
+
+Un nesso diretto e immediato tra le spese sostenute dalla Sveda e il complesso
+delle attività economiche da essa previste appare dunque sussistere, ma il
+giudice del rinvio dovrà verificarlo.  
+  
+---|---  
+  
+36
+
+|
+
+Peraltro, i periodi di rettifica delle detrazioni sono in sé ininfluenti sulla
+nascita del diritto a detrazione dell’IVA (v., in tal senso, sentenza
+Lennartz, C‑97/90, EU:C:1991:315, punti 8 e 20), il quale, secondo la
+giurisprudenza citata al punto 20 della presente sentenza, è determinato dalla
+mera qualità in cui l’interessato agisce al momento dell’acquisizione del bene
+in questione. Fermo restando che il soggetto passivo dovrà versare poi
+l’imposta assolta a monte se, in seguito, dovesse risultare che il bene
+acquistato o fabbricato a monte non è stato utilizzato ai fini di una sua
+attività economica.  
+  
+---|---  
+  
+37
+
+|
+
+Tutto ciò considerato, occorre rispondere alla questione deferita dichiarando
+che l’articolo 168 della direttiva IVA deve essere interpretato nel senso di
+conferire, in circostanze come quelle del procedimento principale, a un
+soggetto passivo il diritto di detrarre l’IVA assolta a monte per l’acquisto o
+per la fabbricazione di beni d’investimento intesi a un’attività economica
+progettata, di turismo rurale o ricreativo, i quali siano direttamente
+destinati all’utilizzo gratuito da parte del pubblico, ma possano consentire
+la realizzazione di operazioni imponibili, se sussiste un nesso diretto e
+immediato tra le spese connesse alle operazioni a monte e una o più operazioni
+a valle che danno diritto a detrazione ovvero con il complesso delle attività
+economiche del soggetto passivo, ciò che spetta al giudice del rinvio
+verificare sulla base di elementi oggettivi.  
+  
+---|---  
+  
+Sulle spese
+
+38
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 168 della direttiva 2006/112/CE del Consiglio, del 28 novembre
+2006, relativa al sistema comune d’imposta sul valore aggiunto, deve essere
+interpretato nel senso di conferire, in circostanze come quelle del
+procedimento principale, a un soggetto passivo il diritto di detrarre
+l’imposta sul valore aggiunto assolta a monte per l’acquisto o per la
+fabbricazione di beni d’investimento intesi a un’attività economica
+progettata, di turismo rurale o ricreativo, i quali siano direttamente
+destinati all’utilizzo gratuito da parte del pubblico, ma possano consentire
+la realizzazione di operazioni imponibili, se sussiste un nesso diretto e
+immediato tra le spese connesse alle operazioni a monte e una o più operazioni
+a valle che danno diritto a detrazione ovvero con il complesso delle attività
+economiche del soggetto passivo, ciò che spetta al giudice del rinvio
+verificare sulla base di elementi oggettivi.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il lituano.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

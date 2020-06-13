@@ -1,0 +1,672 @@
+
+
+SENTENZA DELLA CORTE (Settima Sezione)
+
+17 dicembre 2015 ( * )
+
+«Rinvio pregiudiziale — Regolamento (CE) n. 44/2001 — Ambito di applicazione —
+Competenze esclusive — Articolo 22, punto 1 — Controversia in materia di
+diritti reali immobiliari — Nozione — Domanda di scioglimento mediante vendita
+di una comproprietà indivisa su beni immobili»
+
+Nella causa C‑605/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Korkein oikeus (Corte suprema,
+Finlandia), con decisione del 22 dicembre 2014, pervenuta in cancelleria il 30
+dicembre 2014, nel procedimento
+
+Virpi Komu,
+
+Hanna Ruotsalainen,
+
+Ritva Komu
+
+contro
+
+Pekka Komu,
+
+Jelena Komu,
+
+LA CORTE (Settima Sezione),
+
+composta da C. Toader (relatore), presidente di sezione, A. Rosas e A.
+Prechal, giudici,
+
+avvocato generale: M. Szpunar
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il governo finlandese, da H. Leppo, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ceco, da M. Smolek e J. Vláčil, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ellenico, da K. Georgiadis e S. Lekkou, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo spagnolo, da M. García‑Valdecasas Dorrego, in qualità di
+agente,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+22, punto 1, del regolamento (CE) n. 44/2001 del Consiglio, del 22 dicembre
+2000, concernente la competenza giurisdizionale, il riconoscimento e
+l’esecuzione delle decisioni in materia civile e commerciale (GU L 12, pag.
+1).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra i
+comproprietari di due beni immobili situati in Spagna, in merito allo
+scioglimento mediante vendita della comproprietà indivisa relativa a tali
+beni.  
+  
+---|---  
+  
+Contesto normativo
+
+Diritto dell’Unione
+
+3
+
+|
+
+I considerando 11 e 12 del regolamento n. 44/2001 sono così formulati:
+
+|
+
+«(11)
+
+|
+
+Le norme sulla competenza devono presentare un alto grado di prevedibilità ed
+articolarsi intorno al principio della competenza del giudice del domicilio
+del convenuto, la quale deve valere in ogni ipotesi salvo in alcuni casi
+rigorosamente determinati, nei quali la materia del contendere o l’autonomia
+delle parti giustifichi un diverso criterio di collegamento. (...)  
+  
+---|---  
+  
+(12)
+
+|
+
+Il criterio del foro del domicilio del convenuto deve essere completato
+attraverso la previsione di fori alternativi, ammessi in base al collegamento
+stretto tra l’organo giurisdizionale e la controversia, ovvero al fine di
+agevolare la buona amministrazione della giustizia».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 2 di detto regolamento, che figura nella sezione I del capo II del
+medesimo, intitolata «Disposizioni generali», al suo paragrafo 1 prevede
+quanto segue:
+
+«Salve le disposizioni del presente regolamento, le persone domiciliate nel
+territorio di un determinato Stato membro sono convenute, a prescindere dalla
+loro nazionalità, davanti ai giudici di tale Stato membro».  
+  
+---|---  
+  
+5
+
+|
+
+In forza dell’articolo 3, paragrafo 1, di detto regolamento:
+
+«Le persone domiciliate nel territorio di uno Stato membro possono essere
+convenute davanti ai giudici di un altro Stato membro solo in base alle norme
+enunciate nelle sezioni da 2 a 7 del presente capo».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 22 del regolamento citato, che figura nella sezione 6 del capo II
+del medesimo, intitolata «Competenze esclusive», al suo punto 1, primo comma,
+dispone quanto segue:
+
+«Indipendentemente dal domicilio, hanno competenza esclusiva:
+
+|
+
+1)
+
+|
+
+in materia di diritti reali immobiliari e di contratti d’affitto di immobili,
+i giudici dello Stato membro in cui l’immobile è situato».  
+  
+---|---  
+  
+7
+
+|
+
+Ai termini dell’articolo 25 del regolamento n. 44/2001, che figura nella
+sezione 8 del capo II di quest’ultimo, intitolata «Esame della competenza e
+della ricevibilità dell’azione»:
+
+«Il giudice di uno Stato membro, investito a titolo principale di una
+controversia per la quale l’articolo 22 stabilisce la competenza esclusiva di
+un giudice di un altro Stato membro, dichiara d’ufficio la propria
+incompetenza».  
+  
+---|---  
+  
+Il diritto finlandese
+
+8
+
+|
+
+In Finlandia, i rapporti di comproprietà sono disciplinati dalla legge n.
+180/1958, relativa a taluni rapporti di comproprietà (Laki eräistä
+yhteisomistussuhteista), la quale si applica alla proprietà tanto immobiliare
+quanto mobiliare.  
+  
+---|---  
+  
+9
+
+|
+
+Per quanto attiene allo scioglimento di una comproprietà indivisa, gli
+articoli 9 e 11 della legge citata dispongono quanto segue:
+
+«9. Ciascun comproprietario può chiedere la separazione della sua quota del
+bene comune mediante divisione. L’articolo 4 del capo 12 della legge sulle
+successioni si applica mutatis mutandis.
+
+Qualora la divisione del bene non sia praticabile o sia eccessivamente onerosa
+ovvero possa ridurre in misura rilevante il valore del bene, il giudice, su
+richiesta di un comproprietario e sentiti gli altri comproprietari, a seguito
+di convocazione a cura del comproprietario richiedente, può disporre la
+vendita del bene ai fini dello scioglimento del rapporto di comproprietà.
+
+(...)
+
+11\. Ai fini della vendita del bene e della ripartizione del ricavato della
+vendita, il giudice nomina, se necessario, un fiduciario. Qualora venga
+disposta la vendita all’asta del bene, il fiduciario, sentiti i
+comproprietari, provvede a determinare le condizioni di vendita ove non vi
+abbia provveduto il giudice, a rendere pubblica la vendita all’asta nonché a
+dare esecuzione alla stessa o a disporre affinché vi venga data esecuzione.
+Nel caso in cui sia concluso un atto di vendita, questo deve essere
+sottoscritto dal fiduciario».  
+  
+---|---  
+  
+Il diritto spagnolo
+
+10
+
+|
+
+L’articolo 10 del codice civile (Código Civil) dispone quanto segue:
+
+«Il possesso, la proprietà e gli altri diritti su beni immobili nonché la loro
+pubblicità sono disciplinati dalla legge del luogo in cui essi sono situati».  
+  
+---|---  
+  
+11
+
+|
+
+Ai sensi l’articolo 406 di detto codice, «[l]e norme relative alla divisione
+ereditaria sono applicabili allo scioglimento della comunione».  
+  
+---|---  
+  
+12
+
+|
+
+Per quanto attiene alla competenza dei giudici spagnoli, l’articolo 52 del
+codice di procedura civile (Ley de Enjuiciamiento Civil), intitolato
+«Competenza territoriale in determinati casi», ha il seguente tenore:
+
+«1. Nei casi d’appresso indicati le norme sulla competenza di cui agli
+articoli precedenti non trovano applicazione e la competenza viene determinata
+in base alle disposizioni che seguono:
+
+|
+
+1o
+
+|
+
+Nelle controversie in materia di successione in cui sono esperite azioni
+vertenti su beni immobili, il foro competente è quello del luogo in cui è
+situato il bene controverso. Quando l’azione reale ha ad oggetto diversi beni
+immobili ovvero un unico bene immobile che insiste su diverse circoscrizioni,
+è competente il foro di una qualunque di tali circoscrizioni a scelta della
+parte attrice.  
+  
+---|---  
+  
+(...)».  
+  
+Procedimento principale e questione pregiudiziale
+
+13
+
+|
+
+Dalla decisione di rinvio emerge che il sig. Pekka Komu nonché le sigg.re
+Jelena Komu, Ritva Komu, Virpi Komu e Hanna Ruotsalainen sono residenti in
+Finlandia e sono comproprietari, per quanto riguarda le prime tre persone,
+ciascuno in misura del 25% e, per quanto riguarda le ultime due, ciascuno in
+misura del 12,5%, di una casa situata a Torrevieja (Spagna). La sig.ra Ritva
+Komu è inoltre titolare di un diritto d’usufrutto, trascritto sui registri
+immobiliari spagnoli, sulle quote detenute dalle sigg.re Virpi Komu e Hanna
+Ruotsalainen.  
+  
+---|---  
+  
+14
+
+|
+
+Il sig. Pekka Komu nonché le sigg.re Ritva Komu, Virpi Komu e Hanna
+Ruotsalainen sono inoltre comproprietari, il sig. Pekka Komu in misura del
+50%, la sig.ra Ritva Komu in misura del 25% e le sigg.re Virpi Komu e Hanna
+Ruotsalainen in misura del 12,5% ciascuna, di un appartamento ubicato nel
+medesimo comune. La sig.ra Ritva Komu è altresì titolare di un diritto di
+usufrutto, trascritto nei summenzionati registri immobiliari, sulle quote
+detenute dalle sigg.re Virpi Komu e Hanna Ruotsalainen.  
+  
+---|---  
+  
+15
+
+|
+
+Desiderando conseguire la separazione delle quote da esse detenute nei due
+immobili in questione, e in difetto di accordo circa lo scioglimento del
+rapporto di comproprietà, le sigg.re Ritva Komu, Virpi Komu e Hanna
+Ruotsalainen hanno agito dinanzi all’Etelä-Savon käräjäoikeus (Tribunale di
+primo grado del Savo meridionale, Finlandia) chiedendo la designazione di un
+avvocato cui fosse assegnato mandato a vendere i suddetti immobili e la
+fissazione di un prezzo minimo di vendita per ciascuno di essi.  
+  
+---|---  
+  
+16
+
+|
+
+Facendo valere che l’articolo 22, punto 1, del regolamento n. 44/2001
+sancisce, in materia di diritti reali immobiliari, la competenza esclusiva dei
+giudici dello Stato membro in cui è situato l’immobile, il sig. Pekka Komu e
+la sig.ra Jelena Komu hanno concluso per l’irricevibilità della suddetta
+domanda ed hanno precisato che un’eventuale decisione nel merito da parte
+dell’Etelä-Savon käräjäoikeus (Tribunale di primo grado del Savo meridionale)
+non potrebbe essere riconosciuta in Spagna in forza di dette disposizioni.
+Inoltre, le stesse parti hanno fatto osservare che la proprietà dei due
+immobili di cui trattasi nel procedimento principale era gravata di un diritto
+di usufrutto trascritto nei registri immobiliari in favore della sig.ra Ritva
+Komu e che tale circostanza era atta a precludere la vendita degli stessi
+immobili a un terzo.  
+  
+---|---  
+  
+17
+
+|
+
+Con decisione del 9 ottobre 2012, l’Etelä-Savon käräjäoikeus (Tribunale di
+primo grado del Savo meridionale), dopo avere dichiarato la propria competenza
+a statuire nel merito della controversia principale, ha accolto la domanda, ha
+designato un fiduciario, lo ha incaricato di vendere all’asta detti beni
+immobili e di suddividere il ricavato della vendita tra i comproprietari, ed
+ha fissato il prezzo minimo di vendita dei medesimi immobili.  
+  
+---|---  
+  
+18
+
+|
+
+Il sig. Pekka Komu e la sig.ra Jelena Komu hanno interposto appello avverso la
+suddetta decisione dinanzi all’Itä-Suomen hovioikeus (Corte d’appello della
+Finlandia orientale).  
+  
+---|---  
+  
+19
+
+|
+
+Con decisione del 7 maggio 2013, tale giudice ha ritenuto che la domanda di
+scioglimento mediante vendita di una comproprietà su un bene immobile
+configuri un’azione avente ad oggetto un diritto reale immobiliare, ai sensi
+dell’articolo 22, punto 1, del regolamento n. 44/2001. Conseguentemente, tale
+giudice ha affermato la competenza dei giudici spagnoli, ha annullato la
+decisione di primo grado e ha, quindi, respinto la domanda in questione in
+quanto irricevibile.  
+  
+---|---  
+  
+20
+
+|
+
+Adito in via di ricorso dalle ricorrenti, il Korkein oikeus (Corte suprema),
+dopo aver ricordato la giurisprudenza della Corte rilevante in materia, ha
+nondimeno affermato di nutrire dubbi sulla questione se una domanda
+giudiziale, come quella di cui trattasi nel procedimento principale, rientri
+nella competenza esclusiva del foro dello Stato membro in cui è situato
+l’immobile interessato. Tale giudice ha, pertanto, deciso di sospendere il
+procedimento e di sottoporre alla Corte la seguente questione pregiudiziale:  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+21
+
+|
+
+Con tale questione, il giudice del rinvio chiede, in sostanza, se l’articolo
+22, punto 1, primo comma, del regolamento n. 44/2001 debba essere interpretato
+nel senso che una domanda giudiziale diretta allo scioglimento, mediante una
+vendita la cui esecuzione sia affidata ad un fiduciario, della comproprietà
+indivisa su un bene immobile è sussumibile nella categoria delle controversie
+«in materia di diritti reali immobiliari» ai sensi di tale disposizione.  
+  
+---|---  
+  
+22
+
+|
+
+In via preliminare, occorre ricordare che, in forza dell’articolo 22, punto 1,
+primo comma, del regolamento n. 44/2001, i giudici dello Stato membro in cui
+l’immobile è situato (forum rei sitae) dispongono di una competenza esclusiva
+in materia di diritti reali immobiliari.  
+  
+---|---  
+  
+23
+
+|
+
+La Corte, nella sua giurisprudenza relativa all’articolo 16, punto 1, lettera
+a), della Convenzione del 27 settembre 1968, concernente la competenza
+giurisdizionale e l’esecuzione delle decisioni in materia civile e commerciale
+(GU 1972, L 299, pag. 32; in prosieguo: la «Convenzione di Bruxelles»), la
+quale è altresì valida per quanto riguarda l’interpretazione dell’articolo 22,
+punto 1, del regolamento n. 44/2001, ha già avuto occasione di rilevare che,
+onde garantire, nella misura del possibile, la parità e l’uniformità dei
+diritti e degli obblighi che derivano da tale Convenzione per gli Stati
+contraenti e le persone interessate, il senso dell’espressione «in materia di
+diritti reali immobiliari» deve essere determinato in materia autonoma nel
+diritto dell’Unione (sentenza Weber, C‑438/12, EU:C:2014:212, punto 40 e
+giurisprudenza ivi citata).  
+  
+---|---  
+  
+24
+
+|
+
+Allo stesso modo, da una giurisprudenza costante della Corte relativa alla
+Convenzione di Bruxelles, trasponibile al regolamento n. 44/2001, emerge che,
+in quanto introducono un’eccezione alle regole generali sulla competenza
+sancite da tale regolamento, e in particolare alla regola, di cui all’articolo
+2, paragrafo 1, di quest’ultimo, secondo cui, fatte salve le disposizioni di
+detto regolamento, le persone domiciliate nel territorio di un determinato
+Stato membro sono convenute davanti ai giudici di tale Stato membro, le
+disposizioni dell’articolo 22, punto 1, dello stesso regolamento non devono
+essere interpretate in senso più ampio di quanto non richieda la loro
+finalità. Infatti, tali disposizioni hanno l’effetto di privare le parti della
+scelta – che altrimenti spetterebbe loro – del foro competente e, in taluni
+casi, di portarle davanti ad un giudice che non è quello proprio del domicilio
+di alcuna di esse (v., per analogia, sentenza ČEZ, C‑343/04, EU:C:2006:330,
+punti 26 e 27 nonché la giurisprudenza citata).  
+  
+---|---  
+  
+25
+
+|
+
+Per quanto attiene all’obiettivo perseguito dalle disposizioni succitate,
+tanto dalla relazione sulla Convenzione concernente la competenza
+giurisdizionale e l’esecuzione delle decisioni in materia civile e commerciale
+(GU 1979, C 59, pag. 1) quanto da una giurisprudenza costante della Corte
+relativa all’articolo 16, punto 1, lettera a), della Convenzione di Bruxelles,
+trasponibile all’articolo 22, punto 1, primo comma, del regolamento n.
+44/2001, risulta che la ragione essenziale della competenza esclusiva
+attribuita ai giudici dello Stato contraente in cui è situato l’immobile è
+data dalla circostanza che il giudice del luogo di ubicazione del bene è
+quello che si trova nella condizione più adatta, considerata la prossimità,
+per avere una buona conoscenza delle situazioni di fatto e per applicare le
+norme e gli usi che sono, nella generalità dei casi, quelli dello Stato di
+ubicazione del bene (v., per analogia, sentenza Weber, C‑438/12,
+EU:C:2014:212, punto 41 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+26
+
+|
+
+Inoltre, la Corte ha precisato che la competenza esclusiva dei giudici dello
+Stato contraente ove è situato l’immobile comprende non la totalità delle
+azioni che si riferiscono ai diritti reali immobiliari, ma solo quelle che, al
+tempo stesso, ricadono nell’ambito di applicazione di tale Convenzione o
+rispettivamente di detto regolamento e rientrano tra quelle che sono dirette,
+da un lato, a determinare l’estensione, la consistenza, la proprietà, il
+possesso di un bene immobile o l’esistenza di altri diritti reali su tali beni
+e, dall’altro, ad assicurare ai titolari di questi diritti la protezione delle
+prerogative derivanti dal loro titolo (v., in tal senso, sentenza Weber,
+C‑438/12, EU:C:2014:212, punto 42 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+27
+
+|
+
+Occorre parimenti ricordare che, in forza di una giurisprudenza costante della
+Corte, la differenza tra diritto reale e diritto di obbligazione risiede nel
+fatto che il primo, che grava su un bene materiale, produce i suoi effetti nei
+confronti di tutti, mentre il secondo può essere fatto valere solo nei
+confronti del debitore (sentenza Weber, C‑438/12, EU:C:2014:212, punto 43 e
+giurisprudenza ivi citata).  
+  
+---|---  
+  
+28
+
+|
+
+Nel caso in esame, come hanno fatto correttamente valere gli Stati membri che
+hanno depositato osservazioni scritte, una domanda di scioglimento di una
+comproprietà su beni immobili, come quella di cui trattasi nel procedimento
+principale, costituisce un’azione giudiziale riconducibile nella categoria
+delle controversie in materia di diritti reali immobiliari di competenza
+esclusiva dei giudici dello Stato membro in cui l’immobile è situato.  
+  
+---|---  
+  
+29
+
+|
+
+Al riguardo, infatti, si deve necessariamente rilevare che una simile domanda,
+la quale è destinata a condurre ad un trasferimento del diritto di proprietà
+su beni immobili, riguarda diritti reali che producono effetti nei confronti
+di chiunque e configura un’azione diretta ad assicurare ai titolari di
+siffatti diritti la tutela delle prerogative connesse al loro titolo.  
+  
+---|---  
+  
+30
+
+|
+
+Analogamente, si deve sottolineare che le considerazioni di buona
+amministrazione della giustizia, di cui è sotteso l’articolo 22, punto 1,
+primo comma, del regolamento n. 44/2001, militano del pari a favore di una
+siffatta competenza esclusiva nel caso in cui l’azione sia diretta, come nella
+controversia di cui trattasi nel procedimento principale, allo scioglimento
+della comproprietà su un bene immobile.  
+  
+---|---  
+  
+31
+
+|
+
+Infatti, il trasferimento del diritto di proprietà relativo agli immobili di
+cui trattasi nel procedimento principale implicherà la presa in considerazione
+di circostanze di fatto e di diritto specifiche in relazione al fattore di
+collegamento stabilito dall’articolo 22, punto 1, primo comma, del regolamento
+n. 44/2001, ossia il luogo di ubicazione di tali immobili. In particolare, si
+tratta della circostanza che i diritti di proprietà che riguardano detti
+immobili nonché il diritto di usufrutto gravante su tali diritti, sono oggetto
+di trascrizioni nei registri immobiliari spagnoli, conformemente al diritto
+spagnolo, o il fatto che le procedure che disciplinano la vendita,
+eventualmente all’asta, dei medesimi beni immobili sono quelle dello Stato
+membro in cui questi ultimi sono situati o, ancora, il fatto che, in caso di
+contestazioni, l’acquisizione di prove sarà agevolata a motivo della
+prossimità di tale luogo di ubicazione dei beni. Al riguardo, la Corte ha già
+avuto modo di dichiarare che, in particolare per quanto riguarda le
+controversie sui diritti reali immobiliari, queste devono essere in generale
+giudicate sulla scorta delle regole dello Stato in cui l’immobile è situato e
+le liti cui esse danno luogo necessitano frequentemente di verifiche, indagini
+e perizie che devono essere eseguite sul posto (sentenza ČEZ, C‑343/04,
+EU:C:2006:330, punto 29 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+32
+
+|
+
+Tale giurisprudenza è trasponibile al procedimento principale in cui, a
+differenza della controversia conclusasi con la sentenza Lieber (C‑292/93,
+EU:C:1994:241, punto 21), concernente l’indennizzo dovuto per il godimento di
+un’abitazione, la determinazione della portata dei presupposti di legge
+relativi allo scioglimento del rapporto di comproprietà, che può produrre
+effetti nei confronti di tutti, ricade nella competenza dei giudici dello
+Stato membro in cui gli immobili di cui trattasi nel procedimento principale
+sono situati, come risulta dalla giurisprudenza citata al punto 26 della
+presente sentenza. Infatti, nel caso in cui le norme di diritto materiale
+applicabili nel procedimento principale implicassero una valutazione del
+carattere divisibile o meno in natura di tali immobili al momento dello
+scioglimento del rapporto di comproprietà, una simile valutazione potrebbe dar
+luogo a verifiche, per mezzo di perizie, che il giudice dello Stato membro in
+cui gli immobile sono situati sarebbe quello maggiormente in grado di
+disporre.  
+  
+---|---  
+  
+33
+
+|
+
+Alla luce delle considerazioni che precedono, si deve rispondere alla
+questione posta dichiarando che l’articolo 22, punto 1, primo comma, del
+regolamento n. 44/2001 deve essere interpretato nel senso che una domanda
+giudiziale diretta allo scioglimento mediante vendita, la cui esecuzione sia
+affidata ad un fiduciario, della comproprietà indivisa su un bene immobile è
+sussumibile nella categoria delle controversie «in materia di diritti reali
+immobiliari» ai sensi di tale disposizione.  
+  
+---|---  
+  
+Sulle spese
+
+34
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Settima Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 22, punto 1, primo comma, del regolamento (CE) n. 44/2001 del
+Consiglio, del 22 dicembre 2000, concernente la competenza giurisdizionale, il
+riconoscimento e l’esecuzione delle decisioni in materia civile e commerciale,
+deve essere interpretato nel senso che una domanda giudiziale diretta allo
+scioglimento mediante vendita, la cui esecuzione sia affidata ad un
+fiduciario, della comproprietà indivisa su un bene immobile è sussumibile
+nella categoria delle controversie «in materia di diritti reali immobiliari»
+ai sensi di tale disposizione.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il finlandese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

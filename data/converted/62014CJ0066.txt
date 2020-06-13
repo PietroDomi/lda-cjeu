@@ -1,0 +1,1031 @@
+
+
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+6 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Articoli 49 TFUE, 54 TFUE, 107 TFUE e 108, paragrafo
+3, TFUE — Libertà di stabilimento — Aiuto di Stato — Tassazione dei gruppi
+societari — Acquisizione di una partecipazione nel capitale di una controllata
+— Ammortamento dell’avviamento — Limitazione alle partecipazioni in società
+residenti»
+
+Nella causa C‑66/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Verwaltungsgerichtshof (Austria), con
+decisione del 30 gennaio 2014, pervenuta in cancelleria il 10 febbraio 2014,
+nel procedimento
+
+Finanzamt Linz
+
+contro
+
+Bundesfinanzgericht, Außenstelle Linz,
+
+con l’intervento di:
+
+IFN-Holding AG,
+
+IFN Beteiligungs GmbH,
+
+LA CORTE (Quarta Sezione),
+
+composta da L. Bay Larsen, presidente di sezione, K. Jürimäe, J. Malenovský,
+M. Safjan e A. Prechal (relatore), giudici,
+
+avvocato generale: J. Kokott
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la IFN‑Holding AG e per la IFN Beteiligungs GmbH, da A. Damböck e B.
+Stürzlinger, Steuerberater;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo austriaco, da J. Bauer, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da W. Roels e R. Sauer, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 16
+aprile 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 49 TFUE, 54 TFUE, 107 TFUE e 108, paragrafo 3, TFUE.  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra il
+Finanzamt Linz (Ufficio delle imposte di Linz; in prosieguo: l’«Ufficio delle
+imposte») ed il Bundesfinanzgericht, Außenstelle Linz (Corte tributaria
+federale, sezione di Linz) (precedentemente Unabhängiger Finanzsenat,
+Außenstelle Linz), in merito ad una decisione del primo che, nell’ambito della
+tassazione di un gruppo societario, ha negato ad una società acquirente di una
+partecipazione in una società non residente la possibilità di procedere
+all’ammortamento dell’avviamento commerciale.  
+  
+---|---  
+  
+Contesto normativo austriaco
+
+3
+
+|
+
+Nel diritto austriaco, la legge relativa all’imposta sulle società
+(Körperschaftsteuergesetz), del 7 luglio 1988 (BGBl. 401/1988), come
+modificata dalla legge di riforma tributaria del 2005 (Steuerreformgesetz
+2005, BGBl. I, 57/2004; in prosieguo: la «legge relativa all’imposta sulle
+società del 1988»), al suo articolo 9 prevede un regime di tassazione dei
+gruppi societari. Nell’ambito di tale regime, una società può formare un
+gruppo di società con le sue controllate e con altre società affiliate, a
+condizione che detenga almeno il 50% del capitale di queste. In tal caso, i
+risultati fiscali (utili e perdite) delle società appartenenti a detto gruppo
+sono imputati al reddito della sola società controllante e sono tassati a
+livello di quest’ultima.  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 9, paragrafo 7, della legge relativa all’imposta sulle società del
+1988 dispone quanto segue:
+
+«(...) In caso di acquisizione, da parte di un membro del gruppo o della
+società capogruppo, ovvero da parte di una società idonea a far parte di un
+gruppo di società, di una partecipazione in una società controllata operativa
+integralmente assoggettata ad imposta (...), salvo l’ipotesi in cui tale
+partecipazione sia acquisita, direttamente o indirettamente, da una società
+facente parte del gruppo ovvero, direttamente o indirettamente, da un
+azionista che eserciti un’influenza dominante, deve procedersi, a far data dal
+momento in cui tale società entra a far parte del gruppo di imprese,
+all’ammortamento dell’avviamento in capo al membro del gruppo che detiene
+direttamente la partecipazione o in capo alla società capogruppo, secondo le
+modalità che seguono:
+
+|
+
+—
+
+|
+
+per avviamento si intende la differenza, in proporzione alla quota di
+partecipazione detenuta, tra il capitale proprio ai sensi del diritto
+commerciale della società controllata incrementato delle plusvalenze latenti
+nelle immobilizzazioni non deperibili e i costi di acquisto rilevanti ai fini
+fiscali, nei limiti tuttavia del 50% dei suddetti costi. L’avviamento
+deducibile deve essere portato in deduzione in modo lineare nell’arco di 15
+anni.  
+  
+---|---  
+  
+(...)
+
+—
+
+|
+
+Se l’acquisizione della partecipazione ha comportato un avviamento negativo,
+quest’ultimo deve essere iscritto in bilancio con corrispondente aumento
+dell’utile (...).  
+  
+---|---  
+  
+—
+
+|
+
+Gli importi di un quindicesimo fiscalmente considerati diminuiscono (…) il
+valore contabile rilevante a fini fiscali».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 10 della legge relativa all’imposta sulle società del 1988, che
+riguarda le partecipazioni internazionali qualificate, così prevede ai
+paragrafi 2 e 3:
+
+«(2) Le quote di utili di qualsiasi genere derivanti da partecipazioni
+internazionali qualificate sono esenti dall’imposta sulle società. Sussiste
+una partecipazione internazionale qualificata nel caso in cui soggetti
+d’imposta che rientrano nell’ambito dell’articolo 7, paragrafo 3, ovvero altre
+persone giuridiche straniere illimitatamente soggette ad imposizione e
+comparabili ad un soggetto d’imposta austriaco ricadente sotto l’articolo 7,
+paragrafo 3, siano comprovatamente titolari, per un periodo ininterrotto di
+almeno un anno, di una partecipazione del 10% almeno, sotto forma di quote di
+partecipazione al capitale, in:
+
+|
+
+a)
+
+|
+
+società non residenti equiparabili a società di capitali residenti,  
+  
+---|---  
+  
+b)
+
+|
+
+altre società non residenti che soddisfino i presupposti (...) di cui
+all’articolo 2 della direttiva (…) 90/435/CEE, [del Consiglio, del 23 luglio
+1990, concernente il regime fiscale comune applicabile alle società madri e
+figlie di Stati Membri diversi] (GU L 225, pag. 6), nel testo vigente. Il
+citato termine di un anno non si applica alle quote acquisite in ragione di un
+aumento del capitale, qualora ciò non abbia determinato un aumento dell’entità
+della partecipazione.  
+  
+---|---  
+  
+(3) In sede di determinazione dei redditi non vengono presi in considerazione
+utili, perdite e altre variazioni di valore derivanti da partecipazioni
+internazionali qualificate ai sensi del paragrafo 2. Ciò non vale per le
+perdite effettive e definitive determinate dal venir meno (liquidazione o
+insolvenza) della società non residente. Le perdite devono essere ridotte in
+misura corrispondente alle quote di utili non imponibili di qualsiasi tipo che
+siano maturati nel corso degli ultimi cinque esercizi anteriori all’esercizio
+in cui è stata disposta la liquidazione o si è verificato lo stato di
+insolvenza. La neutralità fiscale della partecipazione non opera nei seguenti
+casi:
+
+1.
+
+|
+
+all’atto della presentazione della dichiarazione relativa all’imposta sulle
+società per l’anno in cui è stata acquisita una partecipazione internazionale
+qualificata o in cui una partecipazione internazionale qualificata è venuta ad
+esistenza mediante un’ulteriore acquisizione di quote, il soggetto passivo
+dichiara che gli utili, le perdite e le altre variazioni di valore devono
+essere ritenute fiscalmente rilevanti ai fini della stessa (opzione a favore
+della rilevanza fiscale della partecipazione).  
+  
+---|---  
+  
+(...)».  
+  
+Fatti del procedimento principale e questioni pregiudiziali
+
+6
+
+|
+
+Dalla decisione di rinvio risulta che l’IFN Beteiligungs GmbH (in prosieguo:
+l’«IFN») detiene il 99,71% del capitale sociale dell’IFN‑Holding AG (in
+prosieguo: l’«IFN‑Holding») che, a sua volta, detiene partecipazioni di
+maggioranza in un certo numero di società per azioni, di cui talune
+parzialmente, altre integralmente assoggettate ad imposta. Negli anni 2006 e
+2007 l’IFN‑Holding deteneva il 100% del capitale della CEE Holding GmbH (in
+prosieguo: la «CEE»), la quale, nel 2005, aveva acquisito il 100% del capitale
+della HSF s.r.o. Slowakei (in prosieguo: la «HSF»), società stabilita in
+Slovacchia. La CEE e la HSF sono entrate a far parte, rispettivamente dal 2005
+e dal 2006, di un gruppo societario ai sensi dell’articolo 9 della legge
+relativa all’imposta sulle società del 1988. A seguito della fusione tra
+l’IFN‑Holding e la CEE, avvenuta con effetto a decorrere dal 31 dicembre 2007,
+la prima è subentrata nel complesso dei diritti e degli obblighi della
+seconda, ivi inclusa la quota detenuta nella HSF.  
+  
+---|---  
+  
+7
+
+|
+
+Nell’ambito delle dichiarazioni relative all’imposta sulle società per gli
+anni compresi tra il 2006 e il 2010, la CEE e, successivamente, l’IFN‑Holding
+hanno ogni volta proceduto, in relazione a detta partecipazione,
+all’ammortamento dell’avviamento, ai sensi dell’articolo 9, paragrafo 7, della
+legge relativa all’imposta sulle società del 1988, in misura corrispondente a
+un quindicesimo della metà del prezzo di acquisto (ossia EUR 5,5 milioni). In
+un allegato della loro dichiarazione relativa all’imposta sulle società le
+stesse hanno precisato che la limitazione, prevista dalla succitata
+disposizione, dell’ammortamento dell’avviamento alle sole partecipazioni
+detenute in società residenti violava la libertà di stabilimento ed era
+pertanto contraria al diritto dell’Unione.  
+  
+---|---  
+  
+8
+
+|
+
+Nei suoi avvisi di accertamento l’Ufficio delle imposte, quale autorità di
+primo grado, non ha riconosciuto detti ammortamenti dell’avviamento sulla base
+del rilievo che, in forza dell’articolo 9, paragrafo 7, della legge relativa
+all’imposta sulle società del 1988, il diritto di procedere a simili
+ammortamenti sorgerebbe solo in relazione alle partecipazioni detenute in
+società integralmente assoggettate ad imposta.  
+  
+---|---  
+  
+9
+
+|
+
+A seguito dei ricorsi presentati dall’IFN‑Holding e dall’IFN avverso detti
+avvisi, l’Unabhängiger Finanzsenat, Außenstelle Linz, con decisione del 16
+aprile 2013 ha annullato le decisioni dell’Ufficio delle imposte. Esso ha
+ritenuto che la limitazione degli ammortamenti dell’avviamento alle sole
+partecipazioni detenute in società integralmente assoggettate ad imposta, di
+cui all’articolo 9, paragrafo 7, della legge relativa all’imposta sulle
+società del 1988, violasse la libertà di stabilimento e non potesse essere
+giustificata da motivi imperativi di interesse generale. A suo avviso, per
+garantire la compatibilità con il diritto dell’Unione, l’ammortamento
+dell’avviamento doveva essere esteso alle partecipazioni in società aventi
+sede in un altro Stato membro.  
+  
+---|---  
+  
+10
+
+|
+
+Adito dall’Ufficio delle imposte con ricorso avverso tale decisione, il
+giudice del rinvio si chiede, in primo luogo, se l’ammortamento
+dell’avviamento previsto dall’articolo 9, paragrafo 7, della legge relativa
+all’imposta sulle società del 1988, sia compatibile con gli articoli 107 TFUE
+e 108, paragrafo 3, TFUE. Tale giudice è del parere che l’ammortamento in
+discorso conferisca un vantaggio al beneficiario, ma si domanda se debba
+ritenersi che tale vantaggio favorisca talune imprese o talune produzioni.  
+  
+---|---  
+  
+11
+
+|
+
+Il giudice del rinvio si interroga, in secondo luogo, sulla compatibilità
+dell’ammortamento dell’avviamento previsto dall’articolo 9, paragrafo 7, della
+legge relativa all’imposta sulle società del 1988, con gli articoli 49 TFUE e
+54 TFUE. Esso si chiede se tale misura, che a suo avviso configura un ostacolo
+alla libertà di stabilimento, possa nondimeno essere giustificata per il fatto
+che essa riguarda situazioni che non sono obiettivamente comparabili o per un
+motivo imperativo di interesse generale.  
+  
+---|---  
+  
+12
+
+|
+
+Per quanto attiene all’argomento dell’Ufficio delle imposte secondo cui la
+situazione delle società residenti e quella delle società non residenti,
+membri di un gruppo di società, non sono comparabili, dal momento che, per le
+prime, i risultati (utili e perdite) sono imputati integralmente alla società
+controllante mentre, per le seconde, sono imputate soltanto le perdite e,
+oltretutto, solo in proporzione alla quota di partecipazione, il giudice del
+rinvio si chiede se il riconoscimento, o il diniego, dell’ammortamento
+dell’avviamento dipenda da tale diversità di situazione tra le due suddette
+categorie di società, facenti parte di un gruppo societario. Infatti, in un
+gruppo societario, l’ammortamento dell’avviamento è consentito
+indipendentemente dal fatto che la controllata realizzi utili o subisca
+perdite e a prescindere dal fatto che il valore della partecipazione sia
+variato o meno.  
+  
+---|---  
+  
+13
+
+|
+
+Il giudice del rinvio osserva altresì che l’ammortamento dell’avviamento
+comporta una riduzione del valore contabile, rilevante ai fini fiscali, della
+partecipazione, e che pertanto, nel caso di una successiva cessione di detta
+partecipazione, esso determina plusvalenze imponibili più elevate. Tuttavia,
+le partecipazioni strategiche sono detenute, di norma, in modo duraturo e,
+anche nell’eventualità di una rivendita della partecipazione, in ragione
+dell’ammortamento dell’avviamento insorge in capo alla società controllante un
+vantaggio di cassa, con la conseguenza che la sua posizione, in caso di
+acquisizione di una partecipazione in una società residente, è più vantaggiosa
+rispetto a quella in cui si troverebbe se acquisisse una partecipazione in una
+società controllata stabilita in un altro Stato membro.  
+  
+---|---  
+  
+14
+
+|
+
+In merito all’argomento dell’Ufficio delle imposte secondo cui non
+sussisterebbe alcun ostacolo alla libertà di stabilimento per quanto riguarda
+le partecipazioni internazionali per le quali non sia stata esercitata
+l’opzione a favore della rilevanza fiscale, di cui all’articolo 10, paragrafo
+3, della legge relativa all’imposta sulle società del 1988, il giudice del
+rinvio precisa che il soggetto passivo può, mediante tale opzione che ha la
+facoltà di esercitare un’unica volta, scegliere se lasciare che gli utili e le
+perdite scaturenti dalla cessione della partecipazione restino neutrali dal
+punto di vista fiscale, da un lato, o se assegnare loro rilevanza fiscale,
+dall’altro. Detto giudice fa tuttavia notare che, anche in caso di esercizio
+dell’opzione in favore della rilevanza fiscale, l’ammortamento dell’avviamento
+non sarebbe consentito per una partecipazione in una società non residente.  
+  
+---|---  
+  
+15
+
+|
+
+È in tale contesto che il Verwaltungsgerichtshof (Tribunale amministrativo) ha
+deciso di sospendere il procedimento e di sottoporre alla Corte le seguenti
+questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se l’articolo 107 TFUE (...), in combinato disposto con l’articolo 108,
+paragrafo 3, TFUE (...), osti a una misura nazionale secondo cui, nell’ambito
+dell’imposizione di gruppo, in caso di acquisizione di una partecipazione in
+una società residente deve portarsi in ammortamento l’avviamento – con
+conseguente riduzione della base imponibile e quindi dell’onere fiscale –,
+mentre in caso di acquisizione di una partecipazione nelle altre ipotesi di
+tassazione dei redditi e delle società un siffatto ammortamento
+dell’avviamento non è ammesso.  
+  
+---|---  
+  
+2)
+
+|
+
+Se l’articolo 49 TFUE (...), in combinato disposto con l’articolo 54 TFUE
+(...), osti alle disposizioni di uno Stato membro secondo cui, nell’ambito
+dell’imposizione di gruppo, in caso di acquisizione di una partecipazione in
+una società residente deve portarsi in ammortamento l’avviamento, mentre in
+caso di acquisizione di una partecipazione in una società non residente [in
+particolare, in una società avente la propria sede in un altro Stato membro
+(...)] un siffatto ammortamento dell’avviamento non è ammesso».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla ricevibilità della prima questione
+
+16
+
+|
+
+L’IFN-Holding e la Commissione europea ritengono che la prima questione non
+sia ricevibile, in quanto non appaiono in modo chiaro le ragioni per cui il
+giudice del rinvio necessita di una risposta a tale questione per dirimere la
+controversia dinanzi ad esso pendente.  
+  
+---|---  
+  
+17
+
+|
+
+Facendo riferimento alla sentenza P (C‑6/12, EU:C:2013:525, punto 39),
+l’IFN‑Holding fa valere in particolare che, nelle cause in materia di aiuti di
+Stato, i giudici nazionali hanno soltanto il compito di tutelare i diritti dei
+singoli fino all’adozione di una decisione finale della Commissione in
+applicazione dell’articolo 108, paragrafo 3, TFUE. Orbene, una simile
+situazione non ricorrerebbe nel caso di specie, atteso che nessuna delle parti
+della controversia principale ha formulato pretese sul fondamento degli
+articoli 107 TFUE e seguenti.  
+  
+---|---  
+  
+18
+
+|
+
+La Commissione, a sua volta, ritiene che l’IFN-Holding e l’IFN non possano, in
+ogni caso, far valere dinanzi al giudice nazionale l’illegittimità della norma
+sancita all’articolo 9, paragrafo 7, della legge relativa all’imposta sulle
+società del 1988 alla luce del diritto in materia di aiuti di Stato.  
+  
+---|---  
+  
+19
+
+|
+
+Occorre ricordare che una domanda di pronuncia pregiudiziale proposta da un
+giudice nazionale può essere dichiarata irricevibile soltanto qualora risulti
+in modo evidente che l’interpretazione del diritto dell’Unione richiesta non
+ha alcuna relazione con la realtà o con l’oggetto del procedimento principale,
+qualora la questione sia di natura ipotetica o, ancora, qualora la Corte non
+disponga degli elementi di fatto e di diritto necessari per rispondere in modo
+utile alle questioni che le sono sottoposte (v., in particolare, sentenza
+Belvedere Costruzioni, C‑500/10, EU:C:2012:186, punto 16 e giurisprudenza ivi
+citata).  
+  
+---|---  
+  
+20
+
+|
+
+La prima questione verte sulla compatibilità con gli articoli 107 TFUE e 108,
+paragrafo 3, TFUE di una misura fiscale, come quella di cui trattasi nel
+procedimento principale, che a determinate condizioni consente ad una società,
+nell’ipotesi di acquisizione di una partecipazione in una società residente,
+di procedere all’ammortamento dell’avviamento.  
+  
+---|---  
+  
+21
+
+|
+
+Si deve tuttavia rilevare che il debitore di un tributo non può eccepire che
+una misura fiscale di cui fruiscono altre imprese costituisca un aiuto di
+Stato per sottrarsi al pagamento di tale tributo (v., in tal senso, sentenza
+Air Liquide Industries Belgium, C‑393/04 e C‑41/05, EU:C:2006:403, punto 43).  
+  
+---|---  
+  
+22
+
+|
+
+Inoltre, la decisione di rinvio non contiene alcuna indicazione dalla quale
+possa dedursi che, nonostante il fatto che l’IFN e l’IFN‑Holding non possano
+trarre profitto da un’eventuale violazione degli articoli 107 TFUE e 108,
+paragrafo 3, TFUE, la risposta alla prima questione pregiudiziale sia
+nondimeno necessaria al giudice del rinvio per risolvere la controversia di
+cui è investito.  
+  
+---|---  
+  
+23
+
+|
+
+Ciò posto, si deve affermare che risulta manifestamente che la prima questione
+non ha alcuna relazione con l’oggetto della controversia principale.  
+  
+---|---  
+  
+24
+
+|
+
+Di conseguenza, la prima questione è irricevibile.  
+  
+---|---  
+  
+Sulla seconda questione
+
+25
+
+|
+
+Con la sua seconda questione, il giudice del rinvio chiede in sostanza se
+l’articolo 49 TFUE osti ad una normativa di uno Stato membro, come quella di
+cui trattasi nel procedimento principale, la quale, nell’ambito della
+tassazione di un gruppo societario, consente ad una società controllante,
+nell’ipotesi di acquisizione di una partecipazione in una società residente
+che entra a far parte di un simile gruppo, di procedere all’ammortamento
+dell’avviamento entro il limite del 50% del prezzo di acquisto della
+partecipazione, mentre preclude tale ammortamento nel caso di acquisizione di
+una partecipazione in una società non residente.  
+  
+---|---  
+  
+26
+
+|
+
+Sebbene le disposizioni del Trattato FUE relative alla libertà di stabilimento
+mirino ad assicurare il beneficio del trattamento nazionale nello Stato membro
+ospitante, esse ostano parimenti a che lo Stato membro d’origine ostacoli lo
+stabilimento in un altro Stato membro di una società costituita conformemente
+alla propria normativa, segnatamente per il tramite di una controllata. In
+particolare, la libertà di stabilimento viene ostacolata qualora, ai sensi
+della normativa di uno Stato membro, una società residente che detiene una
+controllata in un altro Stato membro o in un altro Stato parte dell’Accordo
+sullo Spazio economico europeo, del 2 maggio 1992 (GU 1994, L 1, pag. 3),
+subisca una differenza di trattamento fiscale svantaggiosa rispetto a una
+società residente che detiene una controllata nel primo Stato membro (v., in
+tal senso, sentenza Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, punti 18 e
+19).  
+  
+---|---  
+  
+27
+
+|
+
+Si deve rilevare che una normativa come quella di cui trattasi nel
+procedimento principale è atta a creare un vantaggio fiscale in favore di una
+società controllante che acquisisca una partecipazione in una società
+residente, allorché l’avviamento di quest’ultima è positivo. Infatti, come
+osserva il giudice del rinvio, il fatto di poter procedere all’ammortamento
+dell’avviamento, ai sensi dell’articolo 9, paragrafo 7, della legge relativa
+all’imposta sulle società del 1988, riduce la base imponibile della società
+controllante e, di conseguenza, l’ammontare della tassazione.  
+  
+---|---  
+  
+28
+
+|
+
+Non concedendo, in presenza delle medesime condizioni, il suddetto vantaggio
+fiscale ad una società controllante che acquisisca una partecipazione in una
+società non residente, la normativa in parola pone in atto una disparità di
+trattamento fiscale tra società controllanti a scapito di quelle che
+acquisiscono partecipazioni in una società non residente.  
+  
+---|---  
+  
+29
+
+|
+
+Tale disparità di trattamento è idonea a ostacolare l’esercizio, da parte
+della società controllante che acquisisca una partecipazione in una società
+non residente, della sua libertà di stabilimento ai sensi dell’articolo 49
+TFUE, dissuadendola dall’acquisire o dal creare controllate in altri Stati
+membri (v., in tal senso, sentenza Commissione/Regno-Unito, C‑172/13,
+EU:C:2015:50, punto 23 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+30
+
+|
+
+Una siffatta disparità di trattamento è ammissibile solo se riguarda
+situazioni che non siano oggettivamente comparabili o se è giustificata da un
+motivo imperativo di interesse generale (v., in particolare, sentenza Nordea
+Bank Danmark, C‑48/13, EU:C:2014:2087, punto 23).  
+  
+---|---  
+  
+31
+
+|
+
+Per quanto riguarda la questione se le situazioni di cui è causa siano
+oggettivamente comparabili, occorre ricordare che la comparabilità di una
+situazione transfrontaliera con una situazione interna deve essere esaminata
+tenendo conto dell’obiettivo perseguito dalle disposizioni nazionali di cui
+trattasi (sentenza Commissione/Finlandia, C‑342/10, EU:C:2012:688, punto 36 e
+giurisprudenza ivi citata).  
+  
+---|---  
+  
+32
+
+|
+
+Come indicato dal Verwaltungsgerichtshof nella sua decisione di rinvio,
+nell’adottare la legge di riforma fiscale del 2005 il legislatore austriaco ha
+inteso istituire un incentivo fiscale alla costituzione di gruppi societari
+assicurando parità di trattamento tra l’acquisizione dell’azienda («asset
+deal») e l’acquisizione di partecipazioni nella società che possiede l’azienda
+(«share deal»).  
+  
+---|---  
+  
+33
+
+|
+
+Orbene, dal momento che, in forza di una normativa come quella di cui trattasi
+nel procedimento principale, un gruppo societario può essere formato da
+società sia residenti che non residenti, la situazione di una società
+controllante che desideri creare un simile gruppo con una controllata
+residente e quella di una società controllante residente che desideri
+costituire un gruppo societario con una controllata non residente sono, sotto
+il profilo dell’obiettivo di un regime fiscale come quello di cui trattasi nel
+procedimento principale, oggettivamente comparabili, nei limiti in cui
+entrambe mirino a trarre vantaggio da detto regime (v., in tal senso, sentenza
+X Holding, C‑337/08, EU:C:2010:89, punto 24).  
+  
+---|---  
+  
+34
+
+|
+
+Tale rilievo non è messo in discussione dall’esistenza, cui fa riferimento la
+Repubblica d’Austria, di una differenza nell’imputazione, al reddito della
+società controllante, degli utili e delle perdite di controllate residenti, da
+un lato, e di controllate non residenti, dall’altro, nell’ambito della
+tassazione di un gruppo societario.  
+  
+---|---  
+  
+35
+
+|
+
+Infatti, come osserva il giudice del rinvio, una normativa come quella di cui
+trattasi nel procedimento principale consente alla società controllante di
+procedere all’ammortamento dell’avviamento indipendentemente dal fatto che la
+società in cui è acquisita una partecipazione realizzi utili o subisca
+perdite.  
+  
+---|---  
+  
+36
+
+|
+
+In tali circostanze, come rileva l’avvocato generale al paragrafo 40 delle sue
+conclusioni, l’imputazione, o la mancata imputazione, al reddito di una
+società controllante degli utili e delle perdite di una società in cui è
+acquisita una partecipazione non può essere considerata come un criterio
+rilevante ai fini della comparabilità delle situazioni delle due categorie di
+società controllanti interessate sotto il profilo dell’obiettivo perseguito da
+una normativa come quella di cui trattasi nel procedimento principale.  
+  
+---|---  
+  
+37
+
+|
+
+Quanto rilevato al punto 33 della presente sentenza non è inficiato neppure
+dall’argomento della Repubblica d’Austria secondo cui l’obiettivo di una
+normativa come quella in esame è quello di riservare allo «share deal» lo
+stesso trattamento accordato all’«asset deal». Secondo tale Stato membro, il
+fatto di consentire alla società controllante, in caso di acquisizione di una
+partecipazione in una società non residente che entra a far parte di un gruppo
+societario, di procedere all’ammortamento dell’avviamento in una situazione
+transfrontaliera porrebbe lo «share deal» in una situazione più favorevole
+rispetto all’«asset deal».  
+  
+---|---  
+  
+38
+
+|
+
+Invero, quand’anche così fosse, resta tuttavia il fatto che una normativa come
+quella di cui trattasi nel procedimento principale pone in essere una
+disparità di trattamento tra una società controllante che acquisisca una
+partecipazione in una società residente, da una parte, ed una società
+controllante che acquisisca una partecipazione in una società non residente,
+dall’altra, mentre tali due categorie di società si trovano in una situazione
+comparabile rispetto a quello che, come si evince dal punto 32 della presente
+sentenza, costituisce l’obiettivo stesso di detta normativa, vale a dire
+instaurare un incentivo fiscale alla costituzione di gruppi societari.  
+  
+---|---  
+  
+39
+
+|
+
+La giustificazione di una disparità di trattamento, come quella di cui
+trattasi nel procedimento principale, pertanto, può essere unicamente
+riconducibile a motivi imperativi di interesse generale. Occorre inoltre, in
+tale ipotesi, che detta disparità di trattamento sia idonea a garantire il
+conseguimento dell’obiettivo da essa perseguito e non ecceda quanto è
+necessario per raggiungerlo (v. sentenza Nordea Bank Danmark, C‑48/13,
+EU:C:2014:2087, punto 25 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+40
+
+|
+
+La Repubblica d’Austria ritiene che la disparità di trattamento, instaurata da
+una normativa come quella di cui trattasi nel procedimento principale, trovi
+la sua giustificazione nel principio della ripartizione equilibrata del potere
+impositivo tra gli Stati membri, dal momento che la medesima non ha il potere
+di tassare gli utili delle società non residenti facenti parte del gruppo di
+società.  
+  
+---|---  
+  
+41
+
+|
+
+Al riguardo si deve ricordare che, in mancanza di disposizioni di unificazione
+o di armonizzazione adottate a livello dell’Unione europea, gli Stati membri
+rimangono competenti a definire, in via pattizia o unilaterale, i criteri di
+ripartizione del loro potere impositivo, segnatamente al fine di eliminare le
+doppie imposizioni, e che la preservazione di tale ripartizione è un obiettivo
+legittimo riconosciuto dalla Corte (v. sentenza Nordea Bank Danmark, C‑48/13,
+EU:C:2014:2087, punto 27 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+42
+
+|
+
+Tuttavia, come già rilevato al punto 35 della presente sentenza, una normativa
+come quella di cui trattasi nel procedimento principale consente alla società
+controllante di procedere all’ammortamento dell’avviamento, indipendentemente
+dal fatto che la società in cui è acquisita una partecipazione realizzi utili
+o subisca perdite. Per quanto riguarda la concessione del vantaggio fiscale in
+esame, tale normativa non riguarda quindi né l’esercizio del potere impositivo
+relativamente agli utili e alle perdite della società in cui è acquisita una
+partecipazione né, conseguentemente, la ripartizione di un potere impositivo
+tra gli Stati membri.  
+  
+---|---  
+  
+43
+
+|
+
+La Repubblica d’Austria fa parimenti valere che la disparità di trattamento
+risultante da una normativa come quella di cui trattasi nel procedimento
+principale trova la sua giustificazione nella necessità di garantire la
+coerenza del sistema fiscale.  
+  
+---|---  
+  
+44
+
+|
+
+È vero che la Corte ha già riconosciuto che la necessità di preservare la
+coerenza di un regime fiscale può giustificare una restrizione all’esercizio
+delle libertà di circolazione garantite dal Trattato. Affinché un simile
+argomento di giustificazione possa essere accolto, tuttavia, la Corte richiede
+un nesso diretto tra il vantaggio fiscale di cui trattasi e la compensazione
+di tale vantaggio con un determinato prelievo fiscale, laddove il carattere
+diretto di detto nesso va determinato alla luce della finalità della normativa
+in questione (sentenza Grünewald, C‑559/13, EU:C:2015:109, punto 48 e
+giurisprudenza ivi citata).  
+  
+---|---  
+  
+45
+
+|
+
+La Repubblica d’Austria afferma, in primo luogo, che, nell’ambito di una
+normativa come quella di cui trattasi nel procedimento principale, un siffatto
+nesso diretto sussiste tra il vantaggio fiscale consistente nell’ammortamento
+dell’avviamento, da un lato, e l’imputazione fiscale al reddito della società
+controllante dei risultati della società residente, dall’altro.  
+  
+---|---  
+  
+46
+
+|
+
+Tale argomento, tuttavia, non può essere accolto. Difatti, per gli stessi
+motivi già indicati ai punti 35 e 42 della presente sentenza, non si può
+ritenere sussistente un nesso diretto tra il vantaggio fiscale in questione e
+l’onere tributario consistente nell’imputazione fiscale al reddito della
+società controllante di utili realizzati dalla società in cui è acquisita una
+partecipazione, anche volendo ammettere che quest’ultima realizzi in tutti i
+casi utili e non perdite.  
+  
+---|---  
+  
+47
+
+|
+
+In secondo luogo, la Repubblica d’Austria sostiene che sussiste un nesso
+diretto, ai sensi della giurisprudenza richiamata al punto 44 della presente
+sentenza, tra il vantaggio fiscale di cui trattasi, da una parte, e
+l’imposizione in capo alla società controllante delle plusvalenze nell’ipotesi
+di cessione della partecipazione detenuta nella società residente, dall’altra.
+In caso di neutralità fiscale della partecipazione detenuta da una società
+controllante in una società non residente, siffatta imposizione non avrebbe
+luogo, sicché troverebbe giustificazione il fatto di non riconoscere il
+vantaggio fiscale direttamente connesso alla medesima imposizione.  
+  
+---|---  
+  
+48
+
+|
+
+Occorre tuttavia rilevare, da un lato, che il vantaggio fiscale consistente
+nell’ammortamento dell’avviamento produce effetti immediati per la società
+controllante, laddove invece l’imposizione delle plusvalenze in caso di
+cessione della partecipazione nella società residente presenta un carattere
+remoto ed aleatorio, ed a questo proposito il giudice del rinvio osserva
+peraltro che, di norma, le partecipazioni strategiche sono detenute in maniera
+duratura. In tale contesto, il fatto che sia possibile procedere
+all’imposizione delle plusvalenze in caso di cessione della partecipazione non
+è tale da costituire un argomento di coerenza fiscale atto a giustificare il
+diniego del suddetto vantaggio fiscale nell’ipotesi di acquisizione da parte
+di una società controllante di una partecipazione in una società non residente
+che entra a far parte di un gruppo di società (v., in tal senso, sentenze Rewe
+Zentralfinanz, C‑347/04, EU:C:2007:194, punto 67, nonché DI. VI. Finanziaria
+di Diego della Valle & C., C‑380/11, EU:C:2012:552, punto 49).  
+  
+---|---  
+  
+49
+
+|
+
+D’altro lato, come rilevato dall’avvocato generale al paragrafo 61 delle sue
+conclusioni, il diritto nazionale non consente alla società controllante di
+beneficiare dell’ammortamento dell’avviamento, neppure qualora la società
+controllante eserciti il proprio diritto di opzione a favore della rilevanza
+fiscale di una partecipazione in una società non residente, conformemente
+all’articolo 10, paragrafo 3, punto 1, della legge relativa all’imposta sulle
+società del 1988, con conseguente tassazione della cessione di una tale
+partecipazione.  
+  
+---|---  
+  
+50
+
+|
+
+Ne discende che una normativa come quella di cui trattasi nel procedimento
+principale di per sé non stabilisce alcun nesso diretto tra, da una parte, il
+vantaggio fiscale consistente nell’ammortamento dell’avviamento e, dall’altra,
+il prelievo realizzato mediante l’imposizione in capo alla società
+controllante delle plusvalenze da cessione della partecipazione nella sua
+controllata, cosicché non si può ritenere che una disparità di trattamento
+come quella di cui trattasi nel procedimento principale trovi giustificazione
+nella necessità di garantire la coerenza del sistema fiscale dello Stato
+membro interessato (v., in tal senso, sentenza Commissione/Spagna, C‑269/09,
+EU:C:2012:439, punto 87).  
+  
+---|---  
+  
+51
+
+|
+
+In terzo luogo, secondo la Repubblica d’Austria, al fine di preservare la
+coerenza del sistema fiscale austriaco, che preclude la deducibilità degli
+oneri connessi a redditi non imponibili, è giustificato negare il vantaggio
+dell’ammortamento summenzionato nell’ipotesi delle partecipazioni fiscalmente
+neutre in società non residenti. Infatti, in caso contrario tali
+partecipazioni fruirebbero di un duplice vantaggio, e ciò sarebbe
+incompatibile con detto sistema.  
+  
+---|---  
+  
+52
+
+|
+
+Tuttavia, l’argomento in questione, vertente sulla mancanza di potere
+impositivo per quanto attiene agli utili delle società non residenti, non
+riguarda la sussistenza di un nesso diretto tra un vantaggio ed un prelievo,
+ma coincide, in realtà, con quello vertente sul principio della ripartizione
+equilibrata del potere impositivo tra gli Stati membri, menzionato al punto 40
+della presente sentenza. Esso deve pertanto essere respinto per lo stesso
+motivo indicato al punto 42 della presente sentenza.  
+  
+---|---  
+  
+53
+
+|
+
+Dal momento che dal fascicolo sottoposto alla Corte non emerge che una
+disparità di trattamento come quella di cui trattasi nel procedimento
+principale trovi giustificazione in un motivo imperativo di interesse
+generale, occorre affermare che essa è incompatibile con la libertà di
+stabilimento.  
+  
+---|---  
+  
+54
+
+|
+
+Di conseguenza, si deve rispondere alla seconda questione dichiarando che
+l’articolo 49 TFUE osta ad una normativa di uno Stato membro, come quella di
+cui trattasi nel procedimento principale, la quale, nell’ambito della
+tassazione di un gruppo societario, consente ad una società controllante, nel
+caso di acquisizione di una partecipazione in una società residente che entra
+a far parte di un simile gruppo, di procedere all’ammortamento dell’avviamento
+entro il limite del 50% del prezzo di acquisto della partecipazione, mentre
+preclude tale ammortamento nel caso di acquisizione di una partecipazione in
+una società non residente.  
+  
+---|---  
+  
+Sulle spese
+
+55
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 49 TFUE osta ad una normativa di uno Stato membro, come quella di
+cui trattasi nel procedimento principale, la quale, nell’ambito della
+tassazione di un gruppo societario, consente ad una società controllante, nel
+caso di acquisizione di una partecipazione in una società residente che entra
+a far parte di un simile gruppo, di procedere all’ammortamento dell’avviamento
+entro il limite del 50% del prezzo di acquisto della partecipazione, mentre
+preclude tale ammortamento nel caso di acquisizione di una partecipazione in
+una società non residente.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il tedesco.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

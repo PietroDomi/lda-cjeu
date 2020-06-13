@@ -1,0 +1,1153 @@
+
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+22 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Spazio di libertà, sicurezza e giustizia —
+Cooperazione giudiziaria in materia civile — Regolamento (CE) n. 44/2001 —
+Articolo 1 — Campo d’applicazione — Denuncia con costituzione di parte civile
+— Articolo 27 — Litispendenza — Domanda proposta dinanzi al giudice di un
+altro Stato membro — Istruttoria in corso — Articolo 30 — Data in cui un
+giudice è considerato adito»
+
+Nella causa C‑523/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Rechtbank Gelderland (tribunale del
+Gelderland, Paesi Bassi) con decisione del 12 novembre 2014, pervenuta in
+cancelleria il 20 novembre 2014, nel procedimento
+
+Aannemingsbedrijf Aertssen NV,
+
+Aertssen Terrassements SA
+
+contro
+
+VSB Machineverhuur BV,
+
+Van Sommeren Bestrating BV,
+
+Jos van Sommeren,
+
+LA CORTE (Terza Sezione),
+
+composta da M. Ilešič, presidente della Seconda Sezione, facente funzione di
+presidente della Terza Sezione, C. Toader (relatore), J.‑C. Bonichot, E.
+Jarašiūnas e C.G. Fernlund, giudici,
+
+avvocato generale: Y. Bot
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la VSB Machineverhuur BV, la Van Sommeren Bestrating BV e J. van Sommeren,
+da R. van Seumeren, advocaat;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da M. Wilderspin e G. Wils, in qualità di agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 1, 27 e 30 del regolamento (CE) n. 44/2001 del Consiglio, del 22
+dicembre 2000, concernente la competenza giurisdizionale, il riconoscimento e
+l’esecuzione delle decisioni in materia civile e commerciale (GU 2001, L 12,
+pag. 1).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la
+Aannemingsbedrijf Aertssen NV e la Aertssen Terrassements SA, società di
+diritto belga (in prosieguo, congiuntamente: le «società Aertssen»), da un
+lato, e la VSB Machineverhuur BV e la Van Sommeren Bestrating BV, società di
+diritto olandese, nonché il sig. van Sommeren (in prosieguo, congiuntamente:
+la «VSB e a.»), dall’altro lato, relativa all’asserito comportamento
+fraudolento della VSB e a.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+Il considerando 15 del regolamento n. 44/2001 così recita:
+
+«Il funzionamento armonioso della giustizia presuppone che si riduca al minimo
+la possibilità di pendenza di procedimenti paralleli e che non vengano emesse,
+in due Stati membri, decisioni tra loro incompatibili. È necessario stabilire
+un meccanismo chiaro ed efficace per risolvere i casi di litispendenza e di
+connessione e, viste le differenze nazionali esistenti in materia, è opportuno
+definire il momento in cui una causa si considera “pendente”. Ai fini del
+presente regolamento tale momento dovrebbe essere definito in modo autonomo».  
+  
+---|---  
+  
+4
+
+|
+
+Il capo I di detto regolamento, intitolato «Campo d’applicazione», contiene
+solamente l’articolo 1, il cui paragrafo 1 così dispone:
+
+«Il presente regolamento si applica in materia civile e commerciale,
+indipendentemente dalla natura dell’organo giurisdizionale. Esso non concerne,
+in particolare, la materia fiscale, doganale ed amministrativa».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 5 del citato regolamento, che fa parte della sezione 2 del capo II,
+intitolata «Competenze speciali», così statuisce:
+
+«La persona domiciliata nel territorio di uno Stato membro può essere
+convenuta in un altro Stato membro:
+
+(…)
+
+|
+
+4)
+
+|
+
+qualora si tratti di un’azione di risarcimento di danni o di restituzione,
+nascente da reato, davanti al giudice presso il quale è esercitata l’azione
+penale, sempre che secondo la propria legge tale giudice possa conoscere
+dell’azione civile.  
+  
+---|---  
+  
+(…)».  
+  
+6
+
+|
+
+Il regolamento n. 44/2001 comprende, alla sezione 9 del suo capo II,
+intitolato «Litispendenza e connessione», gli articoli da 27 a 30. L’articolo
+27 di detto regolamento prevede quanto segue:
+
+«1. Qualora davanti a giudici di Stati membri differenti e tra le stesse parti
+siano state proposte domande aventi il medesimo oggetto e il medesimo titolo,
+il giudice successivamente adito sospende d’ufficio il procedimento finché sia
+stata accertata la competenza del giudice adito in precedenza.
+
+2\. Se la competenza del giudice precedentemente adito è stata accertata, il
+giudice successivamente adito dichiara la propria incompetenza a favore del
+primo».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 28 di tale regolamento così dispone:
+
+«1. Ove più cause connesse siano pendenti davanti a giudici di Stati membri
+differenti, il giudice successivamente adito può sospendere il procedimento.
+
+2\. Se tali cause sono pendenti in primo grado, il giudice successivamente
+adito può inoltre dichiarare la propria incompetenza su richiesta di una delle
+parti a condizione che il giudice precedentemente adito sia competente a
+conoscere delle domande proposte e la sua legge consenta la riunione dei
+procedimenti.
+
+3\. Ai sensi del presente articolo sono connesse le cause aventi tra di loro
+un legame così stretto da rendere opportune una trattazione e decisione uniche
+per evitare soluzioni tra di loro incompatibili ove le cause fossero trattate
+separatamente».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 30 dello stesso regolamento dispone quanto segue:
+
+«Ai fini della presente sezione un giudice è considerato adito:
+
+|
+
+1)
+
+|
+
+quando la domanda giudiziale o un atto equivalente è depositato presso il
+giudice, purché successivamente l’attore non abbia omesso di prendere tutte le
+misure che era tenuto a prendere affinché fosse effettuata la notificazione o
+comunicazione al convenuto, o  
+  
+---|---  
+  
+2)
+
+|
+
+se l’atto deve essere notificato o comunicato prima di essere depositato
+presso il giudice, quando l’autorità competente per la notificazione o
+comunicazione lo riceve, purché successivamente l’attore non abbia omesso di
+prendere tutte le misure che era tenuto a prendere affinché l’atto fosse
+depositato presso il giudice».  
+  
+---|---  
+  
+Il diritto olandese
+
+9
+
+|
+
+L’articolo 700 del codice di procedura civile (Wetboek van burgerlijke
+rechtsvordering) prevede quanto segue:
+
+«1. Il sequestro conservativo richiede l’autorizzazione del giudice del
+procedimento sommario del tribunale nel cui distretto si trovano uno o più
+beni interessati o, se il sequestro non riguarda beni, nel cui distretto è
+domiciliato il debitore o qualunque persona interessata dal sequestro.
+
+2\. L’autorizzazione è chiesta per mezzo di una domanda che indica la natura
+del sequestro da effettuarsi e del titolo invocato dal richiedente nonché, se
+tale titolo è un credito pecuniario, il suo importo o, se quest’ultimo non è
+ancora determinato, il suo importo massimo, fatti salvi i requisiti speciali
+stabiliti dalla legge per un sequestro del tipo di cui trattasi. Il giudice
+del procedimento sommario decide in seguito ad esame sommario. (…)
+
+3\. A meno che una domanda nel procedimento principale sia già stata proposta
+al momento dell’autorizzazione, quest’ultima è concessa a condizione che la
+domanda sia proposta entro un termine che sarà stabilito a tal fine dal
+giudice del procedimento sommario ma di almeno otto giorni dal sequestro. Il
+giudice del procedimento sommario può prorogare tale termine se il richiedente
+ne fa domanda prima della scadenza di detto termine. (…) Il superamento del
+termine concesso per proporre una domanda nel procedimento principale comporta
+l’annullamento del sequestro.
+
+(...)».  
+  
+---|---  
+  
+Il diritto belga
+
+10
+
+|
+
+Il codice di procedura penale (Belgische Wetboek van Strafvordering), nel suo
+primo libro intitolato «Della polizia giudiziaria e degli ufficiali di polizia
+che ne esercitano le funzioni», contiene un capitolo VI, intitolato «Dei
+giudici istruttori». All’interno del capo VI, l’articolo 63 di detto codice
+così dispone:
+
+«Chiunque si ritenga leso da un crimine o delitto può farne denuncia e
+costituirsi parte civile dinanzi al giudice istruttore competente.
+
+Qualunque persona offesa dal reato che si costituisca parte civile può essere
+sentita, su semplice richiesta, almeno una volta, dal giudice istruttore
+titolare del fascicolo».  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+11
+
+|
+
+Il 26 marzo 2013 le società Aertssen hanno presentato, ai sensi dell’articolo
+64 del codice di procedura penale, al giudice istruttore presso il rechtbank
+van eerste aanleg te Antwerpen (tribunale di primo grado di Anversa, Belgio)
+una denuncia con costituzione di parte civile nei confronti di Nicolaas
+Kraaijeveld, della VSB Groep BV, società di diritto olandese, e delle sue
+controllate Van Sommeren Bestrating BV e VSB Machineverhuur BV, nonché della
+Van Sommeren Bestrating B.V., del sig. van Sommeren e di X, lettera che
+indicava tutte le persone rispetto alle quali sarebbe emersa, nel corso
+dell’istruttoria, una partecipazione alla commissione di reati, come quelli
+per cui è stato adito il giudice per mezzo della denuncia.  
+  
+---|---  
+  
+12
+
+|
+
+La citata denuncia verteva su una presunta frode. Le società Aertssen
+indicavano nella stessa che la loro stima provvisoria del pregiudizio subito
+ammontava a circa EUR 200000.  
+  
+---|---  
+  
+13
+
+|
+
+Il 26 aprile 2013 le società Aertssen hanno adito il voorzieningenrechter te
+Arnhem (giudice dei provvedimenti d’urgenza di Arnhem, Paesi Bassi), ai sensi
+dell’articolo 700 del codice di procedura civile, presentando una domanda di
+autorizzazione ad un sequestro conservativo contro la VSB e a. Detta
+autorizzazione è stata accordata il giorno stesso e le società Aertssen hanno
+effettuato il sequestro il 1o maggio 2013.  
+  
+---|---  
+  
+14
+
+|
+
+Facendo seguito ad una richiesta presentata dalla VSB e a., il
+voorzieningenrechter te Arnhem (giudice dei provvedimenti d’urgenza di
+Arnhem), con decisione del 18 luglio 2013, ha ordinato il dissequestro. In
+tale decisione il giudice ha ritenuto che una denuncia con costituzione di
+parte civile non potesse valere quale domanda nel procedimento di merito ai
+sensi dell’articolo 700, paragrafo 3, del codice di procedura civile.  
+  
+---|---  
+  
+15
+
+|
+
+Il 19 luglio 2013 le società Aertssen hanno nuovamente chiesto al
+voorzieningenrechter te Arnhem (giudice dei provvedimenti d’urgenza di Arnhem)
+di autorizzarli a fare un sequestro conservativo contro la VSB e a. Tale
+giudice ha accolto l’istanza il 25 luglio 2013, subordinando però la sua
+autorizzazione alla proposizione dell’azione nel merito entro il termine di 30
+giorni dal sequestro.  
+  
+---|---  
+  
+16
+
+|
+
+Le società Aertssen hanno effettuato un nuovo sequestro conservativo il 29
+luglio 2013. Per rispettare le condizioni poste dal citato giudice, le società
+Aertssen hanno proposto dinanzi al Rechtbank Gelderland (tribunale del
+Gelderland) un ricorso di merito con il quale chiedono che la VSB e a. siano
+dichiarati responsabili del danno da esse asseritamente subito in conseguenza
+della frode che sarebbe stata commessa da questi ultimi e che gli stessi siano
+condannati, a titolo di anticipo, in attesa della quantificazione definitiva
+dell’ammontare di tale danno, al pagamento della somma di EUR 200000.  
+  
+---|---  
+  
+17
+
+|
+
+Le società Aertssen chiedono tuttavia al Rechtbank Gelderland (tribunale del
+Gelderland), in via principale, di dichiararsi non competente e di dichiarare
+che la denuncia con costituzione di parte civile, pendente in Belgio, equivale
+alla proposizione di un’azione nel procedimento principale ai sensi
+dell’articolo 700, paragrafo 3, del codice di procedura civile. A tal
+proposito, le società Aertssen, invocando l’articolo 27, paragrafo 2, del
+regolamento n. 44/2001, deducono che detto giudice non è competente, a meno
+che sia contestata la competenza del giudice belga adito con la denuncia con
+costituzione di parte civile, nel qual caso il giudice del rinvio deve
+d’ufficio sospendere il procedimento in applicazione del paragrafo 1 del
+richiamato articolo 27.  
+  
+---|---  
+  
+18
+
+|
+
+In via subordinata, le società Aertssen chiedono che il Rechtbank Gelderland
+(tribunale del Gelderland) sospenda il procedimento, in virtù dell’articolo 28
+del citato regolamento, in quanto il procedimento principale è connesso a
+quello pendente in Belgio in conseguenza della denuncia con costituzione di
+parte civile.  
+  
+---|---  
+  
+19
+
+|
+
+In via ulteriormente subordinata, le società Aertssen chiedono che detto
+giudice sospenda immediatamente il procedimento fino a che il giudice
+istruttore presso il rechtbank van eerste aanleg te Antwerpen (tribunale di
+primo grado di Anversa) non abbia deciso di rinviare il procedimento dinanzi
+al tribunale penale belga o di dichiarare il non luogo a procedere.  
+  
+---|---  
+  
+20
+
+|
+
+La VSB e a. deducono che la denuncia con costituzione di parte civile
+presentata dalle società Aertssen ha natura essenzialmente penale. Essi
+concludono che il procedimento principale non rientra nel campo di
+applicazione ratione materiae del regolamento n. 44/2001. Aggiungono inoltre
+che tale denuncia e la domanda presentata dinanzi al Rechtbank Gelderland
+(tribunale del Gelderland) non hanno né lo stesso oggetto né lo stesso titolo.  
+  
+---|---  
+  
+21
+
+|
+
+Il Rechtbank Gelderland (tribunale del Gelderland) considera, da un lato, che
+risulterebbe da costante giurisprudenza della Corte che il campo
+d’applicazione del regolamento n. 44/2001 è delimitato essenzialmente in
+ragione degli elementi che caratterizzano la natura dei rapporti giuridici fra
+le parti in causa o l’oggetto della lite. Posto che le società Aertssen
+chiedono un risarcimento dei danni che asseriscono di avere subito a seguito
+di atti illeciti che esse attribuiscono alla VSB e a., la lite tra le suddette
+parti dovrebbe essere considerata come «materia civile o commerciale», ai
+sensi dell’articolo 1 del regolamento n. 44/2001. Così, detto regolamento
+sarebbe applicabile ad una controversia come quella sottoposta al giudice
+istruttore presso il rechtbank van eerste aanleg te Antwerpen (tribunale di
+primo grado di Anversa), sebbene tale controversia sia trattata nell’ambito di
+un procedimento che è principalmente di natura penale.  
+  
+---|---  
+  
+22
+
+|
+
+Dall’altro lato, la denuncia con costituzione di parte civile non mirerebbe
+unicamente all’avvio di un’indagine penale, ma sarebbe volta anche ad ottenere
+che, nell’ambito del procedimento penale, venga pronunciata una condanna al
+risarcimento del danno a favore del denunciante. L’oggetto dei procedimenti in
+corso dinanzi al giudice istruttore presso il rechtbank van eerste aanleg te
+Antwerpen (tribunale di primo grado di Anversa) e dinanzi al Rechtbank
+Gelderland (tribunale del Gelderland) sarebbe simile. A tal proposito, i due
+procedimenti sarebbero relativi, per quanto concerne i fatti considerati, ad
+atti asseritamente fraudolenti, e tali atti, secondo le società Aertssen,
+configurerebbero, per quanto concerne le norme di diritto, non solo illeciti
+penali, ma anche illeciti civili. Peraltro, la denuncia presentata in Belgio
+sarebbe diretta contro le parti citate in giudizio dinanzi al giudice del
+rinvio.  
+  
+---|---  
+  
+23
+
+|
+
+Pertanto, si dovrebbe determinare se, tenuto conto del fatto che l’istruttoria
+che deve previamente svolgersi è ancora in corso, la denuncia con costituzione
+di parte civile presentata dinanzi al giudice istruttore presso il rechtbank
+van eerste aanleg te Antwerpen (tribunale di primo grado di Anversa) debba
+valere come domanda proposta ai sensi dell’articolo 27, paragrafo 1, del
+regolamento n. 44/2001 e, se così fosse, in quale momento il giudice sia stato
+adito ai sensi dell’articolo 30 dello stesso regolamento.  
+  
+---|---  
+  
+24
+
+|
+
+Alla luce di quanto sopra, il Rechtbank Gelderland (tribunale del Gelderland)
+ha deciso di sospendere il procedimento e di sottoporre alla Corte le
+questioni pregiudiziali seguenti:
+
+|
+
+«1)
+
+|
+
+Se la denuncia con costituzione di parte civile presentata dalle società
+Aertssen, ai sensi degli articoli 63 e seguenti del codice di procedura penale
+belga, in considerazione delle modalità di presentazione e della fase in cui
+si trova il procedimento, rientri nell’ambito di applicazione ratione materiae
+del regolamento n. 44/2001.
+
+In caso di risposta affermativa:  
+  
+---|---  
+  
+2)
+
+|
+
+Se l’articolo 27 paragrafo 1, del regolamento n. 44/2001 debba essere
+interpretato nel senso che una domanda presentata dinanzi ad un giudice
+straniero (nel caso di specie un giudice belga) è considerata una domanda
+pendente ai sensi di detta disposizione anche nel caso in cui sia stata
+presentata una denuncia con costituzione di parte civile dinanzi al giudice
+istruttore belga e l’istruttoria giudiziale sia ancora in corso.  
+  
+---|---  
+  
+3)
+
+|
+
+In caso di risposta affermativa, in quale momento la domanda proposta con la
+presentazione di una denuncia con costituzione di parte civile è considerata
+pendente e/o il giudice è considerato adito ai fini dell’applicazione degli
+articoli 27, paragrafo 1, e 30 del regolamento n. 44/2001.  
+  
+---|---  
+  
+4)
+
+|
+
+In caso di risposta negativa, se l’articolo 27, paragrafo 1, del regolamento
+n. 44/2001 debba essere interpretato nel senso che la presentazione di una
+denuncia con costituzione di parte civile può avere l’effetto che, in un
+momento successivo, una domanda sia pendente dinanzi ad un giudice belga ai
+sensi di detta disposizione.  
+  
+---|---  
+  
+5)
+
+|
+
+In caso di risposta affermativa, in quale momento si considera che la causa
+sia pendente e/o che il giudice sia stato adito ai fini dell’applicazione
+degli articoli 27, paragrafo 1, e 30 del regolamento n. 44/2001.  
+  
+---|---  
+  
+6)
+
+|
+
+Nell’ipotesi in cui sia stata presentata una denuncia con costituzione di
+parte civile, ma con ciò, al momento di detta presentazione, non si considera
+ancora pendente una domanda ai sensi dell’articolo 27, paragrafo 1, del
+regolamento n. 44/2001, e in un momento successivo, nel corso dell’esame della
+denuncia presentata, possa diventare una domanda pendente con efficacia
+retroattiva fin dal momento di detta presentazione, se, dall’articolo 27,
+paragrafo 1, del regolamento n. 44/2001, discenda che il giudice adito
+successivamente alla presentazione della denuncia con costituzione di parte
+civile dinanzi al giudice belga deve sospendere la sua decisione sino al
+momento in cui è accertato se dinanzi al giudice belga sia pendente una
+domanda ai sensi dell’articolo 27, paragrafo 1».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla prima questione
+
+25
+
+|
+
+Con la sua prima questione, il giudice del rinvio chiede, in sostanza, se
+l’articolo 1 del regolamento n. 44/2001 debba essere interpretato nel senso
+che una denuncia con costituzione di parte civile proposta dinanzi ad un
+giudice istruttore rientri nel campo di applicazione di detto regolamento
+qualora essa abbia segnatamente per oggetto il risarcimento dei danni
+lamentati dal denunciante.  
+  
+---|---  
+  
+26
+
+|
+
+Occorre ricordare, innanzitutto, che secondo il suo articolo 1, paragrafo 1,
+il regolamento n. 44/2001 si applica «in materia civile e commerciale,
+indipendentemente dalla natura dell’organo giurisdizionale».  
+  
+---|---  
+  
+27
+
+|
+
+Così, ai sensi di tale disposizione, le decisioni pronunciate in materia
+civile da un giudice penale rientrano nel campo d’applicazione di detto
+regolamento (v., in tal senso, sentenza Krombach, C‑7/98, EU:C:2000:164, punto
+30 e giurisprudenza citata).  
+  
+---|---  
+  
+28
+
+|
+
+Peraltro, dall’articolo 1, paragrafo 1, del regolamento n. 44/2001 risulta che
+solo talune materie espressamente indicate dal regolamento sono escluse dalla
+nozione di materia civile e commerciale (v., in tal senso, sentenza Mahamdia,
+C‑154/11, EU:C:2012:491, punto 38).  
+  
+---|---  
+  
+29
+
+|
+
+In base ad una giurisprudenza costante della Corte, per assicurare nella
+misura del possibile l’uguaglianza e l’uniformità dei diritti e degli obblighi
+derivanti dal citato regolamento per gli Stati membri e per le persone
+interessate, la nozione di «materia civile e commerciale» non deve essere
+intesa come un mero rinvio al diritto interno dell’uno o dell’altro Stato
+coinvolto. Tale nozione deve essere considerata quale nozione autonoma che va
+interpretata facendo riferimento, da un lato, alla ratio ed all’impianto
+sistematico del regolamento n. 44/2001 e, dall’altro, ai principi generali
+desumibili da tutti gli ordinamenti giuridici nazionali (sentenze Schneider,
+C‑386/12, EU:C:2013:633, punto 18 e giurisprudenza citata, nonché flyLAL-
+Lithuanian Airlines, C‑302/13, EU:C:2014:2319, punto 24 e giurisprudenza
+citata).  
+  
+---|---  
+  
+30
+
+|
+
+Per determinare se una materia rientri o meno nell’ambito di applicazione del
+regolamento n. 44/2001, è necessario esaminare gli elementi che caratterizzano
+la natura dei rapporti giuridici tra le parti in causa o l’oggetto della lite
+(sentenza flyLAL-Lithuanian Airlines, C‑302/13, EU:C:2014:2319, punto 26 e
+giurisprudenza citata).  
+  
+---|---  
+  
+31
+
+|
+
+A tal proposito, al punto 19 della sentenza Sonntag (C‑172/91, EU:C:1993:144),
+la Corte ha dichiarato che anche se un’azione civile è inserita in un giudizio
+penale, tale azione, promossa per il risarcimento del danno causato ad un
+singolo in conseguenza di un illecito penale, ha natura civile. Infatti, nei
+sistemi giuridici degli Stati contraenti, al diritto ad ottenere il
+risarcimento del danno subito a seguito di un comportamento penalmente
+rilevante viene generalmente riconosciuta natura civile.  
+  
+---|---  
+  
+32
+
+|
+
+Nel caso di specie, sebbene la denuncia con costituzione di parte civile miri
+a far avviare l’azione penale e sebbene l’istruttoria condotta dal giudice
+belga adito abbia carattere penale, nondimeno essa mira anche a risolvere una
+controversia tra due soggetti privati relativa al risarcimento del danno di
+cui uno di tali soggetti si ritiene vittima a causa dell’altrui condotta
+fraudolenta. Quindi il rapporto giuridico che intercorre tra le parti di cui
+al procedimento principale deve essere qualificato alla stregua di un
+«rapporto giuridico di diritto privato» e pertanto rientra nella nozione di
+«materia civile e commerciale» ai sensi del citato regolamento n. 44/2001 (v.,
+per analogia, sentenza Realchemie Nederland, C‑406/09, EU:C:2011:668, punto
+41).  
+  
+---|---  
+  
+33
+
+|
+
+D’altronde, il sistema generale di tale regolamento non impone di legare
+necessariamente la sorte di una domanda accessoria a quella della domanda
+principale (v., per analogia, sentenza de Cavel, 120/79, EU:C:1980:70, punti
+da 7 a 9).  
+  
+---|---  
+  
+34
+
+|
+
+In particolare, l’articolo 5, paragrafo 4, del regolamento n. 44/2001,
+attribuisce ad un giudice penale, le cui decisioni sono manifestamente escluse
+dal campo d’applicazione di detto regolamento, la competenza a conoscere
+dell’azione civile accessoria all’azione penale, con la conseguenza che la
+decisione resa sull’azione civile entra nel campo d’applicazione del
+regolamento. Da tale disposizione discende pertanto che rientra nel campo
+d’applicazione del citato regolamento un’azione di risarcimento accessoria
+all’azione penale che, vista la natura penale, ne è esclusa.  
+  
+---|---  
+  
+35
+
+|
+
+Pertanto, sebbene una domanda risarcitoria proposta dinanzi ad un giudice
+penale sia accessoria all’azione penale, una domanda del genere rientra nel
+campo d’applicazione della «materia civile e commerciale» ai sensi
+dell’articolo 1, paragrafo 1, di detto regolamento.  
+  
+---|---  
+  
+36
+
+|
+
+Dall’insieme delle considerazioni che precedono risulta che l’articolo 1 del
+regolamento n. 44/2001 dev’essere interpretato nel senso che una denuncia con
+costituzione di parte civile presentata dinanzi ad un giudice istruttore
+rientra nel campo di applicazione di detto regolamento nei limiti in cui essa
+ha per oggetto il risarcimento dei danni lamentati dal denunciante.  
+  
+---|---  
+  
+Sulla seconda questione
+
+37
+
+|
+
+Con la sua seconda questione, il giudice del rinvio chiede, in sostanza, se
+l’articolo 27, paragrafo 1, del regolamento n. 44/2001 debba essere
+interpretato nel senso che una domanda è pendente, ai sensi di tale
+disposizione, quando una denuncia con costituzione di parte civile è
+presentata presso un giudice istruttore, nonostante il fatto che l’istruzione
+del procedimento di cui trattasi sia ancora in corso.  
+  
+---|---  
+  
+38
+
+|
+
+Occorre ricordare che le nozioni utilizzate all’articolo 27 del citato
+regolamento, per determinare una situazione di litispendenza, vanno
+interpretate in modo autonomo, alla luce soprattutto del sistema e delle
+finalità di detto regolamento (sentenza Cartier parfums-lunettes e Axa
+Corporate Solutions assurances, C‑1/13, EU:C:2014:109, punto 32 e
+giurisprudenza citata).  
+  
+---|---  
+  
+39
+
+|
+
+Uno degli obiettivi del regolamento n. 44/2001, come risulta dal suo
+considerando 15, è quello di ridurre al minimo la possibilità di procedimenti
+concorrenti e di evitare che siano emanate decisioni inconciliabili quando a
+conoscere della stessa controversia sono competenti più fori. È a questo scopo
+che il legislatore dell’Unione europea ha inteso attuare un meccanismo chiaro
+ed efficace per risolvere i casi di litispendenza. Ne deriva che, per
+realizzare detti obiettivi, l’articolo 27 del citato regolamento deve essere
+oggetto di interpretazione ampia (v., in tal senso, sentenze Mærsk Olie & Gas,
+C‑39/02, EU:C:2004:615, punto 32 e giurisprudenza citata, nonché Cartier
+parfums-lunettes e Axa Corporate Solutions assurances, C‑1/13, EU:C:2014:109,
+punto 40).  
+  
+---|---  
+  
+40
+
+|
+
+Ai sensi del citato articolo 27, questa disposizione si applica qualora le
+parti in due controversie pendenti dinanzi a giudici di Stati membri
+differenti siano le stesse, e qualora le domande abbiano il medesimo oggetto e
+il medesimo titolo, senza che la norma ponga ulteriori condizioni (v., in tal
+senso, sentenza Gubisch Maschinenfabrik, 144/86, EU:C:1987:528, punto 14).  
+  
+---|---  
+  
+41
+
+|
+
+Per quanto concerne, in primo luogo, l’identità delle parti ai sensi
+dell’articolo 27 del regolamento n. 44/2001, risulta dalle sentenze Sonntag
+(C‑172/91, EU:C:1993:144, punto 19) e de Cavel (120/79, EU:C:1980:70, punti da
+7 a 9) che il diritto ad ottenere il risarcimento di un danno subito in
+conseguenza di una condotta perseguita in sede penale mantiene la propria
+natura civile in quanto il sistema generale di tale regolamento non impone di
+legare necessariamente la sorte di una domanda accessoria a quella della
+domanda principale. L’identità delle parti va intesa indipendentemente dalla
+posizione assunta dall’una e dall’altra nei due procedimenti (sentenza Tatry,
+C‑406/92, EU:C:1994:400, punto 31 e giurisprudenza citata).  
+  
+---|---  
+  
+42
+
+|
+
+Nel caso di specie, la circostanza che l’esercizio dell’azione penale non sia
+di competenza delle parti dell’azione civile non è atta a modificare il fatto
+che queste ultime siano identiche agli attori e ai convenuti nell’azione
+proposta dinanzi al giudice del rinvio, in quanto tali soggetti sono
+menzionati anche nella denuncia con costituzione di parte civile presentata al
+giudice istruttore presso il rechtbank van eerste aanleg te Antwerpen
+(tribunale di primo grado di Anversa).  
+  
+---|---  
+  
+43
+
+|
+
+Per quanto concerne, in secondo luogo, il titolo ai sensi dell’articolo 27 del
+regolamento n. 44/2001, esso comprende i fatti e la norma giuridica addotta a
+fondamento della domanda (v., in tal senso, sentenza Mærsk Olie & Gas,
+C‑39/02, EU:C:2004:615, punto 38 e giurisprudenza citata).  
+  
+---|---  
+  
+44
+
+|
+
+Nella fattispecie, è pacifico, nelle due azioni parallele, che le società
+Aertssen ritengono di aver subito un danno a causa di condotte fraudolente.
+Alla luce di ciò, non si può escludere che tali azioni abbiano il medesimo
+titolo, circostanza che tuttavia spetta al giudice del rinvio verificare sulla
+base di un’analisi di tutti i fatti e di tutte le regole di diritto invocate.  
+  
+---|---  
+  
+45
+
+|
+
+Per quanto riguarda, in terzo luogo, l’oggetto ai sensi dell’articolo 27 del
+regolamento n. 44/2001, la Corte ha precisato che esso consiste nello scopo
+della domanda (v., in tal senso, sentenza Gantner Electronic, C‑111/01,
+EU:C:2003:257, punto 25 e giurisprudenza citata). Quest’ultima nozione non può
+essere limitata all’identità formale delle domande (v., in tal senso, sentenza
+Gubisch Maschinenfabrik, 144/86, EU:C:1987:528, punto 17) ed è interpretata in
+senso ampio [v., in tal senso, sentenza Nipponkoa Insurance Co. (Europe),
+C‑452/12, EU:C:2013:858, punto 42 e giurisprudenza citata].  
+  
+---|---  
+  
+46
+
+|
+
+Nel caso di specie, è pacifico che le società Aertssen chiedono il
+risarcimento del danno da esse subito, provvisoriamente stimato in EUR 200000
+circa.  
+  
+---|---  
+  
+47
+
+|
+
+Pertanto, con riserva di una verifica da parte del giudice del rinvio, risulta
+che sono rispettate tutte le condizioni elencate al punto 40 della presente
+sentenza.  
+  
+---|---  
+  
+48
+
+|
+
+Occorre peraltro ricordare, innanzitutto, che il meccanismo per la risoluzione
+dei casi di litispendenza istituito dal regolamento n. 44/2001 ha carattere
+oggettivo e automatico (v., per analogia, sentenza Gantner Electronic,
+C‑111/01, EU:C:2003:257, punto 30) e si basa sull’ordine cronologico in cui i
+giudici di cui trattasi sono stati aditi (v., in tal senso, sentenze Weber,
+C‑438/12, EU:C:2014:212, punto 52 e giurisprudenza citata, nonché, per
+analogia, A, C‑489/14, EU:C:2015:654, punto 30).  
+  
+---|---  
+  
+49
+
+|
+
+Va poi osservato che l’articolo 27, paragrafo 1, del regolamento n. 44/2001,
+dal momento che non prevede alcuna eccezione, riguarda tutte le domande che
+rientrano nel campo d’applicazione di detto regolamento. Come osservato dalla
+Corte al punto 36 della presente sentenza, una denuncia con costituzione di
+parte civile proposta dinanzi ad un giudice istruttore rientra in tale campo
+d’applicazione.  
+  
+---|---  
+  
+50
+
+|
+
+Infine, come ricordato al punto 39 della presente sentenza, l’articolo 27 del
+regolamento n. 44/2001, alla luce dell’obiettivo perseguito, che è quello di
+ridurre al minimo la possibilità di procedimenti concorrenti e di decisioni
+inconciliabili, dev’essere oggetto di interpretazione ampia. Orbene, dal
+momento in cui un soggetto si è costituito parte civile dinanzi ad un giudice
+istruttore, la domanda dinanzi a qualsivoglia altro giudice di un altro Stato
+membro riguardante la medesima azione civile, ossia una domanda tra le stesse
+parti e avente il medesimo oggetto e il medesimo titolo, condurrebbe, se
+l’applicazione di tale articolo fosse esclusa, a procedimenti concorrenti e
+comporterebbe il rischio che siano emanate decisioni inconciliabili, cosa che
+sarebbe contraria all’obiettivo ricordato.  
+  
+---|---  
+  
+51
+
+|
+
+A tal proposito, come rilevato dalla Commissione europea nelle proprie
+osservazioni scritte, la circostanza che sussista un’incertezza quanto
+all’esito dell’attività istruttoria è irrilevante. Infatti, un’incertezza del
+genere è propria di qualunque tipo di domanda pendente e, pertanto, sussiste
+ogni qual volta si possa presentare una situazione di litispendenza.  
+  
+---|---  
+  
+52
+
+|
+
+Alla luce di tutte le considerazioni che precedono, si deve rispondere alla
+seconda questione dichiarando che l’articolo 27, paragrafo 1, del regolamento
+n. 44/2001 dev’essere interpretato nel senso che una domanda è pendente, ai
+sensi di tale disposizione, quando una denuncia con costituzione di parte
+civile è stata presentata presso un giudice istruttore, pur se l’istruzione
+del procedimento di cui trattasi è ancora in corso.  
+  
+---|---  
+  
+Sulla terza questione
+
+53
+
+|
+
+Con la sua terza questione, il giudice del rinvio chiede, in sostanza, di
+determinare in che modo gli articoli 27, paragrafo 1, e 30 del regolamento n.
+44/2001 debbano essere interpretati al fine di individuare, allorché un
+soggetto presenti una denuncia con costituzione di parte civile dinanzi ad un
+giudice istruttore, la data in cui tale giudice è considerato adito ai sensi
+di tali disposizioni.  
+  
+---|---  
+  
+54
+
+|
+
+Da un lato, occorre ricordare che, ai sensi dell’articolo 27, paragrafo 1, del
+regolamento n. 44/2001, in caso di litispendenza dinanzi ai giudici di Stati
+membri diversi, il giudice adito successivamente sospende d’ufficio il
+procedimento fino a quando sia accertata la competenza del giudice
+precedentemente adito. Dall’altro lato, l’articolo 27, paragrafo 2, di detto
+regolamento prevede che, qualora la competenza del giudice precedentemente
+adito sia accertata, il giudice successivamente adito dichiara la propria
+incompetenza a favore del primo.  
+  
+---|---  
+  
+55
+
+|
+
+Inoltre, sempre che sussistano i presupposti sostanziali di cui al punto 40
+della presente sentenza, una situazione di litispendenza esiste dal momento in
+cui sono state definitivamente proposte domande dinanzi a due giudici di Stati
+membri diversi, vale a dire prima che i convenuti possano far valere il loro
+punto di vista (v., in tal senso, sentenza Gantner Electronic, C‑111/01,
+EU:C:2003:257, punto 27 e giurisprudenza citata).  
+  
+---|---  
+  
+56
+
+|
+
+Il regolamento n. 44/2001 non precisa in quali circostanze la competenza del
+giudice adito per primo debba essere considerata come «accertata», ai sensi
+dell’articolo 27 di tale regolamento (sentenza Cartier parfums-lunettes e Axa
+Corporate Solutions assurances, C‑1/13, EU:C:2014:109, punto 31). Tuttavia,
+come ricordato al punto 48 della presente sentenza, la regola procedurale
+prevista da tale articolo si basa sull’ordine cronologico in cui i giudici di
+cui trattasi sono stati aditi.  
+  
+---|---  
+  
+57
+
+|
+
+L’articolo 30 del citato regolamento definisce in maniera uniforme e autonoma
+la data in cui un giudice è considerato adito ai fini dell’applicazione della
+sezione 9 del capo II di detto regolamento, relativa alla litispendenza. In
+forza di tale articolo, il giudice è adito vuoi quando la domanda giudiziale o
+un atto equivalente è depositato presso il giudice, purché successivamente
+l’attore non abbia omesso di prendere tutte le misure che era tenuto a
+prendere affinché fosse effettuata la notifica o comunicazione al convenuto,
+vuoi, se l’atto deve essere notificato o comunicato prima di essere depositato
+presso il giudice, quando l’autorità competente per la notificazione o
+comunicazione lo riceve, purché successivamente l’attore non abbia omesso di
+prendere tutte le misure che era tenuto a prendere affinché l’atto fosse
+depositato presso il giudice. Sono quindi previsti due modi di adire il
+giudice nazionale, per mezzo del deposito della domanda giudiziale presso il
+giudice o per mezzo di notifica o comunicazione di tale atto.  
+  
+---|---  
+  
+58
+
+|
+
+Di conseguenza, occorre che il giudice del rinvio esamini, nel caso di specie,
+se le società Aertssen, al momento del deposito della loro denuncia con
+costituzione di parte civile, fossero soggette ad un obbligo di previa
+notifica o comunicazione di tale denuncia.  
+  
+---|---  
+  
+59
+
+|
+
+In assenza di un tale obbligo di previa notifica o comunicazione, si dovrebbe
+concludere che il giudice istruttore presso il rechtbank van eerste aanleg te
+Antwerpen (tribunale di primo grado di Anversa) è stato adito alla data del
+deposito, presso tale giudice, della citata denuncia con costituzione di parte
+civile, a condizione tuttavia che le società Aertssen non abbiano omesso di
+prendere tutte le misure che, sempre ai sensi del diritto nazionale
+applicabile, esse erano tenute a prendere affinché fosse effettuata la
+notifica o comunicazione al convenuto. Risulta, infatti, dalla decisione di
+rinvio che le società Aertssen hanno depositato la loro denuncia con
+costituzione di parte civile contro convenuti la cui identità è conosciuta,
+ossia le persone menzionate al punto 11 della presente sentenza.  
+  
+---|---  
+  
+60
+
+|
+
+Risulta dall’insieme delle considerazioni che precedono che si deve rispondere
+alla terza questione dichiarando che l’articolo 30 del regolamento n. 44/2001
+dev’essere interpretato nel senso che, quando un soggetto presenta una
+denuncia con costituzione di parte civile presso un giudice istruttore
+mediante deposito di un atto che, in base al diritto nazionale applicabile,
+non deve essere notificato o comunicato prima del deposito, la data che deve
+essere presa in considerazione perché detto giudice si possa considerare adito
+è quella in cui la denuncia è stata depositata.  
+  
+---|---  
+  
+Sulle questioni quarta, quinta e sesta
+
+61
+
+|
+
+Poiché la quarta questione è stata posta nell’ipotesi di una risposta negativa
+alla seconda questione, che viceversa ha ricevuto una risposta affermativa,
+non è necessaria una risposta a tale questione. Tenuto conto delle soluzioni
+fornite alle questioni prima, seconda e terza, non occorre risolvere le
+questioni quinta e sesta.  
+  
+---|---  
+  
+Sulle spese
+
+62
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 1 del regolamento (CE) n. 44/2001 del Consiglio, del 22 dicembre
+2000, concernente la competenza giurisdizionale, il riconoscimento e
+l’esecuzione delle decisioni in materia civile e commerciale, dev’essere
+interpretato nel senso che una denuncia con costituzione di parte civile
+presentata dinanzi ad un giudice istruttore rientra nel campo di applicazione
+di detto regolamento nei limiti in cui essa ha per oggetto il risarcimento dei
+danni lamentati dal denunciante.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 27, paragrafo 1, del regolamento n. 44/2001 dev’essere interpretato
+nel senso che una domanda è pendente, ai sensi di tale disposizione, quando
+una denuncia con costituzione di parte civile è stata presentata presso un
+giudice istruttore, pur se l’istruzione del procedimento di cui trattasi è
+ancora in corso.  
+  
+---|---  
+|  |
+
+3)
+
+|
+
+L’articolo 30 del regolamento n. 44/2001 dev’essere interpretato nel senso
+che, quando un soggetto presenta una denuncia con costituzione di parte civile
+presso un giudice istruttore mediante deposito di un atto che, in base al
+diritto nazionale applicabile, non deve essere notificato o comunicato prima
+del deposito, la data che deve essere presa in considerazione perché detto
+giudice si possa considerare adito è quella in cui la denuncia è stata
+depositata.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il neerlandese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

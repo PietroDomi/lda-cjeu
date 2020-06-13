@@ -1,0 +1,618 @@
+
+
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+10 dicembre 2015 ( * )
+
+«Rinvio pregiudiziale — Spazio di libertà, sicurezza e giustizia —
+Cooperazione giudiziaria in materia civile — Regolamento (CE) n. 864/2007 —
+Articolo 4, paragrafo 1 — Nozione di “paese in cui il danno si verifica”, di
+“danno” e di “conseguenze indirette del fatto illecito” — Danni personalmente
+subiti da un familiare di una persona deceduta in conseguenza di un incidente
+stradale — Legge applicabile»
+
+Nella causa C‑350/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Tribunale di Trieste (Italia), con
+ordinanza del 10 luglio 2014, pervenuta in cancelleria il 21 luglio 2014, nel
+procedimento
+
+Florin Lazar
+
+contro
+
+Allianz SpA,
+
+LA CORTE (Quarta Sezione),
+
+composta da L. Bay Larsen, presidente della Terza Sezione, facente funzione di
+presidente della Quarta Sezione, J. Malenovský, M. Safjan (relatore), A.
+Prechal e K. Jürimäe, giudici,
+
+avvocato generale: N. Wahl
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per L. Lazar e G. Chiturlas, da M. Bonito, avvocato;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo austriaco, da G. Eberhard, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo portoghese, da L. Inez Fernandes e A. Fonseca Santos, in
+qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da L. Cappelletti e M. Wilderspin, in qualità di
+agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 10
+settembre 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+4, paragrafo 1, del regolamento (CE) n. 864/2007 del Parlamento europeo e del
+Consiglio, dell’11 luglio 2007, sulla legge applicabile alle obbligazioni
+extracontrattuali («Roma II») (GU L 199, pag. 40; in prosieguo: il
+«regolamento Roma II»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra il sig.
+Lazar, residente in Romania, e la compagnia di assicurazioni italiana Allianz
+Spa, relativa al risarcimento dei danni patrimoniali e non patrimoniali che il
+primo ha subìto a causa del decesso della propria figlia in un incidente
+stradale avvenuto in Italia.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+Il regolamento Roma II
+
+3
+
+|
+
+Il considerando 7 del regolamento Roma II recita:
+
+«Il campo d’applicazione materiale e le disposizioni del presente regolamento
+dovrebbero essere coerenti con il regolamento (CE) n. 44/2001 del Consiglio,
+del 22 dicembre 2000, concernente la competenza giurisdizionale, il
+riconoscimento e l’esecuzione delle decisioni in materia civile e commerciale
+[(GU 2001, L 12, pag. 1; in prosieguo il “regolamento Bruxelles I”)], e con
+gli strumenti relativi alla legge applicabile alle obbligazioni contrattuali».  
+  
+---|---  
+  
+4
+
+|
+
+I considerando 16 e 17 di tale regolamento sono così formulati:
+
+|
+
+«(16)
+
+|
+
+Norme uniformi dovrebbero migliorare la prevedibilità delle decisioni
+giudiziarie e assicurare un ragionevole equilibrio tra gli interessi del
+presunto responsabile e quelli della parte lesa. Il collegamento con il paese
+sul cui territorio il danno diretto si è verificato (lex loci damni) determina
+un giusto equilibrio fra gli interessi del presunto responsabile e quelli
+della parte lesa, oltre a corrispondere alla moderna concezione del diritto
+della responsabilità civile e all’evoluzione dei sistemi di responsabilità
+oggettiva.  
+  
+---|---  
+  
+(17)
+
+|
+
+La legge applicabile dovrebbe essere determinata sulla base del luogo in cui
+si verifica il danno, a prescindere dal paese o dai paesi in cui potrebbero
+verificarsi le conseguenze indirette. Pertanto, in caso di lesioni alla sfera
+personale o danni patrimoniali, il paese in cui il danno si verifica dovrebbe
+essere il paese in cui è stata rispettivamente subita la lesione alla sfera
+personale o si è verificato il danno patrimoniale».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 2 del richiamato regolamento, intitolato «Obbligazioni
+extracontrattuali», al suo paragrafo 1 così dispone:
+
+«Ai fini del presente regolamento, il danno comprende ogni conseguenza
+derivante da fatto illecito, arricchimento senza causa, negotiorum gestio o
+culpa in contrahendo».  
+  
+---|---  
+  
+6
+
+|
+
+Sotto il capo II del regolamento Roma II, relativo ai fatti illeciti, figura
+l’articolo 4, intitolato «Norma generale», che prevede quanto segue:
+
+«1. Salvo se diversamente previsto nel presente regolamento, la legge
+applicabile alle obbligazioni extracontrattuali che derivano da un fatto
+illecito è quella del paese in cui il danno si verifica, indipendentemente dal
+paese nel quale è avvenuto il fatto che ha dato origine al danno e a
+prescindere dal paese o dai paesi in cui si verificano le conseguenze
+indirette di tale fatto.
+
+2\. Tuttavia, qualora il presunto responsabile e la parte lesa risiedano
+abitualmente nello stesso paese nel momento in cui il danno si verifica, si
+applica la legge di tale paese.
+
+3\. Se dal complesso delle circostanze del caso risulta chiaramente che il
+fatto illecito presenta collegamenti manifestamente più stretti con un paese
+diverso da quello di cui ai paragrafi 1 o 2, si applica la legge di
+quest’altro paese. Un collegamento manifestamente più stretto con un altro
+paese potrebbe fondarsi segnatamente su una relazione preesistente tra le
+parti, quale un contratto, che presenti uno stretto collegamento con il fatto
+illecito in questione».  
+  
+---|---  
+  
+7
+
+|
+
+In forza dell’articolo 15, rispettivamente lettere c) e f), del regolamento
+Roma II, la legge applicabile alle obbligazioni extracontrattuali disciplina
+«l’esistenza, la natura e la valutazione del danno o l’indennizzo chiesto»
+nonché «i soggetti aventi diritto al risarcimento del danno personalmente
+subito».  
+  
+---|---  
+  
+I regolamenti Bruxelles I e (UE) n. 1215/2012
+
+8
+
+|
+
+Il capo II del regolamento Bruxelles I, che illustra le regole per la
+determinazione del giudice competente, contiene una sezione 2, relativa alle
+«[c]ompetenze speciali». Sotto tale sezione figura l’articolo 5 del citato
+regolamento, che al suo punto 3 prevede quanto segue:
+
+«La persona domiciliata nel territorio di uno Stato membro può essere
+convenuta in un altro Stato membro:
+
+(…)
+
+|
+
+3)
+
+|
+
+in materia di illeciti civili dolosi o colposi, davanti al giudice del luogo
+in cui l’evento dannoso è avvenuto o può avvenire».  
+  
+---|---  
+  
+9
+
+|
+
+Tale regolamento è stato sostituito, con effetto dal 10 gennaio 2015, dal
+regolamento (UE) n. 1215/2012 del Parlamento europeo e del Consiglio, del 20
+dicembre 2012, concernente la competenza giurisdizionale, il riconoscimento e
+l’esecuzione delle decisioni in materia civile e commerciale (rifusione) (GU L
+351, pag 21), che comprende un articolo 7, punto 2, di contenuto identico a
+quello dell’articolo 5, punto 3, del regolamento Bruxelles I.  
+  
+---|---  
+  
+Il diritto italiano
+
+10
+
+|
+
+Come esposto dal giudice del rinvio, la Corte suprema di Cassazione ha
+interpretato gli articoli 2043 e 2059 del codice civile nel senso che ai
+familiari del defunto possono essere riconosciuti iure proprio danni
+patrimoniali e non patrimoniali. Quanto ai danni non patrimoniali, possono
+essere riconosciuti i seguenti danni: il danno biologico (un danno
+medicalmente accertato), il danno morale (un dolore interiore) ed il danno
+alla vita di relazione (un’alterazione significativa della vita quotidiana).  
+  
+---|---  
+  
+11
+
+|
+
+Detto giudice ha anche indicato che, ai sensi dell’articolo 283, paragrafo 1,
+del codice delle assicurazioni private, in caso di mancata identificazione del
+veicolo che ha causato il danno, il Fondo di garanzia per le vittime della
+strada risarcisce i danni causati dalla circolazione per mezzo di imprese
+assicuratrici designate.  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+12
+
+|
+
+Dall’ordinanza di rinvio emerge che il sig. Lazar, cittadino rumeno, ha
+chiesto il risarcimento dei danni patrimoniali e non patrimoniali conseguenti
+al decesso di sua figlia, cittadina rumena residente in Italia, per un
+incidente stradale avvenuto in tale Stato membro e causato da un veicolo non
+identificato.  
+  
+---|---  
+  
+13
+
+|
+
+La compagnia di assicurazioni Allianz SpA è stata indicata quale impresa
+designata dal Fondo di garanzia per le vittime della strada.  
+  
+---|---  
+  
+14
+
+|
+
+Sono intervenute anche la madre e la nonna della vittima, entrambe cittadine
+rumene residenti in Italia, chiedendo il risarcimento dei danni patrimoniali e
+non patrimoniali subiti a causa del decesso di quest’ultima.  
+  
+---|---  
+  
+15
+
+|
+
+Secondo il giudice del rinvio, poiché gli attori chiedono il risarcimento di
+un pregiudizio che avrebbero personalmente subìto per la morte del loro
+congiunto, è rilevante comprendere se questo pregiudizio costituisca un vero e
+proprio danno, ai sensi dell’articolo 4, paragrafo 1, del regolamento Roma II,
+oppure una conseguenza indiretta del fatto illecito, ai sensi della medesima
+norma.  
+  
+---|---  
+  
+16
+
+|
+
+Dalla risposta a tale questione dipenderebbe l’individuazione della legge
+sostanziale applicabile dal giudice del rinvio perché questo possa
+pronunciarsi sull’esistenza e sulla risarcibilità dei danni fatti valere
+dinanzi a esso dall’attore residente in Romania. Il giudice del rinvio
+illustra a tal riguardo ragioni che potrebbero condurre all’applicazione, alla
+controversia di cui trattasi, tanto del diritto italiano quanto del diritto
+rumeno.  
+  
+---|---  
+  
+17
+
+|
+
+Pertanto, secondo il diritto italiano, il danno che deriva dalla morte di un
+congiunto è un danno direttamente subìto dal familiare, sostanziandosi, in
+particolare, in lesione di diritti della sua personalità. L’attore, quindi,
+farebbe valere nella controversia di cui al procedimento principale un diritto
+che, in base all’ordinamento italiano, è da considerare come suo proprio e che
+rappresenta la materiale conseguenza del decesso del suo congiunto. In altri
+ordinamenti europei, tuttavia, questo tipo di danno non sarebbe riconosciuto
+allo stesso modo.  
+  
+---|---  
+  
+18
+
+|
+
+Inoltre, per quanto, in base al diritto italiano, si tratti di un danno
+diretto, subìto dall’avente diritto per effetto della morte del congiunto, il
+giudice del rinvio si chiede se, alla luce della giurisprudenza della Corte
+relativa al regolamento Bruxelles I, il diritto al risarcimento di tale danno
+possa costituire, ai sensi del regolamento Roma II, una delle «conseguenze
+indirette» del fatto illecito originario, cioè del sinistro stradale.  
+  
+---|---  
+  
+19
+
+|
+
+Alla luce di tali considerazioni, il Tribunale di Trieste ha disposto la
+sospensione del procedimento ed ha sottoposto alla Corte le seguenti questioni
+pregiudiziali:
+
+«Quale debba essere l’interpretazione dell’articolo 4, paragrafo l, del
+regolamento [Roma II], laddove si stabilisce che: “la legge applicabile alle
+obbligazioni extracontrattuali che derivano da un fatto illecito è quella del
+Paese in cui il danno si verifica”. In particolare
+
+|
+
+1)
+
+|
+
+come debba essere interpretata la nozione di “luogo in cui il danno si
+verifica” ai sensi dell’articolo 4, paragrafo 1, del regolamento [Roma II], in
+relazione alla richiesta di risarcimento dei danni patrimoniali e non
+patrimoniali fatti valere dai familiari di un soggetto, defunto a seguito di
+un incidente stradale avvenuto nello Stato del foro, qualora questi familiari
+siano residenti in un altro Paese dell’Unione europea, e abbiano ivi sofferto
+i danni stessi;  
+  
+---|---  
+  
+2)
+
+|
+
+se, ai fini dell’applicazione dell’articolo 4, paragrafo 1, del regolamento
+[Roma II], i danni patrimoniali e non patrimoniali subiti, nel paese di loro
+residenza, dai congiunti di un soggetto defunto in un incidente stradale
+avvenuto nello Stato del foro, configurino un “danno” ai sensi della prima
+parte dell’articolo 4, paragrafo 1, oppure “conseguenze indirette” ai sensi
+della seconda parte della stessa disposizione».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+20
+
+|
+
+Con le sue questioni, che occorre esaminare congiuntamente, il giudice del
+rinvio in sostanza chiede se, per determinare la legge applicabile ad
+un’obbligazione extracontrattuale derivante da un incidente stradale,
+l’articolo 4, paragrafo 1, del regolamento Roma II debba essere interpretato
+nel senso che i danni connessi al decesso di una persona in un siffatto
+incidente avvenuto nello Stato membro del foro, e subiti dai suoi congiunti
+residenti in un altro Stato membro, devono essere qualificati come «dann[i]»
+oppure come «conseguenze indirette» di tale incidente, ai sensi della citata
+disposizione.  
+  
+---|---  
+  
+21
+
+|
+
+Occorre preliminarmente ricordare che, secondo una giurisprudenza costante
+della Corte, in relazione all’articolo 4, paragrafo 1, del regolamento Roma
+II, dall’imperativo tanto dell’applicazione uniforme del diritto dell’Unione
+quanto del principio di uguaglianza discende che i termini di una disposizione
+di diritto dell’Unione che non contenga alcun espresso richiamo al diritto
+degli Stati membri per quanto riguarda la determinazione del suo senso e della
+sua portata devono di norma essere oggetto nell’intera Unione di
+un’interpretazione autonoma e uniforme (v., in tal senso, sentenza Kásler e
+Káslerné Rábai, C‑26/13, EU:C:2014:282, punto 37). Conformemente a una
+costante giurisprudenza della Corte, a tale riguardo si deve tener conto non
+soltanto della lettera di detta disposizione, ma anche del suo contesto e
+degli scopi perseguiti dalla normativa di cui essa fa parte (sentenza Lanigan,
+C‑237/15 PPU, EU:C:2015:474, punto 35 e giurisprudenza citata).  
+  
+---|---  
+  
+22
+
+|
+
+A tal proposito si deve rilevare che, secondo l’articolo 2 del regolamento
+Roma II, «il danno comprende ogni conseguenza derivante da fatto illecito».  
+  
+---|---  
+  
+23
+
+|
+
+Orbene, per identificare la legge applicabile ad un’obbligazione
+extracontrattuale che deriva da un fatto illecito, l’articolo 4, paragrafo 1,
+del citato regolamento si riferisce alla legge del paese in cui il «danno» si
+verifica, indipendentemente dal paese nel quale è avvenuto il fatto che ha
+dato origine al danno e a prescindere dal paese o dai paesi in cui si
+verificano le «conseguenze indirette» di tale fatto. Il danno di cui occorre
+tener conto, per determinare il luogo in cui esso si verifica, è il danno
+diretto, come risulta dal considerando 16 del citato regolamento.  
+  
+---|---  
+  
+24
+
+|
+
+In caso di lesioni alla sfera personale o danni patrimoniali, il legislatore
+dell’Unione ha precisato, al considerando 17 del regolamento Roma II, che il
+paese del luogo in cui il danno diretto si verifica è quello del luogo in cui
+è stata subita la lesione alla sfera personale o si è verificato il danno
+patrimoniale.  
+  
+---|---  
+  
+25
+
+|
+
+Ne consegue che, quando è possibile individuare il sorgere di un danno
+diretto, come normalmente accade nel caso di un incidente stradale, il luogo
+di tale danno diretto sarà l’elemento di collegamento pertinente per la
+determinazione della legge applicabile, indipendentemente dalle conseguenze
+indirette di tale incidente. Nel caso di specie, il danno è costituito dalle
+lesioni che hanno causato la morte della figlia del sig. Lazar, danno
+quest’ultimo che, a sua volta, secondo il giudice del rinvio, si è verificato
+in Italia. Quanto alle lesioni subite dai congiunti della vittima, queste
+devono essere considerate come conseguenze indirette dell’incidente di cui al
+procedimento principale, ai sensi dell’articolo 4, paragrafo 1, del
+regolamento Roma II.  
+  
+---|---  
+  
+26
+
+|
+
+Tale interpretazione è confermata dall’articolo 15, lettera f), del citato
+regolamento, che conferisce alla legge applicabile il compito di determinare
+quali siano le persone che possono far valere il proprio diritto al
+risarcimento, e che copre l’ipotesi, di cui al procedimento principale, di
+danni subiti dai congiunti della vittima.  
+  
+---|---  
+  
+27
+
+|
+
+Infatti, come illustrato dalla Commissione europea a proposito dell’articolo
+11, lettera g), della sua proposta di regolamento del Parlamento europeo e del
+Consiglio sulla legge applicabile alle obbligazioni extracontrattuali («ROMA
+II») [COM(2003) 0427 def.], divenuto articolo 15, lettera f), del regolamento
+Roma II, la legge designata determina anche i soggetti che hanno diritto al
+risarcimento del danno personalmente subìto. Tale nozione riguarderebbe, in
+particolare, la questione se una persona diversa dalla «vittima diretta» possa
+ottenere il risarcimento del danno causatole «di riflesso», a seguito del
+danno subìto dalla parte lesa. Questo danno potrebbe essere morale, ad esempio
+il dolore causato dal decesso di un congiunto, o economico, causato ad esempio
+ai figli o al coniuge di una persona deceduta.  
+  
+---|---  
+  
+28
+
+|
+
+Alla luce di tali elementi, si deve innanzitutto determinare la legge
+applicabile ad un fatto giuridico per successivamente poter determinare, in
+base ad essa, quali siano le persone che hanno subìto un danno che dà diritto
+al risarcimento.  
+  
+---|---  
+  
+29
+
+|
+
+L’applicazione della legge del luogo in cui si è verificato il danno diretto
+partecipa quindi dell’obiettivo, enunciato al considerando 16 del regolamento
+Roma II, di assicurare la prevedibilità della legge applicabile, evitando allo
+stesso tempo il rischio che il citato fatto illecito sia scomposto in più
+parti soggette ad una legge differente a seconda dei luoghi in cui soggetti
+diversi dalla vittima diretta subiscono danni.  
+  
+---|---  
+  
+30
+
+|
+
+Dalle considerazioni che precedono discende che si deve rispondere alle
+questioni poste dichiarando che l’articolo 4, paragrafo 1, del regolamento
+Roma II deve essere interpretato nel senso che, al fine di determinare la
+legge applicabile ad un’obbligazione extracontrattuale derivante da un
+incidente stradale, i danni connessi al decesso di una persona in un incidente
+siffatto avvenuto nello Stato membro del foro, e subiti dai suoi congiunti
+residenti in un altro Stato membro, devono essere qualificati come
+«conseguenze indirette» di tale incidente, ai sensi della citata disposizione.  
+  
+---|---  
+  
+Sulle spese
+
+31
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 4, paragrafo 1, del regolamento (CE) n. 864/2007 del Parlamento
+europeo e del Consiglio, dell’11 luglio 2007, sulla legge applicabile alle
+obbligazioni extracontrattuali («Roma II»), deve essere interpretato nel senso
+che, al fine di determinare la legge applicabile ad un’obbligazione
+extracontrattuale derivante da un incidente stradale, i danni connessi al
+decesso di una persona in un incidente siffatto avvenuto nello Stato membro
+del foro, e subiti dai suoi congiunti residenti in un altro Stato membro,
+devono essere qualificati come «conseguenze indirette» di tale incidente, ai
+sensi della citata disposizione.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: l’italiano.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

@@ -1,0 +1,599 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+13 giugno 2013 ( *1 )
+
+«Sistema comune d’imposta sul valore aggiunto — Direttiva 2006/112/CE —
+Articolo 9, paragrafo 1 — Nozione di «soggetto passivo» — Persona fisica —
+Prestazione di servizi imponibile — Prestazione occasionale — Assenza di
+connessione con un’attività professionale registrata e soggetta ad IVA —
+Ufficiale giudiziario autonomo»
+
+Nella causa C-62/12,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dall’Administrativen sad – Varna (Bulgaria),
+con decisione del 1o febbraio 2012, pervenuta in cancelleria il 7 febbraio
+2012, nel procedimento
+
+Galin Kostov
+
+contro
+
+Direktor na Direktsia «Obzhalvane i upravlenie na izpalnenieto» – Varna pri
+Tsentralno upravlenie na Natsionalnata agentsia za prihodite,
+
+LA CORTE (Prima Sezione),
+
+composta da A. Tizzano, presidente di sezione, M. Berger, A. Borg Barthet
+(relatore), E. Levits e J.-J. Kasel, giudici,
+
+avvocato generale: M. Wathelet
+
+cancelliere: A. Calot Escobar
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il Direktor na Direktsia «Obzhalvane i upravlenie na izpalnenieto» – Varna
+pri Tsentralno upravlenie na Natsionalnata agentsia za prihodite, da S.
+Zlateva;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo bulgaro, da E. Petranova e T. Ivanov, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo rumeno, da R.-H. Radu, in qualità di agente, assistito da R.-I.
+Munteanu e I. Bara, consiglieri;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da L. Lozano Palacios e V. Savov, in qualità di
+agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 28
+febbraio 2013,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione della nozione
+di soggetto passivo dell’imposta sul valore aggiunto (in prosieguo: l’«IVA»)
+nel regime della direttiva 2006/112/CE del Consiglio, del 28 novembre 2006,
+relativa al sistema comune d’imposta sul valore aggiunto (GU L 347, pag. 1; in
+prosieguo: la «direttiva IVA»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata proposta nell’ambito di una controversia tra il sig.
+Kostov e il Direktor na Direktsia «Obzhalvane i upravlenie na izpalnenieto» –
+Varna pri Tsentralno upravlenie na Natsionalnata agentsia za prihodite
+(direttore della direzione «Ricorsi e Gestione dell’esecuzione» del Comune di
+Varna, facente capo all’amministrazione centrale dell’Agenzia nazionale delle
+entrate; in prosieguo: il «Direktor»), a proposito di un avviso di
+accertamento concernente operazioni connesse ad un contratto di mandato.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+Ai sensi dell’articolo 2 della direttiva IVA:
+
+«1. Sono soggette all’IVA le operazioni seguenti:
+
+|
+
+a)
+
+|
+
+le cessioni di beni effettuate a titolo oneroso nel territorio di uno Stato
+membro da un soggetto passivo che agisce in quanto tale;  
+  
+---|---  
+  
+(…)
+
+c)
+
+|
+
+le prestazioni di servizi effettuate a titolo oneroso nel territorio di uno
+Stato membro da un soggetto passivo che agisce in quanto tale;  
+  
+---|---  
+  
+(…)».  
+  
+4
+
+|
+
+L’articolo 9 della direttiva IVA dispone quanto segue:
+
+«1. Si considera “soggetto passivo” chiunque esercita, in modo indipendente e
+in qualsiasi luogo, un’attività economica, indipendentemente dallo scopo o dai
+risultati di detta attività.
+
+Si considera “attività economica” ogni attività di produzione, di
+commercializzazione o di prestazione di servizi, comprese le attività
+estrattive, agricole, nonché quelle di professione libera o assimilate. Si
+considera, in particolare, attività economica lo sfruttamento di un bene
+materiale o immateriale per ricavarne introiti aventi carattere di stabilità.
+
+2\. Oltre alle persone di cui al paragrafo 1, si considera soggetto passivo
+ogni persona che effettui a titolo occasionale la cessione di un mezzo di
+trasporto nuovo spedito o trasportato a destinazione dell’acquirente dal
+venditore, dall’acquirente o per loro conto, fuori dal territorio di uno Stato
+membro ma nel territorio della Comunità».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 12, paragrafo 1, della direttiva IVA stabilisce quanto segue:
+
+«Gli Stati membri possono considerare soggetto passivo chiunque effettui, a
+titolo occasionale, un’operazione relativa alle attività di cui all’articolo
+9, paragrafo 1, secondo comma, e in particolare una delle operazioni seguenti:
+
+|
+
+a)
+
+|
+
+la cessione, effettuata anteriormente alla prima occupazione, di un fabbricato
+o di una frazione di fabbricato e del suolo pertinente;  
+  
+---|---  
+  
+b)
+
+|
+
+la cessione di un terreno edificabile».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 14 della direttiva in parola così dispone:
+
+«1. Costituisce “cessione di beni” il trasferimento del potere di disporre di
+un bene materiale come proprietario.
+
+2\. Oltre all’operazione di cui al paragrafo 1, sono considerate cessione di
+beni le operazioni seguenti:
+
+(…)
+
+|
+
+c)
+
+|
+
+il trasferimento di un bene effettuato in virtù di un contratto di commissione
+per l’acquisto o per la vendita.  
+  
+---|---  
+  
+(...)».  
+  
+Il diritto bulgaro
+
+7
+
+|
+
+L’Administrativen sad – Varna (tribunale amministrativo di Varna, Bulgaria) si
+basa sulle seguenti disposizioni della legge in materia di imposta sul valore
+aggiunto (Zakon za danak varhu dobavenata stoynost; in prosieguo: lo «ZDDS»).  
+  
+---|---  
+  
+8
+
+|
+
+Secondo l’articolo 2 dello ZDDS:
+
+«Sono soggette all’[IVA]:
+
+le cessioni di beni e le prestazioni di servizi effettuate a titolo oneroso;
+
+(…)».  
+  
+---|---  
+  
+9
+
+|
+
+Ai sensi dell’articolo 3 dello ZDDS:
+
+«(1) Si considera soggetto passivo chiunque eserciti, in modo indipendente,
+un’attività economica, indipendentemente dallo scopo e dai risultati di detta
+attività.
+
+(2) Si considerano “attività economiche indipendenti” le attività di
+produzione, di commercializzazione e di prestazione di servizi, comprese le
+attività estrattive e agricole, nonché l’esercizio di una libera professione,
+inclusa la professione di ufficiale giudiziario privato e di notaio.
+Costituisce un’attività economica indipendente anche qualsiasi attività svolta
+a titolo oneroso in maniera sistematica o professionale, compreso lo
+sfruttamento di beni materiali o immateriali per ricavarne introiti aventi
+carattere di stabilità (...)».  
+  
+---|---  
+  
+10
+
+|
+
+L’articolo 6, paragrafo 2, punto 4, dello ZDDS definisce la cessione di beni
+come «la messa a disposizione effettiva di un bene ad una persona che agisce
+in proprio nome e per conto altrui».  
+  
+---|---  
+  
+11
+
+|
+
+Secondo l’articolo 8 dello ZDDS, un servizio ai sensi di detta legge è tutto
+ciò che ha valore, ma non è né un prodotto, né denaro circolante, né una
+valuta estera, utilizzati come mezzo di pagamento.  
+  
+---|---  
+  
+Procedimento principale e questione pregiudiziale
+
+12
+
+|
+
+Il sig. Kostov esercita in Bulgaria la professione di ufficiale giudiziario
+privato in forma autonoma. Egli è registrato ai fini dell’IVA ai sensi
+dell’articolo 96, paragrafo 1, dello ZDDS.  
+  
+---|---  
+  
+13
+
+|
+
+Il 13 novembre 2008, il sig. Kostov concludeva un contratto di mandato (in
+prosieguo: il «contratto») con la società Bon Marin AD (in prosieguo: la «Bon
+Marin»). In base a tale contratto il sig. Kostov si impegnava in qualità di
+mandatario della Bon Marin a presentare offerte nell’ambito di tre procedure
+di vendita all’asta di tre immobili parzialmente edificati appartenenti allo
+Stato in regime di proprietà privata, gestiti dal Ministero della Difesa e
+aventi una superficie di circa 40000 m2. Nel caso in cui avesse ottenuto
+l’aggiudicazione degli immobili, egli si impegnava anche a trasferire alla Bon
+Marin il diritto di proprietà su detti immobili.  
+  
+---|---  
+  
+14
+
+|
+
+Il mandante, la Bon Marin, si impegnava a fornire le risorse finanziare
+necessarie per gli acquisti previsti dal contratto, ad acquisire i titoli di
+proprietà sui beni che il sig. Kostov avesse ottenuto in esecuzione del suo
+mandato e a versargli il compenso pattuito, pari a 50000 lev bulgari (BGN)
+(circa EUR 25 500).  
+  
+---|---  
+  
+15
+
+|
+
+Detto compenso veniva corrisposto il giorno stesso della firma del contratto,
+il quale prevedeva peraltro che il compenso in questione sarebbe restato
+acquisito dal sig. Kostov nel caso in cui le offerte non fossero andate a buon
+fine.  
+  
+---|---  
+  
+16
+
+|
+
+Nel maggio 2009, il sig. Kostov acquisiva dallo Stato i titoli di proprietà
+sugli immobili indicati nel contratto.  
+  
+---|---  
+  
+17
+
+|
+
+Il 30 giugno 2009, con il consenso del mandatario, la Bon Marin cedeva alla
+Bleyk Siy Kepital EOOD tutti i suoi diritti e obblighi derivanti dal
+contratto.  
+  
+---|---  
+  
+18
+
+|
+
+La controversia in materia di IVA trae origine da un avviso di accertamento
+rettificativo emesso dall’ispettorato fiscale competente per la città di
+Varna. Secondo tale avviso, il sig. Kostov aveva percepito il suo compenso di
+BGN 50 000 in cambio di una prestazione di servizi imponibile ai sensi
+dell’articolo 12 dello ZDDS da lui effettuata in qualità di soggetto passivo
+IVA e doveva quindi versare tale imposta su detto importo.  
+  
+---|---  
+  
+19
+
+|
+
+A seguito di un ricorso amministrativo, l’avviso di accertamento rettificativo
+veniva confermato dal Direktor.  
+  
+---|---  
+  
+20
+
+|
+
+Il sig. Kostov ha proposto un ricorso contro detto avviso del Direktor,
+sostenendo che la sua prestazione di servizi era stata effettuata
+incidentalmente e in assenza di alcun nesso con la sua attività economica
+indipendente di ufficiale giudiziario privato, unica attività per la quale
+egli era registrato ai fini dell’IVA.  
+  
+---|---  
+  
+21
+
+|
+
+In tali circostanze, l’Administrativen sad – Varna ha deciso di sospendere il
+procedimento e di sottoporre alla Corte la seguente questione pregiudiziale:
+
+«Se una persona fisica, registrata ai fini IVA per l’esercizio dell’attività
+di ufficiale giudiziario privato, vada considerata come soggetto passivo ai
+sensi dell’articolo 9, paragrafo 1, della direttiva [IVA] per una prestazione
+svolta occasionalmente e non attinente alla funzione di ufficiale giudiziario
+privato, e sia debitrice dell’IVA ai sensi dell’articolo 193 della direttiva
+[IVA]».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+22
+
+|
+
+Con la sua questione, il giudice del rinvio chiede, in sostanza, se l’articolo
+9, paragrafo 1, della direttiva IVA debba essere interpretato nel senso che
+una persona soggetta all’IVA per le sue attività di ufficiale giudiziario
+autonomo deve essere considerata «soggetto passivo» per qualsiasi altra
+attività economica esercitata in modo occasionale.  
+  
+---|---  
+  
+Osservazione preliminare
+
+23
+
+|
+
+Al fine di rispondere a tale questione, occorre rilevare innanzi tutto che,
+mentre sia il giudice del rinvio, sia il Direktor nonché i governi bulgaro e
+rumeno ragionano sulla base di un contratto di mandato e di una prestazione di
+servizi da parte del mandatario, la Commissione europea considera che, nella
+controversia oggetto del procedimento principale, si tratti di un contratto di
+commissione ai sensi dell’articolo 14, paragrafo 2, lettera c), della
+direttiva IVA e che, di conseguenza, la presente causa concerna quindi una
+cessione di beni.  
+  
+---|---  
+  
+24
+
+|
+
+Al riguardo, occorre rammentare che non spetta alla Corte pronunciarsi
+sull’interpretazione e sull’applicabilità di disposizioni nazionali o
+accertare i fatti rilevanti per la soluzione della controversia nel
+procedimento principale.  
+  
+---|---  
+  
+25
+
+|
+
+Infatti, nell’ambito della ripartizione delle competenze tra i giudici
+comunitari e quelli nazionali, la Corte deve prendere in considerazione il
+contesto fattuale e normativo in cui si inserisce la questione pregiudiziale
+così come esso è definito dalla decisione di rinvio (v. sentenze del 13
+novembre 2003, Neri, C-153/02, Racc. pag. I-13555, punti 34 e 35, e del 29
+aprile 2004, Orfanopoulos e Oliveri, C-482/01 e C-493/01, Racc. pag. I-5257,
+punto 42).  
+  
+---|---  
+  
+26
+
+|
+
+Ciò considerato, è giocoforza constatare che il giudice del rinvio, nella sua
+decisione di rinvio, ha qualificato il contratto stipulato dal sig. Kostov e
+dalla Bon Marin come «contratto di mandato». Di conseguenza, le considerazioni
+che seguono presuppongono l’esistenza di un contratto di mandato e, quindi, la
+prestazione di servizi.  
+  
+---|---  
+  
+Nel merito
+
+27
+
+|
+
+Anzitutto, occorre rammentare che, in virtù dell’articolo 9, paragrafo 1,
+primo comma, della direttiva IVA, «[s]i considera “soggetto passivo” chiunque
+esercita, in modo indipendente e in qualsiasi luogo, un’attività economica,
+indipendentemente dallo scopo o dai risultati di detta attività». Peraltro, a
+norma del secondo comma di tale disposizione, si considera attività economica,
+in sostanza, «ogni» attività di produzione, di commercializzazione o di
+prestazione di servizi.  
+  
+---|---  
+  
+28
+
+|
+
+Poi, sebbene da una lettura a contrario dell’articolo 12, paragrafo 1, della
+direttiva IVA si possa evincere che una persona che effettua solo
+occasionalmente un’operazione generalmente svolta da un produttore, da un
+commerciante o da un prestatore di servizi non deve, in linea di principio,
+essere considerata un «soggetto passivo», ai sensi di detta direttiva, tale
+disposizione non implica tuttavia che un soggetto passivo, operante in un
+certo ambito di attività, che effettui in modo occasionale un’operazione
+relativa ad un altro ambito di attività non sia debitore dell’IVA su tale
+operazione.  
+  
+---|---  
+  
+29
+
+|
+
+Al contrario, occorre rammentare, come risulta dal considerando 5 della
+direttiva IVA, che «[u]n sistema d’IVA raggiunge la maggior semplicità e
+neutralità se l’imposta è riscossa nel modo più generale possibile». Inoltre,
+il considerando 13 di tale direttiva sottolinea che «[l]a nozione di soggetto
+passivo dovrebbe essere definita in modo da consentire agli Stati membri, per
+garantire una migliore neutralità dell’imposta, di includervi le persone che
+effettuano operazioni occasionali».  
+  
+---|---  
+  
+30
+
+|
+
+Stanti tali considerazioni, occorre interpretare l’articolo 12, paragrafo 1,
+della direttiva IVA nel senso che esso riguarda soltanto le persone che non
+sono già soggette all’IVA per le loro attività economiche principali. Per
+contro, quanto ad un siffatto soggetto passivo IVA, quale il sig. Kostov, non
+sarebbe conforme, segnatamente, all’obiettivo di una riscossione semplice e
+più generale possibile dell’IVA, interpretare l’articolo 9, paragrafo 1,
+secondo comma, della direttiva IVA nel senso che la nozione di «attività
+economica» indicata in tale disposizione non inglobi un’attività che, pur
+essendo esercitata solo occasionalmente, rientri nella definizione generale di
+tale nozione contenuta nel primo periodo di detta disposizione e sia
+esercitata da un soggetto passivo che eserciti anche, in modo stabile,
+un’altra attività economica ai fini della direttiva IVA.  
+  
+---|---  
+  
+31
+
+|
+
+Alla luce di quanto precede, occorre rispondere alla questione posta
+dichiarando che l’articolo 9, paragrafo 1, della direttiva IVA deve essere
+interpretato nel senso che una persona fisica, già soggetta all’IVA per le sue
+attività di ufficiale giudiziario autonomo, deve essere considerata come
+«soggetto passivo» per qualsiasi altra attività economica esercitata in modo
+occasionale, a condizione che tale attività costituisca un’attività ai sensi
+dell’articolo 9, paragrafo 1, secondo comma, della direttiva IVA.  
+  
+---|---  
+  
+Sulle spese
+
+32
+
+|
+
+Nei confronti delle parti nel procedimento principale il presente procedimento
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 9, paragrafo 1, della direttiva 2006/112/CE del Consiglio, del 28
+novembre 2006, relativa al sistema comune d’imposta sul valore aggiunto, deve
+essere interpretato nel senso che una persona fisica, già soggetta all’imposta
+sul valore aggiunto per le sue attività di ufficiale giudiziario autonomo,
+deve essere considerata come «soggetto passivo» per qualsiasi altra attività
+economica esercitata in modo occasionale, a condizione che tale attività
+costituisca un’attività ai sensi dell’articolo 9, paragrafo 1, secondo comma,
+della direttiva 2006/112.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il bulgaro.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

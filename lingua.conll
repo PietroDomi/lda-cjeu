@@ -1,0 +1,16 @@
+﻿1	LinguA	lingua	S	S	num=s|gen=f	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	catena	catena	S	S	num=s|gen=f	2	pred
+5	di	di	E	E	_	4	comp
+6	tool	tool	S	S	num=s|gen=m	5	prep
+7	per	per	E	E	_	4	comp
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	analisi	analisi	S	S	num=n|gen=f	7	prep
+10	linguistica	linguistico	A	A	num=s|gen=f	9	mod
+11	.	.	F	FS	_	2	punc
+
+1	Prova-	provare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	la	la	P	PC	num=s|per=3|gen=f	1	obj
+3	!	!	F	FS	_	1	punc
+

@@ -1,0 +1,1419 @@
+
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+1o ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Tutela delle persone fisiche con riguardo al
+trattamento dei dati personali — Direttiva 95/46/CE — Articoli 4, paragrafo 1,
+e 28, paragrafi 1, 3 e 6 — Responsabile del trattamento formalmente stabilito
+in uno Stato membro — Violazione del diritto alla protezione dei dati
+personali con riguardo alle persone fisiche in un altro Stato membro —
+Determinazione del diritto applicabile e dell’autorità di controllo competente
+— Esercizio dei poteri dell’autorità di controllo — Potere sanzionatorio»
+
+Nella causa C‑230/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dalla Kúria (Ungheria), con decisione del 22
+aprile 2014, pervenuta in cancelleria il 12 maggio 2014, nel procedimento
+
+Weltimmo s. r. o.
+
+contro
+
+Nemzeti Adatvédelmi és Információszabadság Hatóság,
+
+LA CORTE (Terza Sezione),
+
+composta da M. Ilešič, presidente di sezione, A. Ó Caoimh, C. Toader, E.
+Jarašiūnas e C.G. Fernlund (relatore), giudici,
+
+avvocato generale: P. Cruz Villalón
+
+cancelliere: I. Illéssy, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 12 marzo
+2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Nemzeti Adatvédelmi és Információszabadság Hatóság, da A. Péterfalvi,
+in qualità di agente, assistito da G. Dudás, ügyvéd;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ungherese, da M. Fehér, Z. Koós e A. Pálfy, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo polacco, da B. Majczyna, M. Kamejsza e M. Pawlicka, in qualità
+di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo slovacco, da B. Ricziová, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo del Regno Unito, da M. Holt in qualità di agente, assistito da
+J. Holmes, barrister;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da A. Tokár, B. Martenczuk e J. Vondung, in
+qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 25
+giugno 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 4, paragrafo 1, lettera a), e 28, paragrafi 1, 3 e 6, della direttiva
+95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa
+alla tutela delle persone fisiche con riguardo al trattamento dei dati
+personali, nonché alla libera circolazione di tali dati (GU L 281, pag. 31).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la
+Weltimmo s. r. o. (in prosieguo: la «Weltimmo»), società la cui sede è in
+Slovacchia, e la Nemzeti Adatvédelmi és Információszabadság Hatóság (autorità
+nazionale incaricata della protezione dei dati e della libertà
+dell’informazione; in prosieguo: l’«autorità ungherese di controllo») in
+merito a un’ammenda comminata da quest’ultima per violazione della legge n.
+CXII del 2011 sul diritto di autodeterminazione in materia di informazione e
+sulla libertà di informazione (az információs önrendelkezési jogról és az
+információszabadságról szóló 2011. évi CXII. törvény; in prosieguo: la «legge
+sull’informazione»), che ha recepito la direttiva 95/46 nel diritto ungherese.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+I considerando 3, 18 e 19 della direttiva 95/46 enunciano quanto segue:
+
+|
+
+«(3)
+
+|
+
+considerando che l’instaurazione e il funzionamento del mercato interno, nel
+quale, conformemente all’articolo [26 TFUE], è assicurata la libera
+circolazione delle merci, delle persone, dei servizi e dei capitali, esigono
+non solo che i dati personali possano circolare liberamente da uno Stato
+membro all’altro, ma che siano altresì salvaguardati i diritti fondamentali
+della persona;  
+  
+---|---  
+  
+(...)
+
+(18)
+
+|
+
+considerando che, onde evitare che una persona venga privata della tutela cui
+ha diritto in forza della presente direttiva, è necessario che qualsiasi
+trattamento di dati personali effettuato nella Comunità rispetti la
+legislazione di uno degli Stati membri; che, a questo proposito, è opportuno
+assoggettare i trattamenti effettuati da una persona che opera sotto
+l’autorità del responsabile del trattamento stabilito in uno Stato membro alla
+legge di tale Stato;  
+  
+---|---  
+  
+(19)
+
+|
+
+considerando che lo stabilimento nel territorio di uno Stato membro implica
+l’esercizio effettivo e reale dell’attività mediante un’organizzazione
+stabile; che la forma giuridica di siffatto stabilimento, si tratti di una
+semplice succursale o di una filiale dotata di personalità giuridica, non è il
+fattore determinante a questo riguardo; che quando un unico responsabile del
+trattamento è stabilito nel territorio di diversi Stati membri, in particolare
+per mezzo di filiali, esso deve assicurare, segnatamente per evitare che le
+disposizioni vengano eluse, che ognuno degli stabilimenti adempia gli obblighi
+previsti dalla legge nazionale applicabile alle attività di ciascuno di essi».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 2 della direttiva 95/46 così prevede:
+
+«Ai fini della presente direttiva si intende per:
+
+(...)
+
+|
+
+b)
+
+|
+
+“trattamento di dati personali [‘feldolgozása’]” (trattamento
+[“feldolgozás”]): qualsiasi operazione o insieme di operazioni compiute con o
+senza l’ausilio di processi automatizzati e applicate a dati personali, come
+la raccolta, la registrazione, l’organizzazione, la conservazione,
+l’elaborazione o la modifica, l’estrazione, la consultazione, l’impiego, la
+comunicazione mediante trasmissione, diffusione o qualsiasi altra forma di
+messa a disposizione, il raffronto o l’interconnessione, nonché il
+congelamento, la cancellazione o la distruzione;  
+  
+---|---  
+  
+(...)».  
+  
+5
+
+|
+
+L’articolo 4, paragrafo 1, lettera a), della direttiva 95/46 così dispone:
+
+«1. Ciascuno Stato membro applica le disposizioni nazionali adottate per
+l’attuazione della presente direttiva al trattamento di dati personali:
+
+|
+
+a)
+
+|
+
+effettuato nel contesto delle attività di uno stabilimento del responsabile
+del trattamento nel territorio dello Stato membro; qualora uno stesso
+responsabile del trattamento sia stabilito nel territorio di più Stati membri,
+esso deve adottare le misure necessarie per assicurare l’osservanza, da parte
+di ciascuno di detti stabilimenti, degli obblighi stabiliti dal diritto
+nazionale applicabile».  
+  
+---|---  
+  
+6
+
+|
+
+Ai termini dell’articolo 28, paragrafi 1, 3 e 6, della direttiva 95/46:
+
+«1. Ogni Stato membro dispone che una o più autorità pubbliche siano
+incaricate di sorvegliare, nel suo territorio, l’applicazione delle
+disposizioni di attuazione della presente direttiva, adottate dagli Stati
+membri.
+
+Tali autorità sono pienamente indipendenti nell’esercizio delle loro funzioni.
+
+(...)
+
+3\. Ogni autorità di controllo dispone in particolare:
+
+|
+
+—
+
+|
+
+di poteri investigativi, come il diritto di accesso ai dati oggetto di
+trattamento e di raccolta di qualsiasi informazione necessaria all’esercizio
+della sua funzione di controllo,  
+  
+---|---  
+  
+—
+
+|
+
+di poteri effettivi d’intervento, come quello di formulare pareri prima
+dell’avvio di trattamenti, conformemente all’articolo 20, e di dar loro
+adeguata pubblicità o quello di ordinare il congelamento, la cancellazione o
+la distruzione dei dati, oppure di vietare a titolo provvisorio o definitivo
+un trattamento, ovvero quello di rivolgere un avvertimento o un monito al
+responsabile del trattamento o quello di adire i Parlamenti o altre
+istituzioni politiche nazionali;  
+  
+---|---  
+  
+—
+
+|
+
+del potere di promuovere azioni giudiziarie in caso di violazione delle
+disposizioni nazionali di attuazione della presente direttiva ovvero di adire
+per dette violazioni le autorità giudiziarie.  
+  
+---|---  
+  
+È ammesso il ricorso giurisdizionale avverso le decisioni dell’autorità di
+controllo recanti pregiudizio.
+
+(...)
+
+6\. Ciascuna autorità di controllo, indipendentemente dalla legge nazionale
+applicabile al trattamento in questione, è competente per esercitare, nel
+territorio del suo Stato membro, i poteri attribuitile a norma del paragrafo
+3. Ciascuna autorità può essere invitata ad esercitare i suoi poteri su
+domanda dell’autorità di un altro Stato membro.
+
+Le autorità di controllo collaborano tra loro nella misura necessaria allo
+svolgimento dei propri compiti, in particolare scambiandosi ogni informazione
+utile».  
+  
+Il diritto ungherese
+
+7
+
+|
+
+L’articolo 2, paragrafo 1, della legge sull’informazione così prevede:
+
+«Rientrano nell’ambito di applicazione della presente legge tutte le
+operazioni di trattamento ed elaborazione dei dati effettuate in territorio
+ungherese con riguardo a dati di persone fisiche, dati di interesse pubblico o
+dati accessibili per motivi di interesse pubblico».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 3, paragrafi 10 e 17, de la legge sull’informazione contiene le
+seguenti definizioni:
+
+«10. “trattamento dei dati” (“adatkezelés”): ogni operazione o insieme di
+operazioni realizzate relativamente ai dati, a prescindere dalla procedura
+impiegata, in particolare la raccolta, la registrazione, l’organizzazione, la
+conservazione, la modifica, l’impiego, la richiesta, la trasmissione, la
+pubblicazione, il raffronto o l’interconnessione, il congelamento, la
+cancellazione o la distruzione, nonché il divieto di altre forme di impiego
+dei dati, la ricezione di fotografie, suoni o immagini o la registrazione di
+caratteristiche fisiche necessarie per l’identificazione delle persone (ad
+esempio, impronte digitali o del palmo della mano, campioni di DNA o immagini
+dell’iride);
+
+(...)
+
+17\. “elaborazione dei dati” [“adatfeldolgozás”]: l’esecuzione di compiti
+tecnici in relazione alle operazioni di trattamento dei dati, a prescindere
+dal metodo e dallo strumento impiegato per lo svolgimento delle operazioni,
+nonché il luogo di esecuzione delle stesse, sempre che i suddetti compiti
+vengano eseguiti in relazione ai dati».  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+9
+
+|
+
+La Weltimmo, che ha sede in Slovacchia, gestisce un sito Internet di annunci
+immobiliari riguardanti beni situati in Ungheria. Nell’ambito di tale
+attività, essa tratta i dati personali degli inserzionisti. Gli annunci sono
+gratuiti per un mese, trascorso il quale diventano a pagamento. Allo scadere
+del periodo gratuito molti inserzionisti hanno inviato un messaggio di posta
+elettronica chiedendo la cancellazione dei propri annunci e dei propri dati
+personali. La Weltimmo, però, non ha cancellato tali dati e ha fatturato i
+servizi forniti. A fronte del mancato pagamento delle fatture, la ricorrente
+ha trasmesso ad alcune agenzie di recupero crediti i dati personali degli
+inserzionisti coinvolti.  
+  
+---|---  
+  
+10
+
+|
+
+In seguito ai reclami presentati dagli inserzionisti, l’autorità ungherese di
+controllo si è dichiarata competente ex articolo 2, paragrafo 1, della legge
+sull’informazione, ritenendo che la raccolta dei dati in questione era
+avvenuta in territorio ungherese e costituiva un’operazione di trattamento ed
+elaborazione dei dati con riguardo a persone fisiche. Ritenendo che la
+Weltimmo avesse violato la legge sull’informazione, tale autorità di controllo
+ha imposto a detta società un’ammenda di dieci milioni di fiorini ungheresi
+(HUF) (circa 32000 euro).  
+  
+---|---  
+  
+11
+
+|
+
+La Weltimmo ha allora adito il Fővárosi Közigazgatási és Munkaügyi Bíróság
+(tribunale amministrativo e del lavoro di Budapest), il quale ha considerato
+che non poteva ammettersi, a favore della ricorrente, l’assenza della sede o
+dello stabilimento in Ungheria, dal momento che la fornitura dei dati relativi
+agli immobili ungheresi interessati e il trattamento di tali dati avevano
+avuto luogo in Ungheria. Detto tribunale ha tuttavia annullato la decisione
+dell’autorità ungherese di controllo per altri motivi, attinenti alla scarsa
+chiarezza di alcuni fatti.  
+  
+---|---  
+  
+12
+
+|
+
+Nel ricorso in cassazione la Weltimmo ha chiesto al giudice del rinvio che sia
+dichiarata l’inutilità di procedere a un ulteriore chiarimento dei fatti
+giacché, ai sensi dell’articolo 4, paragrafo 1, lettera a), della direttiva
+95/46, l’autorità ungherese di controllo non era competente e non poteva
+applicare il diritto ungherese nei confronti di un fornitore di servizi
+stabilito in un altro Stato membro. La Weltimmo ha sostenuto che,
+conformemente all’articolo 28, paragrafo 6, della direttiva 95/46, detta
+autorità avrebbe dovuto invitare la sua omologa slovacca ad agire al posto
+suo.  
+  
+---|---  
+  
+13
+
+|
+
+L’autorità ungherese di controllo ha sostenuto che la Weltimmo aveva, in
+Ungheria, un rappresentante cittadino ungherese, ossia uno dei titolari di
+tale società, che l’aveva rappresentata sia nel procedimento amministrativo
+sia in quello giudiziario in tale Stato membro. Tale autorità ha aggiunto che
+i server Internet della Weltimmo pare fossero ubicati in Germania o in
+Austria, ma che i titolari della medesima società abitavano in Ungheria.
+Infine, secondo detta autorità, si evince dall’articolo 28, paragrafo 6, della
+direttiva 95/46 che essa era in ogni caso competente ad agire a prescindere
+dal diritto applicabile.  
+  
+---|---  
+  
+14
+
+|
+
+Nutrendo dubbi sull’individuazione del diritto applicabile e sulle competenze
+dell’autorità ungherese di controllo alla luce degli articoli 4, paragrafo 1,
+e 28 della direttiva 95/46, la Kúria (Corte suprema) ha deciso di sospendere
+il procedimento e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se l’articolo 28, paragrafo 1, della direttiva 95/46 debba essere interpretato
+nel senso che la normativa nazionale di uno Stato membro può applicarsi nel
+suo territorio a un responsabile del trattamento dei dati, stabilito
+esclusivamente in un altro Stato membro, che gestisce una pagina Internet di
+intermediazione immobiliare e che pubblicizza, tra l’altro, immobili situati
+nel territorio del primo Stato membro, i proprietari dei quali trasmettono
+dati personali a un dispositivo (server) per la memorizzazione e
+l’elaborazione di dati appartenente al gestore della pagina Internet e situato
+in un altro Stato membro.  
+  
+---|---  
+  
+2)
+
+|
+
+Se, alla luce dei considerando da 18 a 20 e degli articoli 1, paragrafo 2, e
+28, paragrafo 1, l’articolo 4, paragrafo 1, lettera a), della direttiva 95/46
+debba essere interpretato nel senso che l’autorità ungherese di controllo non
+può applicare la legge ungherese sulla protezione dei dati, quale diritto
+nazionale, al gestore di una pagina Internet di intermediazione immobiliare
+stabilito esclusivamente in un altro Stato membro neppure qualora detto
+gestore pubblicizzi, tra l’altro, immobili ungheresi i cui proprietari hanno
+trasmesso, probabilmente dal territorio ungherese, i dati relativi ai propri
+immobili a un dispositivo (server) per la memorizzazione e l’elaborazione di
+dati appartenente al gestore della pagina Internet e situato in un altro Stato
+membro.  
+  
+---|---  
+  
+3)
+
+|
+
+Se, a fini interpretativi, rilevi che il servizio fornito dal responsabile del
+trattamento di dati che gestisce la pagina Internet sia rivolto al territorio
+dell’altro Stato membro.  
+  
+---|---  
+  
+4)
+
+|
+
+Se, a fini interpretativi, rilevi che i dati concernenti gli immobili situati
+nel territorio dell’altro Stato membro e i dati personali dei proprietari
+siano stati effettivamente caricati dal territorio di detto altro Stato
+membro.  
+  
+---|---  
+  
+5)
+
+|
+
+Se, a fini interpretativi, rilevi che i dati personali trasmessi in relazione
+ai citati immobili riguardino cittadini dell’altro Stato membro.  
+  
+---|---  
+  
+6)
+
+|
+
+Se, a fini interpretativi, rilevi che i titolari della società stabilita in
+Slovacchia abitino in Ungheria.  
+  
+---|---  
+  
+7)
+
+|
+
+Qualora dalle risposte alle questioni precedenti emerga che l’autorità
+ungherese di controllo possa svolgere un procedimento ma non possa applicare
+il diritto nazionale, dovendo attenersi a quello dello Stato membro di
+stabilimento, se l’articolo 28, paragrafo 6, della direttiva sulla protezione
+dei dati debba essere interpretato nel senso che l’Autorità ungherese per la
+protezione dei dati possa esercitare i poteri di cui all’articolo 28,
+paragrafo 3, della citata direttiva solo conformemente alla normativa dello
+Stato membro di stabilimento e che, pertanto, non possa imporre un’ammenda.  
+  
+---|---  
+  
+8)
+
+|
+
+Se si possa ritenere che la nozione di “adatfeldolgozás” (elaborazione dei
+dati), utilizzata sia nell’articolo 4, paragrafo 1, lettera a), sia
+nell’articolo 28, paragrafo 6, della direttiva 95/46 sia identica alla nozione
+di “adatkezelés” (trattamento dei dati) impiegata nella terminologia di detta
+direttiva».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Osservazioni preliminari
+
+15
+
+|
+
+Per quanto attiene, anzitutto, all’ambito fattuale della controversia nel
+procedimento principale, occorre menzionare alcuni elementi informativi
+integrativi, presentati dall’autorità ungherese di controllo nelle sue
+osservazioni scritte e all’udienza dinanzi alla Corte.  
+  
+---|---  
+  
+16
+
+|
+
+Si evince da tali elementi, in primo luogo, che tale autorità avrebbe appreso,
+informalmente, dalla sua omologa slovacca che la Weltimmo non svolgeva nessuna
+attività nel luogo della sua sede, in Slovacchia. Inoltre, la Weltimmo avrebbe
+più volte spostato la sede da uno Stato a un altro. In secondo luogo, la
+Weltimmo avrebbe creato due siti di annunci immobiliari, scritti solamente in
+lingua ungherese, avrebbe aperto un conto bancario in Ungheria, destinato al
+recupero crediti, e avrebbe avuto una casella postale in tale Stato membro,
+per gli affari correnti. La posta sarebbe stata regolarmente prelevata e
+trasmessa alla Weltimmo per via elettronica. In terzo luogo, gli inserzionisti
+non soltanto devono essi stessi iscrivere i dati relativi ai loro immobili nel
+sito della Weltimmo, ma anche cancellare tali dati dal sito se non vogliono
+che continuino a figurarvi oltre il periodo di un mese sopra menzionato. La
+Weltimmo avrebbe avanzato un problema di gestione informatica per spiegare
+perché non aveva potuto cancellare i dati. In quarto luogo, la Weltimmo
+sarebbe una società composta di una o due persone soltanto. Il suo
+rappresentante in Ungheria avrebbe cercato di negoziare con gli inserzionisti
+il pagamento dei crediti insoluti.  
+  
+---|---  
+  
+17
+
+|
+
+Per quanto attiene, poi, alla formulazione delle questioni sottoposte,
+nonostante il giudice del rinvio utilizzi i termini «stabilito esclusivamente»
+nella prima e nella seconda questione, si evince dalla decisione di rinvio e
+dalle osservazioni scritte e orali presentate dall’autorità ungherese di
+controllo che, sebbene la Weltimmo sia registrata in Slovacchia e sia, di
+conseguenza, stabilita in tale Stato membro, ai sensi del diritto societario,
+sussistono dubbi sul fatto se sia «stabilita» unicamente in tale Stato membro,
+a norma dell’articolo 4, paragrafo 1, lettera a), de della direttiva 95/46.
+Chiedendo alla Corte di interpretare tale disposizione, il giudice del rinvio
+intende, infatti, sapere cosa rientri nella nozione di «stabilimento»
+utilizzata in detta disposizione.  
+  
+---|---  
+  
+18
+
+|
+
+Occorre, infine, rilevare che nella prima e nella seconda questione, il
+giudice del rinvio afferma che il server usato dalla Weltimmo è istallato in
+Slovacchia, mentre, in un altro passo della decisione di rinvio, accenna che è
+possibile che i server di tale società si trovino in Germania o in Austria.
+Ciò detto, sembra opportuno considerare che non sia appurato in quale Stato
+membro si trova il server o si trovano i server usati da detta società.  
+  
+---|---  
+  
+Sulle questioni dalla prima alla sesta
+
+19
+
+|
+
+Con le questioni dalla prima alla sesta, che occorre esaminare congiuntamente,
+il giudice del rinvio chiede in sostanza se gli articoli 4, paragrafo 1,
+lettera a), e 28, paragrafo 1, della direttiva 95/46 devono essere
+interpretati nel senso che, in circostanze quali quelle del procedimento
+principale, essi consentono all’autorità di controllo di uno Stato membro di
+applicare la sua normativa nazionale in materia di protezione dei dati nei
+confronti di un responsabile del trattamento, la cui società è registrata in
+un altro Stato membro e che gestisce un sito Internet di annunci immobiliari
+riguardanti beni immobili situati nel territorio del primo di tali due Stati.
+Detto giudice chiede in particolare se sia rilevante che tale Stato membro sia
+quello:
+
+|
+
+—
+
+|
+
+verso il quale si rivolge l’attività del responsabile del trattamento dei dati
+personali,  
+  
+---|---  
+  
+—
+
+|
+
+in cui sono situati i beni immobili interessati,  
+  
+---|---  
+  
+—
+
+|
+
+a partire dal quale sono comunicati dati relativi ai proprietari di tali beni,  
+  
+---|---  
+  
+—
+
+|
+
+del quale sono cittadini questi ultimi, e  
+  
+---|---  
+  
+—
+
+|
+
+nel quale siano domiciliati i titolari di tale società.  
+  
+---|---  
+  
+20
+
+|
+
+Per quanto riguarda il diritto applicabile, il giudice del rinvio cita in
+particolare gli ordinamenti slovacco e ungherese; nel primo è il diritto dello
+Stato membro in cui è registrato il responsabile del trattamento dei dati
+personali di cui trattasi, mentre nel secondo è quello dello Stato membro cui
+si rivolgono i siti Internet di cui è causa nel procedimento principale, nel
+territorio del quale sono situati i beni immobili oggetto degli annunci
+pubblicati.  
+  
+---|---  
+  
+21
+
+|
+
+A questo proposito, occorre rilevare che l’articolo 4 della direttiva 95/46,
+rubricato «Diritto nazionale applicabile», di cui al capo I di tale direttiva,
+rubricato «Disposizioni generali», disciplina proprio la questione sollevata.  
+  
+---|---  
+  
+22
+
+|
+
+L’articolo 28 della direttiva 95/46, rubricato «Autorità di controllo», è,
+invece, dedicato al ruolo e ai poteri di tale autorità. In forza di tale
+articolo 28, paragrafo 1, essa è incaricata di sorvegliare, nel territorio del
+suo Stato membro, l’applicazione delle disposizioni di attuazione della
+direttiva adottate dagli Stati membri. Ai sensi dell’articolo 28, paragrafo 6,
+di detta direttiva, l’autorità di controllo esercita i poteri attribuitile,
+indipendentemente dalla legge nazionale applicabile al trattamento dei dati
+personali.  
+  
+---|---  
+  
+23
+
+|
+
+Occorre dunque determinare il diritto nazionale applicabile al responsabile di
+tale trattamento alla luce non dell’articolo 28 della direttiva 95/46, ma
+dell’articolo 4 della medesima.  
+  
+---|---  
+  
+24
+
+|
+
+Ai termini dell’articolo 4, paragrafo 1, lettera a), della direttiva 95/46,
+ciascuno Stato membro applica le disposizioni nazionali adottate per
+l’attuazione della presente direttiva al trattamento di dati personali
+effettuato nel contesto delle attività di uno stabilimento del responsabile
+del trattamento nel territorio dello Stato membro.  
+  
+---|---  
+  
+25
+
+|
+
+Alla luce dell’obiettivo perseguito dalla direttiva 95/46, consistente nel
+garantire una tutela efficace e completa delle libertà e dei diritti
+fondamentali delle persone fisiche, segnatamente del diritto alla vita
+privata, con riguardo al trattamento dei dati personali, l’espressione «nel
+contesto delle attività di uno stabilimento» non può ricevere
+un’interpretazione restrittiva (v., in tal senso, sentenza Google Spain e
+Google, C‑131/12, EU:C:2014:317, punto 53).  
+  
+---|---  
+  
+26
+
+|
+
+Per conseguire tale obiettivo ed evitare che una persona venga privata della
+tutela cui ha diritto in forza della direttiva in parola, il considerando 18
+della medesima direttiva enuncia che è necessario che qualsiasi trattamento di
+dati personali effettuato nell’Unione europea rispetti la legislazione di uno
+degli Stati membri e che è opportuno assoggettare i trattamenti effettuati da
+chiunque operi sotto l’autorità del responsabile del trattamento stabilito in
+uno Stato membro alla legge di tale Stato.  
+  
+---|---  
+  
+27
+
+|
+
+Il legislatore dell’Unione ha quindi previsto un ambito di applicazione
+territoriale della direttiva 95/46 particolarmente esteso, che ha inserito
+all’articolo 4 della stessa (v., in tal senso, sentenza Google Spain e Google,
+C‑131/12, EU:C:2014:317, punto 54).  
+  
+---|---  
+  
+28
+
+|
+
+Per quanto attiene, in primo luogo, alla nozione di «stabilimento», va
+ricordato che il considerando 19 della direttiva 95/46 enuncia che lo
+stabilimento nel territorio di uno Stato membro implica l’esercizio effettivo
+e reale dell’attività mediante un’organizzazione stabile e che la forma
+giuridica di siffatto stabilimento, si tratti di una semplice succursale o di
+una filiale dotata di personalità giuridica, non è il fattore determinante a
+questo riguardo (sentenza Google Spain e Google, C‑131/12, EU:C:2014:317,
+punto 48). Detto considerando precisa, inoltre, che, quando un unico
+responsabile del trattamento è stabilito nel territorio di diversi Stati
+membri, esso deve assicurare, segnatamente per evitare che le disposizioni
+vengano eluse, che ognuno degli stabilimenti adempia gli obblighi previsti
+dalla legge nazionale applicabile alle attività di ciascuno di essi.  
+  
+---|---  
+  
+29
+
+|
+
+Ne consegue, come ha sostanzialmente rilevato l’avvocato generale ai paragrafi
+28 e da 32 a 34 delle sue conclusioni, una concezione flessibile della nozione
+di stabilimento, che si discosta dall’impostazione formalistica secondo cui
+un’impresa sarebbe stabilita esclusivamente nel luogo in cui è registrata.
+Infatti, per determinare se una società, responsabile di un trattamento dei
+dati, dispone di uno stabilimento, ai sensi della direttiva, 95/46, in uno
+Stato membro diverso dallo Stato membro o dal paese terzo in cui è registrata,
+occorre valutare sia il grado di stabilità dell’organizzazione sia l’esercizio
+effettivo delle attività in tale altro Stato membro, prendendo in
+considerazione la natura specifica delle attività economiche e delle
+prestazioni di servizi in questione. Ciò vale soprattutto per imprese che
+offrono servizi esclusivamente tramite Internet.  
+  
+---|---  
+  
+30
+
+|
+
+A questo proposito, occorre segnatamente considerare, alla luce dell’obiettivo
+perseguito da tale direttiva, consistente nel garantire una tutela efficace e
+completa del diritto alla vita privata e nell’evitare che le disposizioni
+vengano eluse, che la presenza di un unico rappresentante, in talune
+circostanze, può essere sufficiente a costituire un’organizzazione stabile se
+il medesimo opera con un grado di stabilità sufficiente con l’ausilio dei
+mezzi necessari per la fornitura dei servizi concreti di cui trattasi nello
+Stato membro in questione.  
+  
+---|---  
+  
+31
+
+|
+
+Inoltre, per realizzare detto obiettivo, occorre considerare che la nozione di
+«stabilimento», ai sensi della direttiva 95/46, si estende a qualsiasi
+attività reale ed effettiva, anche minima, esercitata tramite
+un’organizzazione stabile.  
+  
+---|---  
+  
+32
+
+|
+
+Nel caso di specie, l’attività esercitata dalla Weltimmo consiste, quantomeno,
+nella gestione di uno dei vari siti Internet di annunci immobiliari
+riguardanti beni situati in Ungheria, scritti in lingua ungherese e i cui
+annunci diventano a pagamento dopo un mese. Occorre dunque affermare che tale
+società svolge un’attività concreta ed effettiva in Ungheria.  
+  
+---|---  
+  
+33
+
+|
+
+Inoltre, si evince in particolare dalle precisazioni fornite dall’autorità
+ungherese di controllo che la Weltimmo ha un rappresentante in Ungheria, il
+quale figura nel registro slovacco delle società a un indirizzo situato in
+Ungheria e il quale ha cercato di negoziare con gli inserzionisti il pagamento
+dei crediti insoluti. Tale rappresentante è stata la persona di contatto tra
+la società e coloro che avevano introdotto reclami e l’ha rappresentata nel
+corso dei procedimenti amministrativo e giudiziario. Inoltre, detta società ha
+aperto in Ungheria un conto bancario, destinato al recupero dei crediti, e si
+serve di una casella postale nel territorio di tale stato membro per la
+gestione dei suoi affari correnti. Questi elementi, che spetta verificare al
+giudice del rinvio, possono configurare, in una situazione come quella
+controversa, l’esistenza di uno «stabilimento», ai sensi dell’articolo 4,
+paragrafo 1, lettera a), della direttiva 95/46.  
+  
+---|---  
+  
+34
+
+|
+
+Occorre, in secondo luogo, sapere se il trattamento dei dati personali di cui
+trattasi è fatto «nel contesto delle attività» di tale stabilimento.  
+  
+---|---  
+  
+35
+
+|
+
+La Corte ha già considerato che l’articolo 4, paragrafo 1, lettera a), della
+direttiva 95/46 non esige che il trattamento di dati personali in questione
+venga effettuato «dallo» stesso stabilimento interessato, bensì soltanto che
+venga effettuato «nel contesto delle attività» di quest’ultimo (sentenza
+Google Spain e Google, C‑131/12, EU:C:2014:317, punto 52).  
+  
+---|---  
+  
+36
+
+|
+
+Nel caso di specie, il trattamento controverso nel procedimento principale
+consiste, in particolare, nel pubblicare, sui siti Internet di annunci
+immobiliari della Weltimmo, dati personali relativi ai titolari di tali beni
+e, eventualmente, nell’utilizzare tali dati per esigenze di fatturazione degli
+annunci allo scadere del termine di un mese.  
+  
+---|---  
+  
+37
+
+|
+
+A tal proposito, occorre ricordare che, per quanto riguarda in particolare
+Internet, la Corte ha già avuto modo di constatare che l’operazione
+consistente nel far comparire su una pagina Internet dati personali va
+considerata come un «trattamento» ai sensi dell’articolo 2, lettera b), della
+direttiva 95/46 (v. sentenze Lindqvist, C‑101/01, EU:C:2003:596, punto 25,
+nonché Google Spain e Google, C‑131/12, EU:C:2014:317, punto 26).  
+  
+---|---  
+  
+38
+
+|
+
+Orbene, è indubbio che tale trattamento è avvenuto nel contesto delle
+attività, descritte al punto 32 della presente sentenza, che la Weltimmo
+svolge in Ungheria.  
+  
+---|---  
+  
+39
+
+|
+
+Pertanto, fatte salve le verifiche rammentate al punto 33 della presente
+sentenza, che spetta compiere al giudice del rinvio al fine di accertare, se
+del caso, che sussiste lo stabilimento del responsabile del trattamento in
+Ungheria, occorre considerare che tale trattamento si svolge nel contesto
+delle attività di tale stabilimento e che l’articolo 4, paragrafo 1, lettera
+a), della direttiva 96/46 consente, in una situazione quale quella controversa
+nel procedimento principale, l’applicazione del diritto ungherese in materia
+di protezione dei dati personali.  
+  
+---|---  
+  
+40
+
+|
+
+Il fatto che i titolari dei beni oggetto degli annunci immobiliari siano
+cittadini ungheresi, invece, non è assolutamente rilevante al fine di
+determinare il diritto nazionale applicabile al trattamento dei dati di cui è
+causa nel procedimento principale.  
+  
+---|---  
+  
+41
+
+|
+
+Tenuto conto di tutte le considerazioni che precedono, occorre rispondere alle
+questioni dalla prima alla sesta nei seguenti termini:
+
+|
+
+—
+
+|
+
+l’articolo 4, paragrafo 1, lettera a), della direttiva 95/46 deve essere
+interpretato nel senso che esso consente l’applicazione della legge in materia
+di protezione dei dati personali di uno Stato membro diverso da quello nel
+quale il responsabile del trattamento di tali dati è registrato, purché il
+medesimo svolga, tramite un’organizzazione stabile nel territorio di tale
+Stato membro, un’attività effettiva e reale, anche minima, nel contesto della
+quale si svolge tale trattamento;  
+  
+---|---  
+  
+—
+
+|
+
+per determinare se ciò si verifichi, in circostanze quali quelle controverse
+nel procedimento principale, il giudice del rinvio può tener conto, in
+particolare, del fatto, da un lato, che l’attività del responsabile di detto
+trattamento, nell’ambito della quale il medesimo ha luogo, consiste nella
+gestione di siti Internet di annunci immobiliari riguardanti beni immobili
+situati nel territorio di tale Stato membro e redatti nella lingua di
+quest’ultimo e che essa, di conseguenza, è principalmente, ovvero interamente,
+rivolta verso detto Stato membro e, dall’altro, che tale responsabile ha un
+rappresentante in detto Stato membro, il quale è incaricato di recuperare i
+crediti risultanti da tale attività nonché di rappresentarlo nei procedimenti
+amministrativo e giudiziario relativi al trattamento dei dati interessati;  
+  
+---|---  
+  
+—
+
+|
+
+è, invece, inconferente la questione della cittadinanza delle persone
+interessate da tale trattamento.  
+  
+---|---  
+  
+Sulla settima questione
+
+42
+
+|
+
+La settima questione viene sottoposta soltanto nell’ipotesi in cui l’autorità
+ungherese di controllo consideri che la Weltimmo abbia, non in Ungheria, ma in
+un altro Stato membro, uno stabilimento, ai sensi dell’articolo 4, paragrafo
+1, lettera a), della direttiva 95/46, che svolge attività nel contesto delle
+quali è effettuato il trattamento dei dati personali interessati.  
+  
+---|---  
+  
+43
+
+|
+
+Con tale questione, il giudice del rinvio chiede, in sostanza, se, nel caso in
+cui l’autorità ungherese di controllo giungesse alla conclusione che il
+diritto applicabile al trattamento dei dati personali non è il diritto
+ungherese, ma il diritto di un altro Stato membro, l’articolo 28, paragrafi 1,
+3 e 6, della direttiva 95/46 debba essere interpretato nel senso che detta
+autorità può esercitare soltanto i poteri previsti all’articolo 28, paragrafo
+3, di tale direttiva, conformemente al diritto tale altro Stato membro, e non
+può imporre sanzioni.  
+  
+---|---  
+  
+44
+
+|
+
+Per quanto attiene, in primo luogo, alla competenza di un’autorità di
+controllo ad agire in un simile caso, occorre rilevare che, in forza
+dell’articolo 28, paragrafo 4, della direttiva 95/46, qualsiasi persona può
+presentare a ciascuna autorità di controllo, una domanda relativa alla tutela
+dei suoi diritti e libertà con riguardo al trattamento di dati personali.  
+  
+---|---  
+  
+45
+
+|
+
+Di conseguenza, in una situazione quale quella controversa nel procedimento
+principale, l’autorità ungherese di controllo può essere adita da persone,
+quali gli inserzionisti di beni immobili di cui trattasi nel procedimento
+principale, che si ritengono vittime di un trattamento illecito dei dati
+personali che le riguardano nello Stato membro nel quale possiedono tali beni.  
+  
+---|---  
+  
+46
+
+|
+
+Occorre esaminare, in secondo luogo, quali siano i poteri di tale autorità di
+controllo alla luce dell’articolo 28, paragrafi 1, 3 e 6, della direttiva
+95/46.  
+  
+---|---  
+  
+47
+
+|
+
+Si evince dall’articolo 28, paragrafo 1, di tale direttiva che ciascuna
+autorità di controllo creata da uno Stato membro sorveglia, nel territorio di
+tale Stato membro, l’osservanza delle disposizioni di attuazione della
+direttiva 95/46, adottate dagli Stati membri.  
+  
+---|---  
+  
+48
+
+|
+
+In forza dell’articolo 28, paragrafo 3, della direttiva 95/46, tali autorità
+di controllo dispongono in particolare di poteri investigativi, come il
+diritto di raccolta di qualsiasi informazione necessaria all’esercizio della
+loro funzione di controllo, e di poteri effettivi d’intervento come quello di
+ordinare il congelamento, la cancellazione o la distruzione dei dati, oppure
+di vietare a titolo provvisorio o definitivo un trattamento, ovvero quello di
+rivolgere un avvertimento o un monito al responsabile del trattamento.  
+  
+---|---  
+  
+49
+
+|
+
+Tenuto conto della non tassatività dei poteri appena elencati e del tipo di
+poteri di intervento menzionati in tale disposizione, nonché del margine di
+manovra di cui dispongono gli Stati membri per il recepimento della direttiva
+95/46, occorre considerare che tali poteri di intervento possono comprendere
+quello di sanzionare il responsabile del trattamento di dati, eventualmente
+imponendogli un’ammenda.  
+  
+---|---  
+  
+50
+
+|
+
+I poteri conferiti alle autorità di controllo devono essere esercitati nel
+rispetto del diritto procedurale dello Stato membro cui esse appartengono.  
+  
+---|---  
+  
+51
+
+|
+
+Si evince dall’articolo 28, paragrafi 1 e 3, della direttiva 95/46 che
+ciascuna autorità di controllo esercita tutti i poteri che le sono stati
+conferiti nel territorio dello Stato membro cui appartiene, per assicurare in
+tale territorio il rispetto delle norme in materia di protezione dei dati.  
+  
+---|---  
+  
+52
+
+|
+
+Tale applicazione territoriale dei poteri di ciascuna autorità di controllo è
+conforme all’articolo 28, paragrafo 6, di tale direttiva, ai sensi del quale
+ciascuna autorità di controllo è competente a esercitare, nel territorio del
+suo Stato membro, i poteri attribuitile a norma dell’articolo 28, paragrafo 3,
+di detta direttiva e ciò indipendentemente dalla legge nazionale applicabile.
+Tale articolo 28, paragrafo 6 precisa anche che ciascuna autorità può essere
+invitata ad esercitare i suoi poteri su domanda dell’autorità di un altro
+Stato membro e che le autorità di controllo collaborano tra loro nella misura
+necessaria allo svolgimento dei propri compiti, in particolare scambiandosi
+ogni informazione utile.  
+  
+---|---  
+  
+53
+
+|
+
+Tale disposizione è necessaria per garantire la libera circolazione dei dati
+personali in tutta l’Unione, continuando a sorvegliare il rispetto delle norme
+dirette a tutelare la vita privata delle persone fisiche di cui alla direttiva
+95/46. Infatti, in mancanza di detta disposizione, nel caso in cui il
+responsabile del trattamento dei dati personali fosse soggetto alla legge di
+uno Stato membro, ma violasse il diritto alla tutela della vita privata delle
+persone fisiche in un altro Stato membro, in particolare rivolgendo la sua
+attività verso tale altro Stato membro senza però esservi stabilito, ai sensi
+di tale direttiva, sarebbe difficile, se non impossibile, per tali persone far
+rispettare il loro diritto a detta tutela.  
+  
+---|---  
+  
+54
+
+|
+
+Si evince quindi dall’articolo 28, paragrafo 6, della direttiva 95/46 che
+l’autorità di controllo di uno Stato membro alla quale persone fisiche
+presentano un reclamo relativo al trattamento di dati personali che le
+riguardano, in base all’articolo 28, paragrafo 4, di tale direttiva, può
+esaminare tale reclamo indipendentemente dalla legge applicabile e, di
+conseguenza, anche se il diritto applicabile al trattamento dei dati
+interessati è quello di un altro Stato membro.  
+  
+---|---  
+  
+55
+
+|
+
+Tuttavia, in tale ipotesi, i poteri di tale autorità non comprendono
+necessariamente tutti quelli di cui è investita secondo il diritto dello suo
+Stato membro.  
+  
+---|---  
+  
+56
+
+|
+
+Infatti, come rilevato dall’avvocato generale al paragrafo 50 delle sue
+conclusioni, dalle esigenze derivanti dalla sovranità territoriale dello Stato
+membro, dal principio di legalità e dalla nozione di Stato di diritto discende
+che il potere sanzionatorio non può avere luogo, in linea di principio, al di
+fuori dei limiti legali entro cui un’autorità amministrativa è autorizzata ad
+agire secondo il diritto nazionale del suo Stato membro.  
+  
+---|---  
+  
+57
+
+|
+
+Così, quando ad un’autorità di controllo viene presentato un reclamo, secondo
+l’articolo 28, paragrafo 4, della direttiva 95/46, essa può esercitare i suoi
+poteri investigativi indipendentemente dal diritto applicabile e ancor prima
+di sapere quale sia il diritto nazionale che si applica al trattamento
+controverso. Tuttavia, essa, qualora giunga alla conclusione che si applica il
+diritto di un altro Stato membro, non può imporre sanzioni al di fuori del
+territorio del suo Stato membro. In una situazione del genere, essa è tenuta,
+in virtù dell’obbligo di collaborazione di cui all’articolo 28, paragrafo 6,
+di tale direttiva, a chiedere all’autorità di controllo di tale altro Stato
+membro di accertare un’eventuale violazione di tale diritto e di imporre
+sanzioni se questo lo consente, appoggiandosi, se del caso, sulle informazioni
+che essa le avrà comunicato.  
+  
+---|---  
+  
+58
+
+|
+
+L’autorità di controllo cui è proposto un reclamo, nell’ambito di tale
+collaborazione può essere indotta a svolgere altre indagini, su istruzione
+dell’autorità di controllo dell’altro Stato membro.  
+  
+---|---  
+  
+59
+
+|
+
+Ne consegue che, in una situazione quale quella controversa nel procedimento
+principale, nell’ipotesi in cui il diritto applicabile sia quello di uno Stato
+membro diverso dall’Ungheria, l’autorità ungherese di controllo non potrebbe
+esercitare i poteri sanzionatori attribuitile dalla legge ungherese.  
+  
+---|---  
+  
+60
+
+|
+
+Risulta dalle considerazioni sopra esposte che occorre rispondere alla settima
+questione dichiarando che, nell’ipotesi in cui l’autorità di controllo di uno
+Stato membro cui sia proposto un reclamo, ai sensi dell’articolo 28, paragrafo
+4, della direttiva 95/46, giunga alla conclusione che il diritto applicabile
+al trattamento dei dati personali interessati non è il diritto di tale Stato
+membro, ma quello di un altro Stato membro, l’articolo 28, paragrafi 1, 3 e 6,
+di tale direttiva deve essere interpretato nel senso che tale autorità di
+controllo potrebbe esercitare i poteri effettivi d’intervento attribuitile in
+base all’articolo 28, paragrafo 3, di detta direttiva solamente nel territorio
+del suo Stato membro. Pertanto, essa non può imporre sanzioni sulla base del
+diritto di tale Stato membro nei confronti del responsabile del trattamento di
+tali dati che non è stabilito in tale territorio, ma, secondo l’articolo 28,
+paragrafo 6, della medesima direttiva, dovrebbe chiedere all’autorità di
+controllo dello Stato membro del quale si applica legge d’intervenire.  
+  
+---|---  
+  
+Sull’ottava questione
+
+61
+
+|
+
+Con l’ottava questione, il giudice del rinvio chiede alla Corte quale sia la
+portata della nozione di «adatfeldolgozás» (elaborazione dei dati), utilizzata
+in particolare all’articolo 4, paragrafo 1, lettera a), della direttiva 95/46,
+relativo alla determinazione del diritto applicabile, e all’articolo 28,
+paragrafo 6, di tale direttiva, relativo alla competenza dell’autorità di
+controllo.  
+  
+---|---  
+  
+62
+
+|
+
+Si evince dalla direttiva 95/46, nella versione in lingua ungherese, che essa
+utilizza sistematicamente il termine «adatfeldolgozás».  
+  
+---|---  
+  
+63
+
+|
+
+Il giudice del rinvio fa presente che la legge sull’informazione utilizza,
+segnatamente nelle disposizioni dirette ad attuare le disposizioni della
+direttiva 95/46 relative alla competenza delle autorità di controllo, il
+termine «adatkezelés» (trattamento dei dati). Orbene, come si evince
+dall’articolo 3, punto 10, di tale legge, tale termine ha un significato più
+ampio di quello del termine «adatfeldolgozás», definito all’articolo 3, punto
+17, di detta legge e ingloba quest’ultimo termine.  
+  
+---|---  
+  
+64
+
+|
+
+Sebbene la nozione di «adatfeldolgozás», secondo la comune accezione e così
+come si evince dalla legge sull’informazione, abbia un significato più stretto
+rispetto alla nozione di «adatkezelés», occorre tuttavia notare che la
+versione della direttiva 95/46 in lingua ungherese definisce il termine
+«adatfeldolgozás» all’articolo 2, lettera b), in un modo ampio, che
+corrisponde al termine «adatkezelés».  
+  
+---|---  
+  
+65
+
+|
+
+Di conseguenza occorre rispondere all’ottava questione dichiarando che la
+direttiva 95/46 deve essere interpretata nel senso che la nozione di
+«adatfeldolgozás» (elaborazione dei dati), utilizzata nella versione di tale
+direttiva in lingua ungherese, in particolare agli articoli 4, paragrafo 1,
+lettera a), e 28, paragrafo 6, della medesima, deve essere intesa in un
+significato identico a quello del termine «adatkezelés» (trattamento dei
+dati).  
+  
+---|---  
+  
+Sulle spese
+
+66
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 4, paragrafo 1, lettera a), della direttiva 95/46/CE del Parlamento
+europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela delle
+persone fisiche con riguardo al trattamento dei dati personali, nonché alla
+libera circolazione di tali dati, deve essere interpretato nel senso che esso
+consente l’applicazione della legge in materia di protezione dei dati
+personali di uno Stato membro diverso da quello nel quale il responsabile del
+trattamento di tali dati è registrato, purché il medesimo svolga, tramite
+un’organizzazione stabile nel territorio di tale Stato membro, un’attività
+effettiva e reale, anche minima, nel contesto della quale si svolge tale
+trattamento.
+
+Per determinare se ciò si verifichi, in circostanze quali quelle controverse
+nel procedimento principale, il giudice del rinvio può tener conto, in
+particolare, del fatto, da un lato, che l’attività del responsabile di detto
+trattamento, nell’ambito della quale il medesimo ha luogo, consiste nella
+gestione di siti Internet di annunci immobiliari riguardanti beni immobili
+situati nel territorio di tale Stato membro e redatti nella lingua di
+quest’ultimo e che essa, di conseguenza, è principalmente, ovvero interamente,
+rivolta verso detto Stato membro e, dall’altro, che tale responsabile ha un
+rappresentante in detto Stato membro, il quale è incaricato di recuperare i
+crediti risultanti da tale attività nonché di rappresentarlo nei procedimenti
+amministrativo e giudiziario relativi al trattamento dei dati interessati.
+
+È, invece, inconferente la questione della cittadinanza delle persone
+interessate da tale trattamento.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+Nell’ipotesi in cui l’autorità di controllo di uno Stato membro cui sia
+proposto un reclamo, ai sensi dell’articolo 28, paragrafo 4, della direttiva
+95/46, giunga alla conclusione che il diritto applicabile al trattamento dei
+dati personali interessati non è il diritto di tale Stato membro, ma quello di
+un altro Stato membro, l’articolo 28, paragrafi 1, 3 e 6, di tale direttiva
+deve essere interpretato nel senso che tale autorità di controllo potrebbe
+esercitare i poteri effettivi d’intervento attribuitile in base all’articolo
+28, paragrafo 3, di detta direttiva solamente nel territorio del suo Stato
+membro. Pertanto, essa non può imporre sanzioni sulla base del diritto di tale
+Stato membro nei confronti del responsabile del trattamento di tali dati che
+non è stabilito in tale territorio, ma, secondo l’articolo 28, paragrafo 6,
+della medesima direttiva, dovrebbe chiedere all’autorità di controllo dello
+Stato membro del quale si applica legge d’intervenire.  
+  
+---|---  
+|  |
+
+3)
+
+|
+
+La direttiva 95/46 deve essere interpretata nel senso che la nozione di
+«adatfeldolgozás» (elaborazione dei dati), utilizzata nella versione di tale
+direttiva in lingua ungherese, in particolare agli articoli 4, paragrafo 1,
+lettera a), e 28, paragrafo 6, della medesima, deve essere intesa in un
+significato identico a quello del termine «adatkezelés» (trattamento dei
+dati).  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: l’ungherese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

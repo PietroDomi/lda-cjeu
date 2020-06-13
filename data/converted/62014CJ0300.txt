@@ -1,0 +1,1388 @@
+
+
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+17 dicembre 2015 ( * )
+
+«Rinvio pregiudiziale — Cooperazione giudiziaria in materia civile —
+Regolamento (CE) n. 805/2004 — Titolo esecutivo europeo per crediti non
+contestati — Requisiti per la certificazione — Diritti del debitore — Riesame
+della decisione»
+
+Nella causa C‑300/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dallo hof van beroep te Antwerpen (corte
+d’appello di Anversa, Belgio), con decisione del 16 giugno 2014, pervenuta in
+cancelleria il 20 giugno 2014, nel procedimento
+
+Imtech Marine Belgium NV
+
+contro
+
+Radio Hellenic SA,
+
+LA CORTE (Quarta Sezione),
+
+composta da L. Bay Larsen, presidente della Terza Sezione, facente funzione di
+presidente della Quarta Sezione, J. Malenovský, M. Safjan (relatore), A.
+Prechal e K. Jürimäe, giudici,
+
+avvocato generale: P. Cruz Villalón
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il governo belga, da C. Pochet, J.-C. Halleux e L. Van den Broeck, in
+qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo polacco, da B. Majczyna, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo portoghese, da L. Inez Fernandes e E. Pedrosa, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da G. Wils e A.‑M. Rouchaud-Joët, in qualità di
+agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza dell’8
+settembre 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+19, paragrafo 1, del regolamento (CE) n. 805/2004 del Parlamento europeo e del
+Consiglio, del 21 aprile 2004, che istituisce il titolo esecutivo europeo per
+i crediti non contestati (GU L 143, pag. 15).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la Imtech
+Marine Belgium NV (in prosieguo: la «Imtech Marine»), con sede in Belgio, e la
+Radio Hellenic SA (in prosieguo: la «Radio Hellenic»), con sede in Grecia,
+relativamente alla domanda, presentata da quest’ultima, di certificazione come
+titolo esecutivo europeo, ai sensi del regolamento n. 805/2004, di una
+sentenza pronunciata in contumacia vertente su un credito e accompagnata da
+una clausola penale e da interessi moratori.  
+  
+---|---  
+  
+Contesto normativo
+
+Diritto dell’Unione
+
+Il regolamento (CE) n. 44/2001
+
+3
+
+|
+
+L’articolo 34, punto 2, del regolamento (CE) n. 44/2001 del Consiglio, del 22
+dicembre 2000, concernente la competenza giurisdizionale, il riconoscimento e
+l’esecuzione delle decisioni in materia civile e commerciale (GU 2001, L 12,
+pag. 1), prevede che le decisioni non sono riconosciute «se la domanda
+giudiziale od un atto equivalente non è stato notificato o comunicato al
+convenuto contumace in tempo utile e in modo tale da poter presentare le
+proprie difese eccetto qualora, pur avendone avuto la possibilità, egli non
+abbia impugnato la decisione».  
+  
+---|---  
+  
+Il regolamento n. 805/2004
+
+4
+
+|
+
+Ai sensi dei considerando da 10 a 14, 18 e 19 del regolamento n. 805/2004:
+
+|
+
+«(10)
+
+|
+
+Nel caso di una decisione relativa a un credito non contestato resa in uno
+Stato membro nei confronti di un debitore contumace, la soppressione di
+qualsiasi controllo nello Stato membro dell’esecuzione è intrinsecamente
+legata e subordinata all’esistenza di garanzie sufficienti del rispetto dei
+diritti della difesa.  
+  
+---|---  
+  
+(11)
+
+|
+
+Il presente regolamento mira a promuovere i diritti fondamentali e tiene conto
+dei principi sanciti in particolare dalla Carta dei diritti fondamentali
+dell’Unione europea [in prosieguo: la “Carta”]. Intende garantire in
+particolare il pieno rispetto del diritto a un processo equo, in linea con
+l’articolo 47 della Carta.  
+  
+---|---  
+  
+(12)
+
+|
+
+Dovrebbero pertanto essere fissate norme procedurali minime per i procedimenti
+giudiziari che sfociano nella decisione, per garantire che il debitore abbia
+conoscenza in tempo utile ed in modo tale da potersi difendere, da una parte,
+dell’esistenza dell’azione giudiziaria promossa nei suoi confronti, nonché
+degli adempimenti necessari per poter partecipare attivamente al procedimento
+al fine di contestare il credito e, dall’altra, delle conseguenze della sua
+mancata partecipazione.  
+  
+---|---  
+  
+(13)
+
+|
+
+Di fronte alle diversità che esistono tra gli Stati membri relativamente alle
+norme di procedura civile, e in particolare quelle relative alla notificazione
+di documenti, è necessario che tali norme minime siano definite in modo
+specifico e dettagliato. In particolare, qualsiasi forma di notificazione
+basata su una fictio iuris in ordine all’osservanza di tali norme minime non
+può essere considerata sufficiente al fine della certificazione di una
+decisione come titolo esecutivo europeo.  
+  
+---|---  
+  
+(14)
+
+|
+
+Tutti i metodi di notificazione elencati agli articoli 13 e 14 sono
+caratterizzati sia dall’assoluta certezza (articolo 13), sia da un grado assai
+elevato di verosimiglianza (articolo 14) che il documento notificato è
+pervenuto al destinatario. Nella seconda ipotesi, una decisione giudiziaria
+dovrebbe essere certificata come titolo esecutivo europeo soltanto se lo Stato
+membro d’origine dispone di un meccanismo appropriato che consenta al debitore
+di chiedere il riesame completo della decisione giudiziaria alle condizioni
+stabilite all’articolo 19, nei casi eccezionali in cui, malgrado l’osservanza
+dell’articolo 14, il documento non sia pervenuto al destinatario.  
+  
+---|---  
+  
+(…)
+
+(18)
+
+|
+
+La reciproca fiducia nell’amministrazione della giustizia negli Stati membri
+giustifica che la sussistenza dei requisiti richiesti per il rilascio del
+certificato di titolo esecutivo europeo sia accertata dal giudice di uno Stato
+membro al fine di rendere la decisione esecutiva in tutti gli altri Stati
+membri senza che sia necessario il controllo giurisdizionale della corretta
+applicazione delle norme minime procedurali nello Stato membro
+dell’esecuzione.  
+  
+---|---  
+  
+(19)
+
+|
+
+Il presente regolamento non comporta un obbligo per gli Stati membri di
+adeguare gli ordinamenti nazionali alle norme minime procedurali. Esso offre
+un incentivo in tal senso, agevolando l’accesso a una più efficiente e rapida
+esecuzione delle decisioni giudiziarie in un altro Stato membro solo a
+condizione che siano rispettate tali norme minime».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 6 di tale regolamento, rubricato «Requisiti per la certificazione
+come titolo esecutivo europeo», prevede al paragrafo 1 quanto segue:
+
+«Una decisione giudiziaria relativa ad un credito non contestato pronunciata
+in uno Stato membro è certificata, su istanza presentata in qualunque momento
+al giudice di origine, come titolo esecutivo europeo se:
+
+|
+
+a)
+
+|
+
+la decisione è esecutiva nello Stato membro d’origine, e  
+  
+---|---  
+  
+b)
+
+|
+
+la decisione non è in conflitto con le norme in materia di competenza
+giurisdizionale di cui al capo II, sezioni 3 e 6, del regolamento (CE) n.
+44/2001, e  
+  
+---|---  
+  
+c)
+
+|
+
+il procedimento giudiziario svoltosi nello Stato membro d’origine è conforme
+ai requisiti di cui al capo III, allorché un credito è considerato non
+contestato ai sensi dell’articolo 3, paragrafo 1, lettere b) o c), e  
+  
+---|---  
+  
+d)
+
+|
+
+la decisione giudiziaria è pronunciata nello Stato membro del domicilio del
+debitore ai sensi dell’articolo 59 del regolamento (CE) n. 44/2001, allorché:
+
+|
+
+—
+
+|
+
+un credito sia considerato non contestato ai sensi dell’articolo 3, paragrafo
+1, lettere b) o c) del presente regolamento, e  
+  
+---|---  
+  
+—
+
+|
+
+si riferisca ad un contratto concluso da una persona, il consumatore, per una
+finalità che può essere considerata estranea al suo mestiere o alla sua
+professione, e  
+  
+---|---  
+  
+—
+
+|
+
+il debitore sia il consumatore».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 9 del regolamento n. 805/2004, rubricato «Rilascio del certificato
+di titolo esecutivo europeo», è così formulato:
+
+«1. Il certificato di titolo esecutivo europeo è rilasciato utilizzando il
+modello contenuto nell’allegato I.
+
+2\. Il certificato di titolo esecutivo europeo è compilato nella lingua della
+decisione giudiziaria».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 10 del regolamento n. 805/2004, rubricato «Rettifica o revoca del
+certificato di titolo esecutivo europeo», enuncia quanto segue:
+
+«1. Il certificato di titolo esecutivo europeo, su istanza presentata al
+giudice d’origine, viene
+
+|
+
+a)
+
+|
+
+rettificato se, a causa di un errore materiale, vi è divergenza tra la
+decisione giudiziaria e il certificato;  
+  
+---|---  
+  
+b)
+
+|
+
+revocato se risulta manifestamente concesso per errore, tenuto conto dei
+requisiti stabiliti nel presente regolamento.  
+  
+---|---  
+  
+2\. La legislazione dello Stato membro d’origine si applica alla rettifica e
+alla revoca del certificato di titolo esecutivo europeo.
+
+3\. Una richiesta di rettifica o revoca di un certificato di titolo esecutivo
+europeo può essere presentata utilizzando il modello di cui all’allegato VI.
+
+4\. Il rilascio di un certificato di titolo esecutivo europeo non è soggetto
+ad alcun mezzo di impugnazione».  
+  
+8
+
+|
+
+L’articolo 13 di detto regolamento, rubricato «Notifica con prova di
+ricevimento da parte del convenuto», prevede quanto segue:
+
+«1. La domanda giudiziale o un atto equivalente può essere stato notificato al
+debitore secondo una delle seguenti forme:
+
+|
+
+a)
+
+|
+
+notificazione in mani proprie, attestata da una dichiarazione di ricevimento
+datata e sottoscritta dal debitore;  
+  
+---|---  
+  
+b)
+
+|
+
+notificazione in mani proprie, attestata da un documento firmato dalla persona
+competente che ha provveduto alla notificazione, in cui si dichiara che il
+debitore ha ricevuto il documento o ha rifiutato di riceverlo senza alcuna
+giustificazione legale e con l’indicazione della data della notificazione;  
+  
+---|---  
+  
+c)
+
+|
+
+notificazione a mezzo posta, attestata da una dichiarazione di ricevimento
+datata, sottoscritta e rinviata dal debitore;  
+  
+---|---  
+  
+d)
+
+|
+
+notificazione con mezzi elettronici, in particolare mediante telecopia o posta
+elettronica, attestata da una dichiarazione di ricevimento datata,
+sottoscritta e rinviata dal debitore.  
+  
+---|---  
+  
+2\. Qualsiasi citazione a comparire in udienza può essere stata notificata al
+debitore in conformità del paragrafo 1 o oralmente in una precedente udienza
+riguardante lo stesso credito e iscritta nel processo verbale di detta
+udienza».  
+  
+9
+
+|
+
+Ai sensi dell’articolo 14 del regolamento n. 805/2004, rubricato «Notifica
+senza prova di ricevimento da parte del debitore»:
+
+«1. La notificazione della domanda giudiziale o dell’atto equivalente e delle
+citazioni a comparire in udienza al debitore può anche essere stata effettuata
+secondo una delle seguenti forme:
+
+|
+
+a)
+
+|
+
+notificazione a mani proprie, presso l’indirizzo personale del debitore, a
+persona con esso convivente o che lavori come dipendente nell’abitazione del
+debitore;  
+  
+---|---  
+  
+b)
+
+|
+
+se il debitore è un lavoratore autonomo, o una persona giuridica,
+notificazione in mani proprie nei suoi “locali commerciali” a una persona alle
+dipendenze del debitore;  
+  
+---|---  
+  
+c)
+
+|
+
+deposito del documento nella cassetta delle lettere del debitore;  
+  
+---|---  
+  
+d)
+
+|
+
+deposito del documento presso un ufficio postale o un’autorità pubblica
+competente e relativa comunicazione scritta depositata nella cassetta delle
+lettere del debitore, purché dalla comunicazione scritta risulti chiaramente
+la natura giudiziaria del documento o il fatto che tale comunicazione ha
+l’efficacia legale della notificazione e che determina la decorrenza dei
+termini ai fini del calcolo della loro scadenza;  
+  
+---|---  
+  
+e)
+
+|
+
+notificazione a mezzo posta senza avviso di ricevimento conformemente al
+paragrafo 3, laddove il debitore è domiciliato nello Stato membro di origine;  
+  
+---|---  
+  
+f)
+
+|
+
+notificazione con mezzi elettronici attestata da conferma automatica della
+trasmissione, a condizione che il debitore abbia preventivamente accettato in
+modo esplicito questo metodo di notificazione.  
+  
+---|---  
+  
+2\. Ai fini del presente regolamento la notificazione di cui al paragrafo 1
+non è ammissibile se l’indirizzo del debitore non è conosciuto con certezza.
+
+3\. La notificazione, ai sensi del paragrafo 1, lettere da a) a d), è
+attestata da:
+
+a)
+
+|
+
+un documento, sottoscritto dalla persona competente che ha provveduto alla
+notificazione, che certifica quanto segue:
+
+|
+
+i)
+
+|
+
+la forma di notificazione;  
+  
+---|---  
+  
+ii)
+
+|
+
+la data in cui è stata effettuata;  
+  
+---|---  
+  
+iii)
+
+|
+
+se la notificazione è stata effettuata a persona diversa dal debitore, il nome
+di questa persona e il suo legame con il debitore stesso,
+
+o  
+  
+---|---  
+  
+b)
+
+|
+
+una dichiarazione di ricevimento sottoscritta dalla persona cui è stata
+effettuata la notifica, ai fini del paragrafo 1, lettere a) e b)».  
+  
+---|---  
+  
+10
+
+|
+
+L’articolo 19 del medesimo regolamento, rubricato «Norme minime per il riesame
+in casi eccezionali», è redatto nel modo seguente:
+
+«1. Oltre ai requisiti di cui agli articoli da 13 a 18, una decisione
+giudiziaria può essere certificata come titolo esecutivo europeo solo se il
+debitore, conformemente alla legislazione dello Stato membro di origine, è
+legittimato a chiedere il riesame della decisione nel caso in cui:
+
+|
+
+a)
+
+|
+
+i) la domanda giudiziale o un atto equivalente o, se del caso, le citazioni a
+comparire in udienza siano stati notificati secondo una delle forme previste
+all’articolo 14, e
+
+|
+
+ii)
+
+|
+
+la notificazione non sia stata effettuata in tempo utile a consentirgli di
+presentare le proprie difese, per ragioni a lui non imputabili,
+
+o  
+  
+---|---  
+  
+b)
+
+|
+
+il debitore non abbia avuto la possibilità di contestare il credito a causa di
+situazioni di forza maggiore o di circostanze eccezionali per ragioni a lui
+non imputabili,
+
+purché in entrambi i casi agisca tempestivamente.  
+  
+---|---  
+  
+2\. Il presente articolo non pregiudica la possibilità per gli Stati membri di
+consentire l’accesso al riesame di una decisione giudiziaria a condizioni più
+vantaggiose di quelle indicate al paragrafo 1».  
+  
+11
+
+|
+
+L’articolo 21 del regolamento n. 805/2004, rubricato «Rifiuto
+dell’esecuzione», così dispone:
+
+«1. Su richiesta del debitore l’esecuzione è rifiutata dal giudice competente
+dello Stato membro dell’esecuzione se la decisione giudiziaria certificata
+come titolo esecutivo europeo è incompatibile con una decisione anteriore
+pronunciata in uno Stato membro o in un paese terzo, a condizione che:
+
+|
+
+a)
+
+|
+
+la decisione anteriore riguardi una causa avente lo stesso oggetto e le stesse
+parti, e  
+  
+---|---  
+  
+b)
+
+|
+
+la decisione anteriore sia stata pronunciata nello Stato membro
+dell’esecuzione o soddisfi le condizioni necessarie per il suo riconoscimento
+nello Stato membro dell’esecuzione, e  
+  
+---|---  
+  
+c)
+
+|
+
+il debitore non abbia fatto valere e non abbia avuto la possibilità di far
+valere l’incompatibilità nel procedimento svoltosi nello Stato membro
+d’origine.  
+  
+---|---  
+  
+2\. In nessun caso la decisione o la sua certificazione come titolo esecutivo
+europeo può formare oggetto di un riesame del merito nello Stato membro
+dell’esecuzione».  
+  
+12
+
+|
+
+Ai sensi dell’articolo 30 di detto regolamento, rubricato «Informazioni
+relative ai rimedi giuridici, alle lingue ed alle autorità»:
+
+«1. Gli Stati membri comunicano alla Commissione:
+
+|
+
+a)
+
+|
+
+la procedura di rettifica e di revoca di cui all’articolo 10, paragrafo 2, e
+di riesame di cui all’articolo 19, paragrafo 1;  
+  
+---|---  
+  
+(…)».  
+  
+Diritto belga
+
+13
+
+|
+
+Ai sensi dell’articolo 50 del code judiciaire (codice di procedura civile):
+
+«I termini di decadenza non possono essere abbreviati né prorogati, nemmeno
+con il consenso delle parti, tranne nei casi e alle condizioni previsti dalla
+legge.
+
+Tuttavia, se il termine per l’appello o l’opposizione previsto agli articoli
+1048, 1051 e 1253 quater, lettere c) e d), decorre e scade nel periodo delle
+ferie giudiziarie, è prorogato fino al quindicesimo giorno dell’anno
+giudiziario seguente».  
+  
+---|---  
+  
+14
+
+|
+
+L’articolo 55 di tale codice così dispone:
+
+«Quando la legge prevede la proroga dei termini concessi alla parte che non ha
+domicilio, residenza o domicilio eletto in Belgio, tale proroga è di:
+
+|
+
+1o
+
+|
+
+quindici giorni, se la parte risiede in un paese limitrofo o nel Regno Unito
+di Gran Bretagna [e d’Irlanda del Nord];  
+  
+---|---  
+  
+2°
+
+|
+
+trenta giorni, se risiede in un altro paese europeo;  
+  
+---|---  
+  
+3°
+
+|
+
+ottanta giorni, se la parte risiede in un’altra parte del mondo».  
+  
+---|---  
+  
+15
+
+|
+
+L’articolo 860 di detto codice è così formulato:
+
+«Indipendentemente dalla formalità omessa o non correttamente osservata,
+nessun atto processuale può essere dichiarato nullo se la nullità non è
+espressamente prevista dalla legge.
+
+I termini previsti per presentare un ricorso sono stabiliti a pena di
+decadenza.
+
+Gli altri termini sono stabiliti a pena di decadenza solo se così prevede la
+legge».  
+  
+---|---  
+  
+16
+
+|
+
+Ai sensi dell’articolo 1047 del medesimo codice:
+
+«Qualsiasi decisione giudiziaria in contumacia può essere soggetta a
+opposizione, fatte salve le deroghe previste dalla legge.
+
+(…)».  
+  
+---|---  
+  
+17
+
+|
+
+L’articolo 1048 del codice di procedura civile prevede quanto segue:
+
+«Fatti salvi i termini previsti da disposizioni sovranazionali o
+internazionali, il termine di opposizione è di un mese dalla notifica della
+decisione giudiziaria o dalla comunicazione ai sensi dell’articolo 792,
+secondo e terzo comma.
+
+Se la parte contumace non ha domicilio, residenza o domicilio eletto in
+Belgio, il termine di opposizione è prorogato conformemente all’articolo 55».  
+  
+---|---  
+  
+18
+
+|
+
+L’articolo 1051 del codice di procedura civile dispone quanto segue:
+
+«Fatti salvi i termini previsti da disposizioni sovranazionali o
+internazionali, il termine per proporre appello è di un mese dalla notifica
+della decisione giudiziaria o dalla comunicazione ai sensi dell’articolo 792,
+secondo e terzo comma.
+
+Detto termine decorre dalla data di notifica della decisione giudiziaria anche
+per la parte che ha chiesto la notifica.
+
+Se una delle parti alla quale, o su domanda della quale, la decisione
+giudiziaria è stata notificata non ha domicilio, residenza o domicilio eletto
+in Belgio, il termine di appello è aumentato conformemente all’articolo 55.
+
+(…)».  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+19
+
+|
+
+La Imtech Marine ha effettuato diverse prestazioni a favore della Radio
+Hellenic per le quali quest’ultima le era debitrice di una somma pari a EUR
+23506,99. Secondo le condizioni generali della Imtech Marine, in caso di
+mancato pagamento sono dovuti una clausola penale del 10% e interessi di mora
+pari a un tasso annuo del 12%.  
+  
+---|---  
+  
+20
+
+|
+
+Nonostante diverse intimazioni, la Radio Hellenic non ha adempiuto i suoi
+obblighi di pagamento.  
+  
+---|---  
+  
+21
+
+|
+
+Con atto di citazione notificato il 25 marzo 2013, la Imtech Marine ha chiesto
+al rechtbank van koophandel te Antwerpen (tribunale commerciale di Anversa) di
+condannare la Radio Hellenic al pagamento delle somme dovute e che la sentenza
+comportante tale condanna fosse certificata come titolo esecutivo europeo
+sulla base del regolamento n. 805/2004. Con sentenza del 5 giugno 2013, detto
+giudice ha dichiarato tale domanda ricevibile e parzialmente fondata. La Radio
+Hellenic è stata condannata in contumacia al pagamento della somma pari a EUR
+23506,99, aumentata della clausola penale del 10% e degli interessi di mora.
+Tuttavia, detto giudice ha ritenuto di non poter certificare tale sentenza
+come titolo esecutivo europeo in mancanza di una normativa nazionale adeguata.  
+  
+---|---  
+  
+22
+
+|
+
+Il 3 settembre 2013, la Imtech Marine ha proposto appello avverso detta
+sentenza dinanzi al giudice del rinvio. Nel suo ricorso, essa chiede che la
+sentenza che sarà emanata sia certificata come titolo esecutivo europeo ai
+sensi del regolamento n. 805/2004.  
+  
+---|---  
+  
+23
+
+|
+
+Il giudice del rinvio rileva che la questione se il diritto belga sia conforme
+o meno ai requisiti dell’articolo 19 del regolamento n. 805/2004 si presta
+effettivamente a discussione, così come le attribuzioni rispettive del giudice
+e del cancelliere per quanto riguarda la certificazione di una sentenza come
+titolo esecutivo europeo. L’inerzia del legislatore nazionale creerebbe
+un’incertezza giuridica per il singolo. Nonostante l’efficacia diretta di
+detto regolamento, i tribunali belgi sarebbero piuttosto restii a tali
+certificazioni.  
+  
+---|---  
+  
+24
+
+|
+
+In particolare, il giudice del rinvio rileva che, per quanto riguarda la
+procedura di riesame di cui all’articolo 19, paragrafo 1, del regolamento n.
+805/2004, il termine di ricorso avverso una decisione pronunciata in
+contumacia può scadere, nel diritto belga, prima che il debitore sia stato
+posto in grado di proporre ricorso.  
+  
+---|---  
+  
+25
+
+|
+
+Date tali circostanze, lo hof van beroep te Antwerpen (corte d’appello di
+Anversa) ha deciso di sospendere il processo e di sottoporre alla Corte le
+questioni pregiudiziali seguenti:
+
+|
+
+«1)
+
+|
+
+Se la mancata applicazione diretta del regolamento n. 805/2004 costituisca una
+violazione dell’articolo 288 TFUE in quanto:
+
+|
+
+a)
+
+|
+
+il legislatore belga ha omesso di trasporre tale regolamento nel diritto
+nazionale e  
+  
+---|---  
+  
+b)
+
+|
+
+il legislatore belga ha omesso – nonostante la normativa belga preveda
+l’opposizione e l’appello – di prevedere una procedura di riesame.  
+  
+---|---  
+  
+2)
+
+|
+
+In caso di risposta negativa, considerato che un regolamento ha efficacia
+diretta, cosa si intenda per “riesame di una decisione” di cui all’articolo
+19, paragrafo 1, del regolamento n. 805/2004. Se occorra prevedere una
+procedura di riesame solo se la notifica di una citazione/di una domanda
+giudiziale è avvenuta con una delle modalità previste dall’articolo 14 di tale
+regolamento, in altri termini: senza prova di ricevimento. Se la normativa
+belga, mediante l’opposizione, di cui agli articoli 1047 e seguenti del codice
+di procedura civile belga, e l’appello, di cui agli articoli 1050 e seguenti
+del medesimo codice, non offra adeguate garanzie per soddisfare i criteri
+della procedura di “riesame” prevista all’articolo 19, paragrafo 1, di detto
+regolamento.  
+  
+---|---  
+  
+3)
+
+|
+
+Se l’articolo 50 del codice di procedura civile belga, che consente di
+prorogare i termini di decadenza di cui agli articoli 860, secondo comma, 55 e
+1048 del medesimo codice, in caso di forza maggiore o per circostanze
+eccezionali per ragioni non imputabili all’interessato, offra una tutela
+adeguata, ai sensi dell’articolo 19, paragrafo 1, lettera b), del regolamento
+n. 805/2004.  
+  
+---|---  
+  
+4)
+
+|
+
+Se la certificazione in quanto titolo esecutivo europeo per crediti non
+contestati sia un provvedimento giurisdizionale che deve essere richiesto
+nella domanda giudiziale. In caso di risposta affermativa, se il giudice debba
+certificare la decisione come titolo esecutivo europeo e il cancelliere debba
+fornire la prova della certificazione.
+
+In caso di risposta negativa, se possa essere compito di un cancelliere
+certificare la decisione come titolo esecutivo europeo.  
+  
+---|---  
+  
+5)
+
+|
+
+Nel caso in cui la certificazione come titolo esecutivo europeo non
+costituisca un provvedimento giurisdizionale, se il ricorrente – che non abbia
+chiesto nella domanda giudiziale un titolo esecutivo europeo – possa chiedere
+al cancelliere successivamente, dopo il passaggio in giudicato della sentenza,
+di certificare tale sentenza come titolo esecutivo europeo».  
+  
+---|---  
+  
+26
+
+|
+
+Il 7 agosto 2014 è stata inviata una richiesta di informazioni al giudice del
+rinvio, alla quale quest’ultimo ha risposto il 16 ottobre 2014.  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla prima questione
+
+27
+
+|
+
+Con la sua prima questione, il giudice del rinvio chiede sostanzialmente se
+l’articolo 19 del regolamento n. 805/2004, letto alla luce dell’articolo 288
+TFUE, debba essere interpretato nel senso che comporta un obbligo per gli
+Stati membri di prevedere, nel diritto nazionale, una procedura di riesame
+quale quella di cui al suddetto articolo 19.  
+  
+---|---  
+  
+28
+
+|
+
+L’articolo 19 di detto regolamento dispone che una decisione può essere
+certificata come titolo esecutivo europeo solo se il debitore è legittimato,
+conformemente alla legislazione dello Stato membro di origine, a chiedere il
+riesame della decisione di cui trattasi. Orbene, secondo il considerando 19
+del regolamento n. 805/2004, quest’ultimo non comporta un obbligo per gli
+Stati membri di adeguare gli ordinamenti nazionali alle norme minime
+procedurali dallo stesso sancite né, pertanto, comporta un obbligo di
+prevedere una procedura specifica di riesame ai sensi di detto articolo 19.  
+  
+---|---  
+  
+29
+
+|
+
+L’unica conseguenza della mancanza di una procedura di riesame è, così come
+previsto dal medesimo articolo 19 del regolamento n. 805/2004, l’impossibilità
+di certificare una decisione giudiziaria come titolo esecutivo europeo alle
+condizioni che quest’ultimo prevede.  
+  
+---|---  
+  
+30
+
+|
+
+Date tali circostanze e indipendentemente dall’obbligo di notificare alla
+Commissione, in forza dell’articolo 30, paragrafo 1, lettera a), di detto
+regolamento, una procedura di riesame eventualmente esistente nel diritto
+nazionale, uno Stato membro che, conformemente alle disposizioni del medesimo
+regolamento, sceglie di non adattare la propria legislazione, non viola
+l’articolo 288 TFUE.  
+  
+---|---  
+  
+31
+
+|
+
+Si deve pertanto rispondere alla prima questione dichiarando che l’articolo 19
+del regolamento n. 805/2004, letto alla luce dell’articolo 288 TFUE, deve
+essere interpretato nel senso che esso non comporta un obbligo per gli Stati
+membri di prevedere nel diritto interno una procedura di riesame quale quella
+di cui al suddetto articolo 19.  
+  
+---|---  
+  
+Sulle questioni seconda e terza
+
+32
+
+|
+
+Con la seconda e la terza questione, che occorre esaminare congiuntamente, il
+giudice del rinvio chiede sostanzialmente a quali condizioni l’articolo 19,
+paragrafo 1, del regolamento n. 805/2004 sottoponga la certificazione come
+titolo esecutivo europeo di una decisione pronunciata in contumacia.  
+  
+---|---  
+  
+33
+
+|
+
+L’articolo 19, paragrafo 1, del regolamento n. 805/2004 prevede che, nelle
+ipotesi di cui al paragrafo 1, lettere a) e b), di tale articolo, una
+decisione giudiziaria può essere certificata come titolo esecutivo europeo
+soltanto se il debitore, conformemente alla legislazione dello Stato membro di
+origine, è legittimato a chiedere il riesame della decisione.  
+  
+---|---  
+  
+34
+
+|
+
+L’ipotesi prevista dall’articolo 19, paragrafo 1, lettera a), del regolamento
+n. 805/2004 è quella in cui la domanda giudiziale o un atto equivalente sono
+stati notificati al debitore sulla base di una delle modalità previste
+dall’articolo 14 di tale regolamento e la notificazione non è stata tuttavia
+effettuata in tempo utile per consentirgli di presentare le proprie difese,
+per ragioni a lui non imputabili.  
+  
+---|---  
+  
+35
+
+|
+
+Rientra nell’articolo 19, paragrafo 1, lettera b), del regolamento n. 805/2004
+l’ipotesi in cui il debitore non abbia avuto la possibilità di contestare il
+credito a causa di situazioni di forza maggiore o di circostanze eccezionali
+per ragioni a lui non imputabili. Tale ipotesi può anche riguardare una
+situazione in cui l’impedimento perduri nella fase durante la quale il termine
+per presentare ricorso avverso la decisione di cui trattasi non è ancora
+scaduto.  
+  
+---|---  
+  
+36
+
+|
+
+Se è vero che gli Stati membri possono avere previsto, nel diritto interno,
+una procedura di riesame delle decisioni specifiche per le ipotesi di cui
+all’articolo 19, paragrafo 1, lettere a) e b), del regolamento n. 805/2004,
+non è altresì escluso che le procedure che esistevano, in uno Stato membro,
+prima dell’entrata in vigore di tale regolamento consentano al debitore di
+chiedere un tale riesame. Fatto salvo l’obbligo per gli Stati membri di
+notificare alla Commissione, conformemente all’articolo 30, paragrafo 1,
+lettera a), di detto regolamento, le procedure di cui trattasi, la
+vincolatività, in forza dell’articolo 288 TFUE, di tutti gli elementi di tale
+medesimo regolamento, comporta l’obbligo per il giudice investito di una
+domanda di certificazione di esaminare se la condizione prevista a tal
+riguardo dall’articolo 19, paragrafo 1, del medesimo regolamento sia
+soddisfatta, ossia se, in dette ipotesi, il diritto interno consenta
+effettivamente e senza eccezioni di chiedere il riesame della decisione in
+parola.  
+  
+---|---  
+  
+37
+
+|
+
+Come rilevato dall’avvocato generale al paragrafo 24 delle sue conclusioni,
+può trattarsi di mezzi di ricorso che rispettino sufficientemente i diritti
+della difesa del debitore e il diritto a un processo equo di cui ai
+considerando 10 e 11 del regolamento n. 805/2004, dal momento che il diritto
+dell’Unione non disciplina la procedura di riesame e il regolamento n.
+805/2004 rinvia espressamente alla legislazione dello Stato membro d’origine.  
+  
+---|---  
+  
+38
+
+|
+
+Orbene, al fine di rispettare i diritti della difesa del debitore e il diritto
+a un processo equo garantiti dall’articolo 47, paragrafo 2, della Carta, si
+deve esigere che, per costituire una procedura di riesame ai sensi
+dell’articolo 19, paragrafo 1, del regolamento n. 805/2004, interpretato alla
+luce del considerando 14 di quest’ultimo, i mezzi di ricorso di cui trattasi
+devono consentire, in primo luogo, un riesame completo della decisione in
+fatto e in diritto.  
+  
+---|---  
+  
+39
+
+|
+
+In secondo luogo, detti mezzi di ricorso devono consentire al debitore che
+invoca una delle ipotesi previste dall’articolo 19, paragrafo 1, lettere a) e
+b), di tale regolamento, di chiedere un tale riesame oltre i termini ordinari
+previsti dal diritto nazionale per proporre opposizione o appello della
+decisione giudiziaria. Questo vale, segnatamente, se il diritto nazionale
+prevede la possibilità di prorogare tali termini, in modo che essi decorrano
+nuovamente non prima del giorno in cui il debitore ha effettivamente avuto la
+possibilità di prendere conoscenza del contenuto della decisione o di proporre
+un ricorso.  
+  
+---|---  
+  
+40
+
+|
+
+Al fine di soddisfare, specificamente, i requisiti dell’articolo 19, paragrafo
+1, lettera b), del regolamento n. 805/2004, il diritto interno deve consentire
+una tale proroga dei termini di ricorso sia in caso di forza maggiore sia in
+presenza di circostanze straordinarie per ragioni non imputabili al debitore e
+in assenza di colpa a lui imputabile, dato che tale disposizione opera una
+distinzione tra le due nozioni.  
+  
+---|---  
+  
+41
+
+|
+
+Le informazioni fornite dal giudice del rinvio indicano che l’ordinamento
+giuridico belga prevede principalmente due mezzi di ricorso per contestare una
+decisione in una causa come quella di cui al procedimento principale, ossia
+l’opposizione, concepita specificamente per contestare le sentenze pronunciate
+in contumacia, prevista dagli articoli 1047 e seguenti del codice di procedura
+civile, e l’appello, previsto dagli articoli 1050 e seguenti del codice di
+procedura civile. Spetta al giudice del rinvio, l’unico competente a
+interpretare tali disposizioni di diritto nazionale, trarre le conseguenze
+dell’interpretazione dall’articolo 19, paragrafo 1, del regolamento n.
+805/2004 fornita ai punti da 38 a 40 della presente sentenza e stabilire se la
+normativa nazionale rispetti le condizioni minime di procedura che tale
+disposizione stabilisce. In un’ipotesi del genere, e purché tutte le altre
+condizioni richieste a tal fine siano rispettate, spetta a tale organo
+giurisdizionale effettuare la certificazione.  
+  
+---|---  
+  
+42
+
+|
+
+Alla luce di quanto precede, si deve rispondere alla seconda e alla terza
+questione pregiudiziale dichiarando che l’articolo 19, paragrafo 1, del
+regolamento n. 805/2004 deve essere interpretato nel senso che, per poter
+certificare come titolo esecutivo europeo una decisione pronunciata in
+contumacia, il giudice investito di una tale domanda deve assicurarsi che il
+suo diritto nazionale consenta, effettivamente e senza eccezioni, un riesame
+completo, in fatto e in diritto, di una tale decisione nelle due ipotesi
+previste da tale disposizione e che esso consenta di prorogare i termini per
+proporre un ricorso avverso una decisione relativa a un credito non
+contestato, non solo unicamente in caso di forza maggiore, ma altresì qualora
+altre circostanze straordinarie, per ragioni non imputabili al debitore,
+abbiano impedito a quest’ultimo la possibilità di contestare il credito in
+questione.  
+  
+---|---  
+  
+Sulle questioni quarta e quinta
+
+43
+
+|
+
+Con la quarta e la quinta questione, che occorre esaminare congiuntamente, il
+giudice del rinvio chiede, sostanzialmente, se l’articolo 6 del regolamento n.
+805/2004 debba essere interpretato nel senso che la certificazione della
+decisione come titolo esecutivo europeo sia un provvedimento di natura
+giurisdizionale, e pertanto riservato al giudice, che deve essere richiesto
+nella domanda giudiziale.  
+  
+---|---  
+  
+44
+
+|
+
+L’articolo 6, paragrafo 1, del regolamento n. 805/2004 dispone che la domanda
+di certificazione, come titolo esecutivo europeo, di una decisione relativa a
+un credito non contestato deve essere presentata all’organo giurisdizionale di
+origine, senza precisare chi, nell’ambito di tale organo, sia competente a
+rilasciare una tale certificazione.  
+  
+---|---  
+  
+45
+
+|
+
+Ciò premesso, tenuto conto dell’impianto sistematico del regolamento n.
+805/2004, è possibile distinguere tra la certificazione di una decisione come
+titolo esecutivo europeo propriamente detta e l’atto formale di rilascio del
+certificato che è previsto all’articolo 9 di detto regolamento. Come rilevato
+dall’avvocato generale al paragrafo 52 delle sue conclusioni, tale atto
+formale, dopo che la decisione relativa alla certificazione come titolo
+esecutivo europeo è stata adottata, non è necessariamente un atto che deve
+essere compiuto dal giudice e può quindi essere affidato al cancelliere.  
+  
+---|---  
+  
+46
+
+|
+
+La certificazione propriamente detta, invece, richiede un esame
+giurisdizionale delle condizioni previste dal regolamento n. 805/2004.  
+  
+---|---  
+  
+47
+
+|
+
+Infatti, le qualifiche giuridiche di un giudice sono indispensabili per
+valutare correttamente, in un contesto di incertezza relativamente al rispetto
+delle norme minime volte a garantire il rispetto dei diritti della difesa del
+debitore e del diritto a un processo equo, i mezzi di ricorso interni
+conformemente ai punti da 38 a 40 della presente sentenza. Inoltre, solo un
+organo giurisdizionale ai sensi dell’articolo 267 TFUE potrà assicurare che,
+mediante un rinvio pregiudiziale alla Corte, le norme minime stabilite dal
+regolamento n. 805/2004 siano oggetto di un’interpretazione e di
+un’applicazione uniformi nell’Unione europea.  
+  
+---|---  
+  
+48
+
+|
+
+Quanto alla questione se la certificazione di una decisione di titolo
+esecutivo europeo debba essere chiesta nella domanda giudiziale, l’articolo 6
+del regolamento n. 805/2004 stabilisce che una decisione giudiziaria relativa
+a un credito non contestato pronunciata in uno Stato membro è certificata come
+titolo esecutivo europeo su istanza presentata in qualunque momento all’organo
+giudiziario di origine.  
+  
+---|---  
+  
+49
+
+|
+
+Inoltre, come rilevato dall’avvocato generale al paragrafo 56 delle sue
+conclusioni, non avrebbe senso imporre che la domanda di certificazione sia in
+ogni caso presentata unitamente alla domanda giudiziale poiché in tale fase
+non si può ancora sapere se il credito verrà contestato o meno e, pertanto, se
+la decisione giudiziaria pronunciata al termine di tale procedimento
+soddisferà i requisiti necessari per essere certificata come titolo esecutivo
+europeo.  
+  
+---|---  
+  
+50
+
+|
+
+Alla luce di quanto precede, si deve rispondere alla quarta e alla quinta
+questione dichiarando che l’articolo 6 del regolamento n. 805/2004 deve essere
+interpretato nel senso che la certificazione di una decisione come titolo
+esecutivo europeo, che può essere chiesta in qualunque momento, deve essere
+riservata al giudice.  
+  
+---|---  
+  
+Sulle spese
+
+51
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice del rinvio, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 19 del regolamento (CE) n. 805/2004 del Parlamento europeo e del
+Consiglio, del 21 aprile 2004, che istituisce il titolo esecutivo europeo per
+i crediti non contestati, letto alla luce dell’articolo 288 TFUE, deve essere
+interpretato nel senso che esso non comporta un obbligo per gli Stati membri
+di prevedere nel diritto interno una procedura di riesame quale quella di cui
+al suddetto articolo 19.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 19, paragrafo 1, del regolamento n. 805/2004 deve essere
+interpretato nel senso che, per poter certificare come titolo esecutivo
+europeo una decisione pronunciata in contumacia, il giudice investito di una
+tale domanda deve assicurarsi che il suo diritto nazionale consenta,
+effettivamente e senza eccezioni, un riesame completo, in fatto e in diritto,
+di una tale decisione nelle due ipotesi previste da tale disposizione e che
+esso consenta di prorogare i termini per proporre un ricorso avverso una
+decisione relativa a un credito non contestato, non solo unicamente in caso di
+forza maggiore, ma altresì qualora altre circostanze straordinarie, per
+ragioni non imputabili al debitore, non abbiano dato a quest’ultimo la
+possibilità di contestare il credito in questione.  
+  
+---|---  
+|  |
+
+3)
+
+|
+
+L’articolo 6 del regolamento n. 805/2004 deve essere interpretato nel senso
+che la certificazione di una decisione come titolo esecutivo europeo, che può
+essere chiesta in qualunque momento, deve essere riservata al giudice.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il neerlandese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

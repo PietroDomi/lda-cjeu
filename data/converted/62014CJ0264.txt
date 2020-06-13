@@ -1,0 +1,1037 @@
+
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+22 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Sistema comune d’imposta sul valore aggiunto (IVA) —
+Direttiva 2006/112/CE — Articolo 2, paragrafo 1, lettera c), e articolo 135,
+paragrafo 1, lettere da d) a f) — Servizi a titolo oneroso — Operazioni di
+cambio della valuta virtuale “bitcoin” contro valuta tradizionale — Esenzione»
+
+Nella causa C‑264/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dallo Högsta förvaltningsdomstolen (Corte
+suprema amministrativa, Svezia), con decisione del 27 maggio 2014, pervenuta
+in cancelleria il 2 giugno 2014, nel procedimento
+
+Skatteverket
+
+contro
+
+David Hedqvist,
+
+LA CORTE (Quinta Sezione),
+
+composta da T. von Danwitz, presidente della Quarta Sezione, facente funzione
+di presidente della Quinta Sezione, D. Šváby, A. Rosas (relatore), E. Juhász e
+C. Vajda, giudici,
+
+avvocato generale: J. Kokott
+
+cancelliere: C. Strömholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 17 giugno
+2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per lo Skatteverket, da M. Loeb, in qualità di consigliere giuridico;  
+  
+---|---  
+  
+—
+
+|
+
+per D. Hedqvist, da A. Erasmie, advokat, e F. Berndt, jur. kand.;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo svedese, da A. Falk e E. Karlsson, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo tedesco, da T. Henze e K. Petersen, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo estone, da K. Kraavi-Käerdi, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da L. Lozano Palacios, M. Owsiany-Hornung, K.
+Simonsson e J. Enegren, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 16
+luglio 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 2, paragrafo 1, e 135, paragrafo 1, della direttiva 2006/112/CE del
+Consiglio, del 28 novembre 2006, relativa al sistema comune d’imposta sul
+valore aggiunto (GU L 347, pag. 1; in prosieguo: la «direttiva IVA»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nel contesto di una controversia tra lo
+Skatteverket (amministrazione finanziaria svedese) e il sig. Hedqvist,
+relativa al parere preliminare dato dalla commissione tributaria
+(Skatterättsnämnden) quanto all’assoggettamento all’imposta sul valore
+aggiunto delle operazioni di cambio della valuta virtuale «bitcoin» in una
+valuta tradizionale o viceversa, che il sig. Hedqvist intende effettuare con
+la mediazione di una società.  
+  
+---|---  
+  
+Contesto normativo
+
+Diritto dell’Unione
+
+3
+
+|
+
+A termini dell’articolo 2 della direttiva IVA:
+
+«1. Sono soggette all’IVA le operazioni seguenti:
+
+|
+
+a)
+
+|
+
+le cessioni di beni effettuate a titolo oneroso nel territorio di uno Stato
+membro da un soggetto passivo che agisce in quanto tale;  
+  
+---|---  
+  
+(…)
+
+c)
+
+|
+
+le prestazioni di servizi effettuate a titolo oneroso nel territorio di uno
+Stato membro da un soggetto passivo che agisce in quanto tale;  
+  
+---|---  
+  
+(…)».  
+  
+4
+
+|
+
+L’articolo 14, paragrafo 1, della citata direttiva stabilisce quanto segue:
+
+«Costituisce “cessione di beni” il trasferimento del potere di disporre di un
+bene materiale come proprietario».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 24, paragrafo 1, di detta direttiva così recita:
+
+«Si considera “prestazione di servizi” ogni operazione che non costituisce una
+cessione di beni».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 135 della direttiva IVA così recita:
+
+«1. Gli Stati membri esentano le operazioni seguenti:
+
+(…)
+
+|
+
+d)
+
+|
+
+le operazioni, compresa la negoziazione, relative ai depositi di fondi, ai
+conti correnti, ai pagamenti, ai giroconti, ai crediti, agli assegni e ad
+altri effetti commerciali, ad eccezione del ricupero dei crediti;  
+  
+---|---  
+  
+e)
+
+|
+
+le operazioni, compresa la negoziazione, relative a divise, banconote e monete
+con valore liberatorio, ad eccezione delle monete e dei biglietti da
+collezione ossia monete d’oro, d’argento o di altro metallo e biglietti che
+non sono normalmente utilizzati per il loro valore liberatorio o presentano un
+interesse per i numismatici;  
+  
+---|---  
+  
+f)
+
+|
+
+le operazioni, compresa la negoziazione ma eccettuate la custodia e la
+gestione, relative ad azioni, quote parti di società o associazioni,
+obbligazioni e altri titoli, ad esclusione dei titoli rappresentativi di merci
+e dei diritti o titoli di cui all’articolo 15, paragrafo 2;  
+  
+---|---  
+  
+(…)».  
+  
+Il diritto svedese
+
+7
+
+|
+
+La legge (1994:200), relativa all’imposta sul valore aggiunto
+[mervärdesskattelagen (1994:200); in prosieguo: la «legge sull’IVA»], prevede,
+al capo 1, articolo 1, che l’IVA viene versata allo Stato per le cessioni di
+beni o le prestazioni di servizi soggette all’imposta, effettuate da un
+soggetto passivo che agisce in quanto tale.  
+  
+---|---  
+  
+8
+
+|
+
+Ai sensi dell’articolo 23, paragrafo 1, del capo 3 di questa legge sono esenti
+da IVA le operazioni relative a banconote e monete con valore liberatorio, ad
+eccezione degli oggetti da collezione, ossia monete d’oro, d’argento o di
+altro metallo e biglietti che non sono normalmente utilizzati per il loro
+valore liberatorio o presentano un interesse per i numismatici.  
+  
+---|---  
+  
+9
+
+|
+
+Nello stesso capo 3, l’articolo 9 prevede l’esenzione delle prestazioni di
+servizi bancari e di finanziamento nonché le operazioni di cambio di beni
+mobili e le operazioni analoghe. I servizi bancari e di finanziamento non
+comprendono l’attività notarile, i servizi di riscossione di fatture e i
+servizi amministrativi relativi al factoring o la locazione delle cassette di
+sicurezza.  
+  
+---|---  
+  
+Fatti e questioni pregiudiziali
+
+10
+
+|
+
+Il sig. Hedqvist intende effettuare, con la mediazione di una società, servizi
+consistenti nel cambio di valute tradizionali nella valuta virtuale «bitcoin»
+e viceversa.  
+  
+---|---  
+  
+11
+
+|
+
+Dalla decisione di rinvio risulta che la valuta virtuale «bitcoin» è
+utilizzata principalmente per pagamenti tra privati via internet nonché in
+taluni negozi online che accettano detta valuta. Questa valuta virtuale non ha
+un unico emittente ma viene creata direttamente in una rete tramite uno
+speciale algoritmo. Il sistema della valuta virtuale «bitcoin» consente la
+detenzione e la cessione anonime di valori in «bitcoin» all’interno della rete
+da parte di utenti che hanno indirizzi «bitcoin». Un indirizzo «bitcoin»
+potrebbe essere comparato a un numero di conto corrente bancario.  
+  
+---|---  
+  
+12
+
+|
+
+Richiamando una relazione del 2012 della Banca centrale europea sulle valute
+virtuali, il giudice del rinvio indica che una valuta virtuale può essere
+definita come un tipo di moneta digitale, non regolamentata, emessa e
+controllata dai suoi sviluppatori e utilizzata ed accettata tra i membri di
+una specifica comunità virtuale. La valuta virtuale «bitcoin» fa parte delle
+valute virtuali «a flusso bidirezionale», che gli utenti possono acquistare e
+vendere in base ai tassi di cambio. Tali valute virtuali sono simili ad ogni
+altra valuta convertibile per quanto riguarda il loro uso nel mondo reale.
+Esse consentono l’acquisto di beni e servizi sia reali che virtuali. Le valute
+virtuali sono diverse dalla moneta elettronica, come definita nella direttiva
+2009/110/CE del Parlamento europeo e del Consiglio, del 16 settembre 2009,
+concernente l’avvio, l’esercizio e la vigilanza prudenziale dell’attività
+degli istituti di moneta elettronica, che modifica le direttive 2005/60/CE e
+2006/48/CE e che abroga la direttiva 2000/46/CE (GU L 267, pag. 7), in quanto,
+a differenza da tale moneta, nel caso delle valute virtuali i fondi non sono
+espressi nell’unità di calcolo tradizionale, ad esempio in euro, ma nell’unità
+di calcolo virtuale, ad esempio il «bitcoin».  
+  
+---|---  
+  
+13
+
+|
+
+Il giudice del rinvio indica che le operazioni che il sig. Hedqvist intende
+realizzare saranno effettuate per via elettronica, mediante il sito internet
+della sua società. Tale società acquisterà unità della valuta virtuale
+«bitcoin» direttamente da privati e società o da una piattaforma di cambio
+internazionale. Tali unità saranno poi vendute da detta società su detta
+piattaforma di cambio o saranno depositate in uno spazio di archiviazione. La
+società del sig. Hedqvist venderà dette unità anche a privati e società che
+effettuano ordini sul suo sito internet. Nell’ipotesi in cui il cliente abbia
+accettato il prezzo in corone svedesi proposto dalla società del sig. Hedqvist
+e il pagamento sia stato ricevuto, le unità della valuta virtuale «bitcoin»
+vendute saranno inviate automaticamente all’indirizzo «bitcoin» dichiarato. Le
+unità della valuta virtuale «bitcoin» vendute da tale società saranno quelle
+che la società acquisterà direttamente dalla piattaforma di cambio dopo che il
+cliente avrà effettuato un ordine o quelle che la società avrà già a
+disposizione. Il prezzo proposto dalla società ai clienti sarà determinato in
+funzione del prezzo attuale di una particolare piattaforma di cambio con
+l’aggiunta di una determinata percentuale di ricarico. La differenza tra il
+prezzo di acquisto della società e il prezzo di vendita costituirà il guadagno
+della società del sig. Hedqvist. La società non fatturerà altre spese.  
+  
+---|---  
+  
+14
+
+|
+
+Le operazioni che il sig. Hedqvist intende effettuare si limiterebbero
+pertanto all’acquisto e alla vendita di unità della valuta virtuale «bitcoin»
+in cambio di valute tradizionali quali la corona svedese, o viceversa. Dalla
+decisione di rinvio non risulta che esse verterebbero su pagamenti in
+«bitcoin».  
+  
+---|---  
+  
+15
+
+|
+
+Prima di iniziare ad avviare tali operazioni, il sig. Hedqvist richiedeva un
+parere preliminare alla commissione tributaria svedese per sapere se doveva
+essere versata l’IVA all’acquisto e alla vendita della valuta virtuale
+«bitcoin».  
+  
+---|---  
+  
+16
+
+|
+
+In un parere del 14 ottobre 2013, detta commissione statuiva, sul fondamento
+della sentenza First National Bank of Chicago (C‑172/96, EU:C:1998:354), che
+il sig. Hedqvist avrebbe prestato un servizio di cambio a titolo oneroso. Essa
+dichiarava che, tuttavia, tale servizio di cambio sarebbe ricaduto
+nell’esenzione prevista dal capo 3, articolo 9, della legge sull’IVA.  
+  
+---|---  
+  
+17
+
+|
+
+Secondo la commissione tributaria, la valuta virtuale «bitcoin» è un mezzo di
+pagamento utilizzato in maniera corrispondente a mezzi legali di pagamento.
+Peraltro, l’espressione mezzi di pagamento con «valore liberatorio» di cui
+all’articolo 135, paragrafo 1, lettera e), della direttiva IVA sarebbe
+utilizzata per circoscrivere l’ambito dell’esenzione relativa alle banconote e
+alle monete. Ne deriverebbe che la disposizione dovrebbe essere letta nel
+senso che è riferita solo alle banconote e alle monete, ma non alla valuta.
+Tale interpretazione sarebbe altresì coerente con lo scopo dell’esenzione di
+cui all’articolo 135, paragrafo 1, lettere da b) a g), della direttiva IVA,
+vale a dire quello di evitare le difficoltà che deriverebbero
+dall’assoggettamento dei servizi finanziari all’IVA.  
+  
+---|---  
+  
+18
+
+|
+
+Lo Skatteverket ha proposto ricorso contro la decisione della commissione
+tributaria dinanzi allo Högsta förvaltningsdomstolen (Corte suprema
+amministrativa), facendo valere che il servizio di cui alla domanda del sig.
+Hedqvist non ricade nell’esenzione prevista dal capo 3, articolo 9, della
+legge sull’IVA.  
+  
+---|---  
+  
+19
+
+|
+
+Il sig. Hedqvist, da parte sua, sostiene che il ricorso proposto dallo
+Skatteverket debba essere respinto e che il parere preliminare della
+commissione tributaria debba essere confermato.  
+  
+---|---  
+  
+20
+
+|
+
+Secondo il giudice del rinvio, dalla sentenza First National Bank of Chicago
+(C‑172/96, EU:C:1998:354) potrebbe dedursi che le operazioni di cambio di una
+valuta virtuale contro una valuta tradizionale, e viceversa, effettuate a
+fronte del pagamento di una somma corrispondente al margine tra il prezzo di
+acquisto versato dall’operatore e il prezzo di vendita praticato dallo stesso,
+costituiscono prestazioni di servizi effettuate a titolo oneroso. In tal caso,
+si porrebbe la questione se tali operazioni ricadano in una delle esenzioni
+previste dall’articolo 135, paragrafo 1, della direttiva IVA per i servizi
+finanziari, più precisamente quelle di cui alle lettere da d) a f) di tale
+disposizione.  
+  
+---|---  
+  
+21
+
+|
+
+Nutrendo dubbi quanto alla questione se una di tali esenzioni sia applicabile
+a tali operazioni, lo Högsta förvaltningsdomstolen (Corte suprema
+amministrativa) decideva di sospendere il procedimento e di sottoporre alla
+Corte le seguenti questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se l’articolo 2, paragrafo 1, della direttiva IVA debba essere interpretato
+nel senso che le operazioni indicate come cambio di valuta virtuale contro
+valuta tradizionale e viceversa, effettuato dietro un corrispettivo che il
+fornitore della prestazione integra all’atto della determinazione dei tassi di
+cambio, costituiscono prestazione di servizi effettuata a titolo oneroso.  
+  
+---|---  
+  
+2)
+
+|
+
+In caso di risposta affermativa alla prima questione, se l’articolo 135,
+paragrafo 1, [di detta direttiva] debba essere interpretato nel senso che le
+operazioni di cambio sopra descritte sono esenti da imposizione».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla prima questione
+
+22
+
+|
+
+Con la sua prima questione il giudice del rinvio chiede, in sostanza, se
+l’articolo 2, paragrafo 1, lettera c), della direttiva IVA debba essere
+interpretato nel senso che operazioni come quelle oggetto del procedimento
+principale, che consistono nel cambio di valuta tradizionale contro unità
+della valuta virtuale «bitcoin» e viceversa, costituiscano prestazioni di
+servizi effettuate a titolo oneroso, ai sensi di tale disposizione, effettuate
+a fronte del pagamento di una somma corrispondente al margine costituito dalla
+differenza tra, da una parte, il prezzo al quale l’operatore interessato
+acquista le valute e, dall’altra, il prezzo al quale le vende ai suoi clienti.  
+  
+---|---  
+  
+23
+
+|
+
+L’articolo 2, paragrafo 1, della direttiva IVA prevede che siano assoggettate
+all’IVA le cessioni di beni e le prestazioni di servizi effettuate a titolo
+oneroso nel territorio di uno Stato membro da un soggetto passivo che agisca
+in quanto tale.  
+  
+---|---  
+  
+24
+
+|
+
+Occorre rilevare, in primo luogo, che la valuta virtuale a flusso
+bidirezionale «bitcoin», che sarà cambiata contro valute tradizionali nel
+contesto di operazioni di cambio, non può essere qualificata come «bene
+materiale» ai sensi dell’articolo 14 della direttiva IVA, dato che, come
+rilevato dall’avvocato generale al paragrafo 17 delle sue conclusioni, questa
+valuta virtuale non ha altre finalità oltre a quella di un mezzo di pagamento.  
+  
+---|---  
+  
+25
+
+|
+
+Lo stesso dicasi delle valute tradizionali, in quanto si tratti di monete che
+costituiscono mezzi di pagamento legali (v., in tal senso, sentenza First
+National Bank of Chicago, C‑172/96, EU:C:1998:354, punto 25).  
+  
+---|---  
+  
+26
+
+|
+
+Conseguentemente, le operazioni oggetto del procedimento principale, che
+consistono nel cambio di diversi mezzi di pagamento, non ricadono nella
+nozione di «cessione di beni», prevista da detto articolo 14 della direttiva.
+In questo contesto, tali operazioni costituiscono prestazioni di servizi ai
+sensi dell’articolo 24 della direttiva IVA.  
+  
+---|---  
+  
+27
+
+|
+
+Per quanto riguarda, in secondo luogo, il carattere oneroso di una prestazione
+di servizi, occorre ricordare che una prestazione di servizi è effettuata «a
+titolo oneroso», ai sensi dell’articolo 2, paragrafo 1, lettera c), della
+direttiva IVA, e non è pertanto assoggettata a IVA, solo se sussiste un nesso
+diretto fra il servizio prestato e il corrispettivo ricevuto dall’amministrato
+(sentenze Loyalty Management UK e Baxi Group, C‑53/09 e C‑55/09,
+EU:C:2010:590, punto 51 nonché la giurisprudenza ivi richiamata, e
+Serebryannay vek, C‑283/12, EU:C:2013:599, punto 37). Tale nesso diretto
+risulta acclarato qualora tra il prestatore e il destinatario intercorra un
+rapporto giuridico nell’ambito del quale avvenga uno scambio di reciproche
+prestazioni e il compenso ricevuto dal prestatore costituisca il controvalore
+effettivo del servizio prestato al beneficiario (sentenza Le Rayon d’Or,
+C‑151/13, EU:C:2014:185, punto 29 e giurisprudenza ivi richiamata).  
+  
+---|---  
+  
+28
+
+|
+
+Nel procedimento principale, dal fascicolo sottoposto alla Corte risulta che
+sussisterebbe tra la società del sig. Hedqvist e le altre parti contraenti con
+detta società un rapporto giuridico sinallagmatico nell’ambito del quale le
+parti dell’operazione si impegneranno reciprocamente a cedere importi in una
+certa valuta e a riceverne il controvalore in una valuta virtuale a flusso
+bidirezionale o viceversa. Risulta parimenti che tale società sarà retribuita
+per la sua prestazione di servizi da una controprestazione corrispondente al
+margine che essa integrerà nel calcolo dei tassi di cambio ai quali sarà
+disposta a vendere e acquistare le valute in parola.  
+  
+---|---  
+  
+29
+
+|
+
+La Corte ha già avuto modo di dichiarare che risulta inconferente, ai fini
+della determinazione del carattere oneroso di una prestazione di servizi, il
+fatto che detta retribuzione non assuma la forma del versamento di una
+provvigione o del pagamento di spese specifiche (sentenza First National Bank
+of Chicago, C‑172/96, EU:C:1998:354, punto 33).  
+  
+---|---  
+  
+30
+
+|
+
+Occorre considerare, alla luce delle suesposte considerazioni, che operazioni
+come quelle oggetto del procedimento principale costituiscono prestazioni di
+servizi effettuate a fronte di una controprestazione che presenta un nesso
+diretto con il servizio prestato, vale a dire prestazioni di servizi a titolo
+oneroso ai sensi dell’articolo 2, paragrafo 1, lettera c), della direttiva
+IVA.  
+  
+---|---  
+  
+31
+
+|
+
+Occorre pertanto rispondere alla prima questione dichiarando che l’articolo 2,
+paragrafo 1, lettera c), della direttiva IVA va interpretato nel senso che
+costituiscano prestazioni di servizi effettuate a titolo oneroso, ai sensi di
+tale disposizione, operazioni, come quelle oggetto del procedimento
+principale, che consistono nel cambio di valuta tradizionale contro unità
+della valuta virtuale «bitcoin» e viceversa, effettuate a fronte del pagamento
+di una somma corrispondente al margine costituito dalla differenza tra, da una
+parte, il prezzo al quale l’operatore interessato acquista le valute e,
+dall’altra, il prezzo al quale le vende ai suoi clienti.  
+  
+---|---  
+  
+Sulla seconda questione
+
+32
+
+|
+
+Con la sua seconda questione il giudice del rinvio chiede, in sostanza, se
+l’articolo 135, paragrafo 1, lettere da d) a f), della direttiva IVA, vada
+interpretato nel senso che sono esenti dall’IVA prestazioni di servizi, come
+quelle oggetto del procedimento principale, che consistono nel cambio di
+valuta tradizionale contro unità della valuta virtuale «bitcoin» e viceversa,
+effettuate a fronte del pagamento di una somma corrispondente al margine
+costituito dalla differenza tra, da una parte, il prezzo al quale l’operatore
+interessato acquista le valute e, dall’altra, il prezzo al quale le vende ai
+suoi clienti.  
+  
+---|---  
+  
+33
+
+|
+
+In limine, occorre ricordare che, secondo la giurisprudenza della Corte, le
+esenzioni di cui all’articolo 135, paragrafo 1, della direttiva IVA
+costituiscono nozioni autonome del diritto dell’Unione, che mirano ad evitare
+divergenze nell’applicazione del sistema dell’IVA da uno Stato membro
+all’altro (v., segnatamente, sentenze Skandinaviska Enskilda Banken, C‑540/09,
+EU:C:2011:137, punto 19 nonché la giurisprudenza ivi richiamata, e DTZ
+Zadelhoff, C‑259/11, EU:C:2012:423, punto 19).  
+  
+---|---  
+  
+34
+
+|
+
+Sempre secondo costante giurisprudenza, i termini con i quali sono state
+designate dette esenzioni devono essere interpretati restrittivamente, dato
+che tali esenzioni costituiscono deroghe al principio generale secondo cui
+l’IVA è riscossa per ogni prestazione di servizi effettuata a titolo oneroso
+da un soggetto passivo (sentenze Ludwig, C‑453/05, EU:C:2007:369, punto 21, e
+DTZ Zadelhoff, C‑259/11, EU:C:2012:423, punto 20).  
+  
+---|---  
+  
+35
+
+|
+
+Tuttavia, l’interpretazione di tali termini deve essere conforme agli
+obiettivi perseguiti dalle esenzioni previste all’articolo 135, paragrafo 1,
+della direttiva IVA e rispettare le prescrizioni derivanti dal principio di
+neutralità fiscale inerente al sistema comune dell’IVA. Pertanto, questa
+regola d’interpretazione restrittiva non comporta che i termini utilizzati per
+definire le esenzioni di cui al detto articolo 135, paragrafo 1, debbano
+essere interpretati in un modo che priverebbe tali esenzioni dei loro effetti
+(v., segnatamente, sentenze Don Bosco Onroerend Goed, C‑461/08, EU:C:2009:722,
+punto 25; DTZ Zadelhoff, C‑259/11, EU:C:2012:423, punto 21, e J.J. Komen en
+Zonen Beheer Heerhugowaard, C‑326/11, EU:C:2012:461, punto 20).  
+  
+---|---  
+  
+36
+
+|
+
+Al riguardo, risulta dalla giurisprudenza della Corte che le esenzioni
+previste dall’articolo 135, paragrafo 1, lettere da d) a f) sono intese,
+segnatamente, a ovviare alle difficoltà collegate alla determinazione della
+base imponibile nonché dell’importo dell’IVA detraibile (v., segnatamente,
+sentenza Velvet & Steel Immobilien, C‑455/05, EU:C:2007:232, punto 24, nonché
+ordinanza Tiercé Ladbroke, C‑231/07 e C‑232/07, EU:C:2008:275, punto 24).  
+  
+---|---  
+  
+37
+
+|
+
+Del resto, le operazioni esenti da IVA in forza di tali disposizioni sono, per
+loro natura, operazioni finanziarie, benché non debbano essere necessariamente
+effettuate tramite banche o istituti finanziari (v. sentenze Velvet & Steel
+Immobilien, C‑455/05, EU:C:2007:232, punti 21 e 22 nonché la giurisprudenza
+ivi richiamata, e Granton Advertising, C‑461/12, EU:C:2014:1745, punto 29).  
+  
+---|---  
+  
+38
+
+|
+
+Per quanto riguarda, in primo luogo, le esenzioni previste dall’articolo 135,
+paragrafo 1, lettera d), della direttiva IVA, occorre ricordare che, a termini
+di tale disposizione, gli Stati membri esentano le operazioni relative,
+segnatamente, a «depositi di fondi, (…) conti correnti, (…) pagamenti, (…)
+giroconti, (…) crediti, (…) assegni e (…) altri effetti commerciali».  
+  
+---|---  
+  
+39
+
+|
+
+Le operazioni esenti in forza di tale disposizione sono pertanto definite in
+funzione della natura delle prestazioni di servizi fornite. Per essere
+considerati operazioni esenti, i servizi in questione devono formare un
+insieme distinto, valutato globalmente, che abbia l’effetto di adempiere le
+funzioni specifiche ed essenziali di un servizio descritto da tale
+disposizione (v. sentenza Axa UK, C‑175/09, EU:C:2010:646, punti 26 e 27
+nonché giurisprudenza ivi richiamata).  
+  
+---|---  
+  
+40
+
+|
+
+Risulta dal disposto dell’articolo 135, paragrafo 1, lettera d), della
+direttiva IVA, letto alla luce della sentenza Granton Advertising (C‑461/12,
+EU:C:2014:1745, punti 37 e 38), che le operazioni di cui a tale disposizione
+riguardano servizi o strumenti le cui modalità di funzionamento implicano un
+trasferimento di denaro.  
+  
+---|---  
+  
+41
+
+|
+
+Inoltre, come esposto dall’avvocato generale ai paragrafi 51 e 52 delle
+conclusioni, tale disposizione non riguarda le operazioni che vertono sulla
+valuta in quanto tale, dal momento che tali operazioni sono disciplinate da
+una specifica diposizione, vale a dire l’articolo 135, paragrafo 1, lettera
+e), della direttiva IVA.  
+  
+---|---  
+  
+42
+
+|
+
+La valuta virtuale «bitcoin», essendo un mezzo di pagamento contrattuale, non
+può essere considerata, da una parte, né come un conto corrente né come un
+deposito di fondi, un pagamento o un versamento. D’altra parte, a differenza
+dai crediti, dagli assegni e dagli altri effetti commerciali, di cui
+all’articolo 135, paragrafo 1, lettera d), della direttiva IVA, essa
+costituisce un mezzo di pagamento diretto tra gli operatori che l’accettano.  
+  
+---|---  
+  
+43
+
+|
+
+Pertanto, operazioni come quelle oggetto del procedimento principale non
+ricadono nella sfera di applicazione delle esenzioni previste da tale
+disposizione.  
+  
+---|---  
+  
+44
+
+|
+
+Per quanto riguarda, in secondo luogo, le esenzioni previste dall’articolo
+135, paragrafo 1, lettera e), della direttiva IVA, questa disposizione prevede
+che gli Stati membri esentino le operazioni relative, segnatamente, a «divise,
+banconote e monete con valore liberatorio».  
+  
+---|---  
+  
+45
+
+|
+
+Al riguardo, occorre ricordare che le nozioni adoperate in tale disposizione
+devono essere interpretate ed applicate in modo uniforme alla luce delle
+versioni vigenti in tutte le lingue dell’Unione (v., in tal senso, sentenze
+Velvet & Steel Immobilien, C‑455/05, EU:C:2007:232, punto 16 nonché la
+giurisprudenza ivi richiamata, e Commissione/Spagna, C‑189/11, EU:C:2013:587,
+punto 56).  
+  
+---|---  
+  
+46
+
+|
+
+Come esposto dall’avvocato generale ai paragrafi da 31 a 34 delle conclusioni,
+le diverse versioni linguistiche dell’articolo 135, paragrafo 1, lettera e),
+della direttiva IVA non consentono di determinare senza ambiguità se tale
+disposizione si applichi alle sole operazioni vertenti sulle valute
+tradizionali o se essa riguardi invece anche le operazioni relative ad altre
+valute.  
+  
+---|---  
+  
+47
+
+|
+
+In presenza di differenze linguistiche, la portata del termine in questione
+non può essere stabilita in base a un’interpretazione esclusivamente testuale.
+Occorre quindi interpretare tale espressione in funzione del contesto in cui
+essa si inserisce, della finalità e del sistema della direttiva IVA (v.
+sentenze Velvet & Steel Immobilien, C‑455/05, EU:C:2007:232, punto 20 nonché
+giurisprudenza ivi richiamata, e Commissione/Spagna, C‑189/11, EU:C:2013:587,
+punto 56).  
+  
+---|---  
+  
+48
+
+|
+
+Come ricordato supra, ai precedenti punti 36 e 37, le esenzioni previste
+dall’articolo 135, paragrafo 1, lettera e), della direttiva IVA sono intese,
+segnatamente, a ovviare alle difficoltà collegate alla determinazione della
+base imponibile nonché dell’importo dell’IVA detraibile che sorgono nel
+contesto dell’imposizione delle operazioni finanziarie.  
+  
+---|---  
+  
+49
+
+|
+
+Orbene, le operazioni relative a valute non tradizionali, vale a dire diverse
+dalle monete con valore liberatorio in uno o più paesi, costituiscono
+operazioni finanziarie in quanto tali valute siano state accettate dalle parti
+di una transazione quale mezzo di pagamento alternativo ai mezzi di pagamento
+legali e non abbiano altre finalità oltre a quella di un mezzo di pagamento.  
+  
+---|---  
+  
+50
+
+|
+
+Inoltre, come il sig. Hedqvist ha sostanzialmente fatto valere all’udienza,
+nel caso particolare di operazioni quali le operazioni di cambio, le
+difficoltà collegate alla determinazione della base imponibile nonché
+dell’importo dell’IVA detraibile possono essere identiche, indipendentemente
+dal fatto che si tratti di cambio di valute tradizionali, normalmente esentate
+in forza dell’articolo 135, paragrafo 1, lettera e), della direttiva IVA, o di
+cambio, da una parte, di tali valute contro, d’altra parte, valute virtuali a
+flusso bidirezionale che, senza essere mezzi di pagamento legali,
+costituiscono un mezzo di pagamento accettato dalle parti di una transazione,
+e viceversa.  
+  
+---|---  
+  
+51
+
+|
+
+Risulta pertanto dal contesto e dalla ratio di detto articolo 135, paragrafo
+1, lettera e), che un’interpretazione di tale disposizione secondo la quale
+essa disciplina le operazioni relative alle sole valute tradizionali si
+risolverebbe nel privarla di parte dei suoi effetti.  
+  
+---|---  
+  
+52
+
+|
+
+Nel procedimento principale, è pacifico che la valuta virtuale «bitcoin» non
+abbia altre finalità oltre a quella di un mezzo di pagamento e che essa sia
+accettata a tal fine da alcuni operatori.  
+  
+---|---  
+  
+53
+
+|
+
+Conseguentemente, si deve concludere che l’articolo 135, paragrafo 1, lettera
+e), della direttiva IVA disciplina anche le prestazioni di servizi come quelle
+oggetto del procedimento principale, che consistono nel cambio di valuta
+tradizionale contro unità della valuta virtuale «bitcoin» e viceversa,
+effettuate a fronte del pagamento di una somma corrispondente al margine
+costituito dalla differenza tra, da una parte, il prezzo al quale l’operatore
+interessato acquista le valute e, dall’altra, il prezzo al quale le vende ai
+suoi clienti.  
+  
+---|---  
+  
+54
+
+|
+
+Per quanto concerne, infine, le esenzioni previste dall’articolo 135,
+paragrafo 1, lettera f), della direttiva IVA, è sufficiente ricordare che tale
+disposizione disciplina, segnatamente, le operazioni riguardanti «azioni,
+quote parti di società o associazioni, obbligazioni e altri titoli», vale a
+dire titoli che conferiscono un diritto di proprietà su persone giuridiche,
+nonché su «altri titoli», di cui si deve ritenere che essi abbiano natura
+comparabile a quella dei titoli specificamente menzionati nella medesima
+disposizione (sentenza Granton Advertising, C‑461/12, EU:C:2014:1745, punto
+27).  
+  
+---|---  
+  
+55
+
+|
+
+Orbene, è pacifico che la valuta virtuale «bitcoin» non costituisce né un
+titolo che conferisce un diritto di proprietà su persone giuridiche né un
+titolo di natura comparabile.  
+  
+---|---  
+  
+56
+
+|
+
+Pertanto, le operazioni oggetto del procedimento principale non ricadono nella
+sfera di applicazione delle esenzioni previste dall’articolo 135, paragrafo 1,
+lettera f), della direttiva IVA.  
+  
+---|---  
+  
+57
+
+|
+
+Alla luce dei suesposti rilievi, occorre rispondere alla seconda questione
+dichiarando che:
+
+|
+
+—
+
+|
+
+l’articolo 135, paragrafo 1, lettera e), della direttiva IVA, va interpretato
+nel senso che prestazioni di servizi, come quelle oggetto del procedimento
+principale, che consistono nel cambio di valuta tradizionale contro unità
+della valuta virtuale «bitcoin» e viceversa, effettuate a fronte del pagamento
+di una somma corrispondente al margine costituito dalla differenza tra, da una
+parte, il prezzo al quale l’operatore interessato acquista le valute e,
+dall’altra, il prezzo al quale le vende ai suoi clienti, costituiscono
+operazioni esenti dall’IVA ai sensi di tale disposizione;  
+  
+---|---  
+  
+—
+
+|
+
+l’articolo 135, paragrafo 1, lettere d) e f), della direttiva IVA, va
+interpretato nel senso che siffatte prestazioni di servizi non ricadono nella
+sfera di applicazione di tali disposizioni.  
+  
+---|---  
+  
+Sulle spese
+
+58
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 2, paragrafo 1, lettera c), della direttiva 2006/112/CE del
+Consiglio, del 28 novembre 2006, relativa al sistema comune d’imposta sul
+valore aggiunto va interpretato nel senso che costituiscono prestazioni di
+servizi effettuate a titolo oneroso, ai sensi di tale disposizione,
+operazioni, come quelle oggetto del procedimento principale, che consistono
+nel cambio di valuta tradizionale contro unità della valuta virtuale «bitcoin»
+e viceversa, effettuate a fronte del pagamento di una somma corrispondente al
+margine costituito dalla differenza tra, da una parte, il prezzo al quale
+l’operatore interessato acquista le valute e, dall’altra, il prezzo al quale
+le vende ai suoi clienti.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 135, paragrafo 1, lettera e), della direttiva 2006/112 va
+interpretato nel senso che prestazioni di servizi, come quelle oggetto del
+procedimento principale, che consistono nel cambio di valuta tradizionale
+contro unità della valuta virtuale «bitcoin» e viceversa, effettuate a fronte
+del pagamento di una somma corrispondente al margine costituito dalla
+differenza tra, da una parte, il prezzo al quale l’operatore interessato
+acquista le valute e, dall’altra, il prezzo al quale le vende ai suoi clienti,
+costituiscono operazioni esenti dall’imposta sul valore aggiunto ai sensi di
+tale disposizione.
+
+L’articolo 135, paragrafo 1, lettere d) e f), della direttiva 2006/112 va
+interpretato nel senso che siffatte prestazioni di servizi non ricadono nella
+sfera di applicazione di tali disposizioni.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: lo svedese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

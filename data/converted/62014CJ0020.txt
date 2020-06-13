@@ -1,0 +1,862 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+22 ottobre 2015 ( *1 )
+
+«Rinvio pregiudiziale — Marchi — Direttiva 2008/95/CE — Altri impedimenti alla
+registrazione o motivi di nullità — Marchio denominativo — Stessa sequenza di
+lettere di un marchio anteriore — Aggiunta di un sintagma descrittivo —
+Sussistenza di un rischio di confusione»
+
+Nella causa C‑20/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Bundespatentgericht (Corte federale dei
+brevetti, Germania), con decisione del 25 aprile 2013, pervenuta in
+cancelleria il 17 gennaio 2014, nel procedimento
+
+BGW Beratungs-Gesellschaft Wirtschaft mbH, già BGW Marketing- & Management-
+Service GmbH
+
+contro
+
+Bodo Scholz,
+
+LA CORTE (Prima Sezione),
+
+composta da A. Tizzano, vice presidente della Corte, facente funzione di
+presidente della Prima Sezione, F. Biltgen A. Borg Barthet (relatore), E.
+Levits e M. Berger, giudici,
+
+avvocato generale: P. Mengozzi
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il governo polacco, da B. Majczyna, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da G. Braun e F.W. Bulst, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 12
+marzo 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+4, paragrafo 1, lettera b), della direttiva 2008/95/CE del Parlamento europeo
+e del Consiglio, del 22 ottobre 2008, sul ravvicinamento delle legislazioni
+degli Stati membri in materia di marchi d’impresa (GU L 299, pag. 25).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la BGW
+Beratungs Gesellschaft Wirtschaft mbH, già BGW Marketing- & Management Service
+GmbH (in prosieguo: la «BGW»), e il sig. Scholz in merito al marchio
+denominativo BGW Bundesverband der deutschen Gesundheitswirtschaft.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+L’articolo 3 della direttiva 2008/95, intitolato «Impedimenti alla
+registrazione o motivi di nullità», al suo paragrafo 1, lettere b) e c), così
+dispone:
+
+«1. Sono esclusi dalla registrazione o, se registrati, possono essere
+dichiarati nulli:
+
+(...)
+
+|
+
+b)
+
+|
+
+i marchi di impresa privi di carattere distintivo;  
+  
+---|---  
+  
+c)
+
+|
+
+i marchi di impresa composti esclusivamente da segni o indicazioni che nel
+commercio possono servire a designare la specie, la qualità, la quantità, la
+destinazione, il valore, la provenienza geografica ovvero l’epoca di
+fabbricazione del prodotto o della prestazione del servizio, o altre
+caratteristiche del prodotto o servizio;  
+  
+---|---  
+  
+(...)».  
+  
+4
+
+|
+
+L’articolo 4 della direttiva in parola, intitolato «Altri impedimenti alla
+registrazione o motivi di nullità relativi ai conflitti con diritti
+anteriori», al suo paragrafo 1, lettera b), prevede quanto segue:
+
+«1. Un marchio di impresa è escluso dalla registrazione o, se registrato, può
+essere dichiarato nullo:
+
+(...)
+
+|
+
+b)
+
+|
+
+se l’identità o la somiglianza di detto marchio di impresa col marchio di
+impresa anteriore e l’identità o somiglianza dei prodotti o servizi
+contraddistinti dai due marchi di impresa può dar adito a un rischio di
+confusione per il pubblico comportante anche un rischio di associazione tra il
+marchio di impresa e il marchio di impresa anteriore».  
+  
+---|---  
+  
+Il diritto tedesco
+
+5
+
+|
+
+L’articolo 9, paragrafo 1, della legge sui marchi (Markengesetz), del 25
+ottobre 1994 (BGB1. I, pag. 3082; 1995 I, pag. 156; 1996 I, pag. 682), è del
+seguente tenore:
+
+«La registrazione di un marchio può essere annullata
+
+(...)
+
+|
+
+2.
+
+|
+
+se l’identità o la somiglianza di detto marchio con il marchio richiesto o
+registrato avente una data di priorità anteriore e l’identità o la somiglianza
+dei prodotti o servizi contraddistinti dai due marchi può dar adito a un
+rischio di confusione per il pubblico comportante anche un rischio di
+associazione tra il marchio di impresa e il marchio anteriore, (...)».  
+  
+---|---  
+  
+Fatti del procedimento principale e questione pregiudiziale
+
+6
+
+|
+
+L’11 dicembre 2006, il marchio denominativo BGW Bundesverband der deutschen
+Gesundheitswirtschaft» (in prosieguo: il «marchio posteriore») è stato
+registrato presso l’Ufficio tedesco dei brevetti e dei marchi (Deutsches
+Patent- und Markenamt) con il n. 306 33835, segnatamente per prodotti e
+servizi delle classi 16, 35, 41 e 43 ai sensi dell’Accordo di Nizza relativo
+alla classificazione internazionale dei prodotti e dei servizi ai fini della
+registrazione dei marchi, del 15 giugno 1957, come riveduto e modificato,
+corrispondenti alla seguente descrizione:
+
+«Classe 16: Stampati;
+
+Classe 35: Pubblicità; gestione di affari commerciali; amministrazione
+commerciale; servizi di ufficio; servizi di consulenza aziendale; servizi di
+consulenza per l’organizzazione degli affari; consulenza per la gestione degli
+affari; organizzazione di esposizioni per scopi commerciali o pubblicitari;
+servizi di pubbliche relazioni (Public Relations);
+
+Classe 41: Educazione; formazione; divertimento; attività sportive e
+culturali; organizzazione di esposizioni per scopi culturali o educativi;
+servizi per il tempo libero; gestione di club per salute e benessere;
+organizzazione e direzione di convegni; organizzazione e direzione di
+conferenze, congressi e simposi; gestione di impianti sportivi; noleggio di
+attrezzature sportive; servizi di insegnamento di sport e ginnastica;
+organizzazione e svolgimento di seminari, workshop, conferenze, tavole rotonde
+e corsi; consulenze per il tempo libero; organizzazione e svolgimento di corsi
+di formazione e di perfezionamento; servizi di informazione relativi ad
+attività sportive e culturali per gli ospiti di luoghi di cura; informazioni
+in materia di luoghi di cura;
+
+Classe 43: Servizi per la ristorazione e l’alloggiamento di ospiti;
+prenotazione e fornitura di alloggi per ospiti, in particolare ospiti di
+luoghi di cura; case di riposo per persone anziane; servizio di campi
+vacanze».  
+  
+---|---  
+  
+7
+
+|
+
+La BGW ha presentato opposizione avverso tale registrazione sulla base del
+seguente marchio denominativo e figurativo tedesco n. 304 06 837 (in
+prosieguo: il «marchio anteriore»):  
+  
+---|---  
+  
+8
+
+|
+
+Il marchio anteriore è registrato dal 21 luglio 2004 per prodotti e servizi
+delle classi 16, 35 e 41 ai sensi del suddetto Accordo di Nizza,
+corrispondenti alla seguente descrizione:
+
+«Classe 16: Carta, cartone (cartone e articoli in questi materiali), compresi
+nella classe 16; stampati; materiale per rilegatura; fotografie; cartoleria;
+adesivi per la cartoleria o per uso domestico; materiale per artisti;
+pennelli; macchine da scrivere e articoli per ufficio (esclusi i mobili);
+materiale per l’insegnamento, esclusi gli apparecchi; materie plastiche per
+l’imballaggio (comprese nella classe 16);
+
+Classe 35: Pubblicità; gestione di affari commerciali; amministrazione
+commerciale; servizi di ufficio;
+
+Classe 41: Educazione; formazione; divertimento; attività sportive e
+culturali; pubblicazione di libri, giornali e riviste; redazione di testi;
+organizzazione di fiere ed esposizioni per fini ricreativi, culturali e
+sportivi; produzione di film; noleggio di film; noleggio di videocamere,
+apparecchi di registrazione, apparecchi per la ricezione televisiva e
+radiofonica; insegnamento per corrispondenza; organizzazione e direzione di
+conferenze, congressi e simposi; pubblicazione elettronica di libri e di
+riviste on line; intrattenimento radiofonico; organizzazione e svolgimento di
+seminari e workshop; servizi di traduzione; offerta di servizi di formazione;
+organizzazione e direzione di dibattiti scientifici; redazione di
+sceneggiature; produzione di film su videonastri; organizzazione di concorsi».  
+  
+---|---  
+  
+9
+
+|
+
+Con decisione del 2 ottobre 2009, l’Ufficio tedesco dei brevetti e dei marchi
+ha parzialmente accolto l’opposizione presentata dalla BGW e ha parzialmente
+annullato la registrazione del marchio posteriore per sussistenza di un
+rischio di confusione tra i due marchi in conflitto. A seguito di un ricorso
+proposto dal titolare del marchio posteriore, la decisione in parola è stata
+revocata con decisione del 9 gennaio 2012, in quanto la BGW non aveva
+dimostrato un uso del marchio anteriore idoneo a mantenere i diritti
+acquisiti.  
+  
+---|---  
+  
+10
+
+|
+
+La BGW ha promosso un ricorso di annullamento avverso quest’ultima decisione
+dinanzi al Bundespatentgericht (Corte federale dei brevetti).  
+  
+---|---  
+  
+11
+
+|
+
+Tale giudice ritiene, sulla base di numerosi documenti prodotti dinanzi ad
+esso dalla BGW, che sia stato dimostrato un uso del marchio anteriore idoneo a
+mantenere i diritti acquisiti, quantomeno per quanto riguarda gli «stampati» e
+i servizi di «pubblicità», «organizzazione e direzione di seminari» e
+«organizzazione di concorsi», dal momento che i servizi in parola sono forniti
+principalmente ad imprese operanti nel settore della salute, in particolare a
+negozi di ottica e di protesi uditive. Il giudice del rinvio conclude che i
+marchi in conflitto riguardano prodotti identici e servizi in parte identici e
+in parte simili.  
+  
+---|---  
+  
+12
+
+|
+
+Per quanto concerne la somiglianza dei marchi, il giudice del rinvio ritiene
+che l’impressione complessiva che si trae dal marchio anteriore sia dominata
+esclusivamente dalla sequenza di lettere «BGW», dal momento che la componente
+figurativa si limita a valorizzare detta sequenza dal punto di vista visivo ed
+è irrilevante dal punto di vista fonetico. Per quanto attiene al marchio
+posteriore, secondo il giudice del rinvio, il sintagma «Bundesverband der
+deutschen Gesundheitswirtschaft» ha natura descrittiva ed è privo di ogni
+carattere distintivo, in quanto si limita ad indicare che i prodotti e i
+servizi di cui trattasi sono forniti da una federazione di imprese del settore
+della salute, attiva in tutto il paese, senza peraltro permettere
+un’identificazione precisa dell’origine commerciale dei suddetti prodotti e
+servizi.  
+  
+---|---  
+  
+13
+
+|
+
+Il giudice del rinvio è propenso a ritenere che l’impressione complessiva del
+marchio posteriore sia anch’essa dominata dalla sequenza di lettere «BGW». Ad
+ogni modo, il Bundespatentgericht (Corte federale dei brevetti) aggiunge che,
+a prescindere da come debba essere valutato tale sintagma, occorre riconoscere
+a una sequenza siffatta perlomeno una posizione distintiva autonoma nel
+marchio posteriore ai sensi della sentenza Medion (C‑120/04, EU:C:2005:594).
+Pertanto, quando il pubblico di riferimento sarà posto di fronte al marchio
+posteriore, riconoscerà il marchio anteriore, poiché la sola differenza
+consiste nel fatto che l’acronimo «BGW» – di per sé privo di significato –
+sarà ormai reso con l’indicazione illustrativa (descrittiva) «Bundesverband
+der deutschen Gesundheitswirtschaft».  
+  
+---|---  
+  
+14
+
+|
+
+Di conseguenza, il giudice del rinvio dichiara, citando la sentenza AMS/UAMI –
+American Medical Systems (AMS Advanced Medical Services) (T‑425/03,
+EU:T:2007:311), che non vi è alcun dubbio che, per quanto riguarda i prodotti
+e i servizi indicati al punto 11 della presente sentenza, sussiste per il
+pubblico di riferimento un rischio di confusione tra i marchi in conflitto.  
+  
+---|---  
+  
+15
+
+|
+
+Esso ritiene tuttavia di non potersi pronunciare in tal senso a causa della
+posizione assunta dalla Corte nella sentenza Strigl e Securvita (C‑90/11 e
+C‑91/11, EU:C:2012:147), in cui quest’ultima ha statuito che l’articolo 3,
+paragrafo 1, lettere b) e c), della direttiva 2008/95 si applica a un marchio
+denominativo costituito dalla giustapposizione di un sintagma descrittivo e da
+una sequenza di lettere di per sé non descrittiva, qualora tale sequenza, per
+il fatto di riprodurre la lettera iniziale di ciascuna parola di tale
+sintagma, sia percepita dal pubblico come un’abbreviazione di detto sintagma e
+il marchio di cui trattasi, considerato nel suo insieme, possa così essere
+inteso come una combinazione di indicazioni o di abbreviazioni descrittive, la
+quale, quindi, è priva di carattere distintivo. Peraltro, il giudice del
+rinvio ricorda che, al punto 38 della citata sentenza, la Corte ha dichiarato
+che la sequenza di lettere che riproduce la lettera iniziale delle parole che
+compongono il sintagma occupa, rispetto a quest’ultimo, soltanto una posizione
+accessoria.  
+  
+---|---  
+  
+16
+
+|
+
+Pertanto, sarebbe escluso che a una componente di un marchio complesso, nella
+specie la sequenza di lettere «BGW», percepito come acronimo nel marchio
+posteriore, venga riconosciuto un carattere dominante o quantomeno una
+posizione distintiva autonoma, qualora siffatta componente occupi soltanto una
+posizione accessoria.  
+  
+---|---  
+  
+17
+
+|
+
+La circostanza che la sentenza Strigl e Securvita (C‑90/11 e C‑91/11,
+EU:C:2012:147) riguardasse impedimenti assoluti alla registrazione ai sensi
+dell’articolo 3 della direttiva 2008/95 non giustifica, secondo il
+Bundespatentgericht (Corte federale dei brevetti), una valutazione diversa nel
+procedimento principale, in cui viene messo in discussione un altro
+impedimento alla registrazione di cui all’articolo 4, paragrafo 1, lettera b),
+di detta direttiva, nei limiti in cui la percezione da parte del pubblico di
+un marchio, in linea di principio, non può dipendere dalla questione se si
+tratti di un impedimento alla registrazione a norma dell’articolo 3 o
+dell’articolo 4 della direttiva 2008/95.  
+  
+---|---  
+  
+18
+
+|
+
+Ciò premesso, il Bundespatentgericht (Corte federale dei brevetti) ha deciso
+di sospendere il procedimento e di sottoporre alla Corte la seguente questione
+pregiudiziale:
+
+«Se l’articolo 4, paragrafo 1, lettera b), della direttiva 2008/95 debba
+essere interpretato nel senso che, in presenza di prodotti e servizi identici
+o simili, può ritenersi sussistente un rischio di confusione per il pubblico
+qualora una sequenza di lettere con efficacia distintiva e che costituisce
+l’elemento dominante del segno denominativo/figurativo anteriore dotato di
+media forza identificativa, venga inclusa in un segno denominativo posteriore
+appartenente a un terzo, in modo tale per cui a detta sequenza di lettere
+venga aggiunto un sintagma descrittivo ad essa riferito, che esplica tale
+sequenza di lettere quale abbreviazione delle parole poste a descrizione».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+19
+
+|
+
+Con la sua questione, il giudice del rinvio chiede sostanzialmente se
+l’articolo 4, paragrafo 1, lettera b), della direttiva 2008/95 debba essere
+interpretato nel senso che, in presenza di prodotti e servizi identici o
+simili, per il pubblico di riferimento possa sussistere un rischio di
+confusione tra un marchio anteriore composto da una sequenza di lettere, che
+ha carattere distintivo e che costituisce l’elemento dominante di tale marchio
+dotato di media forza identificativa, e un marchio posteriore che riproduce
+tale sequenza di lettere cui si aggiunge un sintagma descrittivo composto da
+parole le cui iniziali corrispondono alle lettere di detta sequenza, sicché
+essa viene percepita da tale pubblico come l’acronimo del sintagma di cui
+trattasi.  
+  
+---|---  
+  
+20
+
+|
+
+Poiché tale questione viene posta dal giudice del rinvio in considerazione dei
+dubbi da esso nutriti in merito all’applicazione della sentenza Strigl e
+Securvita (C‑90/11 e C‑91/11, EU:C:2012:147) in sede di valutazione della
+somiglianza dei marchi in conflitto nel procedimento principale, occorre
+pertanto, in primo luogo, valutare la portata e la rilevanza di tale sentenza.  
+  
+---|---  
+  
+21
+
+|
+
+Nei procedimenti principali che hanno dato luogo alla sentenza Strigl e
+Securvita (C‑90/11 e C‑91/11, EU:C:2012:147), erano in discussione due marchi
+denominativi, uno composto dal segno «Multi Markets Fund MMF» volto a
+designare un fondo di investimento attivo su numerosi mercati finanziari e
+l’altro dal segno «NAI – Der Natur-Aktien-Index» per designare un indice di
+Borsa che raggruppa azioni di società con orientamento ecologico. Poiché, in
+tali cause, il giudice del rinvio riteneva che i segni «MMF» e «NAI»,
+considerati singolarmente, non avessero carattere descrittivo ai sensi
+dell’articolo 3, paragrafo 1, lettera c), della direttiva 2008/95, chiedeva
+alla Corte se gli impedimenti previsti dall’articolo 3, paragrafo 1, lettere
+b) e/o c), di tale direttiva si applicassero a un marchio denominativo
+costituito dalla giustapposizione di un sintagma descrittivo e da una sequenza
+di lettere di per sé non descrittiva, ma che riproduce le lettere iniziali di
+ciascuna parola componente detto sintagma.  
+  
+---|---  
+  
+22
+
+|
+
+Di conseguenza, la questione all’origine delle cause summenzionate consisteva
+nel determinare se un marchio complesso composto da un sintagma accostato al
+suo acronimo potesse essere registrato alla luce delle disposizioni
+dell’articolo 3, paragrafo 1, lettere b) e c), della direttiva 2008/95, e non
+nella valutazione, come nel caso di specie, se possa sussistere un rischio di
+confusione, a norma dell’articolo 4, paragrafo 1, lettera b), della direttiva
+in parola, tra un marchio anteriore composto da una sequenza di lettere e un
+marchio posteriore che riproduce tale sequenza giustapposta a un sintagma.  
+  
+---|---  
+  
+23
+
+|
+
+Orbene, da un lato, gli impedimenti assoluti alla registrazione di cui
+all’articolo 3, paragrafo 1, lettere b) e c), della direttiva 2008/95 e gli
+impedimenti relativi alla registrazione di cui all’articolo 4, paragrafo 1,
+lettera b), della medesima direttiva perseguono finalità diverse e mirano a
+tutelare interessi distinti.  
+  
+---|---  
+  
+24
+
+|
+
+Con riferimento all’articolo 3, paragrafo 1, lettera c), della direttiva
+2008/95, l’interesse generale sotteso a detta disposizione consiste
+nell’assicurare che segni descrittivi di una o più caratteristiche dei
+prodotti o dei servizi per i quali è richiesta una registrazione come marchio
+possano essere liberamente utilizzati da tutti gli operatori economici che
+offrono simili prodotti o servizi (sentenza Strigl e Securvita, C‑90/11 e
+C‑91/11, EU:C:2012:147, punto 31 nonché la giurisprudenza ivi citata).  
+  
+---|---  
+  
+25
+
+|
+
+La nozione di interesse generale sottostante all’articolo 3, paragrafo 1,
+lettera b), della suddetta direttiva si confonde con la funzione essenziale
+del marchio, che consiste nel garantire al consumatore o all’utilizzatore
+finale l’identità di origine del prodotto o del servizio contrassegnato dal
+marchio, consentendogli di distinguere senza confusione possibile tale
+prodotto o servizio da quelli di provenienza diversa (v. sentenza
+Eurohypo/UAMI, C‑304/06 P, EU:C:2008:261, punto 56 e giurisprudenza ivi
+citata).  
+  
+---|---  
+  
+26
+
+|
+
+Per contro, l’articolo 4, paragrafo 1, lettera b), della direttiva mira a
+tutelare gli interessi individuali dei titolari di marchi anteriori che
+entrano in conflitto con il segno richiesto e garantisce, quindi, la funzione
+di origine del marchio nel caso di un rischio di confusione (v., in tal senso,
+sentenza Medion, C‑120/04, EU:C:2005:594, punti 24 e 26 nonché la
+giurisprudenza ivi citata).  
+  
+---|---  
+  
+27
+
+|
+
+Sebbene, come osserva correttamente il giudice del rinvio, la percezione di un
+segno da parte del pubblico di riferimento non possa dipendere
+dall’impedimento alla registrazione considerato, tuttavia la prospettiva da
+cui è colta tale percezione varia a seconda che si tratti di valutare il
+carattere descrittivo di un segno o la sussistenza di un rischio di
+confusione.  
+  
+---|---  
+  
+28
+
+|
+
+Come rilevato dall’avvocato generale al paragrafo 29 delle sue conclusioni, se
+è vero che, in sede di valutazione del carattere descrittivo di un segno,
+l’attenzione è focalizzata sui procedimenti mentali che possono condurre a
+stabilire relazioni tra il segno o le sue diverse componenti e i prodotti e/o
+i servizi considerati, in sede di valutazione del rischio di confusione,
+l’esame riguarda il processo di memorizzazione, di riconoscimento e di
+evocazione del segno, nonché i meccanismi associativi.  
+  
+---|---  
+  
+29
+
+|
+
+D’altro lato, al punto 32 della sentenza Strigl e Securvita (C‑90/11 e
+C‑91/11, EU:C:2012:147), la Corte ha rilevato che le tre lettere maiuscole
+presenti in ciascuno dei segni, vale a dire «MMF» e «NAI», rappresentavano le
+iniziali dei sintagmi ai quali erano accostate e che, in entrambi i casi, il
+sintagma e la sequenza di lettere avevano lo scopo di chiarirsi a vicenda e di
+sottolineare il legame tra loro intercorrente, essendo ciascuna sequenza di
+lettere concepita per rafforzare la percezione del sintagma da parte del
+pubblico, semplificandone l’uso e facilitandone la memorizzazione.  
+  
+---|---  
+  
+30
+
+|
+
+A tal riguardo, ai punti 37 e 38 della medesima sentenza, la Corte ha
+precisato che, sebbene le sequenze di lettere di cui trattasi fossero
+percepite dal pubblico di riferimento come abbreviazioni dei sintagmi ai quali
+queste ultime erano giustapposte, esse non potevano prevalere sulla somma di
+tutti gli elementi del marchio considerato nel suo insieme, quand’anche
+potessero essere considerate aventi, di per sé, carattere distintivo. Al
+contrario, secondo la Corte, siffatte sequenze di lettere, rispetto al
+sintagma cui erano accostate, occupavano soltanto una «posizione accessoria».  
+  
+---|---  
+  
+31
+
+|
+
+Dalla motivazione della sentenza Strigl e Securvita (C‑90/11 e C‑91/11,
+EU:C:2012:147) risulta che il carattere non registrabile, ai sensi
+dell’articolo 3, paragrafo 1, lettere b) e c), della direttiva 2008/95, di un
+segno composto da una sequenza di lettere giustapposte a un sintagma deve
+essere valutato caso per caso, sulla base della percezione che il pubblico di
+riferimento ha dell’interdipendenza tra i diversi elementi del segno e di
+quest’ultimo nel suo insieme.  
+  
+---|---  
+  
+32
+
+|
+
+Di conseguenza, l’affermazione contenuta al punto 38 di detta sentenza, citata
+dal giudice del rinvio, secondo cui la sequenza di lettere che riproduce la
+lettera iniziale delle parole che compongono il sintagma occupa, rispetto a
+quest’ultimo, soltanto una posizione accessoria deve essere intesa in tal
+senso e non può essere interpretata come l’espressione di una regola di
+valutazione generale sul carattere accessorio di una sequenza di lettere che
+riproduce la lettera iniziale di ciascuna parola del sintagma al quale è
+giustapposta.  
+  
+---|---  
+  
+33
+
+|
+
+Infatti, tale affermazione si limita a precisare, ai fini dell’applicazione
+degli impedimenti alla registrazione previsti all’articolo 3, paragrafo 1,
+lettere b) e c), della direttiva 2008/95, che una sequenza di lettere, pur
+presentando di per sé stessa un carattere distintivo, può rivestire un
+carattere descrittivo quando è inserita in un marchio composto in cui è
+combinata con un’espressione principale descrittiva di cui sarebbe percepita
+come l’abbreviazione, circostanza questa che deve essere accertata caso per
+caso.  
+  
+---|---  
+  
+34
+
+|
+
+Da quanto precede risulta che, tenuto conto del diverso contesto giuridico
+delle cause che hanno dato luogo alla sentenza Strigl e Securvita (C‑90/11 e
+C‑91/11, EU:C:2012:147) nonché della portata che le si deve riconoscere, gli
+accertamenti ivi compiuti non possono essere applicati al procedimento
+principale al fine di valutare la sussistenza di una somiglianza tra i due
+marchi in conflitto.  
+  
+---|---  
+  
+35
+
+|
+
+In secondo luogo, occorre ricordare la giurisprudenza secondo cui la
+valutazione globale del rischio di confusione deve fondarsi, per quanto
+attiene alla somiglianza visiva, fonetica o concettuale dei marchi in
+conflitto, sull’impressione complessiva prodotta dagli stessi, in
+considerazione, in particolare, dei loro elementi distintivi e dominanti. La
+percezione dei marchi da parte del consumatore medio dei prodotti o dei
+servizi in questione svolge un ruolo determinante nella valutazione globale di
+detto rischio. A tale proposito, il consumatore medio percepisce di norma un
+marchio come un tutt’uno e non effettua un esame dei suoi singoli elementi
+(sentenza Bimbo/UAMI, C‑591/12 P, EU:C:2014:305, punto 21 e giurisprudenza ivi
+citata).  
+  
+---|---  
+  
+36
+
+|
+
+La valutazione della somiglianza tra due marchi non può limitarsi a prendere
+in considerazione solo una componente di un marchio complesso e a confrontarla
+con un altro marchio. Occorre, invece, effettuare il confronto esaminando i
+marchi in questione considerati ciascuno nel suo complesso (sentenze
+UAMI/Shaker, C‑334/05 P, EU:C:2007:333, punto 41, e Aceites del Sur-
+Coosur/Koipe, C‑498/07 P, EU:C:2009:503, punto 61).  
+  
+---|---  
+  
+37
+
+|
+
+Se è vero che l’impressione complessiva prodotta da un marchio complesso nella
+memoria del pubblico di riferimento può, in determinate circostanze, essere
+dominata da una o più delle sue componenti, è solo quando tutte le altre
+componenti del marchio sono trascurabili che si potrà valutare la somiglianza
+sulla sola base dell’elemento dominante (sentenze UAMI/Shaker, C‑334/05 P,
+EU:C:2007:333, punti 41 e 42, nonché Nestlé/UAMI, C‑193/06 P, EU:C:2007:539,
+punti 42 e 43 nonché la giurisprudenza ivi citata).  
+  
+---|---  
+  
+38
+
+|
+
+A tal riguardo, la Corte ha precisato che, quand’anche l’elemento comune dei
+marchi in conflitto non possa essere considerato come dominante l’impressione
+complessiva, se ne deve tener conto nella valutazione della somiglianza dei
+medesimi, qualora costituisca in quanto tale il marchio anteriore e conservi
+una posizione distintiva autonoma nel marchio, composto in particolare da tale
+elemento, di cui è chiesta la registrazione. Invero, quando un elemento comune
+mantiene una posizione distintiva autonoma nel segno composto, l’impressione
+complessiva prodotta dal segno in parola può indurre il pubblico a credere che
+i prodotti o i servizi in causa provengano, in ogni caso, da imprese
+economicamente collegate, circostanza in cui si deve ravvisare un rischio di
+confusione (sentenza Medion, C‑120/04, EU:C:2005:594, punti 30 e 36, nonché
+ordinanza ecoblue/UAMI e Banco Bilbao Vizcaya Argentaria, C‑23/09 P,
+EU:C:2010:35, punto 45).  
+  
+---|---  
+  
+39
+
+|
+
+Tuttavia, la Corte ha altresì precisato che un elemento di un segno composto
+non mantiene una siffatta posizione distintiva autonoma se tale elemento forma
+con l’altro o gli altri elementi del segno, considerati complessivamente,
+un’unità avente un senso diverso rispetto a quello di detti elementi
+considerati singolarmente (sentenza Bimbo/UAMI, C‑591/12 P, EU:C:2014:305,
+punto 25).  
+  
+---|---  
+  
+40
+
+|
+
+Occorre ancora ricordare, al pari di quanto fatto dall’avvocato generale al
+paragrafo 40 delle sue conclusioni, che, in linea di principio, anche un
+elemento dotato solamente di un tenue carattere distintivo può dominare
+l’impressione complessiva di un marchio composto o rivestire, all’interno di
+detto marchio, una posizione distintiva autonoma ai sensi della giurisprudenza
+derivante dalla sentenza Medion (C‑120/04, EU:C:2005:594), qualora,
+segnatamente per la sua posizione nel segno o per le sue dimensioni, possa
+imporsi alla percezione del consumatore e restare nella sua memoria.  
+  
+---|---  
+  
+41
+
+|
+
+Nella specie spetterà al giudice del rinvio determinare, segnatamente mediante
+un’analisi delle componenti del marchio posteriore e del loro peso relativo
+nella percezione del pubblico di riferimento, l’impressione complessiva da
+esso prodotta nella memoria di detto pubblico e procedere poi, alla luce di
+questa impressione complessiva e di tutti i fattori pertinenti del caso di
+specie, alla valutazione del rischio di confusione (sentenza Bimbo/UAMI,
+C‑591/12 P, EU:C:2014:305, punto 34).  
+  
+---|---  
+  
+42
+
+|
+
+Si deve tuttavia rilevare che la mera circostanza che il marchio posteriore
+sia composto da un segno che riproduce la sequenza di lettere costituente
+l’unico elemento verbale del marchio anteriore e da un sintagma, le cui
+iniziali corrispondono alla suddetta sequenza non può, di per se stesso,
+escludere la sussistenza di un rischio di confusione con tale marchio
+anteriore.  
+  
+---|---  
+  
+43
+
+|
+
+Pertanto, nelle circostanze di cui al procedimento principale, il giudice del
+rinvio dovrà esaminare, tra gli altri fattori, se i legami che il pubblico di
+riferimento può stabilire tra la sequenza di lettere e il sintagma, in
+particolare la possibilità che la prima sia percepita come un acronimo del
+secondo, siano tali che detta sequenza possa essere percepita e memorizzata
+dal pubblico di riferimento in modo autonomo nel marchio posteriore. Allo
+stesso modo egli dovrà eventualmente valutare se gli elementi del marchio
+posteriore, considerati complessivamente, formino un’unità logica distinta con
+un significato diverso rispetto al significato dei suddetti elementi
+considerati singolarmente.  
+  
+---|---  
+  
+44
+
+|
+
+Di conseguenza, occorre rispondere alla questione posta dichiarando che
+l’articolo 4, paragrafo 1, lettera b), della direttiva 2008/95 deve essere
+interpretato nel senso che, in presenza di prodotti e di servizi identici o
+simili, per il pubblico di riferimento può sussistere un rischio di confusione
+tra un marchio anteriore composto da una sequenza di lettere, che ha carattere
+distintivo e che costituisce l’elemento dominante di tale marchio dotato di
+media forza identificativa, e un marchio posteriore che riproduce la medesima
+sequenza di lettere alla quale viene aggiunto un sintagma descrittivo composto
+da parole le cui iniziali corrispondono alle lettere di tale sequenza, sicché
+quest’ultima viene percepita da tale pubblico come l’acronimo del suddetto
+sintagma.  
+  
+---|---  
+  
+Sulle spese
+
+45
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 4, paragrafo 1, lettera b), della direttiva 2008/95/CE del
+Parlamento europeo e del Consiglio, del 22 ottobre 2008, sul ravvicinamento
+delle legislazioni degli Stati membri in materia di marchi d’impresa, deve
+essere interpretato nel senso che, in presenza di prodotti e di servizi
+identici o simili, per il pubblico di riferimento può sussistere un rischio di
+confusione tra un marchio anteriore composto da una sequenza di lettere, che
+ha carattere distintivo e che costituisce l’elemento dominante di tale marchio
+dotato di media forza identificativa, e un marchio posteriore che riproduce la
+medesima sequenza di lettere alla quale viene aggiunto un sintagma descrittivo
+composto da parole le cui iniziali corrispondono alle lettere di tale
+sequenza, sicché quest’ultima viene percepita da tale pubblico come l’acronimo
+del suddetto sintagma.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il tedesco.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

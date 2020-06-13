@@ -1,0 +1,2548 @@
+
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+1o ottobre 2015 ( * )
+
+«Impugnazione — Aiuti di Stato — Aiuti concessi dalle autorità ungheresi a
+favore di taluni produttori di energia elettrica — Accordi per l’acquisto di
+energia elettrica conclusi da un’impresa pubblica e taluni produttori di
+energia elettrica — Decisione che dichiara tali aiuti incompatibili con il
+mercato comune e che ne ordina il recupero — Nozione di “parte” che può
+proporre un’impugnazione dinanzi alla Corte — Adesione dell’Ungheria
+all’Unione europea — Data di riferimento al fine della valutazione
+dell’esistenza di un aiuto — Nozione di “aiuto di Stato” — Vantaggio —
+Criterio dell’investitore privato — Metodo di calcolo dell’importo dei
+suddetti aiuti»
+
+Nella causa C‑357/14 P,
+
+avente ad oggetto l’impugnazione, ai sensi dell’articolo 56 dello Statuto
+della Corte di giustizia dell’Unione europea, proposta il 21 luglio 2014,
+
+Electrabel SA, con sede in Bruxelles (Belgio),
+
+Dunamenti Erőmű Zrt., con sede in Százhalombatta (Ungheria),
+
+rappresentata da J. Philippe, F.-H. Boret e A.-C. Guyon, avocats, nonché da P.
+Turner, QC,
+
+ricorrenti,
+
+procedimento in cui l’altra parte è:
+
+Commissione europea, rappresentata da L. Flynn e K. Talabér-Ritz, in qualità
+di agenti,
+
+convenuta in primo grado,
+
+LA CORTE (Terza Sezione),
+
+composta da M. Ilešič, presidente di sezione, A. Ó Caoimh (relatore), C.
+Toader, E. Jarašiūnas e C.G. Fernlund, giudici,
+
+avvocato generale: M. Wathelet
+
+cancelliere: L. Hewlett, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all’udienza del 20 aprile
+2015,
+
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 1o
+luglio 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+Con la loro impugnazione, la Electrabel SA (in prosieguo: la «Electrabel») e
+la Dunamenti Erőmű Zrt. (in prosieguo: la «Dunamenti Erőmű») chiedono
+l’annullamento della sentenza del Tribunale dell’Unione europea Dunamenti
+Erőmű/Commissione (T‑179/09, EU:T:2014:236; in prosieguo: la «sentenza
+impugnata»), con cui è stato respinto il ricorso proposto dalla Dunamenti
+Erőmű per ottenere l’annullamento della decisione 2009/609/CE della
+Commissione, del 4 giugno 2008, relativa agli aiuti di Stato C 41/05 concessi
+dall’Ungheria nel quadro degli accordi per l’acquisto di energia elettrica (GU
+2009, L 225, pag. 53; in prosieguo: la «decisione controversa»), e, in via
+subordinata, dei suoi articoli 2 e 5.  
+  
+---|---  
+  
+Contesto normativo
+
+2
+
+|
+
+A norma dell’articolo 2 dell’atto relativo alle condizioni di adesione della
+Repubblica ceca, della Repubblica di Estonia, della Repubblica di Cipro, della
+Repubblica di Lettonia, della Repubblica di Lituania, della Repubblica di
+Ungheria, della Repubblica di Malta, della Repubblica di Polonia, della
+Repubblica di Slovenia e della Repubblica slovacca e agli adattamenti dei
+trattati sui quali si fonda l’Unione europea (GU 2003, L 236, pag. 33; in
+prosieguo: l’«atto di adesione del 2003»):
+
+«Dalla data di adesione le disposizioni dei trattati originari e gli atti
+adottati dalle istituzioni e dalla Banca centrale europea prima dell’adesione
+vincolano i nuovi Stati membri e si applicano in tali Stati alle condizioni
+previste da detti trattati e dal presente atto».  
+  
+---|---  
+  
+3
+
+|
+
+L’allegato IV dell’atto di adesione del 2003 contiene, al suo punto 3, le
+regole sugli aiuti di Stato istituiti, in particolare in Ungheria, prima della
+data della sua adesione all’Unione europea. I paragrafi da 1 a 3 del suddetto
+punto 3 sono formulati come segue:
+
+|
+
+«1.
+
+|
+
+I seguenti regimi di aiuti e gli aiuti individuali istituiti in un nuovo Stato
+membro prima della data di adesione e ancora applicabili successivamente a
+detta data sono da considerare, dopo l’adesione, come aiuti esistenti ai sensi
+dell’articolo 88, paragrafo 1, [CE]:
+
+|
+
+a)
+
+|
+
+misure di aiuto istituite prima del 10 dicembre 1994;  
+  
+---|---  
+  
+b)
+
+|
+
+misure di aiuto elencate nell’appendice del presente allegato;  
+  
+---|---  
+  
+c)
+
+|
+
+misure di aiuto che anteriormente alla data di adesione sono state esaminate
+dall’autorità di controllo degli aiuti di Stato del nuovo Stato membro e
+giudicate compatibili con l’acquis e nei cui confronti la Commissione non ha
+sollevato obiezioni per seri dubbi sulla compatibilità della misura con il
+mercato comune, ai sensi della procedura di cui al punto 2.  
+  
+---|---  
+  
+Tutte le misure ancora applicabili dopo la data di adesione che costituiscono
+un aiuto di Stato e che non soddisfano le condizioni sopra elencate sono
+considerate, dalla data di adesione, nuovi aiuti ai fini dell’applicazione
+dell’articolo 88, paragrafo 3, [CE].
+
+(...)  
+  
+2.
+
+|
+
+(...)
+
+Se, entro tre mesi dalla ricezione delle informazioni complete sulla misura di
+aiuto esistente o dalla ricezione della dichiarazione del nuovo Stato membro
+nella quale si informa la Commissione che si ritiene che le informazioni
+fornite sono complete poiché le ulteriori informazioni richieste non sono
+disponibili o sono già state fornite, la Commissione non ha espresso seri
+dubbi sulla compatibilità della stessa con il mercato comune, si ritiene che
+la Commissione non abbia sollevato obiezioni.
+
+Tutte le misure di aiuto sottoposte alla Commissione in base alla procedura di
+cui al punto 1, lettera c), prima della data di adesione sono sottoposte alla
+procedura di cui sopra indipendentemente dal fatto che durante il periodo di
+esame il nuovo Stato membro interessato sia già divenuto membro dell’Unione.  
+  
+---|---  
+  
+3.
+
+|
+
+Un’eventuale decisione della Commissione di sollevare obiezioni nei confronti
+di una misura, ai sensi del punto 1, lettera c), è considerata come una
+decisione di avviare il procedimento di indagine formale ai sensi del
+regolamento (CE) n. 659/1999 [del Consiglio, del 22 marzo 1999,] recante
+modalità di applicazione dell’articolo [88 CE] [(GU L 83, pag. 1)].
+
+Se tale decisione è presa anteriormente alla data di adesione, essa entra in
+vigore solo dalla data di adesione».  
+  
+---|---  
+  
+Fatti e decisione controversa
+
+4
+
+|
+
+I fatti e la decisione controversa, quali risultano dai punti da 1 a 29 della
+sentenza impugnata, possono essere riassunti come segue.  
+  
+---|---  
+  
+Le ricorrenti
+
+5
+
+|
+
+La Dunamenti Erőmű è un produttore di energia elettrica nel mercato ungherese
+dell’elettricità e gestisce una centrale elettrica situata a circa 30 km a sud
+di Budapest (Ungheria). Si tratta di un’ex impresa pubblica privatizzata a
+metà degli anni ’90. All’epoca della valutazione dei fatti compiuta dal
+Tribunale nell’ambito della causa che ha dato luogo alla sentenza impugnata,
+la Dunamenti Erőmű era controllata per il 75% circa dalla Electrabel, che fa
+parte di un gruppo di cui la GDF Suez SA è la controllante, e per il 25% circa
+dalla Magyar Villamos Művek Zrt. (in prosieguo: la «MVM»), una società
+pubblica attiva nel settore della produzione di energia elettrica e del
+commercio all’ingrosso, della trasmissione e della rivendita di energia
+elettrica nel suddetto mercato.  
+  
+---|---  
+  
+6
+
+|
+
+Il 10 ottobre 1995, ossia poco prima della sua privatizzazione, la Dunamenti
+Erőmű ha concluso con la MVM un accordo per l’acquisto di energia elettrica
+riguardante le unità «blocchi F» e «blocco G2» della sua centrale elettrica
+(in prosieguo: l’«AAE in questione»). Tale accordo, che è entrato in vigore
+nel corso del 1996, doveva durare, per quanto riguarda i «blocchi F», che
+funzionavano a gas, sino al 2010 e, per quanto riguarda il «blocco G2», dotato
+di una turbina a gas a ciclo combinato, sino al 2015.  
+  
+---|---  
+  
+Gli accordi per l’acquisto di energia elettrica
+
+7
+
+|
+
+Come la Dunamenti Erőmű, altri produttori di energia elettrica attivi sul
+mercato ungherese hanno concluso accordi a lungo termine per l’acquisto di
+energia elettrica con la MVM (in prosieguo: gli «AAE»).  
+  
+---|---  
+  
+8
+
+|
+
+Gli AAE si caratterizzano principalmente per due elementi. Da una parte, essi
+impegnano a favore della MVM l’intera capacità produttiva delle centrali
+elettriche oggetto dell’accordo, o la maggior parte di essa.  
+  
+---|---  
+  
+9
+
+|
+
+Dall’altra, gli AAE obbligano la MVM ad acquistare una quantità minima di
+energia elettrica prestabilita da tutte le centrali elettriche operanti nel
+quadro degli stessi. Essi prevedono così un livello di prelievo minimo per
+ciascuna centrale elettrica che la MVM è tenuta ad acquistare annualmente.  
+  
+---|---  
+  
+10
+
+|
+
+Negli AAE i prezzi sono stati fissati secondo le seguenti modalità. Sono stati
+attuati un primo e un secondo ciclo di regolamentazione dei prezzi a partire,
+rispettivamente, dal 1o gennaio 1997 e dal 1o gennaio 2001. A decorrere dal 1o
+gennaio 2004, la normativa ha previsto l’introduzione, da una parte, di una
+tariffa di capacità per la capacità impegnata, corrisposta per la sua messa a
+disposizione e volta a coprire i costi fissi e il costo di capitale, versata
+dalla MVM, e, dall’altra, una tariffa energetica, volta a retribuire il
+prelievo minimo previsto e che copre i costi variabili. Tuttavia, se la MVM
+non acquista detta quantità minima fissata, essa è tenuta a pagare i costi del
+combustibile.  
+  
+---|---  
+  
+11
+
+|
+
+Gli AAE conclusi nel periodo 1995‑1996, che rappresentano sette dei dieci AAE
+esaminati dalla Commissione, compreso l’AAE in questione, facevano parte
+integrante del processo di privatizzazione delle centrali elettriche. Essi
+sono stati parzialmente modificati dalle parti dopo la privatizzazione.  
+  
+---|---  
+  
+L’adesione dell’Ungheria all’Unione
+
+12
+
+|
+
+Il Trattato tra il Regno del Belgio, il Regno di Danimarca, la Repubblica
+federale di Germania, la Repubblica ellenica, il Regno di Spagna, la
+Repubblica francese, l’Irlanda, la Repubblica italiana, il Granducato di
+Lussemburgo, il Regno dei Paesi Bassi, la Repubblica d’Austria, la Repubblica
+portoghese, la Repubblica di Finlandia, il Regno di Svezia, il Regno Unito di
+Gran Bretagna e Irlanda del nord (Stati membri dell’Unione europea) e la
+Repubblica ceca, la Repubblica di Estonia, la Repubblica di Cipro, la
+Repubblica di Lettonia, la Repubblica di Lituania, la Repubblica di Ungheria,
+la Repubblica di Malta, la Repubblica di Polonia, la Repubblica di Slovenia,
+la Repubblica slovacca relativo all’adesione della Repubblica ceca, della
+Repubblica di Estonia, della Repubblica di Cipro, della Repubblica di
+Lettonia, della Repubblica di Lituania, della Repubblica di Ungheria, della
+Repubblica di Malta, della Repubblica di Polonia, della Repubblica di Slovenia
+e della Repubblica slovacca all’Unione europea (GU 2003, L 236, pag. 17; in
+prosieguo: il «Trattato di adesione»), è stato firmato dall’Ungheria il 16
+aprile 2003 ed è entrato in vigore il 1o maggio 2004.  
+  
+---|---  
+  
+Il procedimento dinanzi alla Commissione e la decisione controversa
+
+13
+
+|
+
+Con lettera del 31 marzo 2004, la Commissione ha ricevuto dalle autorità
+ungheresi una notifica riguardante il decreto governativo 183/2002 (VIII.23)
+sulle regole dettagliate per la determinazione e la gestione dei «costi non
+recuperabili» conformemente al procedimento di cui all’allegato IV, punto 3,
+paragrafo 1, lettera c), dell’atto di adesione del 2003. Il decreto
+governativo notificato disciplina il sistema di compensazione dei costi
+sostenuti dalla MVM in quanto distributore di energia elettrica.  
+  
+---|---  
+  
+14
+
+|
+
+Con lettera del 13 aprile 2005, le autorità ungheresi hanno ritirato la
+suddetta notifica. Il 4 maggio 2005 la Commissione, in conformità del
+regolamento n. 659/1999, ha registrato, d’ufficio, un fascicolo in materia di
+aiuti di Stato con riferimento agli AAE.  
+  
+---|---  
+  
+15
+
+|
+
+A seguito di vari scambi tra l’Ungheria e la Commissione, quest’ultima ha
+adottato, il 4 giugno 2008, la decisione controversa.  
+  
+---|---  
+  
+16
+
+|
+
+Ai punti da 468 a 470 della decisione in parola, la Commissione ha stabilito
+che gli AAE concedevano ai produttori di energia elettrica ungheresi un aiuto
+di Stato illegittimo ai sensi dell’articolo 87, paragrafo 1, CE e che tale
+aiuto di Stato era incompatibile con il mercato comune. La Commissione ha
+aggiunto che l’aiuto di Stato risultante dagli AAE era rappresentato
+dall’obbligo di acquisto da parte della MVM di una determinata capacità e un
+determinato quantitativo minimo di energia elettrica a un prezzo che coprisse
+i costi fissi, variabili e di capitale, per una porzione significativa della
+durata di vita delle unità produttive, garantendo così il recupero degli
+investimenti. Essa ha quindi ordinato la soppressione di detto aiuto.  
+  
+---|---  
+  
+17
+
+|
+
+Il dispositivo della decisione controversa è così formulato:
+
+«Articolo 1
+
+1\. L’obbligo di acquisto stabilito negli [AAE] a lungo termine stipulati tra
+[la MVM] e [la Dunamenti Erőmű e altri sei produttori di elettricità
+ungheresi] costituisce aiuto di Stato a favore dei produttori di energia
+elettrica ai sensi dell’articolo 87, paragrafo 1 [CE].
+
+2\. L’aiuto di Stato di cui [al paragrafo 1] non è compatibile con il mercato
+comune.
+
+3\. Entro sei mesi dalla comunicazione della presente decisione, l’Ungheria
+deve cessare la concessione dell’aiuto di Stato di cui al paragrafo 1.
+
+Articolo 2
+
+1\. L’Ungheria deve recuperare dai beneficiari l’aiuto di cui all’articolo 1.
+
+(...)
+
+Articolo 3
+
+1\. Entro due mesi dalla comunicazione della presente decisione la Repubblica
+di Ungheria deve informare la Commissione delle misure adottate e progettate
+per conformarsi alla presente decisione e in particolare dei provvedimenti
+presi per eseguire in maniera adeguata la simulazione del mercato all’ingrosso
+necessaria a calcolare l’importo da recuperare, indicando nei dettagli la
+metodologia prevista e i dati che intende usare per il calcolo.
+
+(...)
+
+Articolo 4
+
+1\. L’Ungheria calcola l’importo esatto dell’aiuto da recuperare sulla base di
+un’adeguata simulazione della situazione del mercato all’ingrosso dell’energia
+elettrica che si sarebbe verificata se nessuno degli [AAE] a lungo termine di
+cui all’articolo 1, paragrafo 1, fosse stato in vigore al 1o maggio 2004.
+
+2\. Entro sei mesi dalla notifica della presente decisione l’Ungheria deve
+calcolare gli importi da recuperare sulla base del sistema di cui al paragrafo
+1 e presenta alla Commissione tutte le informazioni pertinenti relative alla
+simulazione succitata, in particolare i risultati, la metodologia applicata e
+i dati utilizzati.
+
+Articolo 5
+
+L’Ungheria garantisce di recuperare l’aiuto di cui all’articolo 1 entro dieci
+mesi dalla notifica della presente decisione.
+
+Articolo 6
+
+La Repubblica di Ungheria è destinataria della presente decisione».  
+  
+---|---  
+  
+Procedimento dinanzi al Tribunale e sentenza impugnata
+
+18
+
+|
+
+Con ricorso depositato presso la cancelleria del Tribunale il 28 aprile 2009,
+la Dunamenti Erőmű ha presentato un ricorso diretto all’annullamento della
+decisione controversa e, in via subordinata, degli articoli 2 e 5 della
+decisione in parola nella parte in cui ordinano il recupero in capo ad essa di
+un importo superiore rispetto all’aiuto che la Commissione avrebbe dovuto
+considerare come incompatibile con il mercato comune.  
+  
+---|---  
+  
+19
+
+|
+
+A fondamento del suo ricorso, la Dunamenti Erőmű ha sollevato quattro motivi,
+vertenti, in primo luogo, sul fatto che la Commissione avrebbe erroneamente
+accertato l’esistenza di un aiuto di Stato ai sensi dell’articolo 87,
+paragrafo 1, CE; in secondo luogo, anche ammettendo che gli accordi conclusi
+nel corso dell’anno 1995 abbiano comportato un aiuto di Stato a suo favore, la
+Commissione avrebbe dovuto considerarli, a partire dal 1o maggio 2004, non
+come aiuti nuovi, ma come aiuti esistenti a norma dell’articolo 88, paragrafo
+1, CE; in terzo luogo, la Commissione avrebbe commesso vari errori quanto alla
+compatibilità dell’aiuto di Stato di cui trattasi con il mercato comune e, in
+quarto luogo, la legittimità dell’ordine di recupero dell’aiuto in parola
+sarebbe discutibile.  
+  
+---|---  
+  
+20
+
+|
+
+Con la sentenza impugnata il Tribunale ha respinto tutti i suddetti motivi.  
+  
+---|---  
+  
+Conclusioni delle parti dinanzi alla Corte
+
+21
+
+|
+
+Con la loro impugnazione, le ricorrenti chiedono che la Corte voglia:
+
+|
+
+—
+
+|
+
+annullare la sentenza impugnata nella parte in cui conferma la decisione
+controversa;  
+  
+---|---  
+  
+—
+
+|
+
+in via principale, statuire in via definitiva e annullare la decisione
+controversa, nella parte in cui ha dichiarato gli AAE illegittimi e integranti
+aiuti di Stato incompatibili con il mercato comune o, in subordine, rinviare
+la causa al Tribunale, e  
+  
+---|---  
+  
+—
+
+|
+
+condannare la Commissione alle spese del procedimento dinanzi al Tribunale e
+alla Corte.  
+  
+---|---  
+  
+22
+
+|
+
+La Commissione chiede alla Corte:
+
+|
+
+—
+
+|
+
+di dichiarare l’impugnazione irricevibile per la parte in cui è stata proposta
+dalla Electrabel;  
+  
+---|---  
+  
+—
+
+|
+
+di respingere l’impugnazione per la parte in cui è stata proposta dalla
+Dunamenti Erőmű e  
+  
+---|---  
+  
+—
+
+|
+
+di condannare la Dunamenti Erőmű alle spese.  
+  
+---|---  
+  
+Sull’impugnazione
+
+23
+
+|
+
+Le ricorrenti deducono cinque motivi a sostegno della loro impugnazione.  
+  
+---|---  
+  
+24
+
+|
+
+La Commissione contesta, da un lato, la ricevibilità dell’impugnazione per la
+parte in cui essa è proposta dalla Electrabel e, dall’altro, nello specifico,
+la ricevibilità del terzo e del quarto motivo, oltre alla fondatezza di
+ciascuno dei cinque motivi dedotti dalle ricorrenti.  
+  
+---|---  
+  
+25
+
+|
+
+È opportuno, in via preliminare, esaminare la questione della ricevibilità
+dell’impugnazione per la parte in cui è proposta dalla Electrabel e gli
+argomenti presentati dalla Commissione vertenti sull’irricevibilità del terzo
+e quarto motivo nell’ambito della singola valutazione di ciascuno di essi.  
+  
+---|---  
+  
+Sulla ricevibilità dell’impugnazione per la parte in cui essa è proposta dalla
+Electrabel
+
+Argomenti delle parti
+
+26
+
+|
+
+La Commissione chiede alla Corte di dichiarare l’impugnazione irricevibile nei
+limiti in cui essa è proposta dalla Electrabel, in quanto quest’ultima non era
+parte del procedimento di primo grado.  
+  
+---|---  
+  
+27
+
+|
+
+Le ricorrenti ritengono che l’impugnazione sia ricevibile nella parte in cui è
+stata proposta dalla Electrabel. Esse osservano che quando il ricorso avverso
+la decisione controversa è stato presentato dinanzi al Tribunale, la
+Electrabel e la Dunamenti Erőmű erano parte del medesimo gruppo di imprese e
+che il loro interesse economico e giuridico poteva essere difeso da una sola
+di esse.  
+  
+---|---  
+  
+28
+
+|
+
+Orbene, nel mese di giugno 2014, la Electrabel avrebbe venduto le quote che
+essa deteneva nella Dunamenti Erőmű e l’interesse comune delle due suddette
+entità dovrebbe quindi essere difeso al contempo dalla Electrabel e dalla
+Dunamenti Erőmű. Un’interpretazione delle regole di procedura della Corte nel
+senso che vietano alla Electrabel di proporre la presente impugnazione
+contrasterebbe con il principio di buona amministrazione e priverebbe la
+società in parola di un accesso effettivo alla giustizia.  
+  
+---|---  
+  
+Giudizio della Corte
+
+29
+
+|
+
+Occorre ricordare che, a norma dell’articolo 56, secondo comma, dello Statuto
+della Corte di giustizia dell’Unione europea, l’impugnazione dinanzi alla
+Corte «può essere proposta da qualsiasi parte che sia rimasta parzialmente o
+totalmente soccombente nelle sue conclusioni». Nel caso di specie, è pacifico
+che la Electrabel non ha presentato conclusioni in primo grado. Inoltre, anche
+ammettendo che, all’atto dell’introduzione del ricorso dinanzi al Tribunale,
+la Electrabel abbia fatto parte del medesimo gruppo di imprese della Dunamenti
+Erőmű, quest’ultima parte del procedimento di primo grado, una tale
+circostanza non sarebbe sufficiente per accordare alla Electrabel la qualità
+di «parte», ai sensi di detta disposizione.  
+  
+---|---  
+  
+30
+
+|
+
+Peraltro, contrariamente a quanto sostenuto dalle ricorrenti,
+un’interpretazione dello Statuto della Corte di giustizia che impedisca alla
+Electrabel di proporre la presente impugnazione non viola in alcun modo il
+diritto di quest’ultima di accedere alla giustizia o il principio di buona
+amministrazione. Al contrario, una delimitazione della categoria delle persone
+che possono proporre un’impugnazione dinanzi alla Corte in una determinata
+causa, come quella prevista a norma dell’articolo 56 dello Statuto in parola,
+ha proprio l’obiettivo di assicurare una buona amministrazione della
+giustizia, garantendo in particolare una certa prevedibilità delle
+impugnazioni che possono essere presentate avverso le decisioni del Tribunale
+ed evitando che siano elusi i termini e le condizioni di ricevibilità che si
+applicano ad altri mezzi di ricorso previsti dal diritto dell’Unione.  
+  
+---|---  
+  
+31
+
+|
+
+Alla luce delle considerazioni che precedono, occorre ritenere la presente
+impugnazione irricevibile per la parte in cui è proposta dalla Electrabel.  
+  
+---|---  
+  
+Sul primo motivo vertente sull’erroneità del ragionamento seguito dal
+Tribunale per qualificare l’AAE in questione come aiuto nuovo
+
+Argomenti delle parti
+
+32
+
+|
+
+La Dunamenti Erőmű afferma che il Tribunale ha commesso un errore di diritto
+concludendo, al punto 60 della sentenza impugnata, che l’AAE in questione
+costituisce un aiuto nuovo ai sensi dell’allegato IV dell’atto di adesione del
+2003, per non aver preventivamente verificato se tale accordo integri un aiuto
+di Stato.  
+  
+---|---  
+  
+33
+
+|
+
+L’approccio adottato dal Tribunale sarebbe erroneo per due ragioni. In primo
+luogo, fondandosi su un’ipotesi implicita, ossia l’esistenza di un aiuto di
+Stato, il Tribunale non avrebbe sufficientemente motivato il suo accertamento
+circa l’esistenza di un aiuto nuovo. A questo proposito, dalla formulazione
+stessa dell’allegato IV dell’atto di adesione del 2003 risulterebbe che esso è
+applicabile soltanto a misure che costituiscono un aiuto di Stato. In secondo
+luogo, il Tribunale avrebbe adottato, ai punti da 55 a 60, da 61 a 73 e da 77
+a 98 della sentenza impugnata, un ragionamento «circolare», nel quale sarebbe
+l’ipotesi dell’esistenza di un aiuto di Stato ad aver in definitiva condotto
+alla conclusione dell’effettiva esistenza dell’aiuto di cui trattasi.  
+  
+---|---  
+  
+34
+
+|
+
+In occasione dell’udienza dinanzi alla Corte, la Dunamenti Erőmű ha sostenuto
+che, ai punti 78 e 79 della sentenza OTP Bank (C‑672/13, EU:C:2015:185), la
+Corte ha stabilito che è necessario verificare se una misura statale contenga
+un aiuto di Stato prima di esaminare se tale aiuto debba essere qualificato
+come aiuto nuovo o esistente.  
+  
+---|---  
+  
+35
+
+|
+
+La Commissione sostiene che il primo motivo in parola è infondato.  
+  
+---|---  
+  
+Giudizio della Corte
+
+36
+
+|
+
+Occorre anzitutto osservare che, come già stabilito dalla Corte, il Tribunale
+è libero di strutturare e di sviluppare il suo ragionamento nel modo che
+ritiene doveroso per rispondere ai motivi sottoposti al suo esame. Pertanto,
+la struttura e lo sviluppo della risposta scelti dal Tribunale non possono
+essere messi in discussione nell’ambito di un’impugnazione con ricorsi che
+tentino di dimostrare che il Tribunale avrebbe dovuto svolgere il suo
+ragionamento conformandosi alle aspettative del ricorrente (sentenza British
+Telecommunications/Commissione, C‑620/13 P, EU:C:2014:2309, punto 29).  
+  
+---|---  
+  
+37
+
+|
+
+Inoltre, per quanto riguarda i punti 78 e 79 della sentenza OTP Bank
+(C‑672/13, EU:C:2015:185), contrariamente a quanto sostenuto dalla Dunamenti
+Erőmű, la Corte non ha in alcun modo stabilito che l’esistenza di un aiuto di
+Stato deve sempre essere verificata dal Tribunale prima di procedere alla
+qualificazione della misura di cui trattasi come aiuto nuovo o aiuto
+esistente. Infatti, a questo proposito, la Corte si è limitata a osservare
+essenzialmente che, in particolare, qualora il giudice del rinvio avesse
+concluso nel senso che la misura in esame costituiva un aiuto di Stato, tale
+misura doveva essere considerata come aiuto nuovo. Tale accertamento attesta,
+per l’appunto, che la qualifica di una misura come aiuto nuovo può essere
+effettuata sulla base dell’ipotesi dell’esistenza di un aiuto di Stato.  
+  
+---|---  
+  
+38
+
+|
+
+Ne consegue che, nella fattispecie che ha portato all’adozione della sentenza
+impugnata, il Tribunale era libero di verificare se l’AAE in questione
+costituisse un aiuto di Stato solo dopo aver esaminato se, in una tale
+ipotesi, l’aiuto derivante dall’accordo in parola dovesse essere qualificato
+come aiuto esistente.  
+  
+---|---  
+  
+39
+
+|
+
+È peraltro pacifico che, nella sentenza impugnata, il Tribunale ha esaminato
+la totalità degli argomenti ad esso sottoposti, sia nell’ambito del primo
+motivo invocato in primo grado, secondo cui la Commissione avrebbe
+erroneamente riconosciuto l’esistenza di un aiuto di Stato ai sensi
+dell’articolo 87, paragrafo 1, CE, che nell’ambito del secondo motivo
+sollevato dinanzi al Tribunale in base al quale la Commissione avrebbe dovuto
+qualificare l’aiuto derivante dall’AAE in questione non come aiuto nuovo, ma
+come aiuto esistente ai sensi dell’articolo 88, paragrafo 1, CE.  
+  
+---|---  
+  
+40
+
+|
+
+Infine, con le sue argomentazioni svolte in merito al motivo qui in esame, la
+Dunamenti Erőmű non ha neppure dimostrato che la struttura della risposta
+scelta dal Tribunale l’avrebbe indotta in errore.  
+  
+---|---  
+  
+41
+
+|
+
+In particolare, la Dunamenti Erőmű non può contestare al Tribunale un difetto
+di motivazione quanto alla qualificazione dell’AAE in questione come aiuto
+nuovo, per il solo fatto che esso si è fondato – ai fini dell’analisi in
+parola – sull’ipotesi dell’esistenza di un aiuto di Stato, posto che nel
+prosieguo, ai punti 67 e seguenti della sentenza impugnata, esso ha compiuto
+un esame esaustivo degli argomenti attinenti all’esistenza di un siffatto
+aiuto. Inoltre, come sostenuto dalla Commissione, la conclusione cui è
+pervenuto il Tribunale sul punto, ossia che occorreva confermare l’esistenza
+di un aiuto di Stato, non è in alcun modo fondata sulla constatazione, di cui
+al punto 60 della sentenza impugnata, secondo cui l’aiuto derivante dall’AAE
+in questione doveva essere qualificato come aiuto nuovo.  
+  
+---|---  
+  
+42
+
+|
+
+Ne consegue che la Dunamenti Erőmű non può neppure contestare al Tribunale di
+aver seguito un ragionamento «circolare» al fine di rispondere ai primi due
+motivi dedotti in primo grado. Infatti, la circostanza stessa di aver
+proceduto a un esame indipendente della questione dell’esistenza di un aiuto
+di Stato testimonia che il Tribunale si è fondato sull’ipotesi dell’esistenza
+di un aiuto soltanto ai fini di stabilire se l’aiuto derivante dall’AAE in
+questione dovesse essere qualificato come aiuto nuovo o come aiuto esistente.
+Allo stesso modo, l’ipotesi in parola non è stata posta alla base
+dell’analisi, compiuta dal Tribunale ai punti da 61 a 66 della sentenza
+impugnata, della distinta questione della determinazione della data rilevante
+ai fini della valutazione dell’esistenza di un aiuto di Stato.  
+  
+---|---  
+  
+43
+
+|
+
+Il primo motivo di impugnazione deve quindi essere respinto in quanto
+infondato.  
+  
+---|---  
+  
+Sul secondo motivo vertente sull’erroneità della data considerata ai fini di
+valutare se l’AAE in questione comporti un aiuto di Stato
+
+Argomenti delle parti
+
+44
+
+|
+
+La Dunamenti Erőmű sottolinea che essa non contesta che le regole in materia
+di aiuti di Stato siano divenute obbligatorie per l’Ungheria alla data di
+adesione di detto Stato membro all’Unione. Di contro, essa sostiene che sia il
+Tribunale sia la Commissione hanno commesso un errore di diritto interpretando
+l’allegato IV dell’atto di adesione del 2003 nel senso che tale data deve
+essere considerata rilevante ai fini di stabilire se l’AAE in questione
+comporti un aiuto di Stato.  
+  
+---|---  
+  
+45
+
+|
+
+Con la prima parte del suo secondo motivo, la Dunamenti Erőmű sostiene che il
+ragionamento seguito dal Tribunale per stabilire la data pertinente ai fini
+della valutazione dell’esistenza di un aiuto di Stato è destituito di
+fondamento giuridico.  
+  
+---|---  
+  
+46
+
+|
+
+Contrariamente a quanto stabilito dal Tribunale al punto 55 della sentenza
+impugnata, l’allegato IV, punto 3, paragrafo 1, dell’atto di adesione del 2003
+indicherebbe soltanto i casi in cui un aiuto, già qualificato come tale, può
+costituire un aiuto nuovo o esistente e tale allegato non farebbe alcuna
+menzione della data con riferimento alla quale una misura statale deve essere
+esaminata alla luce delle regole in materia di aiuti di Stato.  
+  
+---|---  
+  
+47
+
+|
+
+In effetti, dalla formulazione dell’atto di adesione del 2003 e, in
+particolare, dall’espressione «dopo l’adesione» risulterebbe chiaramente che
+l’allegato in parola trova applicazione alle misure ancora applicabili dopo
+tale data, ma non disciplinerebbe la questione della determinazione della data
+rilevante ai fini della valutazione dell’esistenza di un aiuto. Inoltre, il
+Tribunale, pur avendo ritenuto al punto 55 della sentenza impugnata che
+l’allegato in parola indica il momento rilevante a tal fine, avrebbe stabilito
+– al punto 65 della sentenza in parola – che detta regola potrebbe solo essere
+dedotta dall’allegato di cui trattasi.  
+  
+---|---  
+  
+48
+
+|
+
+La Dunamenti Erőmű aggiunge che sul mancato soddisfacimento, da parte della
+misura de qua, dei quattro criteri enunciati all’articolo 87, paragrafo 1, CE
+prima della data di adesione dell’Ungheria all’Unione non incide il fatto che
+le disposizioni in materia di aiuti di Stato sono divenute obbligatorie a
+partire da detta data.  
+  
+---|---  
+  
+49
+
+|
+
+Con la seconda parte del suo secondo motivo, la Dunamenti Erőmű sostiene che
+il ragionamento del Tribunale è contrario alla prassi della Commissione e alla
+giurisprudenza dei giudici dell’Unione.  
+  
+---|---  
+  
+50
+
+|
+
+Secondo la suddetta giurisprudenza e, in particolare, in base alle sentenze
+Francia/Commissione (C‑482/99, EU:C:2002:294, punti 71 e da 76 a 83),
+Commissione/EDF (C‑124/10 P, EU:C:2012:318, punti 104 e 105), Cityflyer
+Express/Commissione (T‑16/96, EU:T:1998:78, punto 76), Westdeutsche Landesbank
+Girozentrale e Land Nordrhein‑Westfalen/Commissione (T‑228/99 e T‑233/99,
+EU:T:2003:57, punto 246) e Paesi Bassi/Commissione (T‑29/10 e T‑33/10,
+EU:T:2012:98, punto 78), l’esame dell’esistenza di un aiuto e, segnatamente,
+l’analisi attinente all’investitore privato, dovrebbe essere fondata sugli
+elementi esistenti alla data di adozione della misura interessata.  
+  
+---|---  
+  
+51
+
+|
+
+Secondo la Dunamenti Erőmű, che si riferisce, in particolare, ai punti da 169
+a 180 della decisione 2010/690/UE della Commissione, del 4 agosto 2010,
+relativa all’aiuto di Stato C 40/08 (ex N 163/08) cui la Polonia ha dato
+esecuzione a favore di PZL Hydral S.A (GU L 298, pag. 51), il ragionamento
+seguito dal Tribunale nella presente causa è in contrasto anche con gli
+orientamenti della Commissione e con la prassi decisionale di detta
+istituzione secondo cui sarebbero presi in considerazione anche elementi
+relativi al periodo anteriore all’adesione dello Stato membro considerato
+all’Unione.  
+  
+---|---  
+  
+52
+
+|
+
+La Dunamenti Erőmű aggiunge che è illogico ed errato in punto di diritto
+applicare le nozioni di «vantaggio» e di «investitore privato» con riferimento
+a una data in cui non era stato realizzato alcun investimento.  
+  
+---|---  
+  
+53
+
+|
+
+Secondo la Dunamenti Erőmű, nessuna sentenza dei giudici dell’Unione, ad
+eccezione di quelle relative alla decisione controversa, accerta l’esistenza
+di un aiuto di Stato sulla base dell’allegato IV dell’atto di adesione del
+2003. In particolare, la sentenza Kremikovtzi (C‑262/11, EU:C:2012:760)
+riguarderebbe soltanto il recupero dell’aiuto interessato. Nella sentenza in
+parola, la Corte avrebbe menzionato la lettera dell’allegato V dell’atto
+relativo alle condizioni di adesione della Repubblica di Bulgaria e della
+Romania e agli adattamenti dei Trattati sui quali si fonda l’Unione europea
+(GU 2005, L 157, pag. 203; in prosieguo: l’«atto di adesione del 2005»). Se ne
+ricaverebbe soltanto che la conclusione relativa alla valutazione
+dell’esistenza di un aiuto deve sempre essere valida alla data dell’adesione
+all’Unione dello Stato membro interessato. Allo stesso modo, nella sentenza
+Rousse Industry/Commissione (T‑489/11, EU:T:2013:144, punti da 61 a 64), il
+Tribunale avrebbe soltanto stabilito che la Commissione era divenuta
+competente alla data di adesione dello Stato membro interessato all’Unione e
+non avrebbe mai ritenuto che essa costituisse la data pertinente ai fini della
+valutazione dell’esistenza di un aiuto.  
+  
+---|---  
+  
+54
+
+|
+
+La Commissione ritiene che il secondo motivo in parola debba essere respinto
+in quanto infondato.  
+  
+---|---  
+  
+55
+
+|
+
+Ai punti da 50 a 52 della sentenza Kremikovtzi (C‑262/11, EU:C:2012:760),
+relativa all’allegato V dell’atto di adesione del 2005, la Corte avrebbe già
+respinto un argomento analogo a quello sollevato dalla Dunamenti Erőmű
+nell’ambito del secondo motivo della presente impugnazione. Anche nella
+sentenza Rousse Industry/Commissione (T‑489/11, EU:T:2013:144, punti da 61 a
+64), il Tribunale avrebbe respinto un siffatto argomento. Inoltre, nessuna
+delle sentenze su cui si fonda la Dunamenti Erőmű riguarderebbe misure
+adottate da uno Stato membro prima della sua adesione all’Unione e ancora
+applicabili successivamente a tale data.  
+  
+---|---  
+  
+56
+
+|
+
+Peraltro, la Commissione ricorda, richiamando la sentenza Commissione /Irlanda
+e a. (C‑89/08 P, EU:C:2009:742, punti 72 e 73), che la nozione di aiuto di
+Stato è una nozione oggettiva. La Dunamenti Erőmű non potrebbe pertanto
+contestare al Tribunale di non aver motivato la sua decisione rispetto alla
+posizione adottata dalla Commissione nei suoi orientamenti.  
+  
+---|---  
+  
+Giudizio della Corte
+
+57
+
+|
+
+Con le due parti del suo secondo motivo, che è opportuno esaminare insieme, la
+Dunamenti Erőmű sostiene essenzialmente che il Tribunale ha commesso un errore
+di diritto interpretando l’allegato IV dell’atto di adesione del 2003 nel
+senso che la data di adesione doveva essere ritenuta pertinente ai fini della
+valutazione della questione se l’AAE di cui trattasi contenesse un aiuto di
+Stato.  
+  
+---|---  
+  
+58
+
+|
+
+Occorre fin da subito osservare che, come rilevato dal Tribunale al punto 53
+della sentenza impugnata e come risulta anche dall’articolo 2 dell’atto di
+adesione del 2003, le regole dell’Unione in materia di aiuti di Stato sono
+divenute vincolanti in Ungheria il 1o maggio 2004, ossia il giorno
+dell’adesione di detto Stato membro all’Unione.  
+  
+---|---  
+  
+59
+
+|
+
+Peraltro, come osserva il Tribunale al punto 54 della sentenza impugnata,
+l’allegato IV, punto 3, dell’atto di adesione del 2003 ha fissato regole
+specifiche per gli aiuti esistenti in Ungheria alla data dell’adesione
+all’Unione da parte di detto Stato membro. In particolare, quest’ultimo ha
+accettato l’inserimento in tale atto di disposizioni in forza delle quali le
+misure di aiuto ancora applicabili dopo tale adesione dovevano essere
+esaminate alla luce delle disposizioni dell’Unione in materia di aiuti di
+Stato se non potevano essere qualificate come aiuti esistenti a norma di detto
+atto.  
+  
+---|---  
+  
+60
+
+|
+
+Ne consegue che, al suddetto punto 54, il Tribunale ha correttamente stabilito
+che la determinazione della data rilevante ai fini della valutazione, a norma
+dell’articolo 87, paragrafo 1, CE, di una misura statale adottata
+dall’Ungheria prima della sua adesione all’Unione e ancora applicabile dopo
+tale data doveva essere esaminata in base all’atto di adesione del 2003.  
+  
+---|---  
+  
+61
+
+|
+
+A tal proposito occorre ricordare che, come osservato dal Tribunale al punto
+62 della sentenza impugnata, dall’allegato IV, punto 3, dell’atto di adesione
+del 2003 emerge che gli Stati che erano membri dell’Unione anteriormente al 1o
+maggio 2004 volevano proteggere il mercato interno da misure comportanti un
+aiuto di Stato, previste nei paesi candidati prima della loro adesione
+all’Unione e potenzialmente idonee a falsare la concorrenza, assoggettando le
+misure di cui trattasi, a partire dal 1o maggio 2004, al regime degli aiuti
+nuovi se tali misure non ricadevano nelle eccezioni precisamente elencate in
+tale allegato.  
+  
+---|---  
+  
+62
+
+|
+
+Peraltro, come correttamente osservato dal Tribunale ai punti 64 e 66 della
+sentenza impugnata, dal tenore dell’articolo 1, lettera b), v), del
+regolamento n. 659/1999 e, in particolare, dal primo periodo della
+disposizione in parola – in base alla quale si considerano aiuti esistenti
+«gli aiuti considerati aiuti esistenti in quanto può essere dimostrato che al
+momento della loro attuazione non costituivano aiuti, ma lo sono diventati
+successivamente a causa dell’evoluzione del mercato comune e senza aver subito
+modifiche da parte dello Stato membro» – si evince che una misura di sostegno
+statale che non integrava un aiuto di Stato al momento della sua attuazione lo
+può divenire in seguito.  
+  
+---|---  
+  
+63
+
+|
+
+Occorre inoltre ricordare che la Corte ha già avuto occasione di stabilire, al
+punto 52 della sentenza Kremikovtzi (C‑262/11, EU:C:2012:760), vertente
+sull’atto di adesione del 2005, che riprende essenzialmente le disposizioni
+dell’atto di adesione del 2003 riportate ai punti 2 e 3 della presente
+sentenza, che le misure attuate prima dell’adesione della Repubblica di
+Bulgaria all’Unione ma che, da una parte, sono ancora applicabili dopo tale
+data e, dall’altra, alla data dell’adesione soddisfano i criteri cumulativi
+enunciati all’articolo 87, paragrafo 1, CE, sono soggette alle regole
+specifiche indicate nell’allegato V dell’atto di adesione del 2005.  
+  
+---|---  
+  
+64
+
+|
+
+Al punto 54 della sentenza Kremikovtzi (C‑262/11, EU:C:2012:760), la Corte ha
+precisato che, come può in particolare dedursi dall’articolo 1, lettere b),
+i), e c), del regolamento n. 659/1999, in combinato disposto con l’articolo 2
+dell’atto di adesione del 2005, è solo successivamente a detta adesione che,
+in Bulgaria, i criteri di cui all’articolo 87, paragrafo 1, CE possono essere
+applicati direttamente in quanto tali, e ciò esclusivamente per quanto
+riguarda situazioni che si presentano dopo tale data.  
+  
+---|---  
+  
+65
+
+|
+
+Ne consegue che l’accertamento compiuto dal Tribunale al punto 65 della
+sentenza impugnata, secondo cui è a partire dalla data dell’adesione
+dell’Ungheria all’Unione che una misura di aiuto applicabile anche dopo tale
+data deve essere valutata alla luce delle quattro condizioni sancite
+all’articolo 87, paragrafo 1, CE, non presenta alcun vizio in punto di
+diritto. Come correttamente stabilito dal Tribunale in detto medesimo punto,
+qualsiasi altra conclusione priverebbe del suo significato l’obiettivo
+perseguito dagli autori del Trattato di adesione, come ricordato al punto 61
+della presente sentenza. Infatti, l’approccio sostenuto dalla Dunamenti Erőmű
+nell’ambito del secondo motivo di impugnazione avrebbe per effetto di
+sottrarre al controllo della Commissione, nel caso di uno Stato membro come
+l’Ungheria che ha aderito all’Unione il 1o maggio 2004, tutte le misure
+adottate prima di tale data che non costituivano aiuto di Stato all’atto della
+loro adozione ma che in seguito sono divenute tali e continuano ad esserlo
+dopo tale data.  
+  
+---|---  
+  
+66
+
+|
+
+Il Tribunale ha altrettanto correttamente ritenuto, ai punti 61 e 62 della
+sentenza impugnata, che il fatto di stabilire se l’AAE in questione
+comportasse un aiuto compatibile con il mercato comune alla data della sua
+adozione o in un qualsiasi altro momento anteriore all’adesione dell’Ungheria
+all’Unione è irrilevante ai fini della qualificazione di tale aiuto come aiuto
+di Stato alla data della suddetta adesione.  
+  
+---|---  
+  
+67
+
+|
+
+Le considerazioni di cui ai punti 65 e 66 della presente sentenza non possono
+essere rimesse in discussione dall’argomento dedotto dalla Dunamenti Erőmű, a
+detta del quale la giurisprudenza dei giudici dell’Unione ha sancito un
+principio in forza del quale una misura di Stato deve essere valutata, a norma
+dell’articolo 87, paragrafo 1, CE, alla data della sua adozione. Come
+sottolinea la Commissione, le sentenze su cui si fonda la Dunamenti Erőmű a
+questo proposito non riguardano misure d’aiuto che erano state adottate da uno
+Stato membro prima della sua adesione all’Unione e che erano ancora
+applicabili dopo di essa, come l’AAE in questione, il quale peraltro si
+inserisce nel quadro normativo specifico descritto ai punti 59 e 61 della
+presente sentenza.  
+  
+---|---  
+  
+68
+
+|
+
+Da ultimo, la prassi seguita dalla Commissione nelle sue decisioni o nei suoi
+orientamenti, quand’anche venisse in aiuto dell’approccio proposto dalla
+Dunamenti Erőmű nell’ambito del secondo motivo di impugnazione, non
+vincolerebbe in ogni caso la Corte nella sua interpretazione delle
+disposizioni dell’Unione in materia di aiuti di Stato. Ogni argomento connesso
+a tale prassi deve quindi essere respinto.  
+  
+---|---  
+  
+69
+
+|
+
+Alla luce delle considerazioni che precedono, il secondo motivo deve essere
+respinto in quanto infondato.  
+  
+---|---  
+  
+Sul terzo motivo, vertente sulla mancanza di un vantaggio riconosciuto alle
+ricorrenti
+
+Argomenti delle parti
+
+70
+
+|
+
+Con il suo terzo motivo, la Dunamenti Erőmű afferma che il Tribunale ha
+commesso un errore di diritto, ai punti 68 e 69 della sentenza impugnata, nel
+respingere gli argomenti attinenti alla sua privatizzazione e concludendo che
+l’AAE in questione aveva accordato alle ricorrenti un vantaggio, ai sensi
+dell’articolo 87, paragrafo 1, CE. In particolare, ritenendo che la data
+rilevante ai fini della valutazione dell’esistenza di un aiuto di Stato fosse
+quella dell’adesione dell’Ungheria all’Unione, il Tribunale avrebbe
+erroneamente ignorato il contesto in cui si colloca la privatizzazione della
+Dunamenti Erőmű, di cui l’AAE in questione costituisce parte integrante.  
+  
+---|---  
+  
+71
+
+|
+
+Il terzo motivo in parola si suddivide in tre parti.  
+  
+---|---  
+  
+72
+
+|
+
+Con la prima parte del suo terzo motivo, la Dunamenti Erőmű afferma che l’AAE
+in questione non ha accordato alle ricorrenti alcun vantaggio ai sensi
+dell’articolo 87, paragrafo 1, CE posto che la MVM ha agito come un
+investitore privato nello stipulare l’accordo in parola quale misura
+preparatoria destinata ad agevolare la privatizzazione della Dunamenti Erőmű.  
+  
+---|---  
+  
+73
+
+|
+
+A questo proposito, la Dunamenti Erőmű osserva che, a metà degli anni ’90, gli
+obiettivi dell’Ungheria in materia di approvvigionamento di energia erano
+quelli di garantire la sicurezza dell’approvvigionamento ai minimi costi
+possibili, modernizzare le infrastrutture, rispettare le norme vigenti in
+materia di tutela ambientale e realizzare la necessaria ristrutturazione del
+settore dell’energia. Secondo la Dunamenti Erőmű, tali obiettivi dovevano
+essere conseguiti in particolare grazie a un programma di privatizzazione.  
+  
+---|---  
+  
+74
+
+|
+
+È in tale contesto che, il 10 ottobre 1995, sarebbe stato concluso l’AAE in
+questione tra la Dunamenti Erőmű e la MVM al fine di permettere l’imminente
+privatizzazione della Dunamenti Erőmű. Così, nel mese di dicembre 1995,
+quest’ultima sarebbe stata acquisita dalla Electrabel.  
+  
+---|---  
+  
+75
+
+|
+
+La Dunamenti Erőmű sottolinea che, nel contesto di una privatizzazione, la
+Commissione deve verificare se lo Stato membro interessato abbia cercato di
+massimizzare il profitto o di minimizzare le perdite cagionate dalla vendita.
+Riferendosi in particolare alla sentenza Spagna/Commissione (da C‑278/92 a
+C‑280/92, EU:C:1994:325, punto 28), la Dunamenti Erőmű aggiunge che uno Stato
+membro agisce come un investitore privato se cede attivi pubblici, da una
+parte, a seguito di una procedura di gara aperta, incondizionata e
+concorrenziale e, dall’altra, al migliore offerente.  
+  
+---|---  
+  
+76
+
+|
+
+Nella presente causa, la corretta applicazione del criterio dell’investitore
+privato mostrerebbe chiaramente che l’AAE in questione non accorda alle
+ricorrenti alcun vantaggio, in quanto sarebbero soddisfatte le condizioni
+ricordate al punto che precede. In particolare, sarebbe stata avviata una
+procedura di gara aperta e concorrenziale e sarebbe stata accettata l’offerta
+più elevata, ossia quella della Electrabel. Lo Stato ungherese si sarebbe
+peraltro servito di uno specialista finanziario indipendente che ha
+caldeggiato una privatizzazione fondata sulla conclusione di un tale accordo.
+Lo Stato in parola avrebbe cercato di massimizzare il suo profitto e avrebbe
+debitamente tenuto conto dell’AAE in questione nell’ambito del prezzo della
+privatizzazione. Il vantaggio tratto dal suddetto Stato dalla vendita sarebbe
+stato riconosciuto dall’ente di controllo contabile di detto stesso Stato.  
+  
+---|---  
+  
+77
+
+|
+
+Con la seconda parte del suo terzo motivo, la Dunamenti Erőmű afferma che, in
+ogni caso, quand’anche l’AAE avesse comportato un qualche vantaggio, esso
+sarebbe stato rimborsato dalla vendita della società in parola. Essa aggiunge,
+riferendosi alle sentenze Banks (C‑390/98, EU:C:2001:456, punto 78) e Falck e
+Acciaierie di Bolzano/Commissione (C‑74/00 P e C‑75/00 P, EU:C:2002:524, punto
+180), che quando una società beneficiaria di un aiuto è stata venduta al
+prezzo di mercato, il prezzo di vendita rispecchia le conseguenze dell’aiuto
+precedente e il soggetto che ha venduto detta società conserva il beneficio
+dell’aiuto.  
+  
+---|---  
+  
+78
+
+|
+
+Nel caso di specie, il vantaggio derivante dall’AAE in questione sarebbe stato
+ricompreso nel prezzo pagato dalla Electrabel per l’acquisto della Dunamenti
+Erőmű e, di conseguenza, la Electrabel avrebbe anticipatamente rimborsato
+l’aiuto di cui trattasi allo Stato ungherese. Secondo la Dunamenti Erőmű è
+quindi detto Stato ad aver conservato il vantaggio in parola dopo la
+privatizzazione realizzata nel corso del 1995, posto che la Dunamenti Erőmű è
+stata acquisita dalla Electrabel a seguito di una procedura di gara
+concorrenziale e aperta. Ne conseguirebbe che, a prescindere dal periodo preso
+in considerazione ai fini della valutazione dell’esistenza di un aiuto,
+mancherebbe uno dei quattro requisiti richiesti per qualificare l’AAE in
+questione come aiuto di Stato.  
+  
+---|---  
+  
+79
+
+|
+
+La Dunamenti Erőmű contesta al Tribunale di non aver esaminato la questione
+della sua personalità giuridica e di quella della Electrabel nel rispondere al
+suo argomento vertente sull’intervenuto rimborso, con la sua privatizzazione,
+dell’aiuto eventualmente derivante dall’AAE in questione. Ai punti 68 e 69
+della sentenza impugnata, il Tribunale avrebbe respinto detto argomento
+rimandando semplicemente all’allegato IV dell’atto di adesione del 2003 per
+concludere che, avendo la privatizzazione in parola avuto luogo prima
+dell’adesione dell’Ungheria all’Unione, tale argomento sarebbe destituito di
+fondamento.  
+  
+---|---  
+  
+80
+
+|
+
+La Dunamenti Erőmű afferma che, nella sentenza AceaElectrabel/Commissione
+(T‑303/05, EU:T:2009:312), il Tribunale ha stabilito che il controllo della
+società e lo svolgimento di attività economiche identiche o parallele sono
+elementi essenziali per stabilire l’esistenza di un’unica entità economica.
+Posto che la situazione della Electrabel e della Dunamenti Erőmű riuniva tutti
+i suddetti elementi alla data della pronuncia della sentenza impugnata,
+occorrerebbe ritenere che esse costituissero un’unica entità economica.  
+  
+---|---  
+  
+81
+
+|
+
+Secondo la Dunamenti Erőmű, gli argomenti sollevati, in via subordinata, dalla
+Commissione per dimostrare l’infondatezza della seconda parte del terzo motivo
+non risulterebbero in alcun modo dalla sentenza impugnata e dovrebbero
+pertanto essere respinti. Peraltro, i punti da 66 a 68 della sentenza Elliniki
+Nafpigokataskevastiki e a./Commissione (T‑384/08, EU:T:2011:650), richiamati
+dalla Commissione, non sarebbero pertinenti in quanto si riferirebbero al
+carattere selettivo e all’imputabilità di una garanzia dello Stato.  
+  
+---|---  
+  
+82
+
+|
+
+Con la terza parte del suo terzo motivo, la Dunamenti Erőmű afferma che
+l’adesione dell’Ungheria all’Unione non ha inciso minimamente sul fatto che
+l’AAE in questione costituiva un elemento fondamentale della privatizzazione,
+anteriore a detta adesione, che non ha attribuito alle ricorrenti alcun
+vantaggio. In particolare, detta adesione non poteva in alcun modo modificare
+il fatto che non era stato riconosciuto alle ricorrenti alcun vantaggio in
+ragione della stipula dell’AAE in questione e che lo Stato ungherese aveva
+agito come un investitore privato in occasione della vendita della Dunamenti
+Erőmű. La modifica della normativa ungherese che ha fatto seguito all’adesione
+di detto Stato membro all’Unione non potrebbe determinare l’insorgenza di un
+vantaggio che non preesisteva.  
+  
+---|---  
+  
+83
+
+|
+
+La Dunamenti Erőmű ritiene che il Tribunale abbia manifestamente confuso la
+data rispetto alla quale esso avrebbe dovuto valutare i criteri relativi
+all’esistenza di un aiuto di Stato con quella a partire dalla quale le
+disposizioni in materia di aiuti di Stato sono divenute vincolanti in
+Ungheria.  
+  
+---|---  
+  
+84
+
+|
+
+La Commissione afferma, in via principale, che il terzo motivo deve essere
+necessariamente respinto se dirimente ai fini della valutazione dell’esistenza
+di un aiuto è la data dell’adesione dell’Ungheria all’Unione. La
+determinazione degli elementi che possono essere ricollegati al periodo avente
+inizio il 1o maggio 2004 costituirebbe una questione di fatto che non potrebbe
+essere invocata in sede di impugnazione dal momento che la Dunamenti Erőmű non
+ha eccepito nessuno snaturamento dei motivi di prova.  
+  
+---|---  
+  
+85
+
+|
+
+In via subordinata, la Commissione afferma che nessuna delle tre parti
+invocate dalla Dunamenti Erőmű nell’ambito del suo terzo motivo è fondata in
+punto di diritto.  
+  
+---|---  
+  
+86
+
+|
+
+Per quanto attiene alla prima di dette parti, la Commissione afferma,
+richiamando la sentenza Elliniki Nafpigokataskevastiki e a./Commissione
+(T‑384/08, EU:T:2011:650, punti da 66 a 68), che la mancanza di vantaggi per
+l’acquirente non esclude l’esistenza di un vantaggio in favore dell’attività
+acquisita. Inoltre, nella sentenza Commissione/Scott (C‑290/07 P,
+EU:C:2010:480, punti da 5 a 11, 25 e 26), l’accertamento dell’esistenza di un
+aiuto a favore di un’impresa non potrebbe essere messo in discussione
+dall’acquisto di parti di essa da un’impresa terza e neppure dall’acquisto
+degli attivi riconducibili all’aiuto da un soggetto terzo. Ne conseguirebbe
+che il fatto che un acquirente acquista a un prezzo di mercato e che, per tale
+ragione, non beneficia esso stesso di un aiuto non sarebbe rilevante al fine
+di stabilire se l’entità acquisita abbia beneficiato di un aiuto.  
+  
+---|---  
+  
+87
+
+|
+
+Per quanto attiene alla seconda parte del terzo motivo, la Commissione afferma
+che la Dunamenti Erőmű confonde l’aiuto concesso a un’entità acquisita e
+quello che è concesso all’acquirente di tale entità. Il fatto che quest’ultimo
+paghi un prezzo di mercato e che, per tale ragione, non benefici esso stesso
+di alcun aiuto non sarebbe rilevante al fine di stabilire se l’entità
+acquisita abbia beneficiato di un aiuto.  
+  
+---|---  
+  
+88
+
+|
+
+Il punto 78 della sentenza Banks (C‑390/98, EU:C:2001:456) sarebbe stato
+incluso a titolo indicativo e riguarderebbe la questione del recupero di un
+aiuto e non quella della sua esistenza. Ai punti 80 e 81 della sentenza
+Germania/Commissione (C‑277/00, EU:C:2004:238), la Corte avrebbe in effetti
+chiaramente stabilito la diversa natura della causa che ha dato luogo alla
+prima di dette sentenze. La Commissione sottolinea che, nel caso di specie, la
+Dunamenti Erőmű ha continuato ad operare sul mercato interessato conservando
+il vantaggio di cui aveva fruito.  
+  
+---|---  
+  
+89
+
+|
+
+Infine, per quanto attiene alla terza parte del terzo motivo, posto che il
+fatto che la MVM ha agito come un investitore privato in sede di conclusione
+dell’AAE in questione e che il fatto che la Electrabel ha pagato il prezzo di
+mercato per l’acquisto della Dunamenti Erőmű non costituirebbero elementi
+pertinenti al fine di stabilire se quest’ultima abbia beneficiato di un
+vantaggio in ragione dell’applicazione di detto accordo a partire
+dall’adesione dell’Ungheria all’Unione, neppure l’effetto di tale adesione
+sulle suddette circostanze assumerebbe rilievo al riguardo.  
+  
+---|---  
+  
+Giudizio della Corte
+
+90
+
+|
+
+Occorre, in via preliminare, respingere l’argomento sollevato dalla
+Commissione vertente sull’irricevibilità del terzo motivo di impugnazione
+poiché esso si fonda su una lettura errata di quest’ultimo. Il motivo in
+parola verte infatti non sulla determinazione degli elementi che possono
+essere ricollegati al periodo avente inizio il 1o maggio 2004, bensì sulla
+questione se il Tribunale, nel valutare se l’AAE in questione accordasse alle
+ricorrenti un vantaggio ai sensi dell’articolo 87, paragrafo 1, CE, potesse
+legittimamente escludere determinati elementi. Quest’ultima questione, quale
+questione di diritto, può essere sollevata in sede di impugnazione.  
+  
+---|---  
+  
+– Sulla prima parte del terzo motivo
+
+91
+
+|
+
+Con la prima parte del suo terzo motivo, la Dunamenti Erőmű afferma
+essenzialmente che il Tribunale, al punto 69 della sentenza impugnata, ha
+commesso un errore di diritto ritenendo che l’AAE in questione conferisse alle
+ricorrenti un vantaggio ai sensi dell’articolo 87, paragrafo 1, CE, in quanto,
+da un lato, la MVM ha agito come un investitore privato in sede di stipula del
+suddetto accordo e, dall’altro, lo Stato ungherese ha agito come un
+investitore privato in occasione della privatizzazione della Dunamenti Erőmű.  
+  
+---|---  
+  
+92
+
+|
+
+Occorre in primo luogo osservare che, contrariamente a quanto suggerisce la
+Dunamenti Erőmű, al punto 69 della sentenza impugnata, il Tribunale non ha
+stabilito che l’AAE in questione accordava alle ricorrenti un vantaggio ai
+sensi dell’articolo 87, paragrafo 1, CE, ma si è limitato a constatare che
+spettava alla Commissione valutare se detta società avesse beneficiato di un
+vantaggio conferito dagli AAE a partire dal 1o maggio 2004. Infatti, dalla
+sentenza impugnata e, in particolare, dai suoi punti 28 e 29, risulta
+chiaramente che l’aiuto di Stato la cui esistenza è stata accertata dalla
+Commissione nella decisione controversa e che, di conseguenza, è stato oggetto
+di un’analisi da parte del Tribunale nella suddetta sentenza, era costituito
+da un vantaggio conferito da tale accordo soltanto alla Dunamenti Erőmű e non
+ai suoi azionisti.  
+  
+---|---  
+  
+93
+
+|
+
+Di conseguenza, la prima parte del terzo motivo di impugnazione, nei limiti in
+cui con essa si contesta al Tribunale di aver accertato che l’AAE in questione
+conferiva alla Electrabel un vantaggio, si fonda su una lettura errata della
+sentenza impugnata e deve quindi essere respinta come infondata.  
+  
+---|---  
+  
+94
+
+|
+
+In secondo luogo, per quanto attiene agli argomenti illustrati ai punti da 72
+a 74 della presente sentenza, vertenti sul fatto che la MVM ha agito – in sede
+di conclusione dell’AAE in questione – come un investitore privato in
+un’economia di mercato, si deve osservare che le argomentazioni in parola non
+sono idonee a dimostrare che l’accordo in esame non conferiva un vantaggio
+alla Dunamenti Erőmű, in quanto si applicava a decorrere dal 1o maggio 2004.
+Infatti, come risulta dal punto 66 della presente sentenza, la questione se
+l’accordo in parola comportasse un aiuto di Stato compatibile con il mercato
+comune alla data della sua conclusione o a una qualsiasi data anteriore
+all’adesione dell’Ungheria all’Unione è priva di rilevanza al fine di
+stabilire se detto accordo contenesse un aiuto di Stato alla data della
+suddetta adesione.  
+  
+---|---  
+  
+95
+
+|
+
+Allo stesso modo, gli argomenti relativi alla vendita della Dunamenti Erőmű
+alla Electrabel, esposti ai punti 75 e 76 della presente sentenza, non
+potrebbero essere accolti in quanto dal punto 92 della presente sentenza
+risulta che l’aiuto di Stato di cui trattasi trae origine non dalla vendita
+stessa, ma dall’AAE in questione in quanto esso si applica a partire dal 1o
+maggio 2004. Peraltro, nei suoi argomenti la Dunamenti Erőmű non spiega
+neppure in che modo il Tribunale avrebbe applicato erroneamente il criterio
+dell’investitore privato alla data di adesione dell’Ungheria all’Unione.  
+  
+---|---  
+  
+96
+
+|
+
+Alla luce delle considerazioni di cui ai punti 94 e 95 della presente
+sentenza, la prima parte del terzo motivo di impugnazione deve essere respinta
+anche nella parte in cui verte sull’esistenza di un vantaggio riconosciuto
+alla Dunamenti Erőmű in ragione dell’applicazione dell’AAE in questione.  
+  
+---|---  
+  
+97
+
+|
+
+Questa parte deve quindi essere respinta nel suo insieme.  
+  
+---|---  
+  
+– Sulla seconda parte del terzo motivo
+
+98
+
+|
+
+Con la seconda parte del suo terzo motivo, la Dunamenti Erőmű afferma
+essenzialmente che il Tribunale, ai punti 68 e 69 della sentenza impugnata, ha
+commesso un errore di diritto ritenendo che non occorresse tener conto
+dell’argomentazione da essa invocata nel primo grado di giudizio vertente su
+un asserito rimborso dell’aiuto in causa da parte della Electrabel in ragione
+del fatto che il cambiamento dell’assetto proprietario si sarebbe verificato
+prima dell’adesione dell’Ungheria all’Unione. Secondo la Dunamenti Erőmű, il
+Tribunale, se avesse tenuto conto di detta argomentazione, avrebbe
+riconosciuto che la Electrabel, pagando il prezzo di mercato per
+l’acquisizione di detta società, aveva anticipatamente rimborsato allo Stato
+ungherese ogni vantaggio e che non sussisteva quindi alcun vantaggio derivante
+dall’AAE in questione a favore della Dunamenti Erőmű, a prescindere dal
+periodo considerato ai fini della valutazione dell’esistenza di un aiuto di
+Stato.  
+  
+---|---  
+  
+99
+
+|
+
+Occorre ricordare che, come constatato al punto 65 della presente sentenza, il
+Tribunale non ha commesso alcun errore di diritto prendendo in considerazione
+come data rilevante, ai fini della valutazione dell’esistenza di un aiuto di
+Stato derivante dall’AAE in questione, quella dell’adesione dell’Ungheria
+all’Unione.  
+  
+---|---  
+  
+100
+
+|
+
+Ai punti 69 e 70 della sentenza impugnata, il Tribunale ha respinto come
+inoperante l’argomentazione sviluppata in primo grado dalla Dunamenti Erőmű
+relativa a un asserito rimborso dell’aiuto mediante la privatizzazione della
+società in parola per il fatto che il cambiamento dell’assetto proprietario
+intervenuto in occasione di detta privatizzazione si è verificato prima della
+data pertinente menzionata al punto che precede.  
+  
+---|---  
+  
+101
+
+|
+
+A questo proposito occorre osservare che la Corte ha sottolineato in più
+occasioni l’importanza della valutazione globale che occorre effettuare in
+sede di verifica dell’esistenza di un vantaggio ai sensi dell’articolo 87,
+paragrafo 1, CE.  
+  
+---|---  
+  
+102
+
+|
+
+In particolare, per quanto attiene all’applicazione del criterio
+dell’investitore privato in economia di mercato, la Corte ha stabilito che
+quando la Commissione è chiamata a esaminare se lo Stato abbia agito nella sua
+qualità di azionista e, quindi, se il criterio dell’investitore privato sia
+applicabile nel caso di specie, spetta all’istituzione operare una valutazione
+globale prendendo in considerazione, oltre agli elementi forniti dallo Stato
+membro stesso, qualsiasi altro elemento pertinente nella specie che le
+consenta di accertare se la misura de qua sia riconducibile alla qualità di
+azionista o a quella di potere pubblico dello Stato membro medesimo. In
+particolare, possono risultare pertinenti a tal riguardo la natura e l’oggetto
+di tale misura, il contesto in cui essa si colloca, nonché l’obiettivo
+perseguito e le regole cui la misura stessa è soggetta (v., in tal senso,
+sentenza Commissione/EDF, C‑124/10 P, EU:C:2012:318, punto 86).  
+  
+---|---  
+  
+103
+
+|
+
+La Commissione, nel verificare se le condizioni di applicabilità e di
+applicazione del criterio dell’investitore privato siano soddisfatte, non può
+peraltro rifiutarsi di esaminare le informazioni pertinenti fornite dallo
+Stato membro interessato se non nel caso in cui gli elementi di prova prodotti
+siano stati forniti successivamente all’adozione della decisione di effettuare
+l’investimento in questione. Infatti, ai fini dell’applicazione del criterio
+dell’investitore privato sono unicamente pertinenti gli elementi disponibili e
+le evoluzioni prevedibili al momento dell’adozione della decisione di
+procedere all’investimento. Ciò vale, in particolare, nel caso in cui, come
+nella specie, la Commissione esamini l’esistenza di un aiuto di Stato rispetto
+a un investimento non notificatole e già operato dallo Stato membro
+interessato nel momento in cui essa procede al suo esame (v., in tal senso,
+sentenza Commissione/EDF, C‑124/10 P, EU:C:2012:318, punti 104 e 105).  
+  
+---|---  
+  
+104
+
+|
+
+Ne consegue che in sede di valutazione dell’esistenza di un vantaggio ai sensi
+dell’articolo 87, paragrafo 1, CE e, in particolare, in sede di applicazione
+del criterio dell’investitore privato, la Commissione è tenuta a operare una
+valutazione globale della misura di aiuto di cui trattasi in funzione degli
+elementi disponibili e delle prevedibili evoluzioni al momento in cui la
+decisione di procedere con la concessione dell’aiuto in parola è stata
+adottata, tenendo conto, in particolare, del contesto in cui si inserisce
+detto aiuto.  
+  
+---|---  
+  
+105
+
+|
+
+Di conseguenza, le informazioni relative ad avvenimenti che riguardano il
+periodo anteriore alla data di adozione di una misura di Stato e che sono
+disponibili a tale data possono risultare pertinenti in quanto possono
+chiarire se tale misura costituisca un vantaggio ai sensi dell’articolo 87,
+paragrafo 1, CE.  
+  
+---|---  
+  
+106
+
+|
+
+Dalle considerazioni esposte ai punti da 99 a 105 della presente sentenza
+risulta che, nel caso di specie, nel valutare l’esistenza di un aiuto di Stato
+derivante dall’AAE in questione, la Commissione era tenuta a esaminare
+l’accordo in parola nel contesto in cui esso si inseriva alla data
+dell’adesione dell’Ungheria all’Unione tenendo conto di tutti gli elementi
+disponibili a tale data che risultavano pertinenti, compresi, se del caso, gli
+elementi relativi ad avvenimenti anteriori ad essa.  
+  
+---|---  
+  
+107
+
+|
+
+Si deve quindi constatare che, ai punti 69 e 70 della sentenza impugnata, il
+Tribunale ha commesso un errore di diritto affermando che l’argomento dedotto
+dalla Dunamenti Erőmű in primo grado – vertente su un asserito rimborso
+dell’aiuto derivante dall’AAE in questione mediante la vendita di detta
+società alla Electrabel – doveva essere ritenuto inoperante per il solo motivo
+che la suddetta vendita è stata realizzata prima dell’adesione dell’Ungheria
+all’Unione.  
+  
+---|---  
+  
+108
+
+|
+
+Occorre tuttavia ricordare che, se dalla motivazione di una pronuncia del
+Tribunale risulta una violazione del diritto dell’Unione, ma il dispositivo
+della stessa appare fondato per altri motivi di diritto, una violazione di
+questo tipo non è idonea a determinare l’annullamento di tale decisione e si
+deve procedere a una sostituzione della motivazione (v., in tal senso,
+sentenze Lestelle/Commissione, C‑30/91 P, EU:C:1992:252, punto 28, nonché
+FIAMM e a./Consiglio e Commissione, C‑120/06 P e C‑121/06 P, EU:C:2008:476,
+punto 187 nonché giurisprudenza citata).  
+  
+---|---  
+  
+109
+
+|
+
+Così è nel caso di specie.  
+  
+---|---  
+  
+110
+
+|
+
+Secondo una giurisprudenza costante, il recupero di un aiuto illegittimo è
+inteso al ripristino dello status quo e tale obiettivo è raggiunto quando gli
+aiuti in parola, eventualmente maggiorati degli interessi di mora, sono stati
+restituiti dal beneficiario o, in altri termini, dalle imprese che ne hanno
+tratto effettivo vantaggio. Per effetto di tale restituzione, il beneficiario
+è infatti privato del vantaggio di cui aveva fruito sul mercato rispetto ai
+suoi concorrenti e la situazione esistente prima della corresponsione
+dell’aiuto è ripristinata (v., in tal senso, sentenza Germania/Commissione,
+C‑277/00, EU:C:2004:238, punti 74 e 75).  
+  
+---|---  
+  
+111
+
+|
+
+Ne consegue che il principale obiettivo cui è finalizzato il rimborso di un
+aiuto di Stato illegittimamente versato è quello di eliminare la distorsione
+della concorrenza causata dal vantaggio concorrenziale determinato dall’aiuto
+illegittimo (sentenza Germania/Commissione, C‑277/00, EU:C:2004:238, punto
+76).  
+  
+---|---  
+  
+112
+
+|
+
+Sempre secondo giurisprudenza costante, quando un’impresa che ha beneficiato
+di un aiuto di Stato illegittimo viene acquistata al prezzo di mercato, vale a
+dire al prezzo più elevato che un investitore privato operante in normali
+condizioni di concorrenza era disposto a pagare per tale società nella
+situazione in cui essa si trovava, in particolare dopo aver fruito di aiuti
+statali, l’elemento di aiuto è stato valutato al prezzo di mercato e incluso
+nel prezzo di acquisto. In tali circostanze, non si può ritenere che il
+compratore abbia fruito di un vantaggio rispetto agli altri operatori del
+mercato (v. sentenza Germania/Commissione, C‑277/00, EU:C:2004:238, punto 80 e
+giurisprudenza citata).  
+  
+---|---  
+  
+113
+
+|
+
+Qualora l’impresa alla quale gli aiuti di Stato illegittimi sono stati
+concessi conservi la sua personalità giuridica e continui ad effettuare, per
+suo conto, le attività sovvenzionate dagli aiuti di Stato, è normalmente tale
+impresa a conservare il vantaggio concorrenziale legato ai suddetti aiuti ed è
+quindi essa che deve essere obbligata a rimborsare un importo pari a quello di
+questi ultimi. Il rimborso di tali aiuti non può dunque essere chiesto
+all’acquirente (v. sentenza Germania/Commissione, C‑277/00, EU:C:2004:238,
+punto 81).  
+  
+---|---  
+  
+114
+
+|
+
+Per quanto attiene alla presente causa, si evince dai punti 1, 68 e 69 della
+sentenza impugnata e non è contestato nell’ambito della presente impugnazione
+che la privatizzazione della Dunamenti Erőmű, compiuta a metà degli anni ’90,
+è stata realizzata mediante un cambiamento dell’assetto proprietario a mezzo
+della cessione delle relative partecipazioni e che, alla data di riferimento
+della valutazione dei fatti compiuta dal Tribunale, essa era controllata per
+il 75% circa dalla Electrabel. Dai punti 1 e 2 della sentenza in parola, che
+non sono oggetto di contestazione dinanzi alla Corte, si evince inoltre che la
+Dunamenti Erőmű è un produttore di energia elettrica attivo sul mercato
+dell’energia ungherese che, dopo la sua privatizzazione, ha continuato a
+gestire la centrale elettrica oggetto dell’AAE in questione.  
+  
+---|---  
+  
+115
+
+|
+
+Ciò premesso, la giurisprudenza citata dal Tribunale al punto 70 della
+sentenza impugnata e invocata dalla Dunamenti Erőmű nell’ambito
+dell’impugnazione a fondamento della sua argomentazione vertente su un
+asserito rimborso dell’aiuto derivante dall’AAE in questione non può essere
+interpretata nel senso che la privatizzazione di detta società nel corso degli
+anni ’90 ha comportato l’effettivo rimborso dell’aiuto che le era stato
+accordato in ragione dell’applicazione dell’AAE in questione. In particolare,
+anche ammettendo che detta società sia stata ceduta dallo Stato ungherese alla
+Electrabel a un prezzo di mercato e che tale prezzo rifletta pienamente il
+valore del vantaggio risultante dall’AAE in questione, dagli accertamenti
+compiuti dal Tribunale, come esposti al punto che precede, risulta che, dopo
+la privatizzazione, la Dunamenti Erőmű ha mantenuto la sua personalità
+giuridica e ha continuato a esercitare le attività oggetto dell’aiuto di Stato
+di cui trattasi, con la conseguenza che è tale società ad aver effettivamente
+mantenuto il beneficio del vantaggio risultante da tale accordo, come si
+applicava a partire dal 1o maggio 2004 e di cui beneficiava sul mercato
+rispetto ai suoi concorrenti.  
+  
+---|---  
+  
+116
+
+|
+
+Ne consegue che, come sostenuto dalla Commissione, anche ammettendo che lo
+Stato ungherese abbia potuto trarre un vantaggio dalla privatizzazione della
+Dunamenti Erőmű, tale circostanza non avrebbe potuto impedire a detta società
+di continuare, dopo il cambiamento nel suo assetto proprietario avvenuto con
+la sua privatizzazione nel 1995, ad essere l’effettivo beneficiario del
+vantaggio derivante dall’AAE in questione che, come esposto al punto 6 della
+presente sentenza, doveva durare, a seconda dei blocchi interessati, sino al
+2010 o al 2015. Così, qualsiasi profitto lo Stato ungherese possa aver tratto
+da tale privatizzazione non può cancellare la distorsione della concorrenza
+causata dal vantaggio concorrenziale riconosciuto alla Dunamenti Erőmű con
+l’accordo in parola.  
+  
+---|---  
+  
+117
+
+|
+
+Tale conclusione non può essere rimessa in discussione neppure dall’argomento
+sollevato dalla Dunamenti Erőmű, secondo cui – all’epoca della valutazione dei
+fatti da parte del Tribunale – detta società formava con la Electrabel
+un’entità economica unica ai sensi della giurisprudenza della Corte, dal
+momento che le generiche affermazioni formulate dalla Dunamenti Erőmű a
+fondamento dell’argomento in parola non possono inficiare gli accertamenti
+compiuti dal Tribunale e illustrati al punto 114 della presente sentenza che,
+peraltro, come osservato in tale punto, non sono stati contestati dalla
+Dunamenti Erőmű nell’ambito della presente impugnazione.  
+  
+---|---  
+  
+118
+
+|
+
+Di conseguenza, anche se il Tribunale ha erroneamente ritenuto che il fatto
+che la privatizzazione della Dunamenti Erőmű ha avuto luogo prima della data
+rispetto alla quale deve essere esaminata l’esistenza di un aiuto di Stato, ai
+sensi dell’articolo 87, paragrafo 1, CE, fosse da solo sufficiente a
+giustificare la mancata presa in considerazione da parte sua dell’argomento
+invocato dalla società in parola – vertente su un preteso rimborso dell’aiuto
+mediante tale privatizzazione – nel valutare se l’AAE in questione comportasse
+un aiuto di Stato ai sensi della suddetta disposizione, occorre osservare che,
+nelle circostanze di cui alla presente causa, come risultano dalla sentenza
+impugnata, il Tribunale avrebbe potuto, per confermare l’esistenza di un tale
+aiuto, respingere la suddetta argomentazione per motivi diversi da quelli
+illustrati ai punti 69 e 70 della sentenza in parola. Ciò premesso, l’errore
+di diritto accertato al punto 107 della presente sentenza non incide sulla
+conclusione cui è pervenuto il Tribunale a tal proposito e, quindi, non incide
+neppure sul dispositivo della sentenza impugnata.  
+  
+---|---  
+  
+119
+
+|
+
+Ne consegue che la seconda parte del terzo motivo deve essere respinta.  
+  
+---|---  
+  
+– Sulla terza parte del terzo motivo
+
+120
+
+|
+
+Occorre osservare che, con il suo argomento proposto nell’ambito della terza
+parte in parola, come ripresa al punto 82 della presente sentenza, la
+Dunamenti Erőmű afferma soltanto, limitandosi a formulare considerazioni
+generiche, che l’adesione dell’Ungheria all’Unione non ha in alcun modo inciso
+sul fatto che alle ricorrenti non è stato riconosciuto alcun vantaggio né con
+la conclusione dell’AAE in questione, né con l’acquisizione della Dunamenti
+Erőmű da parte della Electrabel, senza però spiegare in che modo il Tribunale
+avrebbe commesso un errore di diritto confermando l’esistenza di un vantaggio
+ai sensi dell’articolo 87, paragrafo 1, CE derivante da tale accordo alla data
+dell’adesione suddetta.  
+  
+---|---  
+  
+121
+
+|
+
+Si deve così constatare che l’argomento invocato dalla Dunamenti Erőmű a
+questo proposito si fonda sulla premessa secondo cui la questione se l’AAE in
+parola comportasse un aiuto di Stato ai sensi dell’articolo 87, paragrafo 1,
+CE alla data di conclusione di tale accordo e a quella della privatizzazione
+della Dunamenti Erőmű è pertinente, se non addirittura determinante, ai fini
+di stabilire se detto accordo contenesse un aiuto di Stato alla data
+dell’adesione dell’Ungheria all’Unione. Orbene, alla luce delle considerazioni
+svolte ai punti 65 e 66 della presente sentenza nell’ambito dell’esame del
+secondo motivo di impugnazione, tale argomento deve essere respinto in quanto
+infondato.  
+  
+---|---  
+  
+122
+
+|
+
+Per il resto, occorre osservare che l’argomentazione invocata dalla Dunamenti
+Erőmű nell’ambito di detta terza parte del terzo motivo, relativa alla
+determinazione della data pertinente ai fini della valutazione dell’esistenza
+di un aiuto di Stato, come è stata esposta al punto 83 della presente
+sentenza, costituisce soltanto una ripresa di argomenti già respinti
+nell’ambito del secondo motivo.  
+  
+---|---  
+  
+123
+
+|
+
+Posto che la terza parte del terzo motivo di impugnazione deve quindi essere
+disattesa, occorre respingere il terzo motivo nel suo insieme.  
+  
+---|---  
+  
+Sul quarto motivo, vertente sulla mancanza di un vantaggio derivante
+dall’obbligo di prelievo minimo che vincolava la MVM
+
+Argomenti delle parti
+
+124
+
+|
+
+La Dunamenti Erőmű afferma che il Tribunale ha commesso un errore di diritto e
+ha violato il suo obbligo di controllo giurisdizionale ritenendo, senza
+dimostrare la presenza di un rischio strutturale, che l’obbligo di prelievo
+minimo che vincolava la MVM comportasse l’esistenza di un vantaggio.  
+  
+---|---  
+  
+125
+
+|
+
+Il Tribunale avrebbe riconosciuto, al punto 112 della sentenza impugnata, che
+la Dunamenti Erőmű aveva fornito elementi idonei a dimostrare che la MVM non
+era mai stata obbligata ad acquistare annualmente dalla prima delle società in
+parola un quantitativo di energia elettrica superiore a quello che essa
+avrebbe scelto di acquistare in mancanza dell’AAE in questione. Malgrado tale
+affermazione, il Tribunale, in linea con la Commissione, si sarebbe limitato a
+concludere che il fatto che, in determinati anni, la MVM avesse acquistato
+quantitativi di energia elettrica nettamente superiori al prelievo minimo
+obbligatorio non implicava che essa non avesse sopportato il rischio inerente
+a tale obbligo.  
+  
+---|---  
+  
+126
+
+|
+
+Secondo la Dunamenti Erőmű, il Tribunale, fondandosi unicamente sulla mera
+eventualità di un rischio strutturale senza dimostrare la reale esistenza di
+un rischio siffatto, avrebbe disatteso il suo obbligo di controllo
+giurisdizionale. Il Tribunale, se avesse correttamente valutato tale rischio,
+avrebbe negato l’esistenza di un vantaggio in quanto avrebbe riconosciuto che
+la MVM non era mai stata costretta ad acquistare annualmente dalla Dunamenti
+Erőmű un quantitativo di energia elettrica superiore a quello che essa avrebbe
+deciso di acquistare in mancanza dell’AAE in questione e che la MVM aveva
+quindi scelto liberamente la quantità di energia elettrica che essa desiderava
+comperare. Se il prezzo pagato non fosse stato il prezzo di mercato, continua
+la Dunamenti Erőmű, la MVM avrebbe scelto un altro produttore per sostituirla,
+quantomeno per i quantitativi di energia elettrica che oltrepassavano il
+prelievo minimo, posto che, come avrebbe riconosciuto la Commissione nella
+decisione controversa, erano disponibili capacità di produzione alternative e
+vi erano margini per un aumento delle importazioni.  
+  
+---|---  
+  
+127
+
+|
+
+La Commissione ritiene che il quarto motivo sia irricevibile dal momento che
+la Dunamenti Erőmű non ha indicato la parte della sentenza impugnata che
+sarebbe viziata da un errore di diritto. Tale società si riferirebbe
+incidenter tantum al punto 112 della sentenza in parola, ma non indicherebbe
+la ragione per cui detto punto debba essere annullato (v., in tal senso,
+sentenze Bergaderm e Goupil/Commissione, C‑352/98 P, EU:C:2000:361, punto 34,
+e Francia/Monsanto e Commissione, C‑248/99 P, EU:C:2002:1, punti 68 e 69).  
+  
+---|---  
+  
+128
+
+|
+
+La Commissione fa valere, in subordine, che, ove la Corte dovesse ritenere che
+il motivo in parola si riferisca al punto 112 della sentenza impugnata, esso
+dovrebbe essere considerato inoperante.  
+  
+---|---  
+  
+129
+
+|
+
+In via ulteriormente subordinata, la Commissione sostiene che il quarto motivo
+di impugnazione è, in ogni caso, destituito di fondamento.  
+  
+---|---  
+  
+Giudizio della Corte
+
+130
+
+|
+
+Occorre preliminarmente respingere l’argomento invocato dalla Commissione,
+vertente sull’irricevibilità del quarto motivo in parola in quanto non
+individuerebbe adeguatamente la parte della sentenza impugnata che sarebbe
+viziata da un errore di diritto. Nelle argomentazioni dedotte a fondamento del
+motivo in parola, la Dunamenti Erőmű si riferisce infatti espressamente al
+punto 112 della sentenza impugnata.  
+  
+---|---  
+  
+131
+
+|
+
+Inoltre, in quanto l’argomentazione della Dunamenti Erőmű si riferisce a un
+errore di diritto commesso dal Tribunale per non aver quest’ultimo dimostrato
+la presenza di un rischio strutturale in sede di esame dell’esistenza di un
+vantaggio ai sensi dell’articolo 87, paragrafo 1, CE, non potrebbe contestarsi
+a detta società di non aver identificato le parti specifiche di detta sentenza
+(v., in tal senso, sentenza Limburgse Vinyl Maatschappij e a./Commissione,
+C‑238/99 P, C‑244/99 P, C‑245/99 P, C‑247/99 P, da C‑250/99 P a C‑252/99 P e
+C‑254/99 P, EU:C:2002:582, punto 423).  
+  
+---|---  
+  
+132
+
+|
+
+Tuttavia, occorre respingere il quarto motivo di impugnazione in quanto
+inoperante. Anche ammettendo che l’obbligo di prelievo minimo che vincolava la
+MVM non comportasse l’esistenza di un vantaggio, la Dunamenti Erőmű non
+rimette infatti in discussione, in particolare, l’accertamento compiuto al
+punto 117 della sentenza impugnata, ossia che, dinanzi al Tribunale, non era
+stato contestato il fatto che l’inserimento di garanzie dirette a coprire il
+costo di capitale integra, alla luce delle pratiche in essere sui mercati
+concorrenziali, un vantaggio.  
+  
+---|---  
+  
+133
+
+|
+
+Ne consegue che, anche ammettendo che l’obbligo di prelievo minimo che
+vincolava la MVM non abbia comportato l’esistenza di un vantaggio, ciò non
+sarebbe in ogni caso sufficiente da solo a dimostrare l’assenza di un
+vantaggio derivante dall’AAE in questione.  
+  
+---|---  
+  
+134
+
+|
+
+Ciò premesso, non si può addebitare al Tribunale di aver violato il proprio
+obbligo di controllo giurisdizionale per non aver dimostrato l’esistenza di un
+rischio strutturale ai fini della sua valutazione dell’esistenza di un
+vantaggio ai sensi dell’articolo 87, paragrafo 1, CE.  
+  
+---|---  
+  
+135
+
+|
+
+Ne discende che il quarto motivo d’impugnazione deve essere respinto.  
+  
+---|---  
+  
+Sul quinto motivo, vertente sull’erroneità del metodo di calcolo dell’importo
+dell’aiuto da rimborsare
+
+Argomenti delle parti
+
+136
+
+|
+
+La Dunamenti Erőmű afferma che il Tribunale ha commesso un errore di diritto
+confermando il metodo adottato dalla Commissione per il calcolo dell’importo
+dell’aiuto da rimborsare e non si sarebbe attenuto al livello di controllo
+richiesto a questo proposito.  
+  
+---|---  
+  
+137
+
+|
+
+La Commissione avrebbe chiesto all’Ungheria di stimare l’importo dell’aiuto da
+rimborsare confrontando la differenza tra le entrate realmente realizzate
+nell’ambito del sistema in cui erano in vigore gli AAE (in prosieguo: lo
+«scenario reale») e le entrate che sarebbero state realizzate se non fosse
+stato concluso alcun accordo di tal sorta (in prosieguo: lo «scenario
+alternativo»). Orbene, sarebbe necessario prendere in considerazione anche i
+costi, posto che un esame delle sole entrate non permetterebbe di procedere a
+una valutazione esatta del vantaggio asseritamente derivante dall’AAE. Nel
+quadro dell’approccio proposto dalla Commissione, le entrate aggiuntive,
+percepite dalla Dunamenti Erőmű nell’ambito dello scenario reale per coprire
+le spese di combustibile supplementari, sarebbero qualificate come vantaggi.  
+  
+---|---  
+  
+138
+
+|
+
+La Dunamenti Erőmű afferma che è necessario tener conto del costo dei
+combustibili, posto che esso rappresenta quasi il 100% dei costi di produzione
+variabili. Occorrerebbe quindi esaminare non tutti i costi, ma soltanto quelli
+legati all’acquisto di gas. Nel caso di specie, la presa in considerazione dei
+costi di combustibile rimetterebbe in discussione l’esistenza stessa di un
+aiuto. Gli esperti economici di cui l’Ungheria si è avvalsa avrebbero infatti
+calcolato un importo negativo di circa EUR 100 milioni sulla base degli utili
+e un importo positivo di circa EUR 482 milioni sulla base delle sole entrate.  
+  
+---|---  
+  
+139
+
+|
+
+Non è neppure corretto affermare che il metodo fondato sugli utili si basa su
+ipotesi speculative legate al comportamento della Dunamenti Erőmű, posto che
+il consumo aggiuntivo di gas è imputabile non al comportamento che tale
+società avrebbe scelto di adottare, ma all’esistenza di una sovrapproduzione
+di energia elettrica.  
+  
+---|---  
+  
+140
+
+|
+
+La Dunamenti Erőmű osserva che il Tribunale ha riconosciuto, al punto 185
+della sentenza impugnata, che il metodo fondato sulla differenza di utili
+sarebbe più corretto. Tuttavia, dai punti da 184 a 189 della sentenza
+impugnata risulterebbe che il Tribunale ha ritenuto che la Commissione non
+avesse commesso alcun errore di diritto adottando un approccio fondato sulle
+entrate, dal momento che quello fondato sugli utili appariva di più complessa
+attuazione. Orbene, il fatto che un determinato metodo nel contesto di uno
+scenario alternativo sia troppo complesso da attuare non costituirebbe,
+evidentemente, un elemento pertinente ai fini della valutazione dell’importo
+dell’aiuto da rimborsare. Al punto 186 della sentenza impugnata, il Tribunale
+invocherebbe la sentenza Budapesti Erőmű/Commissione (T‑80/06 e T‑182/09,
+EU:T:2012:65) al fine di confermare tale approccio. Tuttavia, nella causa che
+ha dato origine alla sentenza in parola, i volumi considerati rispettivamente
+nello scenario alternativo e nello scenario reale sarebbero stati molto
+simili.  
+  
+---|---  
+  
+141
+
+|
+
+Secondo la Dunamenti Erőmű, la Commissione non potrebbe richiamarsi alle
+considerazioni di cui al punto 188 della sentenza impugnata, secondo cui il
+vantaggio deve «essere valutato tenendo conto del comportamento dell’impresa
+pubblica che conferisce il vantaggio (...), e non con riguardo al
+comportamento del beneficiario di detto vantaggio», posto che tale
+affermazione, destituita di base giuridica, contraddice la giurisprudenza
+della Corte. Infatti, al punto 2 del dispositivo della sentenza Ferring
+(C‑53/00, EU:C:2001:627), la Corte avrebbe chiaramente sancito il principio
+secondo cui, se l’asserito aiuto di Stato comporta sia utili aggiuntivi che
+maggiori costi, è la differenza tra detti due importi a poter attribuire un
+vantaggio integrante un aiuto di Stato.  
+  
+---|---  
+  
+142
+
+|
+
+Infine, scartando, ai punti 184 e 189 della sentenza impugnata, il metodo
+fondato sugli utili, principalmente in ragione della sua complessità, il
+Tribunale non avrebbe esercitato un controllo completo sulla decisione della
+Commissione pur essendo tenuto a farlo quando procede a valutazioni economiche
+complesse nell’ambito di un ricorso di annullamento, come stabilito dalla
+Corte nella sentenza CB/Commissione (C‑67/13 P, EU:C:2014:2204).  
+  
+---|---  
+  
+143
+
+|
+
+La Commissione ritiene che il Tribunale, confermando il metodo adottato nella
+decisione controversa per il calcolo dell’importo dell’aiuto da rimborsare,
+non abbia commesso alcun errore di diritto. Allo stesso modo, l’affermazione
+secondo cui il Tribunale non avrebbe compiuto, sul punto, un esame completo
+della decisione controversa sarebbe priva di fondamento.  
+  
+---|---  
+  
+Giudizio della Corte
+
+144
+
+|
+
+Occorre, anzitutto, respingere l’argomento secondo cui, al punto 188 della
+sentenza impugnata, il Tribunale avrebbe commesso un errore di diritto,
+ritenendo che l’esistenza di un vantaggio economico debba, in linea con il
+principio dell’operatore privato in economia di mercato, essere valutata alla
+luce del comportamento dell’impresa pubblica che conferisce il vantaggio e non
+del beneficiario. Infatti, in base a una giurisprudenza costante, ai fini
+dell’applicazione del criterio dell’investitore privato, occorre verificare se
+lo stesso vantaggio che è stato riconosciuto a favore dell’impresa
+beneficiaria mediante risorse dello Stato sarebbe stato accordato da un
+investitore privato alle normali condizioni di mercato (v., in tal senso,
+sentenza Commissione/EDF, C‑124/10 P, EU:C:2012:318, punti 78 e 79).  
+  
+---|---  
+  
+145
+
+|
+
+Per quanto attiene, più precisamente, alla scelta del metodo di calcolo
+dell’importo dell’aiuto da rimborsare, contrariamente a quanto sostiene la
+Dunamenti Erőmű, nella sentenza Ferring (C‑53/00, EU:C:2001:627), la Corte non
+ha enunciato un principio generale a favore del metodo di calcolo fondato
+sugli utili. Nella sentenza in parola, la Corte, pur constatando che la misura
+in esame integrava un aiuto di Stato, in quanto il vantaggio accordato
+eccedeva i costi aggiuntivi che i beneficiari erano chiamati a sostenere, ha
+ritenuto che solo i maggiori costi risultanti dall’assolvimento degli obblighi
+di servizio pubblico imposti loro dalla normativa nazionale dovessero essere
+presi in considerazione in sede di valutazione dell’esistenza di un vantaggio
+ai sensi dell’articolo 92, paragrafo 1, CE (divenuto l’articolo 87, paragrafo
+1, CE). Orbene, la Dunamenti Erőmű non sostiene di essere stata chiamata ad
+assolvere tali obblighi.  
+  
+---|---  
+  
+146
+
+|
+
+Inoltre, il Tribunale, pur riconoscendo al punto 185 della sentenza impugnata
+che la presa in considerazione del prezzo del combustibile potrebbe far sì che
+«l’importo dell’aiuto da recuperare sia ampiamente inferiore a quello
+risultante dall’applicazione del [metodo considerato nella decisione
+controversa]», non ha ivi assolutamente ammesso, contrariamente a quanto
+sostiene la Dunamenti Erőmű, che il metodo di calcolo fondato sugli utili sia
+più adeguato rispetto a quello fondato sulle entrate.  
+  
+---|---  
+  
+147
+
+|
+
+Al contrario, da una lettura complessiva dei punti da 184 a 192 della sentenza
+impugnata si evince che il Tribunale ha ritenuto che il metodo scelto dalla
+Commissione nella decisione controversa fosse più adatto a privare il
+beneficiario del vantaggio di cui aveva goduto sul mercato rispetto ai suoi
+concorrenti rispetto al metodo fondato sugli utili, in linea con la
+giurisprudenza esposta al punto 110 della presente sentenza e ricordata dal
+Tribunale al punto 187 della sentenza impugnata.  
+  
+---|---  
+  
+148
+
+|
+
+In particolare, al punto 184 della sentenza impugnata, il Tribunale ha
+stabilito che la Commissione aveva, correttamente, preso le mosse dalla
+premessa secondo cui i vantaggi derivanti dagli AAE erano ampiamente superiori
+rispetto alla differenza positiva tra i prezzi dell’AAE e i prezzi ottenibili
+sul mercato in mancanza di esso, accertamento questo che non è stato rimesso
+in discussione nell’ambito della presente impugnazione. Il Tribunale ha
+osservato poi, sempre al suddetto punto 184, che la Commissione aveva deciso
+di limitare l’ordine di recupero all’eventuale differenza tra le entrate delle
+centrali elettriche operanti nell’ambito del regime degli AAE e quelle di cui
+dette centrali avrebbero potuto godere in mancanza di un AAE durante il
+periodo a partire dal 1o maggio 2004, in quanto non era possibile calcolare
+esattamente il valore complessivo di tutte le condizioni collegate all’obbligo
+di acquisto a lungo termine dalla MVM per tale periodo.  
+  
+---|---  
+  
+149
+
+|
+
+Ciò premesso, la Dunamenti Erőmű non può contestare al Tribunale di aver
+commesso un errore di diritto per il solo fatto che l’importo dell’aiuto
+derivante dal metodo di calcolo da esso confermato sarebbe maggiore rispetto
+all’importo risultante in base al metodo di cui essa chiede l’applicazione.  
+  
+---|---  
+  
+150
+
+|
+
+Inoltre, come risulta dai punti da 146 a 148 della presente sentenza, il
+Tribunale ha scartato il metodo fondato sugli utili, non in ragione della sua
+complessità, ma in quanto il metodo fondato sulle entrate era più adatto a
+privare la Dunamenti Erőmű del vantaggio derivante dall’AAE in questione.
+Poiché l’argomento invocato da quest’ultima a tal proposito si fonda su una
+lettura errata della sentenza impugnata, occorre respingerlo come infondato.  
+  
+---|---  
+  
+151
+
+|
+
+Ne consegue che l’argomento vertente sul mancato rispetto del livello di
+controllo giurisdizionale esercitato dal Tribunale, per non aver quest’ultimo
+esaminato l’approccio proposto dalla Dunamenti Erőmű in ragione della sua
+complessità, non può essere accolto.  
+  
+---|---  
+  
+152
+
+|
+
+Infine, dato che, nel caso di specie, il Tribunale ha potuto, senza commettere
+alcun errore di diritto, discostarsi dal metodo fondato sugli utili ai fini
+del calcolo dell’importo dell’aiuto da rimborsare, gli argomenti diretti a
+dimostrare l’errore che il Tribunale avrebbe commesso nel valutare il tipo di
+analisi necessaria per applicare tale metodo sono irrilevanti.  
+  
+---|---  
+  
+153
+
+|
+
+Il quinto motivo d’impugnazione va pertanto respinto.  
+  
+---|---  
+  
+154
+
+|
+
+Da tutte le considerazioni che precedono risulta che l’impugnazione deve
+essere respinta.  
+  
+---|---  
+  
+Sulle spese
+
+155
+
+|
+
+A norma dell’articolo 184, paragrafo 2, del regolamento di procedura della
+Corte, quando l’impugnazione è respinta, quest’ultima statuisce sulle spese.  
+  
+---|---  
+  
+156
+
+|
+
+Ai sensi dell’articolo 138, paragrafo 1, del regolamento in parola,
+applicabile al procedimento di impugnazione in forza dell’articolo 184,
+paragrafo 1, dello stesso, la parte soccombente è condannata alle spese se ne
+è stata fatta domanda. Poiché la Dunamenti Erőmű è rimasta soccombente e la
+Commissione ha chiesto la condanna unicamente della Dunamenti Erőmű alle
+spese, occorre condannare quest’ultima a sopportare, oltre alle proprie spese,
+quelle sostenute dalla Commissione.  
+  
+---|---  
+  
+157
+
+|
+
+Posto che l’impugnazione è irricevibile per la parte in cui tale impugnazione
+è proposta dalla Electrabel, quest’ultima sopporterà le proprie spese.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Terza Sezione) dichiara e statuisce:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’impugnazione è respinta.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+La Dunamenti Erőmű Zrt. è condannata a sopportare, oltre alle proprie spese,
+quelle sostenute dalla Commissione europea.  
+  
+---|---  
+|  |
+
+3)
+
+|
+
+La Electrabel SA sopporta le proprie spese.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: l’inglese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

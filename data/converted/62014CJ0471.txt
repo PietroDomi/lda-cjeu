@@ -1,0 +1,784 @@
+
+
+SENTENZA DELLA CORTE (Ottava Sezione)
+
+6 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Proprietà intellettuale e industriale — Specialità
+farmaceutiche — Regolamento (CE) n. 469/2009 — Articolo 13, paragrafo 1 —
+Certificato protettivo complementare — Durata — Nozione di “data della prima
+autorizzazione di immissione in commercio nell’Unione europea” —
+Considerazione della data della decisione di autorizzazione o della data di
+notifica di tale decisione»
+
+Nella causa C‑471/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dall’Oberlandesgericht Wien (Tribunale
+regionale superiore di Vienna, Austria), con decisione del 2 ottobre 2014,
+pervenuta in cancelleria il 15 ottobre 2014, nel procedimento
+
+Seattle Genetics Inc.
+
+contro
+
+Österreichisches Patentamt,
+
+LA CORTE (Ottava Sezione),
+
+composta da A. Ó Caoimh, presidente di sezione, C. Toader (relatore) e E.
+Jarašiūnas, giudici,
+
+avvocato generale: N. Jääskinen
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Seattle Genetics Inc., da K. Bacon, barrister, nonché da M. Utges
+Manley, M. Georgiou e E. Amos, solicitors;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ellenico, da G. Alexaki e L. Kotroni, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo italiano, da G. Palmieri, in qualità di agente, assistita da M.
+Russo, avvocato dello Stato;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo lettone, da I. Kalniņš, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo lituano, da D. Kriaučiūnas e G. Taluntytė, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da G. Braun e J. Samnadda, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 10
+settembre 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+13, paragrafo 1, del regolamento (CE) n. 469/2009 del Parlamento europeo e del
+Consiglio, del 6 maggio 2009, sul certificato protettivo complementare per i
+medicinali (GU L 152, pag. 1).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la Seattle
+Genetics Inc. (in prosieguo: la «Seattle Genetics») e l’ Ufficio brevetti
+austriaco (Österreichisches Patentamt) in merito a una rettifica della data di
+scadenza di un certificato protettivo complementare (in prosieguo: il «CPC»).  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+Il regolamento (CE) n. 726/2004
+
+3
+
+|
+
+L’articolo 3, paragrafo 1, del regolamento (CE) n. 726/2004 del Parlamento
+europeo e del Consiglio, del 31 marzo 2004, che istituisce procedure
+comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso
+umano e veterinario, e che istituisce l’agenzia europea per i medicinali (GU L
+136, pag. 1), come modificato dal regolamento (UE) n. 1235/2010 del Parlamento
+europeo e del Consiglio, del 15 dicembre 2010 (GU L 348, pag. 1; in prosieguo:
+il «regolamento n. 726/2004»), così prevede:
+
+«Nessun medicinale contemplato nell’allegato può essere immesso in commercio
+nella Comunità senza un’autorizzazione [in prosieguo: l’“AIC”] rilasciata
+dalla Comunità secondo il disposto del presente regolamento».  
+  
+---|---  
+  
+4
+
+|
+
+In forza dell’articolo 10 di tale regolamento, spetta alla Commissione europea
+rilasciare le AIC sul fondamento del regolamento medesimo.  
+  
+---|---  
+  
+5
+
+|
+
+Ai sensi dell’articolo 14, paragrafo 1, del richiamato regolamento, «[s]alvo
+il disposto dei paragrafi 4, 5 e 7, l’[AIC] ha una validità di cinque anni».  
+  
+---|---  
+  
+Il regolamento n. 469/2009
+
+6
+
+|
+
+I considerando da 3 a 5 e da 7 a 9 del regolamento n. 469/2009 così recitano:
+
+|
+
+«(3)
+
+|
+
+I medicinali, in particolare quelli derivanti da una ricerca lunga e costosa,
+potranno continuare a essere sviluppati nella Comunità e in Europa solo se
+potranno beneficiare di una normativa favorevole che preveda una protezione
+sufficiente a incentivare tale ricerca.  
+  
+---|---  
+  
+(4)
+
+|
+
+Attualmente, il periodo che intercorre fra il deposito di una domanda di
+brevetto per un nuovo medicinale e l’autorizzazione di immissione in commercio
+dello stesso riduce la protezione effettiva conferita dal brevetto a una
+durata insufficiente ad ammortizzare gli investimenti effettuati nella
+ricerca.  
+  
+---|---  
+  
+(5)
+
+|
+
+Tali circostanze determinano una protezione insufficiente che penalizza la
+ricerca farmaceutica.  
+  
+---|---  
+  
+(…)
+
+(7)
+
+|
+
+È opportuno prevedere una soluzione uniforme a livello comunitario e prevenire
+in tal modo un’evoluzione eterogenea delle legislazioni nazionali che comporti
+ulteriori differenze tali da ostacolare la libera circolazione dei medicinali
+all’interno della Comunità e da incidere, di conseguenza, direttamente sul
+funzionamento del mercato interno.  
+  
+---|---  
+  
+(8)
+
+|
+
+È pertanto necessario prevedere un certificato protettivo complementare per i
+medicinali la cui immissione in commercio sia stata autorizzata, il quale
+possa essere ottenuto dal titolare di un brevetto nazionale o europeo alle
+stesse condizioni in ciascuno Stato membro. Di conseguenza, il regolamento
+costituisce lo strumento giuridico più appropriato.  
+  
+---|---  
+  
+(9)
+
+|
+
+La durata della protezione conferita dal certificato dovrebbe essere fissata
+in modo da permettere una protezione effettiva sufficiente. A tal fine, il
+titolare che disponga contemporaneamente di un brevetto e di un certificato
+deve poter beneficiare complessivamente di quindici anni al massimo di
+esclusività, a partire dalla prima [AIC] nella Comunità del medicinale in
+questione».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 3 di tale regolamento, rubricato «Condizioni di rilascio del
+certificato», così dispone:
+
+«Il certificato viene rilasciato se nello Stato membro nel quale è presentata
+la domanda di cui all’articolo 7 e alla data di tale domanda:
+
+|
+
+a)
+
+|
+
+il prodotto è protetto da un brevetto di base in vigore;  
+  
+---|---  
+  
+b)
+
+|
+
+per il prodotto in quanto medicinale è stata rilasciata un’[AIC] in corso di
+validità a norma (...) della direttiva 2001/83/CE [del Parlamento europeo e
+del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai
+medicinali per uso umano (GU L 311, pag. 67)] (...);  
+  
+---|---  
+  
+c)
+
+|
+
+il prodotto non è già stato oggetto di un certificato;  
+  
+---|---  
+  
+d)
+
+|
+
+l’autorizzazione di cui alla lettera b) è la prima [AIC] del prodotto in
+quanto medicinale».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 7 del richiamato regolamento, intitolato «Domanda di certificato»,
+al paragrafo 1 così dispone:
+
+«La domanda di certificato deve essere depositata entro il termine di sei mesi
+a decorrere dalla data in cui per il prodotto, in quanto medicinale, è stata
+rilasciata l’[AIC] menzionata all’articolo 3, lettera b)».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 13 del regolamento n.469/2009, rubricato «Durata del certificato»,
+al paragrafo 1 prevede che «[i]l certificato ha efficacia a decorrere dal
+termine legale del brevetto di base per una durata uguale al periodo
+intercorso tra la data del deposito della domanda del brevetto di base e la
+data della prima [AIC] nella Comunità, ridotto di cinque anni».  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+10
+
+|
+
+La Seattle Genetics è titolare del brevetto europeo n. EP 1545613 (in
+prosieguo: il «brevetto di base»), intitolato «Auristatin Konjugate [coniugati
+di auristatina] e loro utilizzo per il trattamento del cancro, di una malattia
+autoimmune o di una malattia infettiva». Il brevetto di base, per il quale la
+domanda era stata depositata il 31 luglio 2003, è stato rilasciato il 20
+luglio 2011.  
+  
+---|---  
+  
+11
+
+|
+
+Il 31 maggio 2011 la Takeda Global Research and Development Centre (Europe)
+Ltd (in prosieguo: la «Takeda») ha chiesto, secondo la procedura centralizzata
+prevista dal regolamento n. 726/2004, un’AIC condizionata per una nuova
+sostanza attiva (Brentuximab vedotin) con il nome commerciale di Adcetris, che
+era stata sviluppata a partire dal brevetto di base.  
+  
+---|---  
+  
+12
+
+|
+
+Con la decisione di esecuzione C(2012) 7764 final, del 25 ottobre 2012, che
+concede a norma del regolamento n. 726/2004 l’autorizzazione condizionata a
+immettere in commercio l’«Adcetris – Brentuximab vedotin», un medicinale
+orfano per uso umano, la Commissione ha rilasciato alla Takeda, conformemente
+agli articoli 3, 10 e 14 di tale regolamento, un’AIC recante il numero
+EU/1/12/794/001. L’articolo 4 di tale decisione precisa quanto segue:
+
+«Il periodo di validità dell’autorizzazione è di un anno a decorrere dalla
+data di notifica della presente decisione».  
+  
+---|---  
+  
+13
+
+|
+
+Il 30 ottobre 2012 detta decisione è stata notificata alla Takeda.  
+  
+---|---  
+  
+14
+
+|
+
+Sia la data della decisione di AIC dell’Adcetris sia la data della sua
+notifica alla Takeda sono contenute nella sintesi di tale decisione,
+pubblicata nella Gazzetta ufficiale dell’Unione europea del 30 novembre 2012
+(GU C 371, pag. 8), a norma dell’articolo 13, paragrafo 2, del regolamento n.
+726/2004.  
+  
+---|---  
+  
+15
+
+|
+
+Il 2 novembre 2012 la Seattle Genetics ha chiesto il rilascio di un CPC
+fondato sul brevetto di base presso l’Ufficio brevetti austriaco. Quest’ultimo
+ha dato seguito a tale domanda. Considerando che la data della prima AIC
+nell’Unione, ai sensi dell’articolo 13, paragrafo 1, del regolamento n.
+469/2009, fosse la data della decisione della Commissione relativa all’AIC,
+ossia, nel caso di specie, il 25 ottobre 2012, tale Ufficio ha fissato la data
+di scadenza del CPC al 25 ottobre 2027.  
+  
+---|---  
+  
+16
+
+|
+
+Nel mese di ottobre del 2013 la Takeda ha ceduto l’AIC dell’Adcetris alla
+Takeda Pharma A/S, licenziataria della Seattle Genetics.  
+  
+---|---  
+  
+17
+
+|
+
+Il 22 aprile 2014 la Seattle Genetics ha proposto dinanzi al giudice del
+rinvio un ricorso contro la decisione dell’Ufficio brevetti austriaco, con il
+quale ha chiesto che il CPC rilasciato da quest’ultimo fosse rettificato al
+fine di fissare la sua data di scadenza al 30 ottobre 2027.  
+  
+---|---  
+  
+18
+
+|
+
+A tale proposito la Seattle Genetics ha sostenuto che la data della prima AIC,
+ai sensi dell’articolo 13, paragrafo 1, del regolamento n. 469/2009, doveva
+essere la data alla quale la decisione di AIC dell’Adcetris era stata
+notificata alla ricorrente, ossia il 30 ottobre 2012. Di conseguenza, la data
+di scadenza del CPC avrebbe dovuto essere fissata al 30 ottobre 2027.  
+  
+---|---  
+  
+19
+
+|
+
+Come emerge dagli elementi del fascicolo di cui la Corte dispone, la
+Commissione, all’articolo 3 della sua decisione di esecuzione C(2014) 6095
+final, del 22 agosto 2014, sul rinnovo annuale dell’autorizzazione
+condizionata di immissione in commercio per il medicinale orfano a uso umano
+«Adcetris – Brentuximab vedotin» concessa con la decisione C(2012) 7764 final
+e che modifica tale decisione, ha indicato quanto segue:
+
+«Il periodo di validità dell’autorizzazione rinnovata è di un anno a decorrere
+dal 30 ottobre 2014».  
+  
+---|---  
+  
+20
+
+|
+
+Per quanto attiene al ricorso della Seattle Genetics, l’Oberlandesgericht Wien
+(Tribunale regionale superiore di Vienna) ha accertato che le pratiche degli
+uffici brevetti degli Stati membri sembravano divergere per quanto riguarda la
+determinazione del periodo coperto dai CPC, di cui all’articolo 13, paragrafo
+1, del regolamento n. 469/2009.  
+  
+---|---  
+  
+21
+
+|
+
+In tale contesto, l’Oberlandesgericht Wien (Tribunale regionale superiore di
+Vienna) ha deciso di sospendere il procedimento e di sottoporre alla Corte le
+seguenti questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se la data della prima [AIC] nel[l’Unione] ai sensi dell’articolo 13,
+paragrafo 1, del regolamento n. 469/2009 sia stabilita in base al diritto
+[dell’Unione] o se tale disciplina rinvii alla data in cui l’autorizzazione
+acquista efficacia in base al diritto dello Stato membro interessato.  
+  
+---|---  
+  
+2)
+
+|
+
+Qualora la Corte dichiarasse che occorre stabilire la data di cui alla
+questione sub 1) in base al diritto [dell’Unione], se sia a tal fine
+necessario prendere in considerazione la data dell’autorizzazione o quella
+della comunicazione».  
+  
+---|---  
+  
+Sulla prima questione pregiudiziale
+
+22
+
+|
+
+Con la prima questione il giudice del rinvio chiede in sostanza se l’articolo
+13, paragrafo 1, del regolamento n. 469/2009 debba essere interpretato nel
+senso che la nozione di «data della prima [AIC] nel[l’Unione]» è definita dal
+diritto dell’Unione o se invece tale disposizione debba essere interpretata
+nel senso che tale nozione è definita dal diritto dello Stato membro nel quale
+l’AIC considerata è divenuta efficace.  
+  
+---|---  
+  
+23
+
+|
+
+Secondo una giurisprudenza costante della Corte, dall’esigenza di
+un’applicazione uniforme del diritto dell’Unione discende che, qualora una
+disposizione di quest’ultimo non contenga alcun richiamo al diritto degli
+Stati membri per quanto riguarda una nozione particolare, quest’ultima deve
+dar luogo, in tutta l’Unione, a un’interpretazione autonoma e uniforme (v., in
+tal senso, sentenza Brüstle, C‑34/10, EU:C:2011:669, punto 25).  
+  
+---|---  
+  
+24
+
+|
+
+Orbene, se è vero che l’articolo 13 del regolamento n. 469/2009 non definisce
+la nozione di «data della prima [AIC] nel[l’Unione]» alla quale tale articolo
+ricorre per determinare la data di scadenza di un CPC, esso neppure effettua
+alcun richiamo ai diritti nazionali per quanto concerne il significato da
+attribuire a tali termini. Ne risulta pertanto che detto articolo 13
+dev’essere considerato, ai fini dell’applicazione di tale regolamento, come
+contenente una nozione autonoma del diritto dell’Unione, che deve essere
+interpretata in modo uniforme sul territorio di quest’ultima.  
+  
+---|---  
+  
+25
+
+|
+
+Tale conclusione è corroborata dalla finalità del suddetto regolamento.  
+  
+---|---  
+  
+26
+
+|
+
+A tale proposito occorre ricordare, come emerge dai considerando 7 e 8 del
+medesimo regolamento, che esso introduce una soluzione uniforme a livello
+dell’Unione, in quanto crea un CPC che può essere ottenuto dal titolare di un
+brevetto nazionale o europeo alle stesse condizioni in ciascuno Stato membro.
+Esso mira dunque a prevenire un’evoluzione eterogenea delle legislazioni
+nazionali che comporti ulteriori differenze tali da ostacolare la libera
+circolazione dei medicinali all’interno dell’Unione e da incidere, di
+conseguenza, direttamente sulla creazione e sul funzionamento del mercato
+interno (v., in tal senso, sentenza Medeva, C‑322/10, EU:C:2011:773, punto 24
+e giurisprudenza ivi citata).  
+  
+---|---  
+  
+27
+
+|
+
+Orbene, se la nozione di «data della prima [AIC] nel[l’Unione]» potesse essere
+determinata sulla base del diritto nazionale, l’obiettivo diretto a introdurre
+una soluzione uniforme a livello dell’Unione sarebbe compromesso.  
+  
+---|---  
+  
+28
+
+|
+
+Alla luce di tutte le considerazioni che precedono, occorre rispondere alla
+prima questione dichiarando che l’articolo 13, paragrafo 1, del regolamento n.
+469/2009 dev’essere interpretato nel senso che la nozione di «data della prima
+[AIC] nel[l’Unione]» è definita dal diritto dell’Unione.  
+  
+---|---  
+  
+Sulla seconda questione pregiudiziale
+
+29
+
+|
+
+Con la seconda questione il giudice del rinvio chiede in sostanza se
+l’articolo 13, paragrafo 1, del regolamento n. 469/2009 debba essere
+interpretato nel senso che la «data della prima [AIC] nel[l’Unione]», ai sensi
+di tale disposizione, è quella della decisione di AIC, o se detta disposizione
+debba essere interpretata nel senso che tale data è quella della notifica di
+detta decisione al suo destinatario.  
+  
+---|---  
+  
+30
+
+|
+
+In via preliminare, come rilevato dall’avvocato generale ai paragrafi da 30 a
+33 delle sue conclusioni, né il testo di detta disposizione nelle sue diverse
+versioni linguistiche, né le altre disposizioni del regolamento consentono di
+rispondere in maniera univoca a tale questione.  
+  
+---|---  
+  
+31
+
+|
+
+Si deve allora interpretare detta nozione tenendo conto dell’obiettivo
+perseguito dal regolamento di cui trattasi.  
+  
+---|---  
+  
+32
+
+|
+
+A tale proposito occorre rilevare che l’obiettivo fondamentale del regolamento
+n. 469/2009, menzionato tra l’altro ai considerando da 3 a 5, 8 e 9 di tale
+regolamento, è quello di ristabilire una durata di protezione sufficiente di
+un brevetto di base, permettendo al suo titolare di beneficiare di un periodo
+di esclusiva aggiuntivo alla scadenza del suo brevetto, destinato a
+compensare, almeno parzialmente, il ritardo accumulato nello sfruttamento
+commerciale della sua invenzione a causa del lasso di tempo intercorso tra la
+data di deposito della domanda di brevetto e quella del rilascio della prima
+AIC nell’Unione (v., in tal senso, sentenza Actavis Group PTC e Actavis UK,
+C‑577/13, EU:C:2015:165, punto 34 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+33
+
+|
+
+Tale constatazione è peraltro corroborata dal punto 14 della relazione della
+proposta di regolamento (CEE) del Consiglio, dell’11 aprile 1990, sulla
+creazione di un certificato protettivo complementare per i medicinali [COM
+(90) 101 def.], secondo cui la durata della protezione conferita dal CPC
+dev’essere tale da rendere la protezione «effettiva». Secondo il punto 50 di
+tale relazione, detta durata dev’essere sufficiente a rispondere agli
+obiettivi della proposta di regolamento.  
+  
+---|---  
+  
+34
+
+|
+
+Orbene, poiché l’intenzione del legislatore dell’Unione è stata quella di
+conferire una protezione effettiva e sufficiente al titolare di un CPC, il
+calcolo della durata della protezione complementare non può essere effettuato
+senza prendere in considerazione la determinazione della data a decorrere
+dalla quale il beneficiario di un CPC è effettivamente in grado di godere
+dell’AIC commercializzando il suo prodotto.  
+  
+---|---  
+  
+35
+
+|
+
+A tale proposito si deve necessariamente constatare che al titolare di un CPC
+è consentito commercializzare il suo prodotto soltanto a partire dalla data
+della notifica della decisione di concessione dell’AIC considerata, e non a
+partire dalla data di adozione di tale decisione.  
+  
+---|---  
+  
+36
+
+|
+
+Come rilevato sia dall’avvocato generale al paragrafo 39 delle sue
+conclusioni, sia dalla Commissione, a meno di adottare un’interpretazione che
+non sarebbe conforme all’obiettivo del regolamento n. 469/2009, che consiste
+nel garantire una protezione effettiva e sufficiente al titolare di un CPC,
+non si può ammettere che operazioni procedurali che hanno luogo tra la
+decisione di AIC e la sua notifica, sulla cui durata il beneficiario di un CPC
+non esercita alcun controllo, riducano il periodo di validità di un CPC.  
+  
+---|---  
+  
+37
+
+|
+
+Quest’ultima interpretazione si impone a maggior ragione se si considera che
+le decisioni sull’AIC emesse dalla Commissione, come la decisione di
+esecuzione C(2012) 7764 final, sono soggette alle prescrizioni dell’articolo
+297, paragrafo 2, terzo comma, TFUE, a norma del quale le decisioni che
+designano i destinatari sono notificate ai destinatari e hanno efficacia in
+virtù di tale notificazione.  
+  
+---|---  
+  
+38
+
+|
+
+Pertanto, conformemente a quest’ultima disposizione, all’articolo 4 della sua
+decisione di esecuzione C(2012) 7764 final la Commissione ha considerato come
+data di acquisto di efficacia dell’AIC dell’Adcetris il 30 ottobre 2012.
+Peraltro, nell’articolo 3 della decisione di esecuzione C(2014) 6095 final la
+data del 30 ottobre 2014 è stata indicata come data in cui il rinnovo di tale
+AIC è divenuto efficace.  
+  
+---|---  
+  
+39
+
+|
+
+Orbene, l’obbligo di notifica di una decisione della Commissione al suo
+destinatario, previsto dall’articolo 297, paragrafo 2, terzo comma, TFUE
+affinché tale decisione divenga efficace non può essere ignorato in sede di
+calcolo della durata della protezione complementare ai sensi dell’articolo 13,
+paragrafo 1, del regolamento n. 469/2009.  
+  
+---|---  
+  
+40
+
+|
+
+Alla luce di tutte le considerazioni che precedono, occorre rispondere alla
+seconda questione dichiarando che l’articolo 13, paragrafo 1, del regolamento
+n. 469/2009 dev’essere interpretato nel senso che la «data della prima [AIC]
+nel[l’Unione]», ai sensi di tale disposizione, è quella della notifica della
+decisione di AIC al suo destinatario.  
+  
+---|---  
+  
+Sulle spese
+
+41
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Ottava Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 13, paragrafo 1, del regolamento (CE) n. 469/2009 del Parlamento
+europeo e del Consiglio, del 6 maggio 2009, sul certificato protettivo
+complementare per i medicinali dev’essere interpretato nel senso che la
+nozione di «data della prima autorizzazione di immissione in commercio
+nel[l’Unione europea]» è definita dal diritto dell’Unione.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 13, paragrafo 1, del regolamento n. 469/2009 dev’essere
+interpretato nel senso che la «data della prima autorizzazione di immissione
+in commercio nel[l’Unione]», ai sensi di tale disposizione, è quella della
+notifica della decisione di autorizzazione di immissione in commercio al suo
+destinatario.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il tedesco.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

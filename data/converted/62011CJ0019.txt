@@ -1,0 +1,1183 @@
+
+
+SENTENZA DELLA CORTE (Seconda Sezione)
+
+28 giugno 2012 ( *1 )
+
+«Direttive 2003/6/CE e 2003/124/CE — Informazione privilegiata — Nozione di
+“informazione che ha un carattere preciso” — Fasi intermedie di una
+fattispecie a formazione progressiva — Menzione di un complesso di circostanze
+o di un evento di cui si possa ragionevolmente ritenere che verrà ad esistere
+o che si verificherà — Interpretazione dell’espressione “si possa
+ragionevolmente ritenere” — Divulgazione al pubblico di informazioni relative
+al cambio di un dirigente di una società»
+
+Nella causa C-19/11,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Bundesgerichtshof (Germania) con
+decisione del 22 novembre 2010, pervenuta in cancelleria il 14 gennaio 2011,
+nel procedimento
+
+Markus Geltl
+
+contro
+
+Daimler AG,
+
+con l’intervento di:
+
+Lothar Meier e altri,
+
+LA CORTE (Seconda Sezione),
+
+composta dal sig. J.N. Cunha Rodrigues, presidente di sezione, dai sigg. U.
+Lõhmus (relatore), A. Rosas, A. Ó Caoimh e C.G. Fernlund, giudici,
+
+avvocato generale: sig. P. Mengozzi
+
+cancelliere: sig.ra A. Impellizzeri, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 2 febbraio
+2012,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per M. Geltl, da R. Lindner, Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per la Daimler AG, da M. Sustmann e R. Schmidt-Bendum, Rechtsanwälte;  
+  
+---|---  
+  
+—
+
+|
+
+per L. Meier, da H. Schmidt, Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per E. Endruweit e a., da R. Lindner, avvocato;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo belga, da M. Jacobs e J.-C. Halleux, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ceco, da M. Smolek e D. Hadroušek, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo estone, da M. Linntam, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo italiano, da G. Palmieri, in qualità di agente, assistita da M.
+Russo, avvocato dello Stato;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo portoghese, da L. Inez Fernandes e F. Matias Santos, in qualità
+di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo del Regno Unito, da S. Hathaway, in qualità di agente,
+assistito da A. Henshaw, barrister;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da G. Braun e da R. Vasileva, in qualità di
+agenti;  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 21
+marzo 2012,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+1, punto 1, della direttiva 2003/6/CE del Parlamento europeo e del Consiglio,
+del 28 gennaio 2003, relativa all’abuso di informazioni privilegiate e alla
+manipolazione del mercato (abusi di mercato) (GU L 96, pag. 16) nonché
+dell’articolo 1, paragrafo 1, della direttiva 2003/124/CE della Commissione,
+del 22 dicembre 2003, recante modalità di esecuzione della direttiva 2003/6
+per quanto riguarda la definizione e la comunicazione al pubblico delle
+informazioni privilegiate e la definizione di manipolazione del mercato (GU L
+339, pag. 70).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia che
+contrappone il sig. Geltl alla Daimler AG (in prosieguo: la «Daimler») in
+merito al danno che il sig. Geltl sostiene di avere sofferto a seguito della
+pubblicazione asseritamente tardiva da parte di tale società di informazioni
+attinenti alle dimissioni anticipate del presidente del suo consiglio di
+amministrazione.  
+  
+---|---  
+  
+Contesto normativo
+
+La normativa dell’Unione
+
+La direttiva 2003/6
+
+3
+
+|
+
+I considerando 2, 12, 16 e 24 della direttiva 2003/6 sono così formulati:
+
+|
+
+«(2)
+
+|
+
+Un mercato finanziario integrato ed efficiente non può esistere senza che se
+ne tuteli l’integrità. Il regolare funzionamento dei mercati mobiliari e la
+fiducia del pubblico nei mercati costituiscono fattori essenziali di crescita
+e di benessere economico. Gli abusi di mercato ledono l’integrità dei mercati
+finanziari e compromettono la fiducia del pubblico nei valori mobiliari e
+negli strumenti derivati.  
+  
+---|---  
+  
+(...)
+
+(12)
+
+|
+
+Gli abusi di mercato comprendono l’abuso di informazioni privilegiate e la
+manipolazione del mercato. La normativa contro l’abuso di informazioni
+privilegiate persegue lo stesso obiettivo della normativa contro la
+manipolazione del mercato: assicurare l’integrità dei mercati finanziari
+comunitari e accrescere la fiducia degli investitori nei mercati stessi. (...)  
+  
+---|---  
+  
+(...)
+
+(16)
+
+|
+
+Informazione privilegiata è qualsiasi informazione che ha un carattere
+preciso, che non è stata resa pubblica e che concerne, direttamente o
+indirettamente, uno o più emittenti di strumenti finanziari o uno o più
+strumenti finanziari. Un’informazione che potrebbe influire in modo sensibile
+sull’evoluzione e la formazione dei prezzi di un mercato regolamentato in
+quanto tale potrebbe essere considerata un’informazione che concerne
+indirettamente uno o più emittenti di strumenti finanziari o uno o più
+strumenti finanziari derivati connessi.  
+  
+---|---  
+  
+(...)
+
+(24)
+
+|
+
+Una divulgazione tempestiva e corretta delle informazioni al pubblico rafforza
+l’integrità del mercato; al contrario, la divulgazione selettiva da parte
+degli emittenti può determinare il venir meno della fiducia degli investitori
+nell’integrità dei mercati finanziari (...)».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 1, punto 1, primo comma, di tale direttiva definisce la nozione di
+«informazione privilegiata» come «un’informazione che ha un carattere preciso,
+che non è stata resa pubblica e che concerne, direttamente o indirettamente,
+uno o più emittenti di strumenti finanziari o uno o più strumenti finanziari,
+che, se resa pubblica, potrebbe influire in modo sensibile sui prezzi di tali
+strumenti finanziari ovvero sui prezzi di strumenti finanziari derivati
+connessi».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 2 di detta direttiva recita:
+
+«1. Gli Stati membri vietano alle persone di cui al secondo comma che
+dispongono di informazioni privilegiate di utilizzare tali informazioni
+acquisendo o cedendo, o cercando di acquisire o cedere, per conto proprio o
+per conto terzi, direttamente o indirettamente, gli strumenti finanziari cui
+le informazioni si riferiscono.
+
+Il primo comma si applica a chiunque possieda tali informazioni:
+
+|
+
+a)
+
+|
+
+a motivo della sua qualità di membro degli organi di amministrazione, di
+direzione o di controllo dell’emittente, ovvero  
+  
+---|---  
+  
+b)
+
+|
+
+a motivo della sua partecipazione al capitale dell’emittente, ovvero  
+  
+---|---  
+  
+c)
+
+|
+
+per il fatto di avere accesso a tali informazioni a motivo del suo lavoro,
+della sua professione e delle sue funzioni, ovvero  
+  
+---|---  
+  
+d)
+
+|
+
+in virtù delle proprie attività criminali.  
+  
+---|---  
+  
+2\. Quando le persone di cui al paragrafo 1 sono persone giuridiche, il
+divieto previsto dallo stesso paragrafo si applica anche alle persone fisiche
+che partecipano alla decisione di procedere all’operazione per conto della
+persona giuridica in questione.
+
+3\. Il presente articolo non si applica alle operazioni effettuate per
+garantire l’esecuzione di un obbligo di acquisizione o di cessione di
+strumenti finanziari diventato esigibile quando quest’obbligo risulta da un
+accordo concluso prima che la persona interessata fosse in possesso di
+un’informazione privilegiata».  
+  
+6
+
+|
+
+L’articolo 6, paragrafi 1 e 2, della stessa direttiva dispone quanto segue:
+
+«1. Gli Stati membri dispongono che gli emittenti di strumenti finanziari
+comunichino al pubblico, al più presto possibile, le informazioni privilegiate
+che riguardano direttamente detti emittenti.
+
+(...)
+
+2\. Un emittente può, sotto la propria responsabilità, ritardare la
+divulgazione al pubblico di informazioni privilegiate di cui al paragrafo 1,
+al fine di non pregiudicare i suoi legittimi interessi, a condizione che tale
+omissione non possa fuorviare il pubblico e che l’emittente sia in grado di
+assicurare la riservatezza delle informazioni stesse. Gli Stati membri possono
+esigere che l’emittente informi senza indugio l’autorità competente della
+decisione di ritardare la divulgazione al pubblico di informazioni
+privilegiate».  
+  
+---|---  
+  
+La direttiva 2003/124
+
+7
+
+|
+
+Ai sensi dei considerando 1 e 3 della direttiva 2003/124:
+
+|
+
+«(1)
+
+|
+
+Un investitore ragionevole basa le proprie decisioni di investimento sulle
+informazioni già in suo possesso, ossia su informazioni disponibili ex ante.
+Pertanto, per rispondere alla domanda se al momento di prendere una decisione
+di investimento un investitore ragionevole terrà verosimilmente conto di una
+determinata informazione, occorre basarsi sulle informazioni disponibili ex
+ante. Nell’effettuare una tale analisi, occorre considerare l’impatto previsto
+dell’informazione alla luce dell’attività complessiva dell’emittente
+interessato, l’attendibilità della fonte di informazione, nonché ogni altra
+variabile di mercato che, nelle circostanze date, possa influire sullo
+strumento finanziario in oggetto o sullo strumento finanziario derivato
+collegato.  
+  
+---|---  
+  
+(...)
+
+(3)
+
+|
+
+Occorre accrescere la certezza del diritto per i partecipanti al mercato,
+definendo in modo più preciso due degli elementi essenziali della definizione
+di informazione privilegiata, ossia il carattere preciso dell’informazione e
+l’importanza del suo impatto potenziale sui prezzi degli strumenti finanziari
+o degli strumenti finanziari derivati connessi».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 1 della stessa direttiva, intitolato «Informazioni privilegiate»,
+recita:
+
+«1. Ai fini dell’applicazione dell’articolo 1, punto 1, della direttiva
+2003/6/CE, si ritiene che un’informazione abbia carattere preciso se si
+riferisce ad un complesso di circostanze esistente o di cui si possa
+ragionevolmente ritenere che verrà ad esistere o ad un evento verificatosi o
+di cui si possa ragionevolmente ritenere che si verificherà e se tale
+informazione è sufficientemente specifica da consentire di trarre conclusioni
+sul possibile effetto di detto complesso di circostanze o di detto evento sui
+prezzi di strumenti finanziari o di strumenti finanziari derivati connessi.
+
+2\. Ai fini dell’applicazione dell’articolo 1, punto 1, della direttiva
+2003/6/CE, per “informazione (...) che, se resa pubblica, potrebbe influire in
+modo sensibile sui prezzi di tali strumenti finanziari ovvero sui prezzi di
+strumenti finanziari derivati connessi” si intende un’informazione che
+presumibilmente un investitore ragionevole utilizzerebbe come uno degli
+elementi su cui fondare le proprie decisioni di investimento».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 3, paragrafo 1, di detta direttiva contiene un elenco non tassativo
+di situazioni che possono riguardare gli interessi legittimi di un emittente
+ai sensi dell’articolo 6, paragrafo 2, della direttiva 2003/6, vale a dire
+negoziazioni in corso, o elementi connessi, nel caso in cui la comunicazione
+al pubblico possa comprometterne l’esito o il normale andamento, nonché
+decisioni adottate o contratti conclusi dall’organo direttivo di un emittente
+la cui efficacia sia subordinata all’approvazione di un altro organo
+dell’emittente, qualora la struttura dell’emittente preveda la separazione tra
+i due organi.  
+  
+---|---  
+  
+La normativa tedesca
+
+10
+
+|
+
+L’articolo 13, paragrafo 1, della legge sulla negoziazione dei valori
+mobiliari (Gesetz über den Wertpapierhandel), nella sua versione del 9
+settembre 1998 (BGBl. 1998 I, pag. 2708), come modificata dalla legge sul
+miglioramento della tutela degli investitori (Gesetz zur Verbesserung des
+Anlegerschutzes), del 28 ottobre 2004 (BGBl. 2004 I, pag. 2630, in prosieguo:
+il «WpHG»), dispone quanto segue:
+
+«Un’informazione privilegiata è un’informazione specifica su circostanze non
+note al pubblico che si riferiscono ad uno o più emittenti di valori mobiliari
+ovvero agli stessi valori mobiliari e sono idonee, nel caso che vengano rese
+pubbliche, ad influire in modo sensibile sulle quotazioni di borsa o di
+mercato dei valori mobiliari. Si ravvisa una siffatta idoneità nel caso in cui
+un investitore ragionevole prenderebbe in considerazione l’informazione nella
+sua decisione di investimento. Sono considerate circostanze ai sensi della
+prima frase le circostanze di cui si possa con sufficiente probabilità
+ritenere che si verificheranno (...)».  
+  
+---|---  
+  
+11
+
+|
+
+L’articolo 6, paragrafi 1 e 2, della direttiva 2003/6 è stato trasposto
+nell’ordinamento tedesco con l’articolo 15, paragrafi 1 e 3, del WpHG.
+Conformemente al paragrafo 6 di tale ultimo articolo, un emittente che viola i
+suoi obblighi derivanti dai paragrafi 1-4 dello stesso articolo è tenuto a
+risarcire il danno subito da altri per tale fatto nelle condizioni stabilite,
+segnatamente, all’articolo 37 b del WpHG.  
+  
+---|---  
+  
+Causa principale e questioni pregiudiziali
+
+12
+
+|
+
+Risulta dalla decisione di rinvio che, dopo l’assemblea generale della Daimler
+del 6 aprile 2005, il sig. Schrempp, presidente del direttorio di
+quest’ultima, ha maturato la convinzione di dimettersi dalla sua carica prima
+della scadenza del mandato, prevista nel 2008. Il 17 maggio 2005 ha
+manifestato tale sua intenzione al presidente del consiglio di sorveglianza
+della società, sig. Kopper. Tra il 1o giugno ed il 27 luglio 2005, anche altri
+membri del consiglio di sorveglianza e del direttorio sono stati informati del
+progetto di dimissioni del sig. Schrempp.  
+  
+---|---  
+  
+13
+
+|
+
+A partire dal 10 luglio 2005, la Daimler ha preparato un comunicato stampa,
+una dichiarazione esterna nonché una lettera destinata ai dipendenti.  
+  
+---|---  
+  
+14
+
+|
+
+Il 13 luglio 2005 il comitato di presidenza del consiglio di sorveglianza
+della Daimler (in prosieguo: il «comitato di presidenza») nonché il consiglio
+di sorveglianza sono stati convocati, rispettivamente per il 27 e per il 28
+luglio 2005; tali convocazioni non contenevano indicazioni relative ad un
+eventuale cambiamento del presidente del direttorio.  
+  
+---|---  
+  
+15
+
+|
+
+Il 18 luglio 2005 i sigg. Schrempp e Kopper si sono accordati per proporre,
+durante la riunione del consiglio di sorveglianza del 28 luglio 2005, le
+dimissioni anticipate del sig. Schrempp nonché la nomina del suo successore
+nella persona del sig. Zetsche.  
+  
+---|---  
+  
+16
+
+|
+
+Durante la riunione, iniziata il 27 luglio 2005 alle 17, il comitato di
+presidenza ha deciso di proporre al consiglio di sorveglianza, che doveva
+riunirsi l’indomani, di approvare tali dimissioni e tale nomina.  
+  
+---|---  
+  
+17
+
+|
+
+Il 28 luglio 2005 verso le 9.50, il consiglio di sorveglianza della Daimler ha
+deciso che il sig. Schrempp avrebbe lasciato la sua carica alla fine dell’anno
+e che sarebbe stato sostituito dal sig. Zetsche.  
+  
+---|---  
+  
+18
+
+|
+
+Tale decisione è stata comunicata alle rispettive direzioni delle borse e
+della Bundesanstalt für Finanzdienstleistungsaufsicht (ufficio federale di
+controllo dei servizi finanziari) ed è stata pubblicata nella banca dati della
+Deutsche Gesellschaft für Ad-hoc-Publizität (società tedesca di pubblicazione
+ad hoc).  
+  
+---|---  
+  
+19
+
+|
+
+In seguito a tale pubblicazione, il corso dell’azione della Daimler, che già
+si era apprezzato dopo la pubblicazione, lo stesso giorno, dei risultati del
+secondo trimestre del 2005, è notevolmente aumentato.  
+  
+---|---  
+  
+20
+
+|
+
+Il sig. Geltl e molti altri investitori avevano venduto azioni della Daimler
+prima della pubblicazione di detta decisione. Essi hanno agito contro tale
+società dinanzi al Landgericht Stuttgart e hanno richiesto un risarcimento
+danni, facendo valere il carattere tardivo di tale pubblicazione. Detto
+giudice ha chiesto all’Oberlandesgericht Stuttgart di pronunciarsi su diverse
+questioni attinenti a tali controversie nell’ambito di una causa pilota
+(«Musterverfahren»).  
+  
+---|---  
+  
+21
+
+|
+
+Nella sua decisione pilota del 22 aprile 2009 l’Oberlandesgericht Stuttgart ha
+considerato che non si poteva dimostrare che, al 17 maggio 2005 o ad una data
+successiva, esisteva un’informazione privilegiata secondo cui il sig. Schrempp
+avrebbe lasciato unilateralmente la sua carica indipendentemente
+dall’approvazione del consiglio di sorveglianza della Daimler. Secondo tale
+giudice, il fatto determinante idoneo ad incidere sul prezzo dell’azione di
+tale società è la decisione del consiglio di sorveglianza del 28 luglio 2005.
+Tale decisione era divenuta sufficientemente probabile dopo che il comitato di
+presidenza aveva deciso, il 27 luglio 2005 dopo le 17, di proporre al
+consiglio di sorveglianza di adottare la decisione stessa. Di conseguenza,
+solo a partire da tale ultima data è esistita un’informazione privilegiata.
+L’Oberlandesgericht Stuttgart ha ammesso che le condizioni per ritardare la
+pubblicazione di tale informazione, come previste all’articolo 15, paragrafo
+3, del WpHG, non erano interamente soddisfatte, ma ha dichiarato che il danno
+fatto valere dagli attori si sarebbe verificato anche se tali condizioni
+fossero state soddisfatte.  
+  
+---|---  
+  
+22
+
+|
+
+Adito con un ricorso, il giudice del rinvio rileva che l’Oberlandesgericht
+Stuttgart non ha esaminato se le specifiche tappe del procedimento che ha
+portato alla decisione del 28 luglio 2005 fossero tali da incidere sul prezzo
+delle azioni della Daimler. Invece, nell’ambito di una causa relativa a
+un’ammenda nelle stesse circostanze della causa principale,
+l’Oberlandesgericht Frankfurt am Main ha considerato che riunire diverse
+circostanze autonome in un’unica decisione globale è contrario al tenore
+letterale dell’articolo 13, paragrafo 1, del WpHG nonché delle direttive
+2003/6 e 2003/124 e che, pertanto, l’obbligo di pubblicazione esisteva sin dal
+momento in cui il procedimento interno è sfociato in una decisione e
+quest’ultima è stata rivelata ad un responsabile dell’impresa in questione.  
+  
+---|---  
+  
+23
+
+|
+
+Tutto ciò considerato, il Bundesgerichtshof ha deciso di sospendere il
+procedimento e di sottoporre alla Corte le seguenti questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se, qualora venga in questione una fattispecie che si realizza in più fasi
+intermedie nel corso del tempo e che è finalizzata a fare venire in essere una
+determinata circostanza od a provocare la realizzazione di un certo evento,
+sia necessario, per applicare l’articolo 1, comma 1, punto 1, della direttiva
+2003/6 e l’articolo 1, n. 1, della direttiva 2003/124, basarsi solamente sul
+fatto che questa circostanza o l’evento futuri debbano essere qualificati come
+un’informazione a carattere preciso ai sensi delle disposizioni summenzionate,
+con la conseguenza di dovere esaminare se si possa ragionevolmente pensare che
+la circostanza o l’evento futuri si produrranno, oppure, poiché appunto viene
+in esame un processo che si svolge nel tempo, i momenti intermedi che già
+sussistono o si sono verificati e che sono legati alla realizzazione della
+circostanza o dell’evento futuri possano egualmente costituire delle
+informazioni a carattere preciso secondo le dette disposizioni delle
+direttive.  
+  
+---|---  
+  
+2)
+
+|
+
+Se l’espressione “si possa ragionevolmente ritenere” di cui all’articolo 1, n.
+1, della direttiva 2003/124, richieda che la probabilità sia giudicata
+preponderante od elevata, oppure se, per circostanze che si possa
+ragionevolmente pensare che verranno ad esistere o per eventi che
+ragionevolmente si verificheranno, debba intendersi che il grado di
+probabilità dipenda dall’ampiezza delle conseguenze per l’emittente e che,
+nell’eventualità in cui la loro attitudine ad influire sulla quotazione dei
+titoli sia elevata, sia sufficiente che la verificazione della circostanza o
+dell’evento futuri sia incerta ma non improbabile».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+24
+
+|
+
+In via preliminare, occorre rammentare che, al fine di assicurare l’integrità
+dei mercati finanziari dell’Unione europea e accrescere la fiducia degli
+investitori nei mercati stessi, la direttiva 2003/6 vieta l’abuso di
+informazioni privilegiate alle condizioni fissate al suo articolo 2 e,
+conformemente al suo articolo 6, paragrafo 1, impone agli emittenti di
+strumenti finanziari di comunicare al pubblico, al più presto possibile, le
+informazioni privilegiate che li riguardano direttamente. In forza del
+paragrafo 2 di tale ultimo articolo, la divulgazione al pubblico di tali
+informazioni può essere ritardata, a determinate condizioni, al fine di non
+pregiudicare i legittimi interessi dell’emittente.  
+  
+---|---  
+  
+25
+
+|
+
+La definizione della nozione di «informazione privilegiata» risultante
+dall’articolo 1, punto 1, primo comma, di detta direttiva comprende quattro
+elementi essenziali. In primo luogo, si tratta di un’informazione che ha un
+carattere preciso. In secondo luogo, tale informazione non è stata resa
+pubblica. In terzo luogo, essa concerne, direttamente o indirettamente, uno o
+più emittenti di strumenti finanziari o uno o più strumenti finanziari. In
+quarto luogo, se resa pubblica, essa potrebbe influire in modo sensibile sui
+prezzi di tali strumenti finanziari ovvero sui prezzi di strumenti finanziari
+derivati connessi. Il primo ed il quarto elemento sono definiti in termini più
+precisi rispettivamente ai paragrafi 1 e 2 dell’articolo 1 della direttiva
+2003/124.  
+  
+---|---  
+  
+26
+
+|
+
+Le questioni sottoposte dal giudice del rinvio sono dirette ad ottenere
+chiarimenti sul primo di tali elementi, vale a dire il carattere preciso di
+un’informazione.  
+  
+---|---  
+  
+Sulla prima questione
+
+27
+
+|
+
+Con la prima questione il giudice del rinvio chiede sostanzialmente se gli
+articoli 1, punto 1, della direttiva 2003/6 e 1, paragrafo 1, della direttiva
+2003/124 debbano essere interpretati nel senso che, in una fattispecie a
+formazione progressiva, in cui deve realizzarsi una determinata circostanza
+ovvero deve prodursi un certo evento, possono costituire informazioni aventi
+un carattere preciso ai sensi di tali disposizioni non solo la detta
+circostanza o il detto evento, bensì anche le fasi intermedie di tale
+fattispecie già esistenti o già verificatesi e che sono collegate al
+verificarsi di questi ultimi.  
+  
+---|---  
+  
+28
+
+|
+
+Risulta dal considerando 3 della direttiva 2003/124 che quest’ultima è diretta
+a fornire una definizione più precisa della nozione di «informazione avente
+carattere preciso» utilizzata nella direttiva 2003/6 al fine di rafforzare la
+certezza del diritto per i partecipanti al mercato in questione.  
+  
+---|---  
+  
+29
+
+|
+
+Ai sensi dell’articolo 1, paragrafo 1, della direttiva 2003/124, si ritiene
+che un’informazione abbia carattere preciso qualora siano soddisfatti due
+requisiti cumulativi. Da un lato, l’informazione deve riferirsi ad un
+complesso di circostanze esistente o di cui si possa ragionevolmente ritenere
+che verrà ad esistere o ad un evento verificatosi o di cui si possa
+ragionevolmente ritenere che si verificherà. Dall’altro, essa deve essere
+sufficientemente specifica da consentire di trarre conclusioni sul possibile
+effetto di detto complesso di circostanze o di detto evento sui prezzi degli
+strumenti finanziari o di strumenti finanziari derivati ad essi connessi.  
+  
+---|---  
+  
+30
+
+|
+
+Poiché le nozioni di «complesso di circostanze» e di «evento» non sono
+definite in tale direttiva, occorre fare riferimento al loro significato
+comune.  
+  
+---|---  
+  
+31
+
+|
+
+Si deve constatare che una fase intermedia di una fattispecie a formazione
+progressiva può essa stessa costituire un complesso di circostanze o un evento
+secondo il significato comunemente attribuito a tali espressioni.  
+  
+---|---  
+  
+32
+
+|
+
+Tale constatazione è suffragata dall’articolo 3, paragrafo 1, della direttiva
+2003/124, che menziona, tra gli esempi di informazioni privilegiate la cui
+divulgazione al pubblico può essere ritardata conformemente all’articolo 6,
+paragrafo 2, della direttiva 2003/6, talune situazioni che rappresentano casi
+tipici di fasi intermedie di fattispecie a formazione progressiva, vale a dire
+le negoziazioni in corso nonché le decisioni adottate o i contratti conclusi
+dall’organo direttivo di un emittente, la cui efficacia sia subordinata
+all’approvazione di un altro organo dell’emittente.  
+  
+---|---  
+  
+33
+
+|
+
+Peraltro, la direttiva 2003/6 ha lo scopo, come in particolare ricordato nei
+suoi considerando 2 e 12, di assicurare l’integrità dei mercati finanziari
+dell’Unione e di accrescere la fiducia degli investitori in tali mercati. Tale
+fiducia riposa, in particolare, sul fatto che essi saranno posti su un piano
+di parità e tutelati contro l’utilizzazione illecita delle informazioni
+privilegiate e le manipolazioni dei prezzi di mercato (v., in tal senso,
+sentenze del 23 dicembre 2009, Spector Photo Group e Van Raemdonck, C-45/08,
+Racc. pag. I-12073, punto 47, nonché del 7 luglio 2011, IMC Securities,
+C-445/09, Racc. pag. I-5917, punto 27).  
+  
+---|---  
+  
+34
+
+|
+
+A tale riguardo, la prima frase del considerando 24 di detta direttiva precisa
+che una divulgazione tempestiva e corretta delle informazioni al pubblico
+rafforza l’integrità del mercato, mentre la divulgazione selettiva da parte
+degli emittenti può determinare il venir meno della fiducia degli investitori
+nell’integrità dei mercati finanziari.  
+  
+---|---  
+  
+35
+
+|
+
+Un’interpretazione delle espressioni «complesso di circostanze» e «evento» che
+non considerasse le fasi intermedie di una fattispecie a formazione
+progressiva rischierebbe di pregiudicare gli obiettivi ricordati ai due punti
+precedenti della presente sentenza. Infatti, escludere che un’informazione
+relativa a una siffatta fase di una fattispecie a formazione progressiva possa
+essere considerata un’informazione avente un carattere preciso, ai sensi
+dell’articolo 1, punto 1, della direttiva 2003/6, vanificherebbe l’obbligo,
+previsto all’articolo 6, paragrafo 1, primo comma, di quest’ultima di rendere
+pubblica tale informazione, anche qualora essa abbia un carattere del tutto
+specifico e pur in presenza anche degli altri elementi costitutivi di
+un’informazione privilegiata riportati al punto 25 della presente sentenza.  
+  
+---|---  
+  
+36
+
+|
+
+In una situazione del genere, taluni detentori di tale informazione potrebbero
+trovarsi in una posizione avvantaggiata rispetto agli altri investitori e
+potrebbero trarne profitto a scapito di coloro che la ignorano (v., in tal
+senso, sentenza Spector Photo Group e Van Raemdonck, cit., punto 48).  
+  
+---|---  
+  
+37
+
+|
+
+Il rischio che una situazione siffatta si produca sarebbe tanto più elevato
+qualora fosse possibile, in determinate circostanze, qualificare l’esito di
+una particolare fattispecie come una fase intermedia di un’altra, più ampia,
+fattispecie.  
+  
+---|---  
+  
+38
+
+|
+
+Di conseguenza, un’informazione relativa ad una fase intermedia che si iscrive
+in una fattispecie a formazione progressiva può rappresentare un’informazione
+avente carattere preciso. Occorre precisare che tale interpretazione non vale
+soltanto per le fasi che esistono già o che si sono già prodotte, bensì
+riguarda anche, conformemente all’articolo 1, paragrafo 1, della direttiva
+2003/124, le fasi di cui si può ragionevolmente ritenere che esisteranno o che
+si verificheranno.  
+  
+---|---  
+  
+39
+
+|
+
+Come risulta dal punto 29 della presente sentenza, qualificare un’informazione
+nel senso che essa ha un carattere preciso è inoltre subordinato alla
+sussistenza del secondo requisito menzionato in tale disposizione, vale a dire
+che l’informazione deve essere sufficientemente specifica da consentire di
+trarre conclusioni sul possibile effetto del complesso di circostanze o
+dell’evento sui prezzi degli strumenti finanziari in questione.  
+  
+---|---  
+  
+40
+
+|
+
+Occorre quindi rispondere alla prima questione che gli articoli 1, punto 1,
+della direttiva 2003/6 e 1, paragrafo 1, della direttiva 2003/124 devono
+essere interpretati nel senso che in una fattispecie a formazione progressiva
+diretta a realizzare una determinata circostanza o a produrre un certo evento
+possono costituire informazioni aventi un carattere preciso ai sensi di tali
+disposizioni non solo la detta circostanza o il detto evento, bensì anche le
+fasi intermedie di tale fattispecie collegate al verificarsi di questi ultimi.  
+  
+---|---  
+  
+Sulla seconda questione
+
+41
+
+|
+
+Con la seconda questione, il giudice del rinvio chiede, in sostanza, se
+l’articolo 1, paragrafo 1, della direttiva 2003/124 debba essere interpretato
+nel senso che la nozione di «un complesso di circostanze (...) di cui si possa
+ragionevolmente ritenere che verrà ad esistere o (...) un evento (...) di cui
+si possa ragionevolmente ritenere che si verificherà» riguarda solo le
+circostanze o gli eventi la cui probabilità di sopravvenire può essere
+considerata preponderante o elevata, ovvero se tale nozione comporti che sia
+presa in considerazione l’ampiezza delle conseguenze di tale complesso di
+circostanze o di tale evento sul prezzo degli strumenti finanziari in
+questione.  
+  
+---|---  
+  
+42
+
+|
+
+Sussiste una certa divergenza tra le versioni linguistiche di detta
+disposizione. Infatti, talune versioni, segnatamente la francese, l’italiana e
+l’olandese, impiegano l’espressione «si possa ragionevolmente ritenere»,
+mentre altre, segnatamente la danese, la greca, l’inglese e la svedese,
+impiegano l’espressione «ci si possa ragionevolmente attendere». Le versioni
+spagnola e portoghese fanno riferimento, rispettivamente, ad «un complesso di
+circostanze che possono ragionevolmente sussistere» e ad «un complesso di
+circostanze o un evento ragionevolmente prevedibili». Infine, la versione
+tedesca impiega l’espressione «con sufficiente probabilità» («mit
+hinreichender Wahrscheinlichkeit»).  
+  
+---|---  
+  
+43
+
+|
+
+Secondo una giurisprudenza consolidata, da una parte, la formulazione
+utilizzata in una delle versioni linguistiche di una disposizione di diritto
+dell’Unione non può essere l’unico elemento a sostegno dell’interpretazione di
+questa disposizione né si può attribuire ad essa, a tale riguardo, un
+carattere prioritario rispetto alle altre versioni linguistiche. D’altra
+parte, le varie versioni linguistiche di un testo di diritto dell’Unione
+devono essere interpretate in modo uniforme e, pertanto, in caso di divergenze
+tra loro, la disposizione di cui trattasi dev’essere interpretata in funzione
+dell’economia generale e della finalità della normativa di cui essa fa parte
+(v. sentenza del 28 luglio 2011, Pacific World e FDD International, C-215/10,
+Racc. pag. I-7255, punto 48 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+44
+
+|
+
+Orbene, ad eccezione della versione tedesca, tutte le altre versioni
+linguistiche dell’articolo 1, paragrafo 1, della direttiva 2003/124 esistenti
+al momento dell’adozione di quest’ultima ricorrono all’avverbio
+«ragionevolmente». Con l’uso di tale vocabolo, il legislatore dell’Unione ha
+introdotto un criterio fondato sulle regole derivanti dall’esperienza comune
+per determinare se circostanze ed eventi futuri rientrino o meno nel campo di
+applicazione di tale disposizione.  
+  
+---|---  
+  
+45
+
+|
+
+Al fine di determinare se sia ragionevole ritenere che un complesso di
+circostanze verrà ad esistere o che un evento si verificherà, occorre
+procedere caso per caso ad una valutazione globale degli elementi già
+disponibili.  
+  
+---|---  
+  
+46
+
+|
+
+Di conseguenza, l’articolo 1, paragrafo 1, della direttiva 2003/124,
+impiegando l’espressione «si possa ragionevolmente ritenere», non può essere
+interpretato nel senso che esige la dimostrazione di un’elevata probabilità
+delle circostanze o degli eventi in questione.  
+  
+---|---  
+  
+47
+
+|
+
+Restringere il campo di applicazione degli articoli 1, punto 1, della
+direttiva 2003/6 e 1, paragrafo 1, della direttiva 2003/124, per quanto
+riguarda le circostanze e gli eventi futuri, ad un tale grado di probabilità
+pregiudicherebbe gli obiettivi ricordati al punto 33 della presente sentenza,
+vale a dire assicurare l’integrità dei mercati finanziari dell’Unione e
+accrescere la fiducia degli investitori in tali mercati. Infatti, in un caso
+del genere, i detentori di informazioni privilegiate potrebbero trarre un
+indebito profitto da talune informazioni giudicate, a seguito di una siffatta
+interpretazione restrittiva, non aventi un carattere preciso, a scapito di
+terzi che non ne sono a conoscenza.  
+  
+---|---  
+  
+48
+
+|
+
+Tuttavia, al fine di garantire la certezza del diritto per i partecipanti al
+mercato, evocata al considerando 3 della direttiva 2003/124, tra i quali
+figurano gli emittenti, non si può ritenere che abbiano un carattere preciso
+le informazioni attinenti a circostanze e ad eventi il cui sopravvenire non è
+verosimile. Infatti, in caso contrario, gli emittenti potrebbero ritenere di
+essere tenuti a divulgare informazioni prive di carattere concreto o non
+idonee ad incidere sul prezzo dei loro strumenti finanziari.  
+  
+---|---  
+  
+49
+
+|
+
+Ne discende che, impiegando l’espressione «si possa ragionevolmente ritenere»,
+l’articolo 1, paragrafo 1, della direttiva 2003/124 riguarda le circostanze e
+gli eventi futuri di cui appare, sulla base di una valutazione globale degli
+elementi già disponibili, che vi sia una concreta prospettiva che essi
+verranno ad esistere o che si verificheranno.  
+  
+---|---  
+  
+50
+
+|
+
+Per quanto riguarda il problema di sapere se la probabilità richiesta del
+sopravvenire di un complesso di circostanze o di un evento possa variare a
+seconda dell’ampiezza degli effetti di questi ultimi sul prezzo degli
+strumenti finanziari in questione, la risposta deve essere negativa.  
+  
+---|---  
+  
+51
+
+|
+
+In primo luogo, una siffatta interpretazione del significato dell’espressione
+«si possa ragionevolmente ritenere» non deriva da alcuna versione linguistica
+tra quelle citate al punto 42 della presente sentenza.  
+  
+---|---  
+  
+52
+
+|
+
+In secondo luogo, l’interpretazione secondo cui ad una maggiore ampiezza degli
+effetti possibili di un evento futuro sul prezzo degli strumenti finanziari in
+questione dovrebbe corrispondere un grado minore di probabilità richiesta che
+l’informazione che vi fa riferimento venga considerata come un’informazione
+che ha un carattere preciso presupporrebbe che ciascuno dei due elementi
+costitutivi di un’informazione privilegiata previsti, rispettivamente, ai
+paragrafi 1 e 2 dell’articolo 1 della direttiva 2003/124, vale a dire il
+carattere preciso di un’informazione e la capacità di quest’ultima di incidere
+sensibilmente sul prezzo degli strumenti finanziari in questione, dipenda
+dall’altro elemento.  
+  
+---|---  
+  
+53
+
+|
+
+I criteri precisati in tali paragrafi costituiscono condizioni minime,
+ciascuna delle quali deve essere soddisfatta affinché un’informazione possa
+essere considerata «privilegiata» ai sensi dell’articolo 1, punto 1, della
+direttiva 2003/6.  
+  
+---|---  
+  
+54
+
+|
+
+Come ha rilevato il governo del Regno Unito nelle sue osservazioni presentate
+alla Corte, non si può escludere che un’informazione relativa ad un evento, il
+quale è poco probabile che si verifichi, incida sensibilmente sul prezzo dei
+titoli dell’emittente interessato qualora le conseguenze, per quest’ultimo, di
+tale evento fossero particolarmente importanti. Non per questo potrebbe
+ragionevolmente dedursene che detto evento si verifichi.  
+  
+---|---  
+  
+55
+
+|
+
+È vero che, come risulta dal considerando 1 della direttiva 2003/124, un
+investitore ragionevole basa le proprie decisioni di investimento su tutte le
+informazioni disponibili ex ante. Egli deve quindi prendere in considerazione
+non solo l’«impatto previsto» di un evento sull’emittente, bensì anche il
+grado di probabilità che tale evento si verifichi. Tuttavia, tali
+considerazioni sono dirette a determinare se un’informazione sia idonea ad
+incidere sensibilmente sul prezzo degli strumenti finanziari dell’emittente.  
+  
+---|---  
+  
+56
+
+|
+
+Alla luce delle osservazioni che precedono, occorre rispondere alla seconda
+questione che l’articolo 1, paragrafo 1, della direttiva 2003/124 deve essere
+interpretato nel senso che la nozione di «un complesso di circostanze (...) di
+cui si possa ragionevolmente ritenere che verrà ad esistere o (...) un evento
+(...) di cui si possa ragionevolmente ritenere che si verificherà» riguarda le
+circostanze o gli eventi futuri di cui appare, sulla base di una valutazione
+globale degli elementi già disponibili, che vi sia una concreta prospettiva
+che essi verranno ad esistere o che si verificheranno. Tuttavia, tale nozione
+non va interpretata nel senso che deve essere presa in considerazione
+l’ampiezza delle conseguenze di tale complesso di circostanze o di tale evento
+sul prezzo degli strumenti finanziari in questione.  
+  
+---|---  
+  
+Sulle spese
+
+57
+
+|
+
+Nei confronti delle parti nella causa principale il presente procedimento
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Seconda Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+Gli articoli 1, punto 1, della direttiva 2003/6/CE del Parlamento europeo e
+del Consiglio, del 28 gennaio 2003, relativa all’abuso di informazioni
+privilegiate e alla manipolazione del mercato (abusi di mercato), e 1,
+paragrafo 1, della direttiva 2003/124/CE della Commissione del 22 dicembre
+2003, recante modalità di esecuzione della direttiva 2003/6 per quanto
+riguarda la definizione e la comunicazione al pubblico delle informazioni
+privilegiate e la definizione di manipolazione del mercato, devono essere
+interpretati nel senso che in una fattispecie a formazione progressiva diretta
+a realizzare una determinata circostanza o a produrre un certo evento possono
+costituire informazioni aventi un carattere preciso ai sensi di tali
+disposizioni non solo la detta circostanza o il detto evento, bensì anche le
+fasi intermedie di tale fattispecie collegate al verificarsi di questi ultimi.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 1, paragrafo 1, della direttiva 2003/124 deve essere interpretato
+nel senso che la nozione di «un complesso di circostanze (...) di cui si possa
+ragionevolmente ritenere che verrà ad esistere o (...) un evento (...) di cui
+si possa ragionevolmente ritenere che si verificherà» riguarda le circostanze
+o gli eventi futuri di cui appare, sulla base di una valutazione globale degli
+elementi già disponibili, che vi sia una concreta prospettiva che essi
+verranno ad esistere o che si verificheranno. Tuttavia, tale nozione non va
+interpretata nel senso che deve essere presa in considerazione l’ampiezza
+delle conseguenze di tale complesso di circostanze o di tale evento sul prezzo
+degli strumenti finanziari in questione.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il tedesco.
+

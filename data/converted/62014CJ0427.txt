@@ -1,0 +1,866 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+10 dicembre 2015 ( *1 )
+
+«Rinvio pregiudiziale — Codice doganale comunitario — Controllo a posteriori
+delle dichiarazioni — Principio della tutela del legittimo affidamento —
+Limitazione, nel diritto nazionale, del riesame dei risultati di un controllo
+a posteriori — Possibilità — Decisione relativa al primo controllo a
+posteriori — Informazioni inesatte o incomplete ignote alla data della
+decisione»
+
+Nella causa C‑427/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dall’Augstākās tiesas Administratīvo lietu
+departaments (dipartimento per il contenzioso amministrativo della Corte
+suprema, Lettonia), con decisione dell’11 settembre 2014, pervenuta in
+cancelleria il 18 settembre 2014, nel procedimento
+
+Valsts ieņēmumu dienests
+
+contro
+
+«Veloserviss» SIA,
+
+LA CORTE (Prima Sezione),
+
+composta da A. Tizzano, vicepresidente della Corte, facente funzione di
+presidente della Prima Sezione, A. Borg Barthet, E. Levits, M. Berger e S.
+Rodin (relatore), giudici,
+
+avvocato generale: P. Mengozzi
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il governo lettone, da I. Kalniņš e K. Freimanis, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ceco, da M. Smolek e J. Vláčil, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ellenico, da A. Dimitrakopoulou e K. Nasopoulou, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo spagnolo, da A. Gavela Llopis, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da A. Sauka e L. Grønfeldt, in qualità di agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+78, paragrafo 3, del regolamento (CEE) n. 2913/92 del Consiglio, del 12
+ottobre 1992, che istituisce un codice doganale comunitario (GU L 302, pag.
+1), come modificato dal regolamento (CE) n. 2700/2000 del Parlamento europeo e
+del Consiglio, del 16 novembre 2000 (GU L 311, pag. 17; in prosieguo: il
+«codice doganale»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra il Valsts
+ieņēmumu dienests (amministrazione fiscale lettone; in prosieguo:
+l’«amministrazione fiscale») e la «Veloserviss» SIA (in prosieguo: la
+«Veloserviss»), in merito al prelievo di dazi all’importazione e all’imposta
+sul valore aggiunto (in prosieguo: l’«IVA»), maggiorati degli interessi di
+mora, in occasione di un controllo a posteriori di una dichiarazione doganale.  
+  
+---|---  
+  
+Contesto normativo
+
+Diritto dell’Unione
+
+3
+
+|
+
+L’articolo 78 del codice doganale, rubricato «Controllo a posteriori delle
+dichiarazioni», così dispone:
+
+«1. Dopo aver concesso lo svincolo delle merci, l’autorità doganale può
+procedere alla revisione della dichiarazione, d’ufficio o su richiesta del
+dichiarante.
+
+2\. Dopo aver concesso lo svincolo delle merci, l’autorità doganale, per
+accertare l’esattezza delle indicazioni figuranti nella dichiarazione, può
+controllare i documenti ed i dati commerciali relativi alle operazioni
+d’importazione o di esportazione nonché alle successive operazioni commerciali
+concernenti le merci stesse. Questi controlli possono essere effettuati presso
+il dichiarante, presso chiunque sia direttamente o indirettamente interessato
+alle predette operazioni in ragione della sua attività professionale o da
+chiunque possieda, per le stesse ragioni, tali documenti e dati. La medesima
+autorità può procedere anche alla visita delle merci quando queste possano
+esserle ancora presentate.
+
+3\. Quando dalla revisione della dichiarazione o dai controlli a posteriori
+risulti che le disposizioni che disciplinano il regime doganale considerato
+sono state applicate in base ad elementi inesatti o incompleti, l’autorità
+doganale, nel rispetto delle norme in vigore e tenendo conto dei nuovi
+elementi di cui essa dispone, adotta i provvedimenti necessari per
+regolarizzare la situazione».  
+  
+---|---  
+  
+4
+
+|
+
+Ai sensi dell’articolo 221, paragrafi 1, 3 e 4, di tale codice:
+
+«1. L’importo dei dazi deve essere comunicato al debitore secondo modalità
+appropriate, non appena sia stato contabilizzato.
+
+(...)
+
+3\. La comunicazione al debitore non può più essere effettuata tre anni dopo
+la data in cui è sorta l’obbligazione doganale. (…)
+
+4\. Qualora l’obbligazione doganale sorga a seguito di un atto che era nel
+momento in cui è stato commesso perseguibile penalmente, la comunicazione al
+debitore può essere effettuata, alle condizioni previste dalle disposizioni
+vigenti, dopo la scadenza del termine di cui al paragrafo 3».  
+  
+---|---  
+  
+Il diritto lettone
+
+5
+
+|
+
+L’articolo 23, paragrafo 1, della legge tributaria lettone dispone quanto
+segue:
+
+«L’amministrazione fiscale stabilisce o precisa, in seguito a un controllo
+fiscale, gli importi da indicare nelle parti obbligatorie della dichiarazione
+dei redditi e della dichiarazione informativa, i redditi imponibili (o le
+perdite), i calcoli delle imposte (o dei tributi) effettuati conformemente
+alla normativa tributaria, e infligge un’ammenda nel termine di tre anni dalla
+scadenza del termine per il pagamento fissato da tale normativa. Se è già
+stata effettuata una verifica fiscale per l’esercizio fiscale corrispondente,
+in relazione a una determinata imposta, a un elemento della dichiarazione dei
+redditi, a un tributo o a una qualsiasi altra esazione stabilita dallo Stato,
+la decisione di tale amministrazione è definitiva e può essere soggetta a
+riesame solo qualora venga avviato un procedimento penale per frode,
+falsificazione di documenti, evasione di imposte o tributi assimilabili o per
+la commissione di altri reati atti a influire sulla determinazione
+dell’importo del tributo».  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+6
+
+|
+
+Il 17 maggio 2007, la Veloserviss ha importato nell’Unione europea, ai fini
+della loro immissione in libera pratica, biciclette provenienti dalla
+Cambogia. Sul fondamento del certificato di origine rilasciato dal governo
+cambogiano, il 16 febbraio 2007, la Veloserviss non ha versato dazi doganali
+né IVA.  
+  
+---|---  
+  
+7
+
+|
+
+Nel 2008 l’amministrazione fiscale ha effettuato un primo controllo doganale a
+posteriori relativo al periodo nel quale erano state importate le biciclette
+controverse. Non essendo stata constatata nessuna irregolarità riguardo ad
+esse, la Veloserviss ha eseguito la decisione adottata in seguito a tale
+controllo.  
+  
+---|---  
+  
+8
+
+|
+
+Nel corso del 2010, l’amministrazione fiscale ha ricevuto informazioni da
+parte dell’Ufficio europeo per la lotta antifrode (OLAF), secondo le quali il
+certificato d’origine rilasciato dal governo cambogiano in relazione alle
+merci interessate non era conforme ai requisiti imposti dalle disposizioni del
+diritto dell’Unione.  
+  
+---|---  
+  
+9
+
+|
+
+Sulla base di tali informazioni, l’amministrazione fiscale ha effettuato un
+secondo controllo a posteriori del documento amministrativo unico presentato
+dalla Veloserviss, e ha constatato che a tali merci erano state
+illegittimamente applicate esenzioni dai dazi doganali.  
+  
+---|---  
+  
+10
+
+|
+
+Conseguentemente, con decisione del 23 luglio 2010, l’amministrazione fiscale
+ha imposto alla Veloserviss il pagamento dei dazi doganali e dell’IVA, oltre
+agli interessi di mora.  
+  
+---|---  
+  
+11
+
+|
+
+In seguito, la Veloserviss ha proposto un ricorso di annullamento contro tale
+decisione.  
+  
+---|---  
+  
+12
+
+|
+
+Dopo aver esaminato la causa in sede di appello, l’Administratīvā apgabaltiesa
+(Corte amministrativa regionale), con sentenza del 27 marzo 2014, ha
+confermato l’annullamento della decisione del 23 luglio 2010, considerando,
+segnatamente, che, in forza dell’articolo 23, paragrafo 1, della legge
+tributaria lettone, l’amministrazione fiscale non era legittimata a effettuare
+un nuovo controllo a posteriori della merce dichiarata di cui trattasi, dal
+momento che il primo controllo aveva fatto sorgere un legittimo affidamento in
+capo alla Veloserviss e che quest’ultima aveva soddisfatto tutte le condizioni
+previste per quanto riguarda la presentazione della dichiarazione doganale, in
+quanto oggettivamente essa non poteva essere a conoscenza del fatto che
+l’autorità cambogiana competente aveva emesso un certificato errato.
+Conseguentemente, la Veloserviss aveva agito in buona fede.  
+  
+---|---  
+  
+13
+
+|
+
+L’amministrazione fiscale ha presentato ricorso per cassazione dinanzi al
+giudice del rinvio.  
+  
+---|---  
+  
+14
+
+|
+
+In questo contesto, tale amministrazione sottolinea, secondo l’Augstākās
+tiesas Administratīvo lietu departaments (dipartimento per il contenzioso
+amministrativo della Corte suprema), anzitutto che l’Administratīvā
+apgabaltiesa (Corte amministrativa regionale) non ha tenuto conto del fatto
+che, al momento in cui questa stessa amministrazione aveva effettuato per la
+prima volta un controllo della dichiarazione doganale della Veloserviss, essa
+non disponeva del rapporto dell’OLAF e non aveva potuto, quindi, accertare che
+i certificati di origine presentati non fossero corretti. Inoltre,
+l’Administratīvā apgabaltiesa (Corte amministrativa regionale) non avrebbe
+tenuto conto del fatto che l’articolo 78, paragrafo 3, del codice doganale
+costituisce una disposizione speciale rispetto all’articolo 23, paragrafo 1,
+della legge tributaria lettone. Infine, sempre secondo l’amministrazione
+fiscale, la Corte di giustizia avrebbe indicato, al punto 40 della sentenza
+Greencarrier Freight Services Latvia (C‑571/12, EU:C:2014:102), che le
+autorità doganali potevano procedere alla comunicazione di una nuova
+obbligazione doganale entro un termine di tre anni dalla data in cui era
+sorta, di modo che l’amministrazione fiscale potesse integrare la decisione
+sul primo controllo.  
+  
+---|---  
+  
+15
+
+|
+
+A tale riguardo, il giudice del rinvio rileva che, mentre il diritto lettone
+limita la possibilità di procedere a ripetute verifiche fiscali, l’articolo
+78, paragrafo 3, del codice doganale prevede, in generale, il diritto delle
+autorità doganali di procedere a controlli a posteriori e di prevenire il
+mancato rispetto del pagamento dei dazi doganali, senza che tale disposizione
+limiti la possibilità di reiterare tali controlli. Il ricorso a tale diritto
+dev’essere, tuttavia, ispirato ai principi generali del procedimento
+amministrativo, tra i quali si annoverano i principi e le disposizioni del
+diritto nazionale. Sussisterebbero, pertanto, dubbi sull’interpretazione
+dell’articolo 78, paragrafo 3, di tale codice, disposizione che risulta
+determinante per la soluzione della presente controversia.  
+  
+---|---  
+  
+16
+
+|
+
+In tale contesto, l’Augstākās tiesas Administratīvo lietu departaments
+(dipartimento per il contenzioso amministrativo della Corte suprema) ha deciso
+di sospendere il procedimento e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se l’articolo 78, paragrafo 3, del codice doganale debba essere interpretato
+nel senso che il principio del legittimo affidamento limita la possibilità di
+reiterare un controllo a posteriori e il riesame dei risultati di un primo
+controllo a posteriori.  
+  
+---|---  
+  
+2)
+
+|
+
+Se il diritto nazionale di uno Stato membro possa stabilire il procedimento
+per l’esecuzione dei controlli a posteriori previsti all’articolo 78,
+paragrafo 3, del codice doganale e i limiti al riesame dei risultati dei
+controlli.  
+  
+---|---  
+  
+3)
+
+|
+
+Se l’articolo 78, paragrafo 3, del codice doganale debba essere interpretato
+nel senso che la normativa nazionale può prevedere limiti al riesame dei
+risultati di un primo controllo a posteriori, qualora emerga che la normativa
+doganale è stata applicata sulla base di informazioni inesatte o incomplete,
+circostanza che non era nota al momento dell’adozione della decisione sul
+primo controllo a posteriori».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+17
+
+|
+
+Con le sue questioni, che occorre esaminare congiuntamente, il giudice del
+rinvio chiede, in sostanza, se e in quale misura l’articolo 78, paragrafo 3,
+del codice doganale debba essere interpretato nel senso che esso osta a una
+normativa nazionale, come quella di cui trattasi nel procedimento principale,
+la quale limiti la possibilità per le autorità doganali di reiterare un
+controllo a posteriori e di trarne le conseguenze fissando una nuova
+obbligazione doganale, qualora, da un lato, l’amministrazione fiscale
+competente riceva un’informazione che rivela che la normativa doganale è stata
+applicata sulla base di dati inesatti o incompleti e, dall’altro lato, tale
+circostanza non fosse nota al momento dell’adozione della decisione sul primo
+controllo a posteriori.  
+  
+---|---  
+  
+18
+
+|
+
+Per rispondere a tale questione occorre rilevare, in via preliminare, che
+l’articolo 78, paragrafo 3, del codice doganale dispone che le autorità
+doganali adottano i provvedimenti ivi previsti «nel rispetto delle norme in
+vigore».  
+  
+---|---  
+  
+19
+
+|
+
+Inoltre, tanto dall’articolo 1 di tale codice, secondo il quale la normativa
+doganale dell’Unione è anche costituita dalle disposizioni di applicazione
+adottate a livello nazionale, quanto dalla giurisprudenza della Corte emerge
+che, se gli Stati membri restano legittimati a prevedere norme procedurali
+nell’ambito dell’applicazione del codice doganale, essi devono tuttavia
+assicurarsi che queste ultime siano conformi a tale codice nonché, più in
+generale, alle condizioni e ai principi pertinenti del diritto dell’Unione,
+(v. per analogia, in particolare, sentenza CIVAD, C‑533/10, EU:C:2012:347,
+punto 23; ordinanza Saupiquet/Commissione,C‑37/12 P, EU:C:2013:96, punto 39,
+nonché sentenza Kamino International Logistics e Datema Hellmann Worldwide
+Logistics, C‑129/13 e C‑130/13, EU:C:2014:2041, punto 77).  
+  
+---|---  
+  
+20
+
+|
+
+Con questa riserva, gli Stati membri conservano quindi, in via di principio,
+la competenza ad adottare norme che disciplinino i controlli a posteriori
+previsti all’articolo 78, paragrafo 3, del codice doganale.  
+  
+---|---  
+  
+21
+
+|
+
+Per determinare, più specificatamente, se e in quale misura uno Stato membro
+possa prevedere limitazioni a tale riguardo, occorre ricordare, anzitutto, che
+l’articolo 78 del codice doganale istituisce una procedura che permette alle
+autorità doganali di procedere, eventualmente d’ufficio, a una revisione a
+posteriori di una dichiarazione doganale, vale a dire dopo aver concesso lo
+svincolo delle merci oggetto di tale dichiarazione (v., in tal senso, sentenze
+Overland Footwear, C‑468/03, EU:C:2005:624, punti 62, 64 e 66, nonché
+Greencarrier Freight Services Latvia, C‑571/12, EU:C:2014:102, punto 28).  
+  
+---|---  
+  
+22
+
+|
+
+A tale scopo, le suddette autorità possono, da un lato, in forza dell’articolo
+78, paragrafo 1, del codice doganale, procedere alla revisione della
+dichiarazione doganale, vale a dire al suo riesame (sentenza Overland
+Footwear, C‑468/03, EU:C:2005:624, punto 45).  
+  
+---|---  
+  
+23
+
+|
+
+D’altro lato, secondo l’articolo 78, paragrafo 2, di tale codice, per
+accertare l’esattezza delle indicazioni figuranti nella dichiarazione, le
+autorità doganali possono procedere ai controlli di documenti e di dati
+pertinenti nonché, secondo le circostanze, alla visita delle merci interessate
+(v., in tal senso, sentenza Greencarrier Freight Services Latvia, C‑571/12,
+EU:C:2014:102, punto 29).  
+  
+---|---  
+  
+24
+
+|
+
+Qualora tale revisione o tali controlli rivelino che le disposizioni che
+disciplinano il regime doganale di cui trattasi sono state applicate sulla
+base di elementi inesatti o incompleti, vale a dire che sono stati commessi
+vuoi errori o omissioni materiali vuoi errori interpretativi della normativa
+applicabile, le autorità doganali, conformemente all’articolo 78, paragrafo 3,
+del codice doganale, devono adottare le misure necessarie per regolarizzare la
+situazione, tenendo conto dei nuovi elementi di cui dispongono (v., in tal
+senso, sentenza Terex Equipment e a., C‑430/08 e C‑431/08, EU:C:2010:15, punto
+62).  
+  
+---|---  
+  
+25
+
+|
+
+A tale riguardo occorre constatare che il tenore dell’articolo 78 di tale
+codice non contiene limitazioni né per quanto riguarda la possibilità per le
+autorità doganali di reiterare una revisione o un controllo a posteriori ai
+sensi dei paragrafi 1 e 2 di tale articolo né in relazione all’adozione, da
+parte di queste ultime, delle misure necessarie per regolarizzare la
+situazione prevista al paragrafo 3 di tale articolo.  
+  
+---|---  
+  
+26
+
+|
+
+Infatti, tanto la finalità stessa del codice doganale, il quale, conformemente
+al considerando 5 del medesimo codice, intende, in particolare, garantire una
+corretta applicazione delle imposte da esso previste (v., in tal senso,
+sentenza Greencarrier Freight Services Latvia, C‑571/12, EU:C:2014:102, punto
+32), quanto la logica specifica dell’articolo 78 del suddetto codice, che
+consiste nel far coincidere la procedura doganale con la situazione reale
+correggendo gli errori o le omissioni materiali nonché gli errori di
+interpretazione del diritto applicabile (v. sentenze Terex Equipment e a.,
+C‑430/08 e C‑431/08, EU:C:2010:15, punto 56, nonché Südzucker e a., C‑608/10,
+C‑10/11 e C‑23/11, EU:C:2012:444, punto 47), sono contrarie a
+un’interpretazione di tale articolo che permetta di escludere, in via
+generale, che le autorità doganali procedano a revisioni o ad altri controlli
+a posteriori delle dichiarazioni doganali per regolarizzare eventualmente la
+situazione.  
+  
+---|---  
+  
+27
+
+|
+
+Inoltre, emerge da costante giurisprudenza che tali autorità dispongono,
+segnatamente al fine dell’effettiva realizzazione di tali obiettivi, di un
+ampio potere discrezionale per procedere a revisioni e controlli a posteriori
+(v., in tal senso, sentenze Südzucker e a., C‑608/10, C‑10/11 e C‑23/11,
+EU:C:2012:444, punti 48 e 50, nonché Digitalnet e a., C‑320/11, C‑330/11,
+C‑382/11 e C‑383/11, EU:C:2012:745, punto 66).  
+  
+---|---  
+  
+28
+
+|
+
+Ne consegue che l’articolo 78, paragrafo 3, del codice doganale deve essere
+interpretato nel senso che, nell’ambito degli obblighi che esso impone alle
+autorità doganali, consente, in via generale, a tali autorità di reiterare una
+revisione o un controllo a posteriori di una dichiarazione doganale e di
+trarne le conseguenze fissando una nuova obbligazione doganale.  
+  
+---|---  
+  
+29
+
+|
+
+Tuttavia, la possibilità per le autorità doganali di procedere a revisioni
+delle dichiarazioni doganali e di adottare le misure necessarie per
+regolarizzare la situazione è soggetta al rispetto dei pertinenti requisiti
+posti dai principi generali del diritto dell’Unione, segnatamente quelli
+derivanti dal principio di certezza del diritto e, in quanto corollario di
+quest’ultimo, dal principio della tutela del legittimo affidamento.  
+  
+---|---  
+  
+30
+
+|
+
+A tale riguardo occorre, anzitutto, rammentare che i principi di certezza del
+diritto e di tutela del legittimo affidamento fanno parte dell’ordinamento
+giuridico dell’Unione. Pertanto, essi devono essere rispettati dalle
+istituzioni dell’Unione, ma anche dagli Stati membri nell’esercizio dei poteri
+loro conferiti dalla normativa dell’Unione (v. in tal senso, in particolare,
+sentenze Netto Supermarkt, C‑271/06, EU:C:2008:105, punto 18, e Plantanol,
+C‑201/08, EU:C:2009:539, punto 43).  
+  
+---|---  
+  
+31
+
+|
+
+Per quanto riguarda, in primo luogo, il principio della certezza del diritto,
+secondo costante giurisprudenza della Corte, esso intende garantire la
+prevedibilità delle situazioni e dei rapporti giuridici e richiede,
+segnatamente, che la situazione di un debitore, con riferimento ai suoi
+diritti e ai suoi obblighi nei confronti dell’amministrazione fiscale o
+doganale, non possa essere indefinitamente rimessa in discussione (v. in tal
+senso, in particolare, sentenze Alstom Power Hydro, C‑472/08, EU:C:2010:32,
+punto 16, e Elsacom, C‑294/11, EU:C:2012:382, punto 29).  
+  
+---|---  
+  
+32
+
+|
+
+A tale riguardo, dalla giurisprudenza della Corte emerge che l’imposizione di
+un termine di prescrizione ragionevole, vuoi da parte del diritto nazionale
+vuoi da parte del diritto dell’Unione, è funzionale all’interesse della
+certezza del diritto, posta a tutela sia del singolo che dell’amministrazione
+interessata, e non impedisce quindi l’esercizio, da parte del singolo, dei
+diritti conferiti dall’ordinamento giuridico dell’Unione (v., in tal senso,
+sentenze Barth, C‑542/08, EU:C:2010:193, punto 28, e CIVAD, C‑533/10,
+EU:C:2012:347, punto 23).  
+  
+---|---  
+  
+33
+
+|
+
+Pertanto, poiché l’articolo 78 del codice doganale non prevede alcun termine
+di prescrizione per il controllo a posteriori delle dichiarazioni doganali,
+alla luce del principio generale della certezza del diritto gli Stati membri
+sono legittimati a subordinare tale procedura a un termine di prescrizione
+ragionevole.  
+  
+---|---  
+  
+34
+
+|
+
+Tuttavia, anche se tale articolo non prevede un termine specifico a tale
+riguardo, occorre osservare che, in forza dell’articolo 221, paragrafo 3, del
+codice doganale, le autorità doganali dispongono di un termine di tre anni per
+procedere alla comunicazione di una nuova obbligazione doganale, dalla data in
+cui tale obbligazione è sorta (v. sentenza Greencarrier Freight Services
+Latvia, C‑571/12, EU:C:2014:102, punto 40).  
+  
+---|---  
+  
+35
+
+|
+
+Decorso tale termine, l’obbligazione è prescritta e, pertanto, estinta ai
+sensi dell’articolo 233 del suddetto codice (v. sentenza Direct Parcel
+Distribution Belgium, C‑264/08, EU:C:2010:43, punto 43).  
+  
+---|---  
+  
+36
+
+|
+
+Dal momento che, alla scadenza del termine di tre anni dalla data in cui è
+sorta l’obbligazione doganale, non è più possibile comunicare una nuova
+obbligazione doganale e trarre così le conseguenze da una revisione o da
+controlli a posteriori secondo l’articolo 78, paragrafo 3, del codice
+doganale, non si può impedire agli Stati membri, alla luce del principio della
+certezza del diritto, di limitare il ricorso alla procedura di revisione che
+esso prevede dopo che sono decorsi tre anni dalla data in cui è sorta la prima
+obbligazione doganale, in particolare subordinando la suddetta revisione a un
+tale termine di prescrizione (v., in tal senso, sentenza Greencarrier Freight
+Services Latvia, C‑571/12, EU:C:2014:102, punti 40 e 41).  
+  
+---|---  
+  
+37
+
+|
+
+Per contro, nel corso di questi tre anni, la normativa nazionale di uno Stato
+membro, com’è stato rilevato ai punti da 25 a 28 della presente sentenza, deve
+consentire alle autorità doganali di adottare nuovamente una misura per
+ridefinire la situazione a seguito di una revisione o di un controllo a
+posteriori conformemente all’articolo 78, paragrafo 3, del codice doganale, in
+particolare modificando l’obbligazione doganale. Inoltre, l’adozione di tale
+misura deve essere possibile anche una volta trascorso tale periodo, qualora
+un’obbligazione doganale, ai sensi dell’articolo 221, paragrafo 4, di detto
+codice, sorga a seguito di un atto che era, alla data in cui è stato commesso,
+perseguibile penalmente, circostanza la cui verifica compete al giudice del
+rinvio.  
+  
+---|---  
+  
+38
+
+|
+
+A maggior ragione, e in situazioni diverse da quest’ultima, devono essere
+considerate conformi al principio della certezza del diritto, almeno durante
+il periodo di tre anni dal momento in cui è sorta l’obbligazione doganale,
+revisioni e controlli a posteriori ai sensi dei paragrafi 1 e 2 di detto
+articolo, effettuati in maniera reiterata, poiché una tale revisione o un tale
+controllo a posteriori, come rilevato dalla Commissione, non incidono
+necessariamente, in quanto tali, sulla situazione giuridica del debitore
+interessato.  
+  
+---|---  
+  
+39
+
+|
+
+Per quanto riguarda, in secondo luogo, il principio della tutela del legittimo
+affidamento, occorre rilevare che da costante giurisprudenza emerge che la
+possibilità di avvalersi di tale principio è concessa a ogni operatore
+economico in capo al quale un’autorità nazionale ha fatto sorgere aspettative
+fondate. Tuttavia, qualora un operatore economico prudente e accorto sia in
+grado di prevedere l’adozione di un provvedimento atto a ledere i suoi
+interessi, egli non può invocare il beneficio di tale principio nel caso in
+cui tale provvedimento sia adottato. Inoltre, gli operatori economici non
+possono fare legittimamente affidamento sulla conservazione di una situazione
+esistente che può essere modificata nell’ambito del potere discrezionale delle
+autorità nazionali (v., in particolare, sentenza Plantanol, C‑201/08,
+EU:C:2009:539, punto 53).  
+  
+---|---  
+  
+40
+
+|
+
+In proposito, per quanto riguarda la possibilità per un debitore di avvalersi
+del principio della tutela del legittimo affidamento nel caso di revisione o
+di controlli a posteriori e della fissazione della relativa obbligazione
+doganale, dalla giurisprudenza della Corte emerge che tale debitore non può
+nutrire un legittimo affidamento quanto alla validità dei certificati per il
+fatto che essi siano stati ritenuti inizialmente veritieri dalle autorità
+doganali di uno Stato membro, dato che le operazioni effettuate da dette
+autorità nell’ambito dell’accettazione iniziale delle dichiarazioni non ostano
+affatto all’esercizio di controlli successivi, né pregiudicano le conseguenze
+che possono derivarne (v., in tal senso, sentenze Van Gend & Loos e
+Expeditiebedrijf Bosman/Commissione, 98/83 e 230/83, EU:C:1984:342, punto 20,
+nonché Faroe Seafood e a., C‑153/94 e C‑204/94, EU:C:1996:198, punto 93).  
+  
+---|---  
+  
+41
+
+|
+
+Infatti, durante il periodo di tre anni dalla data in cui è sorta la prima
+obbligazione doganale menzionata al punto 34 della presente sentenza, un
+debitore deve, in quanto operatore economico, accettare il rischio che le
+autorità doganali rivedano la decisione relativa all’obbligazione doganale
+tenendo conto dei nuovi elementi di cui eventualmente dispongono a seguito di
+controlli e adottare i provvedimenti necessari per premunirsi contro tale
+rischio (v., in tal senso, sentenza Lagura Vermögensverwaltung, C‑438/11,
+EU:C:2012:703, punto 30).  
+  
+---|---  
+  
+42
+
+|
+
+Ne consegue che, in generale, il principio della tutela del legittimo
+affidamento non osta, in generale, a che le autorità doganali procedano a
+revisioni o a ulteriori controlli a posteriori e ne traggono le conseguenze ai
+sensi dell’articolo 78, paragrafo 3, del codice doganale.  
+  
+---|---  
+  
+43
+
+|
+
+In terzo luogo, occorre tuttavia osservare che è sempre possibile per un
+debitore opporsi a una contabilizzazione a posteriori dei dazi doganali nelle
+condizioni specifiche e cumulative previste all’articolo 220, paragrafo 2,
+lettera b), del codice doganale, che ha l’obiettivo di tutelare il legittimo
+affidamento del debitore circa la fondatezza dell’insieme degli elementi che
+intervengono nella decisione di recuperare o meno i dazi doganali (v. sentenza
+Agrover, C‑173/06, EU:C:2007:612, punti 30 e 31).  
+  
+---|---  
+  
+44
+
+|
+
+Orbene, secondo costante giurisprudenza della Corte, il legittimo affidamento
+del debitore merita la tutela conferita da tale disposizione solo se sono
+state le autorità competenti «medesime» a porre in essere i presupposti sui
+quali riposava detto affidamento. Così, solo gli errori imputabili a un
+comportamento attivo delle autorità competenti danno diritto a che i dazi
+doganali non vengano recuperati a posteriori (v., in tal senso, sentenze
+Mecanarte, C‑348/89, EU:C.1991:278, punti 19 e 23, nonché Agrover, C‑173/06,
+EU:C:2007:612, punto 31).  
+  
+---|---  
+  
+45
+
+|
+
+Con riserva di verifica da parte del giudice del rinvio, tale situazione non
+sembra, tuttavia, essere in discussione nel procedimento principale, dato che,
+in particolare, secondo i fatti come descritti da tale giudice, il
+procedimento di revisione è stato reiterato a seguito di un’informazione
+relativa al certificato d’origine, nel caso di specie risultante da una
+relazione dell’OLAF che non era nota alle autorità doganali alla data
+dell’adozione della decisione relativa al primo controllo a posteriori.  
+  
+---|---  
+  
+46
+
+|
+
+Tenuto conto di tutte le considerazioni che precedono, occorre rispondere alle
+questioni poste dichiarando che l’articolo 78, paragrafo 3, del codice
+doganale deve essere interpretato nel senso che esso osta a una normativa
+nazionale, come quella di cui trattasi nel procedimento principale, la quale
+limiti la possibilità per le autorità doganali di reiterare una revisione o un
+controllo a posteriori e di trarne le conseguenze fissando una nuova
+obbligazione doganale, allorché tale limitazione si riferisce a un periodo di
+tre anni dalla data in cui è sorta la prima obbligazione doganale, circostanza
+la cui verifica compete al giudice del rinvio.  
+  
+---|---  
+  
+Sulle spese
+
+47
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 78, paragrafo 3, del regolamento (CEE) n. 2913/92 del Consiglio,
+del 12 ottobre 1992, che istituisce un codice doganale comunitario, come
+modificato dal regolamento (CE) n. 2700/2000 del Parlamento europeo e del
+Consiglio, del 16 novembre 2000, deve essere interpretato nel senso che esso
+osta a una normativa nazionale, come quella di cui trattasi nel procedimento
+principale, la quale limiti la possibilità per le autorità doganali di
+reiterare una revisione o un controllo a posteriori e di trarne le conseguenze
+fissando una nuova obbligazione doganale, allorché tale limitazione si
+riferisce a un periodo di tre anni dalla data in cui è sorta la prima
+obbligazione doganale, circostanza la cui verifica compete al giudice del
+rinvio.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il lettone.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

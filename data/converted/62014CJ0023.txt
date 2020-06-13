@@ -1,0 +1,1271 @@
+
+
+SENTENZA DELLA CORTE (Seconda Sezione)
+
+6 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Articolo 82 CE — Abuso di posizione dominante —
+Mercato della distribuzione delle spedizioni postali di massa — Pubblicità
+diretta per corrispondenza — Sistema retroattivo di sconti — Effetto
+preclusivo — Criterio del concorrente altrettanto efficiente — Grado di
+probabilità e carattere serio di un effetto anticoncorrenziale»
+
+Nella causa C‑23/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Sø- og Handelsretten (Tribunale degli
+affari marittimi e commerciali, Danimarca), con decisione dell’8 gennaio 2014,
+pervenuta in cancelleria il 16 gennaio 2014, nel procedimento
+
+Post Danmark A/S
+
+contro
+
+Konkurrencerådet,
+
+con l’intervento di:
+
+Bring Citymail Danmark A/S,
+
+LA CORTE (Seconda Sezione),
+
+composta da R. Silva de Lapuerta, presidente di sezione, J.‑C. Bonichot, A.
+Arabadjiev, J. L. da Cruz Vilaça (relatore) e C. Lycourgos, giudici,
+
+avvocato generale: J. Kokott
+
+cancelliere: C. Strömholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 26 marzo
+2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Post Danmark A/S, da S. Zinck, advokat, e T. Lübbig, Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per la Bring Citymail Danmark A/S, da P. Jakobsen, advokat;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo danese, da M. Wolff, in qualità di agente, assistita da J.
+Pinborg, advokat;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo tedesco, da T. Henze e J. Möller, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da É. Gippini Fournier, L. Malferrari e L.
+Grønfeldt, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Autorità di vigilanza EFTA, da X. Lewis, M. Schneider e M. Moustakali,
+in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 21
+maggio 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+82 CE.  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la Post
+Danmark A/S (in prosieguo: la «Post Danmark») e il Konkurrencerådet (Consiglio
+per la concorrenza), in merito ad un sistema di sconti retroattivi attuato da
+tale impresa negli anni 2007 e 2008 per le spedizioni pubblicitarie inviate in
+massa.  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+3
+
+|
+
+All’epoca dei fatti di cui trattasi nel procedimento principale, vale a dire
+nel corso del 2007 e del 2008, la Post Danmark era controllata dallo Stato
+danese ed era incaricata del servizio postale universale di distribuzione nel
+termine di un giorno, su tutto il territorio danese, di lettere e pacchi, e in
+particolare delle spedizioni di massa, di peso inferiore a 2 kg. Essa aveva
+l’obbligo di applicare un regime tariffario in base al quale i prezzi delle
+prestazioni ricadenti nell’obbligo di servizio universale dovevano rimanere
+invariati a prescindere dal luogo di destinazione.  
+  
+---|---  
+  
+4
+
+|
+
+Per compensare l’obbligo di servizio universale e il regime di tariffa unica
+che le erano imposti, la Post Danmark godeva di un monopolio ex lege sulla
+distribuzione di lettere, ivi incluso l’ambito delle spedizioni di massa, in
+particolare della pubblicità diretta per corrispondenza, di peso non superiore
+a 50 grammi.  
+  
+---|---  
+  
+5
+
+|
+
+La pubblicità diretta per corrispondenza è un segmento del mercato delle
+spedizioni di massa che consiste nella distribuzione nell’ambito di campagne
+commerciali di lettere pubblicitarie di contenuto uniforme, recanti
+l’indirizzo del destinatario.  
+  
+---|---  
+  
+6
+
+|
+
+Dalla decisione di rinvio risulta che la Post Danmark ha posto in essere un
+sistema di sconti per la pubblicità diretta per corrispondenza nel 2003, in un
+periodo in cui non esisteva alcuna concorrenza sul mercato della distribuzione
+di spedizioni di massa e in cui il monopolio sulla distribuzione di posta si
+estendeva a tutte le lettere di peso non superiore a 100 grammi.  
+  
+---|---  
+  
+7
+
+|
+
+Tali sconti si applicavano alle spedizioni compiute dal cliente, comprendenti
+almeno 3000 esemplari per volta, a condizione che la totalità delle spedizioni
+raggiungesse un volume minimo di 30000 lettere per anno, oppure comportasse
+annualmente affrancature per un importo lordo di almeno 300000 corone danesi
+(DKK) (circa EUR 40200). Tale sistema di sconti prevedeva una scala
+percentuale compresa tra il 6% e il 16%, laddove quest’ultima percentuale di
+sconto era applicabile ai clienti che annualmente avessero spedito plichi per
+una quantità superiore ai 2 milioni o per un importo di oltre DKK 20 milioni
+(circa EUR 2680426). La scala degli sconti era «standardizzata», ossia tutti i
+clienti potevano ottenere lo stesso sconto in funzione dei loro acquisti
+cumulati nel corso del periodo di riferimento, ossia un anno.  
+  
+---|---  
+  
+8
+
+|
+
+All’inizio dell’anno la Post Danmark ed i suoi clienti stipulavano accordi in
+cui venivano indicate le quantità di spedizioni stimate per tale anno. Su tale
+base erano concessi gli sconti e periodicamente era effettuata la
+fatturazione. Al termine dell’anno, la Post Danmark procedeva ad un
+adeguamento allorché le quantità spedite non corrispondevano a quelle
+inizialmente stimate. Il prezzo per le spedizioni di ciascun cliente veniva
+adeguato alla fine dell’anno, con effetto retroattivo agli inizi del medesimo
+anno, sulla base della quantità di posta effettivamente spedita. La
+percentuale dello sconto da ultimo stabilita era in tal modo applicabile a
+tutte le spedizioni effettuate nel corso del periodo interessato e non solo
+alle spedizioni eccedenti la quantità inizialmente stimata. Allo stesso modo,
+un cliente il cui volume di spedizioni si fosse rivelato inferiore alla
+quantità stimata doveva rimborsare la Post Danmark.  
+  
+---|---  
+  
+9
+
+|
+
+Il sistema di sconti di cui trattasi nel procedimento principale era
+applicabile a tutte le spedizioni pubblicitarie recanti l’indirizzo del
+destinatario, a prescindere dal fatto che esse ricadessero o meno nel
+monopolio della Post Danmark e dal fatto che la distribuzione avesse avuto
+luogo o meno in zone non coperte da altri operatori. Dalla decisione di rinvio
+risulta che della progressività degli sconti applicati ai servizi di
+pubblicità diretta per corrispondenza si avvalevano in misura maggiore i
+clienti di medie dimensioni, posto che le quantità spedite dai clienti molto
+importanti eccedevano ampiamente lo scaglione superiore.  
+  
+---|---  
+  
+10
+
+|
+
+Il 1o gennaio 2007 la Bring Citymail Danmark A/S (in prosieguo: la «Bring
+Citymail»), una società controllata dalla Post Danmark Norge AS, società
+incaricata del servizio postale universale in Norvegia, ha iniziato a
+distribuire in Danimarca corrispondenza commerciale, anche in forma di
+pubblicità diretta per corrispondenza. La Bring Citymail offriva un servizio
+di distribuzione di tale posta non entro il termine di un giorno dall’invio,
+ma entro il termine di tre giorni. Tale servizio veniva utilizzato da circa 1
+milione di nuclei familiari a Copenhagen (Danimarca) e zone limitrofe, il che
+corrispondeva a circa il 40% della totalità dei nuclei familiari interessati.  
+  
+---|---  
+  
+11
+
+|
+
+Durante il periodo di riferimento, la Bring Citymail era l’unica seria
+concorrente della Post Danmark nel mercato delle spedizioni di massa.  
+  
+---|---  
+  
+12
+
+|
+
+La Bring Citymail si è ritirata dal mercato danese nel 2010 dopo aver subito
+pesanti perdite. In base ai chiarimenti forniti al riguardo, essa avrebbe
+subito un danno di DKK 500 milioni (circa EUR 67010654), in conseguenza dei
+costi legati all’avviamento e dei risultati negativi durante gli esercizi
+contabili nel periodo compreso tra il 2006 e il 2009.  
+  
+---|---  
+  
+13
+
+|
+
+A seguito di una denuncia depositata dalla Bring Citymail, il Consiglio per la
+concorrenza, con decisione del 24 giugno 2009, ha ritenuto che la Post Danmark
+avesse abusato di una posizione dominante sul mercato della distribuzione
+delle spedizioni di massa applicando, negli anni 2007 e 2008, sconti per la
+pubblicità diretta per corrispondenza che hanno avuto l’effetto di fidelizzare
+la clientela e di «chiudere» il mercato, senza essere in grado di dimostrare
+vantaggi in termini di efficienza che avrebbero potuto giovare ai consumatori
+e neutralizzare gli effetti restrittivi di detti sconti sulla concorrenza.  
+  
+---|---  
+  
+14
+
+|
+
+Il Consiglio per la concorrenza ha in particolare ritenuto che la Post Danmark
+fosse una controparte commerciale ineludibile sul mercato delle spedizioni di
+massa, in quanto deteneva oltre il 95% di un mercato il cui accesso era
+ostacolato da elevate barriere e che si distingueva per economie di scala.
+Inoltre, la Post Danmark godeva di notevoli vantaggi strutturali grazie
+segnatamente al monopolio ex lege, dato che, durante il periodo di
+riferimento, oltre il 70% di tutte le spedizioni in massa in Danimarca
+ricadevano in tale monopolio, nonché di una copertura geografica unica estesa
+a tutta la Danimarca.  
+  
+---|---  
+  
+15
+
+|
+
+Secondo il Consiglio per la concorrenza, siffatti elementi hanno obbligato la
+clientela di tale tipo di servizi a rivolgersi alla Post Danmark per il 70%
+delle spedizioni sulle quali quest’ultima deteneva un diritto esclusivo e per
+una parte significativa delle spedizioni di massa che dovevano essere
+effettuate al di fuori della copertura geografica della Bring Citymail,
+cosicché nella propria area geografica la Bring Citymail poteva esercitare una
+concorrenza soltanto su circa il 30% delle spedizioni.  
+  
+---|---  
+  
+16
+
+|
+
+Inoltre, il Consiglio per la concorrenza ha insistito sulla struttura e sul
+contenuto del sistema di sconti, in particolare sul suo carattere retroattivo
+con un periodo di acquisizione dei diritti di un anno e sull’ampiezza delle
+percentuali applicate agli sconti. Secondo quanto rilevato dal Consiglio per
+la concorrenza, circa due terzi delle spedizioni effettuate nell’ambito della
+pubblicità diretta per corrispondenza al di fuori del monopolio non potevano
+essere trasferite dalla Post Danmark alla Bring Citymail senza ripercussioni
+negative sulle percentuali degli sconti.  
+  
+---|---  
+  
+17
+
+|
+
+Esso ne ha dedotto che detto sistema produceva un effetto preclusivo
+anticoncorrenziale sul mercato. Al riguardo il Consiglio per la concorrenza,
+contrariamente alla Post Danmark, ha ritenuto che fosse irrilevante fondare la
+valutazione dell’effetto preclusivo anticoncorrenziale provocato sul mercato
+dal sistema di sconti sul criterio detto «del concorrente altrettanto
+efficiente», criterio questo che implica un raffronto dei prezzi con i costi
+dell’impresa dominante. Infatti, secondo la suddetta autorità, tenuto conto
+delle caratteristiche peculiari del mercato di riferimento, non può
+richiedersi, ai fini di tale raffronto, che un nuovo concorrente sia efficace
+nel breve termine quanto la Post Danmark.  
+  
+---|---  
+  
+18
+
+|
+
+Con decisione del 10 maggio 2010, la Konkurrenceankenævnet (Commissione di
+ricorso in materia di concorrenza) ha confermato la decisione del Consiglio
+per la concorrenza del 24 giugno 2009.  
+  
+---|---  
+  
+19
+
+|
+
+La Post Danmark ha adito il Tribunale degli affari marittimi e commerciali il
+quale ha considerato che, sebbene sia pacifico che, per essere contrario
+all’articolo 82 CE, un sistema di sconti come quello di cui trattasi nel
+procedimento principale deve essere idoneo ad avere un certo effetto di
+preclusione sul mercato, sussistono tuttavia dubbi relativamente ai criteri in
+base ai quali stabilire se un simile sistema possa concretamente produrre un
+effetto di preclusione in contrasto con l’articolo 82 CE.  
+  
+---|---  
+  
+20
+
+|
+
+Alla luce di quanto sopra, il Tribunale degli affari marittimi e commerciali
+ha deciso di sospendere il procedimento e di sottoporre alla Corte le seguenti
+questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+A quali criteri si debba fare riferimento per stabilire se l’applicazione da
+parte di un’impresa in posizione dominante di un sistema di sconti con soglie
+quantitative standardizzate ed avente inoltre le caratteristiche descritte ai
+punti da 10 a 11 della decisione di rinvio costituisca un abuso di posizione
+dominante in contrasto con l’articolo 82 CE.
+
+Si chiede alla Corte di precisare nella sua risposta quale rilevanza abbia ai
+fini della valutazione il fatto che gli scaglioni del sistema di sconti siano
+o meno stabiliti in modo tale che il sistema di sconti sia applicabile alla
+maggioranza degli utenti sul mercato.
+
+Si chiede inoltre alla Corte di precisare nella sua risposta quale rilevanza
+abbiano, eventualmente, i prezzi e i costi dell’impresa in posizione dominante
+nella valutazione di tale sistema di sconti alla luce dell’articolo 82 CE
+(rilevanza dell’esame “concorrente altrettanto efficiente”).
+
+Al tempo stesso si chiede alla Corte di chiarire quale rilevanza abbiano al
+riguardo le caratteristiche del mercato, ivi compreso se tali caratteristiche
+possano giustificare il ricorso ad esami ed analisi diversi dal criterio del
+“concorrente altrettanto efficiente” per dimostrare l’effetto preclusivo (v.,
+al riguardo, punto 24 della Comunicazione della Commissione,[dal titolo]
+“Orientamenti sulle priorità della Commissione nell’applicazione dell’articolo
+82 del trattato CE al comportamento abusivo delle imprese dominanti volto
+all’esclusione dei concorrenti” [(GU 2009, C 45, pag. 7)]).  
+  
+---|---  
+  
+2)
+
+|
+
+Quanto probabile e grave debba essere l’effetto anticoncorrenziale di un
+sistema di sconti avente le caratteristiche descritte ai punti da 10 a 11
+della decisione di rinvio perché l’articolo 82 CE sia applicabile.  
+  
+---|---  
+  
+3)
+
+|
+
+Alla luce delle risposte fornite alla prima e alla seconda questione, quali
+circostanze specifiche il giudice nazionale debba prendere in considerazione
+nel valutare se un sistema di sconti, nelle circostanze come quelle descritte
+nella decisione di rinvio (con riferimento alle caratteristiche del mercato e
+al sistema di sconti), in concreto abbia o sia in grado di avere un effetto
+preclusivo sul mercato tale da costituire un abuso che ricade nell’ambito di
+applicazione dell’articolo 82 CE.
+
+Al riguardo se rilevi che l’effetto preclusivo sul mercato sia notevole».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla prima questione, primo e secondo paragrafo, e sulla terza questione,
+primo paragrafo
+
+21
+
+|
+
+Con la prima questione, primo e secondo paragrafo, e con la terza questione,
+primo paragrafo, che occorre esaminare congiuntamente, il giudice del rinvio
+chiede in sostanza alla Corte di precisare i criteri che devono essere
+applicati per stabilire se un sistema di sconti, come quello di cui trattasi
+nel procedimento principale, sia atto ad avere un effetto di preclusione sul
+mercato in violazione dell’articolo 82 CE. Il giudice del rinvio chiede
+altresì quale sia la rilevanza da assegnarsi, nell’ambito di tale valutazione,
+al fatto che detto sistema di sconti sia applicabile alla maggior parte della
+clientela nel mercato.  
+  
+---|---  
+  
+22
+
+|
+
+Dal fascicolo sottoposto alla Corte risulta che il sistema di sconti praticato
+dalla Post Danmark negli anni 2007 e 2008 presentava tre principali
+caratteristiche.  
+  
+---|---  
+  
+23
+
+|
+
+In primo luogo, la scala degli sconti, che prevedeva percentuali comprese tra
+il 6% e il 16%, era «standardizzata», vale a dire tutti i clienti potevano
+ottenere le stesse riduzioni in funzione dei loro acquisti cumulati nel corso
+di un periodo di riferimento annuale.  
+  
+---|---  
+  
+24
+
+|
+
+In secondo luogo, gli sconti erano «condizionati», nel senso che la Post
+Danmark e i suoi clienti stipulavano all’inizio dell’anno accordi in cui
+venivano indicate le quantità di spedizioni stimate per tale anno. Al termine
+dell’anno, la Post Danmark procedeva ad un adeguamento allorché le quantità
+spedite non coincidevano con quelle stimate all’inizio.  
+  
+---|---  
+  
+25
+
+|
+
+In terzo luogo, gli sconti erano «retroattivi», nel senso che, allorché la
+soglia di spedizioni inizialmente fissata veniva oltrepassata, la percentuale
+di sconto stabilita alla fine dell’anno veniva applicata a tutte le spedizioni
+effettuate nel corso del periodo interessato e non esclusivamente alle
+spedizioni eccedenti la soglia inizialmente stimata.  
+  
+---|---  
+  
+26
+
+|
+
+Per quanto riguarda l’applicazione dell’articolo 82 CE ad un sistema di
+sconti, occorre ricordare che, vietando lo sfruttamento abusivo di una
+posizione dominante sul mercato quando il commercio tra Stati membri possa
+risultarne compromesso, tale articolo riguarda i comportamenti che sono atti
+ad influire sulla struttura di un mercato in cui, proprio per il fatto che vi
+opera un’impresa che occupa una posizione del genere, il grado di concorrenza
+è già indebolito e che hanno come effetto di ostacolare il mantenimento del
+grado di concorrenza ancora esistente sul mercato o lo sviluppo di detta
+concorrenza (v., in tal senso, sentenze Nederlandsche Banden-Industrie-
+Michelin/Commissione, 322/81, EU:C:1983:313, punto 70, e British
+Airways/Commissione, C‑95/04 P, EU:C:2007:166, punto 66).  
+  
+---|---  
+  
+27
+
+|
+
+Da giurisprudenza costante risulta altresì che, a differenza di uno sconto
+quantitativo, che dipende solo dal volume degli acquisti effettuati presso il
+produttore interessato che, in via di principio, non è tale da violare
+l’articolo 82 CE, un premio fedeltà, mirante ad impedire, mediante la
+concessione di vantaggi finanziari, che i clienti si riforniscano presso
+produttori concorrenti per la totalità o per una parte significativa del loro
+fabbisogno, configura un abuso ai sensi di detto articolo (v. sentenze
+Nederlandsche Banden‑Industrie‑Michelin/Commissione, 322/81, EU:C:1983:313,
+punto 71, nonché Tomra Systems e a./Commissione, C‑549/10 P, EU:C:2012:221,
+punto 70).  
+  
+---|---  
+  
+28
+
+|
+
+Per quanto riguarda il sistema di sconti di cui trattasi nel procedimento
+principale, si deve osservare che tale sistema non può essere considerato alla
+stregua di un semplice sconto quantitativo che dipende esclusivamente dal
+volume degli acquisti, dal momento che gli sconti in questione sono concessi
+non per ciascuna ordinazione individuale, e quindi in misura corrispondente ad
+un risparmio dei costi realizzato dai fornitori, ma in funzione di tutte le
+ordinazioni effettuate nel corso di un dato periodo. Inoltre, nell’ambito di
+tale sistema non era neppure contemplato alcun obbligo o promessa da parte
+degli acquirenti di rifornirsi esclusivamente o per una determinata quantità
+del loro fabbisogno presso la Post Danmark, il che lo differenziava dai premi
+fedeltà ai sensi della giurisprudenza menzionata al precedente punto.  
+  
+---|---  
+  
+29
+
+|
+
+Ciò premesso, per determinare se l’impresa che occupa una posizione dominante
+abbia sfruttato in modo abusivo tale posizione applicando un sistema di sconti
+come quello di cui trattasi nel procedimento principale, la Corte ha più volte
+dichiarato che occorre valutare tutte le circostanze, in particolare i criteri
+e le modalità della concessione degli sconti, e accertare se questi sconti
+mirino, mediante un vantaggio che non trova giustificazione in alcuna
+prestazione economica, a sopprimere o limitare la possibilità di scelta da
+parte dell’acquirente delle sue fonti di rifornimento, a chiudere l’accesso
+del mercato ai concorrenti, ad applicare a controparti commerciali condizioni
+dissimili per prestazioni equivalenti o a rafforzare la posizione dominante
+mediante una concorrenza falsata (sentenze British Airways/Commissione,
+C‑95/04 P, EU:C:2007:166, punto 67, nonché Tomra Systems e a./Commissione,
+C‑549/10 P, EU:C:2012:221, punto 71).  
+  
+---|---  
+  
+30
+
+|
+
+In considerazione delle peculiarità della presente causa, nell’ambito
+dell’esame di tutte le circostanze rilevanti occorre altresì tener conto della
+portata della posizione dominante della Post Danmark e delle specifiche
+condizioni di concorrenza del mercato di riferimento.  
+  
+---|---  
+  
+31
+
+|
+
+Al riguardo, si deve anzitutto verificare se tali sconti siano atti a
+determinare un effetto preclusivo, cioè se siano in grado, da un lato, di
+rendere più difficoltoso, o addirittura impossibile, l’accesso al mercato per
+i concorrenti dell’impresa in posizione dominante e, dall’altro, di rendere
+più difficoltosa, o addirittura impossibile, per le sue controparti
+commerciali la scelta tra più fonti di approvvigionamento o controparti
+commerciali. Occorre poi valutare se esista una giustificazione economica
+obiettiva degli sconti concessi (sentenza British Airways/Commissione, C‑95/04
+P, EU:C:2007:166, punti 68 e 69).  
+  
+---|---  
+  
+32
+
+|
+
+Per quanto riguarda, in primo luogo, i criteri e le modalità di concessione
+degli sconti, va rammentato che gli sconti di cui al procedimento principale
+erano «retroattivi», nel senso che, se la soglia fissata originariamente
+all’inizio dell’anno per le quantità di posta veniva oltrepassata, la
+percentuale di sconto stabilita alla fine dell’anno era applicabile a tutte le
+spedizioni effettuate nel corso del periodo di riferimento, e non
+esclusivamente alle spedizioni eccedenti la quantità inizialmente stimata.
+Viceversa, un cliente il cui volume di spedizioni si fosse rivelato inferiore
+alla quantità stimata doveva rimborsare la Post Danmark.  
+  
+---|---  
+  
+33
+
+|
+
+Orbene, dalla giurisprudenza risulta che gli obblighi contrattuali gravanti
+sulle controparti commerciali dell’impresa in posizione dominante e la
+pressione esercitata su di esse possono essere particolarmente forti quando
+uno sconto non si riferisce soltanto all’incremento degli acquisti dei
+prodotti di detta impresa realizzati da tali controparti commerciali durante
+il periodo preso in considerazione, ma si estende anche al complesso di detti
+acquisti. In tal modo, variazioni proporzionalmente modeste delle vendite dei
+prodotti dell’impresa in posizione dominante producono effetti sproporzionati
+sulle controparti commerciali (v., in tal senso, sentenza British
+Airways/Commissione, C‑95/04 P, EU:C:2007:166, punto 73).  
+  
+---|---  
+  
+34
+
+|
+
+Occorre inoltre sottolineare che il sistema di sconti di cui trattasi nel
+procedimento principale era basato su un periodo di riferimento di un anno.
+Orbene, qualsiasi sistema di sconti concessi in funzione delle quantità
+vendute nel corso di un periodo di riferimento relativamente lungo esercita
+necessariamente, alla fine del periodo di riferimento, una maggiore pressione
+sull’acquirente, che è spinto a realizzare il fatturato necessario per
+ottenere il vantaggio o per non subire la perdita prevista per l’intero
+periodo (sentenza Nederlandsche Banden‑Industrie‑Michelin/Commissione, 322/81,
+EU:C:1983:313, punto 81).  
+  
+---|---  
+  
+35
+
+|
+
+Di conseguenza, come rilevato dall’avvocato generale ai paragrafi 37 e 38
+delle sue conclusioni, un simile sistema di sconti è atto a consentire
+all’impresa in posizione dominante di fidelizzare con maggiore facilità i
+propri clienti nonché di attrarre quelli dei suoi concorrenti e così di
+aspirare a proprio vantaggio la parte di domanda soggetta a concorrenza nel
+mercato di riferimento. Tale effetto di aspirazione è ulteriormente rafforzato
+per il fatto che, nel procedimento principale, gli sconti si applicavano
+indistintamente alla quota acquisibile e alla quota non acquisibile della
+domanda, vale a dire, in quest’ultimo caso, alle lettere pubblicitarie
+indirizzate di peso non superiore a 50 grammi ricadenti nel monopolio legale
+della Post Danmark.  
+  
+---|---  
+  
+36
+
+|
+
+Nel procedimento principale, dal fascicolo sottoposto alla Corte risulta che,
+per 25 clienti tra quelli maggiormente importanti della Post Danmark,
+rappresentanti all’incirca la metà del volume delle operazioni sul mercato di
+riferimento nel corso del periodo interessato, circa i due terzi delle
+spedizioni realizzate sotto forma di pubblicità diretta per corrispondenza al
+di fuori del monopolio non potevano essere trasferiti dalla Post Danmark alla
+Bring Citymail senza ripercussioni negative sulla scala degli sconti. Qualora
+tale considerazione risultasse confermata, circostanza che spetta al giudice
+del rinvio verificare, l’incentivo a rifornirsi esclusivamente o in maniera
+sostanziale presso la Post Danmark sarebbe particolarmente forte e tale da
+ridurre in modo significativo la libertà di scelta dei clienti in merito alle
+loro fonti di rifornimento.  
+  
+---|---  
+  
+37
+
+|
+
+Peraltro, per quanto riguarda la standardizzazione della scala degli sconti,
+consistente nel fatto che tutti i clienti potevano conseguire lo stesso sconto
+in funzione dei loro acquisti cumulati nel corso del periodo di riferimento, è
+vero che tale caratteristica consente di concludere che, in via di principio,
+il sistema di sconti attuato dalla Post Danmark non si traduceva
+nell’applicazione alle controparti commerciali di condizioni dissimili per
+prestazioni equivalenti, ai sensi dell’articolo 82, lettera c), CE.  
+  
+---|---  
+  
+38
+
+|
+
+Tuttavia, il semplice fatto che un sistema di sconti non sia discriminatorio
+non osta a che esso sia considerato atto a produrre effetti preclusivi sul
+mercato, in violazione dell’articolo 82 CE. Infatti, nella sentenza
+Nederlandsche Banden‑Industrie‑Michelin/Commissione (322/81, EU:C:1983:313,
+punti 86 e 91) la Corte, dopo aver respinto la censura della Commissione
+secondo cui il sistema di sconti applicato dalla Michelin era discriminatorio,
+ha cionondimeno dichiarato che esso violava l’articolo 82 CE, in quanto creava
+un vincolo di dipendenza dei rivenditori nei confronti di detta società.  
+  
+---|---  
+  
+39
+
+|
+
+Per quanto riguarda, in secondo luogo, la portata della posizione dominante
+della Post Danmark e le specifiche condizioni di concorrenza del mercato delle
+spedizioni postali di massa, dalla decisione di rinvio risulta che la Post
+Danmark deteneva il 95% di tale mercato, il cui accesso era tutelato da
+elevate barriere e che si distingueva per l’esistenza di notevoli economie di
+scala. La Post Danmark godeva altresì di vantaggi strutturali in particolare
+dovuti al monopolio ex lege sulla distribuzione di lettere di peso non
+superiore a 50 grammi, che riguardava il 70% di tutte le spedizioni in massa.
+Inoltre, la Post Danmark beneficiava di una copertura geografica unica estesa
+a tutta la Danimarca.  
+  
+---|---  
+  
+40
+
+|
+
+Orbene, il possesso di una quota di mercato estremamente elevata pone
+l’impresa che la detiene in una situazione di forza che la rende una
+controparte obbligatoria e che le assicura un’indipendenza di comportamento
+(sentenza Hoffmann‑La Roche/Commissione, 85/76, EU:C:1979:36, punto 41). In un
+simile contesto, è particolarmente difficile per i concorrenti di detta
+impresa rilanciare rispetto a sconti fondati sul volume globale delle vendite.
+A causa della quota di mercato notevolmente più elevata di cui essa dispone,
+l’impresa in posizione dominante costituisce in generale una controparte
+commerciale ineludibile sul mercato (v. sentenza British Airways/Commissione,
+C‑95/04 P, EU:C:2007:166, punto 75).  
+  
+---|---  
+  
+41
+
+|
+
+Tale circostanza, in correlazione con gli elementi illustrati al punto 39
+della presente sentenza, i quali contribuiscono a precisare la situazione
+concorrenziale presente sul mercato di riferimento, consente di concludere che
+in tale mercato la concorrenza era già sensibilmente limitata.  
+  
+---|---  
+  
+42
+
+|
+
+Ciò posto, si deve ritenere che un sistema di sconti praticato da un’impresa,
+come quello di cui trattasi nel procedimento principale, che, senza vincolare
+i clienti a quest’ultima mediante un obbligo formale, tende nondimeno a
+rendere più difficoltoso il rifornimento da parte di tali clienti presso
+imprese concorrenti, produce un effetto di preclusione anticoncorrenziale (v.,
+in tal senso, sentenza Tomra Systems e a./Commissione, C‑549/10 P,
+EU:C:2012:221, punto 72).  
+  
+---|---  
+  
+43
+
+|
+
+Inoltre, il giudice del rinvio chiede altresì quale rilevanza debba
+riconoscersi, nell’ambito della valutazione del sistema di sconti operato
+dalla Post Danmark, al fatto che tale sistema sia applicabile alla maggior
+parte della clientela nel mercato.  
+  
+---|---  
+  
+44
+
+|
+
+La circostanza che gli sconti praticati dalla Post Danmark riguardassero una
+notevole parte dei clienti sul mercato di per sé non configura un indizio di
+un comportamento abusivo di tale impresa.  
+  
+---|---  
+  
+45
+
+|
+
+Infatti, nell’ambito di una causa che verteva in particolare sulla valutazione
+dei premi fedeltà praticati da un’impresa che occupava una posizione
+dominante, la Corte ha dichiarato che non era necessario verificare quale
+fosse stato, rispettivamente, il numero dei contratti contenenti la clausola
+controversa e quello dei contratti in cui essa non figurava (sentenza Suiker
+Unie e a./Commissione, da 40/73 a 48/73, 50/73, da 54/73 a 56/73, 111/73,
+113/73 e 114/73, EU:C:1975:174, punto 511).  
+  
+---|---  
+  
+46
+
+|
+
+Tuttavia, il fatto che un sistema di sconti, come quello di cui trattasi nel
+procedimento principale, sia applicabile alla maggior parte della clientela
+sul mercato può costituire un’indicazione utile della rilevanza di tale
+pratica e del suo impatto sul mercato, rendendo ancor più verosimile un
+effetto di preclusione anticoncorrenziale.  
+  
+---|---  
+  
+47
+
+|
+
+Infine, nel caso in cui il giudice del rinvio debba constatare l’esistenza di
+effetti anticoncorrenziali imputabili alla Post Danmark, va ricordato che
+un’impresa che detiene una posizione dominante ha tuttavia la facoltà di
+fornire una giustificazione per attività che possono ricadere nel divieto di
+cui all’articolo 82 CE.  
+  
+---|---  
+  
+48
+
+|
+
+In particolare, una simile impresa può dimostrare che l’effetto preclusivo
+prodotto dal suo comportamento può essere controbilanciato, o addirittura
+superato, da vantaggi in termini di efficienza che vanno anche a beneficio dei
+consumatori (v. sentenze British Airways/Commissione, C‑95/04 P,
+EU:C:2007:166, punto 86, e TeliaSonera Sverige, C‑52/09, EU:C:2011:83, punto
+76).  
+  
+---|---  
+  
+49
+
+|
+
+Sotto quest’ultimo profilo, spetta all’impresa che detiene una posizione
+dominante dimostrare che i vantaggi in termini di efficienza che possono
+risultare dal comportamento in questione neutralizzano i probabili effetti
+dannosi per la concorrenza e per gli interessi dei consumatori sui mercati
+interessati, che è stato o che è possibile realizzare tali vantaggi in termini
+di efficienza grazie a detto comportamento, che quest’ultimo è indispensabile
+per realizzarli e che esso non elimina una concorrenza effettiva sopprimendo
+la totalità o la maggior parte delle fonti esistenti di concorrenza attuale o
+potenziale (sentenza Post Danmark, C‑209/10, EU:C:2012:172, punto 42).  
+  
+---|---  
+  
+50
+
+|
+
+Alla luce delle considerazioni che precedono, si deve rispondere alla prima
+questione, primo e secondo paragrafo, nonché alla terza questione, primo
+paragrafo, dichiarando che, per determinare se un sistema di sconti, come
+quello di cui trattasi nel procedimento principale, praticato da un’impresa in
+posizione dominante, sia idoneo a produrre un effetto preclusivo sul mercato,
+in violazione dell’articolo 82 CE, occorre esaminare tutte le circostanze del
+caso di specie, in particolare i criteri e le modalità di concessione degli
+sconti, la portata della posizione dominante dell’impresa interessata e le
+specifiche condizioni di concorrenza del mercato di riferimento. La
+circostanza che detto sistema di sconti sia applicabile alla maggior parte
+della clientela nel mercato può configurare un’indicazione utile della
+rilevanza di tale pratica e del suo impatto sul mercato, potendo rendere ancor
+più verosimile un effetto di preclusione anticoncorrenziale.  
+  
+---|---  
+  
+Sulla prima questione, terzo e quarto paragrafo
+
+51
+
+|
+
+Con la prima questione, terzo e quarto paragrafo, il giudice del rinvio chiede
+in sostanza alla Corte di precisare la rilevanza che deve essere assegnata al
+criterio del concorrente altrettanto efficiente nell’ambito della valutazione
+di un sistema di sconti alla luce dell’articolo 82 CE.  
+  
+---|---  
+  
+52
+
+|
+
+Atteso che il giudice del rinvio ha menzionato, al quarto paragrafo della sua
+prima questione, la comunicazione della Commissione intitolata «Orientamenti
+sulle priorità della Commissione nell’applicazione dell’articolo [82 CE] al
+comportamento abusivo delle imprese dominanti volto all’esclusione dei
+concorrenti», va rilevato preliminarmente che tale comunicazione si limita a
+circoscrivere l’approccio della Commissione quanto alla scelta dei casi che
+essa intende perseguire in modo prioritario, cosicché la prassi amministrativa
+seguita da quest’ultima non ha effetto vincolante per le autorità della
+concorrenza e per i giudici nazionali.  
+  
+---|---  
+  
+53
+
+|
+
+Si deve rilevare che l’applicazione del criterio del concorrente altrettanto
+efficiente consiste nell’esaminare se le pratiche tariffarie di un’impresa in
+posizione dominante rischino di precludere il mercato ad un concorrente avente
+le medesime capacità di prestazione di detta impresa.  
+  
+---|---  
+  
+54
+
+|
+
+Tale criterio si fonda su un raffronto tra i prezzi applicati da un’impresa
+che occupa una posizione dominante e determinati costi sostenuti da tale
+impresa nonché sull’analisi della strategia di quest’ultima (v. sentenza Post
+Danmark, C‑209/10, EU:C:2012:172, punto 28).  
+  
+---|---  
+  
+55
+
+|
+
+Il criterio del concorrente altrettanto efficiente è stato specificamente
+applicato dalla Corte a pratiche di prezzi bassi sotto forma di prezzi
+selettivi o di prezzi predatori (v., per i prezzi selettivi, sentenza Post
+Danmark, C‑209/10, EU:C:2012:172, punti da 28 a 35, nonché, per i prezzi
+predatori, sentenze AKZO/Commissione, C‑62/86, EU:C:1991:286, punti da 70 a
+73, nonché France Télécom/Commissione, C‑202/07 P, EU:C:2009:214, punti 107 e
+108), nonché di compressione dei margini (sentenza TeliaSonera Sverige,
+C‑52/09, EU:C:2011:83, punti da 40 a 46).  
+  
+---|---  
+  
+56
+
+|
+
+Per quanto riguarda il confronto dei prezzi e dei costi in un contesto di
+applicazione dell’articolo 82 CE ad un sistema di sconti, la Corte ha
+dichiarato che la fatturazione ai clienti di «prezzi negativi», vale a dire di
+prezzi inferiori al prezzo di costo, non costituisce una condizione
+preliminare per l’accertamento del carattere abusivo di un sistema di sconti
+retroattivi da parte di un’impresa in posizione dominante (sentenza Tomra
+Systems e a./Commissione, C‑549/10 P, EU:C:2012:221, punto 73). In questa
+stessa causa, la Corte ha precisato che il mancato confronto dei prezzi
+praticati e dei costi non configurava un errore di diritto (sentenza Tomra
+Systems e a./Commissione, C‑549/10 P, EU:C:2012:221, punto 80).  
+  
+---|---  
+  
+57
+
+|
+
+Ne consegue che, come rilevato dall’avvocato generale ai paragrafi 61 e 63
+delle sue conclusioni, dall’articolo 82 CE o dalla giurisprudenza della Corte
+non si può evincere alcun obbligo giuridico a fondarsi sistematicamente sul
+criterio del concorrente altrettanto efficiente per accertare il carattere
+abusivo di un sistema di sconti praticato da un’impresa in posizione
+dominante.  
+  
+---|---  
+  
+58
+
+|
+
+Tale conclusione non deve però avere l’effetto di escludere a priori il
+ricorso al criterio del concorrente altrettanto efficiente nelle cause in
+vertenti su un sistema di sconti per esaminarne la conformità con l’articolo
+82 CE.  
+  
+---|---  
+  
+59
+
+|
+
+Per contro, in una situazione come quella di cui trattasi nel procedimento
+principale, contraddistinta dal fatto che l’impresa in posizione dominante
+detiene una quota di mercato assai rilevante e caratterizzata da vantaggi
+strutturali dovuti in particolare al monopolio legale di tale impresa che si
+estendeva al 70% delle spedizioni nel mercato di riferimento, l’applicazione
+del criterio del concorrente altrettanto efficiente è priva di rilevanza, dal
+momento che la struttura del mercato rende praticamente impossibile la
+comparsa di un concorrente altrettanto efficiente.  
+  
+---|---  
+  
+60
+
+|
+
+Inoltre, in un mercato come quello di cui trattasi nel procedimento
+principale, in cui l’accesso è protetto da elevate barriere, la presenza di un
+concorrente meno efficiente potrebbe contribuire ad intensificare la pressione
+concorrenziale in tale mercato e, in tal modo, ad esercitare una limitazione
+sul comportamento dell’impresa in posizione dominante.  
+  
+---|---  
+  
+61
+
+|
+
+Il criterio del concorrente altrettanto efficiente deve pertanto essere
+considerato uno degli strumenti utili a valutare l’esistenza di uno
+sfruttamento abusivo di una posizione dominante nell’ambito di un sistema di
+sconti.  
+  
+---|---  
+  
+62
+
+|
+
+Di conseguenza, occorre rispondere alla prima questione, terzo e quarto
+paragrafo, dichiarando che l’applicazione del criterio del concorrente
+altrettanto efficiente non configura una condizione indispensabile per
+accertare il carattere abusivo di un sistema di sconti alla luce dell’articolo
+82 CE. In una situazione come quella di cui al procedimento principale,
+l’applicazione del criterio del concorrente altrettanto efficiente è
+inconferente.  
+  
+---|---  
+  
+Sulla seconda questione e sulla terza questione, secondo paragrafo
+
+63
+
+|
+
+Con la seconda questione e con la terza questione, secondo paragrafo, alle
+quali occorre rispondere congiuntamente, il giudice del rinvio chiede in
+sostanza se l’articolo 82 CE debba essere interpretato nel senso che, per
+ricadere nell’ambito di applicazione di tale articolo, l’effetto
+anticoncorrenziale di un sistema di sconti come quello di cui trattasi nel
+procedimento principale deve essere, da un lato, probabile e, dall’altro,
+grave o notevole.  
+  
+---|---  
+  
+64
+
+|
+
+Per quanto riguarda, in primo luogo, la probabilità di un effetto
+anticoncorrenziale, dalla giurisprudenza ricordata al punto 29 della presente
+sentenza risulta che, per dimostrare se un’impresa che occupa una posizione
+dominante abbia abusivamente sfruttato tale posizione applicando un sistema di
+sconti, occorre valutare in particolare se tale sistema di sconti sia inteso a
+togliere o a restringere in capo all’acquirente la possibilità di scelta delle
+sue fonti di rifornimento, a precludere l’accesso del mercato ai concorrenti,
+ad applicare a controparti commerciali condizioni dissimili per prestazioni
+equivalenti o a rafforzare la posizione dominante mediante una concorrenza
+falsata.  
+  
+---|---  
+  
+65
+
+|
+
+In proposito, e come precisato dall’avvocato generale al paragrafo 80 delle
+sue conclusioni, l’effetto anticoncorrenziale di una determinata pratica non
+deve avere carattere puramente ipotetico.  
+  
+---|---  
+  
+66
+
+|
+
+La Corte ha del pari dichiarato che, per accertare l’abusività di una simile
+pratica, il suo effetto anticoncorrenziale sul mercato deve sussistere, ma non
+deve essere necessariamente concreto, in quanto è sufficiente la dimostrazione
+di un effetto anticoncorrenziale potenziale idoneo a precludere l’accesso al
+mercato a concorrenti di efficienza quantomeno pari all’impresa in posizione
+dominante (sentenza TeliaSonera Sverige, C‑52/09, EU:C:2011:83, punto 64).  
+  
+---|---  
+  
+67
+
+|
+
+Ne consegue che nell’ambito di applicazione dell’articolo 82 CE ricadono
+soltanto le imprese in posizione dominante il cui comportamento sia atto ad
+avere un effetto anticoncorrenziale sul mercato.  
+  
+---|---  
+  
+68
+
+|
+
+A tale riguardo deve sottolinearsi che occorre valutare la capacità di un
+sistema di sconti di restringere la concorrenza tenendo conto di tutte le
+circostanze rilevanti, e segnatamente delle modalità e dei criteri secondo cui
+sono concessi gli sconti, del numero di clienti interessati e delle
+caratteristiche del mercato in cui opera l’impresa dominante.  
+  
+---|---  
+  
+69
+
+|
+
+Una simile valutazione mira a determinare se il comportamento dell’impresa che
+detiene una posizione dominante porti all’esclusione effettiva o probabile dei
+concorrenti a danno della concorrenza e, pertanto, degli interessi dei
+consumatori (sentenza Post Danmark, C‑209/10, EU:C:2012:172, punto 44).  
+  
+---|---  
+  
+70
+
+|
+
+Per quanto riguarda, in secondo luogo, il carattere grave o notevole
+dell’effetto anticoncorrenziale, sebbene sia vero che la constatazione
+dell’esistenza di una posizione dominante di per sé non comporti alcuna
+censura nei confronti dell’impresa interessata (sentenza Post Danmark,
+C‑209/10, EU:C:2012:172, punto 21), il comportamento di una simile impresa,
+dato che la struttura concorrenziale del mercato è già indebolita, può dar
+luogo ad uno sfruttamento abusivo della sua posizione dominante (v., in tal
+senso, sentenze Hoffmann‑La Roche/Commissione, 85/76, EU:C:1979:36, punto 123,
+e France Télécom/Commissione, C‑202/07 P, EU:C:2009:214, punto 107).  
+  
+---|---  
+  
+71
+
+|
+
+Pertanto, la Corte ha ripetutamente dichiarato che è all’impresa che detiene
+una posizione dominante che incombe la responsabilità particolare di non
+pregiudicare, con il suo comportamento, una concorrenza effettiva e non
+falsata nel mercato interno (v. sentenza Post Danmark, C‑209/10,
+EU:C:2012:172, punto 23 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+72
+
+|
+
+In aggiunta, dal momento che il mercato risulta già indebolito nella sua
+struttura concorrenziale per la presenza dell’impresa in posizione dominante,
+qualsiasi ulteriore restrizione della suddetta struttura può costituire uno
+sfruttamento abusivo di posizione dominante (sentenza Hoffmann-La
+Roche/Commissione, 85/76, EU:C:1979:36, punto 123).  
+  
+---|---  
+  
+73
+
+|
+
+Ne discende che la fissazione di una soglia di percettibilità (de minimis)
+allo scopo di stabilire uno sfruttamento abusivo di posizione dominante non
+trova giustificazione. Infatti, tale pratica anticoncorrenziale è idonea, per
+sua stessa natura, a provocare restrizioni della concorrenza non trascurabili,
+o addirittura ad eliminare la concorrenza dal mercato nel quale opera
+l’impresa interessata.  
+  
+---|---  
+  
+74
+
+|
+
+Dalle considerazioni che precedono risulta che l’articolo 82 CE deve essere
+interpretato nel senso che, per ricadere nell’ambito di applicazione di tale
+articolo, l’effetto anticoncorrenziale di un sistema di sconti operato da
+un’impresa in posizione dominante, come quello di cui trattasi nel
+procedimento principale, deve essere probabile, senza che sia necessario
+dimostrare che esso riveste carattere grave o notevole.  
+  
+---|---  
+  
+Sulle spese
+
+75
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Seconda Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+Per determinare se un sistema di sconti, come quello di cui trattasi nel
+procedimento principale, praticato da un’impresa in posizione dominante, sia
+idoneo a produrre un effetto preclusivo sul mercato, in violazione
+dell’articolo 82 CE, occorre esaminare tutte le circostanze del caso di
+specie, in particolare i criteri e le modalità di concessione degli sconti, la
+portata della posizione dominante dell’impresa interessata e le specifiche
+condizioni di concorrenza del mercato di riferimento. La circostanza che detto
+sistema di sconti sia applicabile alla maggior parte della clientela nel
+mercato può configurare un’indicazione utile della rilevanza di tale pratica e
+del suo impatto sul mercato, potendo rendere ancor più verosimile un effetto
+di preclusione anticoncorrenziale.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’applicazione del criterio detto «del concorrente altrettanto efficiente» non
+configura una condizione indispensabile per accertare il carattere abusivo di
+un sistema di sconti alla luce dell’articolo 82 CE. In una situazione come
+quella di cui al procedimento principale, l’applicazione del criterio detto
+«del concorrente altrettanto efficiente» è inconferente.  
+  
+---|---  
+|  |
+
+3)
+
+|
+
+L’articolo 82 CE deve essere interpretato nel senso che, per ricadere
+nell’ambito di applicazione di tale articolo, l’effetto anticoncorrenziale di
+un sistema di sconti operato da un’impresa in posizione dominante, come quello
+di cui trattasi nel procedimento principale, deve essere probabile, senza che
+sia necessario dimostrare che esso riveste carattere grave o notevole.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il danese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

@@ -1,0 +1,979 @@
+
+
+SENTENZA DELLA CORTE (Seconda Sezione)
+
+28 giugno 2012 ( *1 )
+
+«Libera circolazione dei lavoratori — Articolo 45 TFUE — Regolamento (CEE) n.
+1612/68 — Articolo 7, paragrafo 4 — Principio di non discriminazione — Importo
+di maggiorazione della retribuzione versato ai lavoratori posti in un regime
+di lavoro a tempo parziale che precede il pensionamento — Lavoratori
+frontalieri soggetti ad imposta sul reddito nello Stato membro di residenza —
+Presa in considerazione fittizia dell’imposta sugli stipendi dello Stato
+membro di impiego»
+
+Nella causa C-172/11,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dall’Arbeitsgericht Ludwigshafen am Rhein
+(Germania) con decisione del 4 aprile 2011, pervenuta in cancelleria l’11
+aprile 2011, nel procedimento
+
+Georges Erny
+
+contro
+
+Daimler AG – Werk Wörth,
+
+LA CORTE (Seconda Sezione),
+
+composta dal sig. J.N. Cunha Rodrigues (relatore), presidente di sezione, dai
+sigg. U. Lõhmus, A. Rosas, A. Arabadjiev e C.G. Fernlund, giudici,
+
+avvocato generale: sig. J. Mazák
+
+cancelliere: sig.ra A. Impellizzeri, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 28 marzo
+2012,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per G. Erny, da G. Turek, Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per la Daimler AG – Werk Wörth, da U. Baeck e N. Kramer, Rechtsanwälte;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da G. Rozet e S. Grünheid, in qualità di agenti;  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 45 TFUE, e 7, paragrafo 4, del regolamento (CEE) n. 1612/68 del
+Consiglio, del 15 ottobre 1968, relativo alla libera circolazione dei
+lavoratori all’interno della Comunità (GU L 257, pag. 2).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra il sig.
+Erny, cittadino francese che risiede in Francia e lavora in Germania, e il suo
+datore di lavoro, la Daimler AG – Werk Wörth (in prosieguo: la «Daimler»), in
+merito al calcolo di un importo di maggiorazione retributiva (in prosieguo:
+l’«importo di maggiorazione») dovuto al sig. Erny nell’ambito di un regime
+cosiddetto di «lavoro a tempo parziale per motivi di età».  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+Ai sensi dell’articolo 7 del regolamento n. 1612/68:
+
+«1. Il lavoratore cittadino di uno Stato membro non può ricevere sul
+territorio degli altri Stati membri, a motivo della propria cittadinanza, un
+trattamento diverso da quello dei lavoratori nazionali per quanto concerne le
+condizioni di impiego e di lavoro, in particolare in materia di retribuzione,
+licenziamento, reintegrazione professionale o ricollocamento se disoccupato.
+
+(...)
+
+4\. Tutte le clausole di contratti collettivi o individuali o di altre
+regolamentazioni collettive concernenti l’accesso all’impiego, l’impiego, la
+retribuzione e le altre condizioni di lavoro e di licenziamento, sono nulle di
+diritto nella misura in cui prevedano o autorizzino condizioni discriminatorie
+nei confronti dei lavoratori cittadini degli altri Stati membri».  
+  
+---|---  
+  
+4
+
+|
+
+Il regolamento n. 1612/68 è stato abrogato e sostituito, con effetto dal 16
+giugno 2011, dal regolamento (UE) n. 492/2011 del Parlamento europeo e del
+Consiglio, del 5 aprile 2011, relativo alla libera circolazione dei lavoratori
+all’interno dell’Unione (GU L 141, pag. 1).  
+  
+---|---  
+  
+Il diritto nazionale
+
+La legge sul lavoro a tempo parziale per motivi di età
+
+5
+
+|
+
+L’articolo 1 della legge sul lavoro a tempo parziale per motivi di età
+(Altersteilzeitgesetz) stabilisce quanto segue:
+
+«1. Il lavoro a tempo parziale per motivi di età mira a facilitare ai
+lavoratori di una certa età il passaggio progressivo dalla vita attiva alla
+pensione.
+
+2\. Il Bundesanstalt für Arbeit (Ufficio federale del lavoro) sostiene,
+mediante prestazioni previste da tale legge, il lavoro a tempo parziale dei
+lavoratori che, non oltre il 31 dicembre 2009, riducono l’orario di lavoro una
+volta raggiunti i 55 anni di età e consentono quindi l’assunzione di
+lavoratori che, in mancanza, si troverebbero disoccupati».  
+  
+---|---  
+  
+6
+
+|
+
+Nella sua versione in vigore fino al 30 giugno 2004, l’articolo 3, paragrafo
+1, punto 1, lettera a), di detta legge così enunciava:
+
+«Il diritto alla prestazione di cui all’articolo 4 [rimborso delle
+maggiorazioni per l’importo legale da parte dell’Ufficio federale del lavoro]
+presuppone che:
+
+1\. il datore di lavoro, sulla base di un contratto collettivo, (...) di un
+accordo aziendale o di un accordo con il lavoratore
+
+|
+
+a)
+
+|
+
+abbia maggiorato la retribuzione per il lavoro a tempo parziale per motivi di
+età di almeno il 20% della retribuzione stessa, in ogni caso fino a
+concorrenza almeno del 70% dello stipendio fino a quel momento percepito (...)
+ridotto delle detrazioni previste per legge e di regola operate per i
+lavoratori, a norma dell’articolo 6, paragrafo 1 (importo minimo netto) (…)».  
+  
+---|---  
+  
+7
+
+|
+
+Ai sensi dell’articolo 15, prima frase, della stessa legge:
+
+«Il Bundesministerium für Arbeit und Soziales (Ministero federale del Lavoro e
+delle Politiche sociali) può stabilire mediante decreto gli importi minimi
+netti di cui all’articolo 3, paragrafo 1, punto 1, lettera a) nella
+formulazione in vigore fino al 30 giugno 2004. (...)».  
+  
+---|---  
+  
+Il decreto relativo alla soglia retributiva minima netta
+
+8
+
+|
+
+Il Ministero federale competente, autorizzato ad agire in tal senso
+dall’articolo 15 della legge sul lavoro a tempo parziale per motivi di età, ha
+emesso il decreto in materia di soglia retributiva minima netta
+(Mindestnettobetrags-Verordnung), la cui versione applicabile nella causa
+principale è quella risultante dal decreto del 19 dicembre 2007 (BGBl. 2007 I,
+pag. 3040).  
+  
+---|---  
+  
+9
+
+|
+
+Come rilevato dal giudice del rinvio, detto decreto contiene una tabella che
+indica le retribuzioni lorde arrotondate all’importo superiore divisibile per
+cinque espresso in euro e attribuisce loro importi netti minimi, scaglionati
+in base alle classi d’imposta sul reddito. L’imposta sul reddito (senza
+considerare specifiche detrazioni fiscali) nonché il contributo di solidarietà
+vengono dedotti da tali importi a seconda dello scaglione tributario. Per i
+contributi previdenziali Viene trattenuta un’aliquota forfettaria pari al 21%,
+limitata al reddito mensile massimo considerabile per il calcolo dei
+contributi del regime previdenziale. Gli importi minimi netti così determinati
+sono indicati in misura del 70% in detta tabella.  
+  
+---|---  
+  
+Il contratto collettivo relativo ai lavori a tempo parziale per motivi di età
+
+10
+
+|
+
+L’articolo 7 del contratto collettivo relativo ai lavori a tempo parziale per
+motivi di età (Tarifvertrag zur Altersteilzeit), concluso il 23 novembre 2004
+tra l’Associazione delle industrie metallurgiche ed elettrotecniche del
+Palatinato e la direzione circondariale del sindacato dei lavoratori del
+settore metallurgico (in prosieguo: il «contratto collettivo), stabilisce
+quanto segue:
+
+«Il dipendente riceve, oltre alla retribuzione per il lavoro a tempo parziale
+per motivi di età, un importo di maggiorazione secondo il criterio di cui
+all’articolo 3, paragrafo 1, punto 1, lettera a) della legge sul lavoro a
+tempo parziale per motivi di età nella formulazione di volta in volta in
+vigore. Tale importo deve tuttavia essere calcolato in modo tale che la
+retribuzione mensile netta ammonti ad almeno l’82% dello stipendio lordo
+mensile fino a quel momento percepito (...) ridotto delle detrazioni previste
+per legge di norma operate per i dipendenti».  
+  
+---|---  
+  
+L’accordo aziendale generale
+
+11
+
+|
+
+Il 24 luglio 2000 è stato stipulato alla DaimlerChrysler AG (ora denominata
+Daimler) un accordo aziendale generale (Gesamtbetriebsvereinbarung)
+riguardante l’applicazione del regime di lavoro a tempo parziale per motivi di
+età (in prosieguo: l’«accordo aziendale generale»), che ha comportato un
+aumento dell’importo di maggiorazione dall’82% all’85%.  
+  
+---|---  
+  
+12
+
+|
+
+Il punto 8.3 di tale accordo così dispone:
+
+«L’importo di maggiorazione deve essere calcolato in modo tale che il
+dipendente riceva, nella fase lavorativa, almeno l’85% della retribuzione fino
+a quel momento percepita, ridotta delle detrazioni previste per legge che di
+norma vengono operate per i lavoratori, conformemente all’articolo 8.2.2;
+nella fase di sosta, ad almeno l’85% della retribuzione fino a quel momento
+percepita, ridotta delle detrazioni previste per legge che di norma vengono
+operate per i lavoratori, conformemente all’articolo 8.2.3».  
+  
+---|---  
+  
+Il contratto di lavoro a tempo parziale per motivi di età
+
+13
+
+|
+
+Il contratto di lavoro a tempo parziale per motivi di età stipulato dalle
+parti (Altersteilzeitvertrag der Parteien) contiene un articolo 5, intitolato
+«Prestazioni supplementari del datore di lavoro», il cui paragrafo 1 è
+formulato nel seguente modo:
+
+«La retribuzione mensile netta per il lavoro a tempo parziale per motivi di
+età viene maggiorata, conformemente all’[accordo aziendale generale], fino a
+concorrenza dell’85% della retribuzione netta mensile forfettaria per il
+lavoro a tempo pieno (fondamento: decreto in materia di soglia retributiva
+minima netta attualmente in vigore). Oltre allo stipendio netto per il lavoro
+a tempo parziale, come risultante dall’articolo 4, al dipendente viene
+pertanto pagato un corrispondente importo di maggiorazione mensile».  
+  
+---|---  
+  
+Causa principale e questioni pregiudiziali
+
+14
+
+|
+
+Il sig. Erny è un lavoratore frontaliero ai sensi della convenzione conclusa
+tra la Repubblica francese e la Repubblica federale di Germania al fine di
+evitare le doppie imposizioni. I redditi che percepisce in Germania sono
+imponibili in Francia previa trattenuta dei contributi previdenziali versati
+in Germania. Poiché, in Francia le aliquote dell’imposta sul reddito da lavoro
+sono inferiori alle aliquote tedesche, un lavoratore come il sig. Erny
+percepisce un reddito netto superiore a quello di un lavoratore comparabile
+residente in Germania.  
+  
+---|---  
+  
+15
+
+|
+
+Il 17 novembre 2006 le parti nel procedimento principale hanno stipulato un
+contratto di lavoro a tempo parziale per motivi di età, che prevede la
+trasformazione dell’originario rapporto di lavoro del sig. Erny da tempo pieno
+a tempo parziale a far data dal 1o settembre 2007.  
+  
+---|---  
+  
+16
+
+|
+
+Conformemente a questo contratto, il rapporto di lavoro tra le parti cessa
+entro il 31 agosto 2012. Durante il periodo di lavoro a tempo parziale per
+motivi di età, il sig. Erny percepisce, oltre alla retribuzione per il lavoro
+a tempo parziale, l’importo di maggiorazione. In base all’articolo 5 di tale
+contratto, la retribuzione mensile netta per il lavoro a tempo parziale «viene
+maggiorata fino a concorrenza dell’85% della retribuzione netta mensile
+forfettaria per il lavoro a tempo pieno (fondamento: decreto in materia di
+soglia retributiva minima netta attualmente in vigore)».  
+  
+---|---  
+  
+17
+
+|
+
+Come rilevato al punto 9 della presente sentenza, il decreto relativo alla
+soglia retributiva minima netta contiene una tabella che associa alle
+retribuzioni lorde – in base agli scaglioni tributari tedeschi – i cosiddetti
+importi netti minimi di retribuzione. L’imposta tedesca sulle retribuzioni
+(tranne specifiche detrazioni fiscali), il contributo di solidarietà e
+un’aliquota forfettaria del 21% per l’assicurazione sociale vengono detratti
+dalla retribuzione lorda a seconda dello scaglione tributario. La retribuzione
+netta così determinata è riportata nella tabella, in misura del 70%, quale
+importo netto minimo di retribuzione.  
+  
+---|---  
+  
+18
+
+|
+
+Conformemente alla legge in materia di imposta sul reddito
+(Einkommensteuergesetz), gli importi di maggiorazione pagati ai lavoratori che
+sono soggetti passivi d’imposta in Germania non sono tassati e pertanto sono
+esenti anche dal versamento dei contributi previdenziali tedeschi, sebbene
+l’importo di maggiorazione sia preso in considerazione per determinare
+l’aliquota d’imposta applicabile.  
+  
+---|---  
+  
+19
+
+|
+
+Quanto alla determinazione dell’importo di maggiorazione, la Daimler, in un
+primo momento, stabilisce come base di calcolo un importo fittizio di
+retribuzione pari all’85% della retribuzione mensile netta forfettaria versata
+per un lavoro a tempo pieno. A tal fine, a partire dalla retribuzione lorda
+che il sig. Erny percepirebbe se non fosse in regime di lavoro a tempo
+parziale per motivi di età, essa determina un importo forfettario di
+retribuzione netta pari al 70% come indicato nella tabella delle soglie
+retributive minime nette, e lo aumenta fino a concorrenza dell’85%. Nel
+procedimento principale, il datore di lavoro, per stabilire corrispondenze in
+detta tabella, si è fittiziamente basato sullo scaglione tributario tedesco
+III (lavoratore coniugato).  
+  
+---|---  
+  
+20
+
+|
+
+In un secondo momento, il datore di lavoro stabilisce, per il lavoratore in
+questione, uno «stipendio netto individuale per il lavoro a tempo parziale per
+motivi di età». A tal fine, nel caso dei lavoratori soggetti a imposta in
+Germania, dalla retribuzione per il lavoro a tempo parziale per motivi di età
+egli detrae le imposte e i contributi previdenziali su di essa effettivamente
+gravanti (pari al 50% della retribuzione lorda percepita prima del lavoro a
+tempo parziale per motivi di età). Nel caso dei lavoratori frontalieri, egli
+detrae i contributi previdenziali effettivamente dovuti e, fittiziamente,
+l’imposta tedesca sul reddito da lavoro. Quest’ultimo importo corrisponde
+all’imposta sul reddito da lavoro che graverebbe su un lavoratore soggetto a
+imposta in Germania avente le stesse caratteristiche individuali del
+lavoratore frontaliero (stipendio lordo, situazione familiare).  
+  
+---|---  
+  
+21
+
+|
+
+Infine, l’importo di maggiorazione corrisponde alla differenza tra lo
+stipendio fittizio equivalente all’85% della retribuzione netta mensile
+forfettaria per un lavoro a tempo pieno e lo specifico stipendio netto per il
+lavoro a tempo parziale per motivi di età.  
+  
+---|---  
+  
+22
+
+|
+
+La Daimler ritiene che le sue modalità di calcolo consentano di determinare
+una base di calcolo uniforme per tutti i lavoratori in regime di lavoro a
+tempo parziale per motivi di età. Per tutti i lavoratori si considererebbe,
+anziché l’importo individuale dell’imposta, solo l’imposta forfettaria sul
+reddito da lavoro, e nessun lavoratore – neppure quello soggetto a imposta in
+Germania – riceverebbe esattamente l’85% dell’importo netto percepito in
+precedenza. I vantaggi della forfetizzazione consisterebbero, anzitutto, nello
+stimare il carico complessivo, nel risparmio dei costi amministrativi e nella
+semplificazione della procedura. Contrariamente a quanto si è verificato nella
+causa all’origine della sentenza del 16 settembre 2004, Merida (C-400/02,
+Racc. pag. I-8471), l’importo di maggiorazione non assolverebbe ad alcuna
+funzione compensativa e neanche la Daimler si sarebbe impegnata a versare uno
+stipendio netto garantito di cui essa sopporterebbe in tutto o in parte le
+relative imposte e contributi previdenziali.  
+  
+---|---  
+  
+23
+
+|
+
+Il sig. Erny, diversamente dalla Daimler, sostiene che in Francia l’importo di
+maggiorazione è soggetto all’imposta sul reddito e che la doppia imposizione
+di fatto risultante dal metodo di calcolo controverso comporta una
+discriminazione, in quanto situazioni diverse sarebbero trattate in modo
+uguale.  
+  
+---|---  
+  
+24
+
+|
+
+Il sig. Erny, di conseguenza, ha adito il giudice del rinvio con un ricorso
+diretto ad ottenere dal suo datore di lavoro il versamento di un importo di
+maggiorazione più elevato di quello che percepisce, calcolato come di seguito.  
+  
+---|---  
+  
+25
+
+|
+
+In un primo momento, egli stabilisce lo stipendio fittizio equivalente all’85%
+detraendo dalla sua ultima retribuzione lorda corrispondente ad un lavoro a
+tempo pieno l’aliquota forfettaria del 21% per i contributi previdenziali e
+non, fittiziamente, l’imposta tedesca sugli stipendi conformemente alla
+tabella degli importi minimi netti riprodotta nel decreto relativo alla soglia
+retributiva minima netta. In seguito, determina l’importo corrispondente
+all’85% del risultato così ottenuto. In un secondo momento, calcola lo
+stipendio netto individuale per il lavoro a tempo parziale per motivi di età,
+detraendo dalla sua retribuzione per il lavoro a tempo parziale per motivi di
+età, che è pari alla metà dello stipendio lordo per un lavoro a tempo pieno, i
+contributi sociali effettivamente dovuti, ma senza detrarre, fittiziamente,
+l’imposta tedesca sugli stipendi. In applicazione di tale metodo di calcolo,
+la differenza tra l’importo di maggiorazione che la Daimler versa al sig. Erny
+e l’importo che risulterebbe da detto metodo di calcolo rappresenterebbe, su
+base mensile, un mancato guadagno di EUR 424,40.  
+  
+---|---  
+  
+26
+
+|
+
+Il giudice del rinvio rileva che in Francia i lavoratori frontalieri soggetti
+ad imposta percepiscono un importo nettamente inferiore all’85% del reddito
+netto che percepivano prima dell’inizio del lavoro a tempo parziale per motivi
+di età, mentre in Germania i lavoratori soggetti ad imposta percepiscono un
+importo che corrisponde forfettariamente all’85% del loro reddito netto
+precedente. Questa situazione sarebbe dovuta principalmente al fatto che le
+aliquote tedesche di imposta sono più elevate di quelle francesi. Tuttavia,
+non sarebbe escluso che persone che si trovano nella situazione del sig. Erny
+debbano pagare in Francia anche l’imposta sull’importo di maggiorazione.  
+  
+---|---  
+  
+27
+
+|
+
+In tale contesto, l’Arbeitsgericht Ludwigshafen am Rhein (Tribunale del lavoro
+di Ludwigshafen am Rhein), con riferimento alla citata sentenza Merida, ha
+deciso di sospendere il procedimento e di sottoporre alla Corte le seguenti
+questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se sia in contrasto con l’articolo 45 TFUE, come concretizzato dall’articolo
+7, paragrafo 4, del [regolamento n. 1612/1968], una disposizione di un
+contratto individuale relativa al lavoro a tempo parziale per motivi di età,
+in base alla quale, come stabilito all’articolo 5, punto 1, del contratto di
+lavoro a tempo parziale per motivi di età sottoscritto dalle parti, anche per
+il lavoratore frontaliero proveniente dalla Francia l’importo di maggiorazione
+concordato deve essere conteggiato secondo il decreto tedesco in materia di
+soglia retributiva minima netta (Mindestnettoentgeltverordnung).  
+  
+---|---  
+  
+2)
+
+|
+
+Nel caso in cui la Corte di giustizia risponda in senso affermativo alla prima
+questione:
+
+se le corrispondenti disposizioni di un contratto collettivo, quali il punto
+8.3 dell’[accordo aziendale generale] e l’articolo 7 del [contratto
+collettivo], in considerazione delle disposizioni di cui all’articolo 45 TFUE,
+come concretizzato dall’articolo 7, paragrafo 4, del [regolamento n. 1612/68],
+debbano essere interpretate nel senso che, nel caso di lavoratori frontalieri,
+l’importo di maggiorazione non vada calcolato secondo la tabella di cui al
+decreto tedesco in materia di soglia retributiva minima netta».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla ricevibilità
+
+28
+
+|
+
+La Daimler sostiene che il giudice del rinvio non nutre dubbi circa la portata
+del diritto dell’Unione, ma chiede, in realtà, alla Corte di aiutarlo ad
+interpretare la legislazione tedesca pertinente nonché l’accordo aziendale
+generale e il contratto collettivo. Orbene, la Corte sarebbe competente
+unicamente a statuire sull’interpretazione e sulla validità del diritto
+dell’Unione, con la conseguenza che la domanda di pronuncia pregiudiziale
+dovrebbe essere dichiarata irricevibile.  
+  
+---|---  
+  
+29
+
+|
+
+Tale argomento deve essere respinto.  
+  
+---|---  
+  
+30
+
+|
+
+È vero che la Corte, nell’ambito dell’articolo 267 TFUE, non può pronunciarsi
+sull’interpretazione di clausole contrattuali o di disposizioni di legge
+nazionali né sulla conformità di tali clausole o disposizioni al diritto
+dell’Unione (v., in tal senso, segnatamente, sentenza dell’11 marzo 2010,
+Attanasio Group, C-384/08, Racc. pag. I-2055, punto 16 e giurisprudenza ivi
+citata).  
+  
+---|---  
+  
+31
+
+|
+
+Tuttavia, come espressamente rilevato dal giudice del rinvio, la domanda di
+pronuncia pregiudiziale riguarda l’«interpretazione del diritto dell’Unione»
+e, più precisamente, gli articoli 45 TFUE e 7, paragrafo 4, del regolamento n.
+1612/68.  
+  
+---|---  
+  
+32
+
+|
+
+Secondo una giurisprudenza costante, spetta alla Corte limitare il suo esame
+alle disposizioni del diritto dell’Unione, fornendone un’interpretazione utile
+al giudice del rinvio, al quale compete la valutazione della compatibilità
+delle disposizioni nazionali e delle clausole contrattuali con tale diritto
+(sentenza Attanasio Group, cit., punto 19).  
+  
+---|---  
+  
+33
+
+|
+
+Con questa riserva, si deve rispondere alle questioni pregiudiziali.  
+  
+---|---  
+  
+Nel merito
+
+34
+
+|
+
+Con le sue questioni, che occorre esaminare congiuntamente, il giudice del
+rinvio chiede, in sostanza, se gli articoli 45 TFUE e 7, paragrafo 4, del
+regolamento n. 1612/68 debbano essere interpretati nel senso che essi ostano a
+clausole di contratti collettivi e individuali, in base alle quali un importo
+di maggiorazione come quello di cui trattasi nel procedimento principale, che
+è versato dal datore di lavoro nell’ambito di un regime di lavoro a tempo
+parziale per motivi di età, deve essere calcolato in modo tale che l’imposta
+sugli stipendi dovuta dal lavoratore nello Stato membro di occupazione sia
+detratta fittiziamente all’atto della determinazione della base di calcolo di
+tale importo di maggiorazione allorché, conformemente a una convenzione
+fiscale diretta ad evitare le doppie imposizioni, i trattamenti, gli stipendi
+e le retribuzioni analoghi versati ai lavoratori che non risiedono nello Stato
+membro di occupazione sono imponibili nello Stato membro di residenza di
+questi ultimi. In caso di risposta affermativa a tale questione, il giudice
+del rinvio chiede di sapere quali siano le conseguenze per il calcolo
+dell’importo di maggiorazione dovuto a questi lavoratori.  
+  
+---|---  
+  
+35
+
+|
+
+L’articolo 45, paragrafo 2, TFUE vieta qualsiasi discriminazione fondata sulla
+nazionalità tra i lavoratori degli Stati membri, per quanto riguarda
+l’impiego, la retribuzione e le altre condizioni di lavoro.  
+  
+---|---  
+  
+36
+
+|
+
+Il divieto di discriminazione enunciato in detta disposizione riguarda non
+soltanto gli atti delle autorità pubbliche, ma anche tutti i contratti che
+disciplinano in modo collettivo il lavoro subordinato, come pure i contratti
+fra privati (v., segnatamente, sentenza del 17 luglio 2008, Raccanelli,
+C-94/07, Racc. pag. I-5939, punto 45 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+37
+
+|
+
+Inoltre, l’articolo 7, paragrafo 4, del regolamento n. 1612/68, che esplicita
+ed attua taluni diritti che ai lavoratori migranti derivano dall’articolo 45
+TFUE (sentenza Merida, cit., punto 19), dispone che tutte le clausole di
+contratti collettivi o individuali concernenti, in particolare, la
+retribuzione nonché le altre condizioni di lavoro e di licenziamento, sono
+nulle di diritto qualora prevedano condizioni discriminatorie nei confronti
+dei lavoratori cittadini degli altri Stati membri.  
+  
+---|---  
+  
+38
+
+|
+
+Una prestazione come l’importo di maggiorazione, che è versato ad integrazione
+della retribuzione riconosciuta ai lavoratori che si trovano in regime di
+lavoro a tempo parziale per motivi di età, rientra incontestabilmente, come
+parte della retribuzione, nell’ambito di applicazione ratione materiae delle
+disposizioni citate al punto precedente, indipendentemente dalla circostanza
+che il finanziamento dell’importo di maggiorazione, in forza della legge sul
+lavoro a tempo parziale per motivi di età, sia garantito in parte da fondi
+pubblici sotto forma di un rimborso al datore di lavoro. Un lavoratore
+frontaliero che si trovi nella situazione del sig. Erny può far valere dette
+disposizioni relativamente ad un importo di maggiorazione di questo tipo (v.,
+in tal senso, segnatamente, sentenza Merida, cit., punto 20).  
+  
+---|---  
+  
+39
+
+|
+
+Secondo la costante giurisprudenza della Corte, il principio della parità di
+trattamento sancito sia all’articolo 45 TFUE sia all’articolo 7 del
+regolamento n. 1612/68 vieta non soltanto le discriminazioni palesi basate
+sulla cittadinanza, ma anche qualsiasi discriminazione dissimulata che, pur
+fondandosi su altri criteri di riferimento, pervenga in pratica al medesimo
+risultato (v., in particolare, sentenza del 23 maggio 1996, O’Flynn, C-237/94,
+Racc. pag. I-2617, punto 17).  
+  
+---|---  
+  
+40
+
+|
+
+Il principio di non discriminazione esige non solo che situazioni comparabili
+non siano trattate in modo diverso, ma anche che situazioni diverse non siano
+trattate in modo uguale (v., segnatamente, sentenza Merida, cit., punto 22).  
+  
+---|---  
+  
+41
+
+|
+
+A meno che non sia oggettivamente giustificata e adeguatamente commisurata
+allo scopo perseguito, una disposizione di diritto nazionale o una clausola
+contrattuale dev’essere giudicata indirettamente discriminatoria quando, per
+sua stessa natura, tenda ad incidere più sui lavoratori migranti che su quelli
+nazionali e, di conseguenza, rischi di essere sfavorevole in modo particolare
+ai primi (v., in particolare, sentenza Merida, cit., punto 23). Perché una
+misura possa essere qualificata come indirettamente discriminatoria, non è
+necessario che abbia l’effetto di avvantaggiare l’insieme dei cittadini
+nazionali o di sfavorire unicamente i soli cittadini degli altri Stati membri
+ad esclusione di quelli nazionali (v., in tal senso, segnatamente, sentenza
+del 14 giugno 2012, Commissione/Paesi Bassi, C-542/09, punto 38).  
+  
+---|---  
+  
+42
+
+|
+
+Nel caso di specie, la presa in considerazione fittizia dell’imposta tedesca
+sugli stipendi incide sfavorevolmente sulla situazione dei lavoratori
+frontalieri, poiché la detrazione fittizia di tale imposta all’atto della
+determinazione della base di calcolo dell’importo di maggiorazione sfavorisce
+le persone che, come il sig. Erny, risiedono e sono soggette a tassazione in
+uno Stato membro diverso dalla Repubblica federale di Germania rispetto ai
+lavoratori che risiedono e che sono soggetti a tassazione in quest’ultimo
+Stato.  
+  
+---|---  
+  
+43
+
+|
+
+Infatti, secondo le constatazioni effettuate dal giudice del rinvio, qualora
+l’importo di maggiorazione sia calcolato sulla base del decreto relativo alla
+soglia retributiva minima netta, i lavoratori in regime di lavoro a tempo
+parziale per motivi di età che sono soggetti passivi di imposta in Germania
+ricevono un importo che corrisponde all’incirca all’85% del reddito netto fino
+a quel momento percepito per il loro ultimo lavoro a tempo pieno. Ciò è dovuto
+al fatto che, poiché il menzionato decreto si basa sugli scaglioni e sulle
+caratteristiche dell’imposta tedesca sul reddito da lavoro, la situazione
+fiscale in cui questi lavoratori si trovavano precedentemente allo loro
+ammissione al regime di lavoro a tempo parziale per motivi di età viene presa
+in considerazione e applicata al metodo di calcolo dell’importo di
+maggiorazione.  
+  
+---|---  
+  
+44
+
+|
+
+Tuttavia, quanto ai lavoratori frontalieri, l’importo percepito è nettamente
+inferiore all’85% del reddito netto da essi fino a quel momento percepito.
+Secondo il giudice del rinvio, ciò dipende sostanzialmente dal fatto che la
+tabella contenuta nel menzionato decreto riporta le aliquote dell’imposta
+tedesca sul reddito da lavoro valide al momento della sua entrata in vigore,
+le quali sono superiori alle corrispondenti aliquote d’imposizione in Francia.
+Il metodo di calcolo dell’importo di maggiorazione si basa così su una
+situazione fiscale «fittizia» che non ha legame alcuno con il reddito
+precedente di detti lavoratori per l’ultimo lavoro che essi svolgevano a tempo
+pieno.  
+  
+---|---  
+  
+45
+
+|
+
+Di conseguenza, nel caso dei lavoratori frontalieri, l’applicazione fittizia
+dell’aliquota dell’imposta tedesca sul reddito da lavoro impedisce che
+l’importo versato corrisponda all’incirca all’85% della retribuzione netta
+percepita in precedenza per un lavoro a tempo pieno, contrariamente a come
+avviene di consueto per i lavoratori residenti in Germania.  
+  
+---|---  
+  
+46
+
+|
+
+Peraltro, come rilevato dal sig. Erny senza essere contraddetto dalla Daimler
+in udienza dinanzi alla Corte, l’importo di maggiorazione versato ai
+lavoratori frontalieri come il sig. Erny è soggetto a tassazione in Francia.  
+  
+---|---  
+  
+47
+
+|
+
+Per giustificare l’applicazione di questo metodo di calcolo ai lavoratori
+frontalieri, la Daimler evidenzia le difficoltà amministrative che
+comporterebbe l’applicazione di diversi metodi di calcolo in funzione della
+residenza dell’interessato e le conseguenze finanziarie della mancata presa in
+considerazione dell’imposta sui redditi tedeschi da lavoro.  
+  
+---|---  
+  
+48
+
+|
+
+Orbene, tali obiezioni, relative all’aumento degli oneri finanziari e ad
+eventuali difficoltà amministrative, devono essere respinte. Infatti,
+motivazioni di questo tipo non possono, in ogni caso, giustificare
+l’inosservanza degli obblighi derivanti dal divieto di discriminazione in base
+alla nazionalità enunciato all’articolo 45 TFUE (v., in tal senso,
+segnatamente, sentenza Merida, cit., punto 30), in quanto la natura
+pubblicistica o privatistica delle disposizioni controverse non incide affatto
+sulla portata o sul contenuto di dette giustificazioni (v., in tal senso, in
+particolare, sentenza del 15 dicembre 1995, Bosman, C-415/93, Racc. pag.
+I-4921, punto 86).  
+  
+---|---  
+  
+49
+
+|
+
+La Daimler fa valere inoltre l’autonomia di cui dovrebbero beneficiare le
+parti sociali nell’elaborazione delle condizioni di lavoro.  
+  
+---|---  
+  
+50
+
+|
+
+Tuttavia, sebbene dall’articolo 152, primo comma, TFUE risulta segnatamente
+che l’Unione europea rispetta l’autonomia delle parti sociali, resta il fatto
+che, come enunciato all’articolo 28 della Carta dei diritti fondamentali
+dell’Unione europea, il diritto dei lavoratori e dei datori di lavoro, o delle
+loro rispettive organizzazioni, di negoziare e di concludere contratti
+collettivi, ai livelli appropriati, deve esercitarsi nel rispetto del diritto
+dell’Unione (v, in tal senso, in particolare, sentenza del 13 settembre 2011,
+Prigge e a., C-447/09, Racc. pag. I-8003, punto 47) e, pertanto, del principio
+di non discriminazione.  
+  
+---|---  
+  
+51
+
+|
+
+Infine, è irrilevante la circostanza che i lavoratori che si trovino nella
+situazione del sig. Erny siano stati previamente informati del metodo di
+calcolo dell’importo di maggiorazione da parte del loro datore di lavoro e che
+avrebbero potuto rinunciare al beneficio del regime di lavoro a tempo parziale
+per motivi di età. Il divieto della discriminazione di cui all’articolo 45
+TFUE si applica, come rilevato al punto 36 della presente sentenza, a tutte le
+convenzioni dirette a disciplinare collettivamente il lavoro subordinato e ai
+contratti conclusi tra privati.  
+  
+---|---  
+  
+52
+
+|
+
+Conformemente all’articolo 7, paragrafo 4, del regolamento n. 1612/68, le
+clausole di contratti collettivi o individuali che stabiliscono una
+discriminazione diretta o indiretta a causa della nazionalità sono nulle di
+diritto.  
+  
+---|---  
+  
+53
+
+|
+
+Né l’articolo 45 TFUE né le disposizioni del regolamento n. 1612/68 impongono
+agli Stati membri o a un datore di lavoro privato quale la Daimler un
+provvedimento determinato in caso di violazione del divieto di
+discriminazione. Tali disposizioni lasciano loro la libertà di scegliere fra
+le varie soluzioni atte a conseguire lo scopo che esse rispettivamente
+contemplano, in relazione alle diverse situazioni che possono presentarsi
+(sentenza Raccanelli, cit., punto 50).  
+  
+---|---  
+  
+54
+
+|
+
+Ciò considerato, occorre rispondere alle questioni sollevate dichiarando che
+gli articoli 45 TFUE e 7, paragrafo 4, del regolamento n. 1612/68 ostano a
+clausole di contratti collettivi e individuali in base alle quali un importo
+di maggiorazione di trattamento come quello di cui trattasi nel procedimento
+principale, che è versato dal datore di lavoro nell’ambito di un regime di
+lavoro a tempo parziale per motivi di età, deve essere calcolato in modo tale
+che l’imposta sui redditi da lavoro dovuta nello Stato membro di occupazione
+sia detratta fittiziamente all’atto della determinazione della base di calcolo
+di tale importo di maggiorazione allorché, conformemente ad una convenzione
+fiscale diretta ad evitare le doppie imposizioni, i trattamenti, gli stipendi
+e le retribuzioni analoghi versati ai lavoratori che non risiedono nello Stato
+membro di occupazione sono soggetti a tassazione nello Stato membro di
+residenza di questi ultimi. Ai sensi di detto articolo 7, paragrafo 4,
+clausole siffatte sono nulle di diritto. L’articolo 45 TFUE nonché le
+disposizioni del regolamento n. 1612/68 lasciano agli Stati membri o alle
+parti sociali la libertà di scegliere fra le varie soluzioni atte a conseguire
+lo scopo contemplato rispettivamente da queste disposizioni.  
+  
+---|---  
+  
+Sulle spese
+
+55
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice del rinvio, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Seconda Sezione) dichiara:  
+  
+---|---  
+|
+
+Gli articoli 45 TFUE e 7, paragrafo 4, del regolamento (CEE) n. 1612/68 del
+Consiglio, del 15 ottobre 1968, relativo alla libera circolazione dei
+lavoratori all’interno della Comunità, ostano a clausole di contratti
+collettivi e individuali in base alle quali un importo di maggiorazione di
+trattamento come quello di cui trattasi nel procedimento principale, che è
+versato dal datore di lavoro nell’ambito di un regime di lavoro a tempo
+parziale per motivi di età, deve essere calcolato in modo tale che l’imposta
+sui redditi da lavoro dovuta nello Stato membro di occupazione sia detratta
+fittiziamente all’atto della determinazione della base di calcolo di tale
+importo di maggiorazione allorché, conformemente ad una convenzione fiscale
+diretta ad evitare le doppie imposizioni, i trattamenti, gli stipendi e le
+retribuzioni analoghi versati ai lavoratori che non risiedono nello Stato
+membro di occupazione sono soggetti a tassazione nello Stato membro di
+residenza di questi ultimi. Ai sensi di detto articolo 7, paragrafo 4,
+clausole siffatte sono nulle di diritto. L’articolo 45 TFUE nonché le
+disposizioni del regolamento n. 1612/68 lasciano agli Stati membri o alle
+parti sociali la libertà di scegliere fra le varie soluzioni atte a conseguire
+lo scopo contemplato rispettivamente da queste disposizioni.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il tedesco.
+

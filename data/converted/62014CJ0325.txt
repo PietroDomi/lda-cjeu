@@ -1,0 +1,592 @@
+
+
+SENTENZA DELLA CORTE (Nona Sezione)
+
+19 novembre 2015 ( * )
+
+«Rinvio pregiudiziale — Direttiva 2001/29/CE — Articolo 3, paragrafo 1 —
+Comunicazione al pubblico — Nozioni di “comunicazione” e di “pubblico” —
+Distribuzione di programmi televisivi — Procedimento denominato “immissione
+diretta”»
+
+Nella causa C‑325/14,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dallo Hof van beroep te Brussel (Corte
+d’Appello di Bruxelles, Belgio), con decisione del 17 giugno 2014, pervenuta
+in cancelleria il 7 luglio 2014, nel procedimento
+
+SBS Belgium NV
+
+contro
+
+Belgische Vereniging van Auteurs, Componisten en Uitgevers (SABAM),
+
+LA CORTE (Nona Sezione),
+
+composta da J. Malenovský (relatore), facente funzione di presidente di
+sezione, M. Safjan e K. Jürimäe, giudici,
+
+avvocato generale: N. Wahl
+
+cancelliere: M. Ferreira, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all’udienza del 10 giugno
+2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la SBS Belgium NV, da P. Maeyaert e A. De Bleeckere, advocaten;  
+  
+---|---  
+  
+—
+
+|
+
+per la Belgische Vereniging van Auteurs, Componisten en Uitgevers (SABAM), da
+E. Marissens, avocat;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo francese, da D. Segoin e F.‑X. Bréchot, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo polacco, da B. Majczyna, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da J. Samnadda e F. Wilman, in qualità di agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+3, paragrafo 1, della direttiva 2001/29/CE del Parlamento europeo e del
+Consiglio, del 22 maggio 2001, sull’armonizzazione di taluni aspetti del
+diritto d’autore e dei diritti connessi nella società dell’informazione (GU L
+167, pag. 10).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la SBS
+Belgium NV (in prosieguo: la «SBS») e la Belgische Vereniging van Auteurs,
+Componisten en Uitgevers (SABAM) (Società belga degli autori, compositori ed
+editori) in merito all’obbligo di versamento di un equo compenso per la
+diffusione di programmi mediante la tecnica dell’immissione diretta.  
+  
+---|---  
+  
+Contesto normativo
+
+3
+
+|
+
+I considerando 23 e 27 della direttiva 2001/29 così recitano:
+
+|
+
+«(23)
+
+|
+
+La presente direttiva dovrebbe armonizzare ulteriormente il diritto d’autore
+applicabile alla comunicazione di opere al pubblico. Tale diritto deve essere
+inteso in senso lato in quanto concernente tutte le comunicazioni al pubblico
+non presente nel luogo in cui esse hanno origine. Detto diritto dovrebbe
+comprendere qualsiasi trasmissione o ritrasmissione di un’opera al pubblico,
+su filo o senza filo, inclusa la radiodiffusione, e non altri atti.  
+  
+---|---  
+  
+(...)
+
+(27)
+
+|
+
+La mera fornitura di attrezzature fisiche atte a rendere possibile o ad
+effettuare una comunicazione non costituisce un atto di comunicazione ai sensi
+della presente direttiva».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 3 di tale direttiva, intitolato «Diritto di comunicazione di opere
+al pubblico, compreso il diritto di mettere a disposizione del pubblico altri
+materiali protetti», dispone quanto segue:
+
+«1. Gli Stati membri riconoscono agli autori il diritto esclusivo di
+autorizzare o vietare qualsiasi comunicazione al pubblico, su filo o senza
+filo, delle loro opere, compresa la messa a disposizione del pubblico delle
+loro opere in maniera tale che ciascuno possa avervi accesso dal luogo e nel
+momento scelti individualmente.
+
+(...)
+
+3\. I diritti di cui ai paragrafi 1 e 2 non si esauriscono con alcun atto di
+comunicazione al pubblico o con la loro messa a disposizione del pubblico,
+come indicato nel presente articolo».  
+  
+---|---  
+  
+Procedimento principale e questione pregiudiziale
+
+5
+
+|
+
+La SABAM, società di gestione dei diritti d’autore, rappresenta gli autori
+nella concessione di autorizzazioni per l’uso da parte di terzi delle loro
+opere protette da diritto d’autore e nella riscossione del compenso per tale
+uso.  
+  
+---|---  
+  
+6
+
+|
+
+La SBS è un organismo di diffusione radiotelevisiva commerciale di lingua
+neerlandese che produce e commercializza programmi televisivi. Nel quadro
+delle sue attività di radiodiffusione, la SBS gestisce varie reti televisive
+private commerciali in Belgio. La sua programmazione comprende sia programmi
+di propria produzione, sia programmi acquistati da società di produzione e da
+fornitori di programmi nazionali e esteri.  
+  
+---|---  
+  
+7
+
+|
+
+La SBS trasmette i suoi programmi esclusivamente mediante una tecnica
+denominata «immissione diretta». Si tratta di un processo in due fasi, con il
+quale la SBS trasmette i suoi segnali portatori di programmi ai suoi
+distributori, come la Belgacom, la Telenet e la TV Vlaanderen, mediante una
+linea privata da punto a punto. In tale fase, detti segnali non possono essere
+ricevuti dal grande pubblico. I distributori inviano, successivamente, detti
+segnali, eventualmente in forma criptata, ai loro abbonati affinché questi
+ultimi possano vedere i programmi sui loro apparecchi, se necessario con
+l’aiuto di un decodificatore messo a disposizione dal loro distributore. A
+seconda del distributore interessato, i segnali sono trasmessi via satellite
+per la TV Vlaanderen, via cavo per la Telenet, o via linee xDSL per la
+Belgacom.  
+  
+---|---  
+  
+8
+
+|
+
+La SABAM sostiene che la SBS, in quanto organismo di diffusione
+radiotelevisiva, effettua un atto di comunicazione al pubblico, ai sensi
+dell’articolo 3 della direttiva 2001/29, trasmettendo mediante la tecnica
+dell’immissione diretta. Pertanto, sarebbe necessaria l’autorizzazione dei
+titolari dei diritti d’autore. Essa chiede, a titolo di compenso, il pagamento
+di una determinata somma di denaro.  
+  
+---|---  
+  
+9
+
+|
+
+La SBS contesta tale richiesta. A suo avviso, soltanto i distributori e gli
+altri organismi del medesimo tipo effettuano una comunicazione al pubblico
+rilevante per il diritto d’autore. Essa ritiene, pertanto, di non dover
+corrispondere alcun compenso.  
+  
+---|---  
+  
+10
+
+|
+
+Il rechtbank van koophandel te Brussel (Tribunale commerciale di Bruxelles) ha
+accolto la domanda della SABAM e ha condannato la SBS al pagamento di circa un
+milione di euro a titolo dei diritti d’autore per l’anno 2009.  
+  
+---|---  
+  
+11
+
+|
+
+La SBS ha proposto ricorso avverso la sentenza emessa da tale tribunale
+dinanzi al giudice del rinvio.  
+  
+---|---  
+  
+12
+
+|
+
+In tale contesto, lo Hof van beroep te Brussel (Corte di appello di Bruxelles)
+ha deciso di sospendere il procedimento e di sottoporre alla Corte la seguente
+questione pregiudiziale:  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+13
+
+|
+
+Con la sua questione, il giudice del rinvio chiede, in sostanza, se l’articolo
+3, paragrafo 1, della direttiva 2001/29 debba essere interpretato nel senso
+che un organismo di diffusione radiotelevisiva effettua un atto di
+comunicazione al pubblico, ai sensi di tale disposizione, quando trasmette i
+suoi segnali portatori di programmi esclusivamente ai distributori di segnali,
+senza che detti segnali durante o a seguito di tale trasmissione siano
+accessibili al pubblico, e successivamente tali distributori inviano detti
+segnali ai propri rispettivi abbonati affinché questi ultimi possano guardare
+tali programmi.  
+  
+---|---  
+  
+14
+
+|
+
+Occorre in proposito rilevare che la direttiva 2001/29 persegue quale
+obiettivo principale la realizzazione di un livello elevato di protezione a
+favore degli autori, consentendo ai medesimi di ottenere un adeguato compenso
+per l’utilizzazione delle loro opere, in particolare in occasione di una
+comunicazione al pubblico. Ne consegue che la nozione di «comunicazione al
+pubblico» di cui all’articolo 3, paragrafo 1, di tale direttiva dev’essere
+intesa in senso lato, come del resto espressamente affermato nel considerando
+23 di detta direttiva (sentenza ITV Broadcasting e a., C‑607/11,
+EU:C:2013:147, punto 20 nonché la giurisprudenza ivi citata).  
+  
+---|---  
+  
+15
+
+|
+
+La Corte ha già statuito che la nozione di «comunicazione al pubblico», ai
+sensi dell’articolo 3, paragrafo 1, della direttiva 2001/29, consta di due
+elementi cumulativi, vale a dire «un atto di comunicazione» di un’opera e la
+comunicazione di quest’ultima a un «pubblico» (v. sentenza Svensson e a.,
+C‑466/12, EU:C:2014:76, punto 16).  
+  
+---|---  
+  
+16
+
+|
+
+Per quanto riguarda, in primo luogo, l’«atto di comunicazione», esso
+ricomprende qualsiasi trasmissione delle opere protette, a prescindere dal
+mezzo o dal procedimento tecnico utilizzato (sentenza Football Association
+Premier League e a., C‑403/08 e C‑429/08, EU:C:2011:631, punto 193).  
+  
+---|---  
+  
+17
+
+|
+
+Inoltre, ogni trasmissione o ritrasmissione di un’opera che utilizzi uno
+specifico mezzo tecnico deve essere, in linea di principio, autorizzata
+individualmente dall’autore dell’opera di cui trattasi (sentenza ITV
+Broadcasting e a., C‑607/11, EU:C:2013:147, punto 24).  
+  
+---|---  
+  
+18
+
+|
+
+Nel caso di specie, dalla domanda di pronuncia pregiudiziale emerge che
+l’organismo di diffusione radiotelevisiva di cui al procedimento principale
+trasmette i segnali portatori di programmi a vari distributori di segnali, via
+satellite, via cavo o via linee xDSL e, pertanto, mediante diversi mezzi o
+procedimenti tecnici.  
+  
+---|---  
+  
+19
+
+|
+
+Ne consegue che tali trasmissioni, eventualmente parallele, devono essere
+considerate «atti di comunicazione», ai sensi dell’articolo 3, paragrafo 1,
+della direttiva 2001/29.  
+  
+---|---  
+  
+20
+
+|
+
+In secondo luogo, per rientrare nella nozione di «comunicazione al pubblico»,
+ai sensi dell’articolo 3, paragrafo 1, della direttiva 2001/29, occorre
+ancora, come ricordato al punto 15 di della presente sentenza, che le opere
+protette siano effettivamente comunicate a un «pubblico».  
+  
+---|---  
+  
+21
+
+|
+
+A tal proposito, dalla giurisprudenza della Corte discende che la nozione di
+«pubblico» riguarda un numero indeterminato di destinatari, telespettatori
+potenziali, e comprende, peraltro, un numero di persone piuttosto
+considerevole (v., in tal senso, sentenze SGAE, C‑306/05, EU:C:2006:764, punto
+37 e 38, nonché ITV Broadcasting e a., C‑607/11, EU:C:2013:147, punto 32).  
+  
+---|---  
+  
+22
+
+|
+
+Orbene, in una situazione come quella di cui al procedimento principale e come
+emerge chiaramente dalla questione pregiudiziale, l’organismo di diffusione
+radiotelevisiva in questione trasmette i segnali portatori di programmi a
+singoli distributori determinati senza che i telespettatori potenziali possano
+avervi accesso.  
+  
+---|---  
+  
+23
+
+|
+
+Pertanto, le opere trasmesse dall’organismo di diffusione radiotelevisiva,
+come quello di cui al procedimento principale, non sono comunicate al
+«pubblico», ai sensi dell’articolo 3, paragrafo 1, della direttiva 2001/29,
+bensì a singoli professionisti determinati.  
+  
+---|---  
+  
+24
+
+|
+
+Posto il carattere cumulativo, ricordato al punto 15 della presente sentenza,
+dei due elementi costitutivi di una comunicazione al pubblico, qualora non
+ricorra la condizione secondo cui le opere protette devono essere comunicate a
+un pubblico, le trasmissioni realizzate da un organismo di diffusione
+radiotelevisiva, come quello in questione nel procedimento principale, non
+rientrano, in linea di principio, nella nozione di «comunicazione al
+pubblico», ai sensi dell’articolo 3, paragrafo 1, della direttiva 200/29.  
+  
+---|---  
+  
+25
+
+|
+
+Ciò premesso, non si può escludere, prima facie, che, in determinate
+situazioni, gli abbonati dei distributori, quali quelli di cui trattasi nel
+procedimento principale, possano essere considerati il «pubblico» a cui è
+diretta la trasmissione originaria effettuata dall’organismo di diffusione
+radiotelevisiva.  
+  
+---|---  
+  
+26
+
+|
+
+A tal proposito, è anzitutto pacifico che distributori quali quelli di cui
+alla fattispecie, in ogni caso, non farebbero parte di un tale pubblico,
+diversamente da soggetti come gli alberghi che sono al centro delle cause che
+hanno dato luogo alle sentenze SGAE (C‑306/05, EU:C:2006:764) e Phonographic
+Performance (Ireland) (C‑162/10, EU:C:2012:141).  
+  
+---|---  
+  
+27
+
+|
+
+Ne consegue che gli abbonati che sono destinatari delle trasmissioni
+effettuate dai distributori in questione non possono essere, a priori,
+considerati un pubblico «nuovo» che non è stato interessato dall’atto di
+comunicazione originario effettuato dall’organismo di diffusione
+radiotelevisiva (v., a contrario, sentenza SGAE, C‑306/05, EU:C:2006:764,
+punto 40).  
+  
+---|---  
+  
+28
+
+|
+
+Di conseguenza, nel caso oggetto del procedimento principale, esiste solamente
+un unico «pubblico», ossia quello dell’insieme degli abbonati di ogni singolo
+distributore.  
+  
+---|---  
+  
+29
+
+|
+
+A tal proposito, dalla formulazione della questione, come posta dal giudice
+del rinvio, emerge che solo a seguito dell’intervento dei distributori gli
+abbonati di questi ultimi possono guardare i programmi televisivi.  
+  
+---|---  
+  
+30
+
+|
+
+Orbene, la Corte ha già statuito che la distribuzione di opere radiodiffuse da
+un professionista, come quello in questione nel caso di specie, ai suoi
+abbonati costituisce una prestazione di servizi autonoma svolta al fine di
+trarne un beneficio, dato che il prezzo dell’abbonamento non è versato da
+dette persone all’organismo di diffusione radiotelevisiva, bensì a tale
+professionista, e dato che esso non è dovuto per eventuali prestazioni
+tecniche, bensì per l’accesso alla comunicazione in questione e, quindi, alle
+opere protette (v., per analogia, sentenza Airfield et Canal Digitaal,
+C‑431/09 e C‑432/09, EU:C:2011:648, punto 80).  
+  
+---|---  
+  
+31
+
+|
+
+Una trasmissione effettuata da un professionista, alle condizioni di cui al
+punto precedente della presente sentenza, non costituisce pertanto un semplice
+mezzo tecnico per garantire o migliorare la ricezione dell’emissione
+originaria nella zona di copertura (v., per analogia, sentenza Airfield e
+Canal Digitaal, C‑431/09 e C‑432/09, EU:C:2011:648, punto 79).  
+  
+---|---  
+  
+32
+
+|
+
+Ciò premesso, non può essere escluso che un distributore possa trovarsi in una
+posizione non autonoma rispetto all’organismo di radiodiffusione e che la sua
+prestazione di servizi di distribuzione sia di natura puramente tecnica,
+cosicché il suo intervento costituirebbe un semplice mezzo tecnico ai sensi
+della giurisprudenza della Corte (v., segnatamente, sentenze Football
+Association Premier League e a., C‑403/08 e C‑429/08, EU:C:2011:631, punto
+194, nonché Airfield e Canal Digitaal, C‑431/09 e C‑432/09, EU:C:2011:648,
+punti 74 e 79).  
+  
+---|---  
+  
+33
+
+|
+
+Se così fosse, circostanza che spetta al giudice del rinvio verificare, gli
+abbonati ai distributori in questione potrebbero essere considerati il
+pubblico rilevante per la comunicazione realizzata dall’organismo di
+diffusione radiotelevisiva, con la conseguenza che quest’ultimo effettuerebbe
+una «comunicazione al pubblico».  
+  
+---|---  
+  
+34
+
+|
+
+Alla luce di tutte le considerazioni che precedono, si deve rispondere alla
+questione pregiudiziale dichiarando che l’articolo 3, paragrafo 1, della
+direttiva 2001/29 deve essere interpretato nel senso che un organismo di
+diffusione radiotelevisiva non effettua un atto di comunicazione al pubblico,
+ai sensi di tale disposizione, quando trasmette i suoi segnali portatori di
+programmi esclusivamente ai distributori di segnali, senza che detti segnali
+durante o a seguito di tale trasmissione siano accessibili al pubblico, e
+successivamente tali distributori inviano detti segnali ai propri rispettivi
+abbonati affinché questi possano guardare tali programmi, a meno che
+l’intervento dei distributori in questione costituisca soltanto un semplice
+mezzo tecnico, circostanza che spetta al giudice del rinvio verificare.  
+  
+---|---  
+  
+Sulle spese
+
+35
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Nona Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 3, paragrafo 1, della direttiva 2001/29/CE del Parlamento europeo e
+del Consiglio, del 22 maggio 2001, sull’armonizzazione di taluni aspetti del
+diritto d’autore e dei diritti connessi nella società dell’informazione, deve
+essere interpretato nel senso che un organismo di diffusione radiotelevisiva
+non effettua un atto di comunicazione al pubblico, ai sensi di tale
+disposizione, quando trasmette i suoi segnali portatori di programmi
+esclusivamente ai distributori di segnali, senza che detti segnali durante o a
+seguito di tale trasmissione siano accessibili al pubblico, e successivamente
+tali distributori inviano detti segnali ai propri rispettivi abbonati affinché
+questi possano guardare tali programmi, a meno che l’intervento dei
+distributori in questione costituisca soltanto un semplice mezzo tecnico,
+circostanza che spetta al giudice del rinvio verificare.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il neerlandese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

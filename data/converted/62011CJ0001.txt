@@ -1,0 +1,908 @@
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+29 marzo 2012 ( *1 )
+
+«Ambiente — Regolamento (CE) n. 1013/2006 — Articolo 18, paragrafi 1 e 4 —
+Spedizioni di determinati rifiuti — Articolo 3, paragrafo 2 — Informazioni
+obbligatorie — Identità del produttore di rifiuti — Omessa indicazione da
+parte dell’intermediario di commercio — Tutela dei segreti commerciali»
+
+Nella causa C-1/11,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’art. 267 TFUE, dal Verwaltungsgericht Mainz (Germania), con
+decisione del 26 novembre 2010, pervenuta in cancelleria il 3 gennaio 2011,
+nel procedimento
+
+Interseroh Scrap and Metals Trading GmbH
+
+contro
+
+Sonderabfall-Management-Gesellschaft Rheinland-Pfalz mbH (SAM),
+
+LA CORTE (Quarta Sezione),
+
+composta dal sig. J.-C. Bonichot, presidente di Sezione, dalla sig.ra A.
+Prechal, dai sigg. K. Schiemann (relatore), L. Bay Larsen e dalla sig.ra C.
+Toader, giudici,
+
+avvocato generale: sig. Y. Bot
+
+cancelliere: sig.ra A. Impellizzeri, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 26 ottobre
+2011,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per Interseroh Scrap and Metal Trading GmbH, da A. Oexle, Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per Sonderabfall-Management-Gesellschaft Rheinland-Pfalz mbH (SAM), da C. v.
+der Lühe, Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo belga, da M. Jacobs e T. Materne, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo austriaco, da C. Pesendorfer, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo portoghese, da L. Fernandes e M. João Lois, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da G. Wilms e A. Marghelis, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza dell’8
+dicembre 2011,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+18 del regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio,
+del 14 giugno 2006, relativo alle spedizioni di rifiuti (GU L 190, pag. 1),
+come modificato dal regolamento (CE) n. 308/2009 della Commissione, del 15
+aprile 2009 (GU L 97, pag. 8; in prosieguo: il «regolamento n. 1013/2006»).  
+  
+---|---  
+  
+2
+
+|
+
+Questa domanda è stata presentata nell’ambito di un ricorso proposto dalla
+Interseroh Scrap and Metals Trading GmbH (in prosieguo: la «Interseroh»),
+specializzata nel commercio di rifiuti in acciaio e metallo, avverso la
+Sonderabfall-Management-Gesellschaft Rheinland-Pfalz mbH (SAM) (in prosieguo:
+la «SAM»), incaricata dal Land della Renania-Palatinato, in particolare, della
+sorveglianza sul flusso di rifiuti speciali in detto Land, in merito alle
+indicazioni che devono comparire nel documento menzionato nell’allegato VII al
+regolamento n. 1013/2006 (in prosieguo: il «documento di spedizione»).  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+Il settimo considerando del regolamento n. 1013/2006 ricorda che è importante
+organizzare e disciplinare la sorveglianza e il controllo delle spedizioni di
+rifiuti secondo modalità che tengano conto della necessità di preservare,
+proteggere e migliorare la qualità dell’ambiente e della salute umana e che
+favoriscano una più uniforme applicazione di detto regolamento in tutto il
+territorio dell’Unione europea.  
+  
+---|---  
+  
+4
+
+|
+
+Ai sensi del quindicesimo considerando del regolamento n. 1013/2006, nel caso
+di spedizioni di rifiuti elencati negli allegati III, III A o III B a detto
+regolamento, destinati a operazioni di recupero, è opportuno garantire un
+livello minimo di sorveglianza e di controllo, imponendo l’obbligo che tali
+spedizioni siano accompagnate da determinate informazioni.  
+  
+---|---  
+  
+5
+
+|
+
+Ai sensi dell’articolo 1, paragrafo 1, del regolamento n. 1013/2006,
+quest’ultimo istituisce le procedure e i regimi di controllo per le spedizioni
+di rifiuti in funzione dell’origine, della destinazione e dell’itinerario di
+spedizione, del tipo di rifiuti spediti e del tipo di trattamento da applicare
+ai rifiuti nel luogo di destinazione.  
+  
+---|---  
+  
+6
+
+|
+
+Dall’articolo 3, paragrafo 2, lettera a), del regolamento n. 1013/2006 risulta
+che le spedizioni di rifiuti destinati ad essere recuperati, indicati negli
+allegati III o III B a detto regolamento, sono soggette agli obblighi generali
+di informazione di cui all’articolo 18 del medesimo regolamento se il
+quantitativo di rifiuti spediti supera kg 20.  
+  
+---|---  
+  
+7
+
+|
+
+L’allegato III al regolamento n. 1013/2006 comprende, nel sottotitolo «Elenco
+verde», in particolare i rifiuti elencati nell’allegato IX alla convenzione
+sul controllo dei movimenti transfrontalieri di rifiuti pericolosi e del loro
+smaltimento, siglata a Basilea il 22 marzo 1989, approvata a nome della
+Comunità con decisione 93/98/CEE del Consiglio, del 1o febbraio 1993 (GU L 39,
+pag. 1; in prosieguo: la «convenzione di Basilea»).  
+  
+---|---  
+  
+8
+
+|
+
+L’allegato IX alla convenzione di Basilea precisa che i rifiuti contenuti in
+detto allegato non sono coperti, in linea di principio, dall’articolo 1,
+paragrafo 1, lettera a), di detta convenzione, e pertanto non sono
+considerati, in linea di principio, come «rifiuti pericolosi» ai sensi della
+citata convenzione.  
+  
+---|---  
+  
+9
+
+|
+
+Con il codice B 1010 nel citato allegato IX compaiono i «Rifiuti di metalli e
+le loro leghe sotto forma metallica, non dispersibile», in particolare rottami
+di ferro e acciaio, cromo, rame, nichel, alluminio, zinco e stagno.  
+  
+---|---  
+  
+10
+
+|
+
+L’articolo 18 del regolamento n. 1013/2006, intitolato «Rifiuti che devono
+essere accompagnati da determinate informazioni», prevede quanto segue:
+
+«1. I rifiuti di cui all’articolo 3, paragrafi 2 e 4, destinati ad essere
+spediti, sono soggetti ai seguenti obblighi procedurali:
+
+|
+
+a)
+
+|
+
+per facilitare il monitoraggio delle spedizioni di tali rifiuti, il soggetto
+posto sotto la giurisdizione del paese di spedizione che organizza la
+spedizione assicura che i rifiuti siano accompagnati dal documento contenuto
+nell’allegato VII;  
+  
+---|---  
+  
+b)
+
+|
+
+il documento contenuto nell’allegato VII è firmato dal soggetto che organizza
+la spedizione prima che questa abbia luogo e dall’impianto di recupero o dal
+laboratorio e dal destinatario al momento del ricevimento dei rifiuti in
+questione.  
+  
+---|---  
+  
+2\. Il contratto di cui all’allegato VII tra il soggetto che organizza la
+spedizione e il destinatario incaricato del recupero dei rifiuti acquista
+efficacia quando la spedizione ha inizio e comprende l’obbligo, qualora la
+spedizione dei rifiuti, o il loro recupero, non possa essere completata come
+previsto o qualora sia stata effettuata come spedizione illegale, per il
+soggetto che organizza la spedizione o, qualora quest’ultimo non sia in grado
+di completare la spedizione dei rifiuti o il loro recupero (ad esempio, perché
+insolvente), per il destinatario, di:
+
+a)
+
+|
+
+riprendere i rifiuti o assicurarne il recupero in modo alternativo, e  
+  
+---|---  
+  
+b)
+
+|
+
+provvedere, se necessario, al deposito dei rifiuti nel frattempo.  
+  
+---|---  
+  
+Il soggetto che organizza la spedizione o il destinatario fornisce copia del
+contratto su richiesta dell’autorità competente interessata.
+
+3\. A fini di ispezione, di controllo dell’applicazione, di programmazione e
+di statistica, gli Stati membri possono, conformemente alla legislazione
+nazionale, chiedere informazioni di cui al paragrafo 1 sulle spedizioni
+contemplate dal presente articolo.
+
+4\. Le informazioni di cui al paragrafo 1 sono soggette ai vincoli di
+riservatezza eventualmente previsti dalla normativa comunitaria e nazionale».  
+  
+11
+
+|
+
+L’articolo 20, paragrafo 2, del regolamento n. 1013/2006 impone, in
+particolare, al soggetto che organizza la spedizione e al destinatario della
+medesima di conservare le informazioni di cui all’articolo 18, paragrafo 1, di
+detto regolamento per almeno tre anni dalla data in cui ha inizio la
+spedizione.  
+  
+---|---  
+  
+12
+
+|
+
+Il documento di spedizione contenuto nell’allegato VII al regolamento n.
+1013/2006 è così strutturato:  
+  
+---|---  
+  
+Il diritto nazionale
+
+13
+
+|
+
+Secondo le informazioni trasmesse alla Corte dal Verwaltungsgericht Mainz, la
+Costituzione della Repubblica federale di Germania (Grundgesetz für die
+Bundesrepublik Deutschland; in prosieguo: la «Costituzione tedesca»)
+garantisce la tutela dei segreti commerciali in forza del combinato disposto
+dei suoi articoli 12, in materia di libero esercizio dell’attività
+professionale, e 14, in materia di diritto di proprietà. Secondo la
+giurisprudenza del Bundesverfassungsgericht (Corte costituzionale tedesca), le
+fonti di approvvigionamento di un’impresa costituiscono per di più segreti
+commerciali, che beneficiano della tutela dei diritti fondamentali.  
+  
+---|---  
+  
+Causa principale e questioni pregiudiziali
+
+14
+
+|
+
+L’Interseroh è una controllata della società Interseroh SE, una delle più
+importanti imprese in Europa specializzata nella raccolta, trattamento e
+commercio di materie prime secondarie, ossia ferraglia, rifiuti di carta e di
+plastica e legno di scarto. L’Interseroh SE dà lavoro a circa 2000
+collaboratori presso un centinaio di siti sparsi in tredici paesi.  
+  
+---|---  
+  
+15
+
+|
+
+L’Interseroh, in qualità di commerciante, garantisce la consegna di qualsiasi
+quantitativo richiesto di rifiuti metallici di diversa qualità ai propri
+clienti, che sono acciaierie, fonderie e industrie metallurgiche.  
+  
+---|---  
+  
+16
+
+|
+
+In questa cornice, l’Interseroh svolge la propria attività esclusivamente in
+qualità di «intermediario di commercio» («Streckenhändlerin»). La
+caratteristica di questa specifica forma di commercio è che il negoziante
+acquista la merce presso il produttore o il raccoglitore e la rivende senza
+entrare esso stesso fisicamente in possesso della medesima. I rapporti
+contrattuali si stringono solo, da un lato, tra il negoziante e il produttore
+e, dall’altro, tra il negoziante e il destinatario.  
+  
+---|---  
+  
+17
+
+|
+
+Le tipologie di metalli commerciate dall’Interseroh sono state considerate
+«rifiuti» rientranti nel codice B 1010 della convenzione di Basilea menzionato
+nell’allegato IX a detta convenzione e, di conseguenza, nell’elenco «verde»
+dei rifiuti stilato nell’allegato III al regolamento n. 1013/2006. Di
+conseguenza, il loro trasporto transfrontaliero era soggetto agli obblighi di
+informazione previsti dall’articolo 18 di detto regolamento.  
+  
+---|---  
+  
+18
+
+|
+
+Secondo la SAM, il soggetto che organizza la spedizione, nel caso di specie
+l’Interseroh, ha l’obbligo, conformemente all’articolo 18, paragrafo 1,
+lettera a), del regolamento n. 1013/2006, di curare che i rifiuti siano
+accompagnati dal documento di spedizione durante il loro trasporto. Ai sensi
+degli articoli 18, paragrafo 1, lettera b), e 20, paragrafo 2, del regolamento
+n. 1013/2006, questo documento deve essere sottoscritto e conservato per
+almeno tre anni dal destinatario della spedizione.  
+  
+---|---  
+  
+19
+
+|
+
+Una conseguenza concreta di questa interpretazione è che un commerciante nella
+posizione dell’Interseroh ha l’obbligo, alla luce dei dati che devono
+comparire nel riquadro 6 di detto documento, di svelare ai propri clienti le
+sue fonti di approvvigionamento, e detti clienti hanno la possibilità, di
+conseguenza, di mettersi direttamente in contatto con il produttore o il
+raccoglitore dei rifiuti e di concludere i contratti successivi, facendo a
+meno della prestazione dell’intermediario di commercio.  
+  
+---|---  
+  
+20
+
+|
+
+L’Interseroh ritiene che l’obbligo di svelare ai propri clienti le sue fonti
+di approvvigionamento violi il proprio diritto alla tutela dei suoi segreti
+commerciali e ostacoli seriamente l’esercizio della sua attività economica di
+intermediaria di commercio. Inoltre, quest’obbligo le provocherebbe un danno
+patrimoniale, poiché le informazioni riguardanti le sue fonti di
+approvvigionamento costituirebbero una parte rilevante del suo bagaglio
+professionale e del valore della sua impresa. Infine, l’Interseroh avrebbe già
+perduto numerosi clienti a causa dell’obbligo di rivelare le sue fonti di
+approvvigionamento.  
+  
+---|---  
+  
+21
+
+|
+
+L’Interseroh, di conseguenza, ha deciso di indicare il proprio nome al posto
+di quello del produttore o del raccoglitore nel riquadro 6 del documento di
+spedizione o di non riempirlo più, in occasione di numerose operazioni di
+trasporto di rifiuti. Ebbene, siccome il vero produttore o raccoglitore
+risulta dalle bolle di consegna e pesatura, che devono accompagnare anch’esse
+il trasporto dei rifiuti ed essere presentate in caso di controllo, a carico
+dell’amministratore dell’Interseroh sono state avviate alcune procedure di
+contravvenzione a causa della manifesta contraddizione tra, da un lato, le
+bolle di consegna e pesatura e, dall’altro, il riquadro 6 del documento di
+spedizione.  
+  
+---|---  
+  
+22
+
+|
+
+Ciò è quanto avvenuto, in particolare, in occasione di un controllo stradale
+il 7 maggio 2009 sull’autostrada A3 nei pressi di Montabaur. Con decisione del
+5 agosto 2009, la SAM ha inflitto pertanto all’amministratore dell’Interseroh
+un’ammenda di importo pari a EUR 150. A seguito di un reclamo avverso detta
+decisione, il procedimento è attualmente pendente dinanzi alla
+Staatsanwaltschaft Mainz (procura della repubblica di Magonza).  
+  
+---|---  
+  
+23
+
+|
+
+Di conseguenza, il 18 dicembre 2009 l’Interseroh ha proposto ricorso dinanzi
+al giudice del rinvio al fine di far dichiarare che, in qualità di
+intermediario di commercio, essa non è obbligata ad indicare l’identità del
+produttore dei rifiuti nel riquadro 6 del documento di spedizione.  
+  
+---|---  
+  
+24
+
+|
+
+Il giudice del rinvio ritiene che il trattamento riservato delle informazioni
+relative al produttore di rifiuti sia imposto, in linea di principio, dalla
+Costituzione tedesca, in applicazione del combinato disposto degli articoli 12
+e 14 di quest’ultima, dal momento che è generalmente riconosciuto che le fonti
+di approvvigionamento di un’impresa costituiscono segreti commerciali che
+godono della tutela dei diritti fondamentali.  
+  
+---|---  
+  
+25
+
+|
+
+In tale contesto il Verwaltungsgericht Mainz ha deciso di sospendere il
+procedimento e di sottoporre alla Corte le seguenti questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se l’articolo 18, paragrafo 4, del regolamento [n. 1013/2006] sia applicabile
+anche ai soggetti coinvolti nella spedizione.  
+  
+---|---  
+  
+2)
+
+|
+
+In caso di risposta negativa: se l’articolo 18, paragrafo 1, del citato
+regolamento trovi un limite nel diritto comunitario primario relativo alla
+tutela dei segreti commerciali.  
+  
+---|---  
+  
+3)
+
+|
+
+Nel caso in cui la prima questione sia risolta affermativamente: se, mediante
+l’articolo 18, paragrafo 4, del suddetto regolamento, l’obbligo incombente ai
+soggetti che organizzano la spedizione di cui all’articolo 18, paragrafo 1, di
+indicare mediante il documento contenuto nell’allegato VII il produttore o il
+raccoglitore dei rifiuti anche al destinatario, trovi un limite nella tutela
+dei segreti commerciali.  
+  
+---|---  
+  
+4)
+
+|
+
+Nel caso in cui la terza questione sia risolta affermativamente: se
+l’intensità della limitazione dipenda da una ponderazione fra beni caso per
+caso (interessi commerciali coinvolti, da un lato, e tutela dell’ambiente,
+dall’altro)».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+26
+
+|
+
+Il giudice del rinvio parte dal dato di fatto che l’articolo 18, paragrafo 1,
+del regolamento n. 1013/2006 obbliga in linea di principio il soggetto che
+organizza una spedizione di rifiuti disciplinata da tale disposizione a
+compilare il documento di spedizione integralmente e a trasmetterlo al
+destinatario della spedizione, perché sia sottoscritto e conservato.
+Quest’obbligo comporterebbe la rivelazione dell’identità del produttore di
+rifiuti al destinatario del trasferimento, con le conseguenze potenzialmente
+dannose per un intermediario di commercio nella posizione dell’Interseroh,
+quali descritte nei punti 20 e 21 della presente sentenza.  
+  
+---|---  
+  
+27
+
+|
+
+Il giudice del rinvio si chiede, in tale contesto, se un intermediario di
+commercio quale la ricorrente, che organizza spedizioni di rifiuti, possa
+validamente avvalersi o dell’articolo 18, paragrafo 4, del regolamento n.
+1013/2006, che consente un trattamento riservato dei dati in determinate
+circostanze, oppure, in alternativa, di un principio generale del diritto
+dell’Unione quale il principio della tutela del segreto commerciale, al fine
+di evitare di divulgare l’identità del produttore di rifiuti al destinatario
+della spedizione mediante il documento di spedizione.  
+  
+---|---  
+  
+28
+
+|
+
+Dalla domanda di pronuncia pregiudiziale nonché dalle osservazioni presentate
+alla Corte si evince che la totalità dei trasferimenti in questione nel
+procedimento principale riguarda materie prime quali metalli di diversa
+qualità, acquistati e rivenduti dal mediatore, i quali costituiscono rifiuti
+rientranti nell’elenco «verde» concernente i rifiuti che non presentano
+pericoli.  
+  
+---|---  
+  
+Sulle questioni prima, terza e quarta
+
+29
+
+|
+
+Con le sue questioni prima, terza e quarta, che occorre esaminare
+congiuntamente, il giudice del rinvio chiede sostanzialmente se l’articolo 18,
+paragrafo 4, del regolamento n. 1013/2006 debba essere interpretato nel senso
+che consente a un intermediario di commercio, che organizza una spedizione di
+rifiuti, di non divulgare l’identità del produttore dei medesimi al
+destinatario della spedizione quando l’omissione di tale divulgazione sia
+necessaria alla tutela dei segreti commerciali dell’intermediario.  
+  
+---|---  
+  
+30
+
+|
+
+L’articolo 18, paragrafo 4, del regolamento n. 1013/2006 dispone che le
+informazioni di cui al paragrafo 1 di tale articolo, ossia quelle contenute
+nel documento di spedizione, sono soggette ai vincoli di riservatezza quando
+ciò è previsto dalle normative comunitaria e nazionale.  
+  
+---|---  
+  
+31
+
+|
+
+Per quanto concerne l’identità dei soggetti che possono essere vincolati al
+rispetto degli obblighi di riservatezza cui fa rinvio l’articolo 18, paragrafo
+4, del regolamento n. 1013/2006, da un’interpretazione letterale e sistematica
+di detta disposizione risulta che gli obblighi di riservatezza ai quali
+quest’ultima fa rinvio possono gravare su qualsiasi soggetto in possesso delle
+informazioni in questione, comprese sia le autorità del luogo di spedizione e
+di destinazione che tutte le persone fisiche o giuridiche che partecipano alla
+spedizione di rifiuti.  
+  
+---|---  
+  
+32
+
+|
+
+Infatti, il disposto dell’articolo 18, paragrafo 4, del regolamento n.
+1013/2006 non fa nessuna distinzione tra le persone che possono detenere le
+informazioni in questione e non effettua, in particolare, nessun rinvio
+all’articolo 18, paragrafo 3, del regolamento n. 1013/2006, il quale riguarda
+specificamente le pubbliche autorità.  
+  
+---|---  
+  
+33
+
+|
+
+Tuttavia, dall’articolo 18 del regolamento n. 1013/2006 si deduce parimenti
+che gli obblighi di riservatezza ai quali fa riferimento l’articolo 18,
+paragrafo 4, non possono essere opposti alla comunicazione, tra le imprese che
+partecipano all’operazione di spedizione, delle informazioni menzionate
+dall’allegato VII a tale regolamento.  
+  
+---|---  
+  
+34
+
+|
+
+Da una parte, l’articolo 18, paragrafo 1, lettera a), del regolamento n.
+1013/2006 prevede la predisposizione di un documento di spedizione che deve
+obbligatoriamente accompagnare qualsiasi spedizione di rifiuti soggetta a
+detta disposizione. L’organizzatore di una spedizione di tal genere è pertanto
+obbligato a compilare, in particolare, il riquadro 6 del documento di
+spedizione, di cui all’allegato VII a detto regolamento, dove deve indicare il
+nome del produttore di rifiuti.  
+  
+---|---  
+  
+35
+
+|
+
+Dall’altra, l’articolo 18, paragrafo 1, lettera b), del regolamento n.
+1013/2006 dispone che il documento di spedizione dev’essere sottoscritto dal
+soggetto che organizza la spedizione di rifiuti e dal destinatario della
+medesima, mentre l’articolo 20, paragrafo 2, del citato regolamento impone ai
+due medesimi soggetti di conservare le informazioni indicate dall’articolo 18,
+paragrafo 1, di detto regolamento per almeno tre anni dalla data in cui ha
+inizio la spedizione.  
+  
+---|---  
+  
+36
+
+|
+
+Queste disposizioni implicano necessariamente, come conseguenza, che il
+destinatario del trasferimento ottenga la totalità delle informazioni
+contenute nel documento di spedizione e pertanto, in particolare, possa
+arrivare a conoscere l’identità del produttore di rifiuti, il quale è
+identificato, come impone l’allegato VII al medesimo regolamento, nel riquadro
+6 di detto documento.  
+  
+---|---  
+  
+37
+
+|
+
+Un obbligo eventuale di trattamento riservato in applicazione dell’articolo
+18, paragrafo 4, del regolamento n. 1013/2006 non può incidere a questo
+riguardo, dato che, come sostanzialmente sottolineato dall’avvocato generale
+nel paragrafo 50 delle sue conclusioni, il problema di un trattamento
+riservato delle informazioni contenute nel documento di spedizione sorge solo
+successivamente alla predisposizione e comunicazione di detto documento.
+L’articolo 18, paragrafo 4, del regolamento n. 1013/2006 può applicarsi solo
+se le informazioni sono state effettivamente riportate previamente sul
+documento di spedizione, conformemente a quanto prescritto dal combinato
+disposto dell’articolo 18, paragrafo 1, e dell’allegato VII a questo
+regolamento.  
+  
+---|---  
+  
+38
+
+|
+
+Pertanto, come rilevato anche dall’avvocato generale nel paragrafo 64 delle
+sue conclusioni, la portata di siffatti obblighi di riservatezza è
+necessariamente limitata ai rapporti che si instaurano tra i soggetti terzi
+rispetto alla spedizione e quelli che possono accedere al documento di
+spedizione, ossia le competenti autorità amministrative e i soggetti che
+partecipano a detta spedizione.  
+  
+---|---  
+  
+39
+
+|
+
+Quest’interpretazione è corroborata dal disposto dell’articolo 18, paragrafo
+4, del regolamento n. 1013/2006, che fa espresso riferimento ai «vincoli di
+riservatezza» delle informazioni menzionate nel documento di spedizione, e non
+a un’ipotetica deroga all’obbligo di inserire tutte le indicazioni richieste
+nel documento di spedizione. Essa è parimenti supportata dalla nota in calce
+alla pagina 3 dell’allegato VII a detto regolamento, che specifica che se la
+persona che organizza la spedizione non è il produttore o il raccoglitore,
+occorre fornire informazioni in merito all’uno o all’altro di essi.  
+  
+---|---  
+  
+40
+
+|
+
+Di conseguenza, occorre risolvere le questioni prima, terza e quarta
+dichiarando che l’articolo 18, paragrafo 4, del regolamento n. 1013/2006
+dev’essere interpretato nel senso che non consente a un intermediario di
+commercio, che organizza una spedizione di rifiuti, di non divulgare
+l’identità del produttore dei medesimi al destinatario della spedizione, come
+previsto dal combinato disposto dell’articolo 18, paragrafo 1, e dell’allegato
+VII a detto regolamento, nemmeno quando l’omissione di tale divulgazione sia
+necessaria alla tutela dei segreti commerciali dell’intermediario.  
+  
+---|---  
+  
+Sulla seconda questione
+
+41
+
+|
+
+La seconda questione è proposta solo per l’ipotesi in cui l’articolo 18,
+paragrafo 4, del regolamento n. 1013/2006 non consenta a un intermediario di
+commercio, che organizza una spedizione di rifiuti, di evitare di divulgare
+l’identità del produttore di rifiuti al destinatario della spedizione. Il
+giudice del rinvio rileva che la Costituzione tedesca garantisce, come
+illustrato nel punto 13 della presente sentenza, la tutela dei segreti
+commerciali, la quale vale, in particolare, per le fonti di approvvigionamento
+di un’impresa. Non esisterebbero norme nazionali applicabili che consentano di
+restringere i diritti fondamentali in questione. Il giudice del rinvio si
+chiede, in questo contesto, se i segreti commerciali godano di una tutela a
+livello di diritto primario dell’ordinamento giuridico dell’Unione che possa
+limitare la portata dell’articolo 18, paragrafo 1, del regolamento n.
+1013/2006.  
+  
+---|---  
+  
+42
+
+|
+
+Di conseguenza occorre ritenere che, con la sua questione, il giudice del
+rinvio chiede in sostanza se l’articolo 18, paragrafo 1, del regolamento n.
+1013/2006 debba essere interpretato nel senso che obbliga, nel contesto di una
+spedizione di rifiuti disciplinata da tale disposizione, un intermediario di
+commercio a compilare il riquadro 6 del documento di spedizione e a
+trasmettere quest’ultimo al destinatario, senza che la portata di
+quest’obbligo possa essere compressa in forza di un diritto alla tutela dei
+segreti commerciali.  
+  
+---|---  
+  
+43
+
+|
+
+A questo proposito, gli articoli 15, paragrafo 1, 16 e 17 della Carta dei
+diritti fondamentali dell’Unione europea sanciscono, rispettivamente, il
+diritto di lavorare e di svolgere una professione liberamente scelta o
+accettata, la libertà di impresa e il diritto di proprietà. Inoltre, sia il
+libero esercizio dell’attività professionale sia il diritto di proprietà fanno
+parte, per giurisprudenza consolidata, dei principi generali del diritto
+dell’Unione (v. sentenze del 5 ottobre 1994, Germania/Consiglio, C-280/93,
+Racc. pag. I-4973, punto 78; del 10 luglio 2003, Booker Aquaculture e Hydro
+Seafood, C-20/00 e C-64/00, Racc. pag. I-7411, punto 68; del 12 luglio 2005,
+Alliance for Natural Health e a., C-154/04 e C-155/04, Racc. pag. I-6451,
+punto 126, nonché del 6 dicembre 2005, ABNA e a., C-453/03, C-11/04, C-12/04 e
+C-194/04, Racc. pag. I-10423, punto 87). Peraltro, la tutela dei segreti
+commerciali costituisce, come risulta parimenti da una giurisprudenza
+costante, un principio generale del diritto dell’Unione (v. sentenza del 14
+febbraio 2008, Varec, C-450/06, Racc. pag. I-581, punto 49 e giurisprudenza
+ivi citata).  
+  
+---|---  
+  
+44
+
+|
+
+Tuttavia occorre rilevare che, anche ipotizzando che l’obbligo di rivelare
+l’identità del produttore di rifiuti al destinatario di una spedizione di
+rifiuti costituisca una violazione della tutela dei segreti commerciali degli
+intermediari di commercio, una siffatta constatazione non può avere come
+conseguenza la restrizione della portata di una disposizione del diritto
+secondario chiara e incondizionata.  
+  
+---|---  
+  
+45
+
+|
+
+Orbene, come illustrato nei punti 33-40 della presente sentenza, la procedura
+di controllo amministrativo prevista dall’articolo 18 del regolamento n.
+1013/2006 porta necessariamente alla conseguenza che il destinatario della
+spedizione conoscerà l’identità del produttore di rifiuti, e che nessuna
+deroga può essere dedotta dal testo di questo regolamento.  
+  
+---|---  
+  
+46
+
+|
+
+Alla luce di ciò, una lesione ingiustificata della tutela dei segreti
+commerciali, anche ipotizzando che possa essere dimostrata, sarebbe tale non
+da limitare la portata dell’articolo 18 del regolamento n. 1013/2006, bensì da
+rimettere in discussione la validità di questa disposizione. Ebbene, il
+giudice nazionale non ha interrogato la Corte in merito alla validità
+dell’articolo 18 del regolamento n. 1013/2006, né formulato dubbi a tale
+riguardo, e la Corte non dispone di elementi materiali sufficienti per poter
+valutare la validità di detta disposizione.  
+  
+---|---  
+  
+47
+
+|
+
+Di conseguenza, occorre risolvere la seconda questione dichiarando che
+l’articolo 18, paragrafo 1, del regolamento n. 1013/2006 dev’essere
+interpretato nel senso che obbliga, nel contesto di una spedizione di rifiuti
+disciplinata da tale disposizione, un intermediario di commercio a compilare
+il riquadro 6 del documento di spedizione e a trasmettere quest’ultimo al
+destinatario, senza che la portata di quest’obbligo possa essere compressa in
+forza di un diritto alla tutela dei segreti commerciali.  
+  
+---|---  
+  
+Sulle spese
+
+48
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 18, paragrafo 4, del regolamento (CE) n. 1013/2006 del Parlamento
+europeo e del Consiglio, del 14 giugno 2006, relativo alle spedizioni di
+rifiuti, come modificato dal regolamento (CE) n. 308/2009 della Commissione,
+del 15 aprile 2009, dev’essere interpretato nel senso che non consente a un
+intermediario di commercio, che organizza una spedizione di rifiuti, di non
+divulgare l’identità del produttore dei medesimi al destinatario della
+spedizione, come previsto dal combinato disposto dell’articolo 18, paragrafo
+1, e dell’allegato VII a detto regolamento, nemmeno quando l’omissione di tale
+divulgazione sia necessaria alla tutela dei segreti commerciali
+dell’intermediario.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 18, paragrafo 1, del regolamento n. 1013/2006, quale modificato dal
+regolamento n. 308/2009, dev’essere interpretato nel senso che obbliga, nel
+contesto di una spedizione di rifiuti disciplinata da tale disposizione, un
+intermediario di commercio a compilare il riquadro 6 del documento che compare
+nell’allegato VII al regolamento n. 1013/2006, quale modificato dal
+regolamento n. 308/2009, e a trasmettere quest’ultimo al destinatario, senza
+che la portata di quest’obbligo possa essere compressa in forza di un diritto
+alla tutela dei segreti commerciali.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il tedesco.
+

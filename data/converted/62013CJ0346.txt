@@ -1,0 +1,464 @@
+
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+6 ottobre 2015 ( * )
+
+«Rinvio pregiudiziale — Reti e servizi di comunicazione elettronica —
+Direttiva 2002/20/CE — Articolo 13 — Contributo per la concessione di diritti
+di installare strutture — Ambito di applicazione — Normativa comunale che
+assoggetta al pagamento di un’imposta i proprietari di piloni e di tralicci di
+diffusione per la telefonia mobile»
+
+Nella causa C‑346/13,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dalla cour d’appel de Mons (Belgio), con
+decisione del 7 giugno 2013, pervenuta in cancelleria il 25 giugno 2013, nel
+procedimento
+
+Ville de Mons
+
+contro
+
+Base Company SA, già KPN Group Belgium SA,
+
+LA CORTE (Terza Sezione),
+
+composta da M. Ilešič, presidente di sezione, A. Ó Caoimh, C. Toader, E.
+Jarašiūnas (relatore) e C. G. Fernlund, giudici,
+
+avvocato generale: N. Wahl
+
+cancelliere: C. Strömholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 13 maggio
+2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Ville de Mons, da N. Fortemps, avocate;  
+  
+---|---  
+  
+—
+
+|
+
+per Base Company SA, già KPN SA, da A. Verheyden, S. Champagne e M. Derijke,
+avocats;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo belga, da J. Van Holm, in qualità di agente, assistita da J.
+Bourtembourg, avocat;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da J. Hottiaux e L. Nicolae, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza dell’8
+luglio 2015,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+13 della direttiva 2002/20/CE del Parlamento europeo e del Consiglio, del 7
+marzo 2002, relativa alle autorizzazioni per le reti e i servizi di
+comunicazione elettronica (direttiva autorizzazioni) (GU L 180, pag. 21).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la Base
+Company SA, già KNP Group Belgium SA (in prosieguo: «Base Company»), e la
+Ville de Mons (città di Mons) riguardo ad un’imposta sui piloni e i tralicci
+di diffusione per la telefonia mobile installati nel territorio della predetta
+città.  
+  
+---|---  
+  
+Contesto normativo
+
+Diritto dell’Unione
+
+3
+
+|
+
+L’articolo 1 della direttiva autorizzazioni, rubricato «Finalità e ambito di
+applicazione», al suo paragrafo 2, dispone quanto segue:
+
+«La presente direttiva si applica alle autorizzazioni per la fornitura di reti
+e servizi di comunicazione elettronica».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 2, paragrafo 2, lettera a), della direttiva in parola fornisce la
+seguente definizione:
+
+«per “autorizzazione generale” si intende il quadro normativo istituito dallo
+Stato membro che garantisce i diritti alla fornitura di reti o di servizi di
+comunicazione elettronica e stabilisce obblighi specifici per il settore
+applicabili a tutti i tipi o a tipi specifici di servizi e di reti di
+comunicazione elettronica, conformemente alla presente direttiva».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 13 della menzionata direttiva, rubricato «Contributi per la
+concessione di diritti d’uso e di diritti di installare strutture», è così
+formulato:
+
+«Gli Stati membri possono consentire all’autorità competente di riscuotere
+contributi sui diritti d’uso delle frequenze radio o dei numeri o sui diritti
+di installare strutture su proprietà pubbliche o private, al di sopra o sotto
+di esse al fine di garantire l’impiego ottimale di tali risorse. Gli Stati
+membri fanno sì che tali contributi siano trasparenti, obiettivamente
+giustificati, proporzionati allo scopo perseguito e non discriminatori e
+tengano conto degli obiettivi dell’articolo 8 della direttiva [2002/21/CE del
+Parlamento europeo e del Consiglio, del 7 marzo 2002, che istituisce un quadro
+normativo comune per le reti ed i servizi di comunicazione elettronica
+(direttiva quadro) (GU L 108, pag. 33)]».  
+  
+---|---  
+  
+Il diritto belga
+
+6
+
+|
+
+Il 5 marzo 2007, il consiglio comunale della città di Mons ha adottato un
+regolamento tributario che ha istituito un’imposta sui piloni e sui tralicci
+di diffusione per la telefonia mobile (in prosieguo: il «regolamento
+tributario») applicabile agli esercizi d’imposta per l’anno 2007 e per i
+seguenti anni.  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 1 del regolamento tributario, rubricato «Oggetto dell’imposta»,
+prevede che tale imposta si applica ai «piloni di diffusione o ai tralicci di
+una certa rilevanza che costituiscono strutture collocate in un sito ad esse
+riservato, esistenti durante l’esercizio d’imposta, destinate a supportare i
+vari tipi di antenne necessarie al buon funzionamento della rete di
+telecomunicazione mobile che non sia stato possibile collocare su un sito già
+esistente (tetto, chiesa, ecc.)».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 3 di detto regolamento tributario, rubricato «Soggetto passivo»,
+prevede al suo primo comma che la suddetta imposta è dovuta da «qualsiasi
+persona fisica o giuridica proprietaria del bene di cui all’articolo 1 [di
+detto regolamento tributario]».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 4 del regolamento tributario, rubricato «Tasso dell’imposta»
+dispone che l’importo dell’imposta in causa, dovuta per ciascun pilone o
+traliccio di diffusione per la telefonia mobile è pari ad EUR 2500.  
+  
+---|---  
+  
+Procedimento principale e questione pregiudiziale
+
+10
+
+|
+
+Dal fascicolo di cui dispone la Corte emerge che Base Company è operatore di
+una rete pubblica di telecomunicazione e, in quanto tale, è proprietaria e
+sfrutta una rete di piloni che supportano alcune antenne di telecomunicazione
+per la telefonia mobile nel territorio della città di Mons.  
+  
+---|---  
+  
+11
+
+|
+
+Le autorità della città di Mons hanno emesso, ai sensi del regolamento
+tributario, tre avvisi‑estratti dal ruolo aventi ad oggetto l’assoggettamento
+di Base Company all’imposta controversa per l’esercizio d’imposta per l’anno
+2008 per un importo complessivo pari a EUR 7500. Detti avvisi‑estratti dal
+ruolo sono stati oggetto di reclamo dinanzi al Consiglio comunale della città
+di Mons. Poiché tale reclamo è stato respinto, detti avvisi sono stati oggetto
+di ricorso dinanzi al Tribunal de première instance de Mons (giudice di primo
+grado di Mons), che li ha annullati. La città di Mons ha impugnato detta
+sentenza dinanzi al giudice a quo. Quest’ultimo nutre un dubbio circa
+l’applicabilità dell’articolo 13 della direttiva autorizzazioni nel
+procedimento principale.  
+  
+---|---  
+  
+12
+
+|
+
+In tali circostanze, la cour d’appel de Mons (corte d’appello di Mons) ha
+deciso di sospendere il procedimento e di sottoporre alla Corte la seguente
+questione pregiudiziale:
+
+«Se l’articolo 13 della direttiva [“autorizzazioni”] vieti agli enti locali di
+tassare, per motivi di bilancio o di altro tipo, l’attività economica degli
+operatori di telecomunicazioni che si [manifesta] nel loro territorio con la
+presenza di piloni, tralicci o antenne [di radiotelefonia mobile] destinati a
+tale attività».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+13
+
+|
+
+Con la sua domanda, il giudice del rinvio, chiede, in sostanza, se l’articolo
+13 della direttiva autorizzazioni debba essere interpretato nel senso che osta
+a che un’imposta, come quella oggetto del procedimento principale, sia
+applicata al proprietario di strutture collocate in un sito ad esse riservato,
+quali ad esempio piloni e tralicci di diffusione, destinate a supportare le
+antenne necessarie al funzionamento della rete di telecomunicazione mobile che
+non sia stato possibile collocare su un sito già esistente.  
+  
+---|---  
+  
+14
+
+|
+
+Occorre rammentare, preliminarmente, che, in forza dell’articolo 1, paragrafo
+2, della direttiva autorizzazioni, tale direttiva si applica alle
+autorizzazioni per la fornitura di reti e servizi di comunicazione elettronica
+(sentenza Belgacom e Mobistar, C‑256/13 e C‑264/13, EU:C:2014:2149, punto 35).  
+  
+---|---  
+  
+15
+
+|
+
+Tale direttiva prevede non solo norme relative alle procedure di concessione
+delle autorizzazioni generali o dei diritti d’uso delle frequenze radio o dei
+numeri o al loro contenuto, ma anche regole relative alla natura, o anche
+all’entità, degli oneri pecuniari collegati a tali procedure che gli Stati
+membri possono imporre alle imprese nel settore dei servizi di comunicazione
+elettronica (sentenza Belgacom e Mobistar, C‑256/13 e C‑264/13,
+EU:C:2014:2149, punto 29 nonché giurisprudenza citata).  
+  
+---|---  
+  
+16
+
+|
+
+Come risulta da una giurisprudenza costante della Corte, nell’ambito della
+direttiva autorizzazioni, gli Stati membri non possono riscuotere imposte o
+contributi sulla fornitura di servizi e reti di comunicazione elettronica
+diversi da quelli previsti da tale direttiva (v., in tal senso, sentenze
+Vodafone España e France Telecom España, C‑55/11, C‑57/11 e C‑58/11,
+EU:C:2012:446, punti 28 e 29, nonché Belgacom e Mobistar, C‑256/13 e C‑264/13,
+EU:C:2014:2149, punto 30 nonché giurisprudenza citata).  
+  
+---|---  
+  
+17
+
+|
+
+Ne consegue, come ha rilevato, in sostanza, l’avvocato generale ai paragrafi
+da 33 a 36 delle sue conclusioni, che, affinché le disposizioni della
+direttiva autorizzazioni siano applicabili ad un’imposta quale quella
+controversa, il suo fatto generatore deve essere connesso alla procedura di
+autorizzazione generale, che garantisce, secondo l’articolo 2, paragrafo 2,
+lettera a), della direttiva autorizzazioni i diritti alla fornitura di reti o
+di servizi di comunicazione elettronica (v., in tal senso, sentenze
+Commissione/Francia, C‑485/11, EU:C:2013:427, punti 30, 31 e 34; Vodafone
+Malta e Mobisle Communications, C‑71/12, EU:C:2013:431, punti 24 e 25, nonché
+Fratelli De Pra e SAIV, C‑416/14, EU:C:2015:617, punto 41).  
+  
+---|---  
+  
+18
+
+|
+
+La Corte ha ricordato, sotto tale aspetto, per quanto riguarda l’articolo 13
+della direttiva autorizzazioni, sul quale verte la questione del giudice del
+rinvio nella presente causa, che tale disposizione non riguarda tutti i
+contributi cui sono assoggettate le infrastrutture che consentono la fornitura
+di reti e servizi di comunicazione elettronica (sentenza Belgacom e Mobistar,
+C‑256/13 e C‑264/13, EU:C:2014:2149, punto 34).  
+  
+---|---  
+  
+19
+
+|
+
+Infatti, tale articolo verte sulle modalità di imposizione di contributi sui
+diritti d’uso delle frequenze radio o dei numeri o sui diritti di installare
+strutture su proprietà pubbliche o private, al di sopra o sotto di esse
+(sentenza Belgacom e Mobistar, C‑256/13 e C‑264/13, EU:C:2014:2149, punto 31
+nonché giurisprudenza citata).  
+  
+---|---  
+  
+20
+
+|
+
+Nel caso di specie, emerge dalla decisione di rinvio che l’imposta controversa
+«è dovuta da qualsiasi persona fisica o giuridica proprietaria del bene»,
+ovvero «piloni di diffusione o tralicci di una certa rilevanza che
+costituiscono strutture collocate in un sito ad esse riservato (…) destinate a
+supportare i vari tipi di antenne necessarie al buon funzionamento della rete
+di telecomunicazione mobile, che non sia stato possibile collocare su un sito
+già esistente (tetto, chiesa ecc.)».  
+  
+---|---  
+  
+21
+
+|
+
+Secondo la giurisprudenza della Corte, i termini «strutture» e
+«installazione», impiegati nell’articolo 13 della direttiva autorizzazioni,
+rinviano, rispettivamente, alle infrastrutture materiali che consentono la
+fornitura di reti e servizi di comunicazione elettronica e alla loro
+installazione materiale sulla proprietà pubblica o privata interessata
+(sentenza Belgacom e Mobistar, C‑256/13 e C‑264/13, EU:C:2014:2149, punto 33
+nonché giurisprudenza citata)  
+  
+---|---  
+  
+22
+
+|
+
+In tal senso, nonostante l’imposta controversa sia applicata ai proprietari di
+piloni e di tralicci di diffusione destinati a supportare antenne necessarie
+al buon funzionamento della rete di telecomunicazione mobile, i quali
+costituiscono infrastrutture materiali che consentono la fornitura di reti e
+servizi di comunicazione elettronica, non risulta che la predetta imposta
+presenti le caratteristiche di un contributo a cui sarebbero assoggettate le
+imprese che forniscono reti e servizi di comunicazione elettronica quale
+corrispettivo per la concessione del diritto di installare strutture.  
+  
+---|---  
+  
+23
+
+|
+
+Inoltre, come emerge dalle osservazioni depositate dinanzi alla Corte, il
+fatto generatore di tale imposta, cui sono assoggettati tutti i proprietari di
+piloni e di tralicci di diffusione, indipendentemente dal fatto che siano
+titolari di un’autorizzazione concessa in applicazione della direttiva
+autorizzazioni, non risulta connesso alla procedura di autorizzazione generale
+che abilita le imprese a fornire reti e servizi di comunicazione elettronica,
+circostanza che tuttavia deve essere verificata dal giudice del rinvio.  
+  
+---|---  
+  
+24
+
+|
+
+Alla luce di quanto esposto, occorre rispondere alla questione posta
+dichiarando che l’articolo 13 della direttiva autorizzazioni debba essere
+interpretato nel senso che non osta a che un’imposta, come quella oggetto del
+procedimento principale, sia applicata al proprietario di strutture collocate
+in un sito ad esse riservato, quali ad esempio piloni e tralicci di
+diffusione, destinate a supportare le antenne necessarie al funzionamento
+della rete di telecomunicazione mobile che non sia stato possibile collocare
+su un sito già esistente.  
+  
+---|---  
+  
+Sulle spese
+
+25
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 13 della direttiva 2002/20/CE del Parlamento europeo e del
+Consiglio, del 7 marzo 2002, relativa alle autorizzazioni per le reti e i
+servizi di comunicazione elettronica (direttiva autorizzazioni) deve essere
+interpretato nel senso che non osta a che un’imposta, come quella oggetto del
+procedimento principale, sia applicata al proprietario di strutture collocate
+in un sito ad esse riservato, quali ad esempio piloni e tralicci di
+diffusione, destinate a supportare le antenne necessarie al funzionamento
+della rete di telecomunicazione mobile che non sia stato possibile collocare
+su un sito già esistente.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il francese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+
