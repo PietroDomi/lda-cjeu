@@ -1,11 +1,12 @@
-import os, pickle
+import os, pickle, re
 import pandas as pd
 from nltk.stem.snowball import SnowballStemmer, ItalianStemmer
 from gensim.utils import simple_preprocess
 from gensim import corpora, models
 from gensim.test.utils import datapath
 from nltk.corpus import wordnet, stopwords
-import spacy
+from spacy.lang.it import Italian,ItalianDefaults
+from spacy_langdetect import LanguageDetector
 it_stopwords = stopwords.words('italian')
 
 
@@ -20,18 +21,24 @@ print("Documents Loaded")
 documents = pd.DataFrame()
 documents["text"] = docs
 
+NUM_TOPICS = 5
 i = 0
 
 def preprocess(text):
     global i 
     i += 1
     if i % 20 == 0:
-        print(f"{i} documents preprocessed")
+        print(f"{i} out of {len(docs)} documents preprocessed")
     result = []
-    nlp = spacy.load('it')
-    doc = nlp(text)
+    nlp = Italian()
+    t0 = text.split("Lingua processuale")[0].split("Sentenza")[1:]
+    t1 = "".join(t0)
+    # print(t1)
+    t1 =  re.sub(r"\d+|---\|*|^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$", "", t1, flags=re.IGNORECASE)
+    doc = nlp(t1)
     for token in doc:
-        if token.text.replace("’",'').lower() not in it_stopwords and not token.is_punct | token.is_space and len(token) > 3 and token.text != "---|---":
+        if token.text.replace("’",'').lower() not in it_stopwords and not token.is_punct | token.is_space and len(token) > 3:
+            assert token.lang_ == "it"
             result.append(stemmer.stem(token.lemma_))
     return result
 
@@ -47,15 +54,19 @@ else:
     print("Documents preprocessed and saved")
 
 dictionary = corpora.Dictionary(processed_docs)
+dictionary.filter_extremes(no_below=round(.03*dictionary.num_docs))
+dictionary.filter_n_most_frequent(10)
 print("Dictionary created:", dictionary)
 
-print("Running model 1...")
+print(sorted(dictionary.cfs.values(),reverse=True))
+
+print("\nRunning model 1...")
 corpus_bow = [dictionary.doc2bow(doc) for doc in processed_docs]
 
 tfidf = models.TfidfModel(corpus_bow)
 corpus_tfidf = tfidf[corpus_bow]
 
-lda_model_bow = models.LdaModel(corpus_bow, num_topics=5, id2word=dictionary)
+lda_model_bow = models.LdaModel(corpus_bow, num_topics=NUM_TOPICS, id2word=dictionary)
 lda_model_bow.save("data/.models/bow")
 # lda_model_bow = models.LdaModel.load("data/.models/bow")
 
@@ -64,12 +75,15 @@ for idx, topic in lda_model_bow.print_topics(-1):
     print('Topic: {} \nWords: {}'.format(idx, topic))
 
 print("\nRunning model 2...")
-lda_model_tfidf = models.LdaModel(corpus_tfidf, num_topics=5, id2word=dictionary)
+lda_model_tfidf = models.LdaModel(corpus_tfidf, num_topics=NUM_TOPICS, id2word=dictionary)
 lda_model_tfidf.save("data/.models/tfidf")
 
 print("\nModel 2 TFIDF")
 for idx, topic in lda_model_tfidf.print_topics(-1):
     print('Topic: {} \nWords: {}'.format(idx, topic))
+
+
+lda_model_tfidf.get_topics()
 
 print("\nClassification document 100 - model 1:")
 for index, score in sorted(lda_model_bow[corpus_bow[100]], key=lambda tup: -1*tup[1]):
