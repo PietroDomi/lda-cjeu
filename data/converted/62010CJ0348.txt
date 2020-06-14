@@ -1,0 +1,761 @@
+
+
+SENTENZA DELLA CORTE (Seconda Sezione)
+
+10 novembre 2011 (*)
+
+«Appalti pubblici - Direttiva 2004/17/CE - Art. 1, n. 3, lett. b) - Direttiva
+92/13/CEE - Art. 2 quinquies, n. 1, lett. b) - Nozione di "concessione di
+servizi" - Prestazione di servizi di trasporto pubblico mediante autobus -
+Diritto di gestire il servizio e versamento al prestatore di un importo a
+titolo di compensazione delle perdite - Rischio connesso alla gestione
+limitato in base alla normativa nazionale e al contratto - Procedure di
+ricorso in materia di aggiudicazione di appalti - Applicabilita diretta
+dell'art. 2 quinquies, n. 1, lett. b), della direttiva 92/13/CEE ai contratti
+conclusi prima della scadenza del termine di recepimento della direttiva
+2007/66/CE»
+
+Nel procedimento C‑348/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Augstākās tiesas Senāts (Lettonia), con
+decisione 2 luglio 2010, pervenuta in cancelleria il 9 luglio 2010, nella
+causa
+
+**Norma-A SIA,**
+
+**Dekom SIA**
+
+contro
+
+**Latgales pl ānošanas reģions, **succeduto alla Ludzas novada dome,
+
+LA CORTE (Seconda Sezione),
+
+composta dal sig. J.N. Cunha Rodrigues (relatore), presidente di sezione, dai
+sigg. U. Lohmus, A. Rosas, A. Ó Caoimh e A. Arabadjiev, giudici,
+
+avvocato generale: sig. P. Cruz Villalon
+
+cancelliere: sig.ra C. Stromholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza del 18 maggio
+2011,
+
+considerate le osservazioni presentate:
+
+-        per la Norma-A SIA, dalla sig.ra L. Krastiņa e dall'avv. I. Azanda, advokāte;
+
+-        per il Latgales plānošanas reģions, succeduto alla Ludzas novada dome, dalla sig.ra J. Pļuta;
+
+-        per il governo lettone, dalle sigg.re M. Borkoveca e K. Krasovska, in qualita di agenti;
+
+-        per il governo austriaco, dal sig. M. Fruhmann, in qualita di agente;
+
+-        per la Commissione europea, dai sigg. C. Zadra e A. Sauka, in qualita di agenti,
+
+sentite le conclusioni dell'avvocato generale, presentate all'udienza del 7
+luglio 2011,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+dell'art. 1, n. 3, lett. b), della direttiva del Parlamento europeo e del
+Consiglio 31 marzo 2004, 2004/17/CE, che coordina le procedure di appalto
+degli enti erogatori di acqua e di energia, degli enti che forniscono servizi
+di trasporto e servizi postali (GU L 134, pag. 1), e dell'art. 2 quinquies, n.
+1, lett. b), della direttiva del Consiglio 25 febbraio 1992, 92/13/CEE, che
+coordina le disposizioni legislative, regolamentari e amministrative relative
+all'applicazione delle norme comunitarie in materia di procedure di appalto
+degli enti erogatori di acqua e di energia e degli enti che forniscono servizi
+di trasporto nonche degli enti che operano nel settore delle telecomunicazioni
+(GU L 76, pag. 14), quale modificata dalla direttiva del Parlamento europeo e
+del Consiglio 11 dicembre 2007, 2007/66/CE (GU L 335, pag. 31; in prosieguo:
+la «direttiva 92/13»).
+
+2        Tale domanda e stata presentata nell'ambito di una controversia tra,
+da un lato, la Norma-A SIA e la Dekom SIA, e, dall'altro, il Latgales
+plānošanas reģions, succeduto alla Ludzas novada dome [Consiglio regionale di
+Ludza (Lettonia)], relativa al rilascio alla Ludzas autotransporta uzņēmums
+SIA della «concessione» di servizi di trasporto pubblico mediante autobus da
+prestare nell'ambito della citta e del distretto di Ludza.
+
+  **Contesto normativo**
+
+  _La normativa dell 'Unione_
+
+3        L'art. 1, nn. 2, lett. a) e d), e 3, lett. b), della direttiva
+2004/17 prevede quanto segue:
+
+«2.      a)     Gli "appalti di forniture, di lavori e di servizi" sono
+contratti a titolo oneroso, conclusi per iscritto fra uno o piu enti
+aggiudicatori di cui all'articolo 2, paragrafo 2, e uno o piu imprenditori,
+fornitori o prestatori di servizi;
+
+(...)
+
+d)      Gli "appalti di servizi" sono appalti diversi dagli appalti di lavori
+o di forniture aventi per oggetto la prestazione dei servizi di cui
+all'allegato XVII.
+
+(...)
+
+3.      (...)
+
+b)      La "concessione di servizi" e un contratto che presenta le stesse
+caratteristiche di un appalto di servizi, ad eccezione del fatto che il
+corrispettivo della fornitura di servizi consiste unicamente nel diritto di
+gestire i servizi o in tale diritto accompagnato da un prezzo».
+
+4        L'art. 2 della suddetta direttiva enuncia quanto segue:
+
+«1.      Ai fini della presente direttiva, s'intende per:
+
+a)      "amministrazioni aggiudicatrici": lo Stato, gli enti pubblici
+territoriali, gli organismi di diritto pubblico, le associazioni costituite da
+uno o piu di tali enti pubblici territoriali o da uno o piu di tali organismi
+di diritto pubblico.
+
+(...)
+
+2.      La presente direttiva si applica agli enti aggiudicatori:
+
+a)      che sono amministrazioni aggiudicatrici o imprese pubbliche che
+svolgono una delle attivita di cui agli articoli da 3 a 7;
+
+(...)».
+
+5        L'art. 5 della direttiva 2004/17 cosi dispone:
+
+«1.      La presente direttiva si applica alle attivita relative alla messa a
+disposizione o alla gestione di reti destinate a fornire un servizio al
+pubblico nel campo del trasporto ferroviario, tranviario, filoviario, mediante
+autobus, sistemi automatici o cavo.
+
+(...)
+
+2.      La presente direttiva non si applica agli enti che forniscono un servizio di autotrasporto mediante autobus al pubblico i quali erano esclusi dal campo di applicazione della direttiva 93/38/CEE in virtu dell'articolo 2, paragrafo 4, della stessa». 
+
+6        L'art. 1, nn. 2, lett. a), e 4 della direttiva del Parlamento europeo
+e del Consiglio 31 marzo 2004, 2004/18/CE, relativa al coordinamento delle
+procedure di aggiudicazione degli appalti pubblici di lavori, di forniture e
+di servizi (GU L 134, pag. 114), enuncia:
+
+«2.      a) Gli "appalti pubblici" sono contratti a titolo oneroso stipulati
+per iscritto tra uno o piu operatori economici e una o piu amministrazioni
+aggiudicatrici aventi per oggetto l'esecuzione di lavori, la fornitura di
+prodotti o la prestazione di servizi ai sensi della presente direttiva.
+
+(…)
+
+4\. La "concessione di servizi" e un contratto che presenta le stesse
+caratteristiche di un appalto pubblico di servizi, ad eccezione del fatto che
+il corrispettivo della fornitura di servizi consiste unicamente nel diritto di
+gestire i servizi o in tale diritto accompagnato da un prezzo».
+
+7        Conformemente all'art. 1, n. 1, della direttiva 92/13:
+
+«La presente direttiva si applica agli appalti di cui alla direttiva
+2004/17(...), a meno che tali appalti siano esclusi a norma dell'articolo 5,
+paragrafo 2, degli articoli da 18 a 26, degli articoli 29 e 30 o dell'articolo
+62 di tale direttiva.
+
+(...)».
+
+8        L'art. 2 quinquies, n. 1, della direttiva 92/13 enuncia quanto segue:
+
+«1.      Gli Stati membri assicurano che un contratto sia considerato privo di
+effetti da un organo di ricorso indipendente dall'ente aggiudicatore o che la
+sua privazione di effetti sia conseguenza di una decisione di detto organo di
+ricorso nei casi seguenti:
+
+(...)
+
+b)      in caso di violazione dell'articolo 1, paragrafo 5, dell'articolo 2,
+paragrafo 3, o dell'articolo 2 bis, paragrafo 2, della presente direttiva,
+qualora tale violazione abbia privato l'offerente che presenta ricorso della
+possibilita di avvalersi di mezzi di ricorso prima della stipula del contratto
+quando tale violazione si aggiunge ad una violazione della direttiva
+2004/17(...), se quest'ultima violazione ha influito sulle opportunita
+dell'offerente che presenta ricorso di ottenere l'appalto;
+
+(...)».
+
+9        Ai sensi dell'art. 2 septies, n. 1, lett. b), della direttiva 92/13:
+
+«1\. Gli Stati membri possono stabilire che la proposizione di un ricorso a
+norma dell'articolo 2 quinquies, paragrafo 1, debba avvenire:
+
+(...)
+
+b)      in ogni caso prima dello scadere di un periodo di almeno sei mesi a
+decorrere dal giorno successivo alla data di stipula del contratto».
+
+10      L'art. 3, n. 1, della direttiva 2007/66, che ha inserito le
+disposizioni menzionate ai punti 7‑9 della presente sentenza nella direttiva
+92/13, stabilisce quanto segue:
+
+«Gli Stati membri mettono in vigore le disposizioni legislative, regolamentari
+e amministrative necessarie per conformarsi alla presente direttiva entro il
+20 dicembre 2009. (…)».
+
+  _La normativa nazionale_
+
+11      Ai sensi dell'art. 1, n. 7, della legge relativa alla collaborazione
+tra il settore pubblico e il settore privato (Publiskās un privātās
+partnerības likums, _Latvijas V ēstnesis, _2009, n. 107, pag. 4093), entrata
+in vigore il 1° ottobre 2009, il contratto di concessione di servizi e un
+contratto in forza del quale, su richiesta di un socio pubblico, il socio
+privato presta i servizi elencati nell'allegato 2 della legge sugli appalti
+pubblici (Publisko iepirkumu likums) e ottiene a titolo di corrispettivo, o
+quale elemento essenziale del corrispettivo, il diritto di gestire detti
+servizi, ma allo stesso tempo sopporta i rischi inerenti a tale gestione o una
+parte sostanziale degli stessi.
+
+12      In forza del n. 8 della medesima disposizione, il diritto di gestire
+un'opera o un servizio comporta il diritto di riscuotere un prezzo dagli
+utenti dell'opera o del servizio ovvero di percepire un corrispettivo dal
+socio pubblico, il cui importo dipende dalla domanda degli utenti, o, anche,
+sia il diritto di riscuotere un prezzo dagli utenti sia quello di percepire un
+corrispettivo dal socio pubblico.
+
+13      Ai sensi del citato art. 1, n. 9, sussistono rischi inerenti alla
+gestione di un'opera o di servizi (rischi economici) quando gli introiti del
+socio privato dipendono dalla domanda di utilizzazione dell'opera o dalla
+domanda di servizi da parte degli utenti (rischio connesso alla domanda), e/o
+dalla circostanza che il servizio offerto agli utenti sia conforme alle
+clausole del contratto di concessione (rischio connesso alla disponibilita),
+oppure quando gli introiti dipendono sia dal rischio connesso alla domanda sia
+dal rischio connesso alla disponibilita.
+
+14      L'art. 6, n. 3, della legge sui servizi di trasporto pubblico
+(sabiedriskā transporta pakalpojumu likums, _Latvijas V ēstnesis, _2007, n.
+106, pag. 3682) stabilisce in particolare che i servizi di trasporto pubblico
+siano organizzati in funzione della domanda di questi ultimi, prendendo in
+considerazione l'intensita e la regolarita necessarie dei trasporti
+nell'ambito di reti, la portata e la qualita dei servizi, la redditivita
+economica dei trasporti e stabilendo le modalita di organizzazione dei
+trasporti di viaggiatori.
+
+15      L'art. 10, n. 1, di tale legge enuncia che le perdite subite dal
+prestatore e le sue spese connesse alla fornitura di tali servizi sono
+compensate secondo le modalita previste dagli artt. 11 e 12 di detta legge.
+
+16      A tenore dell'art. 11, n. 1, della stessa legge:
+
+«(...) il vettore riceve una compensazione per le perdite connesse alla
+prestazione di servizi di trasporto pubblico:
+
+1)      per il loro importo totale, a carico dei fondi del bilancio dello
+Stato destinati a tale scopo, per le tratte interurbane di una rete di
+trasporto regionale;
+
+11)      a carico dei fondi del bilancio dello Stato destinati a tale scopo,
+se le tratte rientrano in una rete di trasporto regionale di interesse locale;
+
+12)      a carico dei bilanci locali, se le tratte rientrano in una rete di
+trasporto regionale di interesse locale, per la parte relativa alla gestione
+dei servizi di trasporto pubblico che superi il limite dei fondi previsti nel
+bilancio dello Stato per garantire tali servizi;
+
+(...)».
+
+17      Conformemente all'art. 12 della legge sui servizi di trasporto
+pubblico:
+
+«1)      Qualora lo Stato fissi requisiti minimi di qualita per i servizi di
+trasporto pubblico, che un vettore con fini di lucro non sarebbe tenuto a
+soddisfare e il cui rispetto implica costi aggiuntivi, il vettore ha diritto a
+ricevere dallo Stato una compensazione a copertura di tutti i suddetti costi.
+
+2)      Ricevono una compensazione ai sensi del n. 1 i vettori che prestino
+servizi di trasporto pubblico nell'ambito dell'organizzazione dei servizi di
+trasporto pubblico qualora i requisiti minimi di qualita siano stati fissati
+dopo l'inizio della prestazione dei suddetti servizi.
+
+3)      La disciplina riguardante la definizione, il calcolo e la
+compensazione dei costi menzionati al n. 1, l'assegnazione agli enti pubblici
+locali della dotazione del bilancio nazionale destinata a coprire tali costi,
+nonche il controllo della legittimita e della conformita dell'utilizzazione di
+tali mezzi e emanata dal Consiglio dei ministri».
+
+18      Il decreto del Consiglio dei ministri 2 ottobre 2007, n. 672, relativo
+alla compensazione dei costi e delle perdite derivanti dalla prestazione di
+servizi di trasporto pubblico e alla fissazione delle relative tariffe
+(Sabiedriskā transporta pakalpojumu sniegšanā radušos zaudējumu un izdevumu
+kompensēšanas un sabiedriskā transporta pakalpojuma tarifa noteikšanas
+kārtība, _Latvijas V ēstnesis_, 2007, n. 175, pag. 3751), in vigore fino al 20
+novembre 2009, e il decreto del Consiglio dei ministri 26 ottobre 2009, n.
+1226 ( _Latvijas V ēstnesis_, 2009, n. 183, pag. 4169; in prosieguo: il
+«decreto n. 2009/1226»), che l'ha sostituito a partire dal 21 novembre 2009,
+sono entrambi fondati sulla legge sui servizi di trasporto pubblico.
+
+19      L'art. 2 del decreto n. 2009/1226 prevede quanto segue:
+
+«(...)sono compensate le seguenti perdite del vettore, connesse all'esecuzione
+dell'appalto di servizi di trasporto pubblico:
+
+2.1      la parte dei costi indispensabili connessi all'esecuzione
+dell'appalto di servizi di trasporto pubblico che ecceda gli introiti
+ottenuti;
+
+2.2      i costi generati dall'applicazione delle tariffe fissate dal
+committente;
+
+2.3      i costi venuti in essere nel caso in cui il committente applichi una
+riduzione del prezzo di trasporto a determinate categorie di passeggeri».
+
+20      L'art. 3 del citato decreto dispone che il vettore ha diritto alla
+compensazione dei costi connessi all'osservanza dei requisiti minimi di
+qualita imposti dal committente o dalla normativa dopo l'inizio della
+prestazione dei servizi di trasporto pubblico, nel caso in cui il rispetto di
+tali requisiti generi costi aggiuntivi.
+
+21      L'art. 38 del decreto n. 2009/1226 prescrive che il committente
+stabilisca l'entita delle perdite per le quali il vettore deve ricevere una
+compensazione sulla base della relazione di cui al punto 32.2 di tale decreto
+e delle informazioni di cui ai punti 32.3 e 32.4 di quest'ultimo, tenendo
+altresi conto del fatto che egli abbia fissato o meno le tariffe (titoli di
+trasporto).
+
+22      In forza dell'art. 39 di tale decreto, il committente determina le
+perdite effettive sulla base degli introiti totali ottenuti attraverso
+l'esecuzione dell'appalto di servizi di trasporto pubblico, escludendo le
+spese giustificate, generate dalla prestazione di servizi di trasporto
+pubblico. Ai sensi dello stesso decreto, si devono intendere per introiti i
+ricavi derivanti dalla vendita di biglietti e degli abbonamenti, nonche
+analoghi introiti ottenuti attraverso l'esecuzione dell'appalto di servizi di
+trasporto pubblico.
+
+23      L'art. 40 del decreto n. 2009/1226 prevede che il committente
+stabilisca l'importo della compensazione dovuta sommando un utile all'importo
+totale delle perdite fissato ai sensi dell'art. 39 del citato decreto.
+L'importo di tale utile e stabilito moltiplicando gli introiti per una
+percentuale di utile, calcolata aumentando del 2,5% il tasso medio d'interesse
+del mercato interbancario europeo (Euribor) nei dodici mesi dell'anno di
+riferimento.
+
+24      Il giudice del rinvio rileva che, ai sensi dell'art. 49 di detto
+decreto, l'importo della compensazione delle perdite non potra superare il
+totale delle perdite effettive, qualora il vettore abbia rispettato le tariffe
+fissate dal committente (prezzo del trasporto).
+
+25      Ai sensi dell'art. 50 dello stesso decreto, se il diritto di prestare
+servizi di trasporto pubblico e stato conferito ai sensi della legge sugli
+appalti pubblici, l'importo della compensazione viene stabilito in base alla
+differenza tra il prezzo del servizio di trasporto pubblico fissato nel
+contratto e gli introiti realmente ottenuti.
+
+26      In virtu dell'art. 57 del decreto n. 2009/1226:
+
+«(...) in caso di risoluzione del contratto per la prestazione di servizi di
+trasporto pubblico:
+
+1)      il vettore restituira al committente gli importi versati in eccesso
+qualora, nel periodo della prestazione del servizio di trasporto, l'importo
+della compensazione delle perdite superi l'importo della compensazione
+realmente dovuto ed il committente destinera tali importi alla compensazione
+delle perdite di altri vettori;
+
+2)      il committente versera una compensazione se, nel periodo della
+prestazione del servizio di trasporto, l'importo della compensazione delle
+perdite e stato inferiore all'importo della compensazione realmente dovuto».
+
+  **Causa principale e questioni pregiudiziali**
+
+27      Il 17 giugno 2009 la Ludzas rajona padome (Consiglio del distretto di
+Ludza) pubblicava il bando di gara d'appalto aperto per la fornitura di
+servizi di trasporto pubblico mediante autobus nella citta e nel distretto di
+Ludza. Il 6 agosto 2009 le ricorrenti nella causa principale presentavano la
+loro offerta.
+
+28      Il 31 agosto 2009 l'appalto di cui trattasi veniva aggiudicato alla
+Ludzas autotransporta uzņēmums SIA e pertanto, in data 2 settembre 2009, la
+Ludzas novada dome decideva di stipulare con tale impresa un contratto di
+concessione di servizi di trasporto pubblico.
+
+29      Il 16 settembre 2009 le ricorrenti nella causa principale proponevano
+dinanzi all'Administratīvā rajona tiesa (giudice amministrativo distrettuale)
+un ricorso di annullamento della citata decisione della Ludzas novada dome 2
+settembre 2009 e presentavano una domanda di sospensione dell'esecuzione di
+quest'ultima. Tale domanda veniva accolta con decisione di detto giudice in
+data 16 ottobre 2009, decisione confermata, il 14 dicembre 2009,
+dall'Administratīvā apgabaltiesa (giudice amministrativo d'appello).
+
+30      Il giudice del rinvio osserva che la normativa nazionale vigente
+conferiva alle ricorrenti nella causa principale il diritto di contestare la
+decisione della Ludzas novada dome 2 settembre 2009 dinanzi all'Ufficio di
+sorveglianza dei pubblici appalti e che tale contestazione avrebbe impedito
+all'amministrazione aggiudicatrice di stipulare il contratto prima che tale
+ufficio si pronunciasse.
+
+31      Il 9 ottobre 2009 la Ludzas rajona padome e la Ludzas autotransporta
+uzņēmums SIA stipulavano un contratto di «concessione» avente ad oggetto la
+fornitura dei servizi di trasporto interessati.
+
+32      Le ricorrenti nella causa principale proponevano quindi un ricorso
+dinanzi all'Administratīvā rajona tiesa diretto ad ottenere la dichiarazione
+di nullita di tale contratto. In data 3 dicembre 2009 tale ricorso veniva
+respinto in quanto detto contratto rientrava nell'ambito del diritto privato e
+pertanto i giudici amministrativi erano incompetenti a conoscere dello stesso.
+
+33      L'11 maggio 2010, l'Administratīvā apgabaltiesa annullava la sentenza
+di primo grado dichiarando irricevibile il ricorso di nullita in quanto,
+poiche il contratto era stato concluso prima della scadenza del termine di
+recepimento della direttiva 2007/66, le ricorrenti nella causa principale non
+avevano alcun diritto soggettivo di investire i giudici di un siffatto
+ricorso.
+
+34      Il 21 maggio 2010 dette ricorrenti impugnavano la decisione
+delll'Administratīvā apgabaltiesa dinanzi al giudice del rinvio. Esse
+rilevavano in particolare che la direttiva 2007/66 attribuiva loro un diritto
+soggettivo a chiedere l'annullamento del contratto controverso derivante
+dall'obiettivo di tale direttiva, che consiste nel conferire a terzi il
+diritto di chiedere che venga dichiarata l'inefficacia di appalti aggiudicati
+da organi dello Stato o da enti pubblici locali.
+
+35      Alla luce di tali circostanze, l'Augstākās tiesas Senāts ha deciso di
+sospendere il procedimento e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+«1)      Se l'art. 1, n. 3, lett. b), della direttiva 2004/17(...) debba
+essere interpretato nel senso che deve considerarsi una concessione di servizi
+pubblici il contratto con cui si attribuisce all'aggiudicatario il diritto di
+fornire servizi di trasporto pubblico mediante autobus, nel caso in cui una
+parte del corrispettivo consista nel diritto di gestire i servizi di trasporto
+pubblico, ma al contempo l'amministrazione aggiudicatrice compensi le perdite
+subite dal prestatore di servizi a causa della prestazione di tali servizi e,
+inoltre, le disposizioni di diritto pubblico che disciplinano la prestazione
+del servizio nonche le clausole contrattuali limitino il rischio di gestione
+del servizio.
+
+2)      In caso di soluzione in senso negativo della prima questione, se
+l'art. 2 quinquies, n. 1, lett. b), della direttiva 92/13(...) sia
+direttamente applicabile in Lettonia a partire dal 21 dicembre 2009.
+
+3)      In caso di soluzione in senso affermativo della seconda questione, se
+l'art. 2 quinquies, n. 1, lett. b), della direttiva 92/13(...) debba essere
+interpretato nel senso che e applicabile ad appalti aggiudicati prima della
+scadenza del termine di recepimento della direttiva 2007/66(...)».
+
+  **Sulle questioni pregiudiziali**
+
+  _Sulla prima questione_
+
+36      In via preliminare si deve osservare che, ai sensi dell'art. 2, n. 2,
+lett. a), della direttiva 2004/17, quest'ultima si applica agli enti
+aggiudicatori che sono «amministrazioni aggiudicatrici» ai sensi dell'art. 2,
+n. 1, lett. a), di tale direttiva, tra i quali figurano gli «enti pubblici
+territoriali», e che «svolgono una delle attivita di cui agli articoli da 3 a
+7» di detta direttiva.
+
+37      A parere del giudice del rinvio la causa principale riguarda
+l'applicazione della direttiva 2004/17, in quanto l'amministrazione
+aggiudicatrice interessata svolge un'attivita nell'ambito del trasporto
+mediante autobus, ai sensi dell'art. 5, n. 1, di tale direttiva.
+
+38      Secondo il governo lettone, invece, nella causa principale e
+applicabile la direttiva 2004/18, poiche l'amministrazione non fornisce essa
+stessa servizi di trasporto pubblico agli abitanti.
+
+39      Al riguardo e sufficiente rilevare che la direttiva 2004/18, all'art.
+1, nn. 2, lett. a), e 4, fornisce definizioni degli «appalti pubblici» e della
+«concessione di servizi» sostanzialmente analoghe alle definizioni
+corrispondenti che figurano all'art. 1, nn. 2, lett. a), e 3, lett. b), della
+direttiva 2004/17. Tale analogia comporta che si formulino le medesime
+considerazioni per interpretare le nozioni di appalto di servizi e di
+concessione di servizi nei rispettivi ambiti di applicazione delle due
+suddette direttive (sentenza 10 settembre 2009, causa C‑206/08, Eurawasser,
+Racc. pag. I‑8377, punti 42 e 43). Pertanto, l'interpretazione dell'art. 1,
+nn. 2, lett. a), e 3, lett. b), della direttiva 2004/17 e direttamente
+trasponibile alle disposizioni corrispondenti della direttiva 2004/18, come
+riconosce, peraltro, il governo lettone.
+
+40      La questione se un'operazione debba o meno essere qualificata come
+concessione di servizi o come appalto pubblico di servizi dev'essere valutata
+esclusivamente alla luce del diritto dell'Unione (v., in particolare, sentenza
+10 marzo 2011, causa C‑274/09, Privater Rettungsdienst und Krankentransport
+Stadler, non ancora pubblicata nella Raccolta, punto 23 e giurisprudenza ivi
+citata).
+
+41      Dalle nozioni di appalto pubblico di servizi e di concessione di
+servizi, definite, rispettivamente, al n. 2, lett. a) e d), e al n. 3
+dell'art. 1 della direttiva 2004/17, risulta che la differenza tra un appalto
+di servizi e una concessione di servizi risiede nel corrispettivo della
+fornitura di servizi. L'appalto di servizi comporta un corrispettivo versato
+direttamente dall'amministrazione aggiudicatrice al prestatore di servizi,
+mentre, nel caso di una concessione di servizi, il corrispettivo della
+prestazione di servizi consiste nel diritto di gestire il servizio, o da solo
+o accompagnato da un prezzo (v. in tal senso, in particolare, sentenza
+Eurawasser, cit., punto 51).
+
+42      Nel caso di un contratto avente ad oggetto servizi, il fatto che la
+controparte contrattuale non sia direttamente remunerata dall'amministrazione
+aggiudicatrice, ma abbia il diritto di riscuotere un corrispettivo presso
+terzi, risponde alla necessita di un corrispettivo prevista all'art. 1, n. 3,
+lett. b), della direttiva 2004/17 (v., in particolare, sentenza Eurawasser,
+cit., punto 57).
+
+43      Tale ipotesi ricorre qualora, come nella causa principale, il
+prestatore dei servizi di trasporto pubblico mediante autobus si vede
+attribuire il diritto di gestire servizi il cui corrispettivo gli viene pagato
+dagli utenti di detti servizi in base alla tariffa stabilita.
+
+44      Se e vero che la modalita di remunerazione e uno degli elementi
+determinanti per la qualificazione come concessione di servizi, dalla
+giurisprudenza risulta inoltre che la concessione di servizi implica che il
+concessionario si assuma il rischio legato alla gestione dei servizi in
+questione. Il non avvenuto trasferimento al prestatore del rischio legato alla
+prestazione dei servizi indica che l'operazione in parola rappresenta un
+appalto pubblico di servizi e non una concessione di servizi (v., in
+particolare, sentenza Privater Rettungsdienst und Krankentransport Stadler,
+cit., punto 26).
+
+45      Occorre pertanto verificare se il prestatore si assuma il rischio
+legato alla gestione del servizio. Se e pur vero che tale rischio puo essere,
+ab origine, considerevolmente ridotto, ai fini della qualificazione come
+concessione di servizi e necessario, tuttavia, che l'amministrazione
+aggiudicatrice trasferisca integralmente o, almeno, in misura significativa al
+concessionario il rischio nel quale essa incorre (v., in tal senso, in
+particolare, sentenza Privater Rettungsdienst und Krankentransport Stadler,
+cit., punto 29).
+
+46      È infatti noto che taluni settori di attivita, in particolare quelli
+riguardanti attivita di pubblica utilita, come quello controverso nella causa
+principale, sono disciplinati da normative che possono avere l'effetto di
+limitarne i rischi economici. Da un lato, la configurazione giuspubblicistica
+alla quale e soggetta la gestione economica e finanziaria del servizio
+facilita il controllo di tale gestione e riduce i fattori che possono
+pregiudicare la trasparenza e falsare la concorrenza. Dall'altro, le
+amministrazioni aggiudicatrici devono conservare la possibilita di assicurare
+la fornitura dei servizi attraverso una concessione, agendo in buona fede,
+qualora esse reputino che si tratti del modo migliore per assicurare il
+servizio pubblico in oggetto, anche a prescindere dal fatto che il rischio
+legato alla gestione sia molto ridotto (sentenza Eurawasser, cit., punti
+72‑74).
+
+47      Dato che, in questi casi, l'amministrazione aggiudicatrice non ha
+alcuna influenza sulla configurazione di diritto pubblico applicabile
+all'organizzazione del servizio, non le e possibile introdurre ne, pertanto,
+trasferire fattori di rischio che siano esclusi da una simile configurazione.
+Inoltre, sarebbe irragionevole pretendere che un'amministrazione concedente
+creasse condizioni di concorrenza e di rischio economico piu elevate rispetto
+a quelle esistenti nel settore in oggetto per effetto della disciplina ad esso
+applicabile (v. sentenza Eurawasser, cit., punti 75 e 76).
+
+48      Il rischio di gestione deve essere inteso come rischio di esposizione
+all'alea del mercato (v., in tal senso, sentenza Eurawasser, cit., punto 67),
+il quale puo tradursi segnatamente nel rischio di concorrenza da parte di
+altri operatori, nel rischio di uno squilibrio tra domanda e offerta di
+servizi, nel rischio d'insolvenza dei soggetti che devono pagare il prezzo dei
+servizi forniti, nel rischio di mancata copertura delle spese di gestione
+mediante le entrate o, ancora, nel rischio di responsabilita di un danno
+legato ad una carenza del servizio (v., in tal senso, sentenza Privater
+Rettungsdienst und Krankentransport Stadler, cit., punto 37).
+
+49      Al contrario, rischi come quelli legati a una cattiva gestione o ad
+errori di valutazione da parte dell'operatore economico non sono determinanti
+ai fini della qualificazione di un contratto come appalto pubblico o come
+concessione di servizi, dal momento che rischi del genere, in realta, sono
+insiti in qualsiasi contratto, indipendentemente dal fatto che quest'ultimo
+sia riconducibile alla tipologia dell'appalto pubblico di servizi ovvero a
+quella della concessione di servizi (sentenza Privater Rettungsdienst und
+Krankentransport Stadler, cit., punto 38).
+
+50      Se e pur vero, come e stato rilevato al punto 45 della presente
+sentenza, che il rischio economico legato alla gestione puo essere, ab
+origine, considerevolmente ridotto a causa della configurazione di diritto
+pubblico applicabile all'organizzazione del servizio, ai fini della
+qualificazione come concessione di servizi e necessario, tuttavia, che
+l'amministrazione aggiudicatrice trasferisca integralmente o, almeno, in
+misura significativa, al concessionario il rischio nel quale essa incorre.
+
+51      Orbene, secondo le indicazioni fornite dal giudice del rinvio, la
+normativa applicabile nella causa principale prevede che l'amministrazione
+aggiudicatrice compensi le perdite di gestione del prestatore di servizi e che
+inoltre, in forza delle disposizioni di diritto pubblico che disciplinano la
+prestazione del servizio nonche delle clausole contrattuali, il prestatore non
+assuma «in misura significativa, il rischio di gestione».
+
+52      Al riguardo il giudice del rinvio rileva in particolare che, in
+applicazione delle clausole contrattuali, il committente compensa, nella
+misura dei fondi impegnati nel bilancio dello Stato, le perdite correlate alla
+fornitura dei servizi di trasporto, generate da quest'ultima, nonche le spese
+connesse, una volta dedotti gli introiti derivanti dalla gestione dei servizi
+di trasporto.
+
+53      Peraltro, in applicazione degli artt. 2 e 3 del decreto n. 2009/1226,
+sono compensate le perdite del prestatore connesse all'esecuzione dell'appalto
+riguardanti la parte dei costi indispensabili connessi all'esecuzione
+dell'appalto di servizi di trasporto pubblico che ecceda gli introiti
+ottenuti, i costi generati dall'applicazione delle tariffe fissate dal
+committente, i costi venuti in essere nel caso in cui il committente applichi
+riduzioni tariffarie a determinate categorie di passeggeri e i costi connessi
+all'osservanza dei requisiti di qualita imposti dopo l'inizio della
+prestazione dei servizi, nel caso in cui il rispetto di tali requisiti generi
+costi aggiuntivi rispetto alle condizioni di qualita precedentemente
+richieste.
+
+54      A cio occorre aggiungere che l'art. 40 del decreto n. 2009/1226
+prevede il versamento all'aggiudicatario di un importo a titolo di utili che e
+stabilito moltiplicando gli introiti per una percentuale di utile, calcolata
+aumentando del 2,5% il tasso medio d'interesse del mercato interbancario
+europeo (Euribor) nei dodici mesi dell'anno di riferimento.
+
+55      Tenuto conto di dette clausole e disposizioni del diritto nazionale
+non si puo concludere che il rischio di esposizione all'alea del mercato venga
+assunto in misura rilevante dall'aggiudicatario. Pertanto, una siffatta
+operazione dovrebbe essere qualificata come «appalto di servizi» ai sensi
+dell'art. 1, n. 2, lett. d), della direttiva 2004/17, e non come «concessione
+di servizi» ai sensi dell'art. 1, n. 3, lett. b), di tale direttiva.
+
+56      Certamente, nel corso dell'udienza dinanzi alla Corte, le parti hanno
+dibattuto sull'entita del rischio concretamente assunto dall'aggiudicatario.
+Infatti, il governo lettone e la convenuta nella causa principale sostengono,
+contrariamente ai ricorrenti nella causa principale e alla Commissione
+europea, che diversi fattori, come la diminuzione delle risorse pubbliche
+destinate a coprire le eventuali perdite, la mancata copertura di determinati
+tipi di costi e perdite, connessi in particolare alla modifica di itinerari e
+percorsi, o ancora l'incertezza rispetto alla domanda degli utenti, aumentano
+il rischio in modo tale che questo sarebbe in realta assunto in misura
+significativa dall'aggiudicatario, tanto piu in quanto la durata del contratto
+e di otto anni. Pertanto, si tratterebbe effettivamente di una concessione di
+servizi.
+
+57      Non spetta alla Corte qualificare concretamente l'operazione
+controversa nella causa principale, dato che questa competenza spetta solo al
+giudice nazionale. Il ruolo della Corte si limita a fornire a quest'ultimo
+un'interpretazione del diritto dell'Unione utile per la decisione da adottare
+nella controversia che gli e sottoposta (v., in particolare, sentenza 13
+ottobre 2005, causa C‑458/03, Parking Brixen, Racc. pag. I‑8585, punto 32).
+
+58      Soltanto il giudice nazionale puo, da un lato, interpretare le
+disposizioni del suo diritto nazionale e, dall'altro, valutare l'entita del
+rischio concretamente assunto dal contraente in base a tale diritto e alle
+disposizioni contrattuali di cui trattasi. Nondimeno, l'esame dell'operazione
+controversa alla luce delle disposizioni normative e contrattuali, quali
+esposte nella decisione di rinvio, conduce, a prima vista, alla conclusione
+che detta operazione presenti le caratteristiche di un appalto di servizi.
+
+59      Tenuto conto delle considerazioni che precedono, la prima questione va
+risolta dichiarando che la direttiva 2004/17 dev'essere interpretata nel senso
+che costituisce un «appalto di servizi» ai sensi dell'art. 1, n. 2, lett. d),
+di tale direttiva un contratto con cui il prestatore, in forza delle norme di
+diritto pubblico e delle clausole contrattuali che disciplinano la fornitura
+di tali servizi, non assume in misura significativa il rischio in cui
+l'amministrazione aggiudicatrice incorre. Spetta al giudice nazionale valutare
+se l'operazione controversa nella causa principale debba essere qualificata
+come concessione di servizi o come appalto pubblico di servizi tenendo conto
+di tutte le caratteristiche di detta operazione.
+
+  _Sulle questioni seconda e terza_
+
+60      Con tali questioni, che occorre esaminare congiuntamente, il giudice
+del rinvio intende accertare, nell'ipotesi in cui il contratto controverso
+nella causa principale debba essere qualificato come «appalto pubblico di
+servizi» ai sensi della direttiva 2004/17, se l'art. 2 quinquies, n. 1, lett.
+b), della direttiva 92/13, che, in forza dell'art. 1 della stessa, si applica
+agli appalti interessati dalla direttiva 2004/17, sia applicabile a tale
+contratto anche se esso sia stato concluso prima della scadenza del termine di
+recepimento della direttiva 2007/66, direttiva che ha inserito detto art. 2
+quinquies, n. 1, lett. b), nella direttiva 92/13, e, in caso di soluzione
+affermativa, se quest'ultima disposizione sia direttamente applicabile.
+
+61      Nel caso in cui, come sostiene il governo lettone, la direttiva
+2004/18 sia applicabile, circostanza che spetta al giudice nazionale
+verificare, occorre rilevare che l'art. 1 della direttiva 2007/66 ha inserito
+nella direttiva del Consiglio 21 dicembre 1989, 89/665/CEE, che coordina le
+disposizioni legislative, regolamentari e amministrative relative
+all'applicazione delle procedure di ricorso in materia di aggiudicazione degli
+appalti pubblici di forniture e di lavori (GU L 395, pag. 33), quale
+modificata dalla direttiva del Consiglio 18 giugno 1992, 92/50/CEE (GU L 209,
+pag. 1), disposizioni identiche a quelle degli artt. 2 quinquies e 2 septies
+della direttiva 92/13, cosicche l'interpretazione di queste ultime
+disposizioni e direttamente trasponibile alle disposizioni corrispondenti
+della direttiva 89/665, come modificata.
+
+62      In conformita all'art. 2 quinquies, n. 1, lett. b), della direttiva
+92/13, gli Stati membri assicurano che un contratto sia considerato privo di
+effetti da un organo di ricorso indipendente dall'ente aggiudicatore o che la
+sua privazione di effetti sia conseguenza di una decisione di detto organo di
+ricorso, in particolare, se e stato concluso qualora, ai sensi dell'art. 2, n.
+3, di tale direttiva, un organo di prima istanza, che e indipendente dall'ente
+aggiudicatore, riceva un ricorso relativo ad una decisione di aggiudicazione
+di un appalto, oppure se e stato concluso senza rispettare il termine di
+sospensione previsto all'art. 2 bis, n. 2, di detta direttiva.
+
+63      Senza che sia necessario esaminare la questione se, dopo la scadenza
+del termine di recepimento della direttiva 2007/66, un singolo possa far
+valere l'art. 2 quinquies, n. 1, lett. b), della direttiva 92/13 dinanzi ai
+giudici nazionali avverso un'amministrazione aggiudicatrice quale la convenuta
+nella causa principale, e sufficiente rilevare che detta disposizione non e
+comunque applicabile a contratti di appalto che, come nella causa principale,
+sono stati stipulati prima della scadenza, in data 20 dicembre 2009, del
+termine di recepimento della direttiva 2007/66, dal momento che il recepimento
+di quest'ultima non e intervenuto prima della scadenza di tale termine.
+
+64      È pacifico che la decisione di aggiudicazione dell'appalto controverso
+e stata adottata il 2 settembre 2009 e che il contratto controverso e stato
+stipulato il 9 ottobre 2009.
+
+65      La circonstanza che, ai sensi dell'art. 2 septies, n. 1, lett. b),
+della direttiva 92/13, gli Stati membri possono stabilire che la proposizione
+di un ricorso a norma dell'art. 2 quinquies, n. 1, di tale direttiva debba
+avvenire in ogni caso prima dello scadere di un «periodo di almeno sei mesi a
+decorrere dal giorno successivo alla data di stipula del contratto», non
+consente di concludere che contratti di appalto stipulati, come nella causa
+principale, nei sei mesi precedenti la scadenza del termine di recepimento
+della direttiva 2007/66 potrebbero rientrare nell'ambito di applicazione di
+tale art. 2 quinquies, n. 1, lett. b).
+
+66      In mancanza di qualsiasi indicazione nella direttiva 2007/66 relativa
+alla retroattivita della disposizione di cui trattasi, sarebbe contrario al
+principio di certezza del diritto considerare detta disposizione applicabile
+ad appalti pubblici aggiudicati prima della data di scadenza del termine di
+recepimento di detta direttiva.
+
+67      Tenuto conto delle considerazioni che precedono, le questioni seconda
+e terza devono essere risolte nel senso che l'art. 2 quinquies, n. 1, lett.
+b), della direttiva 92/13 non e applicabile a contratti di appalto conclusi
+prima della scadenza del termine di recepimento della direttiva 2007/66.
+
+  **Sulle spese**
+
+68      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Seconda Sezione) dichiara:
+
+1)       **La direttiva del Parlamento europeo e del Consiglio 31 marzo 2004,
+2004/17/CE, che coordina le procedure di appalto degli enti erogatori di acqua
+e di energia, degli enti che forniscono servizi di trasporto e servizi
+postali, dev 'essere interpretata nel senso che costituisce un «appalto di
+servizi» ai sensi dell'art. 1, n. 2, lett. d), di tale direttiva un contratto
+con cui il prestatore, in forza delle norme di diritto pubblico e delle
+clausole contrattuali che disciplinano la fornitura di tali servizi, non
+assume in misura significativa il rischio in cui l'amministrazione
+aggiudicatrice incorre. Spetta al giudice nazionale valutare se l'operazione
+controversa nella causa principale debba essere qualificata come concessione
+di servizi o come appalto pubblico di servizi tenendo conto di tutte le
+caratteristiche di detta operazione.**
+
+2)       **L 'art. 2 quinquies, n. 1, lett. b), della direttiva del Consiglio
+25 febbraio 1992, 92/13/CEE, che coordina le disposizioni legislative,
+regolamentari e amministrative relative all'applicazione delle norme
+comunitarie in materia di procedure di appalto degli enti erogatori di acqua e
+di energia e degli enti che forniscono servizi di trasporto nonche degli enti
+che operano nel settore delle telecomunicazioni, quale modificata dalla
+direttiva del Parlamento europeo e del Consiglio 11 dicembre 2007, 2007/66/CE,
+non e applicabile ad appalti pubblici aggiudicati prima della scadenza del
+termine di recepimento della direttiva 2007/66.**
+
+Firme
+
+* * *
+
+* Lingua processuale: il lettone. 
+

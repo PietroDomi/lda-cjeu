@@ -1534,3 +1534,7 @@ Firme
 
 ( *1 ) Lingua processuale: il ceco.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

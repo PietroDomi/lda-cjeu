@@ -644,3 +644,7 @@ Firme
 
 ( *1 ) Lingua processuale: lo spagnolo.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

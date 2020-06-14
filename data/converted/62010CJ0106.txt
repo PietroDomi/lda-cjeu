@@ -1,0 +1,537 @@
+
+
+**Causa C ‑106/10**
+
+**Lidl & Companhia**
+
+**contro**
+
+**Fazenda P ublica**
+
+(domanda di pronuncia pregiudiziale proposta dal Supremo Tribunal
+Administrativo)
+
+«Fiscalita -- Direttiva 2006/112/CE -- IVA -- Base imponibile -- Imposta
+dovuta per la fabbricazione, l'assemblaggio, l'ammissione o l'importazione dei
+veicoli»
+
+Massime della sentenza
+
+_Disposizioni tributarie -- Armonizzazione delle legislazioni -- Imposte sulla
+cifra d'affari -- Sistema comune d'imposta sul valore aggiunto -- Base
+imponibile_
+
+_[Direttiva del Consiglio 2006/112, art.  78, primo comma, lett. a)]_
+
+Un'imposta sugli autoveicoli il cui fatto generatore e direttamente connesso
+alla cessione di un veicolo rientrante nell'ambito di applicazione di detta
+imposta e che e pagata dal fornitore del veicolo considerato rientra nella
+nozione di «imposte, dazi, tasse e prelievi» ai sensi dell'art. 78, primo
+comma, lett. a), della direttiva 2006/12, relativa al sistema comune d'imposta
+sul valore aggiunto, e deve, in applicazione di tale disposizione, essere
+inclusa nella base imponibile dell'imposta sul valore aggiunto della cessione
+di detto veicolo.
+
+Le somme versate dal fornitore a titolo di detta imposta sugli autoveicoli per
+la fabbricazione, l'assemblaggio, l'ammissione o l'importazione nel territorio
+di uno Stato membro di veicoli per i quali e obbligatoria l'immatricolazione
+in detto Stato membro si integrano nel valore del veicolo fornito.
+L'acquirente di un veicolo assoggettato alla predetta imposta sugli
+autoveicoli, pagata dal fornitore in nome e per conto proprio, remunera dunque
+un'operazione previa effettuata da tale soggetto passivo.
+
+(v. punti 34, 37, 42 e dispositivo)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Settima Sezione)
+
+28 luglio 2011 (*)
+
+«Fiscalita - Direttiva 2006/112/CE - IVA - Base imponibile - Imposta dovuta
+per la fabbricazione, l'assemblaggio, l'ammissione o l'importazione dei
+veicoli»
+
+Nel procedimento C‑106/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Supremo Tribunal Administrativo (Portogallo),
+con decisione 27 gennaio 2010, pervenuta in cancelleria il 25 febbraio 2010,
+nella causa
+
+**Lidl & Companhia**
+
+contro
+
+**Fazenda P ublica,**
+
+in presenza di:
+
+**Minist erio Publico,**
+
+LA CORTE (Settima Sezione),
+
+composta dal sig. D. Švaby (relatore), presidente di sezione, dai sigg. G.
+Arestis e J. Malenovský, giudici,
+
+avvocato generale: sig.ra V. Trstenjak
+
+cancelliere: sig.ra A. Impellizzeri, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza del 5 maggio
+2011,
+
+considerate le osservazioni presentate:
+
+-        per la Lidl & Companhia, dagli avv.ti M. Lourenço e I. Ramos, advogados,
+
+-        per la Fazenda Publica, dall'avv. N. Severino, advogado,
+
+-        per il governo portoghese, dai sigg. L. Fernandes e R. Laires, in qualita di agenti,
+
+-        per la Commissione europea, dalla sig.ra M. Afonso, in qualita di agente,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+degli artt. 78, primo comma, lett. a), e 79, primo comma, lett. c), della
+direttiva del Consiglio 28 novembre 2006, 2006/112/CE, relativa al sistema
+comune d'imposta sul valore aggiunto (GU L 347, pag. 1, e rettifica GU 2007, L
+335, pag. 60).
+
+2        Tale domanda e stata proposta nell'ambito di una controversia che
+oppone la Lidl & Companhia alla Fazenda Publica (Erario) riguardo
+all'inclusione, nella base imponibile dell'imposta sul valore aggiunto (in
+prosieguo: l'«IVA»), dell'imposta sui veicoli («imposto sobre veiculos»; in
+prosieguo: l'«ISV») attinente all'acquisto di due veicoli presso una societa
+portoghese importatrice di autoveicoli.
+
+  **Contesto normativo**
+
+  _La normativa dell 'Unione_
+
+3        L'art. 73 della direttiva 2006/112 cosi dispone:
+
+«Per le cessioni di beni e le prestazioni di servizi diverse da quelle di cui
+agli articoli da 74 a 77, la base imponibile comprende tutto cio che
+costituisce il corrispettivo versato o da versare al fornitore o al prestatore
+per tali operazioni da parte dell'acquirente, del destinatario o di un terzo,
+comprese le sovvenzioni direttamente connesse con il prezzo di tali
+operazioni».
+
+4        L'art. 78, primo comma, lett. a), di tale direttiva e del seguente
+tenore:
+
+«Nella base imponibile devono essere compresi gli elementi seguenti:
+
+a)      le imposte, i dazi, le tasse e i prelievi, ad eccezione della stessa
+IVA».
+
+5        L'art. 79 della medesima direttiva prevede quanto segue:
+
+«Non sono compresi nella base imponibile gli elementi seguenti:
+
+(...)
+
+c)      le somme ricevute da un soggetto passivo da parte dell'acquirente o
+del destinatario quale rimborso delle spese sostenute in nome e per conto di
+questi ultimi, e che figurano nella sua contabilita in conti provvisori.
+
+Il soggetto passivo deve giustificare l'importo effettivo delle spese di cui
+al primo comma, lettera c) e non puo procedere alla detrazione dell'IVA che
+avesse eventualmente gravato su di esse».
+
+6        L'art. 83 della direttiva 2006/112 prevede quanto segue:
+
+«Per gli acquisti intracomunitari di beni la base imponibile e costituita
+dagli stessi elementi stabiliti per determinare, conformemente al capo 2, la
+base imponibile della cessione degli stessi beni nel territorio dello Stato
+membro. (...)».
+
+  _La normativa nazionale_
+
+ La normativa in materia d'IVA
+
+7        L'art. 16 del codice dell'imposta sul valore aggiunto (Codigo do
+Imposto sobre o Valor Acrescentado; in prosieguo: il «CIVA») cosi dispone:
+
+«1.      Fatte salve le disposizioni del paragrafo 2, la base imponibile delle
+cessioni di beni e delle prestazioni di servizi imponibili corrisponde al
+valore del corrispettivo che l'acquirente, il destinatario o un terzo ha
+ricevuto o ricevera.
+
+(...)
+
+5.      Nella base imponibile delle cessioni di beni e delle prestazioni di servizi imponibili vanno inclusi i seguenti elementi:
+
+a)      le imposte, i dazi, le tasse e i prelievi, ad eccezione della stessa
+[IVA];
+
+(...)
+
+6.      Nella base imponibile di cui al paragrafo precedente non vanno inclusi i seguenti elementi:
+
+(...)
+
+c)      gli importi versati in nome e per conto dell'acquirente dei beni o del
+destinatario dei servizi, debitamente registrati in conto terzi dal soggetto
+passivo;
+
+(...)».
+
+8        L'art. 17 del CIVA cosi prevede:
+
+«1\.       La base imponibile dei beni importati corrisponde al valore in
+dogana, determinato conformemente alle disposizioni dell'Unione europea in
+vigore.
+
+2\.       Vanno inclusi nella base imponibile, laddove non siano in essa gia
+compresi, i seguenti elementi:
+
+a)      le imposte, i dazi, le tasse e i prelievi dovuti prima
+dell'importazione o in ragione dell'importazione, ad eccezione della stessa
+[IVA];
+
+(...)».
+
+9        L'art. 17 del Regime dell'IVA nelle operazioni intracomunitarie
+(Regime do IVA nas Transacçoes Intracomunitarias) e del seguente tenore:
+
+«1.      Le disposizioni dell'art. 16 del CIVA relative alle cessioni di beni
+si applicano, nelle medesime condizioni, al calcolo della base imponibile
+degli acquisti intracomunitari di beni.
+
+(...)
+
+3.      Nel caso di acquisti intracomunitari di beni assoggettati ad accise o all'imposta sui veicoli, la base imponibile comprende tali imposte, anche qualora non siano liquidate simultaneamente». 
+
+ La normativa relativa all'ISV
+
+10      Il codice dell'imposta sui veicoli (Codigo do Imposto sobre Veiculos),
+pubblicata in allegato alla legge 29 giugno 2007, n. 22-A/2007 ( _Di ario da
+Republica_ I, n. 124, del 29 giugno 2007; in prosieguo: il «CISV») e entrato
+in vigore il 1° luglio 2007.
+
+11      L'art. 3, n. 1, del CISV cosi dispone:
+
+«Sono soggetti passivi dell'imposta i concessionari autorizzati, i
+concessionari riconosciuti e i privati, come definiti dal presente codice, che
+immettono in consumo veicoli imponibili, vale a dire le persone a nome delle
+quali e emessa la dichiarazione doganale di veicoli o la dichiarazione
+complementare di veicoli».
+
+12      L'art. 5 del CISV e del seguente tenore:
+
+«1.      Costituisce fatto generatore dell'imposta la fabbricazione,
+l'assemblaggio, l'ammissione o l'importazione di veicoli imponibili nel
+territorio nazionale per i quali e obbligatoria l'immatricolazione in
+Portogallo.
+
+2.      Costituiscono del pari fatti generatori dell'imposta:
+
+a)      l'attribuzione di un numero di immatricolazione nuovo e definitivo in
+seguito alla cancellazione volontaria dell'immatricolazione nazionale
+accompagnata dal rimborso dell'imposta o di qualsiasi altro beneficio fiscale;
+
+(...)
+
+d)      la presenza del veicolo nel territorio nazionale in violazione delle
+disposizioni del presente codice.
+
+3.      Ai fini del presente codice, s'intende per:
+
+a)      "ammissione": l'ingresso nel territorio nazionale di un veicolo
+originario di un altro Stato membro dell'Unione europea o messo in libera
+pratica in quest'ultimo;
+
+b)      "importazione": l'ingresso nel territorio nazionale di un veicolo
+originario di un paese terzo.
+
+(...)».
+
+13      A norma dell'art. 6, n. 1, del CISV, l'ISV diviene esigibile al
+momento dell'immissione in consumo, vale a dire:
+
+«a)      al momento della presentazione della domanda di immissione in consumo
+da parte dei concessionari autorizzati e dei concessionari riconosciuti;
+
+b)      al momento della presentazione della dichiarazione in dogana del
+veicolo o della dichiarazione complementare di veicoli da parte di privati».
+
+14      L'art. 16 del CISV definisce il privato come «qualsiasi persona
+soggetto passivo che effettua l'ammissione o l'importazione di veicoli
+imponibili, siano essi nuovi o usati, allo scopo principale di soddisfare le
+proprie necessita di trasporto».
+
+15      Ai sensi dell'art. 27, n. 3, del CISV, le autorita competenti
+all'immatricolazione non possono accettare di immatricolare veicoli senza che
+sia apportata la prova dell'avvenuto pagamento in particolare dell'ISV se
+quest'ultima e dovuta.
+
+16      In applicazione dell'art. 58, n. 1, del CISV, rubricato «Trasferimento
+di residenza», sono esonerati dal pagamento dell'ISV i veicoli detenuti da
+persone che trasferiscono la loro residenza in Portogallo a partire da un
+altro Stato membro dell'Unione o da uno Stato terzo.
+
+  **Causa principale e questione pregiudiziale**
+
+17      Il 28 settembre 2007, la Lidl & Companhia ha acquistato due
+autoveicoli. Le fatture emesse dal fornitore e pagate da tale impresa
+comprendevano il prezzo base, l'ISV e spese diverse. Sull'importo totale e
+stata applicata l'IVA all'aliquota del 21%.
+
+18      Il 25 gennaio 2008, la Lidl & Companhia ha proposto un ricorso
+amministrativo contro l'atto di liquidazione dell'IVA addebitata nelle
+suddette due fatture, i cui importi accertati di IVA ammontavano
+rispettivamente a EUR 8 601,23 e a EUR 4 554,33. Il 7 aprile 2008, il
+direttore dei servizi finanziari dell'area di Sintra 1 ha respinto tale
+ricorso, con una decisione notificata all'interessata.
+
+19      Poiche il Tribunal Administrativo e Fiscal de Sintra aveva respinto
+integralmente il ricorso contro l'atto di liquidazione dell'IVA proposto dalla
+Lidl & Companhia, quest'ultima ha adito il Supremo Tribunal Administrativo.
+Dinanzi a tale organo giurisdizionale la ricorrente afferma che la decisione
+del Tribunal Administrativo e Fiscal de Sintra, accogliendo la tesi secondo la
+quale l'ISV calcolata e pagata all'atto dell'importazione degli autoveicoli
+nel territorio nazionale deve essere inclusa nel calcolo della base imponibile
+dell'IVA, viola le disposizioni degli artt. 16, n. 6, lett. c), del CIVA e 79,
+primo comma, lett. c), della direttiva 2006/112. La Lidl & Companhia sostiene
+che, sebbene essa non sia soggetto passivo dell'ISV che ha gravato sui veicoli
+che ha acquistato, tale imposta e stata ripercossa nei suoi confronti e
+determinato il pagamento di un importo eccessivo d'IVA, del quale essa chiede
+il rimborso.
+
+20      Il Ministerio Publico presso il giudice del rinvio ritiene che l'ISV
+sia un'imposta «monofasica» che e pagata una sola volta, all'atto della prima
+introduzione del veicolo nel mercato portoghese, al momento della prima
+immatricolazione in Portogallo. A tale proposito egli fa rilevare che detta
+imposta, il cui fatto generatore e l'introduzione del veicolo nel mercato
+portoghese al momento della prima immatricolazione in Portogallo, presenta
+caratteristiche analoghe all'«imposta di immatricolazione» che ha dato luogo
+alla sentenza 1° giugno 2006, causa C‑98/05, De Danske Bilimportører (Racc.
+pag. I‑4945). Egli suggerisce quindi che sia sottoposta alla Corte una
+questione pregiudiziale.
+
+21      Alla luce delle conclusioni della ricorrente nella causa principale e
+a quelle del Ministerio Publico, pur considerando che l'inclusione dell'ISV
+nella base imponibile dell'IVA non violi il diritto dell'Unione, il Supremo
+Tribunal Administrativo ha deciso di sospendere il procedimento e di proporre
+alla Corte la seguente questione pregiudiziale:
+
+«Se l'art. 78, n. 1, lett. a), della direttiva [2006/112], in combinato
+disposto con l'art. 79, n. 1, lett. c), della medesima direttiva, debba essere
+interpretato nel senso che osta a che, nell'ambito degli acquisti
+intracomunitari, venga incluso nella base imponibile dell'IVA l'importo
+dell'imposta sugli autoveicoli istituita dalla legge 29 giugno 2007, n.
+22-A/2007».
+
+  **Sulla questione pregiudiziale**
+
+  _Sulla ricevibilit a_
+
+22      Nelle sue osservazioni il governo portoghese contesta la ricevibilita
+della presente domanda di pronuncia pregiudiziale.
+
+23      Esso sostiene, in particolare, che tale domanda non contiene
+precisazioni sufficienti, anzitutto, quanto alla natura dell'operazione di cui
+trattasi nella causa principale, cessione di beni o acquisto intracomunitario,
+inoltre quanto al modo in cui la Lidl & Companhia avrebbe sopportato l'ISV e
+la TVA contestata e, infine, quanto al nesso esistente tra la controversia di
+cui alla causa principale e le disposizioni di cui e richiesta
+l'interpretazione.
+
+24      A tale riguardo occorre ricordare che, in forza di una giurisprudenza
+costante, nell'ambito di un procedimento ex art. 267 TFUE, basato sulla netta
+separazione di funzioni tra i giudici nazionali e la Corte, il giudice
+nazionale e l'unico competente a conoscere e valutare i fatti della
+controversia di cui alla causa principale nonche ad interpretare ed a
+applicare il diritto nazionale. Parimenti spetta esclusivamente al giudice
+nazionale, cui e stata sottoposta la controversia e che deve assumersi la
+responsabilita dell'emananda decisione giurisdizionale, valutare, alla luce
+delle particolari circostanze della causa, sia la necessita, sia la rilevanza
+delle questioni che sottopone alla Corte. Di conseguenza, se le questioni
+sollevate riguardano l'interpretazione del diritto dell'Unione, la Corte, in
+via di principio, e tenuta a pronunciarsi (v. sentenza 26 maggio 2001, cause
+riunite da C‑165/09 a C‑167/09, Stichting Natuur en Milieu e a., non ancora
+pubblicata nella Raccolta, punto 47 e giurisprudenza citata).
+
+25      Ne consegue che le questioni pregiudiziali riguardanti il diritto
+dell'Unione beneficiano di una presunzione di pertinenza. Il rigetto di una
+domanda proposta da un giudice nazionale e possibile soltanto qualora appaia
+in modo manifesto che l'interpretazione del diritto dell'Unione richiesta non
+ha alcun rapporto con l'effettivita o l'oggetto della causa principale,
+qualora la questione sia di tipo ipotetico o, ancora, qualora la Corte non
+disponga degli elementi di fatto e di diritto necessari per rispondere in modo
+utile alle questioni che le sono sottoposte (v. sentenza 2 dicembre 2010,
+causa C‑225/09, Jakubowska, Racc. pag. I‑12329, punto 28 e giurisprudenza ivi
+citata).
+
+26      Orbene, occorre constatare che la decisione di rinvio descrive a
+sufficienza il contesto normativo e di fatto del procedimento principale, e
+che le indicazioni fornite dal giudice del rinvio consentono di determinare la
+portata delle questioni sollevate. Inoltre la Corte non puo rimettere in
+discussione ne la qualificazione, quale acquisto comunitario dell'operazione
+controversa nella causa principale, data dal giudice del rinvio nella
+questione pregiudiziale, ne la considerazione implicita secondo cui la
+ricorrente nella causa principale ha sopportato l'IVA sull'importo dell'ISV e
+ne richiede il rimborso. In considerazione del rinvio effettuato dall'art. 83
+della direttiva 2006/112 agli artt. 73 e seguenti di quest'ultima,
+l'interpretazione degli artt. 78 e 79 della stessa direttiva e, in ogni caso,
+pertinente per la risoluzione della controversia di cui alla causa principale,
+indipendentemente dal fatto che l'operazione ivi controversa sia una cessione
+di beni o un acquisto comunitario.
+
+27      Ne consegue che la domanda di pronuncia pregiudiziale e ricevibile.
+
+  _Nel merito_
+
+28      Con la sua questione il giudice del rinvio chiede, in sostanza, se
+un'imposta come l'ISV debba essere inclusa nella base imponibile dell'IVA in
+quanto imposta, dazio, tassa o prelievo ai sensi dell'art. 78, primo comma,
+lett. a), della direttiva 2006/112 o se, al contrario, debba essere esclusa da
+tale base imponibile ai sensi dell'art. 79, primo comma, lett. c), della
+stessa direttiva.
+
+29      Occorre preliminarmente osservare che, ai sensi dell'art. 83 della
+direttiva 2006/112, per quanto riguarda gli acquisti intracomunitari di beni,
+la base imponibile e costituita dagli stessi elementi stabiliti per
+determinare, conformemente agli artt. 73-82 della stessa direttiva, la base
+imponibile della cessione dei medesimi beni nel territorio dello Stato membro.
+
+30      L'art. 78, primo comma, lett. a), della direttiva 2006/112 prevede,
+piu in particolare, che, per le cessioni di beni vadano compresi nella base
+imponibile le imposte, i dazi, le tasse e i prelievi, ad eccezione della
+stessa IVA.
+
+31      L'art. 79, primo comma, lett. c), di tale direttiva prevede che siano
+escluse dalla base imponibile le somme che un soggetto passivo riceve
+dall'acquirente o dal destinatario quale rimborso delle spese sostenute in
+nome e per conto di questi ultimi, e che figurano nella sua contabilita in
+conti provvisori.
+
+32      Al fine di stabilire se un'imposta come l'ISV debba essere inclusa
+nella base imponibile dell'IVA o al contrario esserne esclusa occorre
+determinare, da un lato, se essa rientri nella nozione di «imposte, dazi,
+tasse e prelievi», ai sensi dell'art. 78, primo comma, lett. a), della
+direttiva 2006/112 e, d'altro lato, se essa fruisca dell'eccezione prevista
+all'art. 79, primo comma, lett. c), di tale direttiva.
+
+33      Relativamente, in primo luogo, all'art. 78, primo comma, lett. a),
+della direttiva 2006/112, la Corte ha precisato che, affinche imposte, dazi,
+tasse e prelievi possano rientrare nella base imponibile dell'IVA, pur non
+rappresentando un valore aggiunto e non costituendo il corrispettivo economico
+della cessione del bene, essi devono presentare un legame diretto con tale
+cessione (sentenza 22 dicembre 2010, causa C‑433/09, Commissione/Austria,
+punto 34 e giurisprudenza citata).
+
+34      A tal proposito risulta dalla giurisprudenza che la questione se il
+fornitore del veicolo abbia versato l'imposta in nome e per conto proprio
+costituisce un aspetto determinante per l'inclusione di un'imposta nel valore
+del bene fornito e che, se cosi e, il corrispettivo che e preso in
+considerazione per calcolare la base imponibile deve, in linea di principio,
+comprendere l'importo dell'imposta di cui trattasi (v., in tal senso, sentenza
+20 maggio 2010, causa C‑228/09, Commissione/Polonia, punto 40).
+
+35      Nella fattispecie, ai sensi dell'art. 3, n. 1, del CISV, sono soggetti
+passivi dell'ISV i concessionari autorizzati, i concessionari riconosciuti e i
+privati che immettono in consumo veicoli imponibili, vale a dire le persone a
+nome delle quali e emessa la dichiarazione doganale di veicoli o la
+dichiarazione complementare di veicoli. Orbene, per quanto riguarda i privati
+quali definiti dall'art. 16 del CISV, risulta che essi sono soggetti passivi
+residui, come ha sostenuto in udienza la Repubblica portoghese.
+
+36      Si deve quindi necessariamente constatare che, in linea di principio,
+le spese pagate a titolo dell'ISV non sono state pagate a nome dell'acquirente
+del veicolo, ma dal fornitore dello stesso ai sensi dell'art. 73 della
+direttiva 2006/112, ed e cosi stabilito un nesso diretto tra l'operazione di
+cessione effettuata da quest'ultimo e detta imposta.
+
+37      Nello stesso senso, si deve rilevare che, nonostante la mancanza di
+esplicita menzione della cessione quale fatto generatore dell'ISV, dall'art.
+5, n. 1, del CISV si evince chiaramente che i fatti generatori di tale imposta
+risultano essere tutti operazioni effettuate a monte e rientranti
+nell'operazione di cessione. Le somme versate dal fornitore a titolo dell'ISV
+per la fabbricazione, l'assemblaggio, l'ammissione o l'importazione nel
+territorio portoghese di veicoli per i quali e obbligatoria l'immatricolazione
+in Portogallo si integrano quindi nel valore del veicolo fornito, come ha
+sostenuto in udienza la Repubblica portoghese. Facendo cio, l'acquirente di un
+veicolo assoggettato all'ISV pagata dal fornitore di detto veicolo remunera
+un'operazione previa effettuata da tale soggetto passivo.
+
+38      Peraltro, non puo essere stabilito alcun nesso giuridico diretto tra
+l'ISV e l'operazione di immatricolazione, contrariamente a cio che accadeva
+relativamente all'imposta controversa nella causa che ha dato luogo alla
+citata sentenza De Danske Bilimportører. Si puo, infatti, rilevare in
+particolare che il CISV prevede diverse ipotesi nelle quali non l'ISV e
+dovuta, pur se ha luogo l'immatricolazione di un veicolo che rientra nel suo
+ambito di applicazione. Cosi avviene, in particolare, nell'ipotesi
+dell'esenzione accordata ai sensi dell'art. 58, n. 1, del CISV ai veicoli
+detenuti da persone che trasferiscono la loro residenza in Portogallo. È del
+pari pertinente in proposito la circostanza che tanto il fatto generatore
+quanto l'esigibilita dell'ISV precedono l'operazione di immatricolazione, come
+risulta dall'art. 27 del CISV, ai sensi del quale un veicolo imponibile puo
+essere immatricolato soltanto se imposte e tributi ad esso afferenti sono
+stati tutti pagati.
+
+39      Un'imposta come l'ISV deve essere pertanto considerata direttamente
+connessa alla fornitura dei veicoli che rientrano nel suo ambito di
+applicazione e, di conseguenza, essere inclusa nella base imponibile dell'IVA
+in applicazione dell'art. 78, primo comma, lett. a), della direttiva 2006/112.
+
+40      Per quanto riguarda, in secondo luogo, l'art. 79, primo comma, lett.
+c), della direttiva 2006/112, non si puo validamente sostenere che le spese
+sopportate da un concessionario autorizzato o da un concessionario
+riconosciuto a titolo dell'ISV siano state sopportate in nome e per conto
+dell'acquirente del veicolo considerato. In proposito e sufficiente
+constatare, come risulta dal punto 35 della presente sentenza, che i soggetti
+passivi dell'ISV sono i fornitori del veicolo e non gli acquirenti di
+quest'ultimo (v., per analogia, sentenza Commissione/Austria, cit., punto 48).
+
+41      Di conseguenza, un'imposta come l'ISV non puo essere esclusa dalla
+base imponibile dell'IVA ai sensi dell'art. 79, primo comma, lett. c), della
+direttiva 2006/112.
+
+42      Alla luce di quanto precede, la questione posta va risolta dichiarando
+che un'imposta come l'ISV, di cui trattasi nella causa principale, il cui
+fatto generatore e direttamente connesso alla cessione di un veicolo
+rientrante nell'ambito di applicazione di detta imposta e che e stata versata
+dal fornitore del veicolo considerato, rientra nella nozione di «imposte,
+dazi, tasse e prelievi» ai sensi dell'art. 78, primo comma, lett. a), della
+direttiva 2006/112, e deve, in applicazione di tale disposizione, essere
+inclusa nella base imponibile dell'IVA della cessione di detto veicolo.
+
+  **Sulle spese**
+
+43      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi la Corte (Settima Sezione) dichiara:
+
+**Un 'imposta come l'imposta sugli autoveicoli (imposto sobre veiculos), di
+cui trattasi nella causa principale, il cui fatto generatore e direttamente
+connesso alla cessione di un veicolo rientrante nell'ambito di applicazione di
+detta imposta e che e stata versata dal fornitore del veicolo considerato,
+rientra nella nozione di «imposte, dazi, tasse e prelievi» ai sensi dell'art.
+78, primo comma, lett. a), della direttiva del Consiglio 28 novembre 2006,
+2006/112/CE, relativa al sistema comune d'imposta sul valore aggiunto, e deve,
+in applicazione di tale disposizione, essere inclusa nella base imponibile
+dell'imposta sul valore aggiunto della cessione di detto veicolo.**
+
+Firme
+
+* * *
+
+* Lingua processuale: il portoghese. 
+

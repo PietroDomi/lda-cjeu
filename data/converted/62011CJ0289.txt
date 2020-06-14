@@ -59,4 +59,7 @@ L'impugnazione e respinta.
 La Legris Industries SA e condannata alle spese.  
   
 ---|---|---
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
 

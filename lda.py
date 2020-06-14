@@ -15,7 +15,7 @@ docs = []
 for txt in os.listdir("data/converted"):
     text = open("data/converted/"+txt,"r",encoding='utf-8').read()
     docs.append(text)
-    
+
 print("Documents Loaded")
 
 documents = pd.DataFrame()
@@ -54,7 +54,7 @@ else:
     print("Documents preprocessed and saved")
 
 dictionary = corpora.Dictionary(processed_docs)
-dictionary.filter_extremes(no_below=round(.03*dictionary.num_docs))
+dictionary.filter_extremes(no_below=round(0.5/NUM_TOPICS*dictionary.num_docs))
 dictionary.filter_n_most_frequent(10)
 print("Dictionary created:", dictionary)
 
@@ -83,12 +83,22 @@ for idx, topic in lda_model_tfidf.print_topics(-1):
     print('Topic: {} \nWords: {}'.format(idx, topic))
 
 
-lda_model_tfidf.get_topics()
+def classify(num=1):
+    print("\nClassification document {num} - model bow:")
+    for index, score in sorted(lda_model_bow[corpus_bow[num]], key=lambda tup: -1*tup[1]):
+        print("\nScore: {}\t \nTopic: {}".format(score, lda_model_bow.print_topic(index, 10)))
 
-print("\nClassification document 100 - model 1:")
-for index, score in sorted(lda_model_bow[corpus_bow[100]], key=lambda tup: -1*tup[1]):
-    print("\nScore: {}\t \nTopic: {}".format(score, lda_model_bow.print_topic(index, 10)))
+    print("\nClassification document {num} - model tfidf:")
+    for index, score in sorted(lda_model_tfidf[corpus_tfidf[num]], key=lambda tup: -1*tup[1]):
+        print("\nScore: {}\t \nTopic: {}".format(score, lda_model_tfidf.print_topic(index, 10)))
 
-print("\nClassification document 100 - model 2:")
-for index, score in sorted(lda_model_tfidf[corpus_tfidf[100]], key=lambda tup: -1*tup[1]):
-    print("\nScore: {}\t \nTopic: {}".format(score, lda_model_tfidf.print_topic(index, 10)))
+# classify(100)
+
+for topic in lda_model_tfidf.show_topics(formatted=False):
+    print(topic[0])
+    for word in topic[1]:
+        print(f"\t{word[0]}")
+
+
+for i in range(len(corpus_bow[100])):
+    print(dictionary.id2token[corpus_bow[100][i][0]],corpus_bow[100][i][1])

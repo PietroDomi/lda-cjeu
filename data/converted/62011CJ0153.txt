@@ -949,3 +949,7 @@ Firme
 
 ( *1 ) Lingua processuale: il bulgaro.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

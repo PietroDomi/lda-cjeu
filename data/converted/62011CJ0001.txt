@@ -1,3 +1,5 @@
+  
+  
 SENTENZA DELLA CORTE (Quarta Sezione)
 
 29 marzo 2012 ( *1 )
@@ -905,4 +907,8 @@ Firme
 * * *
 
 ( *1 ) Lingua processuale: il tedesco.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
 

@@ -67,4 +67,7 @@ comune d'imposta sul valore aggiunto.
 La Repubblica francese e condannata alle spese.  
   
 ---|---|---
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
 

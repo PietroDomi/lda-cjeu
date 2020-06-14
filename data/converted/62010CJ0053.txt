@@ -1,0 +1,743 @@
+
+
+**Causa C ‑53/10**
+
+**Land Hessen**
+
+**contro**
+
+**Franz M ucksch OHG**
+
+(domanda di pronuncia pregiudiziale proposta dal Bundesverwaltungsgericht)
+
+«Ambiente -- Direttiva 96/82/CE -- Controllo dei pericoli di incidenti
+rilevanti connessi con determinate sostanze pericolose -- Prevenzione --
+Opportune distanze tra le zone frequentate dal pubblico e gli stabilimenti in
+cui sono presenti notevoli quantita di sostanze pericolose»
+
+Massime della sentenza
+
+1.         _Ambiente -- Controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose -- Direttiva 96/82 -- Controllo dell'urbanizzazione _
+
+_(Direttiva del Consiglio 96/82, come modificata dalla direttiva 2003/105,
+art.  12, n. 1)_
+
+2.         _Ambiente -- Controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose -- Direttiva 96/82 -- Controllo dell'urbanizzazione_
+
+_(Direttiva del Consiglio 96/82, come modificata dalla direttiva 2003/105,
+art.  12, n. 1)_
+
+1.        L'art. 12, n. 1, della direttiva 96/82, sul controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose, quale modificata dalla direttiva 2003/105, deve essere interpretato nel senso che l'obbligo degli Stati membri di provvedere affinche si tenga conto della necessita, a lungo termine, di mantenere opportune distanze tra gli stabilimenti soggetti a tale direttiva, da un lato, e gli edifici aperti al pubblico, dall'altro, grava anche su un'autorita pubblica competente per il rilascio delle licenze edilizie, e cio anche qualora essa eserciti tale prerogativa mediante decisioni vincolate. 
+
+(v. punto 35, dispositivo 1)
+
+2.        L'obbligo previsto dall'art. 12, n. 1, della direttiva 96/82, sul controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose, quale modificata dalla direttiva 2003/105, di tenere conto della necessita, a lungo termine, di mantenere opportune distanze tra gli stabilimenti soggetti a tale direttiva, da un lato, e gli edifici aperti al pubblico, dall'altro, non impone alle autorita nazionali competenti di vietare l'insediamento di un edificio aperto al pubblico, nell'ipotesi in cui un siffatto edificio non sia separato da una distanza opportuna da uno stabilimento esistente, qualora non lontano ovvero appena piu lontano da detto stabilimento esistano gia vari edifici aperti al pubblico analoghi, il gestore non sia soggetto, in seguito al nuovo progetto, ad obblighi supplementari per limitare le conseguenze di un incidente e siano garantiti i requisiti di salubrita delle abitazioni e dei luoghi di lavoro. Per contro, tale obbligo osta a una normativa nazionale che preveda il dovere di autorizzare l'insediamento di un siffatto edificio, senza che siano stati adeguatamente valutati i rischi connessi all'insediamento di tale immobile all'interno del perimetro di dette distanze in fase di pianificazione o in fase di decisione individuale. 
+
+(v. punto 53, dispositivo 2)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+15 settembre 2011 (*)
+
+«Ambiente - Direttiva 96/82/CE - Controllo dei rischi di incidenti rilevanti
+connessi con determinate sostanze pericolose - Prevenzione - Opportune
+distanze tra le zone frequentate dal pubblico e gli stabilimenti in cui sono
+presenti notevoli quantita di sostanze pericolose»
+
+Nel procedimento C‑53/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Bundesverwaltungsgericht (Germania), con
+decisione 3 dicembre 2009, pervenuta in cancelleria il 2 febbraio 2010, nella
+causa
+
+**Land Hessen**
+
+contro
+
+**Franz M ucksch OHG,**
+
+con l'intervento di:
+
+**Merck KGaA,**
+
+LA CORTE (Prima Sezione),
+
+composta dal sig. A. Tizzano (relatore), presidente di sezione, dai sigg.
+J.-J. Kasel, M. Ilešič, E. Levits e M. Safjan, giudici,
+
+avvocato generale: sig.ra E. Sharpston,
+
+cancelliere: sig. B. Fulop, amministratore,
+
+vista la fase scritta e in seguito all'udienza del 27 gennaio 2011,
+
+considerate le osservazioni presentate:
+
+-        per la Franz Mucksch OHG, dal sig. S. Kobes, Rechtsanwalt;
+
+-        per la Merck KGaA, dal sig. C. Weidemann, Rechtsanwalt;
+
+-        per il governo tedesco, dai sigg. J. Moller e C. Blaschke, in qualita di agenti;
+
+-        per la Commissione europea, dai sigg. G. von Rintelen e A. Sipos, in qualita di agenti,
+
+sentite le conclusioni dell'avvocato generale, presentate all'udienza del 14
+aprile 2011,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+dell'art. 12, n. 1, della direttiva del Consiglio 9 dicembre 1996, 96/82/CE,
+sul controllo dei pericoli di incidenti rilevanti connessi con determinate
+sostanze pericolose (GU 1997, L 10, pag. 13), quale modificata dalla direttiva
+del Parlamento europeo e del Consiglio 16 dicembre 2003, 2003/105/CE (GU L
+345, pag. 97; in prosieguo: la «direttiva 96/82»).
+
+2        Tale domanda e stata presentata nell'ambito di una controversia tra
+il Land Hessen e la Franz Mucksch OHG (in prosieguo: la «Franz Mucksch»), in
+merito all'insediamento, da parte di quest'ultima, di un negozio di materiali
+e di prodotti per il giardinaggio nei pressi di uno stabilimento chimico
+appartenente alla Merck KGaA (in prosieguo: la «Merck»), situato in una zona
+rientrante nell'ambito di applicazione della direttiva 96/82.
+
+  **Contesto normativo**
+
+  _Il diritto dell 'Unione _
+
+3        Il secondo 'considerando' della direttiva 96/82 e formulato nei
+seguenti termini:
+
+«Considerando che gli obiettivi e i principi della politica comunitaria in
+materia ambientale, quali definiti all'articolo [174], paragrafi 1 e 2 [CE] e
+precisati nei programmi d'azione della Comunita europea in materia ambientale
+(…), sono intesi in particolare a salvaguardare e proteggere, attraverso
+un'azione preventiva, la qualita dell'ambiente e a tutelare la salute umana».
+
+4        Il ventiduesimo 'considerando' della predetta direttiva cosi recita:
+
+«(…) Per proteggere maggiormente le zone residenziali, le zone frequentate dal
+pubblico e le zone di particolare interesse naturale o particolarmente
+sensibili, e necessario che le politiche in materia di destinazione o
+utilizzazione dei suoli e/o altre politiche pertinenti applicate negli Stati
+membri tengano conto della necessita, a lungo termine, di mantenere opportune
+distanze tra dette zone e gli stabilimenti che presentano tali rischi e per
+gli stabilimenti esistenti tengano conto di misure tecniche complementari per
+non accrescere i rischi per le persone».
+
+5        Ai sensi dell'art. 1 della direttiva 96/82, intitolato «Scopo»:
+
+«Scopo della presente direttiva e la prevenzione degli incidenti rilevanti
+connessi con determinate sostanze pericolose e la limitazione delle loro
+conseguenze per l'uomo e per l'ambiente, al fine di assicurare in modo
+coerente ed efficace un elevato livello di protezione in tutta la Comunita».
+
+6        L'art. 3, punti 1‑7, della direttiva 96/82 cosi dispone:
+
+«Ai fini della presente direttiva si intende per:
+
+1)      "stabilimento", tutta l'area sottoposta al controllo di un gestore,
+nella quale sono presenti sostanze pericolose all'interno di uno o piu
+impianti, comprese le infrastrutture o le attivita comuni o connesse;
+
+2)      "impianto", un'unita tecnica all'interno di uno stabilimento, in cui
+sono prodotte, utilizzate, manipolate o depositate sostanze pericolose.
+Comprende tutte le apparecchiature, le strutture, le condotte, i macchinari,
+gli utensili, le diramazioni ferroviarie particolari, le banchine, i pontili
+che servono l'impianto, i moli, i magazzini e l[e] strutture analoghe,
+galleggianti o meno, necessari per il funzionamento dell'impianto;
+
+3)      "gestore", la persona fisica o giuridica che gestisce o detiene lo
+stabilimento o l'impianto ovvero la persona cui e stato delegato, ove cio e
+previsto dalla legislazione nazionale, un potere economico determinante in
+relazione al funzionamento tecnico dello stabilimento o dell'impianto;
+
+4)      "sostanze pericolose", le sostanze, miscele o preparazioni elencate
+nell'allegato I, parte 1, o rispondenti ai criteri fissati nell'allegato I,
+parte 2, che sono presenti come materie prime, prodotti, sottoprodotti,
+residui o prodotti intermedi, ivi comprese quelle che possono ragionevolmente
+ritenersi generate in caso di incidente;
+
+5)      "incidente rilevante", un evento quale un'emissione, un incendio o
+un'esplosione di grande entita, dovuto a sviluppi incontrollati che si
+verifichino durante l'attivita di uno stabilimento soggetto alla presente
+direttiva e che dia luogo ad un pericolo grave, immediato o differito, per la
+salute umana e/o per l'ambiente, all'interno o all'esterno dello stabilimento,
+e in cui intervengano una o piu sostanze pericolose;
+
+6)      "pericolo", la proprieta intrinseca di una sostanza pericolosa o della
+situazione fisica esistente in uno stabilimento di provocare danni per la
+salute umana e/o per l'ambiente;
+
+7)      "rischio", la probabilita che un determinato evento si verifichi in un
+dato periodo o in circostanze specifiche».
+
+7        L'art. 5 della direttiva 96/82, intitolato «Obblighi generali del
+gestore», al suo n. 1, prevede quanto segue:
+
+«Gli Stati membri provvedono affinche il gestore abbia l'obbligo di adottare
+tutte le misure necessarie per prevenire incidenti rilevanti e limitarne le
+conseguenze per l'uomo e per l'ambiente».
+
+8        L'art. 12 della direttiva in parola, intitolato «Controllo
+dell'urbanizzazione», al suo n. 1, cosi dispone:
+
+«Gli Stati membri provvedono affinche nelle rispettive politiche in materia di
+controllo dell'urbanizzazione, destinazione e utilizzazione dei suoli e/o in
+altre politiche pertinenti si tenga conto degli obiettivi di prevenire gli
+incidenti rilevanti e limitarne le conseguenze. Essi perseguono tali obiettivi
+mediante un controllo:
+
+a)      dell'insediamento degli stabilimenti nuovi;
+
+b)      delle modifiche degli stabilimenti esistenti di cui all'articolo 10;
+
+c)      dei nuovi insediamenti attorno agli stabilimenti esistenti, quali vie
+di comunicazione, luoghi frequentati dal pubblico, zone residenziali, qualora
+l'ubicazione o gli insediamenti possano aggravare il rischio o le conseguenze
+di un incidente rilevante.
+
+Gli Stati membri provvedono affinche la loro politica in materia di assetto
+del territorio e/o le altre politiche pertinenti, nonche le relative procedure
+di attuazione tengano conto della necessita, a lungo termine, di mantenere
+opportune distanze tra gli stabilimenti di cui alla presente direttiva da un
+lato e le zone residenziali, gli edifici e le zone frequentate dal pubblico,
+le vie di trasporto principali, per quanto possibile, le aree ricreative e le
+aree di particolare interesse naturale o particolarmente sensibili dal punto
+di vista naturale, dall'altro e, per gli stabilimenti esistenti, delle misure
+tecniche complementari a norma dell'articolo 5, per non accrescere i rischi
+per le persone».
+
+  _La normativa nazionale_
+
+9        L'art. 34 del codice edilizio tedesco (Baugesetzbuch) 23 settembre
+2004, come modificato da ultimo con legge 31 luglio 2009 (BGBl 2009 I, pag.
+2585), intitolato «Autorizzazione per progetti all'interno di zone gia oggetto
+di sviluppo edilizio», al suo n. 1, prevede quanto segue:
+
+«All'interno di una zona gia oggetto di sviluppo edilizio un progetto e
+autorizzato se, sotto il profilo del tipo e della portata della destinazione
+edilizia, delle modalita di costruzione e della superficie del terreno da
+edificare, esso si integra nella particolarita dell'ambiente circostante e se
+viene garantita l'offerta di servizi. Devono essere preservati i requisiti di
+salubrita delle abitazioni e dei luoghi di lavoro. Non puo essere pregiudicata
+l'immagine complessiva dei luoghi».
+
+10      L'art. 50 della legge federale tedesca sulla tutela contro le
+immissioni (BundesImmissionsschutzgesetz) 26 settembre 2002, come modificata
+da ultimo con legge 11 agosto 2009 (BGBl. 2009 I, pag. 2723), intitolato
+«Pianificazione», e redatto come segue:
+
+«Nelle pianificazioni e nei provvedimenti di gestione del territorio, le
+superfici destinate ad un uso specifico devono essere correlate l'una con
+l'altra in modo tale da salvaguardare, per quanto possibile, dagli effetti
+nocivi per l'ambiente e dalle conseguenze provocate, in zone industriali, da
+incidenti rilevanti ai sensi dell'art. 3, n. 5 della direttiva [96/82], aree
+destinate in via esclusiva o prevalente ad uso residenziale nonche altre aree
+bisognose di tutela, in particolare zone pubbliche, importanti vie di
+comunicazione, aree ricreative e zone di particolare interesse naturale o
+particolarmente sensibili ed edifici aperti al pubblico. Nelle pianificazioni
+e nei provvedimenti di gestione del territorio attinenti ad aree nelle quali
+non vengono superati i limiti per le immissioni, stabiliti in regolamenti ai
+sensi dell'art. 48a, n. 1, nella ponderazione degli interessi coinvolti si
+deve tener conto dell'interesse al mantenimento della migliore qualita
+possibile dell'aria».
+
+11      L'art. 3 del dodicesimo regolamento di esecuzione della legge federale
+tedesca sulla tutela contro le immissioni (Zwolfte Verordnung zur Durchfuhrung
+des BundesImmissionsschutzgesetzes - Storfall-Verordnung), nella versione
+risultante dalla comunicazione 8 giugno 2005 (BGBl. 2005 I, pag. 1598),
+intitolato «Obblighi generali del gestore», ai suoi nn. 1 e 3 cosi dispone:
+
+«(1)      Il gestore ha l'obbligo di adottare le precauzioni necessarie in
+funzione della natura e dell'entita del possibile pericolo per prevenire
+incidenti rilevanti. Restano validi gli obblighi previsti da altre
+disposizioni in materia di tutela contro le immissioni.
+
+(…)
+
+(3)      In aggiunta a quanto disposto al n. 1, devono essere adottate misure
+preventive al fine di limitare per quanto possibile le conseguenze di
+incidenti rilevanti».
+
+  **Causa principale e questioni pregiudiziali**
+
+12      La Franz Mucksch prevede di costruire un centro di giardinaggio per la
+vendita al pubblico di materiale e di prodotti per il giardinaggio su un lotto
+di terreno che le appartiene nella zona commerciale Nordwest del Comune di
+Darmstadt (Germania).
+
+13      Il terreno e oggi occupato da un impianto di riciclaggio di rottami
+metallici ed e circondato da vari esercizi commerciali tipo ipermercati,
+negozi all'ingrosso, officine, e da un albergo. Detta zona non e stata
+tuttavia oggetto di un piano regolatore. Orbene, a parere del giudice del
+rinvio, nell'esercizio della sua attivita vincolata quale prevista dall'art.
+34 del codice edilizio, nel testo modificato, la quale gli avrebbe impedito di
+procedere esso stesso ad una valutazione della necessita di mantenere
+opportune distanze, il Comune di Darmstadt ha comunicato alla Franz Mucksch
+una pronuncia preliminare di compatibilita del suo progetto edilizio con le
+norme urbanistiche («Bauvorbescheid»; in prosieguo: la «pronuncia
+preliminare»).
+
+14      La Merck e stabilita a circa 250 metri dal terreno della Franz
+Mucksch. Essa gestisce impianti in cui vengono usate sostanze chimiche,
+segnatamente il cloro, che rientrano nel campo di applicazione della direttiva
+96/82 e delle disposizioni del summenzionato dodicesimo regolamento di
+esecuzione della legge federale tedesca sulla tutela contro le immissioni. La
+Merck ha proposto, con esito positivo, un ricorso amministrativo con cui si
+oppone alla pronuncia preliminare.
+
+15      La Franz Mucksch ha quindi impugnato la decisione derivante da tale
+opposizione. Nel corso di questo nuovo procedimento, su istanza del Comune di
+Darmstadt e stata redatta una «perizia ai sensi dell'art. 50 [della legge
+federale tedesca sulla tutela contro le immissioni] e dell'art. 12 della
+direttiva 96/82, sulla compatibilita dello stabilimento della Merck e sui
+piani relativi alle aree circostanti». In detta perizia sono state determinate
+«distanze di sicurezza» per i potenziali pericoli provenienti dagli impianti
+della Merck. Il terreno della Franz Mucksch e interamente situato all'interno
+del perimetro che delimita le distanze di sicurezza.
+
+16      Il Verwaltungsgericht e il Verwaltungsgerichtshof hanno condannato il
+Land Hessen al rigetto dell'opposizione della Merck. Quest'ultima e il Land
+Hessen hanno quindi proposto un ricorso per cassazione («Revision») dinanzi al
+Bundesverwaltungsgericht avverso la sentenza pronunciata in appello dal
+Verwaltungsgerichtshof, deducendo che l'interpretazione del diritto nazionale
+su cui si fonda detto giudice non e conforme alla direttiva 96/82, in quanto
+l'autorizzazione del progetto della Franz Mucksch e incompatibile con l'art.
+12, n. 1, della medesima.
+
+17      Cio posto, ritenendo che l'esito della controversia di cui e investito
+dipenda dall'interpretazione della suddetta direttiva, il
+Bundesverwaltungsgericht ha deciso di sospendere il giudizio e di sottoporre
+alla Corte le seguenti questioni pregiudiziali:
+
+«1)      Se l'art. 12, n. 1, della direttiva [96/82] debba essere interpretato
+nel senso che gli obblighi incombenti agli Stati membri in forza di
+quest'ultima, segnatamente l'obbligo di tenere conto, nella loro politica in
+materia di utilizzazione dei suoli e nelle procedure di attuazione di questa
+politica, della necessita, a lungo termine, di mantenere un'opportuna distanza
+tra gli stabilimenti soggetti alla direttiva, da un lato, e gli edifici aperti
+al pubblico, dall'altro, abbiano quali destinatari gli organi incaricati della
+pianificazione, ai quali compete decidere in merito all'utilizzazione dei
+suoli sulla base di una ponderazione degli interessi pubblici e privati
+coinvolti, o se abbiano quali destinatari anche le autorita competenti per il
+rilascio delle licenze edilizie, tenute ad adottare una decisione vincolata in
+merito all'autorizzazione di un progetto in una zona gia oggetto di sviluppo
+edilizio.
+
+2)      Nel caso in cui l'art. 12, n. 1, della direttiva [96/82] dovesse avere
+quali destinatari anche le autorita competenti per il rilascio delle licenze
+edilizie, tenute ad adottare una decisione vincolata in merito
+all'autorizzazione di un progetto in una zona gia oggetto di sviluppo
+edilizio:
+
+se gli obblighi summenzionati comprendano il divieto di autorizzare
+l'insediamento di un edificio aperto al pubblico che, in base ai principi
+generali in materia di pianificazione, non rispetti una distanza opportuna da
+uno stabilimento esistente, qualora non lontano ovvero appena piu lontano da
+detto stabilimento esistano gia vari edifici aperti al pubblico analoghi, il
+gestore non sarebbe soggetto, in seguito al nuovo progetto, ad obblighi
+supplementari per limitare le conseguenze di un incidente e siano garantiti i
+requisiti di salubrita delle abitazioni e dei luoghi di lavoro.
+
+3)      In caso di soluzione negativa a tale questione:
+
+se una normativa che, in presenza delle condizioni menzionate nella precedente
+questione, imponga di autorizzare l'insediamento di un edificio aperto al
+pubblico, tenga sufficientemente conto della necessita del mantenimento delle
+distanze».
+
+  **Sulle questioni pregiudiziali**
+
+  _Sulla prima questione_
+
+18      Con la sua prima questione il giudice del rinvio chiede
+sostanzialmente se l'art. 12, n. 1, della direttiva 96/82 debba essere
+interpretato nel senso che l'obbligo degli Stati membri di provvedere affinche
+si tenga conto della necessita, a lungo termine, di mantenere opportune
+distanze tra gli stabilimenti soggetti a tale direttiva, da un lato, e gli
+edifici aperti al pubblico, dall'altro, gravi anche su un'autorita pubblica,
+quale il Comune di Darmstadt, competente per il rilascio delle licenze
+edilizie, e cio anche qualora essa eserciti tale prerogativa mediante
+decisioni vincolate.
+
+19      A tal riguardo va evidenziato che, sebbene l'art. 12, n. 1, secondo
+comma, della direttiva 96/82 imponga agli Stati membri di tenere conto della
+necessita di mantenere opportune distanze in primo luogo nell'ambito della
+loro politica di destinazione o di utilizzazione dei suoli, rimane comunque il
+fatto che, ai sensi di tale disposizione, gli Stati membri hanno lo stesso
+obbligo anche nell'ambito delle altre politiche pertinenti, nonche delle
+«relative procedure di attuazione». Ne consegue che tale obbligo riguarda
+anche le autorita che partecipano all'esecuzione dei piani e delle politiche
+correlate agli obiettivi di prevenire incidenti gravi e di limitare le
+relative conseguenze, perseguiti dalla direttiva summenzionata.
+
+20      Di conseguenza, poiche le autorita competenti per il rilascio delle
+licenze edilizie partecipano alla gestione diretta delle procedure di rilascio
+delle medesime, come fa il Comune di Darmstadt nella controversia principale,
+che ha adottato la pronuncia preliminare in favore della Franz Mucksch, esse
+contribuiscono all'attuazione delle politiche di destinazione o di
+utilizzazione dei suoli di cui al citato art. 12, n. 1\.
+
+21      Ne discende che la mancanza, come nella causa principale, di un piano
+regolatore non puo esonerare dette autorita dall'obbligo di prendere in
+considerazione, in sede di valutazione delle domande di licenza edilizia, la
+necessita di mantenere opportune distanze tra gli stabilimenti soggetti alla
+direttiva 96/82, da un lato, e le zone adiacenti, dall'altro.
+
+22      Infatti, per un verso, qualora alle autorita non incaricate della
+pianificazione urbanistica fosse consentito eccepire la mancanza di un piano
+regolatore per sottrarsi al loro obbligo di tener conto della necessita di
+mantenere opportune distanze, tale obbligo sarebbe facilmente eludibile e
+verrebbe pregiudicata l'efficacia pratica della direttiva 96/82. In siffatte
+circostanze sarebbero compromessi gli obiettivi di limitare le conseguenze
+degli incidenti rilevanti per l'uomo e l'ambiente, sanciti dall'art. 1 della
+direttiva in parola, nonche, in senso piu lato, gli obiettivi e i principi
+della politica dell'Unione in materia ambientale previsti dall'art. 174, n. 1,
+CE, tra i quali si annoverano, in particolare, la tutela della salute e il
+miglioramento della qualita dell'ambiente.
+
+23      Per altro verso, l'interpretazione menzionata al punto 21 della
+presente sentenza non puo essere rimessa in discussione dal fatto che la
+direttiva in esame si limita a prevedere l'obbligo di tener conto della
+necessita, a lungo termine, di mantenere opportune distanze, lasciando al
+contempo la determinazione di suddette distanze alla discrezionalita degli
+Stati membri.
+
+24      Infatti, l'art. 12, n. 1, secondo comma, della direttiva 96/82 impone
+agli Stati membri, in termini inequivocabili, un obbligo di prendere in
+considerazione il mantenimento di opportune distanze nell'ambito delle
+rispettive politiche di destinazione o di utilizzazione dei suoli e/o di altre
+politiche pertinenti, nonche nelle relative procedure di attuazione, al fine
+di conseguire gli obiettivi di prevenire incidenti rilevanti e di limitare le
+conseguenze di siffatti incidenti. Tale disposizione lascia nondimeno alle
+autorita competenti degli Stati membri un margine di discrezionalita per
+precisare suddette distanze, margine che deve in ogni caso essere sfruttato
+entro i limiti dell'obbligo sopra citato.
+
+25      Per quanto riguarda i destinatari dell'obbligo di cui trattasi, il
+governo tedesco ritiene che l'obbligo di garantire distanze opportune debba
+essere preso in considerazione anzitutto nell'ambito di decisioni di
+pianificazione relative all'utilizzazione dei suoli, comprese quelle volte a
+determinare se una pianificazione sia necessaria. Soltanto in via eccezionale,
+quindi, per salvaguardare l'efficacia pratica della direttiva 96/82 e a fini
+di valutazione, un siffatto obbligo potrebbe essere preso in considerazione in
+occasione di decisioni o di autorizzazioni adottate senza avere operato una
+pianificazione diretta a valutare gli interessi pubblici e privati coinvolti.
+
+26      Tuttavia va rilevato che, sebbene tale obbligo possa essere osservato
+piu spesso dalle autorita competenti in materia di pianificazione, nulla nella
+direttiva 96/82 impedisce alle medesime, per esempio, di limitarsi, nei loro
+provvedimenti di pianificazione, a trasferire l'obbligo di tenere conto delle
+opportune distanze in capo alle autorita preposte all'esecuzione dei piani
+regolatori e cio in considerazione della prossimita di tali autorita di
+esecuzione al contesto relativo ai progetti sui quali esse devono decidere. A
+tale riguardo, e giocoforza constatare che tale direttiva impone alle autorita
+degli Stati membri unicamente l'obbligo di rispettare la suddetta prescrizione
+in un qualsiasi momento del procedimento di attuazione dei piani o delle
+politiche di utilizzazione o di destinazione dei suoli; la determinazione di
+tale momento e invece di spettanza degli Stati membri.
+
+27      Inoltre, va precisato che la direttiva in parola non ha previsto
+alcunche ne in ordine alle modalita di determinazione delle opportune distanze
+ne in ordine alle modalita con cui attuarle, ma essa impone soltanto di
+tenerne conto senza precisare il livello gerarchico delle autorita incaricate
+della politica di utilizzazione o destinazione dei suoli e delle procedure di
+attuazione di tale politica. Ne deriva che una siffatta determinazione, nonche
+la valutazione degli elementi pertinenti a tal fine, costituisce un'operazione
+che, allo scopo di garantire l'utilita dell'obbligo di mantenere tali
+distanze, deve poter essere realizzata ad ogni livello decisionale dalle
+autorita amministrative competenti degli Stati membri.
+
+28      Per quanto attiene alla circostanza che, ai sensi dell'ordinamento
+nazionale, il Comune di Darmstadt era tenuto ad adottare la pronuncia
+preliminare nell'esercizio di un'attivita vincolata, come specificato al punto
+13 della presente sentenza, la quale gli impediva di procedere esso stesso ad
+una valutazione della necessita di mantenere opportune distanze, va
+sottolineato che, in mancanza di qualsiasi presa in considerazione delle
+medesime da parte delle autorita di pianificazione, diventa ancor piu
+importante, al fine di garantire l'efficacia pratica dell'art. 12, n. 1, della
+direttiva 96/82, che l'autorita abilitata a rilasciare una licenza edilizia
+proceda essa stessa all'esecuzione dell'obbligo di cui trattasi.
+
+29      A tale proposito va ricordato, da un lato, che l'obbligo derivante da
+una direttiva di raggiungere il risultato previsto da quest'ultima nonche il
+dovere di adottare tutti i provvedimenti generali o particolari atti a
+garantire l'adempimento di tale obbligo, conformemente al principio di leale
+cooperazione di cui all'art. 4, n. 3, secondo comma, TUE, valgono per tutti
+gli organi degli Stati membri (sentenze 5 ottobre 2004, cause riunite da
+C‑397/01 a C‑403/01, Pfeiffer e a., Racc. pag. I‑8835, punto 110, nonche 22
+dicembre 2010, cause riunite C‑444/09 e C‑456/09, Gavieiro Gavieiro e Iglesias
+Torres, Racc. pag. I‑4031, punto 72).
+
+30      D'altro lato, secondo una costante giurisprudenza, gli Stati membri
+non possono eccepire situazioni del proprio ordinamento giuridico interno per
+giustificare l'inosservanza degli obblighi derivanti dalle direttive (sentenze
+13 dicembre 1991, causa C‑33/90, Commissione/Italia, Racc. pag. I‑5987, punto
+24, e 16 gennaio 2003, causa C‑388/01, Commissione/Italia, Racc. pag. I‑721,
+punto 27).
+
+31      Ne consegue che, nella controversia principale, il Comune di Darmstadt
+avrebbe dovuto adottare le misure necessarie per conformarsi all'obbligo,
+derivante dalla direttiva 96/82, di valutare la necessita di mantenere
+opportune distanze.
+
+32      Per quanto riguarda l'impossibilita per il Comune di Darmstadt di
+tenere conto delle opportune distanze a causa dell'attivita vincolata di cui e
+titolare nella fattispecie, va precisato, come rilevato dall'avvocato generale
+al paragrafo 44 delle sue conclusioni, che spetta al giudice del rinvio
+applicare il principio dell'interpretazione conforme del diritto nazionale,
+che e inerente al sistema del Trattato CE in quanto consente al giudice
+nazionale di assicurare, nell'ambito delle sue competenze, la piena efficacia
+del diritto dell'Unione quando risolve la controversia ad esso sottoposta (v.,
+in tal senso, sentenza 15 maggio 2003, causa C‑160/01, Mau, Racc. pag. I‑4791,
+punto 34, e 19 gennaio 2010, causa C‑555/07, Kucukdeveci, Racc. pag. I‑365,
+punto 48).
+
+33      In proposito, si deve rilevare che il principio dell'interpretazione
+conforme del diritto nazionale, cosi imposto dal diritto dell'Unione, esige
+che il giudice nazionale prenda in considerazione tutto il diritto nazionale
+per valutare in quale misura possa essere applicato in modo tale da non
+sfociare in un risultato contrario a quello cui mira la direttiva in questione
+(v., in tal senso, sentenze Pfeiffer e a., cit., punto 115, nonche 16 dicembre
+2010, causa C‑239/09, Seydaland Vereinigte Agrarbetriebe, Racc. pag. I‑3083,
+punto 50).
+
+34      Inoltre, benche la controversia principale veda contrapposti
+un'autorita pubblica ed un privato, e bene ricordare che la Corte ha statuito
+che, in linea di principio, uno Stato membro puo opporre ai privati
+un'interpretazione conforme del diritto nazionale (sentenze 8 ottobre 1987,
+causa 80/86, Kolpinghuis Nijmegen, Racc. pag. 3969, punti 12‑14, e 5 luglio
+2007, causa C‑321/05, Kofoed, Racc. pag. I‑5795, punto 45).
+
+35      Pertanto, la prima questione va risolta dichiarando che l'art. 12, n.
+1, della direttiva 96/82 deve essere interpretato nel senso che l'obbligo
+degli Stati membri di provvedere affinche si tenga conto della necessita, a
+lungo termine, di mantenere opportune distanze tra gli stabilimenti soggetti a
+tale direttiva, da un lato, e gli edifici aperti al pubblico, dall'altro,
+grava anche su un'autorita pubblica, quale il Comune di Darmstadt, competente
+per il rilascio delle licenze edilizie, e cio anche qualora essa eserciti tale
+prerogativa mediante decisioni vincolate.
+
+  _Sulla seconda e terza questione_
+
+36      Con la sua seconda e terza questione, che vanno esaminate
+congiuntamente, il giudice del rinvio chiede sostanzialmente quale sia la
+portata dell'obbligo, previsto dall'art. 12, n. 1, della direttiva 96/82, in
+forza del quale gli Stati membri devono tenere conto di opportune distanze.
+Esso intende sapere, da una parte, se tale obbligo debba essere interpretato
+nel senso che esso impone a questi ultimi di vietare l'insediamento di un
+edificio aperto al pubblico in circostanze come quelle descritte dal giudice
+del rinvio, sancendo un divieto assoluto di aggravare la situazione. D'altra
+parte, tale giudice si chiede se detto obbligo osti a una normativa nazionale,
+come quella in esame nella causa principale, che preveda il dovere di
+autorizzare l'insediamento di un tale edificio in siffatte circostanze e senza
+che i rischi connessi all'insediamento all'interno del perimetro delle
+distanze di sicurezza siano stati adeguatamente valutati in fase di
+pianificazione o in fase di decisione individuale.
+
+37      In via preliminare va rilevato che il controllo dell'urbanizzazione,
+di cui all'art. 12, n. 1, della direttiva 96/82, poggia sul principio secondo
+cui le forme di utilizzazione del suolo, tra loro incompatibili, devono essere
+separate da opportune distanze. A tale riguardo, e giocoforza constatare che
+simili distanze, in quanto tali, costituiscono essenzialmente un dato che
+consente di determinare le zone comprese nell'ambito di applicazione di tale
+direttiva i cui obiettivi sono volti, da un lato, a prevenire gli incidenti
+rilevanti, nonche a limitare i danni causati da questi ultimi e, dall'altro, a
+delimitare tali zone rispetto a quelle che non rientrano in suddetto ambito di
+applicazione.
+
+38      Inoltre, nelle fattispecie previste dall'art. 12, n. 1, primo comma,
+lett. c), della direttiva 96/82, tra le quali si annovera la controversia
+principale, il controllo dei nuovi insediamenti intorno a stabilimenti
+esistenti deve essere effettuato segnatamente qualora questi ultimi possano
+accrescere il rischio di incidenti rilevanti o aggravarne le conseguenze.
+
+39      La seconda e terza questione poste dal giudice del rinvio devono
+essere esaminate alla luce di questi principi.
+
+40      In primo luogo, per quanto riguarda l'eventuale divieto di aggravare
+la situazione, occorre analizzare la portata dell'obbligo di cui all'art. 12,
+n. 1, della direttiva 96/82. A tal riguardo va sottolineato che, come
+menzionato al punto 24 della presente sentenza, e vero che detto obbligo fa
+gravare sugli Stati membri, in termini inequivocabili, un obbligo di prendere
+in considerazione opportune distanze. Rimane nondimeno il fatto che, come
+sostenuto dalla Franz Mucksch e dalla Commissione europea, gli Stati membri
+mantengono un margine di discrezionalita nell'osservanza di detto obbligo.
+
+41      Tale margine di discrezionalita si deduce dal tenore letterale della
+disposizione in esame poiche, sebbene gli Stati membri siano tenuti a
+provvedere affinche le loro politiche di destinazione o di utilizzazione dei
+suoli tengano conto della necessita di mantenere opportune distanze, detto
+art. 12, n. 1, richiede tuttavia unicamente che tali politiche «tengano conto»
+del mantenimento di siffatte distanze.
+
+42      Orbene, ne l'espressione «tengano conto della necessita (...) di
+mantenere opportune distanze», ne il restante testo dell'art. 12, n. 1, della
+direttiva 96/82, ne il ventiduesimo 'considerando' della medesima possono
+essere interpretati nel senso che essi impongano di bocciare qualsiasi
+progetto situato al di qua delle opportune distanze.
+
+43      Peraltro, la concessione di un siffatto margine di discrezionalita si
+manifesta in particolare nel fatto che, alla luce degli obiettivi essenziali
+della direttiva 96/82, consistenti nel prevenire gli incidenti rilevanti
+connessi con sostanze pericolose e di limitarne le conseguenze, quali
+menzionati all'art. 1 della direttiva in parola, l'attuazione dell'art. 12, n.
+1, lett. c), di quest'ultima esige che le autorita nazionali preposte alla
+politica di utilizzazione o destinazione dei suoli, segnatamente per quanto
+concerne le zone gia oggetto di sviluppo edilizio, effettuino determinate
+operazioni, come la valutazione dell'aumento del rischio di incidente o
+dell'aggravamento delle sue conseguenze, il che richiede di valutare non
+soltanto i rischi e i danni, ma anche tutti gli altri fattori pertinenti in
+ogni caso concreto.
+
+44      Orbene, e evidente che tali fattori variano, piu spesso in forma
+sostanziale, in funzione dei dati particolari delle zone oggetto di una
+pianificazione o di quelle in cui devono essere adottate decisioni individuali
+quando non esista un piano regolatore che le riguardi. Cosi, possono figurare
+tra tali fattori specifici, oltre alla natura delle sostanze pericolose di cui
+trattasi, la probabilita che sopraggiunga un incidente rilevante nel corso
+delle attivita svolte in uno stabilimento soggetto alla direttiva 96/82,
+nonche le conseguenze per la salute umana e l'ambiente derivanti da un
+eventuale incidente, la natura dell'attivita del nuovo impianto o del suo uso
+intensivo da parte del pubblico, nonche la facilita con cui le squadre di
+soccorso possono intervenire in caso di incidente. Inoltre, come evidenziato
+giustamente dal giudice del rinvio, tutti questi fattori specifici possono
+essere combinati con la presa in considerazione dei fattori socio‑economici.
+
+45      Infatti, in sede di elaborazione delle politiche di utilizzazione o
+destinazione dei suoli, benche gli Stati membri siano tenuti a prendere in
+considerazione la necessita di mantenere opportune distanze e, quantomeno
+implicitamente, a determinare queste ultime, un siffatto obbligo non comporta
+comunque che essi debbano fare assurgere tali distanze a livello di unico
+criterio di autorizzazione o di diniego in funzione dell'ubicazione dei
+progetti di nuovi insediamenti intorno a stabilimenti esistenti. Cio posto,
+soltanto il riconoscimento di un margine di discrezionalita consente di
+garantire che la necessita di mantenere opportune distanze consegua pienamente
+l'effetto voluto.
+
+46      Di conseguenza, alla luce del tenore letterale dell'art. 12, n. 1,
+della direttiva 96/82 e dell'obbligo di valutare fattori ampiamente dipendenti
+da elementi propri di ciascuna fattispecie, va rilevato, al pari del giudice
+del rinvio e contrariamente a quanto sostenuto dalla Merck, che l'obbligo di
+mantenere distanze opportune non puo essere inteso in modo assoluto, nel senso
+che imporrebbe di vietare qualsiasi progetto di nuovo insediamento in un zona
+gia oggetto di sviluppo edilizio, in cui si trovano stabilimenti contemplati
+da tale direttiva, anche allorquando tale insediamento riguarda un edificio
+aperto al pubblico, come quello di cui trattasi nella causa principale.
+
+47      Tale interpretazione non puo essere rimessa in questione dal criterio
+temporale secondo cui occorre mantenere «a lungo termine» opportune distanze
+tra gli stabilimenti di cui alla direttiva 96/82, da una parte, e gli edifici
+aperti al pubblico, dall'altra. A tal riguardo va sottolineato, da una parte,
+che, come giustamente rilevato dalla Merck, detta espressione implica un certo
+rispetto dello statu quo, nel senso che le autorita preposte all'attuazione
+dei piani regolatori non possono imporre l'osservanza di tali distanze agli
+insediamenti gia esistenti qualora esse siano stabilite per la prima volta in
+una fase ulteriore. D'altra parte, come rilevato dall'avvocato generale al
+paragrafo 40 delle sue conclusioni, tale espressione deve essere intesa come
+un obbligo volto a preservare dette distanze la dove sono gia rispettate e a
+introdurle in futuro, in quanto obiettivo a lungo termine, qualora non siano
+state ancora attuate.
+
+48      Infatti, nessuna di queste due interpretazioni dell'espressione «a
+lungo termine» puo rafforzare il carattere vincolante dell'art. 12, n. 1,
+della direttiva di cui trattasi come se essa sancisse un divieto di aggravare
+la situazione e, pertanto, vietasse qualsiasi insediamento di un edificio
+aperto al pubblico in prossimita di uno stabilimento esistente.
+
+49      Per quanto riguarda, in secondo luogo, la questione se l'obbligo
+previsto dall'art. 12, n. 1, della direttiva osti ad una normativa nazionale,
+che preveda il dovere di autorizzare l'insediamento di un edificio senza che
+siano stati adeguatamente valutati i rischi connessi all'insediamento
+all'interno del perimetro di dette distanze in fase di pianificazione o in
+fase di decisione individuale, va precisato che il margine di discrezionalita
+di cui dispongono gli Stati membri non puo essere interpretato, alla stregua
+di quanto rilevato dalla Commissione, come atto a consentire a questi ultimi
+di prescindere dalla presa in considerazione delle opportune distanze.
+
+50      Infatti, benche la direttiva 96/82 demandi alle autorita nazionali
+competenti il compito di calcolare le distanze di cui trattasi e di
+determinarle alla luce di tutti i fattori rilevanti, la «presa in
+considerazione» delle opportune distanze richiede tuttavia che, in sede di
+valutazione del rischio, le medesime siano davvero prese in considerazione
+unitamente ad altri fattori, sia in modo generale durante l'elaborazione di
+piani regolatori o, in mancanza di pianificazione, in modo specifico,
+segnatamente in occasione dell'adozione di decisioni su licenze edilizie.
+
+51      Ne consegue che, la dove una normativa nazionale imponga il dovere di
+autorizzare l'insediamento di un edificio, senza che siano stati adeguatamente
+valutati i rischi connessi all'insediamento all'interno del perimetro delle
+opportune distanze in fase di pianificazione o in fase di decisione
+individuale, una siffatta normativa e atta a svuotare di significati l'obbligo
+di tenere conto del mantenimento di opportune distanze e, pertanto, a privare
+quest'ultimo della sua utilita pratica. Di conseguenza, si deve concludere che
+l'art. 12, n. 1, della direttiva 96/82 osta ad una normativa nazionale che
+preveda il dovere di rilasciare un'autorizzazione in siffatte circostanze.
+
+52      A tal riguardo, spetta al giudice del rinvio, in forza dei principi
+ricordati ai punti 32‑34 della presente sentenza, procedere per quanto
+possibile a un'interpretazione della legge nazionale conforme alla direttiva
+di cui trattasi.
+
+53      Alla luce delle considerazioni che precedono, la seconda e terza
+questione vanno risolte dichiarando che l'obbligo previsto dall'art. 12, n. 1,
+della direttiva 96/82 di tenere conto della necessita, a lungo termine, di
+mantenere opportune distanze tra gli stabilimenti soggetti a tale direttiva,
+da un lato, e gli edifici aperti al pubblico, dall'altro, non impone alle
+autorita nazionali competenti di vietare l'insediamento di un edificio aperto
+al pubblico in circostanze come quelle di cui alla causa principale. Per
+contro, tale obbligo osta a una normativa nazionale che preveda il dovere di
+autorizzare l'insediamento di un siffatto edificio, senza che siano stati
+adeguatamente valutati i rischi connessi all'insediamento all'interno del
+perimetro di dette distanze in fase di pianificazione o in fase di decisione
+individuale.
+
+  **Sulle spese**
+
+54      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:
+
+1)       **L 'art. 12, n. 1, della direttiva del Consiglio 9 dicembre 1996,
+96/82/CE, sul controllo dei pericoli di incidenti rilevanti connessi con
+determinate sostanze pericolose, quale modificata dalla direttiva del
+Parlamento europeo e del Consiglio 16 dicembre 2003, 2003/105/CE, deve essere
+interpretato nel senso che l'obbligo degli Stati membri di provvedere affinche
+si tenga conto della necessita, a lungo termine, di mantenere opportune
+distanze tra gli stabilimenti soggetti a tale direttiva, da un lato, e gli
+edifici aperti al pubblico, dall'altro, grava anche su un'autorita pubblica,
+quale il Comune di Darmstadt (Germania), competente per il rilascio delle
+licenze edilizie, e cio anche qualora essa eserciti tale prerogativa mediante
+decisioni vincolate. **
+
+2)       **L 'obbligo previsto dall'art. 12, n. 1, della direttiva 96/82,
+quale modificata dalla direttiva 2003/105, di tenere conto della necessita, a
+lungo termine, di mantenere opportune distanze tra gli stabilimenti soggetti a
+tale direttiva, da un lato, e gli edifici aperti al pubblico, dall'altro, non
+impone alle autorita nazionali competenti di vietare l'insediamento di un
+edificio aperto al pubblico in circostanze come quelle di cui alla causa
+principale. Per contro, tale obbligo osta a una normativa nazionale che
+preveda il dovere di autorizzare l'insediamento di un siffatto edificio, senza
+che siano stati adeguatamente valutati i rischi connessi all'insediamento
+all'interno del perimetro di dette distanze in fase di pianificazione o in
+fase di decisione individuale. **
+
+Firme
+
+* * *
+
+*Lingua processuale: il tedesco. 
+

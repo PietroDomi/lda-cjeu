@@ -802,3 +802,7 @@ periodo di ferie annuali retribuite non ha il diritto di beneficiare in un
 momento successivo di dette ferie annuali coincidenti con il periodo di
 incapacità lavorativa.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

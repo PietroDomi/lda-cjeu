@@ -1,0 +1,446 @@
+
+
+**Causa C ‑499/10**
+
+**Vlaamse Oliemaatschappij NV**
+
+**contro**
+
+**FOD Financi en**
+
+(domanda di pronuncia pregiudiziale proposta dal
+
+rechtbank van eerste aanleg te Brugge)
+
+«Sesta direttiva IVA -- Debitori dell'imposta -- Terzo responsabile in solido
+-- Regime del deposito diverso dal deposito doganale -- Responsabilita
+solidale del depositario di beni e del soggetto passivo proprietario di tali
+beni -- Buona fede o assenza di colpa o di negligenza del depositario»
+
+Massime della sentenza
+
+_Disposizioni tributarie -- Armonizzazione delle legislazioni -- Imposte sulla
+cifra d'affari -- Sistema comune d'imposta sul valore aggiunto -- Debitori
+dell'imposta -- Facolta per gli Stati membri di considerare responsabile in
+solido per il pagamento dell'imposta una persona diversa dal debitore (art.
+21, n. 3, della sesta direttiva)_
+
+_(Direttiva del Consiglio 77/388, art.  21, n. 3)_
+
+L'art. 21, n. 3, della sesta direttiva 77/388, in materia di armonizzazione
+delle legislazioni degli Stati membri relative alle imposte sulla cifra di
+affari, come modificata dalla direttiva 2001/115, deve essere interpretato nel
+senso che non consente agli Stati membri di prevedere che il gestore di un
+deposito diverso dal deposito doganale sia responsabile in solido per il
+pagamento dell'imposta sul valore aggiunto dovuta per una fornitura di merci,
+provenienti da tale deposito, effettuata a titolo oneroso dal proprietario
+delle stesse merci assoggettato a tale imposta, anche qualora il gestore del
+deposito sia in buona fede o non sia possibile addebitargli alcuna colpa o
+negligenza.
+
+Infatti, provvedimenti nazionali che danno luogo, de facto, ad un sistema di
+responsabilita solidale oggettiva eccedono quanto e necessario per preservare
+i diritti dell'Erario. Far ricadere la responsabilita del pagamento
+dell'imposta sul valore aggiunto su un soggetto diverso dal debitore di tale
+imposta, per quanto tale soggetto sia un depositario fiscale autorizzato,
+senza che possa sottrarvisi fornendo la prova di essere completamente estraneo
+alla condotta di tale debitore dell'imposta deve, pertanto, essere ritenuto
+incompatibile con il principio di proporzionalita. Risulterebbe infatti
+chiaramente sproporzionato imputare, in modo incondizionato, al citato
+soggetto i mancati introiti causati dalla condotta di un terzo soggetto
+passivo sulla quale egli non ha alcuna influenza.
+
+La circostanza che il soggetto diverso dal debitore dell'imposta abbia agito
+in buona fede utilizzando tutta la diligenza di un operatore avveduto, che
+abbia adottato tutte le misure ragionevoli in suo potere e che sia esclusa la
+sua partecipazione a un'evasione costituiscono elementi da prendere in
+considerazione per determinare la possibilita di obbligare in solido tale
+soggetto a versare l'imposta sul valore aggiunto dovuta.
+
+(v. punti 24, 26, 28 e dispositivo)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Settima Sezione)
+
+21 dicembre 2011 (*)
+
+«Sesta direttiva IVA - Debitori dell'imposta - Terzo responsabile in solido -
+Regime del deposito diverso dal deposito doganale - Responsabilita solidale
+del depositario di beni e del soggetto passivo proprietario di tali beni -
+Buona fede o assenza di colpa o negligenza del depositario»
+
+Nel procedimento C‑499/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Rechtbank van eerste aanleg te Brugge
+(Belgio), con decisione 13 ottobre 2010, pervenuta in cancelleria il 19
+ottobre 2010, nella causa
+
+**Vlaamse Oliemaatschappij NV**
+
+contro
+
+**FOD Financi en,**
+
+LA CORTE (Settima Sezione),
+
+composta dal sig. J. Malenovský, presidente di sezione, dai sigg. G. Arestis
+(relatore) e D. Švaby, giudici,
+
+avvocato generale: sig.ra V. Trstenjak
+
+cancelliere: sig.ra M. Ferreira, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all'udienza del 29
+settembre 2011,
+
+considerate le osservazioni presentate:
+
+-        per la Vlaamse Oliemaatschappij NV, dall'avv. T. Leeuwerck, advocaat,
+
+-        per il governo belga, dalla sig.ra M. Jacobs e dal sig. J.‑C. Halleux, in qualita di agenti,
+
+-        per la Commissione europea, dalla sig.ra L. Lozano Palacios e dal sig. B. Burggraaf, in qualita di agenti,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+dell'art. 21, n. 3, della sesta direttiva del Consiglio 17 maggio 1977,
+77/388/CEE, in materia di armonizzazione delle legislazioni degli Stati membri
+relative alle imposte sulla cifra di affari - Sistema comune di imposta sul
+valore aggiunto: base imponibile uniforme (GU L 145, pag. 1), come modificata
+dalla direttiva del Consiglio 20 dicembre 2001, 2001/115/CE (GU 2002, L 15,
+pag. 24; in prosieguo: la «sesta direttiva»).
+
+2        Tale domanda e stata presentata nell'ambito di una controversia tra
+la Vlaamse Oliemaatschappij NV (in prosieguo: la «VOM») e il FOD Financien
+(Servizio pubblico federale delle Finanze), in ordine al pagamento da parte di
+tale societa dell'imposta sul valore aggiunto (in prosieguo: l'«IVA») relativa
+a forniture di carburante, provenienti dal suo deposito, effettuate da uno dei
+suoi clienti.
+
+  **Contesto normativo**
+
+  _Il diritto dell 'Unione_
+
+3        Ai sensi dell'art. 16, n. 1, primo comma, punto B, primo comma, lett.
+e), primo comma, della sesta direttiva, nella versione risultante dall'art. 28
+quater, punto E, n. 1, primo trattino, della stessa, e possibile che gli Stati
+membri non assoggettino all'IVA, a determinate condizioni, le cessioni di beni
+destinati a essere immessi in un regime di deposito diverso da quello
+doganale.
+
+4        Ai termini dell'art. 16, n. 1, secondo comma, di tale direttiva,
+nella sua versione risultante dall'art. 28 quater, punto E, n. 1, primo
+trattino, della stessa, il soggetto passivo dell'imposta dovuta in conformita
+del primo comma di tale n. 1 e la persona che svincola i beni dai regimi o
+dalle situazioni elencati nel citato paragrafo, in deroga all'art. 21, n. 1,
+lett. a), primo comma, della citata direttiva.
+
+5        Sotto il titolo «Debitori dell'imposta verso l'[E]rario», l'art. 21
+della sesta direttiva, nella sua versione risultante dall'art. 28 octies della
+medesima, dispone quanto segue:
+
+«1.      L'imposta sul valore aggiunto e dovuta in regime interno:
+
+a)      dal soggetto passivo che effettua una cessione di beni o una
+prestazione di servizi imponibile, diversa da quelle di cui alle lettere b) e
+c).
+
+Se la cessione di beni o la prestazione di servizi imponibile e effettuata da
+un soggetto passivo non residente nel territorio del paese, gli Stati membri
+possono, alle condizioni da essi stabilite, prevedere che il debitore
+dell'imposta [sia] il destinatario della cessione di beni o della prestazione
+di servizi imponibile;
+
+b)      dai destinatari soggetti passivi di un servizio di cui all'articolo 9,
+paragrafo 2, lettera e) o dai destinatari, iscritti al registro dell'imposta
+sul valore aggiunto all'interno del paese, di un servizio di cui all'articolo
+28 ter, C, D, E ed F, se i servizi sono effettuati da un soggetto passivo non
+residente all'interno del paese;
+
+c)      dal destinatario della cessione di beni, quando si verificano le
+seguenti condizioni:
+
+-      l'operazione imponibile e una cessione di beni effettuata alle condizioni di cui all'articolo 28 quater, E, punto 3,
+
+-      il destinatario della cessione di beni e un altro soggetto passivo oppure una persona giuridica che non e soggetto passivo iscritto al registro dell'imposta sul valore aggiunto all'interno del paese, 
+
+-      la fattura rilasciata dal soggetto passivo non residente all'interno del paese e conforme all'articolo 22, paragrafo 3.
+
+Tuttavia gli Stati membri possono prevedere una deroga a quest'obbligo nel
+caso in cui il soggetto passivo non residente all'interno del paese abbia
+nominato un rappresentante fiscale in detto paese;
+
+d)      da chiunque indichi l'imposta sul valore aggiunto in una fattura;
+
+e)      dalla persona che effettua un acquisto intracomunitario di beni
+imponibile.
+
+2.      In deroga alle disposizioni del paragrafo 1:
+
+a)      Se il debitore dell'imposta, a norma delle disposizioni del paragrafo
+1, e un soggetto passivo non residente nel territorio del paese, gli Stati
+membri possono consentirgli di designare un rappresentante fiscale come
+debitore dell'imposta in sua vece. Questa possibilita e soggetta alle
+condizioni stabilite da ciascuno Stato membro.
+
+b)      Qualora l'operazione imponibile sia effettuata da un soggetto passivo
+non residente all'interno del paese e qualora non esista, con il paese in cui
+tale soggetto passivo risiede, alcuno strumento giuridico che disciplini la
+reciproca assistenza, analogamente a quanto previsto dalle direttive
+76/308/CEE e 77/799/CEE e dal regolamento (CEE) n. 218/92 del Consiglio, del
+27 gennaio 1992, concernente la cooperazione amministrativa nel settore delle
+imposte indirette (IVA), gli Stati membri possono adottare disposizioni che
+stabiliscano che il debitore dell'imposta e un rappresentante fiscale
+designato dal soggetto passivo non residente.
+
+3.      Nelle situazioni di cui ai paragrafi 1 e 2, gli Stati membri possono stabilire che una persona diversa dal debitore dell'imposta sia responsabile in solido per il versamento dell'imposta. 
+
+4.      All'importazione: dalle persone designate o riconosciute come debitori dell'imposta dallo Stato membro d'importazione».
+
+6        L'art. 4, lett. b), della direttiva del Consiglio 25 febbraio 1992,
+92/12/CEE, relativa al regime generale, alla detenzione, alla circolazione ed
+ai controlli dei prodotti soggetti ad accisa (GU L 76, pag. 1), definisce la
+nozione di «deposito fiscale» come «il luogo in cui vengono fabbricate,
+trasformate, detenute, ricevute o spedite dal depositario autorizzato,
+nell'esercizio della sua professione, in regime di sospensione dei diritti di
+accisa, le merci soggette ad accisa, a determinate condizioni fissate dalle
+autorita competenti dello Stato membro in cui e situato il deposito fiscale in
+questione».
+
+  _La normativa nazionale_
+
+7        L'art. 51 bis, n. 3, del codice belga sull'IVA prevede quanto segue:
+
+«Nel regime del deposito diverso da quello doganale, il depositario dei beni,
+la persona incaricata del trasporto dei beni fuori del deposito nonche il suo
+eventuale mandante sono responsabili in solido per il pagamento dell'imposta
+nei confronti dello Stato unitamente al debitore di tale imposta (…)».
+
+  **Causa principale e questione pregiudiziale**
+
+8        La VOM e un prestatore di servizi che assicura ai suoi clienti le
+operazioni di scarico, stoccaggio in depositi e trasbordo su autocarri di
+prodotti petroliferi giunti via mare. I clienti stoccano i prodotti in tali
+depositi fino al momento della vendita ai clienti finali, principalmente
+impianti di distribuzione di carburanti al dettaglio. Per tali servizi la VOM
+fattura «spese di servizio» in relazione al numero di litri trattati.
+
+9        La VOM gestisce infatti un «deposito fiscale» ai sensi dell'art. 4,
+lett. b), della direttiva 92/12. In tale qualita di depositario, dal 7
+settembre 1999 e titolare di un'autorizzazione che le consente di gestire un
+deposito per lo stoccaggio di oli minerali diverso da quello doganale.
+
+10      In forza di tale autorizzazione, i prodotti consegnati in tale
+deposito sono sottoposti a regime sospensivo dell'IVA, conformemente al regime
+del deposito diverso da quello doganale. L'IVA su tali prodotti diventa
+esigibile quando essi sono ritirati da tale deposito e non sono piu
+assoggettati al regime del deposito diverso da quello doganale, oppure quando
+costituiscono oggetto di una cessione a titolo oneroso.
+
+11      La Ghebra NV (in prosieguo: la «Ghebra») svolgeva un'attivita di
+commercio all'ingrosso di carburanti e affidava in deposito alla VOM i suoi
+prodotti petroliferi. La Ghebra e stata dichiarata fallita il 20 giugno 2003.
+
+12      In data 7 febbraio 2006, in seguito a un controllo effettuato
+dall'amministrazione finanziaria, e stato redatto un verbale dal quale
+emergeva che nei mesi di marzo e aprile del 2003 la Ghebra aveva effettuato
+forniture di carburante a titolo oneroso provenienti dal deposito della VOM.
+Tali forniture, dal momento che avevano posto fine al regime del deposito
+diverso da quello doganale, erano assoggettate all'IVA per un importo dovuto a
+tale titolo pari a EUR 2 133 005\.
+
+13      L'11 aprile 2006, dopo essere stata informata dal curatore
+fallimentare della Ghebra del fatto che lo Stato belga non avrebbe ottenuto il
+pagamento dell'IVA dovuta per insufficiente realizzo dell'attivo, l'11 aprile
+2006 l'amministrazione finanziaria ha emesso un'intimazione di pagamento nei
+confronti della VOM, conformemente all'art. 51 bis, n. 3, del codice belga
+sull'IVA.
+
+14      Il 31 maggio 2006 la VOM ha presentato opposizione a tale intimazione
+di pagamento dinanzi al Rechtbank van eerste aanleg te Brugge.
+
+15      A sostegno del suo ricorso, la VOM sostiene, in particolare, che la
+responsabilita solidale del depositario per il pagamento dell'IVA dovuta
+dall'utente del deposito, in applicazione dell'art. 51 bis, n. 3, del codice
+belga sull'IVA, e incompatibile con i principi generali della certezza del
+diritto e di proporzionalita che fanno parte dell'ordinamento giuridico
+dell'Unione, poiche essa si applica a prescindere dalla buona fede o meno del
+depositario. La VOM precisa, a tal proposito, che il depositario svolge un
+ruolo passivo nell'ambito del regime dell'IVA applicabile ai depositi, giacche
+esso si limita a mettere il suo deposito a disposizione dei suoi clienti al
+fine di consentire lo stoccaggio di merci e non dispone di alcuno strumento
+giuridico o fiscale per controllare o imporre l'effettivo pagamento dell'IVA
+da parte degli stessi clienti. Richiamando la giurisprudenza della Corte, la
+VOM ritiene che, non prendendo in considerazione la conoscenza
+dell'esigibilita dell'imposta che una persona diversa dal debitore iniziale
+poteva avere al fine di considerarla responsabile in solido per il pagamento
+di tale imposta, ed escludendo dunque dalle condizioni alle quali un soggetto
+puo essere responsabile in solido per il pagamento di tale imposta
+l'applicazione di qualsiasi criterio relativo alla buona fede, la normativa
+nazionale abbia ecceduto i limiti di quanto e necessario e adeguato per
+conseguire l'obiettivo che essa persegue.
+
+16      Il FOD Financien considera che l'art. 51 bis, n. 3, del codice belga
+sull'IVA e conforme al principio di proporzionalita, che spetta al giudice
+nazionale controllare il rispetto di tale principio e che la responsabilita
+solidale costituisce una misura adeguata e proporzionata nel settore dei
+prodotti petroliferi.
+
+17      Il Rechtbank van eerste aanleg te Brugge, ritenendo che fosse
+necessario ottenere una risposta alla questione se l'art. 51 bis, n. 3, del
+codice belga sull'IVA sia compatibile con il diritto dell'Unione e, in
+particolare, con i principi della certezza del diritto e di proporzionalita,
+ha deciso di sospendere il procedimento e di sottoporre alla Corte la seguente
+questione pregiudiziale:
+
+«Se l'[art. 21, n. 3, della sesta direttiva], in combinato disposto con
+[l'art. 16, n. 1, primo comma, punto B, primo comma, lett. e), primo comma,
+nonche con l'art. 16, n. 1, secondo comma, della medesima direttiva] consenta
+agli Stati membri di prevedere che il gestore di un deposito diverso da un
+deposito doganale sia incondizionatamente responsabile in solido per il
+pagamento dell'imposta dovuta per una fornitura effettuata a titolo oneroso
+dal proprietario delle merci assoggettato all'imposta, anche qualora il
+gestore del deposito sia in buona fede o non sia possibile addebitargli alcuna
+colpa o negligenza (…)».
+
+  **Sulla questione pregiudiziale**
+
+18      Con la sua questione il giudice del rinvio chiede, in sostanza, se
+l'art. 21, n. 3, della sesta direttiva debba essere interpretato nel senso che
+consente agli Stati membri di prevedere che il gestore di un deposito diverso
+da un deposito doganale sia responsabile in solido per il pagamento dell'IVA
+dovuta per una fornitura di merci, provenienti da tale deposito, effettuata a
+titolo oneroso dal proprietario delle stesse merci assoggettato a tale
+imposta, anche qualora il gestore di tale deposito sia in buona fede o non sia
+possibile addebitargli alcuna colpa o negligenza.
+
+19      Occorre ricordare che l'art. 21, n. 3, della sesta direttiva consente,
+in linea di principio, agli Stati membri di adottare misure in forza delle
+quali un soggetto e obbligato in solido a versare una somma a titolo dell'IVA
+dovuta da un altro soggetto indicato come debitore da una delle disposizioni
+di cui ai nn. 1 e 2 del citato articolo (v. sentenza 11 maggio 2006, causa
+C‑384/04, Federation of Technological Industries e a., Racc. pag. I‑4191,
+punto 28).
+
+20      Tuttavia, nell'esercizio dei poteri che le direttive dell'Unione
+conferiscono agli Stati membri, questi devono rispettare i principi generali
+del diritto che fanno parte dell'ordinamento giuridico dell'Unione, quali, in
+particolare, i principi della certezza del diritto e di proporzionalita (v.,
+in particolare, sentenze Federation of Technological Industries e a., cit.,
+punto 29, nonche 21 febbraio 2008, causa C‑271/06, Netto Supermarkt, Racc.
+pag. I‑771, punto 18).
+
+21      Per quanto riguarda, piu in particolare, il principio di
+proporzionalita, la Corte ha gia dichiarato che, conformemente a tale
+principio, gli Stati membri devono far ricorso a strumenti che, pur
+consentendo di raggiungere efficacemente l'obiettivo perseguito dal diritto
+nazionale, arrechino il minor pregiudizio possibile agli obiettivi e ai
+principi stabiliti dalla normativa di riferimento dell'Unione (v., in
+particolare, sentenze 27 settembre 2007, causa C‑409/04, Teleos e a., Racc.
+pag. I‑7797, punto 52, nonche Netto Supermarkt, cit., punto 19).
+
+22      Pertanto, anche se e legittimo che i provvedimenti adottati dagli
+Stati membri tendano a preservare il piu efficacemente possibile i diritti
+dell'Erario, essi non devono eccedere quanto e necessario a tal fine (v., in
+particolare, citate sentenze Federation of Technological Industries e a.,
+punto 30, nonche Netto Supermarkt, punto 20).
+
+23      A tal riguardo, la disposizione nazionale di cui trattasi nella causa
+principale prevede che, nel regime di deposito diverso da quello doganale, il
+depositario dei beni, la persona incaricata del trasporto dei beni fuori del
+deposito nonche il suo eventuale mandante siano responsabili in solido per il
+pagamento dell'imposta dovuta allo Stato unitamente al soggetto che e debitore
+di tale imposta. Cosi, in applicazione di tale disposizione, il gestore di un
+deposito diverso dal deposito doganale e responsabile per il versamento
+dell'IVA in solido con il debitore iniziale della stessa, ovverosia il cliente
+di tale gestore. Tale obbligo solidale e formulato in modo incondizionato, di
+modo che esso si applica al depositario anche quando quest'ultimo e in buona
+fede o non e possibile addebitargli alcuna colpa o negligenza.
+
+24      Orbene, la Corte ha gia dichiarato che provvedimenti nazionali che
+danno luogo, de facto, ad un sistema di responsabilita solidale oggettiva
+eccedono quanto e necessario per preservare i diritti dell'Erario (v. sentenza
+Federation of Technological Industries e a., cit., punto 32). Far ricadere la
+responsabilita del pagamento dell'IVA su un soggetto diverso dal debitore di
+tale imposta, per quanto tale soggetto sia un depositario fiscale autorizzato
+tenuto ad adempiere obblighi specifici indicati nella direttiva 92/12, senza
+che possa sottrarvisi fornendo la prova di essere completamente estraneo alla
+condotta di tale debitore dell'imposta deve, pertanto, essere ritenuto
+incompatibile con il principio di proporzionalita. Risulterebbe infatti
+chiaramente sproporzionato imputare, in modo incondizionato, al citato
+soggetto i mancati introiti causati dalla condotta di un terzo soggetto
+passivo sulla quale egli non ha alcuna influenza (v., in tal senso, sentenza
+Netto Supermarkt, cit., punto 23).
+
+25      Per contro, non e contrario al diritto dell'Unione esigere che il
+soggetto diverso dal debitore dell'imposta adotti tutte le misure che gli si
+possono ragionevolmente richiedere al fine di assicurarsi che l'operazione
+effettuata non lo conduca a essere partecipe di un'evasione fiscale (v., in
+tal senso, sentenze citate Federation of Technological Industries e a., punto
+33; Teleos e a., punto 65, nonche Netto Supermarkt, punto 24).
+
+26      Pertanto, la circostanza che il soggetto diverso dal debitore
+dell'imposta abbia agito in buona fede utilizzando tutta la diligenza di un
+operatore avveduto, che abbia adottato tutte le misure ragionevoli in suo
+potere e che sia esclusa la sua partecipazione a un'evasione costituiscono
+elementi da prendere in considerazione per determinare la possibilita di
+obbligare in solido tale soggetto a versare l'IVA dovuta (v. citate sentenze
+Teleos e a., punto 66, nonche Netto Supermarkt, punto 25).
+
+27      Spetta al giudice del rinvio valutare se tali circostanze ricorrono
+nella causa principale.
+
+28      Alla luce dell'insieme delle considerazioni che precedono, si deve
+rispondere alla questione sollevata dichiarando che l'art. 21, n. 3, della
+sesta direttiva deve essere interpretato nel senso che non consente agli Stati
+membri di prevedere che il gestore di un deposito diverso dal deposito
+doganale sia responsabile in solido per il pagamento dell'IVA dovuta per una
+fornitura di merci provenienti da tale deposito, effettuata a titolo oneroso
+dal proprietario delle stesse merci assoggettato a tale imposta, anche qualora
+il gestore del deposito sia in buona fede o non sia possibile addebitargli
+alcuna colpa o negligenza.
+
+  **Sulle spese**
+
+29      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Settima Sezione) dichiara:
+
+**L 'art. 21, n. 3, della sesta direttiva del Consiglio 17 maggio 1977,
+77/388/CEE, in materia di armonizzazione delle legislazioni degli Stati membri
+relative alle imposte sulla cifra di affari - Sistema comune di imposta sul
+valore aggiunto: base imponibile uniforme, come modificata dalla direttiva del
+Consiglio 20 dicembre 2001, 2001/115/CE, deve essere interpretato nel senso
+che non consente agli Stati membri di prevedere che il gestore di un deposito
+diverso dal deposito doganale sia responsabile in solido per il pagamento
+dell'imposta sul valore aggiunto dovuta per una fornitura di merci,
+provenienti da tale deposito, effettuata a titolo oneroso dal proprietario
+delle stesse merci assoggettato a tale imposta, anche qualora il gestore del
+deposito sia in buona fede o non sia possibile addebitargli alcuna colpa o
+negligenza.**
+
+Firme
+
+* * *
+
+* Lingua processuale: l'olandese. 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

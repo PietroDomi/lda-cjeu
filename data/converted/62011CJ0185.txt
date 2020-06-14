@@ -80,4 +80,7 @@ La Commissione europea e la Repubblica di Slovenia sopporteranno ciascuna le
 proprie spese.  
   
 ---|---|---
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
 

@@ -1,0 +1,2121 @@
+
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+28 giugno 2012 ( *1 )
+
+«Impugnazione — Accesso ai documenti delle istituzioni — Regolamento (CE) n.
+1049/2001 — Documenti riguardanti un procedimento di controllo di
+un’operazione di concentrazione tra imprese — Regolamento (CE) n. 139/2004 —
+Diniego di accesso — Eccezioni relative alla tutela degli obiettivi delle
+attività di indagine, degli interessi commerciali, dei pareri giuridici e del
+processo decisionale delle istituzioni»
+
+Nella causa C-477/10 P,
+
+avente ad oggetto l’impugnazione, ai sensi dell’articolo 56 dello Statuto
+della Corte di giustizia dell’Unione europea, proposta il 23 settembre 2010,
+
+Commissione europea, rappresentata da B. Smulders, P. Costa de Oliveira e V.
+Bottka, in qualità di agenti, con domicilio eletto in Lussemburgo,
+
+ricorrente,
+
+procedimento in cui le altre parti sono:
+
+Agrofert Holding a.s., con sede in Praga (Repubblica ceca), rappresentata da
+R. Pokorný e D. Šalek, advokáti,
+
+ricorrente in primo grado,
+
+Polski Koncern Naftowy Orlen SA, con sede in Płock (Polonia), rappresentata da
+S. Sołtysiński, K. Michałowska e A. Krasowska Skowrońska, avocats,
+
+Regno di Danimarca, rappresentato da S. Juul Jørgensen, in qualità di agente,
+
+Repubblica di Finlandia,
+
+Regno di Svezia, rappresentato da K. Petkovska e S. Johannesson, in qualità di
+agenti,
+
+intervenienti in primo grado,
+
+LA CORTE (Terza Sezione),
+
+composta dal sig. K. Lenaerts, presidente di sezione, dai sigg. E. Juhász
+(relatore), G. Arestis, T. von Danwitz e D. Šváby, giudici,
+
+avvocato generale: sig. P. Cruz Villalón
+
+cancelliere: sig.ra L. Hewlett, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all’udienza dell’8
+settembre 2011,
+
+sentite le conclusioni dell’avvocato generale, presentate all’udienza dell’8
+dicembre 2011,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+Con la presente impugnazione la Commissione europea chiede l’annullamento
+della sentenza del Tribunale dell’Unione europea del 7 luglio 2010, Agrofert
+Holding/Commissione (T-111/07; in prosieguo: la «sentenza impugnata»), con cui
+è stato disposto l’annullamento della decisione D (2007) 1360 della
+Commissione, del 13 febbraio 2007 (in prosieguo: la «decisione controversa»),
+che nega l’accesso ai documenti del caso COMP/M.3543 riguardante l’operazione
+di concentrazione tra la società polacca Polski Koncern Naftowy Orlen SA (in
+prosieguo: la «PKN Orlen») e la società ceca Unipetrol, effettuata in
+applicazione del regolamento (CE) n. 139/2004 del Consiglio, del 20 gennaio
+2004, relativo al controllo delle concentrazioni tra imprese («Regolamento
+comunitario sulle concentrazioni») (GU L 24, pag. 1).  
+  
+---|---  
+  
+Contesto normativo
+
+2
+
+|
+
+Fondato segnatamente sull’articolo 255, paragrafo 2, CE (divenuto, in seguito
+a modifica, articolo 15 TFUE), il regolamento (CE) n. 1049/2001 del Parlamento
+europeo e del Consiglio, del 30 maggio 2001, relativo all’accesso del pubblico
+ai documenti del Parlamento europeo, del Consiglio e della Commissione (GU L
+145, pag. 43), definisce i principi, le condizioni e le limitazioni del
+diritto di accesso ai documenti di tali istituzioni.  
+  
+---|---  
+  
+3
+
+|
+
+L’articolo 4 di tale regolamento, intitolato «Eccezioni», così recita:
+
+«(...)
+
+2\. Le istituzioni rifiutano l’accesso a un documento la cui divulgazione
+arrechi pregiudizio alla tutela di quanto segue:
+
+|
+
+—
+
+|
+
+gli interessi commerciali di una persona fisica o giuridica, ivi compresa la
+proprietà intellettuale,  
+  
+---|---  
+  
+—
+
+|
+
+le procedure giurisdizionali e la consulenza legale [rectius: pareri
+giuridici],  
+  
+---|---  
+  
+—
+
+|
+
+gli obiettivi delle attività ispettive, di indagine e di revisione contabile,  
+  
+---|---  
+  
+a meno che vi sia un interesse pubblico prevalente alla divulgazione.
+
+3\. L’accesso a un documento elaborato per uso interno da un’istituzione o da
+essa ricevuto, relativo ad una questione su cui la stessa non abbia ancora
+adottato una decisione, viene rifiutato nel caso in cui la divulgazione del
+documento pregiudicherebbe gravemente il processo decisionale
+dell’istituzione, a meno che vi sia un interesse pubblico prevalente alla
+divulgazione.
+
+L’accesso a un documento contenente riflessioni per uso interno, facenti parte
+di discussioni e consultazioni preliminari in seno all’istituzione
+interessata, viene rifiutato anche una volta adottata la decisione, qualora la
+divulgazione del documento pregiudic[asse] seriamente il processo decisionale
+dell’istituzione, a meno che vi sia un interesse pubblico prevalente alla
+divulgazione.
+
+4\. Per quanto concerne i documenti di terzi, l’istituzione consulta il terzo
+al fine di valutare se sia applicabile una delle eccezioni di cui ai paragrafi
+1 o 2, a meno che non sia chiaro che il documento può o non deve essere
+divulgato.
+
+(...)
+
+6\. Se solo alcune parti del documento richiesto sono interessate da una delle
+eccezioni, le parti restanti del documento sono divulgate.
+
+7\. Le eccezioni di cui ai paragrafi 1, 2 e 3 si applicano unicamente al
+periodo nel quale la protezione è giustificata sulla base del contenuto del
+documento. Le eccezioni sono applicabili per un periodo massimo di 30 anni.
+Nel caso di documenti coperti dalle eccezioni relative alla vita privata o
+agli interessi commerciali e di documenti sensibili, le eccezioni possono
+continuare ad essere applicate anche dopo tale periodo, se necessario».  
+  
+4
+
+|
+
+L’articolo 17 del regolamento n. 139/2004, intitolato «Segreto d’ufficio»,
+così recita:
+
+«1. Le informazioni raccolte in applicazione del presente regolamento possono
+essere utilizzate soltanto per lo scopo, per l’indagine o per l’audizione per
+il quale sono state richieste.
+
+2\. Fatti salvi l’articolo 4, paragrafo 3, e gli articoli 18 e 20, la
+Commissione e le autorità competenti degli Stati membri, nonché i loro
+funzionari ed altri agenti e le altre persone che lavorano sotto il controllo
+di dette autorità, così come i funzionari e gli agenti di altre autorità degli
+Stati membri, sono tenuti a non divulgare le informazioni raccolte a norma del
+presente regolamento e che, per la loro natura, sono protette dal segreto
+d’ufficio.
+
+(…)».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 18, paragrafo 3, del medesimo regolamento dispone quanto segue:
+
+«La Commissione fonda le proprie decisioni soltanto sulle obiezioni in merito
+alle quali gli interessati hanno potuto fare osservazioni. Nello svolgimento
+del procedimento i diritti della difesa sono pienamente garantiti. Almeno le
+parti direttamente interessate possono prendere conoscenza del fascicolo,
+rispettando l’interesse legittimo delle imprese a che non vengano divulgati i
+segreti relativi ai loro affari».  
+  
+---|---  
+  
+6
+
+|
+
+Il regolamento (CE) n. 802/2004 della Commissione, del 7 aprile 2004, di
+esecuzione del regolamento (CE) n. 139/2004 (GU L 133, pag. 1), è stato
+adottato sulla base dell’autorizzazione conferita dall’articolo 23, paragrafo
+1, di quest’ultimo regolamento. Ai sensi dell’articolo 17 del regolamento n.
+802/2004, intitolato «Accesso al fascicolo ed utilizzazione dei documenti»:
+
+«1. Su richiesta, la Commissione concede alle parti alle quali ha indirizzato
+una comunicazione delle obiezioni di accedere al fascicolo al fine di
+consentire l’esercizio dei loro diritti di difesa. L’accesso è concesso dopo
+l’invio della comunicazione delle obiezioni.
+
+2\. La Commissione, su loro richiesta, concede anche alle altre parti
+interessate che sono state informate delle obiezioni di accedere al fascicolo,
+nella misura necessaria perché queste possano preparare le loro osservazioni.
+
+3\. Il diritto di accesso al fascicolo non si estende alle informazioni
+riservate né ai documenti interni della Commissione o delle autorità
+competenti degli Stati membri. Il diritto di accesso al fascicolo non si
+estende neppure alla corrispondenza tra la Commissione e le autorità
+competenti degli Stati membri o tra queste ultime.
+
+4\. I documenti ottenuti grazie all’accesso al fascicolo a norma del presente
+articolo possono essere utilizzati solo ai fini del relativo procedimento a
+norma del [regolamento n. 139/2004]».  
+  
+---|---  
+  
+Fatti e decisione di diniego di accesso ai documenti
+
+7
+
+|
+
+La sentenza impugnata contiene i seguenti rilievi:
+
+|
+
+«1
+
+|
+
+Con decisione del 20 aprile 2005 la Commissione (...) ha autorizzato, ai sensi
+dell’articolo 6, paragrafo 1, lettera b), [del regolamento n. 139/2004], la
+proposta di acquisizione del controllo, mediante acquisto di quote, della
+società ceca Unipetrol da parte della società polacca [PKN Orlen],
+notificatale l’11 marzo 2005.  
+  
+---|---  
+  
+2
+
+|
+
+Con lettera del 28 giugno 2006 la ricorrente, Agrofert Holding a.s. [in
+prosieguo: l’“Agrofert”], ha chiesto alla Commissione di poter accedere, in
+virtù del [regolamento n. 1049/2001], a tutti i documenti non pubblicati
+relativi al procedimento di notifica e di prenotifica dell’operazione di
+acquisizione della Unipetrol da parte della PKN Orlen.  
+  
+---|---  
+  
+(...)
+
+4
+
+|
+
+Con lettera del 2 agosto 2006 (...) la [direzione generale (DG) “Concorrenza”
+della Commissione] ha respinto la domanda di accesso ai documenti. Dopo aver
+sottolineato la genericità della domanda, essa ha considerato i documenti in
+questione come coperti dalle eccezioni di cui all’articolo 4, paragrafi 2 e 3,
+del regolamento n. 1049/2001. Essa ha precisato che la divulgazione dei
+documenti provenienti dalle parti notificanti e da terzi sarebbe contraria
+all’obbligo del segreto d’ufficio, previsto dall’articolo [339 TFUE] e
+dall’articolo 17, paragrafi 1 e 2, del regolamento [n. 139/2004]. Essa ha
+altresì precisato che l’accesso parziale ai documenti era impossibile e che
+non era stato presentato nessun argomento idoneo a dimostrare l’esistenza di
+un interesse pubblico prevalente alla divulgazione.  
+  
+---|---  
+  
+5
+
+|
+
+Con lettera del 18 agosto 2006 la ricorrente ha presentato alla Commissione
+una domanda di conferma (...) Essa ha contestato il diniego della Commissione,
+sostenendo, segnatamente, che avrebbe dovuto esserle concesso l’accesso
+parziale ai documenti richiesti. Essa ha inoltre invocato l’esistenza di un
+interesse pubblico prevalente alla divulgazione dei documenti di cui trattasi,
+costituito dal danno subito dalla stessa e dagli azionisti di minoranza della
+Unipetrol.  
+  
+---|---  
+  
+(...)
+
+9
+
+|
+
+Con [la decisione controversa] il Segretariato generale della Commissione ha
+confermato il diniego di accesso ai documenti per le quattro categorie di
+documenti indicate.  
+  
+---|---  
+  
+10
+
+|
+
+In primo luogo, la Commissione ritiene che i documenti scambiati tra la stessa
+e le parti notificanti contengano informazioni commerciali sensibili, relative
+alle strategie commerciali delle parti notificanti, al volume delle loro
+vendite, alle loro quote di mercato o alle loro relazioni con la clientela.
+Pertanto, troverebbe applicazione l’eccezione di cui all’articolo 4, paragrafo
+2, primo trattino, del regolamento n. 1049/2001, relativa alla tutela degli
+interessi commerciali. (...) Essa fa riferimento altresì all’articolo 17 del
+regolamento [n. 139/2004] inerente all’obbligo del segreto d’ufficio (...) La
+Commissione aggiunge che, poiché l’obiettivo dei procedimenti di controllo
+delle concentrazioni è quello di verificare se un’operazione notificata
+conferisca o meno alle parti notificanti un potere di mercato idoneo ad
+incidere in misura significativa sulla concorrenza, tutti i documenti forniti
+dalle parti notificanti nell’ambito di un siffatto procedimento riguardano
+necessariamente informazioni commerciali sensibili.  
+  
+---|---  
+  
+11
+
+|
+
+La Commissione considera altresì applicabile l’eccezione di cui all’articolo
+4, paragrafo 2, terzo trattino, del regolamento n. 1049/2001, relativa, in
+particolare, alla tutela delle attività di indagine. Secondo la Commissione le
+parti coinvolte in un procedimento riguardante una concentrazione devono
+nutrire un legittimo affidamento nel fatto che le informazioni sensibili
+contenute nei documenti comunicati non saranno divulgate. La Commissione
+ritiene che la divulgazione dei documenti in questione indebolisca il clima di
+reciproca fiducia esistente tra la stessa e le imprese (...).  
+  
+---|---  
+  
+12
+
+|
+
+In secondo luogo, la Commissione ritiene che ai documenti che essa ha
+scambiato con i terzi si applichino le eccezioni di cui all’articolo 4,
+paragrafo 2, primo e terzo trattino, del regolamento n. 1049/2001, per le
+stesse ragioni indicate a proposito dei documenti scambiati tra la stessa e le
+parti notificanti.  
+  
+---|---  
+  
+(...)
+
+14
+
+|
+
+In quarto luogo, la Commissione individua i seguenti documenti interni:
+
+|
+
+—
+
+|
+
+(...) (documento n. 1);  
+  
+---|---  
+  
+—
+
+|
+
+una nota di consultazione tra servizi, contenente una bozza di decisione
+relativa alla notifica (documento n. 2);  
+  
+---|---  
+  
+—
+
+|
+
+una risposta del servizio giuridico relativa alla nota di consultazione
+precedentemente citata (documento n. 3);  
+  
+---|---  
+  
+—
+
+|
+
+uno scambio di messaggi di posta elettronica tra il servizio competente e il
+servizio giuridico riguardo a tale bozza (documento n. 4);  
+  
+---|---  
+  
+—
+
+|
+
+le risposte di altri servizi interessati riguardo a detta nota di
+consultazione (documento n. 5);  
+  
+---|---  
+  
+—
+
+|
+
+(...) (documento n. 6);  
+  
+---|---  
+  
+—
+
+|
+
+(...) (documento n. 7).  
+  
+---|---  
+  
+15
+
+|
+
+[I documenti nn. 1, 6 e 7 non sono stati oggetto del procedimento]  
+  
+---|---  
+  
+16
+
+|
+
+Per quanto attiene ai documenti nn. 2-5, la Commissione ritiene che la loro
+divulgazione pregiudicherebbe seriamente la tutela del suo processo
+decisionale, ai sensi dell’articolo 4, paragrafo 3, secondo comma, del
+regolamento n. 1049/2001. Essa sottolinea il carattere collegiale del citato
+processo decisionale e la necessità di mantenere la fiducia dei suoi servizi.
+Secondo la Commissione tali documenti rispecchiano i pareri e le discussioni
+interni ai servizi, liberamente espressi. La loro divulgazione nel caso di
+specie arrecherebbe un grave pregiudizio all’indipendenza con cui sono
+espressi i pareri (...). Inoltre, essa ridurrebbe la volontà di cooperare
+delle (...) imprese interessate dalla notificazione e dei terzi.  
+  
+---|---  
+  
+17
+
+|
+
+La Commissione ritiene che anche i documenti nn. 3 e 4 fossero coperti
+dall’eccezione fondata sulla tutela dei pareri giuridici, di cui all’articolo
+4, paragrafo 2, secondo trattino, del regolamento n. 1049/2001 (...)  
+  
+---|---  
+  
+18
+
+|
+
+La Commissione aggiunge infine che nessun interesse pubblico prevalente poteva
+giustificare la divulgazione dei documenti oggetto del caso di specie e che
+non poteva essere accordato neppure un accesso parziale. A tal riguardo essa
+afferma che, in quanto l’indagine della Commissione era finalizzata all’esame
+delle condizioni di mercato relative alla concentrazione considerata (...),
+sarebbe quindi impossibile identificare le parti dei documenti scambiati tra
+la medesima e le parti interessate “che non contengono informazioni (...)
+commerciali o che non sono in relazione con l’indagine e che sono di per sé
+comprensibili”. (...) Infine, essa menziona il fatto che la versione
+pubblicata della decisione relativa all’operazione di concentrazione di cui
+trattasi contiene per definizione le informazioni che possono essere
+comunicate e costituisce un accesso parziale alle parti dei documenti
+richiesti non coperti dalle eccezioni applicabili».  
+  
+---|---  
+  
+Sentenza impugnata
+
+8
+
+|
+
+Con atto introduttivo, depositato il 13 aprile 2007, l’Agrofert ha chiesto al
+Tribunale di annullare la decisione controversa e di ordinare alla Commissione
+di trasmetterle i documenti richiesti.  
+  
+---|---  
+  
+9
+
+|
+
+Il Tribunale, ai punti 39-41 della sentenza impugnata, ha respinto tale
+seconda domanda in quanto irricevibile, dato che, quando esso annulla un atto
+di un’istituzione, quest’ultima è tenuta, in forza dell’articolo 266 TFUE, a
+prendere i provvedimenti che comporta l’esecuzione della sentenza.  
+  
+---|---  
+  
+10
+
+|
+
+La domanda di annullamento della decisione controversa era fondata, in via
+principale, sul motivo riguardante la violazione del regolamento n. 1049/2001.
+A sostegno di tale motivo l’Agrofert deduceva l’erroneità dell’applicazione,
+ai documenti in questione, delle eccezioni di cui all’articolo 4, paragrafi 2
+e 3, del citato regolamento. Il Tribunale ha esaminato le singole categorie di
+tali documenti alla luce di ciascuna delle eccezioni poste a fondamento della
+decisione controversa.  
+  
+---|---  
+  
+Sul diniego di accesso ai documenti scambiati tra la Commissione e le parti
+notificanti e tra la Commissione e i terzi
+
+Sull’eccezione relativa alla tutela degli interessi commerciali, prevista
+all’articolo 4, paragrafo 2, primo trattino, del regolamento n. 1049/2001
+
+11
+
+|
+
+Il Tribunale ha constatato, in primo luogo, ai punti 54 e 55 della sentenza
+impugnata, che i documenti scambiati tra la Commissione e le parti notificanti
+e tra la Commissione e i terzi potevano contenere informazioni sensibili dal
+punto di vista commerciale nei cui confronti, se del caso, poteva trovare
+applicazione l’eccezione relativa alla tutela degli interessi commerciali di
+cui all’articolo 4, paragrafo 2, primo trattino, del regolamento n. 1049/2001.  
+  
+---|---  
+  
+12
+
+|
+
+In secondo luogo, il Tribunale ha osservato, ai punti 57-60 della sentenza
+impugnata, che, siccome le eccezioni di cui all’articolo 4 del regolamento n.
+1049/2001 devono essere interpretate e applicate in senso restrittivo, l’esame
+richiesto per il trattamento di una domanda di accesso a determinati documenti
+doveva rivestire carattere concreto, e che la mera circostanza che un
+documento riguardi un interesse tutelato da un’eccezione non basta di per sé a
+giustificarne l’applicazione. Dall’articolo 4, paragrafi 1-3, di detto
+regolamento risulterebbe che tutte le eccezioni ivi menzionate devono essere
+applicate a «un» documento. Di conseguenza, solamente un esame concreto e
+specifico di ciascun documento potrebbe consentire all’istituzione di valutare
+la possibilità di accordare ai richiedenti un accesso parziale.  
+  
+---|---  
+  
+13
+
+|
+
+Orbene, in base ai punti 61-64 della sentenza impugnata, dai motivi della
+decisione controversa non emergerebbe in alcun modo che sia stato
+effettivamente svolto un siffatto esame. Tale decisione esporrebbe in modo
+generale e astratto che, tenuto conto della natura del procedimento di
+controllo di un’operazione di concentrazione tra imprese, tutti i documenti
+forniti dalle parti notificanti riguardano necessariamente informazioni
+commerciali sensibili. Orbene, siffatte affermazioni sarebbero troppo vaghe e
+generali e non si potrebbe ritenere che siano in grado di dimostrare
+validamente e adeguatamente la circostanza che nel caso di specie ogni
+documento in questione sia stato realmente sottoposto ad un esame concreto ed
+effettivo. Il Tribunale ha considerato, al punto 65 della sentenza impugnata,
+che era senz’altro possibile nel caso di specie compilare un inventario dei
+documenti scambiati tra la Commissione e le parti e descrivere il contenuto di
+ciascun documento, senza con questo rivelare le informazioni che dovevano
+restare riservate.  
+  
+---|---  
+  
+14
+
+|
+
+Ai punti 68-70 della sentenza impugnata il Tribunale ha respinto l’argomento
+della Commissione riguardante l’obbligo del segreto d’ufficio e la tutela dei
+segreti commerciali, derivanti [rispettivamente] dall’articolo 339 TFUE e
+dall’articolo 17 del regolamento n. 139/2004. Esso ha considerato che soltanto
+alcune informazioni rientravano nell’ambito dei segreti commerciali e che
+l’obbligo del segreto d’ufficio non rivestiva una portata tale da poter
+giustificare un diniego generale e astratto di accesso ai documenti. Dato che
+tutte le informazioni raccolte nell’ambito di un procedimento di controllo di
+un’operazione di concentrazione tra imprese non sono necessariamente coperte
+dal segreto d’ufficio, l’obbligo del segreto d’ufficio e la tutela dei segreti
+commerciali, derivanti dalle disposizioni summenzionate, non sarebbero tali da
+dispensare la Commissione dall’esame concreto di ciascun documento in
+questione, richiesto dall’articolo 4, paragrafo 2, del regolamento n.
+1049/2001. Analogamente, ai sensi del punto 77 della sentenza impugnata,
+neppure la circostanza che, nell’ambito di un procedimento di controllo di
+un’operazione di concentrazione, i documenti siano inviati dalle parti in
+forma riservata, conformemente al regolamento n. 139/2004, dispenserebbe la
+Commissione dall’obbligo di procedere, in presenza di una domanda di accesso
+ai sensi del regolamento n. 1049/2001, a un esame concreto di ciascun
+documento.  
+  
+---|---  
+  
+15
+
+|
+
+Il Tribunale, ai punti 73-76 della sentenza impugnata, ha considerato che,
+anche supponendo che possa essere invocato nella fattispecie, l’articolo 8
+della Convenzione europea per la salvaguardia dei diritti dell’uomo e delle
+libertà fondamentali, firmata a Roma il 4 novembre 1950 (in prosieguo: la
+«CEDU»), sull’obbligo di rispettare la vita privata, non può dispensare la
+Commissione dall’esame concreto ed effettivo di ciascun documento in
+questione. Come dichiarato ai punti 78-80 della sentenza impugnata, il
+Tribunale non ha neppure accettato di considerare – alla luce dell’articolo 2,
+paragrafo 3, del regolamento n. 1049/2001, che sancisce l’accesso del pubblico
+a tutti i documenti detenuti o ricevuti da un’istituzione – che i documenti
+forniti nell’ambito di un’operazione di concentrazione fossero manifestamente
+coperti dall’eccezione di cui all’articolo 4, paragrafo 2, primo trattino, di
+detto regolamento.  
+  
+---|---  
+  
+16
+
+|
+
+Ai punti 81-89 della sentenza impugnata il Tribunale ha parimenti respinto
+l’argomento sul legittimo affidamento della PKN Orlen nella circostanza che i
+documenti comunicati nell’ambito del procedimento di controllo dell’operazione
+di concentrazione non sarebbero stati divulgati, in applicazione dell’articolo
+17 del regolamento n. 139/2004. Esso ha constatato che tale disposizione non
+sanciva un diritto assoluto alla riservatezza di tutti i documenti comunicati
+dalle imprese e ha affermato che i motivi dedotti a sostegno del diniego di
+accesso a tali documenti dovevano essere esaminati soltanto con riferimento
+alle eccezioni di cui all’articolo 4 del regolamento n. 1049/2001. Esso ha
+altresì considerato che l’articolo 17, paragrafo 1, del regolamento n.
+139/2004 riguardava soltanto il modo in cui la Commissione può utilizzare le
+informazioni fornite e non disciplinava l’accesso ai documenti garantito dal
+regolamento n. 1049/2001.  
+  
+---|---  
+  
+Sull’eccezione relativa alla tutela degli obiettivi delle attività di
+indagine, prevista all’articolo 4, paragrafo 2, terzo trattino, del
+regolamento n. 1049/2001
+
+17
+
+|
+
+Il Tribunale ha ammesso, ai punti 96-99 della sentenza impugnata, che i
+documenti depositati nell’ambito di un procedimento di controllo di
+un’operazione di concentrazione riguardavano un’attività di indagine ai sensi
+dell’articolo 4, paragrafo 2, terzo trattino, del regolamento n. 1049/2001 e
+ha ricordato che detta disposizione doveva essere interpretata nel senso che
+essa trovava applicazione solo qualora la divulgazione dei documenti in
+questione avesse rischiato di mettere in pericolo il completamento delle
+attività di indagine. Orbene, nel caso di specie, secondo il Tribunale, le
+attività di indagine della Commissione che hanno dato luogo alla decisione,
+del 20 aprile 2005, di non opporsi all’operazione di concentrazione erano
+state già completate al momento dell’adozione della decisione controversa.
+Pertanto, la divulgazione di tali documenti non avrebbe potuto mettere in
+pericolo il completamento delle attività di indagine. Per quanto riguarda
+l’argomento della Commissione secondo cui la divulgazione di tali documenti
+indebolirebbe il clima di reciproca fiducia esistente tra l’istituzione
+medesima e le imprese e pregiudicherebbe l’efficacia dei procedimenti di
+controllo delle operazioni di concentrazione, il Tribunale ha obiettato, ai
+punti 100-103 della sentenza impugnata, che simili considerazioni erano molto
+vaghe, generali e ipotetiche e non consentivano di ritenere che l’argomento
+della Commissione fosse effettivamente valido per ciascuno dei documenti di
+cui trattasi.  
+  
+---|---  
+  
+Sul diniego di accesso parziale ai documenti scambiati tra la Commissione e le
+parti notificanti e tra la Commissione e i terzi, fondato sull’eccezione
+prevista all’articolo 4, paragrafo 6, del regolamento n. 1049/2001
+
+18
+
+|
+
+Il Tribunale ha considerato, ai punti 107-113 della sentenza impugnata, che,
+se è pur vero che l’articolo 4, paragrafo 6, del regolamento n. 1049/2001 non
+impone che l’accesso parziale ai documenti sia possibile in tutti i casi,
+tuttavia tale disposizione implica un esame concreto e specifico del contenuto
+di ciascuno di essi. Infatti, si rivelerebbe insufficiente una valutazione dei
+documenti svolta per categorie piuttosto che con riferimento ai concreti
+elementi di informazione in essi contenuti. Di conseguenza, dovrebbe essere
+respinto l’argomento della Commissione secondo il quale le informazioni
+fornite dalle parti notificanti e dai terzi sarebbero tutte collegate tra di
+loro, di modo che non sarebbe stato possibile individuare i passaggi ai quali
+poteva essere accordato l’accesso, in quanto la Commissione in questo modo
+sembrerebbe presumere, in modo generale e senza procedere a un esame concreto
+e specifico del contenuto di ciascun documento, che la divulgazione, ancorché
+parziale, di tutti i documenti richiesti arrecherebbe pregiudizio agli
+interessi tutelati.  
+  
+---|---  
+  
+19
+
+|
+
+Ciò premesso, il Tribunale ha concluso, al punto 116 della sentenza impugnata,
+che la decisione controversa doveva essere annullata nella parte in cui nega
+l’accesso ai documenti scambiati tra, da un lato, la Commissione e le parti
+notificanti e, dall’altro, tra la Commissione e i terzi, in quanto la
+Commissione non aveva validamente e adeguatamente dimostrato che la
+divulgazione di tali documenti avrebbe concretamente ed effettivamente
+arrecato pregiudizio agli interessi tutelati.  
+  
+---|---  
+  
+Sul diniego di accesso ai pareri giuridici, fondato sull’eccezione prevista
+all’articolo 4, paragrafo 2, secondo trattino, del regolamento n. 1049/2001
+
+20
+
+|
+
+Nella fattispecie si trattava della risposta del servizio giuridico della
+Commissione relativa alla nota di consultazione tra servizi (documento interno
+n. 3) e dello scambio di messaggi di posta elettronica tra il servizio
+competente e il servizio giuridico riguardo al piano di concentrazione
+(documento interno n. 4). Il Tribunale ha osservato, al punto 123 della
+sentenza impugnata, che l’eccezione prevista all’articolo 4, paragrafo 2,
+secondo trattino, del regolamento n. 1049/2001 era volta a tutelare
+l’interesse delle istituzioni a ricevere pareri franchi, obiettivi e completi,
+ma che dai punti 42 e 43 della sentenza della Corte del 1o luglio 2008, Svezia
+e Turco/Consiglio (C-39/05 P e C-52/05 P, Racc. pag. I-4723), risultava che il
+rischio di pregiudicare tale interesse, per poter essere invocato, doveva
+essere ragionevolmente prevedibile e non meramente ipotetico.  
+  
+---|---  
+  
+21
+
+|
+
+Il Tribunale ha sottolineato, ai punti 125-128 della sentenza impugnata, che,
+sebbene in via di principio, la Commissione possa basarsi su presunzioni di
+carattere generale e su considerazioni di ordine generale che si applicano a
+determinate categorie di documenti, tuttavia era suo obbligo, conformemente a
+quanto dichiarato dalla Corte al punto 50 della citata sentenza Svezia e
+Turco/Consiglio, verificare in ogni singolo caso se siffatte considerazioni di
+ordine generale possano essere effettivamente applicate ad un particolare
+documento di cui sia chiesta la divulgazione. Orbene, nella decisione
+controversa la Commissione si sarebbe basata su una considerazione di ordine
+generale, senza verificare concretamente, per ciascuno dei pareri richiesti,
+se tale considerazione fosse effettivamente applicabile nelle circostanze
+della fattispecie. La Commissione non avrebbe dimostrato, dunque, in che modo
+la divulgazione dei pareri giuridici di cui trattasi costituirebbe nel caso di
+specie un rischio effettivo, ragionevolmente prevedibile e non meramente
+ipotetico, per la tutela di tali pareri. Il Tribunale ha inoltre affermato, ai
+punti 129-131 della sentenza impugnata, che la trasparenza è necessaria anche
+quando la Commissione agisce, come nel presente caso, in veste di autorità
+amministrativa e non di legislatore e che l’obbligo di esame concreto, caso
+per caso, sia da applicare anche nel caso di documenti molto brevi.  
+  
+---|---  
+  
+22
+
+|
+
+Alla luce di quanto sopra, il Tribunale ha concluso, al punto 132 della
+sentenza impugnata, che il diniego di accesso ai pareri giuridici richiesti
+doveva essere annullato in quanto la Commissione non aveva dimostrato che la
+divulgazione dei documenti di cui trattasi avrebbe concretamente ed
+effettivamente pregiudicato la tutela dei pareri giuridici.  
+  
+---|---  
+  
+Sul diniego di accesso ai documenti interni della Commissione, fondato
+sull’eccezione relativa alla tutela del processo decisionale prevista
+all’articolo 4, paragrafo 3, secondo comma, del regolamento n. 1049/2001
+
+23
+
+|
+
+Nella fattispecie erano in discussione i documenti interni nn. 2-5. Il
+Tribunale ha constatato, ai punti 138 e 139 della sentenza impugnata, che si
+trattava di documenti preparatori alla decisione definitiva della Commissione
+contenenti pareri e che essi rientravano quindi nell’ambito di applicazione
+dell’eccezione prevista all’articolo 4, paragrafo 3, secondo comma, del
+regolamento n. 1049/2001, la quale può essere invocata anche una volta
+adottata la decisione dell’istituzione interessata. Ai punti 141-144 della
+sentenza impugnata il Tribunale ha dichiarato che l’applicazione di tale
+eccezione presupponeva, tuttavia, la dimostrazione che l’accesso ai documenti
+richiesti sarebbe stato tale da arrecare concretamente, effettivamente e
+seriamente pregiudizio alla tutela del processo decisionale dell’istituzione
+interessata, e che tale rischio di pregiudizio fosse ragionevolmente
+prevedibile e non meramente ipotetico. Orbene, la censura della Commissione
+per cui la divulgazione dei documenti richiesti pregiudicherebbe seriamente la
+tutela del processo decisionale dell’istituzione, tenuto conto del carattere
+collegiale di tale processo, sarebbe stata invocata in modo generale e
+astratto, senza essere suffragata da circostanziate argomentazioni circa il
+contenuto dei documenti di cui trattasi.  
+  
+---|---  
+  
+24
+
+|
+
+Il Tribunale ha constatato, al punto 146 della sentenza impugnata, che la
+Commissione aveva basato le sue valutazioni sulla natura dei documenti
+richiesti piuttosto che sugli elementi informativi in essi realmente
+contenuti, quando invece siffatte valutazioni avrebbero dovuto essere basate
+su un esame concreto ed effettivo di ciascun documento richiesto. Esso ha
+altresì respinto l’argomento della Commissione vertente sull’affidamento e
+sulla libertà di espressione dei suoi servizi, ritenendo che tali allegazioni
+apparissero eccessivamente ipotetiche. Alla luce di quanto sopra il Tribunale
+ha concluso, al punto 147 della sentenza impugnata, che la circostanza che i
+servizi della Commissione avessero espresso pareri nell’ambito di un
+procedimento di controllo di un’operazione di concentrazione tra imprese non
+estendeva, in via di principio, il beneficio dell’eccezione di cui trattasi a
+tutti gli atti interni contenenti tali pareri.  
+  
+---|---  
+  
+25
+
+|
+
+Ciò considerato, il Tribunale ha concluso, al punto 150 della sentenza
+impugnata, che la Commissione non aveva validamente e adeguatamente dimostrato
+l’applicabilità ai documenti interni richiesti dell’eccezione ex articolo 4,
+paragrafo 3, secondo comma, del regolamento n. 1049/2001.  
+  
+---|---  
+  
+26
+
+|
+
+Alla luce di tutte le suesposte considerazioni, il Tribunale ha concluso, al
+punto 154 della sentenza impugnata, che la decisione controversa doveva essere
+annullata.  
+  
+---|---  
+  
+Conclusioni delle parti in sede di impugnazione
+
+27
+
+|
+
+La Commissione chiede che la Corte voglia:
+
+|
+
+—
+
+|
+
+annullare la sentenza impugnata;  
+  
+---|---  
+  
+—
+
+|
+
+pronunciarsi in via definitiva sulle questioni oggetto della presente
+impugnazione, e  
+  
+---|---  
+  
+—
+
+|
+
+condannare l’Agrofert alle spese di entrambi i gradi di giudizio.  
+  
+---|---  
+  
+28
+
+|
+
+L’Agrofert chiede che la Corte voglia:
+
+|
+
+—
+
+|
+
+respingere integralmente l’impugnazione, e  
+  
+---|---  
+  
+—
+
+|
+
+condannare la Commissione alle spese.  
+  
+---|---  
+  
+29
+
+|
+
+Il Regno di Svezia chiede che la Corte voglia:
+
+|
+
+—
+
+|
+
+respingere l’impugnazione, e  
+  
+---|---  
+  
+—
+
+|
+
+condannare la Commissione alle spese sostenute dal Regno di Svezia.  
+  
+---|---  
+  
+30
+
+|
+
+La PKN Orlen chiede che la Corte voglia:
+
+|
+
+—
+
+|
+
+annullare la sentenza impugnata;  
+  
+---|---  
+  
+—
+
+|
+
+pronunciarsi in via definitiva sulle questioni oggetto dell’impugnazione, e  
+  
+---|---  
+  
+—
+
+|
+
+condannare l’Agrofert alle spese a carico della PKN Orlen in entrambi i gradi
+di giudizio.  
+  
+---|---  
+  
+Sull’impugnazione
+
+Argomenti della Commissione
+
+31
+
+|
+
+In via preliminare, la Commissione osserva che, nella sua sentenza, il
+Tribunale non ha cercato di stabilire un equilibrio reale e armonioso tra i
+regimi giuridici istituiti dai regolamenti n. 139/2004 e n. 1049/2001,
+rilevanti nel caso di specie, e, così facendo, ha reso inapplicabili le norme
+sulla riservatezza dei documenti in materia di controllo sulle concentrazioni.  
+  
+---|---  
+  
+Primo motivo: erronea interpretazione del regolamento n. 1049/2001, in quanto
+talune disposizioni del regolamento n. 139/2004 non sarebbero state prese in
+considerazione ai fini dell’interpretazione delle eccezioni di cui
+all’articolo 4 del regolamento n. 1049/2001
+
+32
+
+|
+
+La Commissione ha reiterato gli argomenti esposti dinanzi al Tribunale, in
+base ai quali l’articolo 339 TFUE e l’articolo 17 del regolamento n. 139/2004,
+che comportano l’obbligo di rispettare il segreto d’ufficio, risulterebbero
+rilevanti ai fini dell’interpretazione e dell’applicazione delle eccezioni al
+diritto di accesso previste dal regolamento n. 1049/2001, così da preservare
+l’unità dell’ordinamento giuridico dell’Unione mediante un’interpretazione
+coerente e non contraddittoria dei diversi testi legislativi.  
+  
+---|---  
+  
+33
+
+|
+
+Essa afferma che, se è pur vero che il regolamento n. 1049/2001 costituisce
+una norma di applicazione generale, le limitazioni al diritto di accesso sono
+tuttavia formulate in termini ampi e devono dunque essere interpretate in
+maniera tale da tutelare i legittimi interessi, pubblici o privati, in tutti i
+settori di attività delle istituzioni, a maggior ragione quando tali interessi
+sono espressamente tutelati in virtù di altre disposizioni del diritto
+dell’Unione. Ciò sarebbe confermato dalle sentenze del 29 giugno 2010,
+Commissione/Bavarian Lager (C-28/08 P, Racc. pag. I-6055, punti 58, 59, 64 e
+65), e Commissione/Technische Glaswerke Ilmenau (C-139/07 P, Racc. pag.
+I-5885, punti 61 e 63), nelle quali la Corte ha respinto l’interpretazione del
+regolamento n. 1049/2001 fornita dal Tribunale, adducendo che quest’ultimo non
+aveva tenuto conto di altri strumenti giuridici parimenti applicabili nelle
+cause all’origine delle citate sentenze. Analogamente, con la sentenza del 21
+settembre 2010, Svezia e a./API e Commissione (C-514/07 P, C-528/07 P e
+C-532/07 P, Racc. pag. I-8533, punto 84), la Corte avrebbe confermato che il
+diritto applicabile deve essere oggetto di un’interpretazione armoniosa.  
+  
+---|---  
+  
+34
+
+|
+
+Orbene, la conclusione cui è giunto il Tribunale nella sentenza impugnata
+creerebbe un conflitto tra le norme giuridiche applicabili. Il regolamento n.
+139/2004, infatti, alle imprese che partecipano a un procedimento di controllo
+di un’operazione di concentrazione imporrebbe obblighi vincolanti e di ampia
+portata in termini di comunicazione di informazioni e di divulgazione di
+segreti commerciali; obblighi, questi, tuttavia controbilanciati dalle
+disposizioni del menzionato regolamento che istituiscono garanzie per una
+maggiore tutela. Tali garanzie sarebbero dirette, da un lato, ad assicurare il
+corretto funzionamento del sistema di controllo delle concentrazioni
+nell’interesse pubblico e, dall’altro, a tutelare il legittimo interesse delle
+imprese interessate a che le informazioni da esse comunicate alla Commissione
+siano utilizzate esclusivamente ai fini dell’indagine.  
+  
+---|---  
+  
+35
+
+|
+
+Richiamando l’articolo 28 del regolamento (CE) n. 1/2003 del Consiglio, del 16
+dicembre 2002, concernente l’applicazione delle regole di concorrenza di cui
+agli articoli 81 e 82 del Trattato (GU L 1, pag. 1), la Commissione sottolinea
+che l’obbligo di rispettare il segreto commerciale delle imprese, valido
+nell’intero settore della concorrenza, mira parimenti a garantire i diritti
+della difesa di queste ultime, i quali rientrano tra i principi fondamentali
+del diritto dell’Unione e sono sanciti dall’articolo 6 della CEDU,
+conformemente a quanto dichiarato dalla Corte al punto 299 della sentenza del
+15 ottobre 2002, Limburgse Vinyl Maatschappij e a./Commissione (C-238/99 P,
+C-244/99 P, C-245/99 P, C-247/99 P, da C-250/99 P a C-252/99 P e C-254/99 P,
+Racc. pag. I-8375). Inoltre, le informazioni comunicate alla Commissione dalle
+imprese partecipanti a un procedimento di controllo di un’operazione di
+concentrazione dovrebbero essere considerate come attinenti alla loro sfera di
+attività privata ai sensi dell’articolo 8 della CEDU. Dal momento che tali
+imprese potrebbero essere obbligate a trasmettere le loro informazioni alla
+Commissione, le condizioni sancite da tale articolo dovrebbero essere
+rispettate.  
+  
+---|---  
+  
+36
+
+|
+
+Nel contesto del sistema istituito dal regolamento n. 139/2004 il diritto di
+accesso al fascicolo è riconosciuto soltanto alle parti direttamente coinvolte
+nel procedimento e, ove risulti necessario, alle persone fisiche o giuridiche
+che dimostrino di avervi interesse. È invece negato l’accesso ai documenti a
+qualsiasi altro richiedente che non dimostri di avervi interesse. Orbene,
+stando all’interpretazione del Tribunale, un siffatto richiedente godrebbe in
+linea di principio, sulla base del regolamento n. 1049/2001, di un diritto di
+accesso incondizionato a ciascuno dei documenti interessati e potrebbe,
+inoltre, utilizzare liberamente gli stessi per qualsivoglia fine, il che
+sarebbe manifestamente in contrasto con il regolamento n. 139/2004. Pertanto,
+il Tribunale sarebbe incorso in errore di diritto ritenendo, al punto 88 della
+sentenza impugnata, che l’obbligo, in forza del regolamento n. 139/2004, di
+limitare l’utilizzo delle informazioni raccolte allo scopo per il quale sono
+state richieste riguardasse unicamente le modalità con cui la Commissione può
+utilizzare le informazioni fornite e non disciplinasse l’accesso ai documenti
+garantito dal regolamento n. 1049/2001.  
+  
+---|---  
+  
+37
+
+|
+
+La Commissione sostiene che, per quanto riguarda i documenti afferenti ai
+procedimenti di controllo delle concentrazioni, occorre applicare, per
+analogia, le considerazioni svolte dalla Corte ai punti 54, 55, 61 e 62 della
+citata sentenza Commissione/Technische Glaswerke Ilmenau, pronunciata in
+materia di procedimenti di controllo degli aiuti di Stato, e riconoscere,
+pertanto, l’esistenza di una presunzione di carattere generale in base alla
+quale la divulgazione dei documenti scambiati ai soli fini del procedimento di
+controllo dell’operazione di concentrazione, che non sono accessibili a
+persone che non dimostrino di avervi interesse, pregiudicherebbe, in linea di
+principio, la tutela degli obiettivi delle attività di indagine. Pertanto, il
+Tribunale sarebbe incorso in errore di diritto omettendo di prendere in
+considerazione le disposizioni del regolamento n. 139/2004 e ritenendo che il
+regolamento n. 1049/2001 prevalesse su altre disposizioni del diritto
+dell’Unione, il che equivarrebbe ad annullare l’effetto utile delle regole
+essenziali al buon funzionamento del sistema di controllo delle
+concentrazioni. A tal riguardo la Commissione fa altresì riferimento al punto
+56 della citata sentenza Commissione/Bavarian Lager.  
+  
+---|---  
+  
+Secondo motivo: erronea interpretazione dell’articolo 4, paragrafi 2 e 3, del
+regolamento n. 1049/2001
+
+– Prima parte: sull’obbligo di procedere a un esame concreto e specifico di
+ciascun documento
+
+38
+
+|
+
+La Commissione sottolinea che, secondo il Tribunale, l’istituzione interessata
+dovrebbe procedere a un esame concreto e specifico di ciascun documento
+indicato in una domanda di accesso, anche qualora sia chiaro che una siffatta
+domanda riguardi documenti coperti da un’eccezione. Tale obbligo si
+applicherebbe a tutte le eccezioni menzionate all’articolo 4, paragrafi 1-3,
+del regolamento n. 1049/2001, qualunque sia l’ambito cui appartengono i
+documenti richiesti e nonostante la specificità di tale settore. In questo
+modo, il Tribunale non terrebbe conto delle regole applicabili ai procedimenti
+di controllo delle concentrazioni, e ciò sebbene la Corte, sulla base delle
+specificità del procedimento di controllo degli aiuti di Stato, abbia
+riconosciuto, nella sua citata sentenza Commissione/Technische Glaswerke
+Ilmenau, l’esistenza di una presunzione di carattere generale in base alla
+quale la divulgazione al pubblico dei documenti del fascicolo
+pregiudicherebbe, in linea di principio, la tutela degli obiettivi delle
+attività di indagine, di modo che, conformemente a tale presunzione, occorreva
+negare l’accesso a tutti i documenti richiesti in tale causa. La Commissione
+ritiene che siffatta conclusione s’imponga anche nel caso di specie.  
+  
+---|---  
+  
+– Seconda parte: sull’eccezione relativa alla tutela degli obiettivi delle
+attività di indagine, prevista all’articolo 4, paragrafo 2, terzo trattino,
+del regolamento n. 1049/2001
+
+39
+
+|
+
+Quanto alla posizione del Tribunale secondo la quale tale eccezione non può
+più essere invocata una volta che la decisione sulla concentrazione sia stata
+adottata e che il procedimento amministrativo sia stato chiuso, la Commissione
+ribatte che, in un procedimento di controllo di una concentrazione, le
+eccezioni relative alla tutela degli interessi commerciali e degli obiettivi
+delle attività di indagine sono strettamente collegate e che la natura
+riservata delle informazioni fornite non viene meno alla conclusione del
+procedimento amministrativo. Inoltre, a norma dell’articolo 4, paragrafo 7,
+del regolamento n. 1049/2001, gli interessi commerciali potrebbero anche
+beneficiare di una protezione oltre il termine di 30 anni. Un approccio
+diverso avrebbe conseguenze fortemente pregiudizievoli sulla volontà delle
+imprese di cooperare con la Commissione. Nel sottolineare che, conformemente
+alla formulazione della disposizione in parola, l’eccezione di cui trattasi
+mira a tutelare «gli obiettivi delle attività di indagine», e non unicamente
+le attività di indagine in sé, la Commissione afferma che la presunzione
+generale sancita nella citata sentenza Commissione/Technische Glaswerke
+Ilmenau deve applicarsi anche dopo che una decisione relativa a una
+concentrazione è divenuta definitiva.  
+  
+---|---  
+  
+– Terza parte: sull’eccezione relativa alla tutela degli interessi
+commerciali, prevista all’articolo 4, paragrafo 2, primo trattino, del
+regolamento n. 1049/2001
+
+40
+
+|
+
+Tale eccezione riguarda i documenti scambiati tra la Commissione e le parti
+notificanti e tra la Commissione e i terzi. La Commissione ribadisce che le
+norme in materia di controllo di un’operazione di concentrazione tra imprese
+prevedono la necessità di trasmetterle numerose informazioni molto riservate
+manifestamente coperte dall’obbligo del rispetto del segreto d’ufficio,
+sancito all’articolo 339 TFUE e all’articolo 17 del regolamento n. 139/2004.
+Tale considerazione sarebbe già sufficiente a contestare l’approccio del
+Tribunale secondo cui occorrerebbe determinare, mediante un esame di ciascun
+singolo documento interessato, se la sua divulgazione fosse idonea a ledere
+concretamente ed effettivamente gli interessi tutelati.  
+  
+---|---  
+  
+– Quarta parte: sull’eccezione relativa alla tutela del processo decisionale,
+prevista all’articolo 4, paragrafo 3, secondo comma, del regolamento n.
+1049/2001
+
+41
+
+|
+
+Tale eccezione è fatta valere per i documenti interni nn. 2-5. La Commissione
+osserva che l’articolo 17, paragrafo 3, del regolamento n. 802/2004 esclude
+espressamente i documenti interni dal diritto di accesso al fascicolo quando
+quest’ultimo è concesso per consentire alle parti del procedimento l’esercizio
+del loro diritto di difesa. La limitazione dell’accesso a tali documenti
+sarebbe giustificata dalla natura del procedimento e dal carattere collegiale
+del processo decisionale della Commissione, che richiederebbe che i membri del
+collegio dei commissari dispongano di tutte le informazioni necessarie ai fini
+dell’adozione di una decisione nell’interesse pubblico. Se i servizi della
+Commissione dovessero prendere in considerazione il rischio di divulgazione,
+essi si sentirebbero verosimilmente meno liberi di sottolineare le eventuali
+lacune di una bozza di decisione o di esprimere pareri divergenti, il che
+nuocerebbe al processo decisionale. Per tale ragione siffatti documenti non
+dovrebbero essere accessibili neanche una volta che la decisione sulla
+concentrazione sia divenuta definitiva. Inoltre, l’interpretazione del
+regolamento n. 1049/2001 compiuta dal Tribunale conferirebbe più diritti al
+pubblico che non alle parti direttamente interessate dal procedimento di
+controllo di un’operazione di concentrazione.  
+  
+---|---  
+  
+– Quinta parte: sull’eccezione relativa alla tutela dei pareri giuridici,
+prevista all’articolo 4, paragrafo 2, secondo trattino, del regolamento n.
+1049/2001
+
+42
+
+|
+
+Tale eccezione è fatta valere specificamente per i documenti interni nn. 3 e
+4. La Commissione rileva che i due pareri in questione sono stati oggetto di
+un esame concreto e specifico, a seguito del quale essa è giunta alla
+conclusione che questi erano, in ogni caso, integralmente coperti dalla
+menzionata eccezione. La Commissione avrebbe poi esaminato l’esistenza di un
+eventuale interesse pubblico prevalente alla divulgazione dei medesimi
+documenti, giungendo alla conclusione che, nella fattispecie, si trattava
+manifestamente di un interesse privato, in quanto l’Agrofert invocava «il
+danno subito dalla stessa e dagli azionisti di minoranza della Unipetrol».  
+  
+---|---  
+  
+Gli argomenti delle altre parti
+
+43
+
+|
+
+L’Agrofert, convenuta nel procedimento dinanzi al Tribunale, sostiene che la
+citata sentenza Commissione/Technische Glaswerke Ilmenau è priva di pertinenza
+nel caso di specie, dal momento che essa riguarda la procedura relativa agli
+aiuti di Stato, la quale disciplina in maniera diversa l’accesso al fascicolo.
+L’Agrofert condivide l’approccio del Tribunale secondo il quale la circostanza
+che un documento riguardi un interesse tutelato da un’eccezione prevista
+all’articolo 4, paragrafi 2 e 3, del regolamento n. 1049/2001 non può di per
+sé sola giustificare l’applicazione di tale eccezione. Pertanto, la
+Commissione avrebbe dovuto esaminare la domanda di divulgazione alla luce
+delle informazioni contenute in ciascun documento richiesto, e non in maniera
+generale.  
+  
+---|---  
+  
+44
+
+|
+
+La PKN Orlen, intervenuta nel procedimento dinanzi al Tribunale a sostegno
+della Commissione, fa presente di aver collaborato con quest’ultima,
+pienamente fiduciosa nel fatto che i documenti contenenti segreti commerciali
+comunicati a detta istituzione, nonché tutte le altre comunicazioni scambiate
+nell’ambito del procedimento di controllo dell’operazione di concentrazione,
+sarebbero stati utilizzati soltanto ai fini dell’indagine condotta e non
+sarebbero stati divulgati a terzi. Essa avrebbe potuto legittimamente nutrire
+tale affidamento in base, segnatamente, al regolamento n. 139/2004. Il diritto
+dell’Unione non potrebbe offrire garanzie di tutela di informazioni e di
+documenti in forza di una normativa e, sulla base di un’altra, privare di ogni
+efficacia detta tutela. La natura delle informazioni comunicate non
+cambierebbe una volta concluso il procedimento di concentrazione. Consentire
+al pubblico di accedere al fascicolo dopo la conclusione del procedimento
+vorrebbe dire eludere totalmente le considerazioni che hanno giustificato la
+tutela delle attività di indagine.  
+  
+---|---  
+  
+45
+
+|
+
+Il Regno di Svezia, intervenuto nel procedimento dinanzi al Tribunale a
+sostegno dell’Agrofert, afferma che, in virtù del regolamento n. 1049/2001,
+l’accesso ai documenti costituisce la regola generale. Pertanto, le eccezioni
+a tale regola dovrebbero essere interpretate in senso restrittivo. Le modalità
+procedurali che le istituzioni dovrebbero seguire nel caso di presentazione di
+una domanda di accesso sarebbero state precisate dalla Corte nella citata
+sentenza Svezia e Turco/Consiglio, in cui essa descrive le tre fasi che devono
+essere normalmente seguite per stabilire se una domanda di accesso possa
+essere accolta. Orbene, nella sentenza impugnata il Tribunale avrebbe
+giustamente constatato che nel caso di specie la Commissione non aveva
+rispettato tutte le fasi dell’esame.  
+  
+---|---  
+  
+46
+
+|
+
+Il Regno di Svezia sostiene che la circostanza dell’esistenza, in normative
+specifiche, di regole diverse in materia di accesso ai documenti non comporta
+che tali normative, il cui obiettivo è ben diverso rispetto a quello delle
+eccezioni previste nel regolamento n. 1049/2001, debbano automaticamente
+prevalere sulle disposizioni di quest’ultimo, poiché se così fosse il
+regolamento n. 1049/2001 sarebbe svuotato di significato. Di conseguenza, la
+portata della citata sentenza Commissione/Technische Glaswerke Ilmenau sarebbe
+limitata all’ambito degli aiuti di Stato. In definitiva, non esisterebbe un
+diritto assoluto alla riservatezza di tutti i documenti comunicati e un
+diniego di accesso ai documenti potrebbe essere fondato esclusivamente sulle
+eccezioni previste nel regolamento n. 1049/2001.  
+  
+---|---  
+  
+Giudizio della Corte
+
+47
+
+|
+
+Occorre osservare, in via preliminare, che, nella decisione controversa, la
+Commissione aveva effettuato una distinzione tra, da un lato, i documenti che
+detta istituzione aveva scambiato con le parti notificanti e con i terzi
+nell’ambito del procedimento di controllo dell’operazione di concentrazione di
+cui trattasi, ai quali si applicherebbe l’articolo 4, paragrafo 2, primo e
+terzo trattino, del regolamento n. 1049/2001, relativi alla tutela degli
+interessi commerciali e a quella degli obiettivi delle attività di indagine,
+nonché l’articolo 17 del regolamento n. 139/2004, e, dall’altro, i documenti
+interni, redatti dai servizi della Commissione nell’ambito del controllo di
+tale operazione di concentrazione, che rientrerebbero nell’ambito di
+applicazione dell’articolo 4, paragrafi 2, secondo trattino, e 3, secondo
+comma, del regolamento n. 1049/2001, relativi, rispettivamente, alla tutela
+dei pareri giuridici e del processo decisionale dell’istituzione.  
+  
+---|---  
+  
+48
+
+|
+
+La menzionata distinzione tra i documenti scambiati dalla Commissione con le
+parti notificanti e con i terzi, da un lato, e i documenti interni,
+dall’altro, è stata effettuata da tale istituzione nel controricorso
+depositato in primo grado nonché dal Tribunale nella sentenza impugnata.
+Inoltre, la medesima suddivisione per categorie dei documenti di cui trattasi
+costituisce lo schema del ragionamento seguito dalla Commissione nella sua
+impugnazione. Di conseguenza, anche la valutazione della Corte sarà effettuata
+sulla base della medesima distinzione.  
+  
+---|---  
+  
+Sul diniego di accesso ai documenti scambiati tra la Commissione e le parti
+notificanti e tra la Commissione e i terzi
+
+49
+
+|
+
+Con il primo motivo, nonché con la prima, seconda e terza parte del secondo
+motivo della sua impugnazione, la Commissione addebita, in sostanza, al
+Tribunale di non aver preso in considerazione le disposizioni rilevanti del
+regolamento n. 139/2004, relative all’accesso ai documenti di un procedimento
+di controllo di una concentrazione tra imprese, ai fini dell’interpretazione
+delle eccezioni al diritto di accesso di cui all’articolo 4, paragrafo 2,
+primo e terzo trattino, del regolamento n. 1049/2001, riguardanti,
+rispettivamente, la tutela degli interessi commerciali e quella degli
+obiettivi delle attività di indagine.  
+  
+---|---  
+  
+50
+
+|
+
+Tale censura, alla luce della giurisprudenza della Corte concernente la
+relazione tra il regolamento n. 1049/2001 e talune normative specifiche del
+diritto dell’Unione, risultante in particolare dalle citate sentenze
+Commissione/Bavarian Lager, Commissione/Technische Glaswerke Ilmenau nonché
+Svezia e a./API e Commissione, risulta fondata.  
+  
+---|---  
+  
+51
+
+|
+
+La presente fattispecie riguarda, infatti, i rapporti che intercorrono tra il
+regolamento n. 1049/2001 e un’altra normativa, vale a dire il regolamento n.
+139/2004, il quale si applica a un settore specifico del diritto dell’Unione.
+Tali due regolamenti hanno obiettivi diversi. Il primo intende garantire la
+maggiore trasparenza possibile del processo decisionale delle pubbliche
+autorità nonché delle informazioni sulle quali si basano le loro decisioni.
+Esso si propone dunque di rendere agevole quanto più possibile l’esercizio del
+diritto di accesso ai documenti, nonché di promuovere una corretta prassi
+amministrativa. Il secondo mira a garantire il rispetto del segreto d’ufficio
+nei procedimenti di controllo delle operazioni di concentrazioni tra imprese
+di dimensione comunitaria.  
+  
+---|---  
+  
+52
+
+|
+
+I regolamenti citati non contengono disposizioni che prevedano espressamente
+la prevalenza di uno dei regolamenti sull’altro. Occorre pertanto garantire
+un’applicazione di ciascuno di tali regolamenti che sia compatibile con quella
+dell’altro e ne consenta quindi un’applicazione coerente.  
+  
+---|---  
+  
+53
+
+|
+
+Conformemente alla giurisprudenza della Corte, benché il regolamento n.
+1049/2001 miri a conferire al pubblico un diritto di accesso il più ampio
+possibile ai documenti delle istituzioni, tuttavia tale diritto è
+assoggettato, alla luce del sistema delle eccezioni di cui all’articolo 4 di
+detto regolamento, a determinate limitazioni per motivi di interesse pubblico
+o privato (v., in tal senso, sentenza Commissione/Technische Glaswerke
+Ilmenau, cit., punto 51).  
+  
+---|---  
+  
+54
+
+|
+
+Nel caso di specie la domanda presentata dall’Agrofert riguarda tutti i
+documenti non pubblicati relativi al procedimento di controllo dell’operazione
+di concentrazione di cui trattasi. La Commissione aveva rifiutato di
+comunicare all’Agrofert i documenti afferenti a tale procedimento, da essa
+scambiati con le parti notificanti o con i terzi, invocando le eccezioni al
+diritto di accesso ex articolo 4, paragrafo 2, primo e terzo trattino, del
+regolamento n. 1049/2001, relative, rispettivamente, alla tutela degli
+interessi commerciali e a quella degli obiettivi delle attività di indagine.  
+  
+---|---  
+  
+55
+
+|
+
+A tal riguardo si deve osservare che un’istituzione dell’Unione, nel valutare
+una domanda di accesso a documenti che sono nella sua disponibilità, può
+prendere in considerazione svariati motivi di rifiuto previsti dall’articolo 4
+del regolamento n. 1049/2001.  
+  
+---|---  
+  
+56
+
+|
+
+È pacifico che i documenti in questione rientrano effettivamente in
+un’attività di indagine ai sensi del terzo trattino della disposizione
+indicata al punto 54 della presente sentenza. Inoltre, tenuto conto della
+finalità di un procedimento di controllo di un’operazione di concentrazione,
+che consiste nel verificare se un’operazione dia o meno alle parti notificanti
+un potere di mercato idoneo ad incidere in misura significativa sulla
+concorrenza, la Commissione raccoglie nell’ambito di un tale procedimento
+informazioni commerciali sensibili, relative alle strategie commerciali delle
+imprese coinvolte, agli importi delle loro vendite, alle loro quote di mercato
+o alle loro relazioni commerciali, di modo che l’accesso ai documenti di un
+siffatto procedimento di controllo può pregiudicare la tutela degli interessi
+commerciali delle imprese medesime. Pertanto, le eccezioni relative alla
+tutela degli interessi commerciali e a quella degli obiettivi delle attività
+di indagine sono, nel caso di specie, strettamente collegate.  
+  
+---|---  
+  
+57
+
+|
+
+È vero che, per poter giustificare il rifiuto di accesso a un documento, non
+basta, in linea di principio, che detto documento rientri in un’attività o in
+un interesse fra quelli menzionati all’articolo 4, paragrafo 2, del
+regolamento n. 1049/2001, dal momento che l’istituzione interessata deve anche
+spiegare come l’accesso a tale documento possa ledere concretamente ed
+effettivamente l’interesse tutelato da un’eccezione prevista in tale articolo.
+Tuttavia, detta istituzione può basarsi al riguardo su presunzioni di
+carattere generale che si applicano a determinate categorie di documenti, in
+quanto a domande di divulgazione riguardanti documenti della stessa natura
+possono applicarsi considerazioni di ordine generale analoghe (sentenza
+Commissione/Technische Glaswerke Ilmenau, cit., punti 53 e 54 nonché
+giurisprudenza ivi citata).  
+  
+---|---  
+  
+58
+
+|
+
+Per quanto riguarda i procedimenti di controllo degli aiuti di Stato, la Corte
+ha considerato che analoghe presunzioni di carattere generale possono derivare
+dal regolamento (CE) n. 659/1999 del Consiglio, del 22 marzo 1999, recante
+modalità di applicazione dell’articolo [88 CE] (GU L 83, pag. 1), che
+disciplina specificamente la materia degli aiuti di Stato e che contiene
+disposizioni sull’accesso ad informazioni e a documenti ottenuti nell’ambito
+del procedimento di indagine e di controllo di un aiuto (v., in tal senso,
+sentenza Commissione/Technische Glaswerke Ilmenau, cit., punti 55-57).  
+  
+---|---  
+  
+59
+
+|
+
+Analoghe presunzioni di carattere generale sono applicabili, in materia di
+procedimento di controllo delle operazioni di concentrazione tra imprese,
+considerato che la normativa che disciplina tale procedimento prevede altresì
+norme rigorose riguardo al trattamento delle informazioni ottenute o elaborate
+nell’ambito di un siffatto procedimento.  
+  
+---|---  
+  
+60
+
+|
+
+Infatti, gli articoli 17 e 18, paragrafo 3, del regolamento n. 139/2004 nonché
+l’articolo 17 del regolamento n. 802/2004 disciplinano restrittivamente
+l’utilizzo delle informazioni raccolte nell’ambito di un procedimento di
+controllo di un’operazione di concentrazione tra imprese, limitando l’accesso
+al fascicolo alle «parti direttamente interessate» e «alle altre parti
+interessate», fatto salvo il legittimo interesse delle imprese coinvolte a che
+i loro segreti commerciali non siano divulgati, ed imponendo che le
+informazioni raccolte siano utilizzate esclusivamente per lo scopo, per
+l’indagine o per l’audizione per il quale sono state richieste, e che le
+informazioni che, per loro natura, sono coperte dal segreto d’ufficio non
+siano divulgate.  
+  
+---|---  
+  
+61
+
+|
+
+Vero è che il diritto di consultare il fascicolo amministrativo nell’ambito di
+un procedimento di controllo di un’operazione di concentrazione e il diritto
+di accesso ai documenti, ai sensi del regolamento n. 1049/2001, sono
+giuridicamente distinti, ma ciò non toglie che essi portano ad una situazione
+paragonabile da un punto di vista funzionale. Infatti, indipendentemente dal
+fondamento giuridico in base al quale è accordato, l’accesso al fascicolo
+consente agli interessati di ottenere le osservazioni e i documenti presentati
+alla Commissione (v., in tal senso, sentenza Commissione/Technische Glaswerke
+Ilmenau, cit., punto 59).  
+  
+---|---  
+  
+62
+
+|
+
+In tale contesto un accesso generalizzato, sulla base del regolamento n.
+1049/2001, ai documenti scambiati, nell’ambito di un siffatto procedimento,
+tra la Commissione e le parti notificanti o i terzi potrebbe, come
+sottolineato dalla Commissione, porre in pericolo l’equilibrio che il
+legislatore dell’Unione ha voluto garantire, nel regolamento CE sulle
+concentrazioni, tra l’obbligo per le imprese interessate di comunicare alla
+Commissione informazioni commerciali eventualmente sensibili al fine di
+consentire a quest’ultima di valutare la compatibilità dell’operazione di
+concentrazione programmata con il mercato comune, da un lato, e la garanzia di
+una tutela rafforzata collegata, in forza del segreto d’ufficio e del segreto
+commerciale, alle informazioni trasmesse a tale titolo alla Commissione,
+dall’altro.  
+  
+---|---  
+  
+63
+
+|
+
+Se persone diverse da quelle che la normativa sul controllo delle
+concentrazioni autorizza ad accedere al fascicolo o quelle che potevano essere
+considerate interessate ma che non si sono avvalse del loro diritto di accesso
+alle informazioni o a cui tale diritto è stato negato, fossero in grado di
+ottenere l’accesso ai documenti in base al regolamento n. 1049/2001, il
+sistema istituito da tale normativa sarebbe messo in discussione.  
+  
+---|---  
+  
+64
+
+|
+
+Di conseguenza, nell’interpretare le eccezioni previste all’articolo 4,
+paragrafo 2, primo e terzo trattino, del regolamento n. 1049/2001, il
+Tribunale avrebbe dovuto riconoscere l’esistenza di una presunzione di
+carattere generale in base alla quale la divulgazione dei documenti
+interessati pregiudica, in linea di principio, la tutela degli interessi
+commerciali delle imprese coinvolte nell’operazione di concentrazione nonché
+la tutela degli obiettivi delle attività di indagine relative al procedimento
+di controllo della stessa operazione di concentrazione (v., in tal senso,
+sentenza Commissione/Technische Glaswerke Ilmenau, cit., punto 61).  
+  
+---|---  
+  
+65
+
+|
+
+La considerazione esposta dal Tribunale al punto 88 della sentenza impugnata,
+secondo la quale l’obbligo, in forza del regolamento n. 139/2004, di limitare
+l’utilizzo delle informazioni ottenute dalle imprese nell’ambito di un
+procedimento di controllo di una concentrazione riguarda soltanto le modalità
+con cui la Commissione può utilizzare tali informazioni e non disciplina
+l’accesso ai documenti garantito dal regolamento n. 1049/2001, è errata anche
+sotto il profilo di diritto.  
+  
+---|---  
+  
+66
+
+|
+
+Considerata la natura degli interessi tutelati nell’ambito del controllo di
+un’operazione di concentrazione, si deve necessariamente considerare che la
+conclusione tratta al punto 64 della presente sentenza vale a prescindere
+dalla questione se la domanda di accesso riguardi un procedimento di controllo
+già concluso oppure un procedimento pendente. Infatti, la pubblicazione delle
+informazioni sensibili riguardanti le attività economiche delle imprese
+coinvolte può pregiudicare i loro interessi commerciali a prescindere
+dall’esistenza di un procedimento di controllo pendente. Inoltre,
+l’eventualità di una tale pubblicazione dopo la conclusione del procedimento
+di controllo rischierebbe di nuocere alla disponibilità delle imprese a
+collaborare in pendenza di un procedimento del genere.  
+  
+---|---  
+  
+67
+
+|
+
+Occorre peraltro sottolineare che, ai sensi dell’articolo 4, paragrafo 7, del
+regolamento n. 1049/2001, le eccezioni riguardanti gli interessi commerciali o
+i documenti sensibili possono essere applicate per un periodo di 30 anni, e
+persino oltre tale periodo, se necessario.  
+  
+---|---  
+  
+68
+
+|
+
+La presunzione di carattere generale summenzionata non esclude la possibilità
+di dimostrare che un dato documento, del quale viene chiesta la divulgazione,
+non rientra nella presunzione in parola o che sussiste un interesse pubblico
+prevalente alla divulgazione di detto documento ai sensi dell’articolo 4,
+paragrafo 2, del regolamento n. 1049/2001 (sentenza Commissione/Technische
+Glaswerke Ilmenau, cit., punto 62).  
+  
+---|---  
+  
+69
+
+|
+
+Alla luce delle considerazioni sin qui esposte, occorre concludere che il
+Tribunale ha commesso un errore di interpretazione dell’articolo 4, paragrafo
+2, primo e terzo trattino, di detto regolamento, poiché ha omesso di prendere
+in considerazione il sistema che disciplina l’accesso ai documenti nell’ambito
+del procedimento di controllo delle concentrazioni tra imprese e in quanto ha
+a torto giudicato, in sostanza, ai punti 63, 64, 66, 80, 101, 103, 104 e
+110-114 della sentenza impugnata, che, nel caso di specie, non risultava
+manifestamente che occorresse negare l’accesso ai documenti, scambiati tra la
+Commissione e le parti notificanti e tra la Commissione e i terzi, oggetto
+della domanda di accesso presentata dall’Agrofert sulla base del regolamento
+n. 1049/2001, senza procedere preventivamente ad un esame concreto e specifico
+di tali documenti.  
+  
+---|---  
+  
+70
+
+|
+
+Di conseguenza occorre accogliere il primo motivo nonché la prima, seconda e
+terza parte del secondo motivo di impugnazione e, pertanto, annullare la
+sentenza impugnata nei limiti in cui essa ha annullato la decisione
+controversa recante diniego di accesso ai documenti scambiati tra la
+Commissione e le parti notificanti e tra la Commissione e i terzi.  
+  
+---|---  
+  
+Sul diniego di accesso ai documenti interni della Commissione
+
+71
+
+|
+
+Tale diniego di accesso riguarda i documenti identificati con i numeri 2-5
+nell’elenco presentato dalla Commissione e riportato al punto 14 della
+sentenza impugnata (v. punto 7 della presente sentenza).  
+  
+---|---  
+  
+72
+
+|
+
+La posizione della Commissione nei confronti di tali documenti, quale risulta
+sia dalla decisione controversa sia dal suo controricorso dinanzi al
+Tribunale, nonché dalla quarta e quinta parte del secondo motivo di
+impugnazione, è fondata sull’argomento secondo cui il diniego di accesso ai
+citati documenti sarebbe giustificato in base all’eccezione relativa alla
+tutela del processo decisionale, ai sensi dell’articolo 4, paragrafo 3,
+secondo comma, del regolamento n. 1049/2001 e, inoltre, per quanto riguarda i
+documenti nn. 3 e 4, in base all’eccezione relativa alla tutela dei pareri
+giuridici, conformemente all’articolo 4, paragrafo 2, secondo trattino, di
+detto regolamento.  
+  
+---|---  
+  
+73
+
+|
+
+Nella presente fattispecie è pacifico che i documenti interni cui è stato
+richiesto l’accesso rientrano tutti nell’ambito di applicazione dell’eccezione
+relativa alla tutela del processo decisionale dell’istituzione e che due di
+tali documenti, vale a dire i documenti nn. 3 e 4, rientrano parimenti
+nell’ambito di applicazione dell’eccezione relativa alla tutela dei pareri
+giuridici. È altresì pacifico che, al momento del deposito della domanda di
+accesso ai documenti, il procedimento di controllo della concentrazione, sul
+quale vertevano tali documenti, era concluso e che la decisione della
+Commissione ad esso afferente era divenuta definitiva.  
+  
+---|---  
+  
+74
+
+|
+
+A tal riguardo occorre osservare che, nell’ipotesi in cui, al momento della
+domanda di accesso a taluni documenti interni redatti nell’ambito di un
+procedimento amministrativo di controllo di un’operazione di concentrazione,
+la decisione della Commissione relativa all’operazione in questione sia stata
+annullata da una sentenza del Tribunale passata in giudicato, non essendo
+stata impugnata, e la Commissione, a seguito di tale sentenza di annullamento,
+non abbia ripreso le proprie attività di indagine ai fini dell’eventuale
+adozione di una nuova decisione relativa alla citata operazione, la Corte,
+nella sentenza del 21 luglio 2011, Svezia/My Travel e Commissione (C-506/08 P,
+Racc. pag. I-6237; in prosieguo: la «sentenza My Travel»), ha dichiarato, in
+sostanza, che, per poter negare l’accesso a un tale documento interno, spetta
+all’istituzione interessata procedere a un esame concreto e specifico del
+documento in questione e fornire le ragioni specifiche per le quali essa
+ritenga che la sua divulgazione potrebbe ledere concretamente ed
+effettivamente l’interesse tutelato dall’articolo 4, paragrafo 3, secondo
+comma, oppure dall’articolo 4, paragrafo 2, secondo trattino, del regolamento
+n. 1049/2001.  
+  
+---|---  
+  
+75
+
+|
+
+Una soluzione del genere si applica anche ad una situazione, come quella del
+caso di specie, in cui la domanda di accesso a taluni documenti interni sia
+stata presentata una volta divenuta definitiva, in assenza di una sua
+impugnazione, la decisione della Commissione che chiude il procedimento di
+controllo dell’operazione di concentrazione a cui si riferiscono i citati
+documenti.  
+  
+---|---  
+  
+76
+
+|
+
+Infatti, in un caso del genere spetta alla Commissione esporre, nella
+decisione di diniego, le ragioni specifiche, suffragate da elementi
+circostanziati, rispetto al contenuto concreto dei diversi documenti
+richiesti, che consentano di concludere che la divulgazione di ciascuno di
+essi pregiudicherebbe gravemente il processo decisionale di tale istituzione
+(v., in tal senso, sentenza MyTravel, punti 81, 82, 89, 90, 98, 102 e 103).  
+  
+---|---  
+  
+77
+
+|
+
+È importante sottolineare a tal riguardo che l’invocazione dell’eccezione
+prevista all’articolo 4, paragrafo 3, secondo comma, del regolamento n.
+1049/2001, applicabile dopo che una decisione è stata presa, è subordinata a
+condizioni rigorose (v., in tal senso, sentenza MyTravel, punti 78-80). Essa
+si applica difatti soltanto a determinati tipi di documenti e la condizione in
+grado di giustificare il diniego è che la divulgazione sia atta a ledere
+«gravemente» il processo decisionale dell’istituzione.  
+  
+---|---  
+  
+78
+
+|
+
+Relativamente all’invocazione dell’eccezione fondata sulla tutela dei pareri
+giuridici, occorre parimenti attribuire particolare importanza al fatto che,
+nel caso di specie, la decisione della Commissione fosse divenuta definitiva e
+che non fosse più prevedibile nessun ricorso vertente sulla sua legittimità
+dinanzi agli organi giurisdizionali dell’Unione. In circostanze del genere
+spettava all’istituzione interessata chiarire in che modo l’accesso a un
+determinato documento avrebbe potuto ledere concretamente ed effettivamente, e
+non sulla base di considerazioni generiche e astratte, l’interesse tutelato da
+tale eccezione (v., per analogia, sentenza MyTravel, cit., punti 110, 115 e
+117).  
+  
+---|---  
+  
+79
+
+|
+
+In considerazione di quanto sin qui illustrato occorre concludere che, nel
+caso di specie, il Tribunale non è incorso in alcun errore di diritto nel
+ritenere, in sostanza, ai punti 120-132 e 137-147 della sentenza impugnata,
+che la Commissione avrebbe dovuto dimostrare che l’accesso, anche parziale, a
+ciascuno dei documenti interni richiesti poteva ledere concretamente,
+effettivamente e seriamente la tutela del processo decisionale
+dell’istituzione e che, più precisamente, la divulgazione dei documenti
+contenenti pareri giuridici rappresenterebbe un rischio, ragionevolmente
+prevedibile e non meramente ipotetico, per la tutela di detti pareri.  
+  
+---|---  
+  
+80
+
+|
+
+Di conseguenza, la quarta e la quinta parte del secondo motivo di impugnazione
+devono essere respinti.  
+  
+---|---  
+  
+Sul ricorso dinanzi al Tribunale
+
+81
+
+|
+
+Conformemente all’art. 61, primo comma, seconda frase, dello Statuto della
+Corte di giustizia dell’Unione europea, quest’ultima, in caso di annullamento
+della sentenza impugnata, può statuire definitivamente sulla controversia
+qualora lo stato degli atti lo consenta. Tale ipotesi ricorre nel caso di
+specie per quanto attiene alla controversia sul diniego di accesso ai
+documenti relativi alla parte della sentenza impugnata che dev’essere
+annullata dalla presente sentenza.  
+  
+---|---  
+  
+82
+
+|
+
+Infatti, la Corte dispone degli elementi necessari per statuire
+definitivamente sui motivi di ricorso dell’Agrofert diretti avverso il diniego
+della Commissione di accordare l’accesso ai documenti da essa scambiati con le
+parti notificanti e con i terzi, invocando le eccezioni fondate sulla tutela
+degli interessi commerciali e degli obiettivi delle attività di indagine.  
+  
+---|---  
+  
+83
+
+|
+
+Per quanto riguarda l’applicazione di tali eccezioni, l’Agrofert aveva
+sostenuto, in primo luogo, nel suo ricorso dinanzi al Tribunale, che
+l’articolo 4, paragrafo 2, primo e terzo trattino, del regolamento n.
+1049/2001 doveva essere interpretato nel senso che l’istituzione interessata è
+tenuta a procedere a un esame concreto e specifico di ciascuno dei documenti
+indicati nella domanda di accesso, che tutti i documenti e tutte le
+informazioni cui tale domanda si riferiva non erano coperti da tali eccezioni
+e che, di conseguenza, poteva essere negato soltanto l’accesso a taluni
+passaggi di un documento. Inoltre, la Commissione avrebbe invocato a torto
+l’articolo 17 del regolamento n. 139/2004.  
+  
+---|---  
+  
+84
+
+|
+
+Orbene, come risulta, segnatamente, dai punti 57-67 della presente sentenza,
+l’articolo 4, paragrafo 2, primo e terzo trattino, del regolamento n.
+1049/2001, interpretato alla luce della normativa specifica in materia di
+controllo delle concentrazioni tra imprese, consente alla Commissione di
+applicare una presunzione di carattere generale secondo la quale la
+divulgazione dei documenti scambiati con le parti notificanti e con i terzi
+nell’ambito di un siffatto procedimento di controllo, in linea di principio,
+lede la tutela degli interessi commerciali delle imprese coinvolte e quella
+degli obiettivi delle attività di indagine relative a tale procedimento, senza
+che la Commissione debba procedere ad effettuare un esame concreto e specifico
+di detti documenti. Di conseguenza, tale argomento dell’Agrofert deve essere
+respinto.  
+  
+---|---  
+  
+85
+
+|
+
+In secondo luogo, l’Agrofert ha affermato dinanzi al Tribunale che un
+interesse pubblico prevalente esige che siano divulgati i documenti richiesti,
+interesse costituito nel caso di specie dal danno che tale parte avrebbe
+subìto in qualità di azionista di minoranza della Unipetrol, acquisita dalla
+PKN Orlen nell’ambito dell’operazione di concentrazione di cui trattasi.  
+  
+---|---  
+  
+86
+
+|
+
+A tal riguardo, sebbene sia corretto, come risulta dal punto 68 della presente
+sentenza, che la summenzionata presunzione di carattere generale non esclude
+il diritto, per l’interessato, di dimostrare l’esistenza di un interesse
+pubblico prevalente alla divulgazione dei documenti richiesti, si deve
+tuttavia necessariamente constatare che l’interesse cui si riferisce
+l’Agrofert non costituisce un interesse pubblico prevalente, ai sensi
+dell’articolo 4, paragrafo 2, del regolamento n. 1049/2001. Pertanto, tale
+argomento è infondato.  
+  
+---|---  
+  
+87
+
+|
+
+Neppure gli altri argomenti dedotti dall’Agrofert in primo grado risultano
+essere fondati.  
+  
+---|---  
+  
+88
+
+|
+
+L’asserita violazione dell’articolo 1, secondo comma, TUE non si distingue dal
+motivo vertente su un’applicazione erronea delle eccezioni di cui all’articolo
+4, paragrafo 2, del regolamento n. 1049/2001. Infatti, il principio di
+apertura enunciato in maniera generale al citato articolo 1, secondo comma, è
+concretamente articolato da tale regolamento.  
+  
+---|---  
+  
+89
+
+|
+
+Il motivo vertente sulla cattiva amministrazione nel trattare la domanda di
+accesso, con il quale l’Agrofert addebita alla Commissione di aver superato i
+termini impartiti per rispondere alla sua domanda di conferma, è inconferente.
+Dal momento che la Commissione ha risposto a tale domanda prima che l’Agrofert
+traesse conseguenze dall’assenza di risposta nei termini conformemente
+all’articolo 8, paragrafo 3, del regolamento n. 1049/2001, detto superamento
+dei termini non può determinare un’illegittimità della risposta della
+Commissione tale da giustificarne l’annullamento.  
+  
+---|---  
+  
+90
+
+|
+
+Di conseguenza, deve essere respinto il ricorso proposto dall’Agrofert dinanzi
+al Tribunale diretto all’annullamento della decisione controversa, nella parte
+in cui nega l’accesso ai documenti scambiati tra la Commissione e le parti
+notificanti e tra la Commissione e i terzi, nell’ambito del procedimento di
+controllo della concentrazione della PKN Orlen e della Unipetrol.  
+  
+---|---  
+  
+Sulle spese
+
+91
+
+|
+
+Ai sensi dell’articolo 122, primo comma, del regolamento di procedura, quando
+l’impugnazione è respinta, o quando l’impugnazione è accolta e la controversia
+viene definitivamente decisa dalla Corte, quest’ultima statuisce sulle spese.  
+  
+---|---  
+  
+92
+
+|
+
+Ai sensi dell’articolo 69, paragrafo 2, del regolamento di procedura,
+applicabile all’impugnazione in forza dell’articolo 118 di detto regolamento,
+la parte soccombente è condannata alle spese se ne è stata fatta domanda.
+Conformemente all’articolo 69, paragrafo 3, dello stesso regolamento,
+tuttavia, se le parti soccombono rispettivamente su uno o più capi, ovvero per
+motivi eccezionali, la Corte può ripartire le spese o decidere che ciascuna
+parte sopporti le proprie spese. L’articolo 69, paragrafo 4, di tale medesimo
+regolamento prevede, al primo comma, che gli Stati membri intervenuti nella
+causa sopportino le proprie spese e, al terzo comma, che la Corte possa
+decidere che una parte interveniente diversa sopporti le proprie spese.  
+  
+---|---  
+  
+93
+
+|
+
+Poiché la Commissione è risultata parzialmente soccombente e il ricorso
+dell’Agrofert è stato parzialmente respinto, occorre condannare ciascuna parte
+a sopportare le proprie spese, sostenute sia in primo grado sia in occasione
+della presente impugnazione.  
+  
+---|---  
+  
+94
+
+|
+
+La PKN Orlen e il Regno di Svezia sopporteranno le proprie spese.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Terza Sezione) dichiara e statuisce:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+Il punto 2 del dispositivo della sentenza del Tribunale dell’Unione europea
+del 7 luglio 2010, Agrofert Holding/Commissione (T-111/07), è annullato nei
+limiti in cui annulla la decisione D (2007) 1360 della Commissione europea,
+del 13 febbraio 2007, la quale nega l’accesso ai documenti del caso
+COMP/M.3543 riguardante l’operazione di concentrazione tra la Polski Koncern
+Naftowy Orlen SA e la Unipetrol, scambiati tra la Commissione e le parti
+notificanti e tra la Commissione e i terzi.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+Il punto 3 del dispositivo di detta sentenza è annullato.  
+  
+---|---  
+|  |
+
+3)
+
+|
+
+L’impugnazione è respinta quanto al resto.  
+  
+---|---  
+|  |
+
+4)
+
+|
+
+Il ricorso proposto dall’Agrofert Holding a.s. dinanzi al Tribunale
+dell’Unione europea e diretto all’annullamento della decisione D (2007) 1360
+della Commissione europea, del 13 febbraio 2007, la quale nega l’accesso ai
+documenti del caso COMP/M.3543 riguardante l’operazione di concentrazione tra
+la Polski Koncern Naftowy Orlen SA e la Unipetrol, scambiati tra la
+Commissione e le parti notificanti e tra la Commissione e i terzi, è respinto.  
+  
+---|---  
+|  |
+
+5)
+
+|
+
+La Commissione europea e l’Agrofert Holding a.s. sopporteranno le proprie
+spese, sostenute sia in primo grado sia in occasione della presente
+impugnazione.  
+  
+---|---  
+|  |
+
+6)
+
+|
+
+La Polski Koncern Naftowy Orlen SA e il Regno di Svezia sopporteranno le
+proprie spese.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: l’inglese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

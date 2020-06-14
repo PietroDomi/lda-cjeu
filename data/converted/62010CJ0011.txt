@@ -1,0 +1,304 @@
+
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+17 febbraio 2011 (*)
+
+«Rinvio pregiudiziale - Regolamento (CEE) n. 2658/87- Tariffa doganale comune
+- Dazi doganali - Esenzione - Sostanze farmaceutiche - Composizione -
+Restrizioni»
+
+Nel procedimento C‑11/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dallo Hoge Raad der Nederlanden (Paesi Bassi) con
+decisione 18 dicembre 2009, pervenuta in cancelleria l'8 gennaio 2010, nella
+causa
+
+**Staatssecretaris van Financi en**
+
+contro
+
+**Marishipping and Transport BV,**
+
+LA CORTE (Quinta Sezione),
+
+composta dal sig. J.‑J. Kasel (relatore), presidente di sezione, dal sig. E.
+Levits e dalla sig.ra M. Berger, giudici,
+
+avvocato generale: sig. P. Mengozzi
+
+cancelliere: sig. A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+-        per il governo dei Paesi Bassi, dalle sig.re C.M. Wissels e B. Koopman, in qualita di agenti;
+
+-        per la Commissione europea, dal sig. M. van Beek e dalla sig.ra L. Bouyon, in qualita di agenti,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+della parte prima, titolo II, C, punto 1, sub i), della nomenclatura combinata
+della tariffa doganale comune contenuta nell'allegato I del regolamento (CEE)
+del Consiglio 23 luglio 1987, n. 2658, relativo alla nomenclatura tariffaria e
+statistica ed alla tariffa doganale comune (GU L 256, pag. 1), come modificato
+rispettivamente dai regolamenti (CE) della Commissione 6 agosto 2001, n. 2031
+(GU L 279, pag. 1), e della Commissione 1° agosto 2002, n. 1832 (GU L 290,
+pag. 1; in prosieguo: il «regolamento n. 2658/87»).
+
+2        Dette questioni sono state sollevate nell'ambito di una lite che
+oppone lo Staatssecretaris van Financien alla Marishipping and Transport BV
+(in prosieguo: la «Marishipping»), una societa stabilita nei Paesi Bassi, in
+merito alla questione se l'esenzione dai dazi doganali accordata ai prodotti
+farmaceutici si applichi unicamente ai prodotti costituiti da sostanze
+farmaceutiche pure, oppure se essa si applichi anche a prodotti nei quali
+altre sostanze sono state aggiunte.
+
+  **Contesto normativo**
+
+3        L'allegato I, parte prima, titolo II, C, punto 1, sub i), del
+regolamento n. 2658/87, contenente le norme applicabili all'esenzione dai dazi
+doganali prevista per i prodotti farmaceutici appartenenti a talune categorie,
+dispone:
+
+«L'esenzione dai dazi doganali e prevista per i prodotti farmaceutici delle
+seguenti categorie:
+
+i)      prodotti farmaceutici contrassegnati da un CAS RN (Chemical Abstracts
+Service Registry Numbers) e da Denominazioni comuni internazionali (DCI)
+elencati nell'allegato 3».
+
+4        L'allegato I, parte prima, titolo II, C, punto 2, sub i), del
+regolamento n. 2658/87 dispone:
+
+«Casi particolari:
+
+i)      Le DCI comprendono soltanto quelle sostanze raccomandate e proposte
+descritte negli elenchi, pubblicati dall'Organizzazione mondiale della Sanita
+(OMS). Dal momento che il numero delle sostanze indicate con la DCI e
+inferiore a quello delle sostanze identificate dal CAS RN, soltanto le
+sostanze contrassegnate dalla DCI beneficeranno dell'esenzione daziaria».
+
+5        Fra le sostanze elencate nella lista delle sostanze farmaceutiche che
+possono essere ammesse al beneficio di un'esenzione dai dazi figura, in
+particolare, il chitosano (poliglusamo).
+
+6        Tanto il chitosano quanto l'acido ascorbico dispongono
+rispettivamente di una denominazione comune internazionale e di un numero di
+identificazione CAS propri.
+
+  **Fatti nella causa principale e questioni pregiudiziali**
+
+7        Negli anni 2002 e 2003 la Marishipping ha presentato varie
+dichiarazioni di immissione in libera pratica per un prodotto designato nelle
+dichiarazioni come «polvere assorbente» (in prosieguo: la «merce»). La merce e
+stata dichiarata nella voce doganale 3913 90 80 della nomenclatura combinata.
+Nel 2002 e nel 2003 l'importazione di merce appartenente a detta voce veniva
+soggetta a dazi doganali pari rispettivamente al 7,6% e al 7,1%. Nelle sue
+dichiarazioni la Marishipping si avvaleva di un'esenzione dai dazi doganali
+per la merce e al riguardo si riferiva all'allegato I del regolamento n.
+2658/87.
+
+8        Dopo aver controllato la merce, l'Ispettore delle dogane ha
+considerato che quest'ultima, composta per il 96% di chitosano, per il 3% di
+acido ascorbico e per l'1% di acido tartarico, non poteva fruire di detta
+esenzione. Esso ha ritenuto che l'esenzione dai doganali prevista per il
+chitosano riguardi soltanto la sostanza pura e non possa applicarsi ad una
+merce come quella di cui trattasi nella causa principale. Pertanto, ha
+proceduto al recupero dei dazi doganali relativi a detta importazione.
+
+9        Come risulta dalla decisione di rinvio, le altre sostanze contenute
+nella merce, vale a dire l'acido ascorbico e l'acido tartarico, proteggono il
+chitosano dall'ossidazione e sono state aggiunte a quest'ultimo per aumentarne
+la durata di conservazione. Questi due acidi non hanno effetto sull'efficacia
+del chitosano. La durata di conservazione di quest'ultimo in forma pura puo
+essere aumentata anche mediante una confezione sottovuoto della sostanza. La
+merce e destinata ad essere utilizzata come componente principale per la
+fabbricazione di un prodotto venduto come prodotto dimagrante.
+
+10      Il Rechtbank te Haarlem, adito in primo grado con ricorso proposto
+dalla Marishipping contro gli avvisi di riscossione dei dazi doganali emessi
+dall'Ispettore doganale, ha dichiarato che detto ricorso non era fondato.
+Avendo detta societa interposto appello contro detta sentenza dinanzi al
+Gerechtshof te Amsterdam, quest'ultimo ha considerato, in una sentenza 18
+dicembre 2007, che l'aggiunta di scarsissime quantita di acido ascorbico e di
+acido tartarico per una migliore conservazione della sostanza principale non
+ostava all'applicazione dell'esenzione accordata ai prodotti farmaceutici. Di
+conseguenza, il giudice d'appello ha annullato detta sentenza, nonche gli
+avvisi di riscossione notificati alla Marishipping.
+
+11      Nel suo ricorso per cassazione lo Staatssecretaris van Financien
+sostiene che le pertinenti disposizioni dell'allegato I del regolamento n.
+2658/87 non consentono di accordare l'esenzione prevista da queste ultime ad
+un prodotto farmaceutico composto di una sostanza farmaceutica di base alla
+quale sono state aggiunte altre sostanze farmaceutiche, indipendentemente da
+quale sia la proporzione delle sostanze aggiunte.
+
+12      Il giudice del rinvio osserva che dette pertinenti disposizioni non
+prevedono espressamente che, per poter fruire dell'esenzione dai dazi doganali
+di cui all'allegato I, parte prima, titolo II, C, punto 1, sub i), del
+regolamento n. 2658/87, le sostanze considerate debbono trovarsi allo stato
+puro. Tuttavia, tenuto conto della giurisprudenza della Corte, in particolare
+del punto 13 della sentenza 18 marzo 1986, causa 58/85, Ethicon (Racc. pag.
+1131), esso si chiede se sia possibile aggiungere al principio attivo
+farmaceutico altre sostanze e, in caso affermativo, quali siano i limiti che
+occorre in tal caso rispettare perche la merce possa ancora fruire
+dell'esenzione dai dazi doganali.
+
+13      In tali circostanze, lo Hoge Raad der Nederlanden ha deciso di
+sospendere il procedimento e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+«1)      Se l'esenzione dai dazi doganali per le sostanze farmaceutiche di cui
+all'allegato I del regolamento (CEE) n. 2658/87 (...), parte prima, titolo II,
+(...) C, punto 1, sub i), in combinato disposto con l'elenco delle sostanze
+farmaceutiche figurante nella terza parte (allegati), sezione II, allegato 3,
+sia limitata alle indicate sostanze (chimiche) in forma pura.
+
+2)      Qualora alla sostanza farmaceutica in questione possano venire
+aggiunte altre sostanze, quali limiti vadano rispettati».
+
+  **Sulle questioni pregiudiziali**
+
+  _Sulla prima questione_
+
+14      Con la prima questione, il giudice a quo chiede, in sostanza, se la
+parte prima, titolo II, C, punto 1, sub i), dell'allegato I del regolamento n.
+2658/87 debba essere interpretata nel senso che una sostanza farmaceutica,
+figurante nell'elenco delle sostanze di cui all'allegato 3 della terza parte
+dello stesso allegato I, a cui sono state aggiunte altre sostanze, in
+particolare farmaceutiche, puo ancora fruire dell'esenzione dai dazi doganali
+che sarebbe stata applicabile se tale sostanza si fosse trovata allo stato
+puro.
+
+15      Per risolvere tale questione, occorre rilevare che ne l'allegato I,
+parte prima, titolo II, C, punto 1, sub i), del regolamento n. 2658/87 ne
+l'allegato 3 della terza parte dello stesso allegato I dispongono
+espressamente che, per poter fruire dell'esenzione dai dazi doganali prevista
+per i prodotti farmaceutici elencati nel detto allegato 3, questi ultimi
+debbano trovarsi allo stato puro.
+
+16      Occorre tuttavia precisare che la disposizione che prevede
+l'applicazione di un'esenzione dai dazi doganali costituisce una deroga al
+principio secondo cui i prodotti importati nell'Unione europea sono, in
+generale, soggetti ai dazi doganali e pertanto deve, in quanto disposizione
+derogatoria, essere interpretata restrittivamente.
+
+17      Pertanto, in mancanza di indicazione espressa o di elemento che
+consenta di concludere che il legislatore dell'Unione abbia inteso far fruire
+dell'esenzione dai dazi doganali le sostanze farmaceutiche elencate nel detto
+allegato 3 le quali, fatte salve eventuali impurita residue contenute in dette
+sostanze, non si presentano allo stato puro, il regolamento n. 2658/87 non puo
+essere interpretato nel senso che sostanze farmaceutiche cui sono state
+aggiunte altre sostanze possono fruire di detta esenzione.
+
+18      Non possono essere considerate come costituenti siffatte impurita
+residue sostanze, come quella di cui trattasi nella causa principale, che sono
+state aggiunte in quantita variabili alla sostanza di base e che non fanno
+parte, in quanto tali, di detta sostanza o del prodotto in base al quale
+questa e stata ottenuta.
+
+19      Ne consegue che il regolamento n. 2658/87 dev'essere interpretato nel
+senso che una merce come quella di cui trattasi nella causa principale, la
+quale e composta di una sostanza farmaceutica di base, nella fattispecie il
+chitosano, cui sono state aggiunte altre sostanze (farmaceutiche), non puo
+fruire dell'esenzione dai dazi doganali prevista da detto regolamento.
+
+20      Occorre precisare, anzitutto, che questa interpretazione e
+corroborata, come ha rilevato in particolare la Commissione europea, dalle
+direttive sull'uso delle DCI per quanto concerne le sostanze farmaceutiche.
+Infatti, secondo dette direttive, le DCI sono, in via di principio,
+selezionate per singole sostanze ben definite che possono essere designate
+senza ambiguita da una denominazione (o da una formula) chimica, essendo il
+programma DCI in via di principio volto a non concedere denominazioni per
+mescolanze di sostanze.
+
+21      Orbene, nella fattispecie, dal fascicolo risulta che la DCI assegnata
+al chitosano non riguarda la merce in parola poiche questa contiene una parte
+eccessiva di altre sostanze.
+
+22      Quanto ai numeri di identificazione CAS cui fa riferimento del pari
+l'allegato I, parte prima, titolo II, C, punto 1, sub i), del regolamento n.
+2658/87, si deve precisare che e del pari pacifico, come il governo dei Paesi
+Bassi e la Commissione hanno osservato, che tanto il chitosano (CAS 9012‑76-4)
+quanto l'acido ascorbico (CAS 5081‑7) e l'acido tartarico (CAS 8769-4)
+dispongono ciascuno di un proprio numero di identificazione CAS e che la loro
+mescolanza non puo essere individuata mediante un unico numero di
+identificazione CAS.
+
+23      Inoltre, l'interpretazione data al punto 19 della presente sentenza e
+conforme al principio secondo il quale le disposizioni relative alle
+sospensioni e alle esenzioni dai dazi doganali devono corrispondere alle
+esigenze della certezza del diritto e tener conto delle difficolta alle quali
+devono far fronte le amministrazioni doganali nazionali a causa dell'ampiezza
+e della complessita dei compiti che esse devono assolvere (v., in tal senso,
+sentenze Ethicon, cit., punto 12, e 3 dicembre 1998, causa C‑247/97,
+Schoonbroodt, Racc. pag. I‑8095, punto 23).
+
+24      Infatti, anche se l'esigenza secondo la quale le sostanze
+farmaceutiche, per poter fruire dell'esenzione dai dazi doganali di cui
+all'allegato I, parte prima, titolo II, C, punto 1, sub i), del regolamento n.
+2658/87, devono in via di principio presentarsi allo stato puro non dispensa
+certamente le autorita doganali dall'effettuare, se del caso, l'analisi
+chimica di un campione di una merce importata, e pur vero che, in occasione di
+detta analisi, dette autorita potranno limitarsi a stabilire se detta merce
+sia effettivamente composta esclusivamente di una sostanza figurante
+nell'elenco delle sostanze farmaceutiche che possono fruire dell'esenzione di
+cui trattasi, senza che esse siano tenute a individuare le altre sostanze
+contenute in detta merce ne a stabilire quale sia la loro parte nella sua
+composizione.
+
+25      Infine, tale interpretazione e quella che meglio garantisce
+un'applicazione uniforme delle disposizioni del regolamento n. 2658/87 in
+quanto essa consente soltanto un potere discrezionale limitato alle autorita
+doganali nazionali per stabilire se una sostanza farmaceutica si trovi o meno
+allo stato puro.
+
+26      Alla luce delle precedenti considerazioni, si deve risolvere la prima
+questione nel senso che l'allegato I, parte prima, titolo II, C, punto 1, sub
+i), del regolamento n. 2658/87 dev'essere interpretato nel senso che una
+sostanza farmaceutica, figurante nell'elenco delle sostanze di cui
+all'allegato 3 della terza parte dello stesso allegato I, a cui sono state
+aggiunte altre sostanze, in particolare farmaceutiche, non puo piu fruire
+dell'esenzione dai dazi doganali che sarebbe stata applicabile se tale
+sostanza si fosse trovata allo stato puro.
+
+  _Sulla seconda questione_
+
+27      Alla luce della soluzione fornita alla prima questione pregiudiziale,
+non e necessario risolvere la seconda.
+
+  **Sulle spese**
+
+28      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:
+
+**L 'allegato I, parte prima, titolo II, C, punto 1, sub i), del regolamento
+(CEE) del Consiglio 23 luglio 1987, n. 2658, relativo alla nomenclatura
+tariffaria e statistica ed alla tariffa doganale comune, come modificato
+rispettivamente dai regolamenti (CE) della Commissione 6 agosto 2001, n. 2031,
+e 1° agosto 2002, n. 1832, dev'essere interpretato nel senso che una sostanza
+farmaceutica, figurante nell'elenco delle sostanze di cui all'allegato 3 della
+terza parte dello stesso allegato I, a cui sono state aggiunte altre sostanze,
+in particolare farmaceutiche, non puo piu fruire dell'esenzione dai dazi
+doganali che sarebbe stata applicabile se tale sostanza si fosse trovata allo
+stato puro.**
+
+Firme
+
+* * *
+
+* Lingua processuale: l'olandese. 
+

@@ -1,0 +1,615 @@
+
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+15 dicembre 2011 (*)
+
+«Lavoratori migranti - Previdenza sociale - Accordo tra la Comunita europea ed
+i suoi Stati membri, da una parte, e la Confederazione svizzera, dall'altra,
+sulla libera circolazione delle persone - Regolamento (CEE) n. 1408/71 -
+Cittadino di uno Stato membro che ha esercitato un'attivita professionale in
+Svizzera - Ritorno al suo paese d'origine»
+
+Nel procedimento C‑257/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Hogsta forvaltningsdomstolen (gia
+Regeringsratten) (Svezia), con decisione 27 aprile 2010, pervenuta in
+cancelleria il 25 maggio 2010, nella causa
+
+**F orsakringskassan**
+
+contro
+
+**Elisabeth Bergstr om**,
+
+LA CORTE (Terza Sezione),
+
+composta dal sig. K. Lenaerts, presidente di sezione, dai sigg. E. Juhasz
+(relatore), G. Arestis, T. von Danwitz e D. Švaby, giudici,
+
+avvocato generale: sig. J. Mazak
+
+cancelliere: sig.ra C. Stromholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza del 4 maggio
+2011,
+
+considerate le osservazioni presentate:
+
+-        per Elisabeth Bergstrom, dagli avv.ti U. Öberg e I. Otken Eriksson, advokater;
+
+-        per il governo svedese, dalle sig.re K. Petkovska e A. Falk, in qualita di agenti;
+
+-        per il governo finlandese, dalla sig.ra H. Leppo, in qualita di agente;
+
+-        per il governo del Regno Unito, dalla sig.ra E. Jenkinson e dal sig. L. Seeboruth, in qualita di agenti, nonche dall'avv. R. Palmer, barrister; 
+
+-        per la Commissione europea, dai sigg. V. Kreuschitz e J. Enegren, in qualita di agenti,
+
+sentite le conclusioni dell'avvocato generale, presentate all'udienza del 21
+giugno 2011,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale riguarda l'interpretazione
+degli artt. 3, n. 1, e 72 del regolamento (CEE) del Consiglio 14 giugno 1971,
+n. 1408, relativo all'applicazione dei regimi di sicurezza sociale ai
+lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si
+spostano all'interno della Comunita (GU L 149, pag. 2), come modificato dal
+regolamento (CE) del Parlamento europeo e del Consiglio 5 giugno 2001, n. 1386
+(GU L 187, pag. 1; in prosieguo: il «regolamento n. 1408/71»), nonche
+dell'accordo tra la Comunita europea ed i suoi Stati membri, da una parte, e
+la Confederazione svizzera, dall'altra, sulla libera circolazione delle
+persone, firmato a Lussemburgo il 21 giugno 1999 (GU 2002, L 114, pag. 6; in
+prosieguo: l'«accordo»).
+
+2        Tale domanda e stata presentata nell'ambito di una controversia tra
+la sig.ra Bergstrom, cittadina svedese, e la Forsakringskassan (in prosieguo:
+l'«Ente di previdenza sociale») riguardo al rifiuto di quest'ultimo di tener
+conto, ai fini del calcolo dell'importo dell'assegno familiare previsto per
+l'educazione di un figlio, del periodo di attivita lavorativa compiuto
+dall'interessata in Svizzera.
+
+  **Contesto normativo**
+
+  _Diritto dell 'Unione_
+
+3        Il preambolo dell'accordo enuncia:
+
+«[le parti contraenti],
+
+convint[e] che la liberta delle persone di circolare sul territorio dell'altra
+parte costituisca un elemento importante per lo sviluppo armonioso delle loro
+relazioni,
+
+decis[e] ad attuare la libera circolazione delle persone tra loro basandosi
+sulle disposizioni applicate nella Comunita europea (…)».
+
+4        L'art. 1 di tale accordo cosi dispone:
+
+«Il presente Accordo a favore dei cittadini degli Stati membri della Comunita
+europea e della Svizzera si prefigge di:
+
+a)      conferire un diritto di ingresso, di soggiorno e di accesso a
+un'attivita economica dipendente, un diritto di stabilimento quale lavoratore
+autonomo e il diritto di rimanere sul territorio delle parti contraenti;
+
+(...)
+
+d)      garantire le stesse condizioni di vita, di occupazione e di lavoro di
+cui godono i cittadini nazionali».
+
+5        L'art. 2 del suddetto accordo, intitolato «Non discriminazione»,
+dispone che «[i]n conformita delle disposizioni degli allegati I, II e III del
+presente Accordo, i cittadini di una parte contraente che soggiornano
+legalmente sul territorio di un'altra parte contraente non sono oggetto,
+nell'applicazione di dette disposizioni, di alcuna discriminazione fondata
+sulla nazionalita».
+
+6        L'art. 8 del medesimo accordo prevede quanto segue:
+
+«Conformemente all'allegato II, le parti contraenti disciplinano il
+coordinamento dei sistemi di sicurezza sociale per garantire in particolare:
+
+a)      la parita di trattamento;
+
+(...)
+
+c)      il calcolo totale, per la concessione e il mantenimento del diritto
+alle prestazioni, nonche per il calcolo di queste, di tutti i periodi presi in
+considerazione dalle diverse legislazioni nazionali;
+
+d)      il pagamento delle prestazioni alle persone che risiedono sul
+territorio delle parti contraenti;
+
+(...)».
+
+7        L'art. 1 dell'allegato II dell'accordo, intitolato «Coordinamento dei
+sistemi di sicurezza sociale», recita come segue:
+
+«1.      Le parti contraenti convengono di applicare tra di esse, nel campo
+del coordinamento dei sistemi di sicurezza sociale, gli atti comunitari cui e
+fatto riferimento in vigore al momento della firma dell'Accordo, modificati
+dalla sezione A del presente allegato o regole ad essi equivalenti.
+
+2.      I termini "Stato membro" o "Stati membri" che figurano negli atti cui e fatto riferimento nella sezione A del presente allegato comprendono, oltre al significato che hanno nei pertinenti atti comunitari, la Svizzera». 
+
+8        L'allegato II, A, punto 1, dell'accordo, sotto la rubrica «Atti cui e
+fatto riferimento», prevede quanto segue:
+
+«371 R 1408 (...): Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno
+1971, relativo all'applicazione dei regimi di sicurezza sociale ai lavoratori
+subordinati, ai lavoratori autonomi e ai loro familiari che si spostano
+all'interno della Comunita,
+
+(...)».
+
+9        L'art. 3 del regolamento n. 1408/71, intitolato «Parita di
+trattamento», prevede al n. 1:
+
+«Le persone che risiedono nel territorio di uno degli Stati membri ed alle
+quali sono applicabili le disposizioni del presente regolamento, sono soggette
+agli obblighi e sono ammesse al beneficio della legislazione di ciascuno Stato
+membro alle stesse condizioni dei cittadini di tale Stato, fatte salve le
+disposizioni particolari del presente regolamento».
+
+10      A norma dell'art. 13, n. 2, lett. f), di tale regolamento:
+
+«la persona cui cessi d'essere applicabile l[a] legislazione di uno Stato
+membro senza che ad essa divenga applicabile la legislazione di un altro Stato
+membro in forza di una delle norme enunciate alle precedenti lettere o di una
+delle eccezioni o norme specifiche di cui agli articoli da 14 a 17, e soggetta
+alla legislazione dello Stato membro nel cui territorio risiede, in conformita
+delle disposizioni di questa sola legislazione».
+
+11      L'art. 23 del suddetto regolamento, incluso nel capitolo 1, intitolato
+«Malattia e maternita», del titolo III vertente sulle disposizioni specifiche
+alle varie categorie di prestazioni, cosi dispone:
+
+«1.      L'istituzione competente di uno Stato membro la cui legislazione
+prevede che il calcolo delle prestazioni in denaro si basa su un guadagno
+medio o su una base contributiva media determina tale guadagno medio o tale
+base contributiva media esclusivamente in funzione dei guadagni accertati o
+delle basi contributive applicate durante i periodi compiuti sotto detta
+legislazione.
+
+2.      L'istituzione competente di uno Stato membro la cui legislazione prevede che il calcolo delle prestazioni in denaro si basa su un guadagno forfettario tiene conto esclusivamente del guadagno forfettario oppure, eventualmente, della media dei guadagni forfettari corrispondenti ai periodi compiuti sotto detta legislazione. 
+
+(…)».
+
+12      L'art. 72 del medesimo regolamento, rubricato «Totalizzazione dei
+periodi di assicurazione, di occupazione o di attivita autonoma», incluso nel
+capitolo 7, esso stesso rubricato «Prestazioni familiari», del titolo III,
+dispone quanto segue:
+
+«L'istituzione competente di uno Stato membro la cui legislazione subordina
+l'acquisizione del diritto alle prestazioni al compimento di periodi di
+assicurazione, di occupazione o di attivita autonoma tiene conto a tal fine,
+nella misura necessaria, dei periodi di assicurazione, di occupazione o di
+attivita autonoma compiuti nel territorio di ogni altro Stato membro, come se
+si trattasse di periodi compiuti sotto la legislazione che essa applica».
+
+13      A norma dell'art. 89 del regolamento n. 1408/71:
+
+«Le modalita particolari di applicazione delle legislazioni di alcuni Stati
+membri sono indicate nell'allegato VI».
+
+14      L'allegato VI, N, intitolato «SVEZIA», punto 1, del regolamento in
+parola prevede che «[p]er l'applicazione dell'articolo 72 del regolamento, il
+diritto alle prestazioni per figli a carico sara determinato considerando i
+periodi di assicurazione maturati in un altro Stato membro come basati su un
+reddito medio pari a quello corrispondente ai periodi di assicurazione in
+Svezia ai quali vengono sommati». Tale disposizione e stata successivamente
+abrogata dal regolamento (CE) del Parlamento europeo e del Consiglio 18
+dicembre 2006, n. 1992, che modifica il regolamento n. 1408/71 (GU L 392, pag.
+1).
+
+  _Normativa nazionale_
+
+15      La legge (1999:799) relativa alle assicurazioni sociali
+[Socialforsakringslag (1999:799)] prevede segnatamente al capitolo 3,
+intitolato «Copertura della previdenza sociale»:
+
+«Art. 1 - Qualsiasi persona residente in Svezia deve essere assicurata per
+beneficiare delle seguenti prestazioni di cui alla [legge (1962:381) relativa
+alla previdenza generale (Lag om allman forsakring (1962:381); in prosieguo:
+la «legge relativa alla previdenza generale»)]:
+
+1.      indennita per cure mediche, ecc., ai sensi del capitolo 2, per quanto riguarda le prestazioni stabilite dalle casse generali di previdenza; 
+
+2.      assegno parentale al livello minimo e di base;
+
+3.      indennita di malattia e di inabilita temporanea sotto forma di prestazioni di garanzia;
+
+(...)
+
+Art. 4 - Qualsiasi persona che esercita un'attivita professionale in Svezia
+deve essere assicurata al fine di poter fruire delle seguenti prestazioni, di
+cui alla [legge relativa alla previdenza generale]:
+
+1.      prestazioni per malattia e per maternita;
+
+2.      assegno parentale superiore al livello minimo e assegno parentale temporaneo;
+
+3.      indennita di malattia in funzione del reddito e indennita per inabilita temporanea in funzione del reddito.
+
+(...)».
+
+16      La legge relativa alla previdenza generale enuncia in particolare:
+
+«Capitolo 3 - Indennita di malattia
+
+Art. 2 - L'indennita di malattia e calcolata sulla base del reddito annuo in
+denaro che presumibilmente l'assicurato puo percepire per l'attivita
+professionale esercitata in Svezia, sia in quanto dipendente (retribuzione),
+sia su altre basi (reddito di un'altra attivita professionale retribuita) (…).
+Il reddito di riferimento per determinare l'importo dell'indennita di malattia
+e fissato dall'ente di previdenza sociale.
+
+Il calcolo del reddito di riferimento per determinare l'importo dell'indennita
+di malattia si basa, quando l'ente di previdenza sociale non dispone di tutte
+le informazioni utili, sulle informazioni che il medesimo ha ottenuto
+dall'assicurato o dal suo datore di lavoro o che risultino dalla liquidazione
+dell'imposta sul reddito dovuta dall'assicurato. I premi per le ferie annuali
+non sono integrati nel reddito di riferimento per determinare l'importo
+dell'indennita di malattia oltre l'importo che sarebbe stato versato quale
+retribuzione per il lavoro effettuato nel corso di un periodo di
+corrispondente durata.
+
+Capitolo 4 - Assegno parentale
+
+(...)
+
+Art. 6 - L'assegno parentale integrale non e inferiore a SEK 60 al giorno
+(livello minimo).
+
+Per i primi 180 giorni l'assegno parentale e uguale all'indennita di malattia
+del genitore, calcolata conformemente al quinto comma, se il genitore, nel
+corso di un periodo ininterrotto di 240 giorni prima della nascita o della
+data prevista per la nascita, aveva diritto ad un'indennita di malattia
+superiore al livello minimo e vi avrebbe avuto diritto se l'ente di previdenza
+sociale avesse disposto di tutte le informazioni utili. Tuttavia l'assegno
+parentale per i primi 180 giorni non e mai inferiore all'assegno integrale di
+SEK 150 (livello di base). Per un genitore assicurato conformemente alle
+disposizioni del capitolo 3 della [legge (1999:799) relativa alla previdenza
+sociale], tale regola e applicabile alla condizione che il genitore soddisfi
+le condizioni di cui alla prima frase.
+
+Indipendentemente dalle disposizioni del secondo comma, l'assegno parentale e
+versato
+
+-        per 210 giorni sino a raggiungere l'importo corrispondente all'indennita di malattia del genitore, calcolato conformemente al quinto comma, ma comunque sino al livello di base, e 
+
+-        per 90 giorni sino alla concorrenza dell'importo corrispondente al livello minimo.
+
+(...)».
+
+  **Causa principale e questioni pregiudiziali**
+
+17      La sig.ra Bergstrom, cittadina svedese, si e installata in Svizzera
+nel gennaio 1994 e vi ha esercitato un'attivita professionale sino alla
+nascita di sua figlia, il 19 marzo 2002. In seguito, il 1° settembre 2002,
+essa e ritornata in Svezia, col marito e la figlia. Il marito ha
+immediatamente iniziato a lavorare in Svezia, mentre la sig.ra Bergstrom non
+ha ripreso alcuna attivita professionale per prendersi cura della figlia. Essa
+ha presentato domanda di assegno parentale equivalente al livello delle
+indennita giornaliere di malattia (in prosieguo: l'«APE-IJ») a decorrere dal
+16 marzo 2003, sulla base dei redditi derivanti dalla sua attivita
+professionale in Svizzera.
+
+18      L'Ente di previdenza sociale ha deciso di concederle l'assegno
+parentale di base (in prosieguo: l'«APE») per il motivo che non aveva diritto
+all'APE-IJ, in quanto non aveva esercitato alcuna attivita professionale in
+Svezia nel corso dei 240 giorni prima del parto, il che avrebbe fatto sorgere
+in capo all'interessata il diritto ad un'indennita di malattia superiore al
+livello di base.
+
+19      La sig.ra Bergstrom ha impugnato tale decisione dinanzi al Lansratten
+i Stockholms lan (Tribunale amministrativo di Stoccolma). Quaest'ultimo ha
+respinto il ricorso considerando che l'APE-IJ fosse una prestazione collegata
+all'esercizio di un'attivita professionale e che, per avere diritto a
+quest'ultima, era necessario che l'assicurato fosse stato occupato in Svezia
+in un'epoca sufficientemente vicina al periodo per il quale si richiedeva di
+fruire della prestazione. Sarebbe dunque insufficiente che il coniuge
+dell'assicurata eserciti un'attivita professionale in Svezia.
+
+20      La sig.ra Bergstrom ha quindi interposto appello dinanzi al
+Kammarratten i Stockholm (Corte amministrativa di Stoccolma) il quale,
+statuendo nel merito, ha ritenuto che la stessa soddisfaceva il requisito di
+durata posto dalla legislazione svedese, relativo ai 240 giorni di esercizio
+di attivita professionale, grazie alla sua attivita in Svizzera. Alla sig.ra
+Bergstrom poteva spettare un'indennita di importo superiore a quello dell'APE,
+determinato sulla base della sua attivita professionale in Svizzera.
+
+21      L'Ente di previdenza sociale ha impugnato tale sentenza ed ha chiesto
+la conferma della decisione del Lansratten i Stockholms lan. La sig.ra
+Bergstrom ha chiesto il rigetto della suddetta domanda.
+
+22      Per il giudice del rinvio e pacifico che la sig.ra Bergstrom e
+soggetta alla legislazione svedese, a norma dell'art. 13, n. 2, lett. f), del
+regolamento n. 1408/71, benche non eserciti alcuna attivita professionale in
+Svezia. Tuttavia quest'ultima non soddisfa le condizioni poste dal diritto
+nazionale per poter aver diritto all'APE-IJ.
+
+23      La condizione, relativa all'esercizio di un'attivita professionale in
+Svezia che permette di essere assicurato per prestazioni di malattia per
+almeno 240 giorni consecutivi prima della nascita di un figlio, non e
+soddisfatta. La questione e se debba ritenersi che il periodo di attivita
+professionale in Svizzera soddisfa la condizione in parola.
+
+24      Inoltre la sig.ra Bergstrom non ha esercitato alcuna attivita
+professionale e non ha percepito redditi che, in virtu del diritto nazionale,
+devono permettere di stabilire il reddito di riferimento per la concessione di
+indennita giornaliere. La questione e se occorra tener conto della sua
+attivita professionale in Svizzera per l'applicazione delle disposizioni in
+parola.
+
+25      Alla luce delle precedenti considerazioni, lo Hogsta
+forvaltningsdomstolen ha deciso di sospendere il procedimento e di sottoporre
+alla Corte le seguenti questioni pregiudiziali:
+
+«1)      Se il diritto dell'Unione, piu in particolare [l'accordo] e l'art. 72
+del [regolamento n. 1408/71], implichi che la condizione relativa al periodo
+minimo di assicurazione richiesto per l'erogazione di prestazioni familiari,
+fondate sui redditi e versate nell'ambito di un congedo parentale, e
+soddisfatta dall'esercizio di un'attivita professionale e dal versamento di
+contributi previdenziali esclusivamente in Svizzera.
+
+2)      Se il diritto dell'Unione, piu in particolare l'accordo e gli artt. 3,
+n. 1, e 72 del regolamento n. 1408/71, implichi che redditi percepiti in
+Svizzera devono essere assimilati a redditi nazionali quando si valuta la
+questione del diritto a prestazioni familiari, basate sui redditi e versate
+nell'ambito di un congedo parentale».
+
+  **Sulle questioni pregiudiziali**
+
+  _Osservazioni preliminari_
+
+26      La risposta alle questioni sollevate presuppone che la situazione in
+parola nella causa principale rientri nell'ambito di applicazione
+dell'accordo. È necessario rilevare in proposito che il caso della sig.ra
+Bergstrom e quello di un lavoratore cittadino di uno Stato membro dell'Unione
+europea il quale, dopo aver esercitato un'attivita professionale sul
+territorio di un'altra parte contraente, ritorna nel suo Stato membro di
+origine ove chiede, sulla base della suddetta attivita professionale, un
+assegno familiare previsto dalla normativa di tale Stato membro.
+
+27      Per quanto riguarda la questione dell'ambito di applicazione
+dell'accordo, occorre rilevare in primo luogo che la seconda frase del
+preambolo dell'accordo afferma che le parti contraenti sono «decis[e] ad
+attuare la libera circolazione delle persone tra loro basandosi sulle
+disposizioni applicate nella Comunita europea».
+
+28      Tale liberta sarebbe ostacolata se un cittadino di una parte
+contraente subisse uno svantaggio nel suo paese di origine per il solo motivo
+di aver esercitato il suo diritto di circolazione.
+
+29      È opportuno ricordare in secondo luogo che, a norma dell'art. 8
+dell'accordo, conformemente all'allegato II di detto accordo, le parti
+contraenti disciplinano il coordinamento dei sistemi di previdenza sociale per
+gli scopi ivi precisati. Tale disposizione non si riferisce ne direttamente ne
+indirettamente ad una qualsiasi esigenza relativa al luogo di soggiorno delle
+persone alle quali sarebbero applicate le disposizioni previdenziali di cui
+trattasi o alla designazione della parte contraente che le applicherebbe.
+
+30      Tra gli scopi perseguiti dal suddetto art. 8, figura, alla lett. a),
+«la parita di trattamento». Il riferimento, in maniera esplicita e generale, a
+siffatto principio, dimostra che, nell'ambito di applicazione di tale
+articolo, il principio suddetto si applica a prescindere dall'art. 2
+dell'accordo che condiziona l'applicazione del principio di
+non‑discriminazione del soggiorno di una persona beneficiaria sul territorio
+dell'altra parte contraente.
+
+31      In terzo luogo, l'allegato II, A, punto 1, dell'accordo prevede
+l'applicazione, tra le parti contraenti, del regolamento n. 1408/71, con
+riserva di alcuni adattamenti che, tuttavia, non sono pertinenti per la
+valutazione della questione sollevata. L'art. 1, n. 2, dell'allegato in parola
+prevede che i termini «Stato(i) membro(i)» che figurano negli atti cui e fatto
+riferimento nella sezione A del presente allegato comprendano, oltre al
+significato che hanno nei pertinenti atti comunitari, la Svizzera.
+
+32      Da ultimo, occorre ricordare che il regolamento n. 1408/71 e
+applicabile non solo alle prestazioni familiari, ma anche ad altre categorie
+di prestatori tra cui figurano, a titolo di esempio, le prestazioni di
+vecchiaia.
+
+33      Ne risulta che, senza l'applicazione della regola di totalizzazione
+dopo il ritorno di un lavoratore nel suo paese di origine, il coordinamento
+dei sistemi previdenziali tra la Confederazione svizzera e gli Stati membri
+dell'Unione sarebbe escluso per un non trascurabile numero di ipotesi, tra le
+altre per l'acquisizione di prestazioni di vecchiaia.
+
+34      Dati tali elementi, e necessario constatare che l'accordo ed il
+regolamento n. 1408/71 sono applicabili alla situazione di un lavoratore del
+tipo di quella descritta al punto 26 della presente sentenza.
+
+  _Sulla prima questione_
+
+35      Con tale questione, il giudice del rinvio chiede in sostanza se, a
+norma dell'accordo e del regolamento n. 1408/71, quando la legislazione di uno
+Stato membro subordina il beneficio di una prestazione familiare, come quella
+di cui alla causa principale, al compimento dei periodi di assicurazione, di
+occupazione o di attivita autonoma, l'ente competente del suddetto Stato
+membro debba tener conto, a tal fine, di siffatti periodi integralmente
+compiuti nel territorio della Confederazione svizzera.
+
+36      Risulta dal fascicolo sottoposto alla Corte che, ai sensi della
+normativa nazionale, per aver diritto a fruire dell'APE-IJ, la sig.ra
+Bergstrom deve comprovare un periodo di attivita professionale nel corso dei
+240 giorni precedenti al parto. La sig.ra Bergstrom ha compiuto l'integralita
+di tale periodo di attivita professionale di riferimento nel territorio della
+Confederazione svizzera.
+
+37      È pacifico che l'assegno chiesto dalla sig.ra Bergstrom costituisce
+una prestazione familiare ai sensi dell'art. 1, lett. u), i), del regolamento
+n. 1408/71.
+
+38      La soluzione della questione sollevata necessita l'interpretazione
+dell'art. 8, lett. c), dell'accordo e dell'art. 72 del regolamento n. 1408/71
+che, per l'acquisizione del diritto alla prestazione in questione, prevedono
+l'applicazione della cosiddetta regola «di totalizzazione».
+
+39      Fondandosi sul termine «totalizzazione», talune delle parti
+interessate che hanno presentato osservazioni dinanzi alla Corte fanno valere
+che la nozione in parola presuppone logicamente l'esistenza di almeno due
+periodi di attivita compiuti in piu Stati membri. Pertanto lo Stato membro
+dell'ente competente per l'erogazione di una prestazione avrebbe la facolta di
+prevedere a tal fine che un periodo di attivita debba essere stato compiuto
+sul suo territorio, il che escluderebbe l'utilizzazione di un solo periodo
+compiuto sul territorio di un altro Stato membro per ottenere il diritto ad
+una prestazione previdenziale.
+
+40      Un'interpretazione siffatta non puo essere accolta.
+
+41      Il tenore letterale sia dell'art. 8, lett. c), dell'accordo che
+dell'art. 72 del regolamento n. 1408/71 sono privi di ambiguita. Ai sensi
+della prima delle suddette disposizioni, la totalizzazione comprende «tutti i
+periodi» presi in considerazione dalle diverse legislazioni nazionali, mentre
+la seconda esige di tener conto, nell'ambito della totalizzazione, «dei
+periodi di assicurazione, di occupazione o di attivita autonoma compiuti nel
+territorio di ogni altro Stato membro», come se si trattasse di periodi
+compiuti sotto la legislazione applicata dall'ente competente.
+
+42      Occorre ricordare che il regolamento n. 1408/71 e stato adottato sul
+fondamento dell'art. 51 del trattato CEE (divenuto art. 51 del trattato CE,
+esso stesso divenuto, in seguito a modifica, art. 42 CE) che ha autorizzato il
+Consiglio dell'Unione europea ad adottare, in materia di previdenza sociale,
+le misure necessarie per l'instaurazione della libera circolazione dei
+lavoratori, attuando in particolare un sistema che consenta di assicurare ai
+lavoratori migranti e ai loro aventi diritto il cumulo di «tutti i periodi»
+presi in considerazione dalle varie legislazioni nazionali, sia per il sorgere
+e la conservazione del diritto alle prestazioni sia per il calcolo di queste.
+
+43      Un'interpretazione siffatta e conforme all'obiettivo dell'accordo che
+e quello di assicurare la libera circolazione delle persone tra la
+Confederazione svizzera e la Comunita. Essa rispetta anche il principio della
+parita di trattamento stabilito all'art. 8, lett. a), dell'accordo, dato che
+tende a garantire che l'esercizio del diritto alla libera circolazione non
+abbia per effetto di privare il lavoratore migrante di vantaggi previdenziali
+rispetto ad altri lavoratori i quali non hanno esercitato tale diritto.
+
+44      Cosi l'ente competente di uno Stato membro non potrebbe esigere, al
+fine di concedere una prestazione familiare, che, oltre ad un periodo di
+occupazione o di attivita compiuto in un altro Stato, all'occorrenza in
+Svizzera, un altro periodo di assicurazione sia stato compiuto sul suo
+territorio.
+
+45      Di conseguenza, la prima questione deve essere risolta nel senso che,
+a norma dell'art. 8, lett. c), dell'accordo e dell'art. 72 del regolamento n
+1408/71, quando la legislazione di uno Stato membro subordina il beneficio di
+una prestazione familiare, come quella di cui alla causa principale, al
+compimento di periodi di assicurazione, di occupazione o di attivita autonoma,
+l'ente competente del suddetto Stato membro, al fine di erogare la prestazione
+familiare di cui trattasi, deve tener conto, a tal fine, di siffatti periodi
+compiuti integralmente nel territorio della Confederazione svizzera.
+
+  _Sulla seconda questione_
+
+46      Con la presente questione il giudice del rinvio chiede in sostanza se,
+in caso di soluzione positiva della prima questione, l'accordo ed il
+regolamento n. 1408/71 abbiano per effetto di assimilare i redditi
+professionali percepiti in Svizzera ai redditi nazionali che servono, in
+Svezia, a calcolare l'importo della prestazione familiare richiesta.
+
+47      Emerge dagli atti di causa sottoposti alla Corte che la sig.ra
+Bergstrom ha chiesto un assegno familiare il cui importo e pari alle indennita
+giornaliere che sono stabilite secondo le regole dell'assicurazione malattia
+(APE-IJ). La prestazione familiare in parola e connessa ai redditi
+professionali annui dell'assicurato.
+
+48      Quindi, in una situazione siffatta, e necessario tener conto, ai fini
+del calcolo dell'importo delle prestazioni familiari della particolare
+categoria in questione, delle regole pertinenti del regolamento n. 1408/71
+concernenti il settore «malattia» della previdenza sociale.
+
+49      Le regole in parola sono previste dall'art. 23 del regolamento n.
+1408/71. Indipendentemente dal fatto che la determinazione del reddito su cui
+si basa il calcolo delle prestazioni in denaro risulti dall'applicazione del
+disposto del n. 1 o del n. 2 del medesimo articolo, il suddetto reddito e
+determinato o in funzione dei guadagni accertati durante i periodi compiuti
+sotto la legislazione dell'ente competente, o tendendo conto del guadagno
+forfettario oppure, eventualmente, della media dei guadagni forfettari
+corrispondenti ai periodi compiuti sotto detta legislazione, cioe, nella
+specie, sotto la legislazione svedese.
+
+50      Una soluzione del genere e conforme alla regola contenuta
+nell'allegato VI, N, punto 1, del regolamento n. 1408/71, applicabile ratione
+temporis a norma del quale, per l'applicazione dell'art. 72 del regolamento,
+il diritto di una persona alle prestazioni familiari sara determinato
+considerando i periodi di assicurazione maturati in un altro Stato membro come
+basati su un reddito medio pari a quello corrispondente ai periodi di
+assicurazione in Svezia.
+
+51      Nella causa principale, tuttavia, la sig.ra Bergstrom non ha fruito di
+alcun reddito in Svezia durante il periodo di riferimento di 240 giorni.
+
+52      In una situazione del genere, onde attribuire un effetto utile
+all'art. 8, lett. c), dell'accordo ed all'art. 72 del regolamento n. 1408/71,
+quali interpretati al punto 45 della presente sentenza, nonche soddisfare
+l'imperativo della parita di trattamento di cui all'art. 8, lett. a),
+dell'accordo ed all'art. 3, n. 1, del suddetto regolamento, i redditi di
+riferimento della sig.ra Bergstrom devono essere calcolati tenendo conto dei
+redditi di una persona che esercita, in Svezia, un'attivita comparabile alla
+sua e che dispone di un'esperienza e di qualifiche professionali del pari
+comparabili a quelle dell'interessata.
+
+53      Occorre pertanto risolvere la questione dichiarando che l'art. 8,
+lett. a), dell'accordo e gli artt. 3, n. 1, 23, nn. 1 e 2, 72 nonche
+l'allegato VI, N, punto 1, del regolamento n. 1408/71 devono essere
+interpretati nel senso che, nel caso in cui l'importo di una prestazione
+familiare, come quella di cui alla causa principale, debba essere determinato
+secondo le regole della prestazione di malattia, l'importo stesso, a favore di
+una persona che ha compiuto integralmente i periodi di attivita professionale
+necessari all'acquisizione del diritto in parola nel territorio dell'altra
+parte contraente, deve essere calcolato tenendo conto dei redditi di una
+persona avente un'esperienza e qualifiche comparabili alle sue e che eserciti
+un'attivita comparabile nel territorio dello Stato membro in cui e richiesta
+la prestazione medesima.
+
+  **Sulle spese**
+
+54      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:
+
+1)       **L 'art. 8, lett. c), dell'accordo tra la Comunita europea ed i suoi
+Stati membri, da una parte, e la Confederazione svizzera, dall'altra, sulla
+libera circolazione delle persone, firmato a Lussemburgo il 21 giugno 1999, e
+l'art. 72 del regolamento (CEE) del Consiglio 14 giugno 1971, n. 1408,
+relativo all'applicazione dei regimi di sicurezza sociale ai lavoratori
+subordinati, ai lavoratori autonomi e ai loro familiari che si spostano
+all'interno della Comunita, come modificato dal regolamento (CE) del
+Parlamento europeo e del Consiglio 5 giugno 2001, n. 1386, devono essere
+interpretati nel senso che, quando la legislazione di uno Stato membro
+subordina il beneficio di una prestazione familiare, come quella di cui alla
+causa principale, al compimento di periodi di assicurazione, di occupazione o
+di attivita autonoma, l'ente competente del suddetto Stato membro, al fine di
+erogare la prestazione familiare di cui trattasi, deve tener conto, a tal
+fine, di siffatti periodi compiuti integralmente nel territorio della
+Confederazione svizzera.**
+
+2)       **L 'art. 8, lett. a), di detto accordo e gli artt. 3, n. 1, 23, nn.
+1 e 2, 72 nonche l'allegato VI, N, punto 1, del regolamento n. 1408/71, come
+modificato dal regolamento n. 1386/2001, devono essere interpretati nel senso
+che, nel caso in cui l'importo di una prestazione familiare, come quella di
+cui alla causa principale, debba essere determinato secondo le regole della
+prestazione di malattia, l'importo stesso, a favore di una persona che ha
+compiuto integralmente i periodi di attivita professionale necessari
+all'acquisizione del diritto in parola nel territorio dell'altra parte
+contraente, deve essere calcolato tenendo conto dei redditi di una persona
+avente un'esperienza e qualifiche comparabili alle sue e che eserciti
+un'attivita comparabile nel territorio dello Stato membro in cui e richiesta
+la prestazione medesima.**
+
+Firme
+
+* * *
+
+* Lingua processuale: lo svedese. 
+

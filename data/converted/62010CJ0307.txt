@@ -1,0 +1,1310 @@
+  
+  
+SENTENZA DELLA CORTE (Grande Sezione)
+
+19 giugno 2012 ( *1 )
+
+«Marchi — Ravvicinamento delle legislazioni degli Stati membri — Direttiva
+2008/95/CE — Individuazione dei prodotti o dei servizi per i quali è richiesta
+la protezione del marchio — Requisiti di chiarezza e di precisione —
+Utilizzazione dei titoli delle classi della classificazione di Nizza ai fini
+della registrazione dei marchi — Ammissibilità — Portata della protezione
+conferita dal marchio»
+
+Nella causa C-307/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, da The Person Appointed by the Lord
+Chancellor under Section 76 of the Trade Marks Act 1994, on Appeal from the
+Registrar of Trade Marks (Regno Unito), con decisione del 27 maggio 2010,
+trasmessa dalla High Court of Justice (Queen’s Bench Division) e pervenuta in
+cancelleria il 28 giugno 2010, nel procedimento
+
+Chartered Institute of Patent Attorneys
+
+contro
+
+Registrar of Trade Marks,
+
+LA CORTE (Grande Sezione),
+
+composta dal sig. V. Skouris, presidente, dai sigg. A. Tizzano, J.N. Cunha
+Rodrigues, K. Lenaerts, J.-C. Bonichot, J. Malenovský e U. Lõhmus (relatore),
+presidenti di sezione, dai sigg. M. Ilešič, E. Levits, A. Ó Caoimh, T. von
+Danwitz, A. Arabadjiev e dalla sig.ra C. Toader, giudici,
+
+avvocato generale: sig. Y. Bot
+
+cancelliere: sig.ra C. Strömholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza dell’11
+ottobre 2011,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il Chartered Institute of Patent Attorneys, da M. Edenborough, QC;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo del Regno Unito, da S. Hathaway, in qualità di agente,
+assistito da. S. Malynicz, barrister;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ceco, da M. Smolek e V. Štencel, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo danese, da C. Vang, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo tedesco, da T. Henze e J. Kemper, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Irlanda, da N. Travers, BL;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo francese, da B. Cabouat, G. de Bergues e S. Menez, in qualità
+di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo austriaco, da E. Riedl, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo polacco, da M. Szpunar, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo portoghese, da L. Inez Fernandes, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo slovacco, da B. Ricziová, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo finlandese, da J. Heliskoski, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Ufficio per l’armonizzazione nel mercato interno (marchi, disegni e
+modelli) (UAMI), da D. Botis e R. Pethke, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da F.W. Bulst e J. Samnadda, in qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 29
+novembre 2011,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione della
+direttiva 2008/95/CE del Parlamento europeo e del Consiglio, del 22 ottobre
+2008, sul ravvicinamento delle legislazioni degli Stati membri in materia di
+marchi d’impresa (GU L 299, pag. 25).  
+  
+---|---  
+  
+2
+
+|
+
+Detta domanda è stata proposta nell’ambito di una controversia che vede
+opposti il Chartered Institute of Patent Attorneys (in prosieguo: il «CIPA») e
+il Registrar of Trade Marks (autorità competente in materia di registrazione
+dei marchi nel Regno Unito; in prosieguo: il «Registrar») riguardo al rifiuto
+opposto da quest’ultimo alla registrazione del segno denominativo «IP
+TRANSLATOR» quale marchio nazionale.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto internazionale
+
+3
+
+|
+
+A livello internazionale il diritto dei marchi è disciplinato dalla
+Convenzione per la protezione della proprietà industriale, firmata a Parigi il
+20 marzo 1883, riveduta da ultimo a Stoccolma il 14 luglio 1967 e modificata
+il 28 settembre 1979 (in Recueil des traités des Nations Unies, volume 828, n.
+11851, pag. 305; in prosieguo: la «Convenzione di Parigi»). Tutti gli Stati
+membri sono firmatari di tale Convenzione.  
+  
+---|---  
+  
+4
+
+|
+
+Ai sensi dell’articolo 19 della Convenzione di Parigi, gli Stati membri ai
+quali quest’ultima si applica si riservano il diritto di concludere tra loro
+accordi particolari per la protezione della proprietà industriale.  
+  
+---|---  
+  
+5
+
+|
+
+Tale disposizione è stata alla base dell’adozione dell’Accordo di Nizza sulla
+classificazione internazionale dei prodotti e dei servizi ai fini della
+registrazione dei marchi, adottato nella conferenza diplomatica di Nizza il 15
+giugno 1957, riveduto da ultimo a Ginevra il 13 maggio 1977 e modificato il28
+settembre 1979 (Recueil des traités des Nations Unies, vol. 1154, n. I-18200,
+pag. 89; in prosieguo: l’«Accordo di Nizza»). Ai sensi dell’articolo 1 di
+quest’ultimo:
+
+«1) I paesi ai quali si applica il presente Accordo sono costituiti in Unione
+particolare e adottano una classificazione comune dei prodotti e dei servizi
+ai fini della registrazione dei marchi (in prosieguo: la “classificazione di
+Nizza”).
+
+(2) La classificazione [di Nizza] comprende:
+
+|
+
+i)
+
+|
+
+un elenco delle classi, accompagnato, se del caso, da note esplicative;  
+  
+---|---  
+  
+ii)
+
+|
+
+un elenco alfabetico dei prodotti e dei servizi (…), con l’indicazione della
+classe nella quale ogni prodotto o servizio è catalogato.  
+  
+---|---  
+  
+(...)».  
+  
+6
+
+|
+
+L’articolo 2 dell’Accordo di Nizza, intitolato «Portata giuridica e
+applicazione della classificazione», è formulato nei termini seguenti:
+
+«1) Fatti salvi gli obblighi imposti dal presente Accordo, la portata della
+classificazione [di Nizza] è quella attribuitale da ciascun paese dell’Unione
+particolare. In modo particolare, la classificazione [di Nizza] non vincola i
+paesi dell’Unione particolare né riguardo alla valutazione della portata della
+protezione del marchio, né riguardo al riconoscimento dei marchi di servizio.
+
+2) Ciascun paese dell’Unione particolare si riserva la facoltà di applicare la
+classificazione [di Nizza] a titolo di sistema principale o di sistema
+ausiliario.
+
+3) Le amministrazioni competenti dei paesi dell’Unione particolare faranno
+figurare, nei titoli e nelle pubblicazioni ufficiali delle registrazioni dei
+marchi, i numeri delle classi della classificazione [di Nizza] alle quali
+appartengono i prodotti o i servizi per i quali il marchio è registrato.
+
+4) Il fatto che una denominazione figuri nell’elenco alfabetico [dei prodotti
+e dei servizi] non pregiudica in alcun modo i diritti che potrebbero esistere
+su tale denominazione».  
+  
+---|---  
+  
+7
+
+|
+
+La classificazione di Nizza è gestita dall’Ufficio internazionale
+dell’Organizzazione mondiale della proprietà intellettuale (OMPI). L’elenco
+delle classi di detta classificazione contiene, a partire dal 1o gennaio 2002,
+34 classi di prodotti e 11 classi di servizi. Ciascuna classe è designata da
+una o più indicazioni generali, comunemente denominate «titolo della classe»,
+che indicano in modo generico i settori nei quali rientrano in linea di
+principio i prodotti o i servizi della classe in questione. L’elenco
+alfabetico dei prodotti e dei servizi comprende circa 12000 voci.  
+  
+---|---  
+  
+8
+
+|
+
+In conformità della guida per l’utente della classificazione di Nizza, per
+essere sicuri della corretta classificazione di ciascun prodotto o servizio è
+necessario consultare l’elenco alfabetico dei prodotti e dei servizi nonché le
+note esplicative riguardanti le diverse classi. Laddove un prodotto o un
+servizio non possa essere classificato grazie all’elenco delle classi, alle
+note esplicative o all’elenco alfabetico dei prodotti o dei servizi, le note
+generali enunciano i criteri che devono essere applicati.  
+  
+---|---  
+  
+9
+
+|
+
+Secondo la banca dati dell’OMPI, fra gli Stati membri solo la Repubblica di
+Cipro e la Repubblica di Malta non sono parti dell’Accordo di Nizza, nondimeno
+esse utilizzano la classificazione di Nizza.  
+  
+---|---  
+  
+10
+
+|
+
+Ogni cinque anni la classificazione di Nizza viene riveduta da un comitato di
+esperti. La nona edizione, in vigore all’epoca dei fatti della controversia
+principale, è stata sostituita dalla decima edizione con decorrenza dal 1o
+gennaio 2012.  
+  
+---|---  
+  
+Il diritto dell’Unione
+
+La direttiva 2008/95
+
+11
+
+|
+
+La direttiva 2008/95 ha sostituito la prima direttiva 89/104/CEE del
+Consiglio, del 21 dicembre 1988 sul ravvicinamento delle legislazioni degli
+Stati membri in materia di marchi d’impresa (GU 1989, L 40, pag. 1).  
+  
+---|---  
+  
+12
+
+|
+
+Ai termini dei considerando sesto, ottavo, undicesimo e tredicesimo della
+direttiva 2008/95:
+
+|
+
+«(6)
+
+|
+
+Gli Stati membri dovrebbero mantenere (…) la piena libertà di fissare le
+disposizioni procedurali relative alla registrazione, alla decadenza o alla
+nullità dei marchi di impresa acquisiti attraverso la registrazione. (...)  
+  
+---|---  
+  
+(...)
+
+(8)
+
+|
+
+La realizzazione degli obiettivi perseguiti [dalle legislazioni degli Stati
+membri] presuppone che l’acquisizione e la conservazione del diritto sul
+marchio di impresa registrato siano in linea di massima subordinate, in tutti
+gli Stati membri, alle stesse condizioni. (...)  
+  
+---|---  
+  
+(...)
+
+(11)
+
+|
+
+La tutela che è accordata dal marchio di impresa registrato e che mira in
+particolare a garantire la funzione d’origine del marchio di impresa dovrebbe
+essere assoluta in caso di identità tra il marchio di impresa e il segno,
+nonché tra i prodotti o servizi. (...)  
+  
+---|---  
+  
+(...)
+
+(13)
+
+|
+
+Tutti gli Stati membri della Comunità sono parti contraenti della convenzione
+di Parigi (…). È necessario che le disposizioni della presente direttiva siano
+in perfetta armonia con quelle di detta convenzione. La presente direttiva non
+dovrebbe pregiudicare gli obblighi degli Stati membri derivanti da tale
+convenzione. (...)».  
+  
+---|---  
+  
+13
+
+|
+
+L’articolo 3, paragrafi 1 e 3, della direttiva 2008/95 così dispone:
+
+«1. Sono esclusi dalla registrazione o, se registrati, possono essere
+dichiarati nulli:
+
+(...)
+
+|
+
+b)
+
+|
+
+i marchi di impresa privi di carattere distintivo;  
+  
+---|---  
+  
+c)
+
+|
+
+i marchi di impresa composti esclusivamente da segni o indicazioni che nel
+commercio possono servire a designare la specie, la qualità, la quantità, la
+destinazione, il valore, la provenienza geografica ovvero l’epoca di
+fabbricazione del prodotto o della prestazione del servizio, o altre
+caratteristiche del prodotto o servizio;  
+  
+---|---  
+  
+(...)
+
+3\. Un marchio di impresa non è escluso dalla registrazione o, se registrato,
+non può essere dichiarato nullo ai sensi del paragrafo 1, lettere b), c) o d),
+se prima della domanda di registrazione o a seguito dell’uso che ne è stato
+fatto esso ha acquisito un carattere distintivo. Gli Stati membri possono
+inoltre disporre che la presente disposizione sia anche applicabile quando il
+carattere distintivo è stato acquisito dopo la domanda di registrazione o dopo
+la registrazione stessa».  
+  
+14
+
+|
+
+L’articolo 4, paragrafo 1, lettera a), della citata direttiva stabilisce
+quanto segue:
+
+«Un marchio di impresa è escluso dalla registrazione o, se registrato, può
+essere dichiarato nullo:
+
+|
+
+a)
+
+|
+
+se il marchio di impresa è identico a un marchio di impresa anteriore e se i
+prodotti o servizi per cui il marchio di impresa è stato richiesto o è stato
+registrato sono identici a quelli per cui il marchio di impresa anteriore è
+tutelato».  
+  
+---|---  
+  
+La comunicazione n. 4/03
+
+15
+
+|
+
+La comunicazione n. 4/03 del presidente dell’Ufficio per l’armonizzazione nel
+mercato interno (marchi, disegni e modelli) (UAMI) del 16 giugno 2003,
+relativa all’utilizzazione dei titoli delle classi negli elenchi di prodotti e
+servizi per le domande e le registrazioni di marchi comunitari (GU UAMI 9/03,
+pag. 1647), conformemente al suo punto I, si prefigge di illustrare e di
+chiarire la prassi dell’Ufficio «relativa all’utilizzazione dei titoli delle
+classi, nonché sulle conseguenze di tale utilizzazione allorché domande o
+registrazioni di marchi comunitari sono oggetto di limitazioni, rinunce
+parziali o procedimenti di opposizione o per dichiarazioni di nullità».  
+  
+---|---  
+  
+16
+
+|
+
+A tenore del punto III, secondo paragrafo, di detta comunicazione:
+
+«In una domanda di marchio comunitario, una specificazione dei prodotti e
+servizi è appropriata se vengono utilizzate le indicazioni generali o i titoli
+interi delle classi di cui alla classificazione di Nizza. L’utilizzazione di
+tali indicazioni consente una classificazione e un raggruppamento corretti.
+L’[UAMI], contrariamente alla prassi di taluni uffici nazionali dell’Unione
+europea e di taluni paesi terzi per quanto concerne alcuni titoli di classi e
+alcune indicazioni generali, non si oppone all’utilizzazione di indicazioni
+generali e di titoli di classi qualsiasi considerandoli troppo vaghi o
+imprecisi».  
+  
+---|---  
+  
+17
+
+|
+
+Il punto IV, primo paragrafo, della comunicazione n. 4/03 prevede:
+
+«Le 34 classi di prodotti e le 11 classi di servizi comprendono l’insieme di
+tutti i prodotti e servizi. Conseguentemente, l’uso di tutte le indicazioni
+generali elencate nel titolo di una determinata classe costituisce una
+rivendicazione per tutti i prodotti o servizi rientranti in tale classe».  
+  
+---|---  
+  
+Il diritto inglese
+
+18
+
+|
+
+La direttiva 89/104 è stata trasposta nel diritto inglese con la legge del
+1994 sui marchi (Trade Marks Act 1994; in prosieguo: la «legge del 1994»).  
+  
+---|---  
+  
+19
+
+|
+
+L’articolo 32, paragrafo 2, lettera c), di detta legge dispone che la domanda
+di registrazione deve contenere in particolare «l’indicazione dei prodotti o
+dei servizi per i quali è richiesta la registrazione».  
+  
+---|---  
+  
+20
+
+|
+
+Ai sensi dell’articolo 34, paragrafo 1, della stessa legge:
+
+«1. I prodotti o i servizi sono classificati ai fini della registrazione dei
+marchi secondo la classificazione prescritta.
+
+2\. Qualsiasi questione relativa alla classe a cui appartengono i prodotti o i
+servizi è decisa dal Registrar, la cui decisione è inoppugnabile».  
+  
+---|---  
+  
+21
+
+|
+
+La legge del 1994 è completata dal regolamento del 2008 in materia di marchi
+d’impresa (Trade Marks Rules 2008) che riguarda la prassi e la procedura
+dinanzi all’Ufficio per la proprietà intellettuale del Regno Unito (UKIPO). Ai
+sensi della regola 8, paragrafo 2, lettera b), di detto regolamento, il
+richiedente deve specificare i prodotti e i servizi per i quali è richiesta la
+registrazione del marchio nazionale, in modo tale che ne risulti chiaramente
+la natura.  
+  
+---|---  
+  
+Causa principale e questioni pregiudiziali
+
+22
+
+|
+
+Il 16 ottobre 2009 il CIPA ha presentato una domanda di registrazione della
+denominazione «IP TRANSLATOR» quale marchio nazionale ai sensi dell’articolo
+32 della legge del 1994. Per individuare i servizi oggetto di tale
+registrazione, il CIPA ha utilizzato i termini generali del titolo della
+classe 41 della classificazione di Nizza, vale a dire «Educazione; Formazione;
+Divertimento; Attività sportive e culturali».  
+  
+---|---  
+  
+23
+
+|
+
+Con decisione del 12 febbraio 2010 il Registrar ha respinto tale domanda
+basandosi sulle disposizioni nazionali corrispondenti all’articolo 3,
+paragrafi 1, lettere b) e c), e 3, della direttiva 2008/95. Il Registrar ha
+interpretato, infatti, tale domanda in conformità della comunicazione n. 4/03
+e ha concluso che essa verteva non soltanto su servizi del tipo precisato dal
+CIPA, ma anche su qualsiasi altro servizio rientrante nella classe 41 della
+classificazione di Nizza, compresi i servizi di traduzione. Per questi ultimi
+servizi, la denominazione «IP TRANSLATOR», da un lato, sarebbe priva di
+carattere distintivo e, dall’altro, sarebbe descrittiva. Inoltre, non
+esisterebbe alcuna prova del fatto che il segno verbale «IP TRANSLATOR» avesse
+acquisito, prima della data della domanda di registrazione, un carattere
+distintivo attraverso l’uso relativamente ai servizi di traduzione, né il CIPA
+avrebbe chiesto che detti servizi fossero esclusi dalla sua domanda di
+registrazione del marchio.  
+  
+---|---  
+  
+24
+
+|
+
+Il 25 febbraio 2010 il CIPA ha impugnato tale decisione dinanzi al giudice del
+rinvio sostenendo che la sua domanda di registrazione non menzionava, e quindi
+non riguardava, i servizi di traduzione rientranti nella menzionata classe 41.
+Per tale ragione le obiezioni alla registrazione formulate dal Registrar
+sarebbero errate e la sua domanda di registrazione sarebbe stata respinta a
+torto.  
+  
+---|---  
+  
+25
+
+|
+
+Secondo il giudice del rinvio è pacifico che i servizi di traduzione non sono
+considerati, abitualmente, una sottocategoria dei servizi di «educazione», di
+«formazione», di «divertimento», di «attività sportive» e di «attività
+culturali».  
+  
+---|---  
+  
+26
+
+|
+
+Risulta peraltro dalla decisione di rinvio che, oltre all’elenco alfabetico
+dei prodotti e dei servizi contenente 167 voci che enumerano i servizi
+rientranti nella classe 41 della classificazione di Nizza, la banca dati
+gestita dal Registrar, a norma della legge del 1994, contiene più di 2000 voci
+che enumerano i servizi rientranti in tale classe 41 e che la base dati
+Euroace, gestita dall’UAMI ai sensi del regolamento (CE) n. 207/2009 del
+Consiglio, del 26 febbraio 2009, sul marchio comunitario (GU L 78, pag. 1), ne
+contiene più di 3000.  
+  
+---|---  
+  
+27
+
+|
+
+Il giudice del rinvio rileva che, se l’approccio seguito dal Registrar fosse
+corretto, la domanda di registrazione del CIPA verterebbe su tutte queste
+voci, compresi i servizi di traduzione. In tal caso detta domanda
+riguarderebbe prodotti o servizi che non sono menzionati nella stessa né in
+alcuna registrazione da essa risultante. A suo avviso, una siffatta
+interpretazione sarebbe incompatibile con i requisiti di chiarezza e di
+precisione con cui devono essere individuati i diversi prodotti o servizi
+indicati in una domanda di registrazione del marchio.  
+  
+---|---  
+  
+28
+
+|
+
+Il giudice del rinvio menziona altresì un’indagine condotta nel corso del 2008
+dall’Association of European Trade Mark Owners (Marques), che ha mostrato come
+la prassi sia variabile a seconda degli Stati membri, in quanto alcune
+autorità competenti applicano il metodo interpretativo previsto dalla
+comunicazione n. 4/03, mentre altre utilizzano un approccio diverso.  
+  
+---|---  
+  
+29
+
+|
+
+In tale contesto, The Person Appointed by the Lord Chancellor under Section 76
+of the Trade Marks Act 1994, on Appeal from the Registrar of Trade Marks ha
+deciso di sospendere il giudizio e di sottoporre alla Corte le seguenti
+questioni pregiudiziali:
+
+«Se, nell’ambito della direttiva 2008/95 (…):
+
+|
+
+1)
+
+|
+
+sia necessario che i diversi prodotti o servizi cui si riferisce una domanda
+di marchio siano identificati con chiarezza e precisione e, in tal caso, con
+quale particolare grado di chiarezza e di precisione;  
+  
+---|---  
+  
+2)
+
+|
+
+sia ammissibile utilizzare i termini generali dei titoli delle classi della
+[classificazione di Nizza] al fine di identificare i diversi prodotti o
+servizi cui si riferisce una domanda di marchio;  
+  
+---|---  
+  
+3)
+
+|
+
+sia necessario o ammissibile che tale utilizzo dei termini generali dei titoli
+delle classi [della classificazione di Nizza] sia interpretato in conformità
+della comunicazione n. 4/03 (…)».  
+  
+---|---  
+  
+Sulla ricevibilità della domanda di pronuncia pregiudiziale
+
+30
+
+|
+
+Nelle sue osservazioni scritte l’UAMI sostiene che la domanda di pronuncia
+pregiudiziale deve essere dichiarata irricevibile in quanto sarebbe
+artificiosa cosicché la risposta della Corte alle questioni pregiudiziali
+sarebbe irrilevante per la risoluzione della controversia principale. La
+Commissione europea esprime del pari dubbi quanto alla reale necessità della
+registrazione di cui trattasi.  
+  
+---|---  
+  
+31
+
+|
+
+In proposito, occorre ricordare che, secondo costante giurisprudenza, il
+procedimento ex articolo 267 TFUE costituisce uno strumento di cooperazione
+tra la Corte e i giudici nazionali, per mezzo del quale la prima fornisce ai
+secondi gli elementi d’interpretazione del diritto dell’Unione necessari per
+risolvere la controversia che essi sono chiamati a dirimere (v., in
+particolare, sentenze del 16 luglio 1992, Meilicke, C-83/91, Racc. pag.
+I-4871, punto 22, e del 24 marzo 2009, Danske Slagterier, C-445/06, Racc. pag.
+I-2119, punto 65).  
+  
+---|---  
+  
+32
+
+|
+
+Nell’ambito di detta cooperazione le questioni relative all’interpretazione
+del diritto dell’Unione godono di una presunzione di rilevanza. Il rigetto, da
+parte della Corte, di una domanda proposta da un giudice nazionale è possibile
+soltanto qualora appaia in modo manifesto che l’interpretazione del diritto
+dell’Unione richiesta non ha alcun rapporto con l’effettività o con l’oggetto
+della controversia principale, qualora la questione sia di tipo ipotetico o,
+ancora, qualora la Corte non disponga degli elementi di fatto e di diritto
+necessari per rispondere in modo utile alle questioni che le sono sottoposte
+(v., in tal senso, sentenze del 16 ottobre 2003, Traunfellner, C-421/01, Racc.
+pag. I-11941, punto 37; del 5 dicembre 2006, Cipolla e a., C-94/04 e C-202/04,
+Racc. pag. I-11421, punto 25, e del 1o giugno 2010, Blanco Pérez e Chao Gómez,
+C-570/07 e C-571/07, Racc. pag. I-4629, punto 36).  
+  
+---|---  
+  
+33
+
+|
+
+Tali ipotesi non ricorrono tuttavia nella fattispecie. È, infatti, pacifico
+che la domanda di registrazione del marchio è stata effettivamente presentata
+e che il Registrar l’ha rifiutata, pur discostandosi dalla propria prassi
+abituale. Inoltre, l’interpretazione del diritto dell’Unione richiesta dal
+giudice del rinvio risponde effettivamente ad una necessità oggettiva inerente
+alla soluzione di un contenzioso pendente dinanzi ad esso (v., in questo
+senso, sentenza del 22 novembre 2005, Mangold, C-144/04, Racc. pag. I-9981,
+punto 38).  
+  
+---|---  
+  
+34
+
+|
+
+Ne consegue che la presente domanda di pronuncia pregiudiziale dev’essere
+considerata ricevibile.  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+35
+
+|
+
+Con le sue tre questioni, che è opportuno esaminare congiuntamente, il giudice
+del rinvio chiede, in sostanza, se la direttiva 2008/95 debba essere
+interpretata nel senso che esige che i prodotti e i servizi per i quali è
+richiesta la protezione del marchio siano identificati con un certo grado di
+chiarezza e di precisione. In caso affermativo, il giudice del rinvio chiede
+inoltre se, tenuto conto di tali requisiti di chiarezza e di precisione, la
+direttiva 2008/95 debba essere interpretata nel senso che essa osta a che
+colui che richiede un marchio nazionale identifichi detti prodotti e servizi
+avvalendosi delle indicazioni generali dei titoli delle classi della
+classificazione di Nizza e osti altresì a che l’utilizzazione di tutte le
+indicazioni generali del titolo di una classe specifica della classificazione
+di Nizza sia considerata una rivendicazione nei confronti di tutti i prodotti
+o i servizi rientranti in quella specifica classe.  
+  
+---|---  
+  
+36
+
+|
+
+Occorre anzitutto ricordare che lo scopo della tutela conferita dal marchio,
+come è precisato all’undicesimo considerando della direttiva 2008/95, consiste
+nel garantire la funzione d’origine di quest’ultimo, ossia nel garantire al
+consumatore o all’utente finale l’identità d’origine del prodotto o servizio
+designato dal marchio, consentendogli di distinguere, senza possibile
+confusione, detto prodotto o detto servizio da quelli che hanno una diversa
+provenienza (v., in questo senso, sentenze del 29 settembre 1998, Canon,
+C-39/97, Racc. pag. I-5507, punto 28; del 12 dicembre 2002, Sieckmann,
+C-273/00, Racc. pag. I-11737, punti 34 e 35, nonché dell’11 giugno 2009,
+Chocoladefabriken Lindt & Sprüngli, C-529/07, Racc. pag. I-4893, punto 45).  
+  
+---|---  
+  
+37
+
+|
+
+Ne consegue che la registrazione di un segno come marchio deve essere sempre
+richiesta per determinati prodotti o servizi. Laddove la rappresentazione
+grafica del segno in una domanda di registrazione abbia la funzione di
+definire l’esatto oggetto della tutela conferita attraverso il marchio (v.
+sentenza Sieckmann, cit., punto 48), la portata di detta protezione è
+determinata dalla natura e dal numero dei prodotti e dei servizi che sono
+individuati nella domanda di cui trattasi.  
+  
+---|---  
+  
+Sui requisiti di chiarezza e di precisione per l’identificazione dei prodotti
+e dei servizi
+
+38
+
+|
+
+Va preliminarmente constatato che nessuna disposizione della direttiva 2008/95
+disciplina direttamente la questione dell’identificazione dei prodotti e dei
+servizi interessati.  
+  
+---|---  
+  
+39
+
+|
+
+Tale constatazione non è tuttavia sufficiente a concludere che la
+determinazione dei prodotti o dei servizi ai fini della registrazione di un
+marchio nazionale costituisca una questione che esula dall’ambito di
+applicazione della direttiva 2008/95.  
+  
+---|---  
+  
+40
+
+|
+
+Pur se è vero che dal sesto considerando della direttiva 2008/95 risulta,
+infatti, che gli Stati membri conservano piena libertà per dettare le
+disposizioni procedurali riguardanti in particolare la registrazione dei
+marchi (v., in questo senso, sentenze del 7 luglio 2005, Praktiker Bau- und
+Heimwerkermärkte, C-418/02, Racc. pag. I-5873, punto 30, e del 14 giugno 2007,
+Häupl, C-246/05, Racc. pag. I-4673, punto 26), la Corte ha già dichiarato che
+la determinazione della natura e del contenuto dei prodotti e dei servizi
+idonei ad essere tutelati da un marchio registrato non rientra tra le
+disposizioni procedurali relative alla registrazione, bensì tra i requisiti
+materiali di acquisizione del diritto conferito dal marchio (sentenza
+Praktiker Bau- und Heimwerkermärkte, cit., punto 31).  
+  
+---|---  
+  
+41
+
+|
+
+In proposito, l’ottavo considerando della direttiva 2008/95 sottolinea che la
+realizzazione degli obiettivi perseguiti dal ravvicinamento delle legislazioni
+degli Stati membri presuppone che l’acquisizione del diritto sul marchio
+registrato sia, in linea di principio, assoggettata, in tutti gli Stati
+membri, alle medesime condizioni (v., in questo senso, sentenze Sieckmann,
+cit., punto 36; del 12 febbraio 2004, Koninklijke KPN Nederland, C-363/99,
+Racc. pag. I-1619, punto 122, e del 22 settembre 2011, Budějovický Budvar,
+C-482/09, Racc. pag. I-8701, punto 31).  
+  
+---|---  
+  
+42
+
+|
+
+In riferimento ai requisiti di chiarezza e di precisione per l’identificazione
+dei prodotti e dei servizi oggetto di una domanda di registrazione di un segno
+come marchio, occorre constatare che l’applicazione di talune disposizioni
+della direttiva 2008/95 dipende in larga parte dalla questione se i prodotti o
+i servizi a cui si riferisce un marchio registrato siano indicati con
+chiarezza e precisione sufficienti.  
+  
+---|---  
+  
+43
+
+|
+
+In particolare, la questione se il marchio rientri o meno in uno degli
+impedimenti alla registrazione dei marchi o in uno dei motivi di nullità dei
+marchi registrati enunciati all’articolo 3 della direttiva 2008/95 deve essere
+valutata nel caso concreto con riferimento ai prodotti o ai servizi per i
+quali è richiesta la registrazione (v. sentenze Koninklijke KPN Nederland,
+cit., punto 33, e del 15 febbraio 2007, BVBA Management, Training en
+Consultancy, C-239/05, Racc. pag. I-1455, punto 31).  
+  
+---|---  
+  
+44
+
+|
+
+Parimenti, gli ulteriori impedimenti alla registrazione o motivi di nullità
+relativi ai conflitti con diritti anteriori previsti all’articolo 4, paragrafo
+1, della medesima direttiva presuppongono l’identità o la somiglianza dei
+prodotti o dei servizi designati dai due marchi in conflitto.  
+  
+---|---  
+  
+45
+
+|
+
+Inoltre, la Corte ha già dichiarato che, pur se non è necessario designare
+concretamente il servizio o i servizi per i quali la registrazione è
+richiesta, potendo essere sufficiente la loro identificazione mediante formule
+generali, deve, per contro, esigersi che il richiedente precisi i prodotti o i
+tipi di prodotti interessati da tali servizi mediante, ad esempio, altre
+indicazioni più precise. Siffatte precisazioni, infatti, sono idonee ad
+agevolare l’applicazione degli articoli della direttiva 2008/95 menzionati ai
+punti precedenti, senza peraltro limitare sensibilmente la tutela concessa al
+marchio (v., per analogia, sentenza Praktiker Bau- und Heimwerkermärkte, cit.,
+punti 49-51).  
+  
+---|---  
+  
+46
+
+|
+
+A tal proposito, occorre ricordare che la registrazione del marchio in un
+pubblico registro ha lo scopo di renderlo consultabile per le autorità
+competenti e per il pubblico, in particolare per gli operatori economici
+(sentenza Sieckmann, cit., punto 49, e del 24 giugno 2004, Heidelberger
+Bauchemie, C-49/02, Racc. pag. I-6129, punto 28).  
+  
+---|---  
+  
+47
+
+|
+
+Da un lato, le autorità competenti devono conoscere con chiarezza e precisione
+sufficienti i prodotti o i servizi designati da un marchio, per poter essere
+in grado di adempiere i loro obblighi relativi all’esame preliminare delle
+domande di registrazione nonché alla pubblicazione e alla tenuta di un
+registro dei marchi adeguato e preciso (v., per analogia, sentenze citate
+Sieckmann, punto 50, e Heidelberger Bauchemie, punto 29).  
+  
+---|---  
+  
+48
+
+|
+
+Dall’altro, gli operatori economici devono poter verificare con chiarezza e
+precisione le registrazioni effettuate o le domande di registrazione formulate
+dai loro concorrenti attuali o potenziali e beneficiare in tal modo di
+informazioni pertinenti riguardanti i diritti dei terzi (sentenze citate
+Sieckmann, punto 51, e Heidelberger Bauchemie, punto 30).  
+  
+---|---  
+  
+49
+
+|
+
+Di conseguenza, la direttiva 2008/95 esige che i prodotti o di servizi per i
+quali è richiesta la tutela mediante il marchio siano identificati dal
+richiedente con chiarezza e precisione sufficienti a consentire alle autorità
+competenti e agli operatori economici, su quella sola base, di determinare la
+portata della tutela richiesta.  
+  
+---|---  
+  
+Sull’impiego delle indicazioni generali di cui ai titoli delle classi della
+classificazione di Nizza
+
+50
+
+|
+
+Va osservato che la direttiva 2008/95 non contiene alcun riferimento alla
+classificazione di Nizza e, di conseguenza, non pone alcun obbligo né divieto
+per gli Stati membri di utilizzarla ai fini della registrazione dei marchi
+nazionali.  
+  
+---|---  
+  
+51
+
+|
+
+Nondimeno, l’obbligo di utilizzare tale strumento risulta dall’articolo 2,
+punto 3, dell’Accordo di Nizza il quale dispone che le amministrazioni
+competenti degli Stati dell’Unione particolare – che comprende la quasi
+totalità degli Stati membri – faranno figurare, nei titoli e nelle
+pubblicazioni ufficiali delle registrazioni dei marchi, i numeri delle classi
+della classificazione di Nizza alle quali appartengono i prodotti o i servizi
+per i quali il marchio è registrato.  
+  
+---|---  
+  
+52
+
+|
+
+In considerazione del fatto che l’Accordo di Nizza è stato adottato in
+applicazione dell’articolo 19 della Convenzione di Parigi e del fatto che la
+direttiva 2008/95, ai termini del suo tredicesimo considerando, non mira a
+pregiudicare gli obblighi per gli Stati membri derivanti dalla predetta
+Convenzione, va constatato che tale direttiva non osta a che le autorità
+nazionali competenti esigano o accettino che colui che richiede un marchio
+nazionale identifichi i prodotti o i servizi, per i quali domanda la
+protezione conferita dal marchio, utilizzando la classificazione di Nizza.  
+  
+---|---  
+  
+53
+
+|
+
+Al fine di garantire l’effetto utile della direttiva 2008/95 e il corretto
+funzionamento del sistema di registrazione dei marchi siffatta identificazione
+deve, tuttavia, soddisfare i requisiti di chiarezza e di precisione posti da
+tale direttiva, come è stato constatato al punto 49 della presente sentenza.  
+  
+---|---  
+  
+54
+
+|
+
+A tal proposito, si deve osservare che talune delle indicazioni generali che
+compaiono nei titoli delle classi della classificazione di Nizza sono, di per
+sé, sufficientemente chiare e precise da consentire alle autorità competenti e
+agli operatori economici di determinare la portata della protezione conferita
+dal marchio, mentre altre non sono idonee a soddisfare tale requisito giacché
+sono troppo generiche e comprendono prodotti o servizi troppo diversi tra loro
+per essere compatibili con la funzione d’origine del marchio.  
+  
+---|---  
+  
+55
+
+|
+
+Spetta, pertanto, alle autorità competenti compiere una valutazione caso per
+caso, sulla base dei prodotti o dei servizi per i quali il richiedente domanda
+la protezione conferita dal marchio, al fine di determinare se tali
+indicazioni soddisfino i requisiti di chiarezza e di precisione prescritti.  
+  
+---|---  
+  
+56
+
+|
+
+Di conseguenza, la direttiva 2008/95 non osta all’impiego delle indicazioni
+generali di cui ai titoli delle classi della classificazione di Nizza al fine
+di identificare i prodotti e i servizi per i quali è richiesta la tutela
+mediante il marchio, purché siffatta identificazione sia sufficientemente
+chiara e precisa da consentire alle autorità competenti e agli operatori
+economici di determinare la portata della tutela richiesta.  
+  
+---|---  
+  
+Sulla portata della protezione risultante dall’impiego di tutte le indicazioni
+generali del titolo di una classe specifica
+
+57
+
+|
+
+Si deve ricordare che la Corte ha già dichiarato che è possibile richiedere la
+registrazione di un marchio per l’integralità dei prodotti o dei servizi
+compresi in una classe della classificazione di Nizza oppure soltanto per
+taluni di tali prodotti o servizi (v., in questo senso, sentenza Koninklijke
+KPN Nederland, cit., punto, 112).  
+  
+---|---  
+  
+58
+
+|
+
+Dalla decisione di rinvio e dalle osservazioni presentate alla Corte risulta
+che riguardo all’impiego delle indicazioni generali dei titoli delle classi
+della classificazione di Nizza esistono attualmente due approcci, ossia
+l’approccio corrispondente a quello risultante dalla comunicazione n. 4/03,
+secondo cui l’impiego di tutte le indicazioni generali di cui al titolo di una
+classe specifica della classificazione di Nizza costituisce rivendicazione nei
+confronti di tutti i prodotti o i servizi rientranti in tale classe specifica,
+e l’approccio letterale, che mira ad attribuire ai termini utilizzati nelle
+indicazioni il loro significato naturale ed abituale.  
+  
+---|---  
+  
+59
+
+|
+
+A tal proposito, la maggioranza delle parti presenti all’udienza ha sostenuto,
+in risposta ad un quesito posto dalla Corte, che l’esistenza parallela dei due
+approcci menzionati è atta a pregiudicare il corretto funzionamento del
+sistema dei marchi nell’Unione. In particolare, è stato sottolineato che i due
+approcci possono risultare in una divergenza di portata della tutela conferita
+da un marchio nazionale se quest’ultimo è registrato in diversi Stati membri,
+ma anche di quella di uno stesso marchio laddove esso sia registrato anche
+come marchio comunitario. Siffatta divergenza potrebbe influenzare, tra
+l’altro, l’esito di un’azione per contraffazione, potendo quest’ultima avere
+più possibilità di successo negli Stati membri che si ispirano all’approccio
+di cui alla comunicazione n. 4/03.  
+  
+---|---  
+  
+60
+
+|
+
+Inoltre, la situazione in cui la portata della protezione conferita dal
+marchio dipenda dall’approccio interpretativo adottato dall’autorità
+competente e non dall’effettiva volontà del richiedente rischia di minare la
+certezza del diritto tanto per detto richiedente quanto per gli operatori
+economici terzi.  
+  
+---|---  
+  
+61
+
+|
+
+Pertanto, al fine di rispettare i requisiti di chiarezza e di precisione,
+menzionati in precedenza, colui che richiede un marchio nazionale utilizzando
+tutte le indicazioni generali di cui al titolo di una classe specifica della
+classificazione di Nizza per identificare i prodotti o i servizi per i quali è
+richiesta la protezione del marchio deve precisare se la sua domanda di
+registrazione verta su tutti i prodotti o i servizi repertoriati nell’elenco
+alfabetico della classe specifica di cui trattasi o solo su taluni di tali
+prodotti o servizi. Laddove la domanda verta unicamente su taluni di tali
+prodotti o servizi, il richiedente ha l’obbligo di precisare quali prodotti o
+servizi rientranti in detta classe sono presi in considerazione.  
+  
+---|---  
+  
+62
+
+|
+
+Non può essere considerata sufficientemente chiara e precisa una domanda di
+registrazione che non consenta di determinare se, utilizzando il titolo di una
+classe specifica della classificazione di Nizza, il richiedente si riferisca
+all’integralità dei prodotti di tale classe o soltanto ad una parte di essi.  
+  
+---|---  
+  
+63
+
+|
+
+Pertanto, nel procedimento principale, è compito del giudice del rinvio
+determinare se il CIPA, nell’utilizzare tutte le indicazioni generali di cui
+al titolo della classe 41 della classificazione di Nizza, abbia precisato
+nella sua domanda se quest’ultima si riferisse o meno a tutti i servizi di
+tale classe e, in particolare, se la sua domanda concernesse o meno i servizi
+di traduzione.  
+  
+---|---  
+  
+64
+
+|
+
+Occorre pertanto rispondere alle questioni poste dichiarando che:
+
+|
+
+—
+
+|
+
+la direttiva 2008/95 deve essere interpretata nel senso che esige che i
+prodotti o i servizi per i quali è richiesta la tutela mediante il marchio
+siano identificati dal richiedente con chiarezza e precisione sufficienti a
+consentire alle autorità competenti e agli operatori economici, su questa sola
+base, di determinare la portata della tutela conferita dal marchio;  
+  
+---|---  
+  
+—
+
+|
+
+la direttiva 2008/95 deve essere interpretata nel senso che non osta
+all’impiego delle indicazioni generali di cui ai titoli delle classi della
+classificazione di Nizza al fine di identificare i prodotti e i servizi per i
+quali è richiesta la tutela mediante il marchio, purché siffatta
+identificazione sia sufficientemente chiara e precisa;  
+  
+---|---  
+  
+—
+
+|
+
+colui che richiede un marchio nazionale utilizzando tutte le indicazioni
+generali di cui al titolo di una classe specifica della classificazione di
+Nizza per identificare i prodotti o i servizi per i quali è richiesta la
+tutela del marchio deve precisare se la sua domanda di registrazione verta su
+tutti i prodotti o i servizi repertoriati nell’elenco alfabetico della classe
+specifica di cui trattasi o solo su taluni di tali prodotti o servizi. Laddove
+la domanda verta unicamente su taluni di tali prodotti o servizi, il
+richiedente ha l’obbligo di precisare quali prodotti o servizi rientranti in
+detta classe sono presi in considerazione.  
+  
+---|---  
+  
+Sulle spese
+
+65
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Grande Sezione) dichiara:  
+  
+---|---  
+|
+
+La direttiva 2008/95/CE del Parlamento europeo e del Consiglio, del 22 ottobre
+2008, sul ravvicinamento delle legislazioni degli Stati membri in materia di
+marchi d’impresa, deve essere interpretata nel senso che esige che i prodotti
+o i servizi per i quali è richiesta la tutela mediante il marchio siano
+identificati dal richiedente con chiarezza e precisione sufficienti a
+consentire alle autorità competenti e agli operatori economici, su questa sola
+base, di determinare la portata della tutela conferita dal marchio.  
+  
+---|---  
+|
+
+La direttiva 2008/95 deve essere interpretata nel senso che non osta
+all’impiego delle indicazioni generali dei titoli delle classi della
+classificazione di cui all’articolo 1 dell’Accordo di Nizza, sulla
+classificazione internazionale dei prodotti e dei servizi ai fini della
+registrazione dei marchi, adottato nella conferenza diplomatica di Nizza il 15
+giugno 1957, riveduto da ultimo a Ginevra il 13 maggio 1977 e modificato il 28
+settembre 1979, al fine di identificare i prodotti e i servizi per i quali è
+richiesta la tutela mediante il marchio, purché siffatta identificazione sia
+sufficientemente chiara e precisa.  
+  
+---|---  
+|
+
+Colui che richiede un marchio nazionale utilizzando tutte le indicazioni
+generali del titolo di una classe specifica della classificazione di cui
+all’articolo 1 dell’Accordo di Nizza per identificare i prodotti o i servizi
+per i quali è richiesta la protezione del marchio deve precisare se la sua
+domanda verta su tutti i prodotti o i servizi repertoriati nell’elenco
+alfabetico della classe specifica di cui trattasi o solo su taluni di tali
+prodotti o servizi. Laddove la domanda verta unicamente su taluni di tali
+prodotti o servizi, il richiedente ha l’obbligo di precisare quali prodotti o
+servizi rientranti in detta classe sono presi in considerazione.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: l’inglese.
+

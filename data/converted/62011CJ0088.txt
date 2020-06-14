@@ -56,4 +56,7 @@ L'impugnazione e respinta.
 La LG Electronics Inc. e condannata alle spese.  
   
 ---|---|---
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
 

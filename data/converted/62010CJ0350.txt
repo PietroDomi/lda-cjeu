@@ -1,0 +1,460 @@
+
+
+**Causa C ‑350/10**
+
+**Nordea Pankki Suomi Oyj**
+
+(domanda di pronuncia pregiudiziale proposta dal Korkein hallinto-oikeus)
+
+«Rinvio pregiudiziale -- Sesta direttiva IVA -- Art. 13, parte B, lett. d),
+punti 3 e 5 -- Esenzioni -- Giroconti e pagamenti -- Operazioni su titoli --
+Servizi di messaggeria elettronica per istituti di credito»
+
+Massime della sentenza
+
+_Disposizioni tributarie -- Armonizzazione delle legislazioni -- Imposte sulla
+cifra d'affari -- Sistema comune d'imposta sul valore aggiunto -- Esenzioni
+previste dalla sesta direttiva -- Operazioni bancarie di cui all'art. 13,
+parte B, lett. d), punti 3 e 5_
+
+_[Direttiva del Consiglio 77/388, art.  13, parte B, lett. d), punti 3 e 5]_
+
+L'art. 13, parte B, lett. d), punti 3 e 5, della sesta direttiva 77/388, in
+materia di armonizzazione delle legislazioni degli Stati membri relative alle
+imposte sulla cifra di affari, deve essere interpretato nel senso che
+l'esenzione dall'imposta sul valore aggiunto prevista in tale disposizione non
+copre servizi di messaggeria elettronica per istituti finanziari, come i
+servizi swift.
+
+Dal momento che i servizi swift costituiscono servizi di messaggeria
+elettronica aventi ad oggetto unicamente la trasmissione di dati, essi non
+svolgono, in quanto tali, alcuna tra le funzioni di una delle operazioni
+finanziarie di cui al citato art. 13, parte B, lett. d), punti 3 e 5, della
+sesta direttiva, cioe quelle aventi l'effetto di trasferire fondi o titoli, e
+non ne posseggono quindi le caratteristiche.
+
+(v. punti 34, 40 e dispositivo)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+28 luglio 2011 (*)
+
+«Rinvio pregiudiziale - Sesta direttiva IVA - Art. 13, parte B, lett. d),
+punti 3 e 5 - Esenzioni - Giroconti e pagamenti - Operazioni su titoli -
+Servizi di messaggeria elettronica per istituti di credito»
+
+Nel procedimento C‑350/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Korkein hallinto-oikeus (Finlandia), con
+decisione 8 luglio 2010, pervenuta in cancelleria il 12 luglio 2010, nella
+causa promossa da
+
+**Nordea Pankki Suomi Oyj** ,
+
+LA CORTE (Quarta Sezione),
+
+composta dal sig. J.‑C. Bonichot, presidente di sezione, dai sigg. K.
+Schiemann, L. Bay Larsen, dalla sig.ra C. Toader (relatore) e dal sig. E.
+Jarašiūnas, giudici,
+
+avvocato generale: sig. P. Cruz Villalon
+
+cancelliere: sig.ra C. Stromholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza del 10 maggio
+2011,
+
+considerate le osservazioni presentate:
+
+-        per la Nordea Pankki Suomi Oyj, dall'avv. L. Äarila, oikeustieteen kandidaatti;
+
+-        per il governo finlandese, dalla sig.ra H. Leppo, in qualita di agente;
+
+-        per il governo belga, dal sig. J.‑C. Halleux nonche dalle sig.re M. Jacobs e C. Pochet, in qualita di agenti;
+
+-        per il governo tedesco, dal sig. T. Henze, in qualita di agente;
+
+-        per il governo greco, dalle sig.re F. Dedousi, M. Germani e M. Tassopoulou, in qualita di agenti;
+
+-        per il governo del Regno Unito, dalla sig.ra H. Walker, in qualita di agente;
+
+-        per la Commissione europea, dal sig. I. Koskinen e dalla sig.ra L. Lozano Palacios, in qualita di agenti,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+dell'art. 13, parte B, lett. d), punti 3 e 5, della sesta direttiva del
+Consiglio 17 maggio 1977, 77/388/CEE, in materia di armonizzazione delle
+legislazioni degli Stati membri relative alle imposte sulla cifra di affari -
+Sistema comune di imposta sul valore aggiunto: base imponibile uniforme (GU L
+145, pag. 1; in prosieguo: la «sesta direttiva»).
+
+2        Tale domanda e stata presentata nell'ambito di una controversia che
+oppone la Nordea Pankki Suomi Oyj (in prosieguo: la «Nordea»)
+all'amministrazione tributaria finlandese riguardo al rigetto di una domanda
+di rimborso dell'imposta sul valore aggiunto (in prosieguo: l'«IVA»).
+
+  **Contesto normativo**
+
+  _Il diritto dell 'Unione_
+
+3        L'art. 2 della sesta direttiva prevede quanto segue:
+
+«Sono soggette all'[IVA]:
+
+1.      le cessioni di beni e le prestazioni di servizi, effettuate a titolo oneroso all'interno del paese da un soggetto passivo che agisce in quanto tale; 
+
+(...)».
+
+4        A norma dell'art. 13, parte B, della sesta direttiva:
+
+«Fatte salve altre disposizioni comunitarie, gli Stati membri esonerano, alle
+condizioni da essi stabilite per assicurare la corretta e semplice
+applicazione delle esenzioni sottoelencate e per prevenire ogni possibile
+frode, evasione ed abuso:
+
+(...)
+
+d)      le operazioni seguenti:
+
+(...)
+
+3\.       le operazioni, compresa la negoziazione, relative ai depositi di
+fondi, ai conti correnti, ai pagamenti, ai giroconti, ai crediti, agli assegni
+e ad altri effetti commerciali, ad eccezione del ricupero dei crediti;
+
+(...)
+
+5\.       le operazioni, compresa la negoziazione, eccettuate la custodia e la
+gestione, relative ad azioni, quote parti di societa o associazioni,
+obbligazioni, altri titoli, ad esclusione:
+
+-        dei titoli rappresentativi di merci;
+
+-        dei diritti o titoli di cui all'articolo 5, paragrafo 3;
+
+(...)».
+
+  _Il diritto nazionale_
+
+5        Ai sensi dell'art. 1, n. 1, punto 1, della legge relativa all'imposta
+sul valore aggiunto [Arvonlisaverolaki (1501/1993)], del 30 dicembre 1993,
+come modificata dalla legge del 29 dicembre 1994 [(1486/1994), in proseguo
+l'«AVL»], l'IVA e versata allo Stato su qualsiasi vendita di beni e servizi
+effettuata in Finlandia nell'ambito di un'attivita commerciale.
+
+6        Risulta dall'art. 9, primo comma, dell'AVL che e l'acquirente il
+soggetto passivo dell'imposta dovuta sui beni e sui servizi venduti in
+Finlandia da uno straniero, che ivi non ha una sede di attivita stabile e non
+ha chiesto di esservi registrato quale soggetto passivo sul fondamento
+dell'art. 12, secondo comma, dell'AVL.
+
+7        A norma dell'art. 41 dell'AVL, la vendita di servizi finanziari non e
+assoggettata all'IVA. Risulta dall'art. 42, n. 1, punti 4 e 6, della stessa
+legge che i servizi finanziari includono le operazioni di pagamento e le
+operazioni su titoli.
+
+8        L'art. 42, terzo comma, dell'AVL prevede che le operazioni su titoli
+includono la vendita e la negoziazione di azioni e titoli comparabili nonche
+di crediti e derivati, anche smaterializzati.
+
+  **Controversia nella causa principale e questione pregiudiziale**
+
+9        La Nordea e la filiale finlandese della Nordea Bank AB, con sede in
+Svezia. Si tratta di una banca commerciale che esercita attivita concernenti
+tanto la clientela privata che le imprese. Fra le altre attivita bancarie,
+essa provvede all'acquisto ed alla negoziazione di titoli nonche di divise e
+fornisce anche servizi di investimenti e fiduciari. La Nordea e il
+rappresentante di un raggruppamento di soggetti passivi dell'IVA costituito
+dal gruppo Nordea.
+
+10      La Nordea ha acquistato servizi dalla Society for Worldwide Interbank
+Financial Telecommunication - SWIFT SC (in prosieguo: la «SWIFT»), una
+cooperativa posseduta insieme da piu di duemila istituti finanziari ripartiti
+tra piu di duecento paesi.
+
+11      La SWIFT gestisce un servizio mondiale di messaggeria elettronica per
+organismi finanziari (in prosieguo: i «servizi swift) che permette a piu di
+novemila banche, istituti finanziari e di gestione di titoli nonche di altre
+societa clienti di scambiare tra loro messaggi finanziari standardizzati
+tramite un software sviluppato dall'impresa stessa e la sua rete
+internazionale criptata di trasmissione di dati. Grazie a tale rete di
+trasmissione di dati che ha istituito e di cui assicura la manutenzione, la
+SWIFT provvede in particolare al trattamento di messaggi concernenti pagamenti
+interbancari ed operazioni su titoli. Gli organismi finanziari aderenti alla
+SWIFT sono connessi alla rete attraverso le proprie installazioni
+informatiche, grazie ad una connessione specifica («gateway»). L'impresa in
+questione esige dai suoi clienti, al fine di accedere ai suoi servizi,
+l'impiego di apparecchiature informatiche da essa previamente autorizzate.
+
+12      I pagamenti interbancari possono essere suddivisi tra pagamenti
+nazionali e pagamenti internazionali. I servizi swift sono utilizzati
+soprattutto per i pagamenti internazionali, ma la proporzione di pagamenti
+nazionali tenderebbe all'aumento.
+
+13      Secondo il giudice del rinvio il procedimento di trasmissione di
+messaggi concernenti i pagamenti interbancari prevede che, quando un messaggio
+e inviato sulla rete SWIFT, la banca emittente riceve una prima conferma
+(«acknowledgment») attestante che il messaggio e stato ricevuto ai fini del
+trattamento da parte della SWIFT. Dalla formalita in parola scaturisce la
+responsabilita finanziaria della SWIFT per la trasmissione del messaggio
+stesso e per la realizzazione dell'operazione conformemente a quest'ultimo.
+Dopo l'arrivo della prima conferma, l'operazione indicata nel messaggio
+diviene irrevocabile. A partire dal momento in cui la banca destinataria
+conferma al sistema di aver ricevuto il suddetto messaggio, viene meno la
+responsabilita della SWIFT per la realizzazione dell'operazione. In pari tempo
+la SWIFT invia alla banca che ha emesso l'ordine un'attestazione di
+ricevimento del messaggio.
+
+14      Oltre alle precedenti operazioni di pagamento, i servizi swift sono
+utilizzati anche per realizzare operazioni transfrontaliere su titoli. Secondo
+il giudice del rinvio solo la registrazione delle azioni sul conto titoli del
+cliente realizzata tramite i servizi swift fornisce una protezione contro i
+terzi, anche se il diritto di proprieta dei titoli e gia trasferito al momento
+della realizzazione dell'operazione in borsa. La responsabilita della SWIFT
+per i messaggi connessi ad operazioni su titoli e simile a quella descritta
+per i pagamenti interbancari.
+
+15      Al fine di garantire il segreto bancario, la SWIFT puo e deve accedere
+solo alle zone dei messaggi necessari per assicurare la loro conformita alle
+norme di trasmissione dei messaggi.
+
+16      Le spese della Nordea per i servizi swift, la connessione ai servizi
+stessi ed il suo mantenimento hanno ammontato ad EUR 1 999 559,96 per
+l'esercizio 2001. In applicazione del meccanismo di autoliquidazione, sono
+stati pagati su tale somma EUR 439 903,19 di IVA.
+
+17      Con decisione 22 febbraio 2006, il Konserniverokeskus (Centro fiscale
+per i raggruppamenti di imprese) ha respinto la domanda di rimborso dell'IVA
+presentata dalla Nordea per l'esercizio 2001. La domanda verteva sull'IVA
+pagata per i servizi swift nel dicembre 2001.
+
+18      La Nordea ha adito lo Helsingin hallinto-oikeus (tribunale
+amministrativo di Helsinki) al fine di ottenere l'annullamento della decisione
+del Konserniverokeskus ed il rimborso dell'IVA da essa versata per i servizi
+swift in applicazione del meccanismo di autoliquidazione.
+
+19      Con decisione 29 febbraio 2008, lo Helsingin hallinto-oikeus ha
+respinto il ricorso della Nordea fondandosi sulle disposizioni applicabili del
+diritto nazionale, sull'art. 13, parte B, lett. d), punto 3, della sesta
+direttiva, nonche sulla sentenza 5 giugno 1997, causa C‑2/95, SDC (Racc. pag.
+I‑3017).
+
+20      Avverso quest'ultima decisione, la Nordea ha proposto un ricorso per
+cassazione dinanzi al Korkein hallinto-oikeus che ha deciso di sospendere il
+procedimento e di sottoporre alla Corte la seguente questione pregiudiziale:
+
+«Se l'art. 13, parte B, lett. d), punti 3 e 5, della sesta direttiva (...)
+debba essere interpretato nel senso che sono esentati dall'imposta sul valore
+aggiunto i servizi swift, descritti al punto 1 della presente decisione, ai
+quali si ricorre nello svolgimento di pagamenti e operazioni su titoli tra
+istituti di credito».
+
+  **Sulla questione pregiudiziale**
+
+  _Osservazioni preliminari_
+
+21      Prima di analizzare il fondamento normativo di un'eventuale esenzione
+dei servizi swift, come quelli in discussione nella causa principale, occorre
+precisare che i servizi di cui trattasi rientrano, il che e pacifico,
+nell'ambito di applicazione della sesta direttiva, in quanto costituiscono una
+prestazione di servizi effettuata a titolo oneroso ai sensi dell'art. 2, punto
+1, di quest'ultima, tenuto conto della circostanza che tra gli istituti di
+credito clienti e la SWIFT intercorre un rapporto giuridico e che il prezzo
+che quest'ultima riceve dai suoi clienti rappresenta il controvalore effettivo
+dei servizi forniti a questi ultimi dalla stessa impresa (v., in tal senso,
+sentenza 10 marzo 2011, causa C‑540/09, Skandinaviska Enskilda Banken, non
+ancora pubblicata nella Raccolta, punto 18 e giurisprudenza ivi citata).
+
+22      Occorre rammentare che, secondo la giurisprudenza della Corte, le
+esenzioni di cui all'art. 13 della sesta direttiva costituiscono nozioni
+autonome del diritto dell'Unione, che mirano ad evitare divergenze
+nell'applicazione del sistema dell'IVA da uno Stato membro all'altro (v.
+sentenza Skandinaviska Enskilda Banken, cit., punto 19 e giurisprudenza ivi
+citata).
+
+23      È opportuno anche ricordare che i termini con i quali sono state
+enunciate le esenzioni di cui all'art. 13 della sesta direttiva devono essere
+interpretati restrittivamente, dato che tali esenzioni costituiscono deroghe
+al principio generale secondo cui l'IVA e riscossa per ogni prestazione di
+servizi effettuata a titolo oneroso da un soggetto passivo (v., in tal senso,
+sentenza Skandinaviska Enskilda Banken, cit., punto 20 e giurisprudenza ivi
+citata).
+
+  _Sull 'esenzione dall'IVA dei servizi swift_
+
+24      In base ad una giurisprudenza consolidata, per essere considerate
+operazioni esenti ai sensi dell'art. 13, parte B, lett. d), punti 3 e 5, della
+sesta direttiva, i servizi forniti devono formare un insieme distinto,
+valutato globalmente, che abbia l'effetto di adempiere le funzioni specifiche
+ed essenziali di un servizio descritto da tali punti. Per quanto riguarda le
+operazioni relative ai giroconti, ai sensi dell'art. 13, parte B, lett. d),
+punto 3, di detta direttiva, i servizi forniti devono essere idonei ad operare
+trasferimenti di fondi ed a implicare modifiche giuridiche ed economiche.
+Occorre distinguere il servizio esente, ai sensi della sesta direttiva, dalla
+fornitura di una semplice prestazione materiale o tecnica, come il mettere a
+disposizione della banca un sistema informatico. A tale scopo il giudice
+nazionale deve esaminare in particolare il grado di responsabilita del
+prestatario di servizi nei confronti delle banche, segnatamente se questa
+responsabilita sia limitata agli aspetti tecnici o si estenda agli elementi
+specifici ed essenziali delle operazioni (v., in tal senso, sentenze SDC,
+cit., punto 66, nonche 13 dicembre 2001, causa C‑235/00, CSC Financial
+Services, Racc. pag. I‑10237, punti 25 e 26).
+
+25      La Corte ha anche dichiarato che il giroconto e un'operazione
+consistente nell'esecuzione di un ordine di trasferimento di una somma di
+denaro da un conto bancario ad un altro. Esso si caratterizza segnatamente per
+il fatto di implicare il mutamento del rapporto giuridico ed economico in
+atto, da un lato, tra il mandante e il beneficiario e, dall'altro, tra costoro
+e la loro rispettiva banca nonche, eventualmente, tra le banche. Inoltre,
+l'operazione che implica questo mutamento e il semplice trasferimento dei
+fondi tra i conti, indipendentemente dalla sua causale (v., in tal senso,
+sentenza SDC, cit., punto 53).
+
+26      Inoltre, secondo la giurisprudenza della Corte, l'esame in parola
+relativo alle operazioni concernenti i giroconti o i pagamenti ai sensi
+dell'art. 13, parte B, lett. d), punto 3, della sesta direttiva vale in linea
+di principio, mutatis mutandis, per le operazioni su titoli ai sensi dell'art.
+13, parte B, lett. d), punto 5, della medesima direttiva (v., in tal senso,
+citate sentenze CSC Financial Services, punto 27, e Skandinaviska Enskilda
+Banken, punto 33).
+
+27      Cosi niente osta a che servizi affidati ad operatori esterni agli
+istituti di credito, i quali pertanto non intrattengono un rapporto diretto
+con i clienti dei suddetti istituti, siano esentati dall'IVA (v., in tal
+senso, sentenza SDC, cit., punto 59) a condizione che tali servizi formino un
+insieme distinto, visto nella sua globalita, che sia idoneo a svolgere le
+funzioni specifiche ed essenziali delle operazioni finanziarie previste
+all'art. 13, parte B, lett. d), punti 3 e 5, della sesta direttiva.
+
+28      Al fine di poter valutare se i servizi swift rispondano ad un criterio
+del genere, si deve esaminare, da una parte, se la fornitura dei servizi in
+questione possa implicare modifiche giuridiche ed economiche analoghe alle
+modifiche generate dai pagamenti interbancari o dalle operazioni su titoli in
+quanto tali e, dall'altra, se la responsabilita della SWIFT verso i suoi
+clienti si limiti agli aspetti tecnici o si estenda agli elementi specifici ed
+essenziali delle suddette operazioni finanziarie.
+
+29      Quanto al primo aspetto, la Nordea fa valere, da un lato che, senza i
+servizi swift, i pagamenti internazionali o le operazioni transfrontaliere sui
+titoli sarebbero in pratica impossibili e, dall'altro, che solo la
+registrazione dei titoli sul conto titoli del cliente fornisce la protezione
+contro i terzi, anche se il diritto di proprieta dei titoli e gia trasferito
+al momento della realizzazione dell'operazione in borsa, prima della
+trasmissione dei messaggi inviati sulla rete della SWIFT, talche i servizi in
+parola influiscono implicitamente sulla situazione giuridica ed economica
+degli istituti di credito nonche su quella dei loro clienti.
+
+30      Tuttavia, come indicato dal giudice del rinvio, da tutti gli Stati
+membri che hanno presentato osservazioni e dalla Commissione europea, senza
+che cio sia contestato dalla Nordea, i servizi swift sono servizi di
+messaggeria elettronica tramite i quali gli ordini di pagamento e gli ordini
+concernenti le operazioni su titoli sono trasmessi da un istituto di credito
+all'altro in maniera sicura ed affidabile, dato che la SWIFT non dispone di un
+accesso al contenuto stesso dei messaggi cosi trasmessi.
+
+31      Pur supponendo, come sostiene la Nordea, che i servizi swift siano, su
+numerosi mercati, indispensabili e gli unici disponibili, cio non toglie che
+il mero fatto che un componente sia indispensabile alla realizzazione di
+un'operazione esente non consente di concludere a favore dell'esenzione del
+servizio corrispondente a detto componente (v. sentenza SDC, cit., punto 65).
+
+32      Non e neppure posto in dubbio che, se e vero che gli ordini di
+trasferimento di fondi o quelli volti ad effettuare talune operazioni su
+titoli devono essere trasmessi attraverso i sistemi informatici autorizzati
+dalla SWIFT affinche la loro sicurezza sia garantita, il trasferimento dei
+diritti di proprieta relativi ai suddetti fondi o, all'occorrenza, titoli, e
+operato solo dagli istituti di credito medesimi nell'ambito dei rapporti
+giuridici con i rispettivi clienti.
+
+33      Dalla giurisprudenza citata ai punti 24‑26 della presente sentenza,
+emerge anche che le modifiche giuridiche ed economiche tali da poter
+caratterizzare un'operazione esente da IVA risultano soltanto dal
+trasferimento di proprieta, effettivo o potenziale, relativamente ai fondi o
+ai titoli, senza che sia necessaria l'opponibilita ai terzi dell'operazione
+cosi realizzata.
+
+34      Di conseguenza i servizi swift, dal momento che sono servizi di
+messaggeria elettronica aventi ad oggetto unicamente la trasmissione di dati,
+non svolgono, in quanto tali, alcuna tra le funzioni di una delle operazioni
+finanziarie di cui all'art. 13, parte B, lett. d), punti 3 e 5, della sesta
+direttiva, cioe quelle aventi l'effetto di trasferire fondi o titoli, e non ne
+posseggono quindi le caratteristiche.
+
+35      Circa il secondo aspetto, la Nordea sostiene che la responsabilita
+economica molto ampia della SWIFT per la trasmissione corretta e sicura di
+messaggi finanziari, comportante un tetto annuo di EUR 75 milioni per
+incidente e di EUR 150 milioni all'anno, nonche il ruolo della SWIFT quale
+garante della regolarita dei trasferimenti finanziari, implicano che i servizi
+swift non sono servizi meramente tecnici.
+
+36      Nondimeno l'importanza delle conseguenze finanziarie della
+responsabilita della SWIFT non puo essere rilevante al fine di poter valutare
+se la responsabilita in parola si estenda agli elementi specifici ed
+essenziali delle operazioni finanziarie di cui alla causa principale.
+
+37      Inoltre, come ha fatto valere il governo belga, a norma del punto 4
+delle condizioni contrattuali generali della SWIFT («Swift General Terms and
+Conditions») del 1° gennaio 2010, disponibili sul sito Internet della SWIFT,
+gli obblighi contrattuali di tale impresa si limitano agli aspetti tecnici dei
+servizi di messaggeria, in particolare alle messa in opera, all'attivazione,
+al raccordo, alla manutenzione ed alla licenza del software, con la
+conseguenza che la SWIFT ha solo una responsabilita concernente la
+trasmissione in buona e debita forma dei messaggi finanziari per il tramite di
+un sistema informatico autorizzato.
+
+38      Pertanto, come emerge dall'insegnamento tratto dal punto 34 della
+presente sentenza e come sostenuto da tutti gli Stati membri che hanno
+presentato osservazioni nonche dalla Commissione, la responsabilita
+contrattuale della SWIFT verso la Nordea concerne soltanto l'obbligo di
+garantire la sicurezza e la leggibilita dei dati trasmessi nonche l'obbligo di
+risarcire gli eventuali danni causati da una trasmissione carente o tardiva
+dei dati.
+
+39      Occorre quindi constatare che, nella causa principale, la
+responsabilita della SWIFT si limita agli aspetti tecnici e non si estende
+agli elementi specifici ed essenziali delle operazioni finanziarie di cui alla
+causa principale.
+
+40      Tenuto conto dell'insieme delle precedenti considerazioni, occorre
+risolvere la questione sollevata dichiarando che l'art. 13, parte B, lett. d),
+punti 3 e 5, della sesta direttiva deve essere interpretato nel senso che
+l'esenzione dall'IVA prevista in tale disposizione non copre servizi swift,
+come quelli di cui alla causa principale.
+
+  **Sulle spese**
+
+41      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:
+
+**L 'art. 13, parte B, lett. d), punti 3 e 5, della sesta direttiva del
+Consiglio 17 maggio 1977, 77/388/CEE, in materia di armonizzazione delle
+legislazioni degli Stati membri relative alle imposte sulla cifra di affari -
+Sistema comune di imposta sul valore aggiunto: base imponibile uniforme, deve
+essere interpretato nel senso che l'esenzione dall'imposta sul valore aggiunto
+prevista in tale disposizione non copre servizi di messaggeria elettronica per
+istituti finanziari, come quelli di cui alla causa principale.**
+
+Firme
+
+* * *
+
+* Lingua processuale: il finlandese. 
+

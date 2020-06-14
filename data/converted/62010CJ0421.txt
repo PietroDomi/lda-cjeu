@@ -1,0 +1,480 @@
+
+
+**Causa C ‑421/10**
+
+**Finanzamt Deggendorf**
+
+**contro**
+
+**Markus Stoppelkamp, in qualit a di curatore fallimentare del patrimonio di
+Harald Raab **
+
+(domanda di pronuncia pregiudiziale proposta dal Bundesfinanzhof)
+
+«IVA -- Sesta direttiva -- Art. 21, n. 1, lett. b) -- Determinazione del luogo
+di riferimento fiscale -- Servizi svolti da un prestatore residente nello
+stesso paese del destinatario ma che ha stabilito la sede della propria
+attivita economica in un altro paese -- Nozione di "soggetto passivo residente
+all'estero"»
+
+Massime della sentenza
+
+_Disposizioni tributarie -- Armonizzazione delle legislazioni -- Imposte sulla
+cifra d'affari -- Sistema comune d'imposta sul valore aggiunto -- Debitori
+dell'imposta_
+
+_[Direttiva del Consiglio 77/388, art.  21, n. 1, lett. b)]_
+
+L'art. 21, n. 1, lett. b), della sesta direttiva 77/388, in materia di
+armonizzazione delle legislazioni degli Stati membri relative alle imposte
+sulla cifra di affari, come modificata dalla direttiva 2000/65, deve essere
+interpretato nel senso che, per essere considerato un soggetto passivo non
+residente all'interno del paese, e sufficiente che il soggetto passivo in
+questione abbia stabilito la sede della propria attivita economica al di fuori
+di tale paese.
+
+In particolare, in una situazione caratterizzata, da un lato, dal fatto che la
+sede dell'attivita economica del soggetto passivo e nota e si trova
+all'esterno del paese del destinatario e, dall'altro, dalla circostanza che
+non e contestato che si tratta della sede effettiva e reale e non di una sede
+o di un insediamento fittizi, non si puo tener conto di un'eventuale residenza
+privata del soggetto passivo all'interno di tale paese.
+
+La presunzione che i servizi siano forniti da un soggetto passivo non
+residente all'interno del paese allorche la sede dell'attivita economica di
+detto soggetto passivo e situata al di fuori di tale paese, indipendentemente
+dal luogo in cui si trova la sua residenza privata, consente di evitare al
+destinatario residente in un paese, il quale e consapevole del fatto che il
+prestatore ha la sede della propria attivita economica al di fuori di tale
+paese, di dover intraprendere ricerche relative alla residenza privata di
+detto prestatore e contribuisce pertanto a garantire una riscossione
+affidabile e corretta dell'imposta sul valore aggiunto.
+
+(v. punti 28, 34-36 e dispositivo)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+6 ottobre 2011 (*)
+
+«IVA - Sesta direttiva - Art. 21, n. 1, lett. b) - Determinazione del luogo di
+riferimento fiscale - Servizi svolti da un prestatore residente nello stesso
+paese del destinatario ma che ha stabilito la sede della propria attivita
+economica in un altro paese - Nozione di "soggetto passivo residente
+all'estero"»
+
+Nel procedimento C‑421/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Bundesfinanzhof (Germania), con decisione 30
+giugno 2010, pervenuta in cancelleria il 25 agosto 2010, nella causa
+
+**Finanzamt Deggendorf**
+
+contro
+
+**Markus Stoppelkamp,** in qualita di curatore fallimentare del patrimonio di
+Harald Raab,
+
+LA CORTE (Quinta Sezione),
+
+composta dal sig. J.‑J. Kasel (relatore), presidente di sezione, dai sigg. E.
+Levits e M. Safjan, giudici,
+
+avvocato generale: sig. J. Mazak
+
+cancelliere: sig. A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+-        per il governo tedesco, dai sigg. C. Blaschke e T. Henze, in qualita di agenti;
+
+-        per il governo ellenico, dalle sig.re F. Dedousi e I. Pouli, nonche dal sig. I. Bakopoulos, in qualita di agenti;
+
+-        per la Commissione europea, dal sig. W. Molls e dalla sig.ra L. Lozano Palacios, in qualita di agenti,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+dell'art. 21, n. 1, lett. b), della sesta direttiva del Consiglio 17 maggio
+1977, 77/388/CEE, in materia di armonizzazione delle legislazioni degli Stati
+membri relative alle imposte sulla cifra di affari - Sistema comune di imposta
+sul valore aggiunto: base imponibile uniforme (GU L 145, pag. 1), come
+modificata dalla direttiva del Consiglio 17 ottobre 2000, 2000/65/CE (GU L
+269, pag. 44; in prosieguo: la «sesta direttiva»).
+
+2        Tale domanda e stata presentata nell'ambito di una controversia tra
+il sig. Stoppelkamp, in qualita di curatore fallimentare del patrimonio del
+sig. Raab ed il Finanzamt Deggendorf (in prosieguo: il «Finanzamt»), in merito
+alla determinazione del soggetto passivo dell'imposta sul valore aggiunto (in
+prosieguo: l'«IVA») sulle prestazioni di servizi fornite dal sig. Raab.
+
+  **Contesto normativo**
+
+  _Il diritto dell 'Unione_
+
+3        L'art. 4, n. 1, della sesta direttiva recita:
+
+«Si considera soggetto passivo chiunque esercita in modo indipendente e in
+qualsiasi luogo una delle attivita economiche di cui al paragrafo 2,
+indipendentemente dallo scopo o dai risultati di detta attivita».
+
+4        L'art. 9, n. 1, della sesta direttiva cosi dispone:
+
+«Si considera luogo di una prestazione di servizi il luogo in cui il
+prestatore ha fissato la sede della propria attivita economica o ha costituito
+un centro di attivita stabile, a partire dal quale la prestazione di servizi
+viene resa o, in mancanza di tale sede o di tale centro di attivita stabile,
+il luogo del suo domicilio o della sua residenza abituale».
+
+5        L'art. 9, n. 2, lett. e), della sesta direttiva prevede:
+
+«Tuttavia:
+
+(…)
+
+e)      il luogo delle seguenti prestazioni di servizi, rese a destinatari
+stabiliti fuori della Comunita o a soggetti passivi stabiliti nella Comunita,
+ma fuori del paese del prestatore, e quello in cui il destinatario ha
+stabilito la sede della sua attivita economica o ha costituito un centro di
+attivita stabile per il quale si e avuta la prestazione di servizi o, in
+mancanza di tale sede o di tale centro d'attivita stabile, il luogo del suo
+domicilio o della sua residenza abituale:
+
+(…)
+
+-       messa a disposizione di personale;
+
+(…)».
+
+6        L'art. 21 della sesta direttiva dispone quanto segue:
+
+«1\. L'imposta sul valore aggiunto e dovuta in regime interno:
+
+a)      dal soggetto passivo che effettua una cessione di beni o una
+prestazione di servizi imponibile, diversa da quelle di cui alle lettere b) e
+c).
+
+         Se la cessione di beni o la prestazione di servizi imponibile e effettuata da un soggetto passivo non residente nel territorio del paese, gli Stati membri possono, alle condizioni da essi stabilite, prevedere che il debitore dell'imposta e il destinatario della cessione di beni o della prestazione di servizi imponibile; 
+
+b)      dai destinatari soggetti passivi di un servizio di cui all'articolo 9,
+paragrafo 2, lettera e), o dai destinatari, iscritti al registro dell'imposta
+sul valore aggiunto all'interno del paese, di un servizio di cui all'articolo
+28 ter, C, D, E ed F, se i servizi sono effettuati da un soggetto passivo non
+residente all'interno del paese;
+
+(…)».
+
+7        L'art. 1 dell'ottava direttiva del Consiglio 6 dicembre 1979,
+79/1072/CEE, in materia di armonizzazione delle legislazioni degli Stati
+Membri relative alle imposte sulla cifra di affari - Modalita per il rimborso
+dell'imposta sul valore aggiunto ai soggetti passivi non residenti all'interno
+del paese (GU L 331, pag. 11; in prosieguo: l'«ottava direttiva»), cosi
+prevede:
+
+«Ai fini dell'applicazione della presente direttiva, si considera soggetto
+passivo non residente all'interno del paese il soggetto passivo di cui
+all'articolo 4, paragrafo 1, della direttiva 77/388/CEE che, nel corso del
+periodo di cui all'articolo 7, paragrafo 1, primo comma, prima e seconda
+frase, non ha fissato in tale paese ne la sede della propria attivita
+economica ne costituito un centro di attivita stabile dal quale sono svolte le
+operazioni ne, in mancanza di detta sede o di detto centro di attivita
+stabile, il suo domicilio o la sua residenza abituale e che, nel corso del
+medesimo periodo, non ha effettuato alcuna cessione di beni o prestazioni di
+servizi che si consideri localizzata in tale paese, ad eccezione:
+
+a)      delle prestazioni di trasporto e delle prestazioni di servizi ad esse
+accessorie, esentate ai sensi dell'articolo 14, paragrafo 1, lettera i),
+dell'articolo 15 o dell'articolo 16, paragrafo 1, B, C, e D della direttiva
+77/388/CEE,
+
+b)      delle prestazioni di servizi nei casi in cui l'imposta e dovuta
+unicamente dal destinatario ai sensi dell'articolo 21, paragrafo 1, lettera
+b), della direttiva 77/388/CEE».
+
+  _La normativa nazionale_
+
+8        L'art. 1, n. 1, punto 1, primo periodo, della legge relativa
+all'imposta sulla cifra d'affari (Umsatzsteuergesetz 1999; BGBl. 1999 I, pag.
+1270), nella versione applicabile alla causa principale (in prosieguo:
+l'«UStG»), prevede che «le cessioni e altre prestazioni effettuate da un
+imprenditore a titolo oneroso nel territorio nazionale nell'ambito della
+propria attivita di impresa» sono soggette all'IVA.
+
+9        L'art. 3 bis dell'UStG dispone quanto segue:
+
+«1\. Una prestazione di servizi e effettuata nel luogo in cui l'imprenditore
+esercita la sua attivita, fatti salvi gli artt. 3 ter e 3 septies. Qualora
+detta prestazione venga effettuata da uno stabilimento dell'impresa,
+quest'ultimo e considerato il luogo della prestazione.
+
+(…)
+
+3.      Se il destinatario di una delle altre prestazioni menzionate al n. 4 e un imprenditore, la prestazione, in deroga al n. 1, si considera fornita nel luogo in cui il destinatario esercita la sua attivita. Qualora la prestazione sia fornita allo stabilimento di un'impresa e invece determinante il luogo in cui si trova lo stabilimento. Qualora il destinatario di una delle prestazioni menzionate al n. 4 non sia un imprenditore e abbia la propria residenza o la propria sede nel territorio di uno Stato terzo, la prestazione si considera eseguita presso la sua residenza o sede. (…) 
+
+4.      Sono "altre prestazioni" ai sensi del n. 3:
+
+(…)
+
+7)      la messa a disposizione di personale;
+
+(…)».
+
+10      L'art. 13 ter, n. 4, dell'UStG recita:
+
+«Per imprenditore non stabilito all'interno del paese si intende
+l'imprenditore che non ha domicilio, sede, direzione o filiale nel territorio
+nazionale, sull'isola di Helgoland o in uno dei territori di cui all'art. 1,
+n. 3\. Decisivo, al fine di tale determinazione, e il momento in cui viene
+fornita la prestazione. Qualora non sia chiaro se l'imprenditore si trovi o
+meno nella situazione descritta, il destinatario del servizio non e debitore
+dell'imposta solo quando l'imprenditore gli provi, sulla base di una
+certificazione rilasciatagli in conformita con la normativa fiscale
+dall'ufficio delle imposte competente, di non essere un imprenditore ai sensi
+della prima frase del presente numero».
+
+  **Causa principale e questione pregiudiziale**
+
+11      Nel 2002, il sig. Raab ha trasferito dalla Germania all'Austria la
+sede della propria attivita economica. Egli ha infatti dichiarato, in due
+localita austriache, di esercitare un'attivita professionale definita
+«Überstellungs-, Administrations- und Fahrdienst» (servizi di trasferimento,
+amministrazione e trasporto). La sua attivita economica consisteva nel mettere
+i propri impiegati a disposizione di imprese stabilite in Bassa Baviera al
+fine di esercitare attivita di trasporto sul territorio tedesco.
+
+12      Il 1° luglio 2002, il sig. Raab ha altresi trasferito la propria
+residenza dalla Germania all'Austria. Tuttavia, secondo gli accertamenti
+svolti dalle competenti autorita doganali, anche dopo tale cambio di
+residenza, il sig. Raab continuava ancora a soggiornare frequentemente in
+Germania.
+
+13      L'amministrazione tributaria austriaca ha assegnato un numero di
+identificazione IVA al sig. Raab, il quale fatturava le proprie prestazioni
+alle imprese di trasporto tedesche al netto dell'IVA, con la menzione «imposta
+dovuta dal destinatario della prestazione ai sensi dell'art. 13 ter
+dell'UStG».
+
+14      Il Finanzamt ha considerato che non erano soddisfatte le condizioni
+per il ricorso al meccanismo di autoliquidazione da parte del destinatario,
+conformemente all'art. 13 ter, n. 1, prima frase, punto 1, dell'UStG, in
+combinato disposto con il n. 4 dello stesso articolo. Secondo il Finanzamt, il
+sig. Raab non era un soggetto passivo residente all'estero, poiche, durante
+l'anno in questione, aveva avuto la propria residenza privata all'interno del
+paese. Il Finanzamt ha quindi emesso un avviso di accertamento IVA nei
+confronti del sig. Raab.
+
+15      Quest'ultimo ha proposto il ricorso nei confronti di tale avviso. Il
+giudice di primo grado ha accolto tale ricorso in quanto, nel 2002, la sede
+dell'attivita economica del sig. Raab si situava in Austria. Considerate le
+disposizioni dell'art. 21, n. 1, lett. a), secondo comma, della sesta
+direttiva, l'art. 13 ter dell'UStG doveva essere interpretato nel senso che,
+ai fini della residenza del soggetto passivo di imposta all'estero,
+rileverebbe esclusivamente la sede dell'impresa. Pertanto, allorche, come nel
+caso di specie, sussiste una sede siffatta, la contemporanea esistenza di una
+residenza privata all'interno del paese sarebbe irrilevante.
+
+16      A sostegno della propria domanda in «Revision», proposta dinanzi al
+Bundesfinanzhof, il Finanzamt fa valere che il giudice di primo grado ha
+violato l'art. 13 ter, n. 4, dell'UStG, dal quale emergerebbe chiaramente che
+non si puo considerare stabilito all'estero un imprenditore che risiede
+all'interno del paese.
+
+17      Il Bundesfinanzhof solleva dubbi quanto alla conformita della
+normativa tedesca con il diritto dell'Unione in considerazione del fatto che,
+secondo tale normativa, il criterio dell'«imprenditore residente all'estero»,
+previsto come condizione per l'applicazione del meccanismo di
+autoliquidazione, non e soddisfatto allorche l'imprenditore stabilisce la sede
+della propria attivita economica al di fuori del paese, ma risiede all'interno
+di quest'ultimo. Orbene, ai sensi dell'art. 21, n. 1, lett. b), della sesta
+direttiva, sarebbe sufficiente, affinche l'IVA sia dovuta dal destinatario
+soggetto passivo, che i servizi siano forniti da un «im Ausland ansassigen
+Steuerpflichtigen» (soggetto passivo non residente all'interno del paese).
+Tuttavia, tale nozione non sarebbe definita ne dall'art. 21 della sesta
+direttiva ne da un'altra disposizione di tale direttiva.
+
+18      Cio considerato, il Bundesfinanzhof ha deciso di sospendere il
+procedimento e di sottoporre alla Corte la seguente questione pregiudiziale:
+
+«Se un soggetto passivo possa considerarsi "un soggetto passivo non residente
+all'interno del paese" ai sensi dell'art. 21, n. 1, lett. b), della sesta
+direttiva (...) qualora la sede della sua attivita economica si trovi
+all'estero, o se debba aggiungersi, come ulteriore condizione, che egli non
+abbia la sua residenza privata all'interno del paese».
+
+  **Sulla questione pregiudiziale**
+
+19      In via preliminare, va rilevato che dalla lettura combinata dell'art.
+21, n. 1, lett. b), della sesta direttiva, e segnatamente delle versioni di
+lingua tedesca e francese, risulta che, nella fattispecie, la versione in
+lingua tedesca non impiega l'espressione «assujetti non etabli a l'interieur
+du pays» («soggetto passivo non residente all'interno del paese»). Detta
+versione impiega invece l'espressione «im Ausland ansassigen
+Steuerpflichtigen» la cui traduzione letterale e «soggetto passivo residente
+all'estero».
+
+20      Occorre quindi ritenere che la questione pregiudiziale sia diretta
+sostanzialmente a sapere se l'art. 21, n. 1, lett. b), della sesta direttiva
+debba essere interpretato nel senso che, per essere considerato un «im Ausland
+ansassigen Steuerpflichtigen» (soggetto passivo non residente all'interno del
+paese), ai sensi della versione in lingua tedesca di tale disposizione, sia
+sufficiente che il soggetto passivo in questione abbia stabilito la sede della
+propria attivita economica al di fuori di tale paese, ovvero se occorra
+ulteriormente che egli non abbia la propria residenza all'interno di detto
+paese.
+
+21      A tal riguardo, si deve rilevare, come fa il giudice del rinvio, che
+nella versione in lingua tedesca della sesta direttiva non esiste una
+definizione della nozione di «soggetto passivo residente all'estero».
+
+22      Tuttavia, e giocoforza constatare che la nozione in questione era
+contenuta, prima dell'introduzione delle modifiche apportate dalla direttiva
+2000/65, oltre che nella versione in lingua tedesca, anche nelle versioni in
+lingua spagnola, danese, inglese, francese, italiana, olandese, portoghese e
+svedese dell'art. 21, n. 1, lett. b), della sesta direttiva. Orbene, a seguito
+dell'entrata in vigore di tale direttiva di modifica, tutte tali versioni
+linguistiche impiegano ormai, contrariamente alla versione in lingua tedesca,
+la nozione corrispondente a «soggetto passivo non residente all'interno del
+paese».
+
+23      Tale nozione, a differenza di quella impiegata nella versione in
+lingua tedesca della sesta direttiva, non solo e contenuta in altre
+disposizioni di quest'ultima, segnatamente al suo art. 17, n. 4, ma ha anche
+formato oggetto di una definizione all'interno di un'altra disposizione del
+diritto dell'Unione.
+
+24      Infatti, l'art. 1 dell'ottava direttiva precisa la nozione di
+«soggetto passivo non residente all'interno del paese» (v. sentenza 16 luglio
+2009, causa C‑244/08, Commissione/Italia, punto 26).
+
+25      Ai sensi di tale articolo, la qualita di soggetto passivo non
+residente all'interno del paese presuppone che il soggetto passivo non
+disponga in tale paese, nel corso del periodo di riferimento, di alcuno dei
+criteri di collegamento ivi individuati (v., in tal senso, sentenza
+Commissione/Italia, cit., punto 27).
+
+26      Orbene, al primo posto di tali criteri figurano la sede dell'attivita
+economica e l'esistenza di un centro di attivita stabile a partire dal quale
+sono svolte le operazioni (v., in tal senso, sentenza Commissione/Italia,
+cit., punto 28).
+
+27      Come risulta dal tenore letterale dell'art. 1 dell'ottava direttiva,
+gli altri criteri di collegamento ivi menzionati, ad esempio l'esistenza del
+domicilio o della residenza abituale del soggetto passivo, possono essere
+presi in considerazione per la determinazione del luogo in cui il soggetto
+passivo e considerato «stabilito» solo in mancanza di informazioni pertinenti
+relative alla sede dell'attivita economica o al centro di attivita stabile a
+partire dal quale sono svolte le operazioni.
+
+28      Ne consegue che, in una situazione come quella di cui trattasi nella
+causa principale, caratterizzata, da un lato, dal fatto che la sede
+dell'attivita economica del soggetto passivo e nota e si trova all'esterno del
+paese del destinatario e, dall'altro, dalla circostanza che non e contestato
+che si tratta della sede effettiva e reale e non di una sede o di un
+insediamento fittizi, non si puo tener conto di un'eventuale residenza privata
+del soggetto passivo all'interno di tale paese.
+
+29      Tale conclusione e peraltro conforme alla giurisprudenza della Corte
+relativa alla determinazione, in materia di IVA, del luogo in cui ha sede
+l'attivita economica di una societa, come essa risulta segnatamente dalla
+sentenza 28 giugno 2007, causa C‑73/06, Planzer Luxembourg (Racc. pag.
+I‑5655), riguardante l'interpretazione dell'art. 1 della tredicesima direttiva
+del Consiglio 17 novembre 1986, 86/560/CEE, in materia di armonizzazione delle
+legislazioni degli Stati Membri relative alle imposte sulla cifra di affari -
+Modalita di rimborso dell'imposta sul valore aggiunto ai soggetti passivi non
+residenti nel territorio della Comunita (GU L 326, pag. 40).
+
+30      Infatti, come la Corte ha dichiarato al punto 61 di detta sentenza, la
+determinazione del luogo della sede dell'attivita economica di una societa
+implica la presa in considerazione di un complesso di fattori, al primo posto
+dei quali figurano la sede statutaria, il luogo dell'amministrazione centrale,
+il luogo di riunione dei dirigenti societari e quello, abitualmente identico,
+in cui si adotta la politica generale di tale societa.
+
+31      Altri elementi, quali il domicilio dei principali dirigenti e il luogo
+di riunione delle assemblee generali, possono essere presi in considerazione,
+in una seconda fase, qualora si tratti, ad esempio, di determinare la sede
+effettiva di una societa che dispone di un insediamento fittizio, come quello
+che caratterizza una societa «casella postale» (v., in tal senso, sentenza
+Planzer Luxembourg, cit., punti 61 e 62).
+
+32      L'interpretazione secondo cui, nell'ambito della determinazione del
+luogo di stabilimento del prestatore di servizi soggetto passivo, il luogo di
+residenza di quest'ultimo puo essere preso in considerazione solo in mancanza
+di criteri di collegamento direttamente connessi all'attivita economica svolta
+da detto prestatore, come la sede dell'attivita economica o l'esistenza di un
+centro di attivita stabile a partire dal quale sono svolte le operazioni, e
+altresi conforme alla logica sottostante all'art. 4, n. 1, della sesta
+direttiva, atteso che tale disposizione riguarda il soggetto passivo soltanto
+per quanto attiene all'attivita economica da esso svolta.
+
+33      Occorre aggiungere che l'art. 21, n. 1, lett. b), della sesta
+direttiva ha l'obiettivo di sottrarre il soggetto passivo in uno Stato membro
+all'onere di dover rispettare gli obblighi derivanti dall'art. 22 di tale
+direttiva in altri Stati membri, nei quali fornisce una prestazione o cede un
+bene. Ora, escludere l'autoliquidazione in un caso come quello di cui trattasi
+nella causa principale avrebbe l'effetto di rimettere seriamente in
+discussione la realizzazione di detto obiettivo.
+
+34      Inoltre, come ha rilevato il giudice del rinvio, l'interpretazione che
+precede e quella che offre il maggior grado di certezza del diritto, in quanto
+la presunzione che i servizi sono forniti da un «soggetto passivo non
+residente all'interno del paese» allorche la sede dell'attivita economica di
+detto soggetto passivo e situata al di fuori di tale paese, indipendentemente
+dal luogo in cui si trova la sua residenza, e tale da semplificare
+l'applicazione delle disposizioni della sesta direttiva e contribuisce
+pertanto a garantire una riscossione affidabile e corretta dell'IVA.
+
+35      Infatti, tale presunzione consente di evitare al destinatario
+residente in un paese, il quale e consapevole del fatto che il prestatore,
+come nella fattispecie di cui trattasi nella causa principale, ha la sede
+della propria attivita economica al di fuori di tale paese, di dover
+intraprendere ricerche relative alla residenza privata di detto prestatore.
+
+36      Alla luce delle considerazioni che precedono, occorre risolvere la
+questione proposta dichiarando che l'art. 21, n. 1, lett. b), della sesta
+direttiva deve essere interpretato nel senso che, per essere considerato un
+«soggetto passivo non residente all'interno del paese», e sufficiente che il
+soggetto passivo in questione abbia stabilito la sede della propria attivita
+economica al di fuori di tale paese.
+
+  **Sulle spese**
+
+37      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:
+
+**L 'art. 21, n. 1, lett. b), della sesta direttiva del Consiglio 17 maggio
+1977, 77/388/CEE, in materia di armonizzazione delle legislazioni degli Stati
+membri relative alle imposte sulla cifra di affari - Sistema comune di imposta
+sul valore aggiunto: base imponibile uniforme, come modificata dalla direttiva
+del Consiglio 17 ottobre 2000, 2000/65/CE, deve essere interpretato nel senso
+che, per essere considerato un «soggetto passivo non residente all'interno del
+paese», e sufficiente che il soggetto passivo in questione abbia stabilito la
+sede della propria attivita economica al di fuori di tale paese.**
+
+Firme
+
+* * *
+
+* Lingua processuale: il tedesco. 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

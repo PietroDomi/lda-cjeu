@@ -55,4 +55,7 @@ Il ricorso e respinto.
 L'August Storck AG e condannata alle spese.  
   
 ---|---|---
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
 

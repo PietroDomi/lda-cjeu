@@ -1,0 +1,662 @@
+
+
+**Causa C ‑274/10**
+
+**Commissione europea**
+
+**contro**
+
+**Repubblica di Ungheria**
+
+«Inadempimento di uno Stato -- Fiscalita -- IVA -- Direttiva 2006/112/CE --
+Diritto alla detrazione -- Modalita d'esercizio -- Art. 183 -- Normativa
+nazionale che consente il rimborso dell'eccedenza di IVA solo nei limiti in
+cui essa superi l'importo dell'imposta a monte risultante da operazioni che
+non hanno ancora dato luogo a pagamento»
+
+Massime della sentenza
+
+_Disposizioni tributarie -- Armonizzazione delle legislazioni -- Imposte sulla
+cifra d'affari -- Sistema comune d'imposta sul valore aggiunto -- Detrazione
+dell'imposta pagata a monte -- Restituzione dell'eccedenza_
+
+_(Direttiva del Consiglio 2006/112, art.  183)_
+
+Viene meno agli obblighi ad esso incombenti in forza della direttiva 2006/112,
+relativa al sistema comune d'imposta sul valore aggiunto, uno Stato membro il
+quale obblighi i soggetti passivi dalla cui dichiarazione fiscale emerga
+un'eccedenza, ai sensi dell'art. 183 di detta direttiva, nel corso di un
+determinato periodo d'imposta, a procedere al riporto di tale eccedenza,
+integralmente o parzialmente, al periodo d'imposta successivo, qualora non
+abbiano pagato la totalita di quanto acquistato al loro fornitore, con la
+conseguenza che, in considerazione del suddetto obbligo, taluni soggetti
+passivi, dalla cui dichiarazione fiscale emergano sistematicamente eccedenze,
+sono tenuti a effettuare piu volte il riporto al periodo d'imposta successivo.
+
+Infatti, in base al sistema instaurato dalla direttiva 2006/112, in linea di
+principio, l'imposta sul valore aggiunto diventa esigibile ed il diritto alla
+detrazione sorge e puo essere esercitato indipendentemente dal fatto che il
+corrispettivo dovuto, imposta sul valore aggiunto inclusa, per un'operazione
+sia stato gia versato o meno. Inoltre, ai sensi della medesima direttiva, solo
+in determinati, specifici casi, esplicitamente contemplati da detta direttiva,
+il diritto a detrazione e subordinato alla condizione che il corrispettivo
+dovuto per l'operazione da cui risulta l'imposta detraibile sia gia stato
+versato. Ad eccezione di questi casi particolari, detto diritto a detrazione
+sussiste indipendentemente da tale condizione. Orbene, il fatto di subordinare
+a detta condizione il rimborso di un'eccedenza di imposta sul valore aggiunto
+detraibile, che costituisce in questo modo la fase che segue al sorgere di
+tale diritto, puo avere gli stessi effetti sul diritto alla detrazione che
+avrebbe l'applicazione della medesima condizione al momento in cui lo stesso
+diritto sorge. Pertanto, esso e idoneo a rimettere in discussione l'effetto
+utile del diritto a detrazione. Di conseguenza, il pagamento del corrispettivo
+dovuto per l'operazione da cui risulta l'imposta sul valore aggiunto
+detraibile non puo costituire una modalita, ai sensi dell'art. 183 della
+direttiva 2006/112, che gli Stati membri hanno la facolta di stabilire per il
+rimborso dell'eccedenza d'imposta detraibile.
+
+(v. punti 48, 52-53, 56 e dispositivo)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+28 luglio 2011 (*)
+
+«Inadempimento di uno Stato - Fiscalita - IVA - Direttiva 2006/112/CE -
+Diritto alla detrazione - Modalita d'esercizio - Art. 183 - Normativa
+nazionale che consente il rimborso dell'eccedenza di IVA solo nei limiti in
+cui essa superi l'importo dell'imposta a monte risultante da operazioni che
+non hanno ancora dato luogo a pagamento»
+
+Nella causa C‑274/10,
+
+avente ad oggetto il ricorso per inadempimento, ai sensi dell'art. 258 TFUE,
+proposto il 1° giugno 2010,
+
+**Commissione europea** , rappresentata dai sigg. D. Triantafyllou e B. Simon,
+nonche dalla sig.ra K. Talaber-Ritz, in qualita di agenti, con domicilio
+eletto in Lussemburgo,
+
+ricorrente,
+
+contro
+
+**Repubblica di Ungheria** , rappresentata dal sig. M. Feher, dalla sig.ra K.
+Szijjarto e dal sig. G. Koos, in qualita di agenti, assistiti dalla sig.ra K.
+Magony, szakertő,
+
+convenuta,
+
+LA CORTE (Terza Sezione),
+
+composta dal sig. K. Lenaerts, presidente di sezione, dal sig. D. Švaby, dalla
+sig.ra R. Silva de Lapuerta, dai sigg. E. Juhasz e T. von Danwitz (relatore),
+giudici,
+
+avvocato generale: sig. Y. Bot
+
+cancelliere: sig. B. Fulop, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza del 14 aprile
+2011;
+
+sentite le conclusioni dell'avvocato generale, presentate all'udienza del 26
+maggio 2011,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        Con il suo ricorso, la Commissione europea chiede alla Corte di
+dichiarare che:
+
+-        obbligando i soggetti passivi dalla cui dichiarazione fiscale emerga «un'eccedenza», ai sensi dell'art. 183 della direttiva del Consiglio 28 novembre 2006, 2006/112/CE, relativa al sistema comune d'imposta sul valore aggiunto (GU L 347, pag. 1), nel corso di un determinato periodo d'imposta, a procedere al riporto di tale eccedenza, integralmente o parzialmente, al periodo d'imposta successivo, qualora non abbiano pagato la totalita di quanto acquistato dal loro fornitore, e 
+
+-        per il fatto che, in considerazione del suddetto obbligo, taluni soggetti passivi, dalla cui dichiarazione fiscale emergano sistematicamente «eccedenze», sono tenuti a effettuare piu volte il riporto di tale eccedenza al periodo d'imposta successivo, 
+
+la Repubblica di Ungheria e venuta meno agli obblighi ad essa incombenti in
+virtu della direttiva 2006/112.
+
+  **Contesto normativo**
+
+  _La normativa dell 'Unione_
+
+2        Ai termini dell'art. 62 della direttiva 2006/112:
+
+«Ai fini della presente direttiva si intende per:
+
+1)      "fatto generatore dell'imposta" il fatto per il quale si realizzano le
+condizioni di legge necessarie per l'esigibilita dell'imposta;
+
+2)      "esigibilita dell'imposta" il diritto che l'Erario puo far valere a
+norma di legge, a partire da un dato momento, presso il debitore, per il
+pagamento dell'imposta, anche se il pagamento puo essere differito».
+
+3        L'art. 63 di tale direttiva dispone che il fatto generatore
+dell'imposta si verifica e l'imposta diventa esigibile all'atto della cessione
+di beni o della prestazione di servizi.
+
+4        L'art. 66 della suddetta direttiva enuncia quanto segue:
+
+«In deroga agli articoli 63, 64 e 65, gli Stati membri possono stabilire che,
+per talune operazioni o per talune categorie di soggetti passivi, l'imposta
+diventi esigibile in uno dei momenti seguenti:
+
+a)      non oltre il momento dell'emissione della fattura;
+
+b)      non oltre il momento dell'incasso del prezzo.
+
+(...)».
+
+5        L'art. 90 della direttiva 2006/112 dispone quanto segue:
+
+«1.      In caso di annullamento, recesso, risoluzione, non pagamento totale o
+parziale o di riduzione di prezzo dopo che l'operazione e stata effettuata, la
+base imponibile viene debitamente ridotta alle condizioni stabilite dagli
+Stati membri.
+
+2.      In caso di non pagamento totale o parziale, gli Stati membri possono derogare al paragrafo 1».
+
+6        Ai termini dell'art. 167 della direttiva 2006/112, che figura nel
+capo I, intitolato «Origine e portata del diritto a detrazione» del titolo X,
+intitolato «Detrazioni», di tale direttiva, «[i]l diritto a detrazione nasce
+quando l'imposta detraibile diventa esigibile».
+
+7        Con la direttiva del Consiglio 13 luglio 2010, 2010/45/UE, recante
+modifica della direttiva 2006/112 (GU L 189, pag. 1), che deve essere recepita
+entro e non oltre il 31 dicembre 2012, e stato inserito nella direttiva
+2006/112 un art. 167 bis, il cui n. 1 ha il seguente tenore:
+
+«Gli Stati membri possono prevedere, nel quadro di un regime opzionale, che il
+diritto a detrazione di un soggetto passivo per il quale l'[imposta sul valore
+aggiunto (in prosieguo: l'«IVA»)] diventa esigibile solamente a norma
+dell'articolo 66, lettera b), sia posposto fino al pagamento dell'IVA, al suo
+fornitore/prestatore, relativa ai beni ceduti o servizi resi a detto soggetto
+passivo».
+
+8        A norma dell'art. 168 della direttiva 2006/112:
+
+«Nella misura in cui i beni e i servizi sono impiegati ai fini di sue
+operazioni soggette ad imposta, il soggetto passivo ha il diritto, nello Stato
+membro in cui effettua tali operazioni, di detrarre dall'importo dell'imposta
+di cui e debitore gli importi seguenti:
+
+a)      l'IVA dovuta o assolta in tale Stato membro per i beni che gli sono o
+gli saranno ceduti e per i servizi che gli sono o gli saranno resi da un altro
+soggetto passivo;
+
+(...)».
+
+9        L'art. 178 della direttiva 2006/112, che figura nel capo 4,
+intitolato «Modalita di esercizio del diritto a detrazione», del titolo X di
+tale direttiva, cosi recita:
+
+«Per poter esercitare il diritto a detrazione, il soggetto passivo deve
+soddisfare le condizioni seguenti:
+
+a)      per la detrazione di cui all'articolo 168, lettera a), relativa alle
+cessioni di beni e alle prestazioni di servizi, essere in possesso di una
+fattura redatta conformemente agli articoli da 220 a 236 e agli articoli 238,
+239 e 240;
+
+(...)».
+
+10      L'art. 179 di detta direttiva cosi prevede:
+
+«Il soggetto passivo opera la detrazione globalmente, sottraendo dall'importo
+dell'imposta dovuta per un periodo d'imposta l'ammontare dell'IVA per la quale
+il diritto a detrazione e sorto, nello stesso periodo, ed e esercitato secondo
+quanto previsto all'articolo 178.
+
+Tuttavia gli Stati membri possono obbligare i soggetti passivi che effettuano
+le operazioni occasionali di cui all'articolo 12 a esercitare il diritto a
+detrazione soltanto al momento della cessione».
+
+11      Ai sensi dell'art. 183 della direttiva 2006/112, formulato in termini
+sostanzialmente identici a quelli dell'art. 18, n. 4, della sesta direttiva
+del Consiglio 17 maggio 1977, 77/388/CEE, in materia di armonizzazione delle
+legislazioni degli Stati membri relative alle imposte sulla cifra di affari -
+Sistema comune di imposta sul valore aggiunto: base imponibile uniforme (GU L
+145, pag. 1):
+
+«Qualora, per un periodo d'imposta, l'importo delle detrazioni superi quello
+dell'IVA dovuta, gli Stati membri possono far riportare l'eccedenza al periodo
+successivo, o procedere al rimborso secondo modalita da essi stabilite.
+
+Tuttavia, gli Stati membri possono rifiutare il rimborso o il riporto se
+l'eccedenza e insignificante».
+
+12      L'art. 184 della direttiva 2006/112, che figura nel capo 5, intitolato
+«Rettifica delle detrazioni», del titolo X di detta direttiva, precisa quanto
+segue:
+
+«La detrazione operata inizialmente e rettificata quando e superiore o
+inferiore a quella cui il soggetto passivo ha diritto».
+
+13      Ai sensi dell'art. 185, contenuto nello stesso capo della suddetta
+direttiva:
+
+«1.      La rettifica ha luogo, in particolare, quando, successivamente alla
+dichiarazione dell'IVA, sono mutati gli elementi presi in considerazione per
+determinare l'importo delle detrazioni, in particolare, in caso di
+annullamento di acquisti o qualora si siano ottenute riduzioni di prezzo.
+
+2.      In deroga al paragrafo 1, la rettifica non e richiesta in caso di operazioni totalmente o parzialmente non pagate, in caso di distruzione, perdita o furto debitamente provati o giustificati, nonche in caso di prelievi effettuati per dare regali di scarso valore e campioni di cui all'articolo 16. 
+
+In caso di operazioni totalmente o parzialmente non pagate e in caso di furto
+gli Stati membri possono tuttavia esigere la rettifica».
+
+  _La normativa nazionale_
+
+14      L'art. 55, n. 1, della legge CXXVII del 2007, relativa all'imposta sul
+valore aggiunto (az altalanos forgalmi adorol szolo 2007\. evi CXXVII.
+torveny) [ _Magyar K ozlony_ 2007/155 (XI. 16.); in prosieguo: la «legge
+sull'IVA»], dispone quanto segue:
+
+«La realizzazione del fatto con il quale si compie oggettivamente l'operazione
+generatrice dell'imposta (in prosieguo: la "realizzazione") da luogo
+all'esigibilita dell'imposta».
+
+15      Ai sensi dell'art. 56 della legge sull'IVA «l'imposta esigibile e
+accertata al momento della realizzazione - salvo disposizioni contrarie della
+presente legge».
+
+16      L'art. 119, n. 1, di detta legge cosi prevede:
+
+«Salvo disposizioni contrarie, il diritto a detrazione sorge nel momento in
+cui si deve determinare l'imposta dovuta corrispondente all'imposta calcolata
+a monte (art. 120)».
+
+17      L'art. 131 della legge sull'IVA dispone quanto segue:
+
+«1\. Il soggetto registrato a fini IVA sul territorio nazionale puo detrarre
+dall'importo totale dell'imposta dovuta per un periodo imponibile l'importo
+dell'imposta a monte detraibile, originatasi nel corso dello stesso periodo
+imponibile o di uno o piu periodi anteriori.
+
+2.      Se la differenza determinata conformemente al n. 1 e negativa, il soggetto registrato a fini IVA sul territorio nazionale puo
+
+a)      considerare tale differenza, durante il periodo di imposizione
+successivo, come voce detraibile dall'importo totale dell'imposta dallo stesso
+dovuta conformemente al n. 1 per il detto periodo di imposizione, oppure
+
+b)      chiedere il rimborso della differenza all'amministrazione fiscale
+dello Stato alle condizioni e con le modalita definite dall'art. 186 (...)».
+
+18      L'art. 186 della suddetta legge sancisce quanto segue:
+
+«1.      Il rimborso dell'importo della differenza negativa determinata in
+base all'art. 131, n. 1 - corretto conformemente al n. 2 - puo essere
+richiesto solo a partire dalla scadenza fissata dalla legge XCII del 2003 [sul
+regime di imposizione (az adozas rendjeről szolo 2003\. evi XCII. torveny)],
+se
+
+a)      il soggetto registrato ai fini dell'IVA sul territorio nazionale ne ha
+fatto domanda all'amministrazione fiscale, nel momento in cui ha presentato la
+propria dichiarazione conformemente all'art. 184;
+
+(...)
+
+2.      Qualora il soggetto registrato ai fini dell'IVA sul territorio nazionale, procedendo ai sensi del n. 1, lett. a), non paghi interamente, prima della scadenza menzionata al n. 1, l'importo, comprensivo anche di un'imposta, corrispondente all'operazione costitutiva della base giuridica per la traslazione dell'imposta, ovvero, qualora il suo debito non si estingua in altro modo prima di tale data, si sottrae il totale dell'imposta a monte detraibile, corrispondente a tale operazione, dall'importo, in termini di valore assoluto, della differenza negativa accertata ai sensi dell'art. 131, n. 1, fino a concorrenza di tale importo. 
+
+3.      L'art. 131, n. 2, lett. a), si applica alla somma che riduce, in applicazione del n. 2, l'importo espresso in valore assoluto della differenza negativa accertata ai sensi dell'art. 131, n. 1, fino a concorrenza di tale importo (...)». 
+
+19      Dall'art. 37, n. 1, della legge XCII del 2003, sul regime di
+imposizione, formulato come segue, risulta che la predetta scadenza coincide
+con la scadenza del termine di pagamento dell'imposta:
+
+«L'imposta deve essere pagata alla data indicata nell'allegato alla legge o
+nella legge stessa (scadenza) (…)».
+
+20      A termini dell'allegato II, parte I, punto 2, lett. a), di tale legge:
+
+«Il soggetto passivo [IVA] versa l'importo netto dovuto dell'[IVA]
+
+-        nel caso di dichiarazioni fiscali mensili, entro il ventesimo giorno del mese successivo al mese corrente;
+
+-        nel caso di dichiarazioni fiscali trimestrali, entro il ventesimo giorno del mese successivo al trimestre; 
+
+-        nel caso di dichiarazioni fiscali annuali, entro il 25 febbraio dell'anno successivo all'anno fiscale, 
+
+e puo chiedere il rimborso a partire da questa stessa data».
+
+  **Il procedimento precontenzioso**
+
+21      Ritenendo che la normativa nazionale che obbliga i soggetti passivi a
+effettuare il riporto di un'eccedenza, ai sensi dell'art. 183 della direttiva
+2006/112, al periodo d'imposta successivo, nel caso in cui tale eccedenza
+comprenda un importo di IVA a monte, riconducibile ad operazioni per le quali
+il soggetto passivo interessato non ha ancora pagato il corrispettivo,
+violasse tale direttiva, la Commissione ha deciso di avviare il procedimento
+di cui all'art. 226 CE ed ha inviato alla Repubblica di Ungheria, il 21 marzo
+2007, una lettera di diffida.
+
+22      Tale Stato membro ha risposto alla suddetta diffida mediante lettera
+datata 30 maggio 2007, nella quale ha contestato qualsiasi violazione del
+diritto dell'Unione.
+
+23      A seguito di tale risposta, rimanendo dell'avviso che la Repubblica di
+Ungheria non rispettasse gli obblighi ad essa incombenti in forza della
+direttiva 2006/112, l'8 ottobre 2009 la Commissione ha emesso un parere
+motivato in cui invitava detto Stato membro ad adottare le misure necessarie
+per conformarvisi entro il termine di due mesi a decorrere dalla sua
+ricezione.
+
+24      Avendo la Repubblica di Ungheria risposto a detto parere motivato con
+lettera datata 16 dicembre 2009, in cui adduceva la mancata violazione del
+diritto dell'Unione, la Commissione ha deciso di proporre il presente ricorso.
+
+  **Sul ricorso**
+
+  _Argomenti delle parti_
+
+25      La Commissione sostiene che l'art. 186, n. 2, della legge sull'IVA e
+contrario al diritto dell'Unione, in quanto nega il rimborso dell'eccedenza di
+IVA a monte detraibile sull'IVA a valle, nei limiti in cui l'IVA a monte
+risulti da operazioni per le quali il corrispettivo dovuto, IVA compresa, non
+sia stato ancora pagato.
+
+26      La Commissione adduce che, ai sensi degli artt. 62 e 63 della
+direttiva 2006/112, l'IVA a valle diventa esigibile nel momento in cui si
+realizza la cessione dei beni o la prestazione dei servizi, indipendentemente
+dal pagamento della contropartita dovuta per l'operazione di cui trattasi. Un
+fornitore di beni o un prestatore di servizi sarebbe quindi obbligato a
+versare l'IVA all'erario, anche qualora i clienti non lo abbiano ancora
+pagato, prima del termine del periodo d'imposta. Dal momento che, in una
+simile situazione, l'art. 186, n. 2, della legge sull'IVA vieta al cliente di
+chiedere il rimborso dell'IVA corrispondente all'operazione di cui trattasi,
+il sistema dell'IVA sarebbe privo di equilibrio.
+
+27      Siffatta esclusione del rimborso dell'eccedenza di IVA detraibile
+porrebbe a carico degli operatori interessati un onere, dato che la
+posposizione del pagamento da parte dello Stato del credito del soggetto
+passivo che chiede un rimborso diminuirebbe temporaneamente il valore dei beni
+di cui tale soggetto passivo dispone e cio ridurrebbe, segnatamente,
+l'ammontare delle sue liquidita.
+
+28      La Commissione sottolinea inoltre che la normativa nazionale in esame
+non contiene alcuna limitazione temporale per quanto riguarda la traslazione
+dell'eccedenza di IVA. Si verificherebbe quindi la possibilita che il soggetto
+passivo sia tenuto a effettuare il riporto di tale eccedenza in piu occasioni.
+Orbene, dal dettato dell'art. 183, primo comma, della direttiva 2006/112
+risulterebbe che un'eccedenza deve essere rimborsata al piu tardi nel corso
+del secondo periodo d'imposta successivo al suo sorgere.
+
+29      La Commissione sostiene altresi che la suddetta disposizione prevede
+soltanto che gli Stati membri possano definire le norme procedurali che
+regolano il rimborso dell'eccedenza dell'IVA detraibile all'unico scopo di
+consentire la corretta collocazione di tali disposizioni nei diversi strumenti
+normativi che disciplinano il procedimento amministrativo. Viceversa, tale
+disposizione non permetterebbe di limitare il detto rimborso imponendo
+condizioni di merito. Orbene, la normativa nazionale controversa non
+stabilirebbe requisiti formali, bensi limiti sostanziali al rimborso dell'IVA.
+
+30      La Repubblica di Ungheria e dell'avviso che la condizione stabilita
+dall'art. 186, n. 2, della legge sull'IVA per il conseguimento del rimborso di
+un'eccedenza dell'IVA detraibile, vale a dire il pagamento del corrispettivo
+dovuto per l'operazione da cui deriva l'IVA detraibile, non violi ne il
+principio di neutralita fiscale ne l'art. 183 della direttiva 2006/112, che
+chiaramente assegna agli Stati membri la competenza di definire le condizioni
+di detto rimborso.
+
+31      Tale Stato membro fa valere che la posticipazione del rimborso
+dell'eccedenza dell'IVA detraibile risultante dall'art. 186, n. 2, della legge
+sull'IVA non costituisce alcun onere per il soggetto passivo contrario al
+principio di neutralita fiscale. Infatti, per «onere dell'IVA» dovrebbe
+intendersi unicamente un onere definitivo, vale a dire una situazione in cui
+il soggetto passivo debba versare l'IVA senza beneficiare di un diritto a
+detrazione. Per contro, l'IVA versata in via provvisoria costituirebbe
+soltanto un onere finanziario o di liquidita, che inciderebbe solo
+temporaneamente sulla situazione finanziaria dell'operatore interessato e non
+sarebbe contrario al principio di neutralita fiscale. La Repubblica di
+Ungheria sottolinea, in proposito, che il sistema comune dell'IVA contiene
+norme che impongono ai soggetti passivi di sopportare temporaneamente
+l'importo di tale imposta.
+
+32      Inoltre, la condizione prescritta per il rimborso in parola non
+farebbe correre alcun rischio finanziario al soggetto passivo, atteso che
+quest'ultimo non ha ancora pagato il proprio debito. In realta, l'onere
+graverebbe unicamente sul venditore e deriverebbe dalle norme del diritto
+dell'Unione, in particolare, dagli artt. 62 e 63 della direttiva 2006/112.
+Poiche tale onere e compatibile con il principio di neutralita fiscale,
+l'asserito onere per l'acquirente dei beni o il destinatario dei servizi
+derivante dalla normativa nazionale controversa non puo essere considerato
+inammissibile.
+
+33      La suddetta normativa nazionale sarebbe diretta a neutralizzare il
+vantaggio di cui beneficia l'acquirente dei beni o il destinatario dei servizi
+che potrebbe giovarsi del rimborso dell'imposta a carico di una transazione
+che non ha dato luogo ad un pagamento, o che eventualmente non costituira mai
+oggetto di un pagamento, per migliorare la propria situazione di liquidita e,
+in particolare, per pagare i suoi fornitori. Viceversa, in base alla tesi
+della Commissione, lo Stato concederebbe un prestito gratuito ai soggetti
+passivi, a carico del proprio bilancio, segnatamente qualora il periodo
+d'imposta del fornitore sia piu lungo di quello dell'acquirente.
+
+34      D'altra parte, l'interpretazione del principio di neutralita fiscale
+data dalla Commissione limiterebbe in modo ingiustificato il potere
+discrezionale conferito agli Stati membri dall'art. 183 della direttiva
+2006/112 ed avrebbe l'effetto di privare del suo significato la disposizione
+di cui trattasi.
+
+35      La Repubblica di Ungheria afferma altresi che la sua normativa non
+mette in discussione la possibilita, per un soggetto passivo, di recuperare
+l'importo totale dell'IVA per un pagamento in denaro liquido ed entro un
+termine ragionevole, ove un simile termine sia stato stabilito per il
+pagamento relativo alla transazione. La Corte avrebbe ammesso che gli Stati
+membri dispongono di un certo margine per quanto riguarda la fissazione del
+termine di rimborso dell'eccedenza dell'IVA detraibile.
+
+36      Per quanto riguarda la mancanza di un limite temporale per il riporto
+dell'eccedenza dell'IVA al periodo di imposta seguente, la Repubblica di
+Ungheria sostiene che ne la lettera della direttiva 2006/112 ne il preambolo
+di quest'ultima contengono indicazioni nel senso che l'eccedenza dell'IVA
+possa essere riportata al periodo d'imposta seguente un'unica volta. Inoltre,
+la realizzazione della condizione di pagamento posta dalla normativa
+controversa dipenderebbe dalla volonta del soggetto passivo interessato.
+
+  _Giudizio della Corte_
+
+37      La Commissione addebita alla Repubblica di Ungheria, in sostanza, di
+aver ecceduto i limiti della liberta di cui dispongono gli Stati membri in
+forza dell'art. 183 della direttiva 2006/112, prevedendo che il rimborso sia
+escluso nel caso in cui il soggetto passivo non abbia ancora versato il
+corrispettivo dovuto, IVA compresa, per l'operazione che da luogo all'IVA
+detraibile.
+
+38      L'art. 183 in parola dispone che, qualora, per un periodo d'imposta,
+l'importo delle detrazioni superi quello dell'IVA dovuta, gli Stati membri
+possono far riportare l'eccedenza al periodo successivo, o procedere al
+rimborso secondo modalita da essi stabilite.
+
+39      Dal tenore stesso di tale disposizione e, in particolare, dall'inciso
+«secondo modalita da essi stabilite» risulta che gli Stati membri dispongono
+di una liberta di manovra certa nello stabilire le modalita di rimborso
+dell'eccedenza di IVA (v. sentenze 25 ottobre 2001, causa C‑78/00,
+Commissione/Italia, Racc. pag. I‑8195, punto 32; 10 luglio 2008, causa
+C‑25/07, Sosnowska, Racc. pag. I‑5129, punto 17, nonche 12 maggio 2011, causa
+C‑107/10, Enel Maritsa Iztok 3, non ancora pubblicata nella Raccolta, punti 33
+e 64).
+
+40      Tuttavia, tale circostanza non consente di concludere che l'art. 183
+della direttiva 2006/112 debba essere interpretato nel senso che le modalita
+stabilite dagli Stati membri ai fini del rimborso dell'eccedenza di IVA siano
+dispensate da qualsivoglia controllo riguardo al diritto dell'Unione (v., in
+tal senso, sentenza 21 gennaio 2010, causa C‑472/08, Alstom Power Hydro, Racc.
+pag. I‑623, punto 15, e Enel Maritsa Iztok 3, cit., punto 28).
+
+41      Difatti, occorre esaminare in qual misura l'art. 183 della direttiva
+2006/112, interpretato alla luce del contesto e dei principi generali che
+disciplinano il settore dell'IVA, contenga norme specifiche al cui rispetto
+gli Stati membri sono tenuti nell'attuazione del diritto al rimborso
+dell'eccedenza di IVA (v. sentenza Enel Maritsa Iztok 3, cit., punto 30).
+
+42      A tal riguardo va rilevato, in primo luogo, che da giurisprudenza
+costante risulta che il diritto dei soggetti passivi di detrarre dall'IVA di
+cui sono debitori l'IVA dovuta o versata a monte per i beni acquistati e per i
+servizi loro prestati costituisce un principio fondamentale del sistema comune
+dell'IVA istituito dalla normativa dell'Unione (v., in particolare, sentenze
+citate Commissione/Italia, punto 28; Sosnowska, punto 14, e Enel Maritsa Iztok
+3, punto 31).
+
+43      Come ripetutamente sottolineato dalla Corte, il diritto alla
+detrazione costituisce parte integrante del meccanismo dell'IVA e, in linea di
+principio, non puo essere soggetto a limitazioni. In particolare, tale diritto
+deve essere esercitato immediatamente, per tutte le imposte che hanno gravato
+sulle operazioni effettuate a monte (v., segnatamente, sentenze 6 luglio 1995,
+causa C‑62/93, BP Soupergaz, Racc. pag. I‑1883, punto 18; 30 settembre 2010,
+causa C‑392/09, Uszodaepitő, Racc. pag. I‑8791, punto 34, ed Enel Maritsa
+Iztok 3, cit., punto 32).
+
+44      In secondo luogo, occorre ricordare che la sussistenza stessa del
+diritto a detrazione ricade negli artt. 167‑172 della direttiva 2006/112, che
+figurano nel capo della medesima intitolato «Origine e portata del diritto a
+detrazione», mentre gli artt. 178‑183 di tale direttiva sono relativi alle
+sole modalita di esercizio di detto diritto (v., in tal senso, sentenze 8
+novembre 2001, causa C‑338/98, Commissione/Paesi Bassi, Racc. pag. I‑8265,
+punto 71, e 29 aprile 2004, causa C‑152/02, Terra Baubedarf-Handel, Racc. pag.
+I‑5583, punto 30).
+
+45      Quanto alla facolta, ai sensi dell'art. 183 della direttiva 2006/112,
+di prevedere che l'eccedenza di IVA sia riportata al periodo d'imposta
+seguente o che sia rimborsata, la Corte ha precisato che le modalita fissate
+dagli Stati membri a questo proposito non possono ledere il principio di
+neutralita fiscale, facendo gravare sul soggetto passivo, in tutto o in parte,
+l'onere di tale imposta. Tali modalita devono segnatamente consentire al
+soggetto passivo di recuperare, in condizioni adeguate, la totalita del
+credito risultante da detta eccedenza di IVA, il che implica che il rimborso
+sia effettuato, entro un termine ragionevole, mediante pagamento in denaro
+liquido o con modalita equivalenti, e che, in ogni caso, il sistema di
+rimborso adottato non debba far correre alcun rischio finanziario al soggetto
+passivo (v. citate sentenze Commissione/Italia, punti 33 e 34; Sosnowska,
+punto 34, ed Enel Maritsa Iztok 3, punti 33 e 64).
+
+46      Per quanto riguarda, in terzo luogo, il rilievo attribuito al
+pagamento delle operazioni da cui origina l'IVA nel sistema instaurato dalla
+direttiva 2006/112, occorre osservare che, in forza dell'art. 63 di
+quest'ultima, l'IVA diventa esigibile all'atto della cessione di beni o della
+prestazione di servizi, ossia al momento della realizzazione dell'operazione
+di cui trattasi, indipendentemente dal fatto che il corrispettivo dovuto per
+tale operazione sia stato gia versato o che non lo sia stato. Pertanto, l'IVA
+e dovuta all'Erario pubblico dal fornitore di un bene o dal prestatore di
+servizi, quand'anche questi non abbia ancora ricevuto, da parte del suo
+cliente, il pagamento corrispondente all'operazione realizzata.
+
+47      Allo stesso modo, l'art. 167 della direttiva 2006/112 dispone che il
+diritto a detrazione sorge quando l'imposta detraibile diventa esigibile,
+circostanza che si verifica, ai sensi di detto art. 63, a partire dal momento
+in cui l'operazione e stata realizzata, a prescindere dal fatto che abbia
+avuto luogo il pagamento del corrispettivo dovuto per tale operazione.
+Inoltre, l'art. 168, lett. a), della direttiva indica espressamente che il
+diritto di cui beneficia il soggetto passivo di detrarre l'imposta a monte
+riguarda non soltanto l'IVA assolta, ma anche l'IVA dovuta. Dal tenore
+letterale dell'art. 179 di detta direttiva risulta altresi che il diritto a
+detrazione si esercita, in linea di principio, sottraendo dall'importo
+dell'imposta dovuta per un periodo d'imposta l'ammontare dell'IVA per la quale
+il diritto a detrazione e sorto nello stesso periodo (v., in tal senso,
+sentenza 8 maggio 2008, cause riunite C‑95/07 e C‑96/07, Ecotrade, Racc. pag.
+I‑3457, punto 41).
+
+48      Ne deriva che, in base al sistema instaurato dalla direttiva 2006/112,
+in linea di principio, l'IVA diventa esigibile ed il diritto alla detrazione
+sorge e puo essere esercitato indipendentemente dal fatto che il corrispettivo
+dovuto, IVA inclusa, per un'operazione sia stato gia versato o meno.
+
+49      Siffatta analisi e corroborata da altre disposizioni della medesima
+direttiva, in base alle quali il pagamento effettivo del corrispettivo puo
+incidere sull'esigibilita o sulla detraibilita dell'IVA solo in circostanze
+particolari espressamente previste dalla direttiva di cui trattasi.
+
+50      Infatti, l'art. 66, lett. b), della direttiva 2006/112 consente agli
+Stati membri di prevedere, in deroga all'art. 63 di tale direttiva, che
+l'imposta divenga esigibile per talune operazioni o per talune categorie di
+soggetti passivi non oltre il momento dell'incasso del prezzo. Orbene, la
+Repubblica di Ungheria non ha sostenuto di essersi avvalsa di tale facolta.
+
+51      Inoltre, l'art. 66, lett. b), della direttiva 2006/112 e stato
+integrato, nel corso del 2010, ossia dopo la presentazione del ricorso in
+esame, dall'inserimento in tale direttiva di un art. 167 bis, secondo cui gli
+Stati membri possono prevedere, nel quadro di un regime opzionale, che il
+diritto a detrazione di un soggetto passivo per il quale l'IVA diventa
+esigibile solamente a norma dell'art. 66, lett. b), sia posposto fino al
+pagamento dell'IVA, al suo fornitore/prestatore, relativa ai beni ceduti o
+servizi resi a detto soggetto passivo.
+
+52      Da una lettura d'insieme delle disposizioni summenzionate risulta che,
+ai sensi della direttiva 2006/112, solo in determinati, specifici casi,
+esplicitamente contemplati da detta direttiva, il diritto a detrazione e
+subordinato alla condizione che il corrispettivo dovuto per l'operazione da
+cui risulta l'IVA detraibile sia gia stato versato. Ad eccezione di questi
+casi particolari, detto diritto a detrazione sussiste indipendentemente da
+tale condizione. Orbene, il fatto di subordinare a detta condizione il
+rimborso di un'eccedenza di IVA detraibile, che costituisce in questo modo la
+fase che segue al sorgere di tale diritto, puo avere gli stessi effetti sul
+diritto alla detrazione che avrebbe l'applicazione della medesima condizione
+al momento in cui lo stesso diritto sorge. Pertanto, esso e idoneo a rimettere
+in discussione l'effetto utile del diritto a detrazione.
+
+53      Di conseguenza, il pagamento del corrispettivo dovuto per l'operazione
+da cui risulta l'IVA detraibile non puo costituire una modalita, ai sensi
+dell'art. 183 della direttiva 2006/112, che gli Stati membri hanno la facolta
+di stabilire per il rimborso dell'eccedenza di IVA detraibile.
+
+54      Da tutte le considerazioni che precedono risulta che l'art. 183 della
+direttiva 2006/112 non consente agli Stati membri di subordinare l'esercizio
+del diritto al rimborso di un'eccedenza di IVA detraibile a una condizione
+relativa al pagamento dell'importo dovuto per l'operazione in causa. Pertanto,
+negando il rimborso di un'eccedenza di IVA, fintantoche il corrispettivo
+dovuto, IVA inclusa, per l'operazione da cui risulta l'IVA detraibile non sia
+stato ancora versato, la Repubblica di Ungheria ha ecceduto i limiti della
+liberta di cui dispongono gli Stati membri ai sensi del suddetto art. 183\.
+
+55      Inoltre, si deve rilevare che detta esclusione del rimborso di una
+simile eccedenza di IVA fa si che taluni soggetti passivi, dalla cui
+dichiarazione fiscale emergano sistematicamente eccedenze, siano tenuti a
+riportare piu volte tale eccedenza al periodo d'imposta seguente. In
+proposito, occorre rammentare che il riporto di un'eccedenza di IVA a vari
+periodi di imposta successivi a quello in cui l'eccedenza de qua e sorta non e
+necessariamente una circostanza incompatibile con l'art. 183, primo comma,
+della direttiva 2006/112 (v., in tal senso, sentenza Enel Maritsa Iztok 3,
+cit., punto 49). Tuttavia, dal momento che la normativa nazionale in esame
+prevede periodi di imposta che vanno da un mese ad un anno, essa puo far si
+che taluni soggetti passivi, a causa del reiterato riporto di un'eccedenza,
+non ottengano il rimborso di quest'ultima entro un termine ragionevole.
+
+56      Si deve pertanto dichiarare che la Repubblica di Ungheria:
+
+-        obbligando i soggetti passivi dalla cui dichiarazione fiscale emerga un'eccedenza, ai sensi dell'art. 183 della direttiva 2006/112, nel corso di un determinato periodo d'imposta, a procedere al riporto di tale eccedenza, integralmente o parzialmente, al periodo d'imposta successivo, qualora non abbiano pagato la totalita di quanto acquistato al loro fornitore, e 
+
+-        per il fatto che, in considerazione del suddetto obbligo, taluni soggetti passivi, dalla cui dichiarazione fiscale emergano sistematicamente eccedenze, siano tenuti a effettuare piu volte il riporto al periodo d'imposta successivo, 
+
+e venuta meno agli obblighi ad essa incombenti in forza di tale direttiva.
+
+  **Sulle spese**
+
+57      Ai sensi dell'art. 69, n. 2, del regolamento di procedura, la parte
+soccombente e condannata alle spese se ne e stata fatta domanda. Poiche la
+Commissione ne ha fatto domanda, la Repubblica di Ungheria, rimasta
+soccombente, dev'essere condannata alle spese.
+
+Per questi motivi, la Corte (Terza Sezione) dichiara e statuisce:
+
+1)       **La Repubblica di Ungheria:**
+
+-         **obbligando i soggetti passivi dalla cui dichiarazione fiscale emerga un 'eccedenza, ai sensi dell'art. 183 della direttiva del Consiglio 28 novembre 2006, 2006/112/CE, relativa al sistema comune d'imposta sul valore aggiunto, nel corso di un determinato periodo d'imposta, a procedere al riporto di tale eccedenza, integralmente o parzialmente, al periodo d'imposta successivo, qualora non abbiano pagato la totalita di quanto acquistato al loro fornitore, e **
+
+-         **per il fatto che, in considerazione del suddetto obbligo, taluni soggetti passivi, dalla cui dichiarazione fiscale emergano sistematicamente eccedenze, siano tenuti a effettuare pi u volte il riporto al periodo d'imposta successivo, **
+
+**e venuta meno agli obblighi ad essa incombenti in forza di tale direttiva.**
+
+2)       **La Repubblica di Ungheria e condannata alle spese.**
+
+Firme
+
+* * *
+
+* Lingua processuale: l'ungherese. 
+

@@ -837,3 +837,7 @@ Firme
 
 ( *1 ) Lingua processuale: il finlandese.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

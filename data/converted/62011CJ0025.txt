@@ -937,3 +937,7 @@ Firme
 
 ( *1 ) Lingua processuale: il portoghese.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

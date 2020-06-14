@@ -1,0 +1,586 @@
+
+
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+29 marzo 2012 ( *1 )
+
+«Fiscalità — IVA — Articolo 4, paragrafo 3, TUE — Sesta direttiva — Articoli 2
+e 22 — Estinzione automatica delle procedure pendenti dinanzi al giudice
+tributario di terzo grado»
+
+Nella causa C-500/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dalla Commissione tributaria centrale,
+sezione di Bologna, con decisione del 22 settembre 2010, pervenuta in
+cancelleria il 19 ottobre 2010, nel procedimento
+
+Ufficio IVA di Piacenza
+
+contro
+
+Belvedere Costruzioni Srl,
+
+LA CORTE (Quarta Sezione),
+
+composta dal sig. J.-C. Bonichot, presidente di sezione, dalla sig.ra A.
+Prechal, dal sig. L. Bay Larsen, dalla sig.ra C. Toader e dal sig. E.
+Jarašiūnas (relatore), giudici,
+
+avvocato generale: sig.ra E. Sharpston
+
+cancelliere: sig.ra A. Impellizzeri, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 22
+settembre 2011,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il governo italiano, da G. Palmieri, in qualità di agente, assistita da P.
+Gentili, avvocato dello Stato;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da E. Traversa e L. Lozano Palacios, in qualità di
+agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 17
+novembre 2011,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale in esame verte sull’interpretazione
+dell’articolo 4, paragrafo 3, TUE e degli articoli 2 e 22 della sesta
+direttiva 77/388/CEE del Consiglio, del 17 maggio 1977, in materia di
+armonizzazione delle legislazioni degli Stati membri relative alle imposte
+sulla cifra di affari — Sistema comune di imposta sul valore aggiunto: base
+imponibile uniforme (GU L 145, pag. 1; in prosieguo: la «sesta direttiva»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia che vede
+l’Ufficio IVA di Piacenza contrapposto alla Belvedere Costruzioni Srl (in
+prosieguo: la «Belvedere Costruzioni») con riferimento ad una rettifica
+dell’imposta sul valore aggiunto (in prosieguo: l’«IVA») relativa all’anno
+1982.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+In forza dell’articolo 2 della sesta direttiva, sono soggette all’IVA le
+cessioni di beni e le prestazioni di servizi effettuate a titolo oneroso
+all’interno del paese da un soggetto passivo che agisce in quanto tale, come
+pure le importazioni di beni.  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 22 della sesta direttiva dispone quanto segue:
+
+«(...)
+
+4\. Ogni soggetto passivo deve presentare una dichiarazione entro un termine
+che dovrà essere stabilito dagli Stati membri (…)
+
+(...)
+
+5\. Ogni soggetto passivo deve pagare l’importo netto dell’[IVA] al momento
+della presentazione della dichiarazione periodica. Gli Stati membri possono
+tuttavia stabilire un’altra scadenza per il pagamento di questo importo o per
+la riscossione di acconti provvisori.
+
+(...)
+
+8\. (…) Gli Stati membri hanno la facoltà di stabilire altri obblighi che essi
+ritengano necessari ad assicurare l’esatta riscossione dell’imposta e ad
+evitare le frodi.
+
+(...)».  
+  
+---|---  
+  
+Il diritto nazionale
+
+5
+
+|
+
+L’articolo 3, comma 2 bis, del decreto legge n. 40/2010 (GURI n. 71, del 26
+marzo 2010), convertito, con modifiche, nella legge n. 73/2010 (GURI n. 120,
+del 25 maggio 2010; in prosieguo: il «decreto legge n. 40/2010»), reca il
+testo seguente:
+
+«Al fine di contenere la durata dei processi tributari nei termini di durata
+ragionevole dei processi, previsti ai sensi della Convenzione europea per la
+salvaguardia dei diritti dell’uomo e delle libertà fondamentali[, firmata a
+Roma il 4 novembre 1950 (in prosieguo: la “CEDU”)], ratificata ai sensi della
+legge n. 848, del 4 agosto 1955, sotto il profilo del mancato rispetto del
+termine ragionevole di cui all’articolo 6, paragrafo l, della predetta
+Convenzione, le controversie tributarie pendenti che originano da ricorsi
+iscritti a ruolo nel primo grado, alla data di entrata in vigore della legge
+di conversione del presente decreto, da oltre dieci anni, per le quali risulti
+soccombente l’Amministrazione finanziaria dello Stato nei primi due gradi di
+giudizio, sono definite con le seguenti modalità:
+
+|
+
+a)
+
+|
+
+le controversie tributarie pendenti innanzi alla Commissione tributaria
+centrale, con esclusione di quelle aventi ad oggetto istanze di rimborso, sono
+automaticamente definite con decreto assunto dal presidente del collegio o da
+altro componente delegato. (...)  
+  
+---|---  
+  
+(…)».  
+  
+6
+
+|
+
+La legge n. 73/2010, che ha convertito in legge il decreto legge n. 40/2010, è
+entrata in vigore il 26 maggio 2010.  
+  
+---|---  
+  
+7
+
+|
+
+La Commissione tributaria centrale, che esercitava le funzioni di giudice di
+ultima istanza in materia tributaria, è stata soppressa dal decreto
+legislativo n. 545/1992 (GURI n. 9, del 13 gennaio 1993) a decorrere dal 1o
+aprile 1996. Essa ha proseguito tuttavia la sua attività fino all’esaurimento
+di tutti i procedimenti dinanzi ad essa pendenti in tale data.  
+  
+---|---  
+  
+Causa principale e questione pregiudiziale
+
+8
+
+|
+
+Nella propria dichiarazione annuale IVA relativa all’anno 1982, la Belvedere
+Costruzioni portava in detrazione un credito IVA di ITL 22264000, indicato
+come credito risultante dalla dichiarazione relativa al 1981. Il 12 agosto
+1985, l’Ufficio IVA di Piacenza, ritenendo che la dichiarazione IVA per il
+1981 fosse tardiva e che fosse quindi impossibile detrarre il credito di
+imposta nell’ambito della dichiarazione IVA relativa al 1982, notificava a
+tale società un avviso di rettifica.  
+  
+---|---  
+  
+9
+
+|
+
+La Belvedere Costruzioni ricorreva avverso tale avviso dinanzi alla
+Commissione tributaria di primo grado di Piacenza, affermando che il credito
+d’imposta controverso non derivava dalla differenza fra IVA a debito sulle
+vendite ed IVA a credito sugli acquisti per operazioni imponibili effettuate
+nel 1981, costituendo invece parte del credito d’imposta evidenziato nella
+dichiarazione annuale relativa al 1980. Essa sosteneva che, alla luce della
+normativa nazionale pertinente, il suo diritto di detrarre tale credito di
+imposta non era estinto, mentre l’Ufficio IVA di Piacenza asseriva il
+contrario.  
+  
+---|---  
+  
+10
+
+|
+
+La Commissione tributaria di primo grado di Piacenza accoglieva tale ricorso
+con decisione del 10 ottobre 1986, confermata dalla Commissione tributaria di
+secondo grado con decisione del 28 maggio 1990, in seguito ad appello proposto
+da detto Ufficio IVA. Quest’ultimo proponeva quindi ricorso avverso tale
+decisione dinanzi al giudice del rinvio.  
+  
+---|---  
+  
+11
+
+|
+
+Nella decisione di rinvio, la Commissione tributaria centrale, sezione di
+Bologna, rileva che essa sarebbe tenuta a definire la controversia ai sensi
+dell’articolo 3, comma 2 bis, lettera a), del decreto legge n. 40/2010,
+essendo l’Amministrazione finanziaria rimasta totalmente soccombente nei primi
+due gradi di giudizio, con la conseguenza che la decisione d’appello
+passerebbe in giudicato e che il credito fiscale rivendicato
+dall’amministrazione dinanzi ai tre gradi di giurisdizione sarebbe estinto.  
+  
+---|---  
+  
+12
+
+|
+
+Tuttavia, detto giudice ritiene che l’applicazione di tale disposizione possa
+comportare una violazione dell’articolo 4, paragrafo 3, TUE, nonché degli
+articoli 2 e 22 della sesta direttiva, come interpretati nella sentenza del 17
+luglio 2008, Commissione/Italia (C-132/06, Racc. pag. I-5457), di modo che
+essa osterebbe definitivamente al recupero del credito d’imposta di cui
+l’amministrazione tributaria chiede espressamente l’accertamento per via
+giudiziale. Infatti, ciò costituirebbe, a suo avviso, una violazione
+dell’obbligo incombente allo Stato italiano di garantire la riscossione
+effettiva delle risorse proprie dell’Unione europea.  
+  
+---|---  
+  
+13
+
+|
+
+Alla luce di ciò, la Commissione tributaria centrale, sezione di Bologna, ha
+deciso di sospendere il giudizio e di sottoporre alla Corte la seguente
+questione pregiudiziale:
+
+«Se l’articolo 10 (...) CE, ora articolo 4 (...) TUE, e gli articoli 2 e 22
+della sesta direttiva (...) ostino ad una normativa dello Stato italiano,
+contenuta nel comma 2 bis dell’articolo 3 del [decreto legge n. 40/2010], che
+preclude al Giudice tributario di pronunciarsi sull’esistenza della pretesa
+tributaria tempestivamente azionata dall’Amministrazione con ricorso in
+impugnazione di decisione sfavorevole e così sostanzialmente dispone la totale
+rinuncia al credito IVA controverso, quando questo sia stato ritenuto
+insussistente in due gradi di giudizio, senza alcun pagamento neppure in
+misura ridotta del credito controverso da parte del contribuente che beneficia
+della rinuncia».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+14
+
+|
+
+Con la sua questione, il giudice del rinvio chiede sostanzialmente se
+l’articolo 4, paragrafo 3, TUE e gli articoli 2 e 22 della sesta direttiva
+debbano essere interpretati nel senso che essi ostano all’applicazione, in
+materia di IVA, di una disposizione nazionale che prevede l’estinzione
+automatica dei procedimenti pendenti dinanzi al giudice tributario di terzo
+grado, allorché tali procedimenti traggono origine da un ricorso proposto in
+primo grado più di dieci anni prima della data di entrata in vigore di detta
+disposizione e l’Amministrazione tributaria è risultata soccombente nei primi
+due gradi di giudizio, con la conseguenza che tale estinzione automatica
+produce il passaggio in giudicato della decisione di secondo grado, nonché
+l’estinzione del credito rivendicato dall’Amministrazione.  
+  
+---|---  
+  
+Sulla ricevibilità
+
+15
+
+|
+
+Il governo italiano considera tale domanda irricevibile. Il giudice del rinvio
+è, a suo avviso, venuto meno all’obbligo di fornire alla Corte tutti gli
+elementi di fatto e di diritto che consentano di comprendere la ragione per
+cui esso considera che l’articolo 3, comma 2 bis, del decreto legge n. 40/2010
+comporti una rinuncia dell’Amministrazione tributaria al suo potere di
+verifica delle operazioni imponibili. In assenza di un’analisi di tale
+articolo nella decisione di rinvio, la questione risulterebbe manifestamente
+astratta e teorica.  
+  
+---|---  
+  
+16
+
+|
+
+Al riguardo occorre ricordare che la Corte può dichiarare irricevibile una
+domanda di pronuncia pregiudiziale proposta da un giudice nazionale soltanto
+qualora appaia, in modo manifesto, che l’interpretazione richiesta del diritto
+dell’Unione non ha alcun rapporto con la realtà effettiva o l’oggetto della
+causa principale, qualora la questione sia di tipo teorico o, ancora, qualora
+la Corte non disponga degli elementi di fatto e di diritto necessari per
+rispondere in modo utile alle questioni che le sono sottoposte (v., in
+particolare, sentenze del 15 dicembre 1995, Bosman, C-415/93, Racc. pag.
+I-4921, punto 61, nonché del 31 marzo 2011, Schröder, C-450/09, Racc. pag.
+I-2497, punto 17).  
+  
+---|---  
+  
+17
+
+|
+
+Per quanto riguarda, più in particolare, le informazioni che devono essere
+fornite alla Corte nell’ambito di una decisione di rinvio, queste non servono
+solo a consentire alla Corte di dare soluzioni utili al giudice del rinvio, ma
+devono anche dare ai governi degli Stati membri nonché alle altre parti
+interessate la possibilità di presentare osservazioni ai sensi dell’art. 23
+dello Statuto della Corte di giustizia dell’Unione europea. A tal fine,
+risulta da una giurisprudenza costante che, da un lato, è necessario che il
+giudice nazionale definisca il contesto di fatto e di diritto in cui si
+inseriscono le questioni sollevate o che esso spieghi almeno le ipotesi di
+fatto su cui tali questioni sono fondate. Dall’altro, la decisione di rinvio
+deve indicare i motivi precisi che hanno indotto il giudice nazionale a
+interrogarsi sull’interpretazione del diritto dell’Unione ed a ritenere
+necessaria la presentazione delle questioni pregiudiziali alla Corte (sentenza
+dell’8 settembre 2009, Liga Portuguesa de Futebol Profissional e Bwin
+International, C-42/07, Racc. pag. I-7633, punto 40 e giurisprudenza ivi
+citata).  
+  
+---|---  
+  
+18
+
+|
+
+Nella fattispecie, la decisione di rinvio contiene un’esposizione dei fatti
+all’origine del procedimento principale e del diritto nazionale rilevante,
+cioè dell’articolo 3, comma 2 bis, lettera a), del decreto legge n. 40/2010.
+Essa indica inoltre le ragioni che hanno indotto il giudice del rinvio ad
+interrogarsi sulla compatibilità di detto articolo con il diritto dell’Unione
+e a considerare necessario sottoporre una questione pregiudiziale alla Corte.
+Lungi dall’essere astratta e di natura teorica, detta questione appare
+determinante per la soluzione della controversia principale in quanto, secondo
+l’analisi svolta riguardo a tale disposizione dal giudice del rinvio, ad esso
+spetterebbe definire la controversia, senza doversi pronunciare sulla
+fondatezza della decisione dinanzi ad esso contestata.  
+  
+---|---  
+  
+19
+
+|
+
+Di conseguenza, la domanda di pronuncia pregiudiziale deve essere dichiarata
+ricevibile.  
+  
+---|---  
+  
+Nel merito
+
+20
+
+|
+
+Come la Corte ha ricordato al punto 37 della citata sentenza
+Commissione/Italia, dagli articoli 2 e 22 della sesta direttiva e
+dall’articolo 4, paragrafo 3, TUE emerge che ogni Stato membro ha l’obbligo di
+adottare tutte le misure legislative e amministrative al fine di garantire che
+l’IVA sia interamente riscossa nel suo territorio. A tale riguardo, gli Stati
+membri sono obbligati ad accertare le dichiarazioni fiscali dei contribuenti,
+la loro contabilità e gli altri documenti utili, nonché a calcolare e a
+riscuotere l’imposta dovuta.  
+  
+---|---  
+  
+21
+
+|
+
+Nell’ambito del sistema comune dell’IVA, gli Stati membri sono tenuti a
+garantire il rispetto degli obblighi a carico dei soggetti passivi e
+beneficiano, a tale riguardo, di una certa libertà in relazione, segnatamente,
+al modo di utilizzare i mezzi a loro disposizione (sentenza
+Commissione/Italia, cit., punto 38).  
+  
+---|---  
+  
+22
+
+|
+
+Tale libertà, tuttavia, è limitata dall’obbligo di garantire una riscossione
+effettiva delle risorse proprie dell’Unione e da quello di non creare
+differenze significative nel modo di trattare i contribuenti, e questo sia
+all’interno di uno Stato membro che nell’insieme di tutti loro. La sesta
+direttiva deve essere interpretata in conformità al principio di neutralità
+fiscale inerente al sistema comune dell’IVA, in base al quale gli operatori
+economici che effettuano le stesse operazioni non devono essere trattati
+diversamente in materia di riscossione dell’IVA. Ogni azione degli Stati
+membri riguardante la riscossione dell’IVA deve rispettare questo principio
+(sentenza Commissione/Italia, cit., punto 39).  
+  
+---|---  
+  
+23
+
+|
+
+Tuttavia, in primo luogo, l’obbligo di garantire l’efficace riscossione delle
+risorse dell’Unione non può contrastare con il rispetto del principio del
+termine ragionevole di un giudizio il quale, in forza dell’articolo 47,
+secondo comma, della Carta dei diritti fondamentali dell’Unione europea, si
+impone agli Stati membri quando attuano il diritto dell’Unione e la cui tutela
+si impone anche in forza dell’articolo 6, paragrafo 1, della CEDU.  
+  
+---|---  
+  
+24
+
+|
+
+Nella fattispecie, occorre sottolineare che l’articolo 3, comma 2 bis, lettera
+a), del decreto legge n. 40/2010 prevede l’estinzione dei soli procedimenti in
+materia tributaria la cui durata, a decorrere dalla proposizione del ricorso
+in primo grado, sia superiore a dieci anni alla data di entrata in vigore di
+detta disposizione, e che esso persegue l’obiettivo, come risulta dalla sua
+stessa formulazione, di rimediare alla violazione dell’osservanza del termine
+ragionevole prevista dall’articolo 6, paragrafo 1, della CEDU. Dalle
+osservazioni trasmesse alla Corte risulta peraltro che l’articolo 3, comma 2
+bis, del decreto legge n. 40/2010 è entrato in vigore più di quattordici anni
+dopo il termine di decadenza entro il quale potevano essere depositati ricorsi
+dinanzi alla Commissione tributaria centrale, cosicché tutti i procedimenti
+ancora pendenti dinanzi a detta giurisdizione hanno, di fatto, raggiunto una
+durata superiore a quattordici anni.  
+  
+---|---  
+  
+25
+
+|
+
+I fatti della causa principale, che risalgono ad una trentina di anni fa,
+attestano che la durata di alcuni di questi procedimenti ha persino raggiunto
+un numero di anni considerevolmente più elevato. Orbene, una tale durata della
+procedura è a priori idonea a pregiudicare, di per sé, l’osservanza del
+principio del termine ragionevole nonché, d’altra parte, l’obbligo di
+garantire la riscossione efficace delle risorse proprie dell’Unione.  
+  
+---|---  
+  
+26
+
+|
+
+In secondo luogo, tale misura non risulta paragonabile a quelle di cui
+trattavasi nella controversia sfociata nella citata sentenza
+Commissione/Italia. Infatti, come osserva l’Avvocato generale ai paragrafi 36
+e 37 delle sue conclusioni, le misure di cui trattavasi in tale controversia
+erano intervenute pochissimo tempo dopo la scadenza dei termini assegnati per
+il pagamento degli importi dell’IVA normalmente dovuti, e consentivano così ai
+soggetti passivi interessati di sfuggire a qualsiasi controllo
+dell’Amministrazione tributaria. La Corte ha dichiarato che esse costituivano
+una rinuncia generale ed indifferenziata alla verifica delle operazioni
+imponibili effettuate nel corso di una serie di periodi d’imposta. Orbene,
+deriva da quanto esposto ai punti 24 e 25 della presente sentenza che la
+misura contenuta all’articolo 3, comma 2 bis, del decreto legge n. 40/2010 non
+costituisce una rinuncia generale alla riscossione dell’IVA per un dato
+periodo, bensì una disposizione eccezionale diretta a far osservare il
+principio del termine ragionevole, estinguendo le procedure più vecchie
+pendenti dinanzi al giudice tributario di terzo grado, con la conseguenza che
+la decisione di secondo grado passa in giudicato.  
+  
+---|---  
+  
+27
+
+|
+
+Tale misura, inoltre, per il suo carattere puntuale e limitato, dovuto ai
+presupposti della sua applicazione, non crea significative differenze nel modo
+in cui sono trattati i soggetti d’imposta nel loro insieme e, pertanto, non
+pregiudica il principio di neutralità fiscale.  
+  
+---|---  
+  
+28
+
+|
+
+Occorre quindi rispondere alla questione presentata dichiarando che l’articolo
+4, paragrafo 3, TUE e gli articoli 2 e 22 della sesta direttiva IVA devono
+essere interpretati nel senso che essi non ostano all’applicazione, in materia
+di IVA, di una disposizione nazionale eccezionale, come quella di cui trattasi
+nella causa principale, che prevede l’estinzione automatica dei procedimenti
+pendenti dinanzi al giudice tributario di terzo grado, allorché tali
+procedimenti traggono origine da un ricorso proposto in primo grado più di
+dieci anni — e, in pratica, più di quattordici anni — prima della data di
+entrata in vigore di detta disposizione e l’Amministrazione tributaria è
+risultata soccombente nei primi due gradi di giudizio, con la conseguenza che
+tale estinzione automatica produce il passaggio in giudicato della decisione
+di secondo grado, nonché l’estinzione del credito rivendicato
+dall’Amministrazione tributaria.  
+  
+---|---  
+  
+Sulle spese
+
+29
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 4, paragrafo 3, TUE e gli articoli 2 e 22 della sesta direttiva
+77/388/CEE del Consiglio, del 17 maggio 1977, in materia di armonizzazione
+delle legislazioni degli Stati membri relative alle imposte sulla cifra di
+affari — Sistema comune di imposta sul valore aggiunto: base imponibile
+uniforme, devono essere interpretati nel senso che essi non ostano
+all’applicazione, in materia di imposta sul valore aggiunto, di una
+disposizione nazionale eccezionale, come quella di cui trattasi nella causa
+principale, che prevede l’estinzione automatica dei procedimenti pendenti
+dinanzi al giudice tributario di terzo grado, allorché tali procedimenti
+traggono origine da un ricorso proposto in primo grado più di dieci anni — e,
+in pratica, più di quattordici anni — prima della data di entrata in vigore di
+detta disposizione e l’Amministrazione tributaria è risultata soccombente nei
+primi due gradi di giudizio, con la conseguenza che tale estinzione automatica
+produce il passaggio in giudicato della decisione di secondo grado, nonché
+l’estinzione del credito rivendicato dall’Amministrazione tributaria.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: l’italiano.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

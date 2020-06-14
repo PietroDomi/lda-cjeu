@@ -3,14 +3,14 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-data = pd.read_csv("Search Results 20200507.csv")
+data = pd.read_csv("data/Search Results 20200507.csv")
 
 # %%
 celexs = sorted(data["CELEX number"].to_list())
 
 # %%
 to_get = set()
-years = np.arange(2011,2016)
+years = np.arange(2010,2016)
 distr = []
 for celex in celexs:
     distr.append(int(celex[1:5]))

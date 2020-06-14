@@ -58,4 +58,7 @@ agli obblighi ad essa incombenti in forza di tale disposizione.
 La Repubblica di Polonia e condannata alle spese.  
   
 ---|---|---
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
 

@@ -763,3 +763,7 @@ Firme
 
 ( *1 ) Lingua processuale: il francese.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

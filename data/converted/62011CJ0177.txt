@@ -696,3 +696,7 @@ Firme
 
 ( *1 ) Lingua processuale: il greco.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

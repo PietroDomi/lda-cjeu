@@ -1,0 +1,773 @@
+
+
+**Causa C ‑442/10**
+
+**Churchill Insurance Company Limited**
+
+**contro**
+
+**Benjamin Wilkinson**
+
+**e**
+
+**Tracy Evans**
+
+**contro**
+
+**Equity Claims Limited**
+
+[domanda di pronuncia pregiudiziale proposta dalla Court of Appeal (England &
+Wales) (Civil Division)]
+
+«Assicurazione obbligatoria della responsabilita civile per gli autoveicoli --
+Direttiva 84/5/CEE -- Artt. 1, n. 4, e 2, n. 1 -- Terzo vittima --
+Autorizzazione alla guida esplicita o implicita -- Direttiva 90/232/CEE --
+Art. 1, primo comma -- Direttiva 2009/103/CE -- Artt. 10, 12, n. 1, e 13, n. 1
+-- Vittima di un incidente stradale quale passeggero di un veicolo per il
+quale e assicurata come conducente -- Veicolo guidato da una persona non
+assicurata dalla polizza di assicurazione -- Vittima assicurata non esclusa
+dal beneficio dell'assicurazione»
+
+Massime della sentenza
+
+_Ravvicinamento delle legislazioni -- Assicurazione responsabilita civile per
+gli autoveicoli -- Portata della garanzia a favore dei terzi apprestata
+dall'assicurazione obbligatoria -- Clausole di esclusione -- Incidente causato
+da un conducente non assicurato_
+
+_(Direttive del Consiglio 72/166, 84/5, art.  2, n. 1, e 90/232, art. 1, primo
+comma)_
+
+L'art. 1, primo comma, della terza direttiva 90/232 e l'art. 2, n. 1, della
+seconda direttiva 84/5, concernente il ravvicinamento delle legislazioni degli
+Stati membri in materia di assicurazione della responsabilita civile
+risultante dalla circolazione di autoveicoli, devono essere interpretati nel
+senso che ostano a una normativa nazionale che produca l'effetto di escludere
+in modo automatico l'obbligo in capo all'assicuratore di risarcire la vittima
+di un incidente stradale qualora tale incidente sia stato causato da un
+conducente non assicurato dalla polizza assicurativa e detta vittima,
+passeggero del veicolo al momento dell'incidente, fosse assicurata per la
+guida di tale veicolo e avesse dato a tale conducente il permesso di guidarlo.
+
+Tale interpretazione non e diversa a seconda che l'assicurato vittima fosse
+consapevole del fatto che la persona che egli ha autorizzato a guidare il
+veicolo non era assicurata a tal fine, oppure che fosse convinto che essa
+fosse assicurata, oppure ancora che si sia posto o no domande a tale riguardo.
+
+Infatti, l'assicurazione della responsabilita civile per autoveicoli prevista
+dall'art. 3, n. 1, della prima direttiva 72/166, concernente il ravvicinamento
+delle legislazioni degli Stati membri in materia di assicurazione della
+responsabilita civile risultante dalla circolazione di autoveicoli, deve
+coprire tutte le vittime diverse dal conducente del veicolo che ha causato il
+danno, a meno che non ricorra una delle eccezioni espressamente previste dalla
+prima, seconda o terza direttiva.
+
+(v. punti 44, 46, 50, dispositivo 1-2)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+1° dicembre 2011 (*)
+
+«Assicurazione obbligatoria della responsabilita civile per gli autoveicoli -
+Direttiva 84/5/CEE - Artt. 1, n. 4, e 2, n. 1 - Terzo vittima - Autorizzazione
+alla guida esplicita o implicita - Direttiva 90/232/CEE - Art. 1, primo comma
+- Direttiva 2009/103/CE - Artt. 10, 12, n. 1, e 13, n. 1 - Vittima di un
+incidente stradale quale passeggero di un veicolo per il quale e assicurata
+come conducente - Veicolo guidato da una persona non assicurata dalla polizza
+di assicurazione - Vittima assicurata non esclusa dal beneficio
+dell'assicurazione»
+
+Nel procedimento C‑442/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dalla Court of Appeal (England & Wales) (Civil
+Division) (Regno Unito), con decisione 26 agosto 2010, pervenuta in
+cancelleria il 13 settembre 2010, nella causa
+
+**Churchill Insurance Company Limited**
+
+contro
+
+**Benjamin Wilkinson,**
+
+e
+
+**Tracy Evans**
+
+contro
+
+**Equity Claims Limited,**
+
+LA CORTE (Quarta Sezione),
+
+composta dal sig. J.‑C. Bonichot, presidente di sezione, dalla sig.ra A.
+Prechal, dal sig. L. Bay Larsen, dalla sig.ra C. Toader e dal sig. E.
+Jarašiūnas (relatore), giudici,
+
+avvocato generale: sig. P. Mengozzi
+
+cancelliere: sig.ra R. Şereş, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza del 7 luglio
+2011,
+
+considerate le osservazioni presentate:
+
+-        per la Churchill Insurance Company Limited, dai sigg. F. Randolph, barrister, e S. Worthington, QC;
+
+-        per il sig. Wilkinson, dai sigg. C. Quigley e S. Grime, QC;
+
+-        per la sig.ra Evans, dai sigg. G. Wood e C. Quigley, QC;
+
+-        per la Equity Claims Limited, dal sig. W.R.O. Hunter, QC, delegato dalla sig.ra J. Herzog, solicitor;
+
+-        per il governo del Regno Unito, dal sig. L. Seeboruth, in qualita di agente;
+
+-        per la Commissione europea, dal sig. K.‑P. Wojcik e dalla sig.ra N. Yerrell, in qualita di agenti,
+
+sentite le conclusioni dell'avvocato generale, presentate all'udienza del 6
+settembre 2011,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+degli artt. 12, n. 1, e 13, n. 1, della direttiva del Parlamento europeo e del
+Consiglio 16 settembre 2009, 2009/103/CE, concernente l'assicurazione della
+responsabilita civile risultante dalla circolazione di autoveicoli e il
+controllo dell'obbligo di assicurare tale responsabilita (GU L 263, pag. 11).
+
+2        Tale domanda e stata presentata nell'ambito di controversie tra, da
+un lato, la Churchill Insurance Company Limited (in prosieguo: la «Churchill»)
+e il sig. Wilkinson, e, dall'altro, la sig.ra Evans e la Equity Claims Limited
+(in prosieguo: la «Equity») in merito all'indennizzo dei danni subiti a causa
+di incidenti automobilistici.
+
+  **Contesto normativo**
+
+  _Il diritto dell 'Unione_
+
+3        Ai sensi dell'art. 3, n. 1, della direttiva del Consiglio 24 aprile
+1972, 72/166/CEE, concernente il ravvicinamento delle legislazioni degli Stati
+membri in materia di assicurazione della responsabilita civile risultante
+dalla circolazione di autoveicoli, e di controllo dell'obbligo di assicurare
+tale responsabilita (GU L 103, pag. 1; in prosieguo: la «prima direttiva»):
+
+«Ogni Stato membro adotta tutte le misure necessarie [...] affinche la
+responsabilita civile relativa alla circolazione dei veicoli che stazionano
+abitualmente nel suo territorio sia coperta da un'assicurazione. I danni
+coperti e le modalita dell'assicurazione sono determinati nell'ambito di tali
+misure».
+
+4        La seconda direttiva del Consiglio 30 dicembre 1983, 84/5/CEE,
+concernente il ravvicinamento delle legislazioni degli Stati membri in materia
+di assicurazione della responsabilita civile risultante dalla circolazione di
+autoveicoli (GU 1984, L 8, pag. 17; in prosieguo: la «seconda direttiva»), nei
+suoi 'considerando' sesto, settimo ed ottavo, prevede quanto segue:
+
+«considerando che e necessario prevedere che un organismo garantisca che la
+vittima non resti senza indennizzo se il veicolo che ha provocato il sinistro
+non e assicurato o non viene identificato; che occorre prevedere, senza
+modificare le disposizioni applicate dagli Stati membri per quanto riguarda il
+carattere sussidiario o no dell'intervento di tale organismo nonche le norme
+applicabili in materia di surrogazione, che la vittima di un siffatto sinistro
+possa rivolgersi direttamente a questo organismo quale primo punto di
+contatto; che e tuttavia opportuno dare agli Stati membri la possibilita di
+applicare talune esclusioni limitate per quanto riguarda l'intervento di
+questo organismo e di prevedere nel caso dei danni alle cose provocati da un
+veicolo non identificato, dati i rischi di frode, che l'indennizzo dei danni
+possa essere limitato o escluso;
+
+considerando che e interesse delle vittime che gli effetti di talune clausole
+di esclusione siano limitati alle relazioni tra l'assicuratore ed il
+responsabile del sinistro; che, tuttavia, in caso di veicoli rubati o ottenuti
+con la violenza, gli Stati membri possono prevedere che il citato organismo
+intervenga per indennizzare la vittima;
+
+considerando che per alleggerire l'onere finanziario a carico di tale
+organismo gli Stati membri possono prevedere l'applicazione di talune
+franchigie in caso di intervento per l'indennizzo dei danni alle cose causati
+da veicoli non assicurati o, eventualmente, rubati o ottenuti con la
+violenza».
+
+5        L'art. 1, n. 4, della seconda direttiva prevede che ciascuno Stato
+membro crei o autorizzi un organismo con il compito di rimborsare, almeno
+entro i limiti dell'obbligo di assicurazione, i danni alle cose o alle persone
+causati da un veicolo non identificato o non assicurato (in prosieguo:
+l'«organismo nazionale»). Tale disposizione prevede, al suo terzo comma:
+
+«(...) [G]li Stati membri possono escludere dall'intervento di tale organismo
+le persone che per loro spontanea volonta hanno preso posto nel veicolo che ha
+causato il sinistro, se l'organismo puo dimostrare che esse erano al corrente
+del fatto che il veicolo non era assicurato».
+
+6        In forza del quarto comma di tale disposizione, gli Stati membri
+possono parimenti limitare o escludere l'intervento di tale organismo in caso
+di danni alle cose causati da un veicolo non identificato e, ai sensi del
+quinto comma della citata disposizione, possono autorizzare per i danni alle
+cose, causati da un veicolo non assicurato, una franchigia, opponibile alla
+vittima, non superiore a EUR 500\.
+
+7        Le norme applicabili a tali organismi nazionali sono state in seguito
+precisate e completate, in particolare dalla direttiva del Parlamento europeo
+e del Consiglio 11 maggio 2005, 2005/14/CE, che modifica le direttive del
+Consiglio 72/166/CEE, 84/5/CEE, 88/357/CEE e 90/232/CEE e la direttiva
+2000/26/CE del Parlamento europeo e del Consiglio sull'assicurazione della
+responsabilita civile risultante dalla circolazione di autoveicoli (GU L 149,
+pag. 14). L'art. 1, n. 4, terzo comma, della seconda direttiva e quindi
+diventato, in sostanza, l'art. 1, n. 5, secondo comma, della seconda
+direttiva, come modificata dalla direttiva 2005/14.
+
+8        L'art. 2, n. 1, della seconda direttiva prevede quanto segue:
+
+«Ciascuno Stato membro prende le misure necessarie affinche qualsiasi
+disposizione legale o clausola contrattuale contenuta in un contratto di
+assicurazione rilasciato conformemente all'articolo 3, paragrafo 1, della
+[prima direttiva], che escluda dall'assicurazione l'utilizzo o la guida di
+autoveicoli da parte:
+
+-        di persone non aventi l'autorizzazione esplicita o implicita o 
+
+-        di persone non titolari di una patente di guida che consenta loro di guidare l'autoveicolo in questione o
+
+-        di persone che non si sono conformate agli obblighi di legge di ordine tecnico concernenti le condizioni e la sicurezza del veicolo in questione, 
+
+sia considerata, per l'applicazione dell'articolo 3, paragrafo 1, della [prima
+direttiva], senza effetto per quanto riguarda l'azione dei terzi vittime di un
+sinistro.
+
+Tuttavia, la clausola di cui al primo trattino puo essere opposta alle persone
+che di loro spontanea volonta hanno preso posto nel veicolo che ha causato il
+danno se l'assicuratore puo provare che esse erano a conoscenza del fatto che
+il veicolo era rubato.
+
+(...)».
+
+9        Ai sensi dei 'considerando' quarto e quinto della terza direttiva del
+Consiglio 14 maggio 1990, 90/232/CEE, relativa al ravvicinamento delle
+legislazioni degli Stati membri in materia di assicurazione della
+responsabilita civile risultante dalla circolazione di autoveicoli (GU L 129,
+pag. 33; in prosieguo: la «terza direttiva»):
+
+«considerando che occorre garantire che le vittime di sinistri della
+circolazione automobilistica ricevano un trattamento comparabile
+indipendentemente dal luogo della Comunita ove il sinistro e avvenuto;
+
+considerando in particolare che in alcuni Stati membri esistono lacune nella
+copertura fornita dall'assicurazione obbligatoria dei passeggeri di
+autoveicoli; che, per proteggere tale categoria particolarmente vulnerabile di
+vittime potenziali, e necessario colmare tali lacune».
+
+10      L'art. 1, primo comma, della terza direttiva prevede quanto segue:
+
+«Fatto salvo l'articolo 2, paragrafo 1, secondo comma, della [seconda
+direttiva], l'assicurazione di cui all'articolo 3, paragrafo 1, della [prima
+direttiva] copre la responsabilita per i danni alla persona di qualsiasi
+passeggero, diverso dal conducente, derivanti dall'uso del veicolo».
+
+11      La direttiva 2009/103 ha codificato le direttive preesistenti in
+materia di assicurazione della responsabilita civile risultante dalla
+circolazione di autoveicoli (in prosieguo: la «responsabilita civile per gli
+autoveicoli») e ha abrogato, di conseguenza, queste ultime con effetto a
+decorrere dal 27 ottobre 2009. Secondo la tavola di concordanza prevista
+nell'allegato II di tale direttiva, l'art. 3, n. 1, della prima direttiva
+corrisponde all'art. 3, primo e secondo comma, della direttiva 2009/103, gli
+artt. 1, n. 4, terzo comma, e 2, n. 1, della seconda direttiva corrispondono
+rispettivamente agli artt. 10, n. 2, secondo comma, e 13, n. 1, della
+direttiva 2009/103, e l'art. 1, primo comma, della terza direttiva corrisponde
+all'art. 12, n. 1, della direttiva 2009/103.
+
+  _Il diritto nazionale_
+
+12      L'art. 151 della legge del 1988 sulla circolazione stradale (Road
+Traffic Act 1988; in prosieguo: la «legge del 1988»), relativo all'obbligo in
+capo gli assicuratori di dare esecuzione ad una decisione sulla responsabilita
+civile del tipo di quella coperta dalla polizza di assicurazione obbligatoria,
+dispone:
+
+«1.      Il presente articolo si applica quando, in seguito al rilascio (…) di
+un certificato di assicurazione (…) al beneficiario di un contratto di
+assicurazione (…) venga pronunciata una sentenza avente ad oggetto
+l'applicazione del presente paragrafo.
+
+(...)
+
+5.      Anche qualora avesse o avesse avuto la facolta di procedere alla risoluzione o rescissione del contratto di assicurazione (…), l'assicuratore e tenuto, fatte salve le disposizioni del presente articolo, a corrispondere a coloro che traggono beneficio dalla sentenza: 
+
+a)      per la responsabilita in caso di decesso o lesioni personali,
+l'importo dovuto secondo la sentenza in relazione a detta responsabilita
+(...),
+
+(...)
+
+(…).
+
+8.      Qualora sia obbligato a versare un risarcimento in forza del presente articolo per responsabilita di un conducente non assicurato (…), l'assicuratore puo pretendere il rimborso dell'importo corrispondente da tale conducente o da chiunque 
+
+a)      sia assicurato in virtu del contratto di assicurazione (…), secondo il
+quale la responsabilita sarebbe assicurata se il contratto stesso fosse
+applicabile a qualunque conducente (…), e
+
+b)      abbia causato o autorizzato l'uso del veicolo che ha fatto sorgere la
+responsabilita
+
+(...)».
+
+  **Cause principali e questioni pregiudiziali**
+
+13      Il sig. Wilkinson era menzionato come conducente in una polizza
+assicurativa sottoscritta presso la Churchill per la guida di un autoveicolo.
+Il 23 novembre 2005, egli permetteva ad un amico di guidare tale autoveicolo e
+prendeva posto nello stesso come passeggero. È pacifico che il sig. Wilkinson
+sapeva che tale persona non era assicurata da detta polizza assicurativa. Il
+conducente perdeva il controllo del citato autoveicolo, il quale andava a
+scontrarsi con un veicolo proveniente in senso opposto. Il sig. Wilkinson e
+stato gravemente ferito. La Churchill riconosceva l'indennizzo al sig.
+Wilkinson, ma pretendeva, in forza dell'art. 151, n. 8, della legge del 1988,
+che quest'ultimo, in quanto assicurato, le versasse un rimborso dell'importo
+pari a quello dell'indennizzo concesso, il che veniva contestato dal sig.
+Wilkinson. Poiche il giudice di primo grado ha adottato una decisione
+favorevole a quest'ultimo, la Churchill impugnava tale decisione dinanzi al
+giudice del rinvio.
+
+14      La sig.ra Evans, proprietaria di un ciclomotore assicurato presso la
+Equity, era assicurata come unico conducente di tale veicolo. Il 4 agosto
+2004, essa consentiva ad un amico di guidare tale ciclomotore e prendeva posto
+come passeggero nella parte posteriore dello stesso. Per negligenza, il
+conducente tamponava un camion. La sig.ra Evans veniva gravemente ferita. Il
+giudice di primo grado considerava che, dando a tale conducente il permesso di
+guidare il suo ciclomotore, la sig.ra Evans non si era posta la questione di
+sapere se quest'ultimo fosse assicurato a tal fine. Esso decideva dunque che
+la Equity era legittimata, in forza dell'art. 151, n. 8, della legge del 1988,
+ad ottenere un rimborso pari alle somme che avrebbe dovuto versare alla sig.ra
+Evans, dal momento che quest'ultima aveva autorizzato una persona non
+assicurata a guidare il ciclomotore. La sig.ra Evans impugnava tale decisione
+dinanzi al giudice del rinvio.
+
+15      La Churchill e la Equity fanno valere dinanzi a quest'ultimo che
+l'art. 151, n. 8, della legge del 1988 non costituisce una disposizione «che
+escluda dall'assicurazione», ai sensi dell'art. 13, n. 1, della direttiva
+2009/103, e che ciascuno dei conducenti di cui trattasi disponeva
+dell'autorizzazione richiesta per utilizzare o guidare il rispettivo veicolo.
+Per contro, il sig. Wilkinson e la sig.ra Evans fanno valere, da un lato, che
+tale disposizione, se applicata ad un assicurato vittima di modo che
+quest'ultimo non possa ricevere alcun versamento da parte del suo
+assicuratore, esclude tale vittima dall'assicurazione, ai sensi del citato
+art. 13, n. 1, e, dall'altro, che l'autorizzazione cui fa riferimento tale
+disposizione e quella dell'assicuratore e non dell'assicurato.
+
+16      Il giudice del rinvio indica che, nel diritto inglese, la portata
+dell'art. 151, n. 8, della legge del 1988 produce l'effetto di escludere in
+modo automatico dal beneficio dell'assicurazione l'assicurato il quale, avendo
+preso posto come passeggero nel veicolo per la guida del quale e assicurato,
+abbia dato il permesso di guidarlo ad un conducente non assicurato. Esso si
+chiede se il diritto dell'Unione osti ad una siffatta esclusione e se,
+eventualmente, tale disposizione possa essere oggetto di un'interpretazione
+conforme al diritto dell'Unione.
+
+17      Il giudice del rinvio ritiene che, secondo la giurisprudenza, l'art.
+12, n. 1, della direttiva 2009/103 deve essere interpretato estensivamente.
+Esso rileva tuttavia che, in circostanze come quelle di cui e investito, una
+siffatta interpretazione implicherebbe una disparita di trattamento rispetto
+alla situazione disciplinata dall'art. 10, n. 2, della citata direttiva. Esso
+sottolinea parimenti che la situazione in cui si trova il passeggero di un
+veicolo, il quale sia l'assicurato e che consenta ad un conducente non
+assicurato di guidarlo, puo variare a seconda che tale passeggero sia o meno
+al corrente del fatto che tale conducente non e assicurato ovvero a seconda
+che il citato passeggero si sia posto o meno la questione se detto conducente
+sia assicurato.
+
+18      Pertanto, la Court of Appeal (England & Wales) (Civil Division) ha
+deciso di sospendere il procedimento e di sottoporre alla Corte le seguenti
+questioni pregiudiziali:
+
+«1)      Se gli artt. 12, n. 1, e 13, n. 1, della direttiva [2009/103] debbano
+essere interpretati nel senso che ostano a disposizioni nazionali secondo cui,
+conformemente al diritto nazionale applicabile, la vittima di un incidente
+stradale deve essere esclusa dal beneficio dell'assicurazione qualora:
+
+-        l'incidente sia stato causato da un conducente non assicurato; 
+
+-        detto conducente non assicurato sia stato autorizzato dalla vittima a guidare il veicolo; 
+
+-        la vittima viaggiasse come passeggero sul veicolo al momento dell'incidente; e 
+
+-        la vittima fosse assicurata quale conducente del veicolo in questione.
+
+In particolare:
+
+-        se una disposizione nazionale di tal tipo sia una disposizione che "esclud[e] dall'assicurazione" ai sensi dell'art. 13, n. 1, della direttiva [2009/103]; 
+
+-        se, in circostanze come quelle oggetto della presente causa, l'autorizzazione data [dall'assicurato] al non assicurato sia un'"autorizzazione esplicita o implicita" ai sensi dell'art. 13, n. 1, lett. a), della direttiva [2009/103]; 
+
+-        se sulla soluzione della prima questione incida il fatto che, ai sensi dell'art. 10 della direttiva [2009/103], gli organismi nazionali incaricati del risarcimento in caso di danni causati da un veicolo non identificato o non assicurato possono escludere il pagamento dell'indennizzo per le persone che di loro spontanea volonta hanno preso posto nel veicolo che ha causato il danno se l'organismo puo dimostrare che esse erano al corrente del fatto che il veicolo non era assicurato. 
+
+2)      Se la soluzione della prima questione dipenda dalla circostanza che
+l'autorizzazione di cui trattasi sia stata data [...] con effettiva
+consapevolezza del fatto che il conducente in questione non era assicurato,
+oppure [...] in base alla convinzione che il conducente fosse assicurato,
+ovvero [...] senza che l'assicurato si sia posto tale domanda».
+
+  **Sulle questioni pregiudiziali**
+
+  _Sulla prima questione_
+
+19      Occorre rilevare in via preliminare che la direttiva 2009/103 non era
+in vigore al momento del verificarsi dei fatti della causa principale. Si deve
+pertanto intendere la questione sottoposta nel senso che essa si riferisce non
+alle disposizioni della direttiva 2009/103, bensi a quelle corrispondenti
+della seconda e della terza direttiva, le quali sono applicabili ratione
+temporis a tali fatti e sono state poi riprese nella direttiva 2009/103.
+
+20      Ne consegue che, con la sua prima questione, il giudice del rinvio
+chiede, sostanzialmente, se gli artt. 1, primo comma, della terza direttiva, e
+2, n. 1, della seconda direttiva debbano essere interpretati nel senso che
+essi ostano a una normativa nazionale la quale produce l'effetto di escludere
+in modo automatico dal beneficio dell'assicurazione la vittima di un incidente
+stradale qualora tale incidente sia stato causato da un conducente non
+assicurato e laddove tale vittima, passeggero del veicolo al momento
+dell'incidente, fosse assicurata per la guida di tale veicolo e avesse dato a
+detto conducente il permesso di guidarlo.
+
+21      A tale proposito, la Churchill e la Equity fanno anzitutto valere che
+le disposizioni della direttiva 2009/103 corrispondenti all'art. 2, n. 1,
+della seconda direttiva non sono applicabili al caso di specie. L'art. 151, n.
+8, della legge del 1988 non costituirebbe un'esclusione dalla copertura
+assicurativa obbligatoria. Quest'ultima disposizione, a loro parere, produce
+semplicemente l'effetto di autorizzare un assicuratore, il quale sia tenuto a
+versare un indennizzo a causa della responsabilita di un conducente non
+coperto dall'assicurazione, ad esercitare un'azione di regresso nei confronti
+dell'assicurato al fine di recuperare tale indennizzo qualora quest'ultimo
+abbia indotto o permesso l'utilizzo del veicolo da parte di tale conducente.
+
+22      Tuttavia, secondo una giurisprudenza costante, nell'ambito del
+procedimento istituito dall'art. 267 TFUE, le funzioni della Corte e quelle
+del giudice del rinvio sono chiaramente separate, ed e esclusivamente al
+secondo che spetta interpretare il suo diritto nazionale e valutarne gli
+effetti (v. sentenze 3 febbraio 1977, causa 52/76, Benedetti, Racc. pag. 163,
+punto 25; 21 settembre 1999, causa C‑397/96, Kordel e a., Racc. pag. I‑5959,
+punto 25, nonche 17 luglio 2008, causa C‑500/06, Corporacion Dermoestetica,
+Racc. pag. I‑5785, punto 21).
+
+23      Orbene, emerge dalla decisione di rinvio che il giudice adito in via
+principale interpreta l'art. 151, n. 8, della legge del 1988, in circostanze
+come quelle descritte nella prima questione pregiudiziale, non nel senso che
+quest'ultimo prevede il versamento di un indennizzo da parte dell'assicuratore
+all'assicurato vittima, seguito da un rimborso di tale indennizzo da parte
+dell'assicurato all'assicuratore, bensi nel senso che esso produce l'effetto
+di escludere automaticamente dal beneficio dell'assicurazione un passeggero
+vittima di un incidente stradale che era assicurato e che ha dato il permesso
+di guidare ad un conducente non assicurato.
+
+24      Ne consegue che le questioni di cui e investita la Corte nel caso di
+specie non vertono sulla compatibilita con il diritto dell'Unione di una norma
+che disciplina la responsabilita civile, bensi sono attinenti alla
+compatibilita con tale diritto di una disposizione la quale, secondo
+l'interpretazione del giudice del rinvio, poiche esclude in modo automatico il
+beneficio dell'indennizzo eventualmente dovuto all'assicurato, limita la
+portata della copertura della responsabilita civile. Le questioni sottoposte
+rientrano dunque sicuramente nell'ambito di applicazione della normativa
+dell'Unione in tale materia.
+
+25      La Churchill, la Equity nonche il governo del Regno Unito fanno
+valere, inoltre, che la prima questione dev'essere risolta in senso negativo.
+Infatti, coloro che si trovano in una situazione analoga a quella del sig.
+Wilkinson e della sig.ra Evans non potrebbero essere qualificati come terzi
+vittime ai sensi dell'art. 2, n. 1, della seconda direttiva.
+
+26      Il sig. Wilkinson, la sig.ra Evans e la Commissione europea
+considerano, invece, che la normativa dell'Unione in materia di assicurazione
+obbligatoria della responsabilita civile per gli autoveicoli osta ad una
+disposizione nazionale come quella descritta nella prima questione. La
+Commissione ritiene, in particolare, che la vittima di un incidente stradale
+non possa essere esclusa dalla qualifica di passeggero per il semplice motivo
+che essa e nel contempo la persona assicurata. Di conseguenza, secondo la
+Commissione, una vittima che sia nel contempo l'assicurato deve essere
+assimilata ad un terzo vittima ai sensi dell'art. 2, n. 1, della seconda
+direttiva.
+
+27      A tale proposito, occorre ricordare che la normativa dell'Unione in
+materia di assicurazione obbligatoria della responsabilita civile per gli
+autoveicoli e diretta a garantire la libera circolazione sia dei veicoli che
+stazionano abitualmente nel territorio dell'Unione sia delle persone che si
+trovano a bordo dei medesimi, nonche a garantire che le vittime degli
+incidenti causati da tali veicoli beneficino di un trattamento comparabile
+indipendentemente dal luogo dell'Unione dove il sinistro e avvenuto (v., in
+particolare, sentenze 28 marzo 1996, causa C‑129/94, Ruiz Bernaldez, Racc.
+pag. I‑1829, punto 13, e 30 giugno 2005, causa C‑537/03, Candolin e a., Racc.
+pag. I‑5745, punto 17). Tale normativa ha parimenti per obiettivo, a tenore
+del quinto 'considerando' della terza direttiva, quello di proteggere la
+categoria particolarmente vulnerabile di vittime potenziali costituita dai
+passeggeri degli autoveicoli, colmando le lacune nella copertura assicurativa
+obbligatoria di tali passeggeri in taluni Stati membri (sentenza 19 aprile
+2007, causa C‑356/05, Farrell, Racc. pag. I‑3067, punto 24).
+
+28      A tal fine, l'art. 3, n. 1, della prima direttiva, come precisato e
+integrato dalla seconda e dalla terza direttiva, impone agli Stati membri di
+garantire che la responsabilita civile relativa alla circolazione dei veicoli
+che stazionano abitualmente sul loro territorio sia coperta da
+un'assicurazione e precisa, in particolare, i tipi di danni e i terzi vittime
+che tale assicurazione deve coprire (v., in tal senso, sentenze 14 settembre
+2000, causa C‑348/98, Mendes Ferreira e Delgado Correia Ferreira, Racc. pag.
+I‑6711, punti 25‑27, nonche 17 marzo 2011, causa C‑484/09, Carvalho Ferreira
+Santos, Racc. pag. I‑1821, punti 25‑27).
+
+29      A tal ultimo proposito, la Corte ha gia avuto modo di rilevare che
+l'obiettivo degli artt. 3, n. 1, della prima direttiva, 2, n. 1, della seconda
+direttiva e 1 della terza direttiva consiste nel garantire che l'assicurazione
+obbligatoria per gli autoveicoli consenta a tutti i passeggeri vittime di un
+incidente causato da un veicolo di essere risarciti dei danni dai medesimi
+subiti (v., in tal senso, sentenza Candolin e a., cit., punto 27). Essa ha
+anche considerato che, nel prevedere che l'assicurazione obbligatoria della
+responsabilita civile degli autoveicoli copra la responsabilita per i danni
+alla persona di tutti i passeggeri ad eccezione del conducente, l'art. 1 della
+terza direttiva si limita a fissare una distinzione tra il detto conducente e
+gli altri passeggeri e riconosce incontestabilmente una copertura assicurativa
+a tutti i passeggeri (citate sentenze Candolin e a., punto 32, e Farrell,
+punto 23).
+
+30      Alla luce di tale elemento, la Corte ha stabilito che l'obiettivo di
+tutela delle vittime, perseguito dalla prima, seconda e terza direttiva, e
+rammentato al punto 27 della presente sentenza, impone che la posizione
+giuridica del proprietario del veicolo che si trovava a bordo del medesimo al
+momento del sinistro, non come conducente, bensi come passeggero, sia
+assimilata a quella di qualsiasi altro passeggero vittima dell'incidente
+(sentenza Candolin e a., cit., punto 33). Analogamente, essa ha deciso che
+tale obiettivo osta anche al fatto che una normativa nazionale restringa
+indebitamente la nozione di passeggero coperto dall'assicurazione obbligatoria
+della responsabilita civile per gli autoveicoli, escludendo da tale nozione
+coloro che abbiano viaggiato in una parte dell'autoveicolo che non era ne
+progettata ne equipaggiata per il trasporto di passeggeri (v., in tal senso,
+sentenza Farrell, cit., punti 28‑30).
+
+31      Atteso che l'unica distinzione ammessa dalla normativa dell'Unione in
+materia di assicurazione obbligatoria della responsabilita civile per gli
+autoveicoli e, quindi, come rilevato al punto 29 della presente sentenza e
+sottolineato dall'avvocato generale al paragrafo 28 delle sue conclusioni,
+quella tra conducente e passeggero, il medesimo obiettivo di tutela delle
+vittime impone anche che la situazione giuridica della persona che era
+assicurata per la guida del veicolo, ma che era passeggero di tale veicolo al
+momento dell'incidente, sia assimilata a quella di qualsivoglia altro
+passeggero vittima di tale incidente.
+
+32      Ne consegue che la circostanza che una persona fosse assicurata per
+guidare il veicolo all'origine dell'incidente non consente di escludere tale
+persona dalla nozione di terzo vittima ai sensi dell'art. 2, n. 1, della
+seconda direttiva, qualora essa fosse passeggero, e non conducente, di tale
+veicolo.
+
+33      Relativamente ai diritti riconosciuti a siffatti terzi vittime,
+occorre rammentare che la Corte ha giudicato che l'art. 3, n. 1, della prima
+direttiva osta a che l'assicuratore della responsabilita civile per
+autoveicoli possa valersi di disposizioni legali o di clausole contrattuali
+allo scopo di negare a detti terzi il risarcimento di un sinistro causato dal
+veicolo assicurato (v., in tal senso, citate sentenze Ruiz Bernaldez, punto
+20; Candolin e a., punto 18, nonche Carvalho Ferreira Santos, punto 29).
+
+34      La Corte ha parimenti rilevato che l'art. 2, n. 1, primo comma, della
+seconda direttiva si limita a ricordare tale obbligo quanto alle disposizioni
+o alle clausole di una polizza assicurativa previste dal citato articolo che
+escludano dalla copertura da parte dell'assicurazione della responsabilita
+civile per autoveicoli i danni causati ai terzi vittime a causa dell'utilizzo
+o della guida del veicolo assicurato da parte di persone non autorizzate a
+guidarlo, non titolari di una patente di guida o persone che non si sono
+conformate agli obblighi di legge di ordine tecnico concernenti le condizioni
+e la sicurezza del veicolo (citate sentenze Ruiz Bernaldez, punto 21; Candolin
+e a., punto 19, nonche Carvalho Ferreira Santos, punto 30).
+
+35      Certamente, in deroga a tale obbligo, l'art. 2, n. 1, secondo comma,
+della seconda direttiva prevede che talune vittime potranno non essere
+risarcite dall'assicuratore, tenuto conto della situazione da esse stesse
+creata, vale a dire le persone che hanno preso posto nel veicolo che ha
+causato il danno qualora l'assicuratore possa provare che esse erano a
+conoscenza del fatto che il veicolo era stato rubato (citate sentenze Ruiz
+Bernaldez, punto 21, nonche Candolin e a., punto 20). Tuttavia, e come gia
+constatato dalla Corte, non si puo derogare all'art. 2, n. 1, primo comma,
+della seconda direttiva se non in questo solo caso particolare (v., in tal
+senso, sentenza Candolin e a., cit., punto 23).
+
+36      Emerge da quanto suesposto che gli artt. 1, primo comma, della terza
+direttiva, e 2, n. 1, della seconda direttiva devono essere interpretati nel
+senso che essi ostano a una normativa nazionale la quale produca l'effetto di
+escludere in modo automatico l'obbligo in capo all'assicuratore di
+indennizzare un passeggero, vittima di un incidente stradale, per il fatto che
+tale passeggero era assicurato per la guida del veicolo che gli ha causato il
+danno e che il conducente non lo era.
+
+37      In tale contesto il giudice del rinvio chiede parimenti alla Corte di
+chiarire se l'autorizzazione alla guida data dall'assicurato ad un conducente
+non assicurato costituisca, in circostanze come quelle delle cause in via
+principale, un'«autorizzazione esplicita o implicita» ai sensi dell'art. 2, n.
+1, primo trattino, della seconda direttiva. Come ha sottolineato l'avvocato
+generale al paragrafo 42 delle sue conclusioni, esso sottopone tale questione
+per sapere se possano essere opposte alla vittima disposizioni normative o
+clausole contrattuali che escludano la copertura assicurativa in caso di guida
+da parte di una persona non autorizzata esplicitamente o implicitamente
+dall'assicuratore a tal fine.
+
+38      Tale questione non puo essere risolta in senso affermativo. Anche a
+voler supporre che i termini «autorizzazione esplicita o implicita» riguardino
+unicamente l'autorizzazione data dall'assicurato, non si potrebbe, in ogni
+caso, dedurne che una clausola di esclusione della copertura in caso di guida
+da parte di una persona che non abbia ricevuto l'autorizzazione
+dell'assicuratore sarebbe valida e opponibile ad un terzo vittima di un
+sinistro. Infatti, l'unico caso in cui un terzo vittima puo essere escluso
+dalla copertura e quello contemplato dall'art. 2, n. 1, secondo comma, della
+seconda direttiva. Orbene, e pacifico che, nel caso di specie, tale ipotesi
+non ricorre.
+
+39      Cio posto, il giudice del rinvio si chiede parimenti se possa
+influenzare la soluzione che occorre fornire alla prima questione la
+circostanza che, in forza dell'art. 1, n. 4, terzo comma, della seconda
+direttiva, gli Stati membri possono escludere l'intervento dell'organismo
+nazionale per quanto riguarda le persone che per loro spontanea volonta hanno
+preso posto nel veicolo che ha causato il sinistro, se detto organismo puo
+dimostrare che esse erano al corrente del fatto che ne il conducente, ne il
+veicolo erano assicurati.
+
+40      A tale proposito rileva, in primo luogo, sottolineare che la
+situazione nella quale il veicolo che ha causato il danno era guidato da una
+persona non assicurata a tal fine, laddove un altro conducente era peraltro
+assicurato per la guida di tale veicolo, e quella prevista dall'art. 1, n. 4,
+terza comma, della seconda direttiva, nella quale il veicolo che ha causato
+l'incidente non era oggetto di nessuna polizza assicurativa, non sono
+situazioni ne simili ne paragonabili. Infatti, la circostanza che un veicolo
+sia guidato da una persona non indicata in una polizza assicurativa ad esso
+relativa non puo consentire di considerare, tenuto conto, in particolare,
+dell'obiettivo di tutela delle vittime di incidenti stradali perseguito dalla
+prima, seconda e terza direttiva, che un siffatto veicolo non sia assicurato
+ai sensi della citata disposizione.
+
+41      In secondo luogo, come rilevato dalla Commissione, l'intervento
+dell'organismo nazionale e concepito come ultima ratio, prevista unicamente
+nel caso in cui i danni siano stati causati da un veicolo non identificato o
+da un veicolo per il quale non sia stato adempiuto l'obbligo di assicurazione
+previsto dall'art. 3, n. 1, della prima direttiva.
+
+42      Cio spiega perche, nonostante l'obiettivo generale di tutela delle
+vittime perseguito dalla normativa dell'Unione in materia di assicurazione
+obbligatoria della responsabilita civile per gli autoveicoli, il legislatore
+dell'Unione abbia consentito agli Stati membri di escludere l'intervento di
+tale organismo in alcuni casi limitati, e in particolare per quanto riguarda
+le persone che per loro spontanea volonta hanno preso posto nel veicolo che ha
+causato il danno, se l'organismo puo dimostrare che esse erano al corrente del
+fatto che ne il conducente ne il veicolo erano assicurati.
+
+43      Di conseguenza, la circostanza che, in forza dell'art. 1, n. 4, terzo
+comma, della seconda direttiva, gli Stati membri possono escludere
+l'intervento dell'organismo nazionale per quanto riguarda le persone che per
+loro spontanea volonta hanno preso posto nel veicolo che ha causato il danno,
+se l'organismo puo dimostrare che esse erano al corrente del fatto che ne il
+conducente ne il veicolo erano assicurati, non incide, nel caso di specie,
+sull'interpretazione degli artt. 1, primo comma, della terza direttiva, e 2,
+n. 1, della seconda direttiva.
+
+44      Alla luce di tutte le considerazioni che precedono si deve risolvere
+la prima questione dichiarando che gli artt. 1, primo comma, della terza
+direttiva e 2, n. 1, della seconda direttiva devono essere interpretati nel
+senso che essi ostano a una normativa nazionale la quale produca l'effetto di
+escludere in modo automatico l'obbligo in capo all'assicuratore di risarcire
+la vittima di un incidente stradale qualora tale incidente sia stato causato
+da un conducente non assicurato dalla polizza assicurativa e detta vittima,
+passeggero del veicolo al momento dell'incidente, fosse assicurata per la
+guida di tale veicolo e avesse dato a tale conducente il permesso di guidarlo.
+
+  _Sulla seconda questione_
+
+45      Con la sua seconda questione il giudice del rinvio chiede,
+sostanzialmente, se la soluzione della prima questione possa variare a seconda
+che l'assicurato vittima sia stato consapevole del fatto che la persona che
+egli ha autorizzato a guidare il veicolo non era assicurata a tal fine, oppure
+sia stato convinto che lo fosse, ovvero non si sia posto domande a tale
+riguardo.
+
+46      A tale proposito occorre rammentare, come rilevato dall'avvocato
+generale al paragrafo 50 delle sue conclusioni, che l'assicurazione della
+responsabilita civile per gli autoveicoli di cui all'art. 3, n. 1, della prima
+direttiva deve coprire tutte le vittime diverse dal conducente del veicolo che
+ha causato il danno, a meno che non ricorra una delle eccezioni espressamente
+previste dalla prima, seconda o terza direttiva.
+
+47      Pertanto, e priva di pertinenza per la soluzione della prima questione
+la circostanza che l'assicurato vittima sia stato al corrente del fatto che la
+persona che egli ha autorizzato a guidare il veicolo non era assicurata a tal
+fine, oppure sia stato convinto che lo fosse, ovvero non si sia posto domande
+a tale riguardo.
+
+48      Cio non esclude tuttavia la possibilita per gli Stati membri di tenere
+conto di tale elemento nell'ambito delle loro norme relative alla
+responsabilita civile, purche, tuttavia, le loro competenze in tale settore
+siano esercitate nel rispetto del diritto dell'Unione, e, in particolare,
+dell'art. 3, n. 1, della prima direttiva, dell'art. 2, n. 1, della seconda
+direttiva e dell'art. 1 della terza direttiva, e le citate norme nazionali non
+devono produrre l'effetto di privare tali direttive della loro efficacia
+pratica (citate sentenze Ruiz Bernaldez, punto 19; Candolin e a., punti 27 e
+28; Farrell, punto 34, e Carvalho Ferreira Santos, punti 35 e 36, nonche
+sentenza 9 giugno 2011, causa C‑409/09, Ambrosio Lavrador e Olival Ferreira
+Bonifacio, Racc. pag. I‑4955, punto 28).
+
+49      Quindi, una normativa nazionale, definita in base a criteri generali
+ed astratti, non puo negare o limitare in misura sproporzionata il
+risarcimento di un passeggero da parte dell'assicurazione obbligatoria della
+responsabilita civile per gli autoveicoli esclusivamente sulla base della
+corresponsabilita di quest'ultimo nella realizzazione del danno. Soltanto al
+verificarsi di circostanze eccezionali, in base ad una valutazione caso per
+caso, l'ampiezza del risarcimento della vittima puo essere limitata (citate
+sentenze Candolin e a., punti 29, 30 e 35; Farrell, punto 35; Carvalho
+Ferreira Santos, punto 38, nonche Ambrosio Lavrador e Olival Ferreira
+Bonifacio, punto 29).
+
+50      Emerge da quanto precede che si deve risolvere la seconda questione
+dichiarando che la soluzione della prima questione sottoposta non varia a
+seconda che l'assicurato vittima fosse consapevole del fatto che la persona
+che egli ha autorizzato a guidare il veicolo non era assicurata a tal fine,
+oppure che fosse convinto che essa fosse assicurata, oppure ancora che si sia
+posto o non si sia posto domande a tale riguardo.
+
+  **Sulle spese**
+
+51      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:
+
+1)       **L 'art. 1, primo comma, della terza direttiva del Consiglio 14
+maggio 1990, 90/232/CEE, relativa al ravvicinamento delle legislazioni degli
+Stati membri in materia di assicurazione della responsabilita civile
+risultante dalla circolazione di autoveicoli, e l'art. 2, n. 1, della seconda
+direttiva del Consiglio 30 dicembre 1983, 84/5/CEE, concernente il
+ravvicinamento delle legislazioni degli Stati membri in materia di
+assicurazione della responsabilita civile risultante dalla circolazione di
+autoveicoli, devono essere interpretati nel senso che essi ostano a una
+normativa nazionale la quale produca l'effetto di escludere in modo automatico
+l'obbligo in capo all'assicuratore di risarcire la vittima di un incidente
+stradale qualora tale incidente sia stato causato da un conducente non
+assicurato dalla polizza assicurativa e detta vittima, passeggero del veicolo
+al momento dell'incidente, fosse assicurata per la guida di tale veicolo e
+avesse dato a tale conducente il permesso di guidarlo.**
+
+2)       **La soluzione della prima questione sottoposta non varia a seconda
+che l 'assicurato vittima fosse consapevole del fatto che la persona che egli
+ha autorizzato a guidare il veicolo non era assicurata a tal fine, oppure che
+fosse convinto che essa fosse assicurata, oppure ancora che si sia posto o non
+si sia posto domande a tale riguardo.**
+
+Firme
+
+* * *
+
+* Lingua processuale: l'inglese. 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

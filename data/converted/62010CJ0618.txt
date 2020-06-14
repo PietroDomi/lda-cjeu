@@ -1,0 +1,1802 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+14 giugno 2012 ( *1 )
+
+«Direttiva 93/13/CEE — Contratti stipulati con i consumatori — Clausola
+abusiva sugli interessi moratori — Procedimento d’ingiunzione di pagamento —
+Competenze del giudice nazionale»
+
+Nella causa C-618/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dall’Audiencia Provincial de Barcelona
+(Spagna) con decisione del 29 novembre 2010, pervenuta in cancelleria il 29
+dicembre 2010, nel procedimento
+
+Banco Español de Crédito SA
+
+contro
+
+Joaquín Calderón Camino,
+
+LA CORTE (Prima Sezione),
+
+composta dal sig. A. Tizzano (relatore), presidente di sezione, dai sigg. M.
+Safjan, M. Ilešič, E. Levits e dalla sig.ra M. Berger, giudici,
+
+avvocato generale: sig.ra V. Trstenjak
+
+cancelliere: sig.ra M. Ferreira, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all’udienza del 1o
+dicembre 2011,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Banco Español de Crédito SA, da A. Herrador Muñoz, V. Betancor Sánchez
+e R. Rivero Sáez, abogados;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo spagnolo, da S. Centeno Huerta, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo tedesco, da J. Kemper e T. Henze, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da M. Owsiany-Homung e E. Gippini Fournier, in
+qualità di agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 14
+febbraio 2012,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione:
+
+|
+
+—
+
+|
+
+dell’articolo 6, paragrafo 1, della direttiva 93/13/CEE del Consiglio, del 5
+aprile 1993, concernente le clausole abusive nei contratti stipulati con i
+consumatori (GU L 95, pag. 29);  
+  
+---|---  
+  
+—
+
+|
+
+dell’articolo 2 della direttiva 2009/22/CE del Parlamento europeo e del
+Consiglio, del 23 aprile 2009, relativa a provvedimenti inibitori a tutela
+degli interessi dei consumatori (GU L 110, pag. 30);  
+  
+---|---  
+  
+—
+
+|
+
+delle disposizioni del regolamento (CE) n. 1896/2006 del Parlamento europeo e
+del Consiglio, del 12 dicembre 2006, che istituisce un procedimento europeo
+d’ingiunzione di pagamento (GU L 399, pag. 1);  
+  
+---|---  
+  
+—
+
+|
+
+degli articoli 5, paragrafo 1, lettere l) e m), 6, 7 e 10, paragrafo 2,
+lettera l), della direttiva 2008/48/CE del Parlamento europeo e del Consiglio,
+del 23 aprile 2008, relativa ai contratti di credito ai consumatori e che
+abroga la direttiva 87/102/CEE (GU L 133, pag. 66), e  
+  
+---|---  
+  
+—
+
+|
+
+dell’articolo 11, paragrafo 2, della direttiva 2005/29/CE del Parlamento
+europeo e del Consiglio, dell’11 maggio 2005, relativa alle pratiche
+commerciali sleali delle imprese nei confronti dei consumatori nel mercato
+interno e che modifica la direttiva 84/450/CEE del Consiglio e le direttive
+97/7/CE, 98/27/CE e 2002/65/CE del Parlamento europeo e del Consiglio e il
+regolamento (CE) n. 2006/2004 del Parlamento europeo e del Consiglio
+(«direttiva sulle pratiche commerciali sleali») (GU L 149, pag. 22).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la Banco
+Español de Crédito SA (in prosieguo: la «Banesto») e il sig. Calderón Camino
+vertente sul pagamento di somme dovute in esecuzione di un contratto di
+credito al consumo stipulato tra tali parti.  
+  
+---|---  
+  
+Contesto normativo
+
+La normativa dell’Unione
+
+La direttiva 87/102/CEE
+
+3
+
+|
+
+La direttiva 87/102/CEE del Consiglio, del 22 dicembre 1986, relativa al
+ravvicinamento delle disposizioni legislative, regolamentari e amministrative
+degli Stati membri in materia di credito al consumo (GU 1987, L 42, pag. 48),
+prevedeva al suo articolo 6:
+
+«1. Nonostante l’esclusione prevista all’articolo 2, paragrafo 1, lettera e),
+in caso di accordo tra un istituto di credito o una istituzione finanziaria e
+un consumatore sulla concessione di crediti sotto forma di anticipi su conto
+corrente che non sia il conto di una carta di credito, il consumatore deve
+essere informato al momento o prima della conclusione del contratto:
+
+|
+
+—
+
+|
+
+dell’eventuale massimale del credito;  
+  
+---|---  
+  
+—
+
+|
+
+del tasso di interesse annuo e degli oneri applicabili dal momento della
+conclusione del contratto e delle condizioni a cui essi potranno essere
+modificati;  
+  
+---|---  
+  
+—
+
+|
+
+delle modalità secondo cui è ammessa la risoluzione del contratto.  
+  
+---|---  
+  
+Queste informazioni devono essere confermate per iscritto.
+
+2\. Inoltre, nel corso del contratto di credito, il consumatore dev’essere
+informato di qualsiasi modifica del tasso d’interesse annuo o delle spese
+applicabili, al momento in cui essa entra in vigore. Tale notifica può aver
+luogo a mezzo di un estratto conto o in ogni altro modo accettabile per gli
+Stati membri.
+
+3\. Negli Stati membri in cui è ammessa la pratica della tacita accettazione
+degli scoperti, lo Stato deve garantire che il consumatore sia informato del
+tasso di interesse annuo e delle relative spese nonché di qualsiasi modifica
+di queste ultime, ove lo scoperto si prolunghi oltre tre mesi».  
+  
+4
+
+|
+
+Ai sensi dell’articolo 7 di detta direttiva:
+
+«In caso di crediti concessi per l’acquisizione di beni, gli Stati membri
+stabiliscono le condizioni alle quali il bene può essere recuperato, in
+particolare quando il consumatore non abbia dato il suo consenso. Essi curano
+inoltre che, quando il creditore rientra in possesso del bene, i conteggi tra
+le parti siano stabiliti in modo che tale recupero non comporti un
+ingiustificato arricchimento».  
+  
+---|---  
+  
+La direttiva 93/13
+
+5
+
+|
+
+Il dodicesimo considerando della direttiva 93/13 così recita:
+
+«[C]onsiderando tuttavia che per le legislazioni nazionali nella loro forma
+attuale è concepibile solo un’armonizzazione parziale; che, in particolare,
+sono oggetto della presente direttiva soltanto le clausole non negoziate
+individualmente; che pertanto occorre lasciare agli Stati membri la
+possibilità di garantire, nel rispetto del Trattato, un più elevato livello di
+protezione per i consumatori mediante disposizioni nazionali più severe di
+quelle della presente direttiva».  
+  
+---|---  
+  
+6
+
+|
+
+Il ventunesimo considerando della menzionata direttiva è così redatto:
+
+«[C]onsiderando che gli Stati membri devono prendere le misure necessarie per
+evitare l’inserzione di clausole abusive in contratti stipulati tra un
+professionista e dei consumatori; che se, ciò nonostante, tali clausole
+figurano in detti contratti, esse non vincoleranno il consumatore, e il
+contratto resta vincolante per le parti secondo le stesse condizioni, qualora
+possa sussistere anche senza le clausole abusive».  
+  
+---|---  
+  
+7
+
+|
+
+Il ventiquattresimo considerando della medesima direttiva precisa quanto
+segue:
+
+«[C]onsiderando che le autorità giudiziarie e gli organi amministrativi degli
+Stati membri devono disporre dei mezzi adeguati ed efficaci per far cessare
+l’inserzione delle clausole abusive contenute nei contratti stipulati con i
+consumatori».  
+  
+---|---  
+  
+8
+
+|
+
+Ai sensi dell’articolo 6 della direttiva 93/13:
+
+«1. Gli Stati membri prevedono che le clausole abusive contenute in un
+contratto stipulato fra un consumatore ed un professionista non vincolano il
+consumatore, alle condizioni stabilite dalle loro legislazioni nazionali, e
+che il contratto resti vincolante per le parti secondo i medesimi termini,
+sempre che esso possa sussistere senza le clausole abusive.
+
+2\. Gli Stati membri prendono le misure necessarie affinché il consumatore non
+sia privato della protezione assicurata dalla presente direttiva a motivo
+della scelta della legislazione di un paese terzo come legislazione
+applicabile al contratto, laddove il contratto presenti un legame stretto con
+il territorio di uno Stato membro».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 7, paragrafo 1, di detta direttiva è formulato come segue:
+
+«Gli Stati membri, nell’interesse dei consumatori e dei concorrenti
+professionali, provvedono a fornire mezzi adeguati ed efficaci per far cessare
+l’inserzione di clausole abusive nei contratti stipulati tra un professionista
+e dei consumatori».  
+  
+---|---  
+  
+10
+
+|
+
+L’articolo 8 della medesima direttiva stabilisce quanto segue:
+
+«Gli Stati membri possono adottare o mantenere, nel settore disciplinato dalla
+presente direttiva, disposizioni più severe, compatibili con il Trattato [CE],
+per garantire un livello di protezione più elevato per il consumatore».  
+  
+---|---  
+  
+La direttiva 2005/29
+
+11
+
+|
+
+L’articolo 11, paragrafi 1 e 2, della direttiva 2005/29 prevede quanto segue:
+
+«1. Gli Stati membri assicurano che esistano mezzi adeguati ed efficaci per
+combattere le pratiche commerciali sleali al fine di garantire l’osservanza
+delle disposizioni della presente direttiva nell’interesse dei consumatori.
+
+(…)
+
+2\. Nel contesto delle disposizioni giuridiche di cui al paragrafo 1, gli
+Stati membri conferiscono all’organo giurisdizionale o amministrativo il
+potere, qualora ritengano necessari detti provvedimenti tenuto conto di tutti
+gli interessi in causa e, in particolare, dell’interesse generale:
+
+|
+
+a)
+
+|
+
+di far cessare le pratiche commerciali sleali o di proporre le azioni
+giudiziarie appropriate per ingiungere la loro cessazione,
+
+o  
+  
+---|---  
+  
+b)
+
+|
+
+qualora la pratica commerciale sleale non sia stata ancora posta in essere ma
+sia imminente, di vietare tale pratica o di proporre le azioni giudiziarie
+appropriate per vietarla,  
+  
+---|---  
+  
+anche in assenza di prove in merito alla perdita o al danno effettivamente
+subito, oppure in merito all’intenzionalità o alla negligenza da parte del
+professionista.
+
+Gli Stati membri prevedono inoltre disposizioni affinché i provvedimenti di
+cui al primo comma possano essere adottati nell’ambito di un procedimento
+d’urgenza:
+
+—
+
+|
+
+con effetto provvisorio,
+
+oppure  
+  
+---|---  
+  
+—
+
+|
+
+con effetto definitivo,  
+  
+---|---  
+  
+fermo restando che compete ad ogni Stato membro scegliere una delle due
+opzioni.
+
+(…)».  
+  
+Il regolamento n. 1896/2006
+
+12
+
+|
+
+Il decimo considerando del regolamento n. 1896/2006 precisa quanto segue:
+
+«Il procedimento previsto dal presente regolamento dovrebbe costituire un
+mezzo supplementare e facoltativo per il ricorrente, che rimane libero di
+avvalersi delle procedure previste dal diritto nazionale. Pertanto il presente
+regolamento non sostituisce né armonizza i meccanismi vigenti di recupero dei
+crediti non contestati previsti dalla legislazione nazionale».  
+  
+---|---  
+  
+13
+
+|
+
+L’articolo 1 del regolamento n. 1896/2006 stabilisce quanto segue:
+
+«1. Il presente regolamento intende
+
+|
+
+a)
+
+|
+
+semplificare, accelerare e ridurre i costi dei procedimenti per le
+controversie transfrontaliere in materia di crediti pecuniari non contestati,
+istituendo un procedimento europeo d’ingiunzione di pagamento,
+
+e  
+  
+---|---  
+  
+b)
+
+|
+
+assicurare la libera circolazione in tutti gli Stati membri dell’ingiunzione
+di pagamento europea definendo norme minime il cui rispetto rende superflui,
+nello Stato membro di esecuzione, procedimenti intermedi per il riconoscimento
+e l’esecuzione.  
+  
+---|---  
+  
+2\. Il presente regolamento non impedisce a un ricorrente di intentare un
+procedimento a norma dell’articolo 4 utilizzando qualunque altro procedimento
+disponibile ai sensi della legislazione di uno Stato membro o della
+legislazione comunitaria».  
+  
+La direttiva 2008/48
+
+14
+
+|
+
+L’articolo 1 della direttiva 2008/48 è così formulato:
+
+«La presente direttiva ha per obiettivo l’armonizzazione di taluni aspetti
+delle disposizioni legislative, regolamentari e amministrative degli Stati
+membri in materia di contratti di credito ai consumatori».  
+  
+---|---  
+  
+15
+
+|
+
+Ai sensi dell’articolo 5, paragrafo 1, della citata direttiva:
+
+«Il creditore e, se del caso, l’intermediario del credito, sulla base delle
+condizioni di credito offerte dal creditore e, se del caso, delle preferenze
+espresse e delle informazioni fornite dal consumatore, forniscono al
+consumatore, in tempo utile prima che egli sia vincolato da un contratto o da
+un’offerta di credito, le informazioni necessarie per raffrontare le varie
+offerte al fine di prendere una decisione con cognizione di causa in merito
+alla conclusione di un contratto di credito (…).
+
+Le informazioni di cui trattasi riguardano:
+
+(…)
+
+|
+
+l)
+
+|
+
+il tasso degli interessi in caso di ritardi di pagamento, le modalità di
+modifica dello stesso e, se applicabili, le penali per inadempimento;  
+  
+---|---  
+  
+m)
+
+|
+
+un avvertimento relativo alle conseguenze dei mancati pagamenti;  
+  
+---|---  
+  
+(…)  
+  
+16
+
+|
+
+L’articolo 10, paragrafo 2, della medesima direttiva così dispone:
+
+«Nel contratto di credito figurano, in modo chiaro e conciso, le informazioni
+seguenti:
+
+(…)
+
+|
+
+l)
+
+|
+
+il tasso degli interessi in caso di ritardi di pagamento applicabile al
+momento della conclusione del contratto di credito e le modalità di modifica
+dello stesso e, se applicabili, le penali per inadempimento;  
+  
+---|---  
+  
+(…)».  
+  
+La direttiva 2009/22
+
+17
+
+|
+
+L’articolo 1, paragrafo 1, della direttiva 2009/22 così prevede:
+
+«La presente direttiva ha per oggetto il ravvicinamento delle disposizioni
+legislative, regolamentari e amministrative degli Stati membri relative ai
+provvedimenti inibitori di cui all’articolo 2, volti a tutelare gli interessi
+collettivi dei consumatori contemplati nelle direttive elencate nell’allegato
+I, onde garantire il corretto funzionamento del mercato interno».  
+  
+---|---  
+  
+18
+
+|
+
+Ai sensi dell’articolo 2 di detta direttiva:
+
+«1. Gli Stati membri designano gli organi giurisdizionali o le autorità
+amministrative competenti a deliberare su ricorsi o azioni proposti dagli enti
+legittimati ai sensi dell’articolo 3, onde:
+
+|
+
+a)
+
+|
+
+ordinare con la debita sollecitudine e, se del caso, con procedimento
+d’urgenza, la cessazione o l’interdizione di qualsiasi violazione;  
+  
+---|---  
+  
+(…)
+
+2\. La presente direttiva non osta all’applicazione delle regole di diritto
+internazionale privato sulla legge applicabile vale a dire, di norma, la legge
+dello Stato membro in cui ha origine la violazione o la legge dello Stato
+membro in cui la violazione produce i suoi effetti».  
+  
+La normativa spagnola
+
+19
+
+|
+
+Nel diritto spagnolo la tutela dei consumatori contro le clausole abusive è
+stata garantita inizialmente dalla legge generale n. 26/1984, sulla tutela dei
+consumatori e degli utenti (Ley General 26/1984 para la Defensa de los
+Consumidores y Usuarios) del 19 luglio 1984 (BOE n. 176 del 24 luglio 1984,
+pag. 21686; in prosieguo: la «legge n. 26/1984»).  
+  
+---|---  
+  
+20
+
+|
+
+La legge n. 26/1984 è stata in seguito modificata dalla legge n. 7/1998,
+relativa alle condizioni generali di contratto (Ley 7/1998 sobre condiciones
+generales de la contratación) del 13 aprile 1998 (BOE n. 89 del 14 aprile
+1998, pag. 12304), che ha trasposto la direttiva 93/13 nel diritto interno
+spagnolo.  
+  
+---|---  
+  
+21
+
+|
+
+Infine, il decreto legislativo reale n. 1/2007, recante approvazione del testo
+consolidato della legge generale sulla tutela dei consumatori e degli utenti e
+delle altre leggi complementari (Real Decreto Legislativo 1/2007 por el que se
+aprueba el texto refundido de la Ley General para la Defensa de los
+Consumidores y Usuarios y otras leyes complementarias), del 16 novembre 2007
+(BOE n. 287 del 30 novembre 2007, pag. 49181; in prosieguo: il «decreto
+legislativo n. 1/2007»), ha adottato il testo codificato della legge n.
+26/1984, così come modificata.  
+  
+---|---  
+  
+22
+
+|
+
+Ai sensi dell’articolo 83 del decreto legislativo n. 1/2007:
+
+«1. Le clausole abusive sono nulle di pieno diritto e si considerano non
+apposte.
+
+2\. La parte del contratto colpita da nullità è integrata conformemente
+all’articolo 1258 del codice civile e al principio di buona fede oggettiva.
+
+A tali effetti, il giudice che dichiara la nullità di dette clausole integra
+il contratto e dispone di poteri di moderazione rispetto ai diritti e obblighi
+delle parti, nel caso di sopravvivenza del contratto, e rispetto alle
+conseguenze della sua inefficacia in caso di apprezzabile pregiudizio per il
+consumatore o utente.
+
+Soltanto qualora le clausole sussistenti determinino una situazione iniqua
+rispetto alla posizione delle parti, che non può essere sanata, il giudice può
+dichiarare l’inefficacia del contratto».  
+  
+---|---  
+  
+23
+
+|
+
+L’articolo 1258 del codice civile stabilisce quanto segue:
+
+«I contratti sono conclusi mediante il semplice consenso e, a partire da tale
+momento, obbligano non solo ad adempiere quanto espressamente pattuito, bensì
+anche relativamente a tutte le conseguenze che, per loro natura, siano
+conformi alla buona fede, alla consuetudine e alla legge».  
+  
+---|---  
+  
+24
+
+|
+
+Per quanto riguarda il procedimento d’ingiunzione di pagamento, il codice di
+procedura civile (Ley de Enjuiciamiento Civil), nella sua versione vigente
+alla data d’instaurazione del procedimento principale, enuncia, al suo
+articolo 812, paragrafo 1, le condizioni di applicazione di questo stesso
+procedimento, nei termini seguenti:
+
+«Può ricorrere al procedimento d’ingiunzione colui che richieda ad un terzo il
+pagamento di un debito pecuniario, scaduto, esigibile e non superiore ad EUR
+30 000, purché l’ammontare di tale debito venga provato con le seguenti
+modalità:
+
+|
+
+1)
+
+|
+
+attraverso la presentazione di documenti, indipendentemente dalla loro forma,
+dal loro tipo o dal loro supporto fisico, sottoscritti dal debitore o recanti
+il suo timbro, il suo contrassegno o il suo marchio o qualunque altra
+indicazione, fisica o elettronica, proveniente dal debitore; oppure  
+  
+---|---  
+  
+2)
+
+|
+
+attraverso la presentazione di fatture, bolle di consegna, certificati,
+telegrammi, fax o qualunque altro documento che, anche se predisposto
+unilateralmente dal creditore, è abitualmente utilizzato per documentare i
+crediti ed i debiti in rapporti analoghi a quelli esistenti tra il creditore
+ed il suo debitore.  
+  
+---|---  
+  
+(…)».  
+  
+25
+
+|
+
+L’articolo 815, paragrafo 1, del codice di procedura civile, rubricato
+«Ricevibilità della domanda e ingiunzione di pagamento», dispone quanto segue:
+
+«Qualora i documenti allegati alla domanda siano compresi fra quelli elencati
+all’articolo 812, paragrafo 2, o costituiscano un principio di prova del
+diritto del richiedente, confermato dal contenuto dalla domanda, il
+cancelliere ingiunge al debitore di pagare il richiedente entro un termine di
+20 giorni e di fornire le prove di tale pagamento al tribunale, oppure di
+comparire dinanzi ad esso e di esporre sinteticamente, nell’atto di
+opposizione, i motivi per i quali egli ritiene di non essere debitore,
+integralmente o parzialmente, dell’importo richiesto (…)».  
+  
+---|---  
+  
+26
+
+|
+
+Quanto all’articolo 818, paragrafo 1, del codice di procedura civile, relativo
+all’opposizione del debitore, esso prevede quanto segue:
+
+«Se il debitore propone tempestivamente opposizione, la controversia è risolta
+definitivamente all’esito del procedimento appropriato e la decisione adottata
+ha efficacia di giudicato».  
+  
+---|---  
+  
+Procedimento principale e questioni pregiudiziali
+
+27
+
+|
+
+Il 28 maggio 2007 il sig. Calderón Camino stipulava un contratto di mutuo per
+un ammontare di EUR 30 000 con la Banesto (in prosieguo: il «contratto
+controverso»), per l’acquisto di un autoveicolo destinato a «soddisfare le
+necessità familiari». Il tasso di interesse era fissato al 7,950%, il TAEG
+(tasso annuo effettivo globale) all’8,890% e il tasso degli interessi moratori
+al 29%.  
+  
+---|---  
+  
+28
+
+|
+
+Sebbene la scadenza del contratto controverso fosse stata fissata al 5 giugno
+2014, la Banesto riteneva che quest’ultimo avesse avuto termine
+precedentemente a tale data, dal momento che, al mese di settembre 2008, i
+pagamenti corrispondenti a sette mensilità non erano ancora stati effettuati.
+Pertanto, l’8 gennaio 2009 essa introduceva, dinanzi al Juzgado de Primera
+Instancia n. 2 de Sabadell, ai sensi del diritto spagnolo, una domanda
+d’ingiunzione di pagamento della somma di EUR 29 381,95, pari alle mensilità
+rimaste insolute, maggiorate degli interessi convenzionali e delle spese.  
+  
+---|---  
+  
+29
+
+|
+
+Il 21 gennaio 2010 il Juzgado de Primera Instancia n. 2 de Sabadell emetteva
+un’ordinanza con la quale dichiarava, da un lato, che il contratto controverso
+era un contratto di adesione, stipulato senza reali possibilità di trattativa
+e comprendente condizioni generali imposte e, dall’altro, che il tasso degli
+interessi moratori del 29% era stabilito in una clausola dattiloscritta che
+non si distingueva rispetto al resto del testo, per quanto riguarda la
+tipologia dei caratteri, le dimensioni dei caratteri utilizzati o la specifica
+accettazione da parte del consumatore.  
+  
+---|---  
+  
+30
+
+|
+
+In tali condizioni, tenendo conto, segnatamente, del livello del tasso di
+interesse Euribor («Euro interbank offered rate») e della Banca centrale
+europea (BCE) nonché del fatto che il tasso di detti interessi moratori era
+superiore di oltre 20 punti rispetto a quello d’interesse, il Juzgado de
+Primera Instancia n. 2 de Sabadell dichiarava d’ufficio la nullità di pieno
+diritto della clausola relativa agli interessi moratori in quanto clausola
+abusiva, riferendosi alla giurisprudenza costante della Corte in materia. Esso
+ha inoltre fissato il medesimo tasso al 19% riferendosi al tasso d’interesse
+legale ed al tasso degli interessi moratori di cui alle leggi finanziarie
+nazionali dal 1990 al 2008, ed ordinava alla Banesto di effettuare un nuovo
+calcolo dell’ammontare degli interessi per il periodo in questione nella
+controversia della quale era investito.  
+  
+---|---  
+  
+31
+
+|
+
+La Banesto proponeva appello avverso la suddetta ordinanza dinanzi
+all’Audiencia Provincial de Barcelona, sostenendo, in sostanza, che il Juzgado
+de Primera Instancia n. 2 de Sabadell non poteva, in tale fase del
+procedimento, né dichiarare d’ufficio la nullità della clausola contrattuale
+relativa agli interessi moratori, da esso ritenuta abusiva, né procedere alla
+revisione della medesima.  
+  
+---|---  
+  
+32
+
+|
+
+Nell’ordinanza di rinvio, l’Audiencia Provincial de Barcelona constatava, in
+primo luogo, che la legislazione spagnola in materia di tutela degli interessi
+dei consumatori e degli utenti non autorizza i giudici investiti di una
+domanda d’ingiunzione di pagamento a dichiarare, d’ufficio e in limine litis,
+la nullità delle clausole abusive, in quanto la verifica della legittimità di
+queste ultime ricade nell’ambito del procedimento di diritto comune, il quale
+è instaurato soltanto nel caso di opposizione proposta dal debitore.  
+  
+---|---  
+  
+33
+
+|
+
+Per quanto riguarda, in secondo luogo, il diritto dell’Unione, detto giudice
+rilevava che la giurisprudenza della Corte ha indubbiamente interpretato
+l’articolo 6, paragrafo 1, della direttiva 93/13 nel senso che i giudici
+nazionali debbono sollevare d’ufficio la nullità e l’inapplicabilità di una
+clausola abusiva, anche in assenza di qualsiasi domanda delle parti del
+contratto proposta a tal fine.  
+  
+---|---  
+  
+34
+
+|
+
+Tuttavia, secondo il giudice del rinvio, il regolamento n. 1896/2006, che
+disciplina precisamente la materia dell’ingiunzione di pagamento al livello
+dell’Unione europea, non istituisce un procedimento di esame d’ufficio e in
+limine litis delle clausole abusive, ma si limita ad elencare una serie di
+requisiti ed informazioni che devono essere forniti al consumatore.  
+  
+---|---  
+  
+35
+
+|
+
+Del pari, né la direttiva 2008/48, relativa ai contratti di credito ai
+consumatori, né la direttiva 2009/22, relativa ai provvedimenti inibitori
+delle violazioni che ledono gli interessi dei consumatori, prevedono strumenti
+procedurali che impongano ai giudici nazionali di dichiarare d’ufficio la
+nullità di una clausola quale quella contenuta nel contratto controverso.  
+  
+---|---  
+  
+36
+
+|
+
+Infine, anche considerando come «sleale», ai sensi della direttiva 2005/29, la
+pratica che consiste nell’introdurre nel testo di un contratto stipulato tra
+un professionista e un consumatore una clausola d’interessi moratori, dato che
+la legge n. 29/2009 recante modifica del regime legale della concorrenza
+sleale e della pubblicità per il miglioramento della tutela dei consumatori e
+degli utenti (Ley 29/2009 por la que se modifica el régimen legal de la
+competencia desleal y de la publicidad para la mejora de la protección de los
+consumidores y usuarios), del 30 dicembre 2009 (BOE n. 315 del 31 dicembre
+2009, pag. 112039), non ha trasposto nel diritto spagnolo l’articolo 11,
+paragrafo 2, di tale direttiva, i giudici nazionali non dispongono, in ogni
+caso, del potere di esaminare d’ufficio il carattere sleale di detta pratica.  
+  
+---|---  
+  
+37
+
+|
+
+Alla luce di tali considerazioni, l’Audiencia Provincial de Barcelona,
+nutrendo dubbi sulla corretta interpretazione del diritto dell’Unione,
+decideva di sospendere il procedimento e di sottoporre alla Corte le seguenti
+questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se il diritto [dell’Unione], in particolare il diritto dei consumatori e degli
+utenti, osti a che un giudice nazionale si astenga dal pronunciarsi d’ufficio
+e in limine litis, in qualsiasi fase del procedimento, sulla nullità o
+l’adeguamento di una clausola sugli interessi moratori (nel caso di specie
+pari al 29%) inserita in un contratto di credito al consumo e se il giudice
+possa scegliere, senza ledere i diritti del consumatore [riconosciuti dalla]
+normativa [dell’Unione], di lasciar dipendere dall’iniziativa del debitore
+l’eventuale esame di tale clausola (mediante necessaria opposizione
+processuale).  
+  
+---|---  
+  
+2)
+
+|
+
+Come si debba interpretare, a tali effetti, affinché sia conforme agli
+articoli 6, paragrafo 1, della direttiva [93/13] e 2 della direttiva
+[2009/22], l’articolo 83 del [decreto legislativo 1/2007] (…). Quale sia la
+portata, a tali effetti, dell’articolo 6, paragrafo 1, della direttiva
+[93/13], nello stabilire che le clausole abusive «non vincolano il
+consumatore».  
+  
+---|---  
+  
+3)
+
+|
+
+Se il controllo del giudice d’ufficio e in limine litis possa essere escluso
+quando il ricorrente determini con chiarezza nella domanda il tasso di
+interesse moratorio, l’importo del credito, comprensivo di capitale e
+interessi, le penalità contrattuali e le spese, il tasso d’interesse ed il
+periodo di tempo per il quale gli interessi sono richiesti (o l’indicazione
+che è aggiunto automaticamente al capitale un tasso d’interesse legale ai
+sensi della legislazione dello Stato membro d’origine), il fondamento
+dell’azione, compresa una descrizione delle circostanze invocate come base del
+credito e degli interessi richiesti, specificando se si tratti di interesse
+legale, contrattuale, capitalizzazione di interessi o tasso di interesse del
+prestito, se è stato calcolato dal ricorrente, e i punti percentuali di
+maggiorazione rispetto al tasso base stabilito dalla Banca centrale [europea],
+come previsto nel regolamento [n. 1896/2006] sul procedimento europeo
+d’ingiunzione di pagamento.  
+  
+---|---  
+  
+4)
+
+|
+
+In caso di mancata attuazione, se gli articoli 5, [paragrafo 1], lettere l) e
+m), 6, [paragrafo 1, lettera i),] e 10, [paragrafo 2], lettera l), della
+direttiva [2008/48], nel riferirsi a «modalità di modifica dello stesso»,
+obblighino l’ente finanziario a sottolineare nel contratto, in modo specifico
+e differenziato (non nel corpo del testo, in forma del tutto indistinta), a
+titolo di «informazione precontrattuale», le clausole relative al tasso
+dell’interesse di mora in caso d’inadempimento, espresse chiaramente e poste
+in rilievo, nonché gli elementi presi in considerazione per la sua
+determinazione (costi finanziari, di recupero...), e un’avvertenza sulle
+conseguenze rispetto ai costi.  
+  
+---|---  
+  
+5)
+
+|
+
+Se l’articolo 6, paragrafo 2, della direttiva [2008/48] preveda l’obbligo di
+comunicare la scadenza anticipata del credito o del prestito, che determina
+l’applicazione dell’interesse moratorio. Se sia applicabile il principio di
+divieto di ingiustificato arricchimento di cui all’articolo 7 della direttiva
+[2008/48], qualora l’ente creditizio non intenda soltanto recuperare il bene
+(il rimborso del capitale prestato), ma altresì applicare interessi di mora
+particolarmente elevati.  
+  
+---|---  
+  
+6)
+
+|
+
+Se, in assenza di disposizioni di attuazione, e alla luce dell’articolo 11,
+paragrafo 2, della direttiva [2005/29], il giudice possa qualificare d’ufficio
+come sleale la prassi di includere nel testo del contratto una clausola di
+interessi moratori».  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla prima questione
+
+38
+
+|
+
+Con la sua prima questione il giudice del rinvio chiede, in sostanza, se la
+direttiva 93/13 debba essere interpretata nel senso che essa osta ad una
+normativa di uno Stato membro, quale quella di cui trattasi nel procedimento
+principale, che non consente al giudice investito di una domanda d’ingiunzione
+di pagamento di esaminare d’ufficio, in limine litis, né in qualsiasi altra
+fase del procedimento, la natura abusiva di una clausola sugli interessi
+moratori inserita in un contratto stipulato tra un professionista e un
+consumatore, in assenza di opposizione proposta da quest’ultimo.  
+  
+---|---  
+  
+39
+
+|
+
+Per rispondere a tale questione, va ricordato innanzitutto che il sistema di
+tutela istituito dalla direttiva 93/13 è fondato sull’idea che il consumatore
+si trovi in una situazione di inferiorità rispetto al professionista per
+quanto riguarda sia il potere nelle trattative che il grado di informazione,
+situazione che lo induce ad aderire alle condizioni predisposte
+preventivamente dal professionista senza poter incidere sul contenuto delle
+stesse (sentenze del 27 giugno 2000, Océano Grupo Editorial e Salvat Editores,
+da C-240/98 a C-244/98, Racc. pag. I-4941, punto 25; del 26 ottobre 2006,
+Mostaza Claro, C-168/05, Racc. pag. I-10421, punto 25, nonché del 6 ottobre
+2009, Asturcom Telecomunicaciones, C-40/08, Racc. pag. I-9579, punto 29).  
+  
+---|---  
+  
+40
+
+|
+
+Alla luce di una siffatta situazione di inferiorità, l’articolo 6, paragrafo
+1, della medesima direttiva prevede che le clausole abusive non vincolino i
+consumatori. Come emerge dalla giurisprudenza, si tratta di una disposizione
+imperativa tesa a sostituire all’equilibrio formale, che il contratto
+determina fra i diritti e gli obblighi delle parti contraenti, un equilibrio
+reale, finalizzato a ristabilire l’uguaglianza tra queste ultime (sentenze
+Mostaza Claro, cit., punto 36; Asturcom Telecomunicaciones, cit., punto 30;
+del 9 novembre 2010, VB Pénzügyi Lízing, C-137/08, Racc. pag. I-10847, punto
+47, e del 15 marzo 2012, Pereničová e Perenič, C-453/10,, punto 28).  
+  
+---|---  
+  
+41
+
+|
+
+Per garantire la tutela voluta dalla direttiva 93/13, la Corte ha altresì più
+volte sottolineato che la disuguaglianza che esiste tra il consumatore e il
+professionista può essere riequilibrata solo grazie a un intervento positivo
+da parte di soggetti estranei al rapporto contrattuale (v. citate sentenze
+Océano Grupo Editorial e Salvat Editores, punto 27; Mostaza Claro, punto 26;
+Asturcom Telecomunicaciones, punto 31, nonché VB Pénzügyi Lízing, punto 48).  
+  
+---|---  
+  
+42
+
+|
+
+Sulla base di tali principi la Corte ha pertanto statuito che il giudice
+nazionale è tenuto ad esaminare d’ufficio la natura abusiva di una clausola
+contrattuale che ricade nell’ambito di applicazione della direttiva 93/13 e,
+in tal modo, a porre un argine allo squilibrio che esiste tra il consumatore e
+il professionista (v., in tal senso, sentenze Mostaza Claro, cit., punto 38;
+del 4 giugno 2009, Pannon GSM, C-243/08, Racc. pag. I-4713, punto 31; Asturcom
+Telecomunicaciones, cit., punto 32, nonché VB Pénzügyi Lízing, cit., punto
+49).  
+  
+---|---  
+  
+43
+
+|
+
+Di conseguenza, il ruolo così attribuito al giudice nazionale dal diritto
+dell’Unione nell’ambito di cui trattasi non si limita alla semplice facoltà di
+pronunciarsi sull’eventuale natura abusiva di una clausola contrattuale, bensì
+comporta parimenti l’obbligo di esaminare d’ufficio tale questione, a partire
+dal momento in cui dispone degli elementi di diritto e di fatto necessari a
+tal fine (v. sentenza Pannon GSM, cit., punto 32).  
+  
+---|---  
+  
+44
+
+|
+
+Al riguardo, statuendo su una domanda di pronuncia pregiudiziale sollevata da
+un giudice nazionale adìto nell’ambito di un procedimento contraddittorio
+instauratosi a seguito dell’opposizione proposta da un consumatore avverso
+un’ingiunzione di pagamento, la Corte ha dichiarato che detto giudice deve
+adottare d’ufficio misure istruttorie al fine di accertare se una clausola
+attributiva di competenza giurisdizionale territoriale esclusiva inserita in
+un contratto stipulato tra un professionista e un consumatore rientri
+nell’ambito di applicazione della direttiva 93/13 e, in caso affermativo,
+valutare d’ufficio la natura eventualmente abusiva di una clausola siffatta
+(sentenza VB Pénzügyi Lízing, cit., punto 56).  
+  
+---|---  
+  
+45
+
+|
+
+Tuttavia, la causa in esame si distingue da quelle che hanno avuto esito nelle
+citate sentenze Pannon GSM e VB Pénzügyi Lízing per il fatto che riguarda la
+definizione delle responsabilità che gravano sul giudice nazionale, in forza
+delle disposizioni della direttiva 93/13, nell’ambito di un procedimento
+d’ingiunzione di pagamento, e ciò precedentemente all’opposizione proposta dal
+consumatore.  
+  
+---|---  
+  
+46
+
+|
+
+Al riguardo si deve constatare che, in mancanza di armonizzazione dei
+meccanismi nazionali di recupero di crediti non contestati, le modalità di
+attuazione dei procedimenti nazionali d’ingiunzione di pagamento rientrano
+nell’ordinamento giuridico interno degli Stati membri in forza del principio
+dell’autonomia processuale di questi ultimi, a condizione, tuttavia, che tali
+modalità non siano meno favorevoli rispetto a quelle relative a situazioni
+analoghe assoggettate al diritto interno (principio di equivalenza) e che non
+rendano in pratica impossibile o eccessivamente difficile l’esercizio dei
+diritti conferiti ai consumatori dal diritto dell’Unione (principio di
+effettività) (v., in tal senso, citate sentenze Mostaza Claro, punto 24, e
+Asturcom Telecomunicaciones, punto 38).  
+  
+---|---  
+  
+47
+
+|
+
+Per quanto riguarda il principio di equivalenza, si deve rilevare che la Corte
+non dispone di alcun elemento tale da suscitare un dubbio quanto alla
+conformità a quest’ultimo della normativa di cui trattasi nel procedimento
+principale.  
+  
+---|---  
+  
+48
+
+|
+
+Infatti, risulta dal fascicolo che il sistema processuale spagnolo non
+consente al giudice nazionale investito di una domanda d’ingiunzione di
+pagamento di esaminare d’ufficio, in limine litis, né in qualsiasi altra fase
+del procedimento, non soltanto la natura abusiva, alla luce dell’articolo 6
+della direttiva 93/13, di una clausola inserita in un contratto stipulato tra
+un professionista e un consumatore, in assenza di opposizione proposta da
+quest’ultimo, ma altresì la contrarietà di una clausola siffatta alle norme
+nazionali di ordine pubblico, il che, tuttavia, dovrà essere accertato dal
+giudice del rinvio.  
+  
+---|---  
+  
+49
+
+|
+
+Per quanto riguarda il principio di effettività, si deve rammentare che, per
+giurisprudenza costante della Corte, ciascun caso in cui si pone la questione
+se una disposizione processuale nazionale renda impossibile o eccessivamente
+difficile l’applicazione del diritto dell’Unione dev’essere esaminato tenendo
+conto del ruolo di detta disposizione nell’insieme del procedimento, dello
+svolgimento e delle peculiarità dello stesso, dinanzi ai vari organi
+giurisdizionali nazionali (v. sentenza Asturcom Telecomunicaciones, cit.,
+punto 39 e giurisprudenza ivi citata).  
+  
+---|---  
+  
+50
+
+|
+
+Nel caso di specie, risulta dal fascicolo sottoposto alla Corte che, ai sensi
+dell’articolo 812 del codice di procedura civile, il procedimento
+d’ingiunzione di pagamento si applica ai debiti pecuniari scaduti, liquidi ed
+esigibili, il cui importo non supera un valore limitato, individuato in EUR 30
+000 alla data dei fatti del procedimento principale.  
+  
+---|---  
+  
+51
+
+|
+
+Al fine di assicurare ai creditori un accesso più agevole alla giustizia ed
+uno svolgimento più rapido del procedimento, questo stesso articolo impone a
+questi ultimi la sola condizione di allegare alla domanda documenti
+comprovanti l’esistenza del debito, senza obbligarli ad indicare chiaramente
+il tasso d’interesse moratorio, il preciso periodo di esigibilità ed il punto
+di riferimento di questo stesso tasso rispetto all’interesse legale di diritto
+interno ovvero al tasso della Banca centrale europea.  
+  
+---|---  
+  
+52
+
+|
+
+Pertanto, in forza degli articoli 815, paragrafo 1, e 818, paragrafo 1, del
+codice di procedura civile, il giudice nazionale investito di una domanda
+d’ingiunzione di pagamento gode di una competenza limitata al solo
+accertamento dell’esistenza delle condizioni formali di instaurazione di tale
+procedimento, in presenza delle quali esso deve accogliere la domanda della
+quale è investito e rendere un’ingiunzione esecutiva senza poter esaminare, in
+limine litis, né in qualsiasi altra fase del procedimento, la fondatezza della
+domanda alla luce delle informazioni di cui dispone, a meno che il debitore si
+rifiuti di saldare il suo debito o proponga opposizione entro 20 giorni
+decorrenti dalla data della notifica di tale ingiunzione. Una simile
+opposizione deve necessariamente essere effettuata con l’assistenza di un
+avvocato per le controversie che superano un valore determinato per legge,
+pari ad EUR 900 alla data dei fatti che hanno dato luogo al procedimento
+principale.  
+  
+---|---  
+  
+53
+
+|
+
+Orbene, in tale contesto, si deve constatare che un simile regime procedurale,
+che istituisce un’impossibilità per il giudice investito di una domanda
+d’ingiunzione di pagamento di esaminare d’ufficio, in limine litis o in
+qualsiasi altra fase del procedimento, anche qualora disponga già di tutti gli
+elementi di diritto e di fatto necessari a tal fine, la natura abusiva delle
+clausole inserite in un contratto stipulato tra un professionista e un
+consumatore, in assenza di opposizione proposta da quest’ultimo, può
+compromettere l’effettività della tutela voluta dalla direttiva 93/13 (v., in
+tal senso, sentenza del 21 novembre 2002, Cofidis, C-473/00, Racc. pag.
+I-10875, punto 35).  
+  
+---|---  
+  
+54
+
+|
+
+Infatti, tenuto conto dello svolgimento complessivo e delle peculiarità del
+procedimento d’ingiunzione di pagamento, descritto ai punti 50-52 della
+presente sentenza, sussiste un rischio non trascurabile che i consumatori
+interessati non propongano l’opposizione richiesta a causa del termine
+particolarmente breve previsto a tal fine, ovvero poiché possono essere
+dissuasi dal difendersi tenuto conto delle spese che un’azione giudiziaria
+implicherebbe rispetto all’importo del debito contestato, oppure poiché
+ignorano o non intendono la portata dei loro diritti, od ancora in ragione del
+contenuto succinto della domanda d’ingiunzione introdotta dai professionisti
+e, pertanto, dell’incompletezza delle informazioni delle quali dispongono.  
+  
+---|---  
+  
+55
+
+|
+
+Pertanto, sarebbe sufficiente che i professionisti avviassero un procedimento
+d’ingiunzione di pagamento invece di un procedimento civile ordinario per
+privare i consumatori del beneficio della tutela perseguita dalla direttiva
+93/13, il che risulta del pari contrario alla giurisprudenza della Corte,
+secondo la quale le caratteristiche specifiche dei procedimenti
+giurisdizionali che si svolgono nel contesto del diritto nazionale tra i
+professionisti ed i consumatori non possono costituire un elemento atto a
+pregiudicare la tutela giuridica di cui devono godere questi ultimi in forza
+delle disposizioni di tale direttiva (sentenza Pannon GSM, cit., punto 34).  
+  
+---|---  
+  
+56
+
+|
+
+In tali condizioni, si deve constatare che la normativa spagnola di cui
+trattasi nel procedimento principale non appare conforme al principio di
+effettività, in quanto rende impossibile o eccessivamente difficile, nei
+procedimenti instaurati dai professionisti e nei quali i consumatori sono
+convenuti, l’applicazione della tutela che la direttiva 93/13 intende
+conferire a questi ultimi.  
+  
+---|---  
+  
+57
+
+|
+
+Alla luce delle considerazioni che precedono, si deve rispondere alla prima
+questione dichiarando che la direttiva 93/13 dev’essere interpretata nel senso
+che essa osta ad una normativa di uno Stato membro, quale quella di cui
+trattasi nel procedimento principale, che non consente al giudice investito di
+una domanda d’ingiunzione di pagamento di esaminare d’ufficio, in limine litis
+né in qualsiasi altra fase del procedimento, anche qualora disponga degli
+elementi di diritto e di fatto necessari a tal fine, la natura abusiva di una
+clausola sugli interessi moratori inserita in un contratto stipulato tra un
+professionista e un consumatore, in assenza di opposizione proposta da
+quest’ultimo.  
+  
+---|---  
+  
+Sulla seconda questione
+
+58
+
+|
+
+Al fine di fornire un’interpretazione del diritto dell’Unione che sia utile al
+giudice del rinvio (v., in tal senso, sentenza del 16 dicembre 2008,
+Michaniki, C-213/07, Racc. pag. I-9999, punti 50 e 51), si deve interpretare
+la seconda questione come volta, in sostanza, ad accertare se gli articoli 2
+della direttiva 2009/22 e 6, paragrafo 1, della direttiva 93/13 ostino ad una
+normativa di uno Stato membro, quale quella prevista dall’articolo 83 del
+decreto legislativo n. 1/2007, che consente al giudice nazionale, qualora
+accerti la nullità di una clausola abusiva in un contratto stipulato tra un
+professionista ed un consumatore, di integrare detto contratto rivedendo il
+contenuto di tale clausola.  
+  
+---|---  
+  
+59
+
+|
+
+Al riguardo si deve rilevare, in limine, che il procedimento principale si
+svolge nel contesto di un procedimento d’ingiunzione di pagamento instaurato
+da una delle parti contraenti e non nel contesto di un’azione inibitoria
+proposta da un «ente legittimato» ai sensi dell’articolo 3 della direttiva
+2009/22.  
+  
+---|---  
+  
+60
+
+|
+
+Di conseguenza, dal momento che quest’ultima direttiva non è applicabile al
+procedimento principale, non occorre pronunciarsi sull’interpretazione
+dell’articolo 2 di quest’ultima.  
+  
+---|---  
+  
+61
+
+|
+
+Ciò posto, al fine di rispondere alla questione sollevata concernente le
+conseguenze che devono essere tratte dalla dichiarazione della natura abusiva
+di una clausola contrattuale, occorre fare riferimento sia al tenore letterale
+dell’articolo 6, paragrafo 1, della direttiva 93/13 sia agli obiettivi e
+all’economia generale di quest’ultima (v., in tal senso, sentenze del 3
+settembre 2009, AHP Manufacturing, C-482/07, Racc. pag. I-7295, punto 27, e
+dell’8 dicembre 2011, Merck Sharp & Dohme, C-125/10, Racc. pag. I-12987, punto
+29).  
+  
+---|---  
+  
+62
+
+|
+
+Per quanto riguarda il tenore letterale di detto articolo 6, paragrafo 1,
+occorre constatare, da un lato, che il primo periodo di tale disposizione, pur
+riconoscendo agli Stati membri un certo margine di autonomia per quanto
+riguarda la definizione della disciplina giuridica applicabile alle clausole
+abusive, impone nondimeno espressamente di prevedere che dette clausole «non
+vincol[i]no il consumatore».  
+  
+---|---  
+  
+63
+
+|
+
+In tale contesto, la Corte ha già avuto l’occasione di interpretare tale
+disposizione nel senso che incombe ai giudici nazionali che accertano la
+natura abusiva di clausole contrattuali trarre tutte le conseguenze che ne
+derivano secondo il diritto nazionale affinché il consumatore non sia
+vincolato da dette clausole (v. sentenza Asturcom Telecomunicaciones, cit.,
+punto 58; ordinanza del 16 novembre 2010, Pohotovosť, C-76/10, Racc. pag.
+I-11557, punto 62, nonché sentenza Pereničová e Perenič, cit., punto 30).
+Infatti, come ricordato al punto 40 della presente sentenza, si tratta di una
+norma imperativa tesa a sostituire all’equilibrio formale che il contratto
+determina fra i diritti e gli obblighi delle parti contraenti un equilibrio
+reale, finalizzato a ristabilire l’uguaglianza tra queste ultime.  
+  
+---|---  
+  
+64
+
+|
+
+D’altro lato, si deve rilevare che il legislatore dell’Unione ha
+esplicitamente previsto, nel secondo periodo dell’articolo 6, paragrafo 1,
+della direttiva 93/13, nonché al ventunesimo considerando di quest’ultima, che
+il contratto stipulato tra il professionista ed il consumatore resterà
+vincolante per le parti «secondo i medesimi termini», qualora esso possa
+sussistere «senza le clausole abusive».  
+  
+---|---  
+  
+65
+
+|
+
+Risulta pertanto dal tenore letterale del paragrafo 1 di detto articolo 6 che
+i giudici nazionali sono tenuti unicamente ad escludere l’applicazione di una
+clausola contrattuale abusiva affinché non produca effetti vincolanti nei
+confronti del consumatore, senza essere autorizzati a rivedere il contenuto
+della medesima. Infatti, detto contratto deve sussistere, in linea di
+principio, senz’altra modifica che non sia quella risultante dalla
+soppressione delle clausole abusive, purché, conformemente alle norme di
+diritto interno, una simile sopravvivenza del contratto sia giuridicamente
+possibile.  
+  
+---|---  
+  
+66
+
+|
+
+Tale interpretazione è corroborata, inoltre, dagli obiettivi e dall’economia
+generale della direttiva 93/13.  
+  
+---|---  
+  
+67
+
+|
+
+Infatti, secondo la giurisprudenza costante della Corte, tale direttiva, nel
+suo complesso, costituisce un provvedimento indispensabile per l’adempimento
+dei compiti affidati all’Unione e, in particolare, per l’innalzamento del
+livello e della qualità della vita all’interno di quest’ultima (v. citate
+sentenze Mostaza Claro, punto 37; Pannon GSM, punto 26, e Asturcom
+Telecomunicaciones, punto 51).  
+  
+---|---  
+  
+68
+
+|
+
+Pertanto, data la natura e l’importanza dell’interesse pubblico sul quale si
+basa la tutela assicurata ai consumatori, che si trovano in una situazione
+d’inferiorità rispetto ai professionisti, la direttiva 93/13 impone agli Stati
+membri, come risulta dal suo articolo 7, paragrafo 1, in combinato disposto
+con il ventiquattresimo considerando della medesima, di fornire mezzi adeguati
+ed efficaci «per far cessare l’inserzione di clausole abusive nei contratti
+stipulati tra un professionista e dei consumatori».  
+  
+---|---  
+  
+69
+
+|
+
+Orbene, in tale contesto, è giocoforza constatare che, come rilevato
+dall’avvocato generale ai paragrafi 86-88 delle sue conclusioni, se il giudice
+nazionale potesse rivedere il contenuto delle clausole abusive inserite in
+simili contratti, una tale facoltà potrebbe compromettere la realizzazione
+dell’obiettivo di lungo termine di cui all’articolo 7 della direttiva 93/13.
+Infatti tale facoltà contribuirebbe ad eliminare l’effetto dissuasivo
+esercitato sui professionisti dalla pura e semplice non applicazione nei
+confronti del consumatore di siffatte clausole abusive (v., in tal senso,
+ordinanza Pohotovost', cit., punto 41 e giurisprudenza ivi citata), dal
+momento che essi rimarrebbero tentati di utilizzare tali clausole, consapevoli
+che, quand’anche esse fossero invalidate, il contratto potrebbe nondimeno
+essere integrato, per quanto necessario, dal giudice nazionale, in modo tale,
+quindi, da garantire l’interesse di detti professionisti.  
+  
+---|---  
+  
+70
+
+|
+
+Ne consegue che una facoltà siffatta, se fosse riconosciuta al giudice
+nazionale, non potrebbe garantire, di per sé, una tutela del consumatore
+efficace quanto quella risultante dalla non applicazione delle clausole
+abusive. Peraltro, tale facoltà non potrebbe nemmeno desumersi dall’articolo 8
+della direttiva 93/13, che lascia agli Stati membri la possibilità di adottare
+o mantenere, nel settore disciplinato da tale direttiva, disposizioni più
+severe, compatibili con il diritto dell’Unione, purché sia garantito un
+livello di protezione più elevato per il consumatore (v. sentenze del 3 giugno
+2010, Caja de Ahorros y Monte de Piedad de Madrid, C-484/08, Racc. pag.
+I-4785, punti 28 e 29, nonché Pereničová e Perenič, cit., punto 34).  
+  
+---|---  
+  
+71
+
+|
+
+Risulta, pertanto, da tali considerazioni che l’articolo 6, paragrafo 1, della
+direttiva 93/13 non può essere interpretato nel senso che consente al giudice
+nazionale, nel caso in cui accerti l’esistenza di una clausola abusiva
+inserita in un contratto stipulato tra un professionista ed un consumatore, di
+rivedere il contenuto di detta clausola invece di escluderne semplicemente
+l’applicazione nei confronti di quest’ultimo.  
+  
+---|---  
+  
+72
+
+|
+
+A tale riguardo spetta al giudice del rinvio verificare quali siano le norme
+nazionali applicabili alla controversia della quale è investito e adoperarsi
+al meglio nei limiti della sua competenza, prendendo in considerazione il
+diritto interno nel suo insieme ed applicando i metodi di interpretazione
+riconosciuti da quest’ultimo, al fine di garantire la piena efficacia
+dell’articolo 6, paragrafo 1, della direttiva 93/13 e di pervenire ad una
+soluzione conforme allo scopo perseguito da quest’ultima (v., in tal senso,
+sentenza del 24 gennaio 2012, Dominguez, C-282/10,, punto 27 e giurisprudenza
+ivi citata).  
+  
+---|---  
+  
+73
+
+|
+
+Sulla scorta di quanto precede, si deve rispondere alla seconda questione
+dichiarando che l’articolo 6, paragrafo 1, della direttiva 93/13 dev’essere
+interpretato nel senso che osta ad una normativa di uno Stato membro, quale
+l’articolo 83 del decreto legislativo n. 1/2007, che consente al giudice
+nazionale, qualora accerti la nullità di una clausola abusiva in un contratto
+stipulato tra un professionista ed un consumatore, di integrare detto
+contratto rivedendo il contenuto di tale clausola.  
+  
+---|---  
+  
+Sulle questioni terza, quarta, quinta e sesta
+
+74
+
+|
+
+Con le sue questioni terza, quarta, quinta e sesta il giudice del rinvio, in
+sostanza, interroga la Corte, da un lato, sulle responsabilità che gravano sui
+giudici nazionali, in forza del regolamento n. 1896/2006 e della direttiva
+2005/29, nel caso in cui esaminino una clausola contrattuale sugli interessi
+moratori quale quella di cui trattasi nel procedimento principale, e,
+dall’altro, sugli obblighi ai quali gli istituti finanziari sono assoggettati
+ai fini dell’applicazione del tasso d’interesse moratorio nei contratti di
+credito, ai sensi degli articoli 5, paragrafo 1, lettere l) e m), 6, 7 e 10,
+paragrafo 2, lettera l), della direttiva 2008/48.  
+  
+---|---  
+  
+75
+
+|
+
+Il Regno di Spagna e la Commissione europea sostengono che tali questioni sono
+irricevibili, dal momento che le norme del diritto dell’Unione che esse
+riguardano non sono applicabili al procedimento principale e che, pertanto,
+l’interpretazione di queste ultime non può essere utile al giudice del rinvio
+per risolvere tale controversia.  
+  
+---|---  
+  
+76
+
+|
+
+A tale riguardo occorre ricordare anzitutto che, in forza di una costante
+giurisprudenza, nell’ambito del procedimento di cui all’articolo 267 TFUE,
+basato sulla netta separazione delle funzioni tra i giudici nazionali e la
+Corte, il giudice nazionale è l’unico competente ad esaminare e valutare i
+fatti del procedimento principale nonché ad interpretare ed a applicare il
+diritto nazionale. Parimenti spetta esclusivamente al giudice nazionale,
+investito della controversia e che deve assumersi la responsabilità
+dell’emananda decisione giurisdizionale, valutare, alla luce delle particolari
+circostanze della controversia, sia la necessità sia la rilevanza delle
+questioni che sottopone alla Corte. Di conseguenza, se le questioni sollevate
+riguardano l’interpretazione del diritto dell’Unione, la Corte, in via di
+principio, è tenuta a pronunciarsi (sentenze del 12 aprile 2005, Keller,
+C-145/03, Racc. pag. I-2529, punto 33; del 18 luglio 2007, Lucchini, C-119/05,
+Racc. pag. I-6199, punto 43, nonché dell’11 settembre 2008, Eckelkamp e a.,
+C-11/07, Racc. pag. I-6845, punti 27 e 32).  
+  
+---|---  
+  
+77
+
+|
+
+Il rigetto, da parte della Corte, di una domanda di pronuncia pregiudiziale
+proposta da un giudice nazionale è quindi possibile soltanto qualora appaia in
+modo manifesto che l’interpretazione del diritto dell’Unione richiesta non ha
+alcun rapporto con la realtà effettiva o l’oggetto della causa principale,
+qualora la questione sia di tipo ipotetico o, ancora, qualora la Corte non
+disponga degli elementi in fatto e in diritto necessari per rispondere in modo
+utile alle questioni che le sono sottoposte (v., in particolare, sentenze del
+5 dicembre 2006, Cipolla e a., C-94/04 e C-202/04, Racc. pag. I-11421, punto
+25, nonché del 1o giugno 2010, Blanco Pérez e Chao Gómez, C-570/07 e C-571/07,
+Racc. pag. I-4629, punto 36).  
+  
+---|---  
+  
+78
+
+|
+
+Orbene, è giocoforza constatare che, nella fattispecie, ricorre precisamente
+tale ipotesi.  
+  
+---|---  
+  
+79
+
+|
+
+In particolare, per quanto riguarda la terza questione, si deve rilevare che
+l’interpretazione del regolamento n. 1896/2006 è del tutto inconferente
+rispetto alla decisione che il giudice del rinvio è chiamato a rendere nella
+controversia della quale è investito. Infatti, da un lato, si deve constatare
+che, come risulta dal fascicolo sottoposto alla Corte, i fatti del
+procedimento principale non ricadono nell’ambito di applicazione di tale
+regolamento, il quale, ai sensi del suo articolo 1, paragrafo 1, riguarda
+unicamente le controversie transfrontaliere, ma restano assoggettati
+esclusivamente alle disposizioni del codice di procedura civile. Dall’altro,
+si deve precisare che tale regolamento, come risulta espressamente dal suo
+decimo considerando, non sostituisce né armonizza i meccanismi di recupero dei
+crediti non contestati previsti dal diritto nazionale.  
+  
+---|---  
+  
+80
+
+|
+
+Per quanto riguarda la quarta questione, risulta manifestamente che le
+disposizioni degli articoli 5, paragrafo 1, lettere l) e m), 6 nonché 10,
+paragrafo 2, lettera l), della direttiva 2008/48, la cui interpretazione è
+richiesta dal giudice del rinvio, non si applicano ratione temporis alla
+controversia di cui al procedimento principale, nei limiti in cui essa
+riguarda l’esecuzione asseritamente scorretta da parte del sig. Calderón
+Camino del contratto di mutuo stipulato il 28 maggio 2007 tra quest’ultimo e
+la Banesto.  
+  
+---|---  
+  
+81
+
+|
+
+Infatti, è sufficiente rilevare a tal proposito che, conformemente agli
+articoli 27, 29 e 31 della direttiva 2008/48, la medesima è entrata in vigore
+l’11 giugno 2008 e che gli Stati membri dovevano adottare i provvedimenti
+necessari per conformarvisi entro l’11 giugno 2010, data a partire dalla quale
+la direttiva 87/102 veniva abrogata. Inoltre, l’articolo 30, paragrafo 1,
+della medesima direttiva ha espressamente previsto che essa non si applichi ai
+contratti di credito in corso alla data di entrata in vigore delle misure
+nazionali di attuazione.  
+  
+---|---  
+  
+82
+
+|
+
+Quanto alla quinta questione, diretta ad accertare, da un lato, se l’articolo
+6, paragrafo 2, della direttiva 2008/48 obblighi gli istituti di credito a
+comunicare la scadenza anticipata del credito o del prestito per poter
+applicare il tasso sugli interessi moratori e, dall’altro, se il principio di
+divieto di ingiustificato arricchimento, sancito all’articolo 7 di questa
+stessa direttiva, possa essere invocato qualora detto istituto di credito
+chieda non soltanto il rimborso del capitale, ma altresì interessi di mora
+particolarmente elevati, si deve rilevare innanzitutto che, con tale
+questione, come risulta dal fascicolo presentato alla Corte, il giudice del
+rinvio ha voluto, in realtà, riferirsi ai corrispondenti articoli della
+direttiva 87/102, gli unici congruenti all’obiettivo di cui trattasi in detta
+questione.  
+  
+---|---  
+  
+83
+
+|
+
+Tuttavia, anche ad ammettere che tale sia la portata reale della quinta
+questione (v., in tal senso, sentenza del 18 novembre 1999, Teckal, C-107/98,
+Racc. pag. I-8121, punti 34 e 39), si deve constatare che, come rilevato
+altresì dall’avvocato generale ai paragrafi 99 e 100 delle sue conclusioni,
+nell’ordinanza di rinvio non vi sono elementi che indichino che nel
+procedimento principale si porrebbe un problema legato all’obbligo di
+informare preventivamente il consumatore di qualsiasi modifica del tasso
+d’interesse annuo, oppure alla restituzione di un bene al creditore che
+comporta un ingiustificato arricchimento di quest’ultimo.  
+  
+---|---  
+  
+84
+
+|
+
+Risulta pertanto manifestamente che la quinta questione ha natura ipotetica,
+giacché l’interpretazione di dette disposizioni della direttiva 87/102 non ha
+alcun legame con l’oggetto del procedimento principale.  
+  
+---|---  
+  
+85
+
+|
+
+Per quanto riguarda, infine, la sesta questione, diretta ad accertare se, in
+mancanza di trasposizione della direttiva 2005/29, l’articolo 11, paragrafo 2,
+di quest’ultima debba essere interpretato nel senso che un giudice nazionale
+può esaminare d’ufficio il carattere sleale della pratica di includere nel
+testo del contratto una clausola di interessi moratori, è sufficiente
+constatare, come rilevato dall’avvocato generale al paragrafo 106 delle sue
+conclusioni, che nell’ordinanza di rinvio non si rinvengono elementi che
+indichino che il Juzgado de Primera Instancia n. 2 de Sabadell, che ha
+pronunciato l’ordinanza di rigetto della domanda d’ingiunzione di pagamento,
+abbia considerato quale pratica commerciale sleale ai sensi della direttiva
+summenzionata l’inserimento da parte della Banesto, nel contratto di credito
+da essa stipulato con il sig. Calderón Camino, di una clausola sugli interessi
+di mora quale quella di cui trattasi nel procedimento principale.  
+  
+---|---  
+  
+86
+
+|
+
+Si deve del pari constatare che, nella sua ordinanza, il giudice del rinvio
+sviluppa considerazioni esplicative relative a tale questione riferendosi
+espressamente all’«eventuale pratica sleale dell’istituto bancario».  
+  
+---|---  
+  
+87
+
+|
+
+Di conseguenza, risulta manifestamente che l’interpretazione della direttiva
+2005/29 ha un valore puramente ipotetico rispetto all’oggetto del procedimento
+principale. In tale contesto la mancata trasposizione di tale direttiva
+risulta parimenti inconferente per la soluzione di detta controversia.  
+  
+---|---  
+  
+88
+
+|
+
+Pertanto, alla luce delle considerazioni che precedono, devono essere
+dichiarate irricevibili le questioni terza, quarta, quinta e sesta sollevate
+dal giudice del rinvio.  
+  
+---|---  
+  
+Sulle spese
+
+89
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+La direttiva 93/13/CEE del Consiglio, del 5 aprile 1993, concernente le
+clausole abusive nei contratti stipulati con i consumatori, dev’essere
+interpretata nel senso che osta ad una normativa di uno Stato membro, quale
+quella di cui trattasi nel procedimento principale, che non consente al
+giudice investito di una domanda d’ingiunzione di pagamento di esaminare
+d’ufficio, in limine litis, né in qualsiasi altra fase del procedimento, anche
+qualora disponga degli elementi di diritto e di fatto necessari a tal fine, la
+natura abusiva di una clausola sugli interessi moratori inserita in un
+contratto stipulato tra un professionista e un consumatore, in assenza di
+opposizione proposta da quest’ultimo.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’articolo 6, paragrafo 1, della direttiva 93/13 dev’essere interpretato nel
+senso che osta ad una normativa di uno Stato membro, quale l’articolo 83 del
+decreto legislativo reale n. 1/2007, recante approvazione del testo
+consolidato della legge generale sulla tutela dei consumatori e degli utenti e
+delle altre leggi complementari (Real Decreto Legislativo 1/2007 por el que se
+aprueba el texto refundido de la Ley General para la Defensa de los
+Consumidores y Usuarios y otras leyes complementarias), del 16 novembre 2007,
+che consente al giudice nazionale, qualora accerti la nullità di una clausola
+abusiva in un contratto stipulato tra un professionista ed un consumatore, di
+integrare detto contratto rivedendo il contenuto di tale clausola.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: lo spagnolo.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

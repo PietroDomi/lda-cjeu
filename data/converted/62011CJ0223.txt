@@ -69,4 +69,7 @@ di tale direttiva e dell'articolo 15, paragrafo 1, di detta direttiva.
 La Repubblica portoghese e condannata alle spese.  
   
 ---|---|---
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
 
