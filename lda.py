@@ -8,7 +8,7 @@ from spacy.lang.it import Italian
 it_stopwords = stopwords.words('italian')
 it_stopwords.append("quest")
 
-stemmer = ItalianStemmer
+stemmer = ItalianStemmer()
 docs = []
 for txt in os.listdir("data/converted"):
     text = open("data/converted/"+txt,"r",encoding='utf-8').read()
@@ -31,13 +31,13 @@ def preprocess(text):
     nlp = Italian()
     t0 = text.split("Lingua processuale")[0].split("Sentenza")[1:]
     t1 = "".join(t0)
-    t1 =  re.sub(r"’|'|»|«|\d{1,4}\/\d{1,4}\/(cee|ce)|\d+|---\|*|^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$", " ", t1, flags=re.IGNORECASE)
+    t1 =  re.sub(r"’|'|«|»|\d{1,4}\/\d{1,4}\/(cee|ce)|\d+|---\|*|^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$", " ", t1, flags=re.IGNORECASE)
     # print(t1)
     doc = nlp(t1)
     for token in doc:
         if token.text.lower() not in it_stopwords and not token.is_punct | token.is_space and len(token) > 3:
             assert token.lang_ == "it"
-            result.append(stemmer.stem(token.lemma_))
+            result.append(stemmer.stem(word=token.lemma_))
             if "'" in result[-1] or "’" in result[-1]:
                 return token.lemma_, token.is_punct
     return result
