@@ -11,7 +11,7 @@ class CelexSpider(scrapy.Spider):
     allowed_domains = ['eur-lex.europa.eu/legal-content/IT/TXT/HTML/']
     start_urls = ["https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:" + c[:-1] for c in celexs]
 
-    def parse(self, response):
+    def parse(self, response, start_urls=start_urls):
         global i
         i += 1
         page = response.url.split(":")[-1]

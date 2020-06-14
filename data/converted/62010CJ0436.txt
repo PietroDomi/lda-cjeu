@@ -1,4 +1,631 @@
 
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+29 marzo 2012 ( *1 )
+
+«Sesta direttiva IVA — Articoli 6, paragrafo 2, primo comma, lettera a), e 13,
+parte B, lettera b) — Diritto a detrazione — Bene di investimento appartenente
+ad un soggetto passivo persona giuridica e messo a disposizione del suo
+personale per fini privati di quest’ultimo»
+
+Nella causa C-436/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dalla cour d’appel de Mons (Belgio), con
+decisione dell’8 settembre 2010, pervenuta in cancelleria il 13 settembre
+2010, nel procedimento
+
+État belge
+
+contro
+
+BLM SA,
+
+LA CORTE (Quinta Sezione),
+
+composta dal sig. M. Safjan, presidente di sezione, dal sig. J.-J. Kasel
+(relatore) e dalla sig.ra M. Berger, giudici,
+
+avvocato generale: sig.ra J. Kokott
+
+cancelliere: sig.ra C. Strömholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza dell’8
+dicembre 2011,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la BLM SA, da O. D’Aout, avocat,  
+  
+---|---  
+  
+—
+
+|
+
+per il governo belga, da J.-C. Halleux e da M. Jacobs, in qualità di agenti,  
+  
+---|---  
+  
+—
+
+|
+
+per il governo tedesco, da T. Henze e C. Blaschke, in qualità di agenti,  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da B. Stromsky nonché da D. Recchia e C. Soulay,
+in qualità di agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 6, paragrafo 2, primo comma, lettera a), e 13, parte B, lettera b),
+della sesta direttiva 77/388/CEE del Consiglio, del 17 maggio 1977, in materia
+di armonizzazione delle legislazioni degli Stati Membri relative alle imposte
+sulla cifra di affari — Sistema comune di imposta sul valore aggiunto: base
+imponibile uniforme (GU L 145, pag. 1), come modificata dalla direttiva
+95/7/CE del Consiglio, del 10 aprile 1995 (GU L 102, pag. 18; in prosieguo: la
+«sesta direttiva»).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra lo Stato
+belga e la BLM SA (in prosieguo: la «BLM»), una società di diritto belga, in
+merito alla detrazione dell’imposta sul valore aggiunto (in prosieguo:
+l’«IVA») versata a monte, relativa ad un bene immobile in parte usato per fini
+privati del personale di tale società.  
+  
+---|---  
+  
+Contesto normativo
+
+La normativa dell’Unione
+
+3
+
+|
+
+A tenore del quinto e sesto considerando della sesta direttiva:
+
+«considerando che la nozione di soggetto di imposta deve essere precisata
+consentendo agli Stati membri, per garantire una migliore neutralità
+dell’imposta, di includervi le persone che effettuano alcune operazioni
+occasionali;
+
+considerando che la nozione di operazione imponibile ha creato difficoltà
+soprattutto per le operazioni assimilate ad operazioni imponibili e che è
+sembrato necessario precisare queste nozioni».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 2, punto 1, della sesta direttiva dispone quanto segue:
+
+«Sono soggette all’[IVA]:
+
+1\. le cessioni di beni e le prestazioni di servizi, effettuate a titolo
+oneroso all’interno del paese da un soggetto passivo che agisce in quanto
+tale».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 4, paragrafo 1, della sesta direttiva così prevede:
+
+«Si considera soggetto passivo chiunque esercita in modo indipendente e in
+qualsiasi luogo una delle attività economiche di cui al paragrafo 2,
+indipendentemente dallo scopo o dai risultati di detta attività».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 6, paragrafo 2, della sesta direttiva è redatto nei seguenti
+termini:
+
+«Sono assimilati a prestazioni di servizi a titolo oneroso:
+
+|
+
+a)
+
+|
+
+l’uso di un bene destinato all’impresa per l’uso privato del soggetto passivo
+o per l’uso del suo personale o, più generalmente, a fini estranei alla sua
+impresa qualora detto bene abbia consentito una deduzione totale o parziale
+dell’[IVA];  
+  
+---|---  
+  
+b)
+
+|
+
+le prestazioni di servizi a titolo gratuito effettuate dal soggetto passivo
+per il proprio uso privato o ad uso del suo personale o, più generalmente, per
+fini estranei alla sua impresa.  
+  
+---|---  
+  
+Gli Stati membri hanno la facoltà di derogare alle disposizioni del presente
+paragrafo a condizione che tale deroga non dia luogo a distorsioni di
+concorrenza».  
+  
+7
+
+|
+
+In virtù dell’articolo 13, parte B, lettera b), primo comma, della sesta
+direttiva, gli Stati membri esonerano «l’affitto e la locazione di beni
+immobili (…)».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 17, paragrafo 2, della stessa direttiva, nella sua versione
+risultante dall’articolo 28 septies della medesima, così dispone:
+
+«Nella misura in cui i beni e servizi sono impiegati ai fini di sue operazioni
+soggette ad imposta, il soggetto passivo è autorizzato a dedurre dall’imposta
+di cui è debitore:
+
+|
+
+a)
+
+|
+
+l’[IVA] dovuta o assolta all’interno del paese per i beni che gli sono o gli
+saranno ceduti e per i servizi che gli sono o gli saranno prestati da un altro
+soggetto passivo».  
+  
+---|---  
+  
+La normativa nazionale
+
+9
+
+|
+
+L’articolo 19, paragrafo 1, del codice dell’IVA sancisce:
+
+«È assimilato a una prestazione di servizi effettuata a titolo oneroso l’uso
+di un bene destinato all’impresa per l’uso privato del soggetto passivo o per
+l’uso del suo personale o, più generalmente, a fini estranei all’attività
+economica del soggetto passivo, qualora detto bene abbia consentito una
+detrazione totale o parziale dell’imposta».  
+  
+---|---  
+  
+10
+
+|
+
+A norma dell’articolo 44, paragrafo 3, punto 2, del medesimo codice, sono
+esenti dall’IVA «l’affitto, la locazione e la cessione del contratto di
+locazione dei beni immobili per natura, come anche l’uso di tali beni alle
+condizioni di cui all’articolo 19, paragrafo 1 (…)».  
+  
+---|---  
+  
+11
+
+|
+
+Nella decisione di rinvio, la cour d’appel de Mons menziona la circolare
+amministrativa n. E.T.108691, del 31 gennaio 2005, redatta in seguito alla
+sentenza della Corte dell’8 maggio 2003, Seeling, C-269/00 (Racc. pag.
+I-4101), e ne trae conseguenze pratiche per la normativa nazionale. Secondo il
+giudice del rinvio, tale circolare limita l’applicazione della suddetta
+sentenza Seeling ai soli soggetti passivi persone fisiche. Per quanto riguarda
+i soggetti passivi persone giuridiche che mettono a disposizione di un gestore
+o di un socio un bene immobile destinato interamente al patrimonio
+dell’impresa, la suddetta circolare precisa che un simile uso costituisce una
+locazione di un bene immobile che, in quanto tale, è esente dall’IVA.  
+  
+---|---  
+  
+Causa principale e questione pregiudiziale
+
+12
+
+|
+
+La BLM, costituita nell’aprile 2003 dai sigg. Bertrand e Bernard Losfeld, ha
+come oggetto sociale, in particolare, l’attività di consulenza in materia
+finanziaria, tecnica, commerciale o amministrativa in senso ampio, nonché
+l’assistenza e la fornitura di servizi, direttamente o indirettamente, nel
+settore amministrativo o finanziario, nelle vendite, nella produzione e nella
+gestione in generale. Per quanto riguarda queste attività, la BLM è soggetta
+all’IVA.  
+  
+---|---  
+  
+13
+
+|
+
+Nel dicembre 2003, la BLM ha ricevuto, tramite conferimento da parte del sig.
+Bertrand Losfeld e di sua moglie, un diritto reale di usufrutto, di durata
+ventennale, su un edificio che avevano fatto costruire precedentemente e per
+la costruzione del quale avevano optato per la qualità di soggetti passivi
+dell’IVA. Essi risiedono in tale edificio con i loro figli dal luglio 2002.
+Nel medesimo edificio, la BLM dispone di un ufficio e di una sala archivi.  
+  
+---|---  
+  
+14
+
+|
+
+Tale conferimento ha dato luogo al pagamento dell’IVA, che è stata detratta
+dalla BLM nella sua dichiarazione afferente al quarto trimestre del 2003,
+ovvero una somma di EUR 42420,61 che era stata portata in detrazione.  
+  
+---|---  
+  
+15
+
+|
+
+La BLM, della quale il sig. Bertrand Losfeld è l’amministratore delegato, non
+richiede a quest’ultimo il pagamento di un canone di locazione per l’uso
+privato di una parte dell’edificio di cui trattasi. Tuttavia, egli è soggetto
+all’imposta delle persone fisiche su un vantaggio in natura, calcolato
+forfettariamente in base ad un’occupazione per uso privato dell’edificio pari
+al 75%.  
+  
+---|---  
+  
+16
+
+|
+
+In seguito ad un controllo effettuato in loco dall’amministrazione finanziaria
+di Tournai (in prosieguo: l’«amministrazione finanziaria»), quest’ultima ha
+contestato la detraibilità di una parte dell’IVA versata dalla BLM in
+occasione del conferimento, ossia un importo pari a EUR 31683,96. Infatti,
+essa ha ritenuto che si trattasse di un uso non professionale dell’edificio.
+Orbene, l’uso privato di un edificio costituirebbe un’operazione esente
+dall’IVA. Di conseguenza, il soggetto passivo non potrebbe detrarre l’IVA
+gravante a monte sulla costruzione della parte dell’edificio messa a
+disposizione dell’amministratore delegato della BLM.  
+  
+---|---  
+  
+17
+
+|
+
+L’amministrazione finanziaria ha ritenuto che l’IVA relativa alle spese di
+costruzione dei locali professionali, ossia l’ufficio e la sala archivi, fosse
+detraibile al 100%, che quella relativa ai lavori effettuati nei locali
+cosiddetti «misti» fosse detraibile al 25,31% e che il resto dell’edificio
+dovesse essere considerato come totalmente privato. Con decisione del 1o marzo
+2005, essa ha dunque dichiarato la BLM debitrice della somma di EUR 31683,96
+per detrazione illegittima dell’IVA, nonché di un’ammenda e di interessi
+moratori.  
+  
+---|---  
+  
+18
+
+|
+
+La BLM ha proposto ricorso avverso la summenzionata decisione dinanzi al
+Tribunal de première instance de Mons. Nelle conclusioni presentate dinanzi al
+medesimo, l’amministrazione finanziaria ha formulato, in subordine, una
+domanda riconvenzionale volta a fare fissare, per ogni anno trascorso, la base
+imponibile dell’uso a fini privati del bene immobile di cui trattasi a 1/15
+della parte del prezzo di tale bene. Con sentenza in data 8 agosto 2006, il
+medesimo tribunale ha considerato, in particolare, che la base annua della
+messa a disposizione gratuita del bene immobile da parte della BLM dovesse
+essere fissata a 1/20 del prezzo pagato per l’acquisto dell’usufrutto
+sull’edificio, a concorrenza della parte occupata per uso privato.  
+  
+---|---  
+  
+19
+
+|
+
+Non essendo rimasta soddisfatta da tale sentenza, l’amministrazione
+finanziaria ha interposto appello contro quest’ultima dinanzi alla cour
+d’appel de Mons. A sostegno del suo appello, essa deduce che una messa a
+disposizione, come quella in esame nella causa principale, deve essere
+considerata una locazione a titolo oneroso esente dall’IVA. Costituendo
+un’operazione non soggetta ad imposta, il soggetto passivo non potrebbe dunque
+detrarre l’imposta che ha gravato sulla costruzione della parte dell’edificio
+messa a disposizione. Tale amministrazione sostiene, a tal riguardo, che la
+citata sentenza Seeling si applica unicamente a un soggetto passivo avente la
+qualità di persona fisica, poiché una siffatta persona non può essere al
+contempo proprietaria di un bene immobile e locataria di questo stesso bene.  
+  
+---|---  
+  
+20
+
+|
+
+Dinanzi al giudice del rinvio, la BLM afferma che la soluzione, adottata dalla
+Corte nella sentenza Seeling sopra citata, è applicabile a una situazione come
+quella in esame nella causa principale.  
+  
+---|---  
+  
+21
+
+|
+
+Alla luce di quanto sopra, la Cour d’appel de Mons ha deciso di sospendere il
+procedimento e di sottoporre alla Corte la seguente questione pregiudiziale:
+
+«Se gli articoli 6, paragrafo 2, primo comma, lettera a), e 13, parte B,
+lettera b), della sesta direttiva (...) debbano essere interpretati nel senso
+che ostano a una normativa nazionale che tratta come una prestazione di
+servizi esente da imposta, in quanto affitto o locazione di un bene immobile
+ai sensi del suddetto articolo 13, parte B, lettera b), l’uso privato da parte
+del dirigente e della sua famiglia di una parte di un edificio costruito o
+posseduto in virtù di un diritto reale immobiliare dal soggetto passivo
+persona giuridica, qualora tale bene d’investimento consenta il diritto alla
+detrazione dell’imposta a monte».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+22
+
+|
+
+Con la sua questione, il giudice del rinvio chiede sostanzialmente se gli
+articoli 6, paragrafo 2, primo comma, lettera a) e 13, parte B, lettera b),
+della sesta direttiva debbano essere interpretati nel senso che ostano a una
+normativa nazionale che, pur non essendo soddisfatte le caratteristiche di un
+affitto o di una locazione di un bene immobile a norma dell’articolo 13, parte
+B, lettera b), tratta come una prestazione di servizi esente dall’IVA, in
+forza di quest’ultima disposizione, l’uso per fini privati del personale di un
+soggetto passivo persona giuridica, di una parte di un edificio costruito o
+posseduto in forza di un diritto reale immobiliare da parte del medesimo
+soggetto passivo, qualora tale bene abbia conferito un diritto alla detrazione
+dell’imposta a monte.  
+  
+---|---  
+  
+23
+
+|
+
+A tale riguardo, occorre ricordare che, nella sua citata sentenza Seeling, la
+Corte ha già statuito che gli articoli 6, paragrafo 2, primo comma, lettera
+a), e 13, parte B, lettera b), della sesta direttiva devono essere
+interpretati nel senso che ostano a una normativa nazionale che tratta come
+una prestazione di servizi esente da imposta, in quanto affitto o locazione di
+un bene immobile ai sensi del suddetto articolo 13, parte B, lettera b), l’uso
+per fini privati del soggetto passivo di una parte di un edificio destinato
+interamente alla sua impresa.  
+  
+---|---  
+  
+24
+
+|
+
+È vero che, nella causa che ha dato origine alla citata sentenza Seeling, il
+soggetto passivo era una persona fisica e sussisteva quindi identità di
+persone tra questo soggetto passivo e la persona che aveva usato per fini
+privati il bene destinato all’impresa. Tuttavia, contrariamente a quanto
+sostenuto dal governo belga nelle sue osservazioni dinanzi alla Corte, non si
+può dedurre da tale circostanza che l’interpretazione dell’articolo 6,
+paragrafo 2, primo comma, lettera a), della sesta direttiva, adottata dalla
+Corte nella predetta sentenza, non possa trovare applicazione qualora il
+soggetto passivo sia una persona giuridica.  
+  
+---|---  
+  
+25
+
+|
+
+Infatti, da una parte, come emerge con chiarezza dalla sua formulazione,
+l’articolo 6, paragrafo 2, primo comma, lettera a), della sesta direttiva
+riguarda non soltanto il caso del soggetto passivo che utilizza per fini
+privati un bene destinato all’impresa, ma anche quello in cui il personale di
+un soggetto passivo procede a un uso siffatto. Orbene, in quest’ultima
+ipotesi, non sussiste identità tra le persone interessate e la circostanza che
+il soggetto passivo sia una persona giuridica non esclude che possa esserci un
+uso del bene per fini privati da parte del personale di tale soggetto passivo.  
+  
+---|---  
+  
+26
+
+|
+
+Inoltre, va constatato che la disposizione in parola, che impiega il termine
+«soggetto passivo», non opera alcuna distinzione tra le persone fisiche e le
+persone giuridiche e che essa si limita a prevedere in quale modo debbano
+essere trattate, ai fini dell’IVA, talune operazioni economiche che non
+rientrano in altre disposizioni della sesta direttiva.  
+  
+---|---  
+  
+27
+
+|
+
+Del resto, dai considerando quinto e sesto della sesta direttiva emerge che la
+qualità di «soggetto passivo» è connessa alle operazioni effettuate da un
+operatore economico e non alla forma giuridica del medesimo. Pertanto,
+conformemente all’articolo 4, paragrafo 1, della direttiva in parola, si deve
+considerare soggetto passivo chiunque esercita in modo indipendente e in
+qualsiasi luogo una delle attività economiche di cui al paragrafo 2 del
+medesimo articolo, indipendentemente dagli scopi o dai risultati di tale
+attività.  
+  
+---|---  
+  
+28
+
+|
+
+D’altra parte, va precisato che, contrariamente a quanto dedotto dal governo
+belga, dalla citata sentenza Seeling non emerge che la Corte abbia basato il
+proprio ragionamento su una presunta impossibilità di concepire una locazione
+immobiliare qualora l’operazione riguardi una sola e unica persona fisica, che
+sarebbe dunque in possesso della duplice qualità di locatore e locatario.  
+  
+---|---  
+  
+29
+
+|
+
+Infatti, sebbene la Corte avrebbe potuto limitarsi a statuire che, in una
+situazione come quella in esame nella causa che ha dato luogo alla citata
+sentenza Seeling, per definizione non poteva esserci un accordo sulle
+condizioni di locazione, essa ha esaminato se tale situazione potesse essere
+qualificata come locazione di un bene immobile a norma dell’articolo 13, parte
+B, lettera b), della sesta direttiva e, al punto 51 della summenzionata
+sentenza, ha concluso, a tal riguardo, che una siffatta situazione era
+caratterizzata dall’assenza tanto del pagamento di un canone di locazione
+quanto di un accordo sulla durata del diritto di godimento nonché sul diritto
+di occupare l’alloggio e di escluderne altre persone.  
+  
+---|---  
+  
+30
+
+|
+
+Ne consegue che, in mancanza di tali caratteristiche, l’uso per fini privati
+del personale di un soggetto passivo persona giuridica, di una parte di un
+edificio costruito o posseduto in forza di un diritto reale immobiliare da
+detto soggetto passivo, non può essere qualificato come locazione di un bene
+immobile ai sensi dell’articolo 13, parte B, lettera b), della sesta
+direttiva.  
+  
+---|---  
+  
+31
+
+|
+
+Pertanto, occorre rispondere alla questione posta che gli articoli 6,
+paragrafo 2, primo comma, lettera a), e 13, parte B, lettera b), della sesta
+direttiva devono essere interpretati nel senso che ostano ad una normativa
+nazionale che, pur non essendo soddisfatte le caratteristiche di un affitto o
+di una locazione di un bene immobile a norma di tale articolo 13, parte B,
+lettera b), tratta come una prestazione di servizi esente dall’IVA in forza di
+quest’ultima disposizione, l’uso per fini privati del personale di un soggetto
+passivo persona giuridica, di una parte di un edificio costruito o posseduto
+in virtù di un diritto reale immobiliare dal predetto soggetto passivo,
+qualora tale bene abbia conferito il diritto alla detrazione dell’imposta a
+monte.  
+  
+---|---  
+  
+32
+
+|
+
+A tal riguardo, spetta al giudice del rinvio valutare se, in una situazione
+come quella in esame nella causa principale, si possa considerare che sussiste
+una locazione di un bene immobile ai sensi dell’articolo 13, parte B, lettera
+b), della sesta direttiva.  
+  
+---|---  
+  
+Sulle spese
+
+33
+
+|
+
+Nei confronti delle parti nella causa principale la presente causa costituisce
+un incidente sollevato dinanzi al giudice nazionale, cui spetta quindi
+statuire sulle spese. Le spese sostenute da altri soggetti per presentare
+osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:  
+  
+---|---  
+|
+
+Gli articoli 6, paragrafo 2, primo comma, lettera a), e 13, parte B, lettera
+b), della sesta direttiva 77/388/CEE del Consiglio, del 17 maggio 1977, in
+materia di armonizzazione delle legislazioni degli Stati Membri relative alle
+imposte sulla cifra di affari — Sistema comune di imposta sul valore aggiunto:
+base imponibile uniforme, quale modificata dalla direttiva 95/7/CE del
+Consiglio del 10 aprile 1995, devono essere interpretati nel senso che ostano
+ad una normativa nazionale che, pur non essendo soddisfatte le caratteristiche
+di un affitto o di una locazione di un bene immobile a norma di detto articolo
+13, parte B, lettera b), tratta come una prestazione di servizi, esente
+dall’imposta sul valore aggiunto in forza di quest’ultima disposizione, l’uso
+per fini privati del personale di un soggetto passivo persona giuridica, di
+una parte di un edificio costruito o posseduto in virtù di un diritto reale
+immobiliare dal predetto soggetto passivo, qualora tale bene abbia conferito
+il diritto alla detrazione dell’imposta a monte.  
+  
+---|---  
+|
+
+Spetta al giudice del rinvio valutare se, in una situazione come quella in
+esame nella causa principale, si possa considerare che sussiste una locazione
+di un bene immobile ai sensi del suddetto articolo 13, parte B, lettera b).  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il francese.
+
   *[""]: Double quotes
   *[*]: Asterisk
   *[?]: Question mark

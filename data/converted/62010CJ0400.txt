@@ -1,2 +1,717 @@
+  
+  
+SENTENZA DELLA CORTE (Terza Sezione)
 
+5 ottobre 2010 (*)
+
+«Cooperazione giudiziaria in materia civile - Materia matrimoniale e materia
+di responsabilita genitoriale - Convenzione dell'Aia, del 25 ottobre 1980,
+sugli aspetti civili della sottrazione internazionale di minori - Regolamento
+(CE) n. 2201/2003 - Figli naturali - Diritto di affidamento del padre -
+Interpretazione della nozione di "diritto di affidamento" - Principi generali
+del diritto e Carta dei diritti fondamentali dell'Unione europea»
+
+Nel procedimento C‑400/10 PPU,
+
+avente ad oggetto una domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dalla Supreme Court (Irlanda), con decisione 30
+luglio 2010, pervenuta in cancelleria il 6 agosto 2010, nella causa
+
+**J. McB.**
+
+contro
+
+**L. E.** ,
+
+LA CORTE (Terza Sezione),
+
+composta dal sig. K. Lenaerts (relatore), presidente di sezione, dalla sig.ra
+R. Silva de Lapuerta, dai sigg. E. Juhasz, T. von Danwitz e D. Švaby, giudici,
+
+avvocato generale: sig. N. Jaaskinen
+
+cancelliere: sig.ra L. Hewlett, amministratore principale
+
+vista la domanda del giudice del rinvio di sottoporre il rinvio pregiudiziale
+a un procedimento d'urgenza, a norma dell'art. 104 ter del regolamento di
+procedura,
+
+vista la decisione della Terza Sezione in data 11 agosto 2010 di accogliere la
+suddetta domanda,
+
+vista la fase scritta del procedimento e in seguito all'udienza del 20
+settembre 2010,
+
+considerate le osservazioni presentate:
+
+-        per il sig. McB., dalla sig.ra D. Browne, SC, e dal sig. D. Quinn, BL, su mandato del sig. J. McDaid, solicitor;
+
+-        per la sig.ra E., dal sig. G. Durcan, SC, nonche dalle sig.re N. Jackson e S. Fennell, BL, su mandato della sig.ra M. Quirke, solicitor; 
+
+-        per l'Irlanda, dal sig. D. O'Hagan, in qualita di agente, assistito dai sigg. M. MacGrath, SC, e N. Travers, BL;
+
+-        per il governo tedesco, dalla sig.ra J. Kemper, in qualita di agente;
+
+-        per la Commissione europea, dalla sig.ra A.-M. Rouchaud-Joet e dal sig. M. Wilderspin, in qualita di agenti,
+
+sentito l'avvocato generale,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione del
+regolamento (CE) del Consiglio 27 novembre 2003, n. 2201, relativo alla
+competenza, al riconoscimento e all'esecuzione delle decisioni in materia
+matrimoniale e in materia di responsabilita genitoriale, che abroga il
+regolamento (CE) n. 1347/2000 (GU L 338, pag. 1).
+
+2        La questione e sorta nell'ambito di una controversia tra il sig.
+McB., quale padre, e la sig.ra E., quale madre, di tre minori, in merito al
+ritorno in Irlanda di questi ultimi, che si trovano attualmente in Inghilterra
+insieme alla madre.
+
+  **Contesto normativo**
+
+  _La convenzione dell 'Aia del 1980_
+
+3        L'art. 1 della convenzione dell'Aia, del 25 ottobre 1980, sugli
+aspetti civili della sottrazione internazionale di minori (in prosieguo: la
+«convenzione dell'Aia del 1980»), cosi dispone:
+
+«La presente Convenzione ha come fine:
+
+a)      di assicurare l'immediato rientro dei minori illecitamente trasferiti
+o trattenuti in qualsiasi Stato contraente;
+
+b)      di assicurare che i diritti di affidamento e di visita previsti in uno
+Stato contraente siano effettivamente rispettati negli altri Stati
+contraenti».
+
+4        L'art. 3 della suddetta convenzione recita come segue:
+
+«Il trasferimento o il mancato rientro di un minore e ritenuto illecito:
+
+a)      quando avviene in violazione dei diritti di custodia assegnati ad una
+persona, istituzione o ogni altro ente, congiuntamente o individualmente, in
+base alla legislazione dello Stato nel quale il minore aveva la sua residenza
+abituale immediatamente prima del suo trasferimento o del suo mancato rientro
+e
+
+b)      se tali diritti erano effettivamente esercitati, individualmente o
+congiuntamente, al momento del trasferimento del minore o del suo mancato
+rientro, o avrebbero potuto esserlo se non si fossero verificate tali
+circostanze.
+
+Il diritto di custodia citato al capoverso a) di cui sopra puo in particolare
+derivare direttamente dalla legge, da una decisione giudiziaria o
+amministrativa, o da un accordo vigente in base alla legislazione del predetto
+Stato».
+
+5        Ai sensi dell'art. 15 della convenzione dell'Aia del 1980:
+
+«Le autorita giudiziarie o amministrative di uno Stato Contraente hanno
+facolta, prima di decretare il ritorno del minore, di domandare che il
+richiedente produca una decisione o attestato emesso dalle autorita dello
+Stato di residenza abituale del minore, comprovante che il trasferimento o il
+mancato rientro era illecito ai sensi dell'articolo 3 della Convenzione,
+sempre che tale decisione o attestato possa essere ottenuto in quello Stato.
+Le autorita centrali degli Stati Contraenti assistono il richiedente, per
+quanto possibile, nell'ottenimento di detta decisione o attestato».
+
+  _Il diritto delll 'Unione_
+
+6        Il diciassettesimo 'considerando' del regolamento n. 2201/2003
+precisa quanto segue:
+
+«In caso di trasferimento o mancato rientro illeciti del minore, si dovrebbe
+ottenerne immediatamente il ritorno e a tal fine dovrebbe continuare ad essere
+applicata la [convenzione dell'Aia del 1980], quale integrata dalle
+disposizioni del presente regolamento, in particolare l'articolo 11 (…)».
+
+7        Ai termini del trentatreesimo 'considerando' del suddetto
+regolamento:
+
+«Il presente regolamento riconosce i diritti fondamentali e osserva i principi
+sanciti (...) dalla Carta dei diritti fondamentali dell'Unione europea [in
+prosieguo: la «Carta»]. In particolare, mira a garantire il pieno rispetto dei
+diritti fondamentali del bambino quali riconosciuti dall'articolo 24 della
+[Carta]».
+
+8        L'art. 2, punto 9, del medesimo regolamento definisce il «diritto di
+affidamento» come «i diritti e doveri concernenti la cura della persona di un
+minore, in particolare il diritto di intervenire nella decisione riguardo al
+suo luogo di residenza».
+
+9        L'art. 2, punto 11, del regolamento n. 2201/2003 precisa che il
+«trasferimento (...) o mancato ritorno del minore» e illecito:
+
+«a)      quando avviene in violazione dei diritti di affidamento derivanti da
+una decisione [giudiziaria], dalla legge o da un accordo vigente in base alla
+legislazione dello Stato membro nel quale il minore aveva la sua residenza
+abituale immediatamente prima del suo trasferimento o del suo mancato rientro
+
+e
+
+b)      se il diritto di affidamento era effettivamente esercitato,
+individualmente o congiuntamente, al momento del trasferimento del minore o
+del suo mancato rientro, o lo sarebbe stato se non fossero sopravvenuti tali
+eventi. L'affidamento si considera esercitato congiuntamente da entrambi i
+genitori quanto uno dei titolari della responsabilita genitoriale non puo,
+conformemente ad una decisione o al diritto nazionale, decidere il luogo di
+residenza del minore senza il consenso dell'altro titolare della
+responsabilita genitoriale».
+
+10      L'art. 11 del suddetto regolamento, rubricato «Ritorno del minore»,
+cosi dispone:
+
+«1.      Quando una persona, istituzione o altro ente titolare del diritto di
+affidamento adisce le autorita competenti di uno Stato membro affinche emanino
+un provvedimento in base alla [convenzione dell'Aia del 1980] per ottenere il
+ritorno di un minore che e stato illecitamente trasferito o trattenuto in uno
+Stato membro diverso dallo Stato membro nel quale il minore aveva la residenza
+abituale immediatamente prima dell'illecito trasferimento o mancato ritorno,
+si applicano i paragrafi da 2 a 8\.
+
+(…)
+
+3.      Un'autorita giurisdizionale alla quale e stata presentata la domanda per il ritorno del minore di cui al paragrafo 1 procede al rapido trattamento della domanda stessa, utilizzando le procedure piu rapide previste nella legislazione nazionale. 
+
+Fatto salvo il primo comma l'autorita giurisdizionale, salvo nel caso in cui
+circostanze eccezionali non lo consentano, emana il provvedimento al piu tardi
+sei settimane dopo aver ricevuto la domanda.
+
+(…)
+
+6.      Se un'autorita giurisdizionale ha emanato un provvedimento contro il ritorno di un minore in base all'articolo 13 della convenzione dell'Aia del 1980, l'autorita giurisdizionale deve immediatamente trasmettere direttamente ovvero tramite la sua autorita centrale una copia del provvedimento giudiziario contro il ritorno e dei pertinenti documenti, in particolare una trascrizione delle audizioni dinanzi al giudice, all'autorita giurisdizionale competente o all'autorita centrale dello Stato membro nel quale il minore aveva la residenza abituale immediatamente prima dell'illecito trasferimento o mancato ritorno, come stabilito dalla legislazione nazionale. L'autorita giurisdizionale riceve tutti i documenti indicati entro un mese dall'emanazione del provvedimento contro il ritorno. 
+
+7.      A meno che l'autorita giurisdizionale dello Stato membro nel quale il minore aveva la residenza abituale immediatamente prima dell'illecito trasferimento o mancato ritorno non sia gia stat[a] adita da una delle parti, l'autorita giurisdizionale o l'autorita centrale che riceve le informazioni di cui al paragrafo 6 deve informarne le parti e invitarle a presentare all'autorita giurisdizionale le proprie conclusioni, conformemente alla legislazione nazionale, entro tre mesi dalla data della notifica, affinche quest'ultima esamini la questione dell'affidamento del minore. 
+
+Fatte salve le norme sulla competenza di cui al presente regolamento, in caso
+di mancato ricevimento delle conclusioni entro il termine stabilito,
+l'autorita giurisdizionale archivia il procedimento.
+
+8.      Nonostante l'emanazione di un provvedimento contro il ritorno in base all'articolo 13 della convenzione dell'Aia del 1980, una successiva decisione che prescrive il ritorno del minore emanata da un giudice competente ai sensi del presente regolamento e esecutiva conformemente alla sezione 4 del capo III, allo scopo di assicurare il ritorno del minore». 
+
+11      L'art. 60 del regolamento n. 2201/2003, rubricato «Relazione con
+talune convenzioni multilaterali», e cosi formulato:
+
+«Nei rapporti tra gli Stati che ne sono parti, il presente regolamento prevale
+sulle convenzioni seguenti, nella misura in cui queste riguardino materie da
+esso disciplinate:
+
+(…)
+
+e)      [convenzione dell'Aia del 1980]».
+
+12      L'art. 62 del suddetto regolamento, rubricato «Portata degli effetti»,
+stabilisce, al suo n. 2, quanto segue:
+
+«Le convenzioni di cui all'articolo 60, in particolare la convenzione dell'Aia
+del 1980, continuano ad avere efficacia tra gli Stati membri che ne sono parti
+contraenti, conformemente all'articolo 60».
+
+  _Il diritto nazionale_
+
+13      Risulta dalla decisione di rinvio che nell'ordinamento irlandese un
+padre naturale non e ipso iure titolare del diritto di affidamento. Neanche il
+fatto che egli abbia convissuto more uxorio con la madre del minore e che
+abbia contribuito attivamente ad allevare il figlio e di per se sufficiente
+perche gli sia riconosciuto un tale diritto.
+
+14      Tuttavia, ai termini dell'art. 6A della legge del 1964 relativa alla
+potesta sui minori (Guardianship of Infants Act 1964), quale modificata
+dall'art. 12 della legge del 1987 sulla condizione del minore (Status of
+Children Act 1987), «allorche padre e madre non sono tra loro coniugati, il
+giudice puo, su richiesta del padre, attribuire a quest'ultimo con sentenza la
+potesta sul minore».
+
+15      L'art. 11, n. 4, della legge del 1964 relativa alla potesta sui
+minori, come modificato dall'art. 13 della legge del 1987 sulla condizione del
+minore, cosi dispone:
+
+«Nel caso di un minore i cui genitori non siano tra loro coniugati, il diritto
+di chiederne, ai sensi del presente articolo, l'affidamento e il diritto di
+visita da parte del padre o della madre e esteso al padre che non abbia la
+potesta sul minore; a tal fine, ogni riferimento nel presente articolo al
+padre o al genitore di un minore si intende valere anche per costui».
+
+16      La legge del 1991 sulla sottrazione di minori e sull'esecuzione delle
+sentenze in materia di affidamento (Child Abduction and Enforcement of Custody
+Orders Act 1991), come modificata dal regolamento in materia comunitaria del
+2005 (decisioni in materia matrimoniale e in materia di responsabilita
+genitoriale) [European Communities (Judgments in Matrimonial Matters and
+Matters of Parental Responsability) Regulations 2005], stabilisce all'art. 15
+quanto segue:
+
+«Su istanza proposta ai sensi dell'art. 15 della [convenzione dell'Aia del
+1980] da chiunque, a loro giudizio, abbia un interesse al riguardo, le
+autorita giudiziarie possono dichiarare che il trasferimento di un minore in
+uno Stato o il suo mancato ritorno da esso era:
+
+a)      in caso di trasferimento in uno Stato o di mancato ritorno da esso, un
+trasferimento o un mancato ritorno illecito ai sensi dell'art. 2 del
+[regolamento];
+
+b)      in ogni altro caso, [un trasferimento o un mancato ritorno] illecito
+ai sensi dell'art. 3 della [convenzione dell'Aia del 1980]».
+
+  **Causa principale e questione pregiudiziale**
+
+  _I fatti all 'origine della controversia_
+
+17      Dal fascicolo a disposizione della Corte risulta che il ricorrente
+nella causa principale, il sig. McB., cittadino irlandese, e la convenuta
+nella medesima causa, la sig.ra E., cittadina del Regno Unito, hanno
+convissuto more uxorio per piu di dieci anni, tra Inghilterra, Australia,
+Irlanda del Nord e, dal novembre 2008, Irlanda. Hanno avuto tre figli: J.,
+nato in Inghilterra il 21 dicembre 2000, E., nata in Irlanda del Nord il 20
+novembre 2002, e J.C., nata in Irlanda del Nord il 22 luglio 2007.
+
+18      I rapporti tra i genitori degeneravano tra la fine del 2008 e l'inizio
+del 2009. In particolare, adducendo come ragione la condotta violenta del
+padre, la madre scappava piu volte, con i figli, in un centro di accoglienza
+per donne. I due genitori si riconciliavano nell'aprile 2009 e fissavano al 10
+ottobre 2009 la data delle nozze. Tuttavia, al ritorno da un viaggio di lavoro
+in Irlanda del Nord, l'11 luglio 2009, il padre constatava che la madre aveva
+nuovamente abbandonato il tetto familiare e portato con se i figli nel centro
+di accoglienza.
+
+19      Il 15 luglio 2009 i legali del padre, su sua richiesta, preparavano
+un'istanza di attribuzione dell'affidamento dei tre figli da presentare al
+giudice irlandese competente, vale a dire la District Court. Tuttavia, il 25
+luglio 2009 la madre partiva in aereo per l'Inghilterra con i tre figli
+summenzionati e con l'altro suo figlio, piu grande, nato da una precedente
+relazione. A quella data la notifica alla madre della predetta istanza non era
+stata eseguita, sicche, conformemente al diritto processuale irlandese,
+l'azione non era stata debitamente introdotta e per cio stesso la competenza
+del giudice irlandese non risultava incardinata.
+
+  _Il procedimento avviato dal padre in Inghilterra_
+
+20      Il 2 novembre 2009 il sig. McB. intentava un ricorso dinanzi alla High
+Court of Justice (England & Wales), Family Division (Regno Unito), per
+ottenere il ritorno dei figli in Irlanda ai sensi della convenzione dell'Aia
+del 1980 e del regolamento n. 2201/2003. Con ordinanza 20 novembre 2009 detto
+giudice gli richiedeva, conformemente all'art. 15 della succitata convenzione,
+di munirsi di una decisione o di un attestato delle autorita irlandesi
+comprovante che il trasferimento dei minori era illecito ai sensi dell'art. 3
+della medesima convenzione.
+
+  _Il procedimento avviato dal padre in Irlanda_
+
+21      Il 22 dicembre 2009 il sig. McB. presentava ricorso alla High Court
+(Irlanda) diretto a ottenere, da un lato, una decisione o un attestato
+comprovante che il trasferimento dei suoi tre figli, il 25 luglio 2009, era
+illecito ai sensi dell'art. 3 della convenzione dell'Aia del 1980 e,
+dall'altro, il riconoscimento di un diritto di affidamento.
+
+22      Con sentenza 28 aprile 2010 detta High Court respingeva la prima delle
+due richieste dichiarando che il padre non aveva alcun diritto di affidamento
+sui figli alla data del loro trasferimento, motivo per il quale tale
+trasferimento non era illecito ai sensi della convenzione dell'Aia del 1980 o
+del regolamento n. 2201/2003.
+
+23      Il padre impugnava tale decisione dinanzi al giudice del rinvio. Nella
+sua domanda di pronuncia pregiudiziale quest'ultimo rileva che il padre non
+aveva alcun diritto di affidamento sui figli alla data del 25 luglio 2009 ai
+sensi delle disposizioni della convenzione dell'Aia del 1980. Osserva, pero,
+che la nozione di «diritto di affidamento» e ormai definita, ai fini delle
+domande di rimpatrio di minori da uno Stato membro all'altro sulla base della
+convenzione dell'Aia del 1980, all'art. 2, punto 9, del suddetto regolamento.
+
+24      Il giudice del rinvio considera che nulla nel testo del regolamento n.
+2201/2003 o dell'art. 7 della Carta implica che, in mancanza di una decisione
+giudiziaria che gli conferisca il diritto di affidamento, un padre naturale
+debba essere ritenuto avere necessariamente tale diritto sul figlio, al fine
+di stabilire l'eventuale illiceita del trasferimento di quest'ultimo.
+Riconosce, nondimeno, che interpretare queste disposizioni di diritto
+dell'Unione compete alla Corte.
+
+25      Cio considerato, la Supreme Court ha deciso di sospendere il
+procedimento e di sollevare la seguente questione pregiudiziale:
+
+«Se il regolamento [n. 2001/2003], interpretato conformemente all'art. 7 della
+[Carta] o altrimenti, osti a una normativa di uno Stato membro in base alla
+quale un padre naturale deve prima ottenere dal giudice competente una
+decisione che gli attribuisca l'affidamento del figlio per vedersi
+riconosciuto un "diritto di affidamento" che renda il trasferimento del minore
+dal suo paese di residenza abituale illecito ai sensi dell'art. 2, punto 11,
+del suddetto regolamento».
+
+  **Sul procedimento d 'urgenza**
+
+26      Il giudice remittente chiede per il presente rinvio pregiudiziale un
+procedimento d'urgenza ai sensi dell'art. 104 ter del regolamento di procedura
+della Corte.
+
+27      A giustificazione della sua richiesta fa valere che, ai termini del
+diciassettesimo 'considerando' del regolamento n. 2201/2003, in caso di
+trasferimento illecito di un minore, si dovrebbe ottenerne immediatamente il
+ritorno.
+
+28      Al riguardo occorre rilevare che dalla decisione di rinvio emerge che
+la presente controversia concerne tre minori, rispettivamente di 3, 7 e 9
+anni, che sono separati dal padre da piu di un anno. Siccome si tratta di
+minori in tenera eta, soprattutto il piu giovane di loro, protrarre la
+situazione attuale potrebbe nuocere seriamente ai rapporti che essi
+intrattengono con il padre.
+
+29      Cio considerato, la Terza Sezione della Corte ha deciso, in data 11
+agosto 2010, su proposta del giudice relatore, sentito l'avvocato generale, di
+accogliere la richiesta del giudice remittente di trattare il rinvio
+pregiudiziale con procedimento d'urgenza.
+
+  **Sulla questione pregiudiziale**
+
+  _Sulla ricevibilit a_
+
+30      La Commissione europea s'interroga sulla ricevibilita della domanda di
+pronuncia pregiudiziale e il governo tedesco ne asserisce l'irricevibilita.
+Essi rilevano, in sostanza, che la causa principale verte non sul ritorno dei
+minori, ai sensi dell'art. 11 del regolamento n. 2201/2003, bensi
+sull'ottenimento, come conditio sine qua non dello stesso, di una decisione
+che attesti l'illiceita del trasferimento dei minori in conformita dell'art.
+15 della convenzione dell'Aia del 1980. Oggetto della causa principale
+sarebbe, quindi, la verifica della liceita del trasferimento dei minori a
+norma non dell'art. 2, punto 11, del regolamento, bensi degli artt. 1 e 3
+della convenzione. Infatti, il ricorrente nella causa principale avrebbe adito
+il competente giudice irlandese per ottenere una decisione o un attestato che
+constatasse l'illiceita del trasferimento ovvero del mancato ritorno dei
+minori ai sensi dell'art. 3 della suddetta convenzione. Il motivo di tale
+istanza sarebbe stato che la High Court of Justice (England & Wales), Family
+Division, gli aveva richiesto di produrre una tale decisione o un tale
+attestato conformemente all'art. 15 della medesima convenzione.
+
+31      Tuttavia, il regolamento n. 2201/2003, in particolare il suo art. 11,
+verterebbe non sulla procedura prevista all'art. 15 della convenzione dell'Aia
+del 1980, relativa alla constatazione dell'illiceita del trasferimento di un
+minore, ma unicamente su quella relativa al ritorno di quest'ultimo. Detto
+art. 11 diverrebbe pertinente, cosi, solo al termine della procedura di cui
+all'art. 15 della succitata convenzione e dopo l'avvio della procedura di
+ritorno dei minori, cosicche la questione pregiudiziale sollevata dal giudice
+del rinvio sarebbe prematura.
+
+32      In proposito occorre ricordare che, secondo la giurisprudenza della
+Corte, spetta esclusivamente al giudice nazionale, cui e stata sottoposta la
+controversia e che deve assumersi la responsabilita dell'emananda decisione
+giurisdizionale, valutare, alla luce delle particolari circostanze di ciascuna
+causa, sia la necessita di una pronuncia pregiudiziale per essere in grado di
+emettere la propria sentenza sia la rilevanza delle questioni che sottopone
+alla Corte (sentenza 30 novembre 2006, cause riunite C‑376/05 e C‑377/05,
+Brunsteiner e Autohaus Hilgert, Racc. pag. I‑11383, punto 26 e giurisprudenza
+ivi citata).
+
+33      Di conseguenza, se le questioni sollevate vertono sull'interpretazione
+del diritto dell'Unione, la Corte, in via di principio, e tenuta a statuire
+(v., in particolare, sentenze 13 marzo 2001, causa C‑379/98, PreussenElektra,
+Racc. pag. I‑2099, punto 38, e 1° ottobre 2009, causa C‑103/08, Gottwald,
+Racc. pag. I‑9117, punto 16).
+
+34      Ne consegue che la presunzione di pertinenza delle questioni proposte
+in via pregiudiziale dai giudici nazionali puo venir meno solo in casi
+eccezionali, in particolare qualora risulti manifestamente che la richiesta
+interpretazione delle disposizioni del diritto dell'Unione considerate in tali
+questioni non ha alcun rapporto con la realta effettiva o con l'oggetto della
+causa principale (v., in particolare, sentenze Gottwald, cit., punto 17, e 22
+aprile 2010, causa C‑82/09, Dimos Agios Nikolaos, Racc. pag. I‑3649, punto
+15).
+
+35      Nella fattispecie, il giudice del rinvio ritiene di aver bisogno di
+un'interpretazione del regolamento n. 2201/2003, segnatamente del suo art. 2,
+punto 11, per decidere sulla domanda di emettere una decisione o un attestato
+comprovante che il trasferimento o il mancato ritorno dei minori di cui
+trattasi nella causa principale fosse illecito. Risulta, del resto, dalla
+normativa nazionale in vigore, ossia dall'art. 15 della legge del 1991 sulla
+sottrazione di minori e sull'esecuzione delle sentenze in materia di
+affidamento, come modificata dal regolamento in materia comunitaria del 2005
+(decisioni in materia matrimoniale e in materia di responsabilita
+genitoriale), che, in caso di trasferimento di un minore in un altro Stato
+membro, il giudice nazionale richiesto di emettere una tale decisione o un
+tale attestato conformemente all'art. 15 della convenzione dell'Aia del 1980
+valutera la liceita del trasferimento proprio alla luce dell'art. 2 del
+regolamento n. 2201/2003.
+
+36      Occorre inoltre rilevare che, ai sensi dell'art. 60 del regolamento n.
+2201/2003, nei rapporti tra gli Stati membri, detto regolamento prevale sulla
+convenzione dell'Aia del 1980 nella misura in cui questa riguarda materie da
+esso disciplinate. Fermo restando il primato del regolamento n. 2201/2003,
+tale convenzione continua ad avere efficacia tra gli Stati membri che ne sono
+parti contraenti, nel rispetto del suddetto art. 60, in forza dell'art. 62, n.
+2, del medesimo regolamento, cosi come enuncia il suo diciassettesimo
+'considerando'. Pertanto, le sottrazioni di minori da uno Stato membro
+all'altro sono regolamentate ormai da un insieme di regole costituito dalle
+disposizioni della convenzione dell'Aia del 1980 come completate da quelle del
+regolamento n. 2201/2003, fermo restando che, nell'ambito di applicazione del
+regolamento, il primato spetta a quest'ultimo.
+
+37      Cio considerato, l'interpretazione richiesta dal giudice del rinvio
+non appare priva di pertinenza rispetto alla decisione che quest'ultimo e
+chiamato a prendere.
+
+38      Di conseguenza, la domanda di pronuncia pregiudiziale deve essere
+dichiarata ricevibile.
+
+  _Nel merito_
+
+39      Il giudice del rinvio chiede, in sostanza, se il regolamento n.
+2201/2003 debba essere interpretato nel senso che osta a che la normativa di
+uno Stato membro subordini l'acquisizione, da parte del padre naturale di un
+minore, del diritto di affidamento al previo ottenimento di una decisione del
+giudice nazionale competente che conferisca al padre tale diritto, idoneo a
+rendere illecito, ai sensi dell'art. 2, punto 11, del citato regolamento, il
+trasferimento del minore da parte della madre oppure il suo mancato ritorno.
+
+40      A tale riguardo si deve ricordare che l'art. 2, punto 9, del suddetto
+regolamento definisce il «diritto di affidamento» come «i diritti e doveri
+concernenti la cura della persona di un minore, in particolare il diritto di
+intervenire nella decisione riguardo al suo luogo di residenza».
+
+41      Nella misura in cui la nozione di «diritto di affidamento» e cosi
+definita dal regolamento n. 2201/2003, essa e autonoma rispetto alle normative
+nazionali. Infatti, dalla necessita di garantire tanto l'applicazione uniforme
+del diritto dell'Unione quanto il principio di uguaglianza discende che i
+termini di una disposizione di tale diritto, la quale non contenga alcun
+espresso richiamo al diritto degli Stati membri ai fini della determinazione
+del suo senso e della sua portata, devono di norma essere oggetto, nell'intera
+Unione, di un'interpretazione autonoma e uniforme, da effettuarsi tenendo
+conto del contesto della disposizione stessa e della finalita perseguita dalla
+normativa in questione (sentenza 17 luglio 2008, causa C‑66/08, Kozłowski,
+Racc. pag. I‑6041, punto 42 e giurisprudenza ivi citata). Cosi, ai fini
+dell'applicazione del medesimo regolamento, il diritto di affidamento
+comporta, in ogni caso, il diritto di chi ne e titolare di decidere il luogo
+di residenza del minore.
+
+42      Altro e il problema della designazione del titolare del diritto di
+affidamento. Al riguardo discende dall'art. 2, punto 11, lett. a), del detto
+regolamento che l'illiceita o meno del trasferimento di un minore dipende
+dall'esistenza di «diritti di affidamento derivanti da una decisione
+[giudiziaria], dalla legge o da un accordo vigente in base alla legislazione
+dello Stato membro nel quale il minore aveva la sua residenza abituale
+immediatamente prima del suo trasferimento o del suo mancato rientro».
+
+43      Ne consegue che il regolamento n. 2201/2003 non stabilisce chi debba
+avere il diritto di affidamento che puo rendere illecito il trasferimento di
+un minore ai sensi del suo art. 2, punto 11, bensi rinvia - per la
+designazione del titolare di tale diritto - alla normativa dello Stato membro
+in cui il minore aveva la sua residenza abituale immediatamente prima del suo
+trasferimento o del suo mancato ritorno. È dunque l'ordinamento di tale Stato
+membro che determina le condizioni alle quali il padre naturale acquisisce il
+diritto di affidamento sul figlio, ai sensi dell'art. 2, punto 9, del suddetto
+regolamento, se del caso previo ottenimento di una decisione del giudice
+nazionale competente che glielo conferisca.
+
+44      Alla luce di quanto precede occorre interpretare il regolamento n.
+2201/2003 nel senso che l'illiceita del trasferimento di un minore ai fini
+dell'applicazione di detto regolamento dipende esclusivamente dall'esistenza
+di un diritto di affidamento, conferito dal diritto nazionale applicabile, in
+violazione del quale tale trasferimento ha avuto luogo.
+
+45      Il giudice del rinvio si chiede, tuttavia, se la Carta, in particolare
+il suo art. 7, influisca su questa interpretazione del suddetto regolamento.
+
+46      Il ricorrente nella causa principale contesta che il trasferimento di
+un minore da parte della madre all'insaputa del padre naturale non sia
+illecito ai sensi della convenzione dell'Aia del 1980 e del regolamento n.
+2201/2003, quand'anche il padre abbia vissuto con il figlio e, more uxorio,
+con la di lui madre ed abbia contribuito attivamente ad allevarlo.
+
+47      A suo avviso, l'interpretazione di detto regolamento esposta al punto
+44 della presente sentenza puo condurre ad una situazione che non sarebbe
+compatibile ne con il suo diritto al rispetto della vita privata e familiare,
+sancito all'art. 7 della Carta nonche all'art. 8 della Convenzione europea per
+la salvaguardia dei diritti dell'uomo e delle liberta fondamentali (in
+prosieguo: la «CEDU»), ne con i diritti del minore, quali enunciati all'art.
+24 della medesima Carta. Ai fini del regolamento n. 2201/2003, il «diritto di
+affidamento» dovrebbe essere interpretato nel senso che compete ipso iure al
+padre naturale qualora questi conduca con i figli la stessa vita familiare di
+una famiglia fondata sul matrimonio. Diversamente, il diritto «potenziale» del
+padre, che gli permette di presentare domanda al giudice nazionale competente
+e di ottenere eventualmente un diritto di affidamento, potrebbe essere del
+tutto vanificato da atti compiuti dalla madre unilateralmente e all'insaputa
+del padre. Orbene, l'effettivita del diritto di presentare una tale domanda
+dovrebbe essere adeguatamente tutelata.
+
+48      Il giudice del rinvio fa presente che, per la legge irlandese, il
+padre naturale non ha il diritto di affidamento sul figlio, salvo che glielo
+conferisca un accordo tra genitori o una decisione giudiziaria, mentre analogo
+diritto compete d'ufficio alla madre, senza che occorra un'attribuzione
+espressa.
+
+49      Cio considerato, si deve verificare se il rispetto dei diritti
+fondamentali del padre naturale e dei suoi figli osti all'interpretazione del
+regolamento n. 2201/2003 esposta al precedente punto 44.
+
+50      Al riguardo si deve ricordare che, conformemente all'art. 6, n. 1,
+primo comma, TUE, l'Unione riconosce i diritti, le liberta e i principi
+sanciti nella Carta, «che ha lo stesso valore giuridico dei Trattati».
+
+51      Anzitutto, le disposizioni della Carta si applicano, ai termini del
+suo art. 51, n. 1, agli Stati membri esclusivamente nell'attuazione del
+diritto dell'Unione. In virtu del n. 2 della medesima disposizione, la Carta
+non estende l'ambito di applicazione del diritto dell'Unione al di la delle
+competenze dell'Unione, «ne introduce competenze nuove o compiti nuovi per
+l'Unione, ne modifica le competenze e i compiti definiti nei trattati». Cosi,
+la Corte e chiamata ad interpretare, alla luce della Carta, il diritto
+dell'Unione nei limiti delle competenze che le sono attribuite.
+
+52      Ne consegue che, nell'ambito della presente controversia, occorre
+tener conto della Carta ai meri fini dell'interpretazione del regolamento n.
+2201/2003, senza procedere ad una valutazione del diritto nazionale in quanto
+tale. Piu in particolare, si tratta di verificare se le disposizioni della
+Carta ostino all'interpretazione di detto regolamento esposta supra al punto
+44, tenuto conto segnatamente del rinvio al diritto nazionale che tale
+interpretazione implica.
+
+53      Risulta, poi, dall'art. 52, n. 3, della Carta che, laddove
+quest'ultima contenga diritti corrispondenti a quelli garantiti dalla CEDU, il
+significato e la portata degli stessi sono uguali a quelli conferiti loro
+dalla suddetta convenzione. Detta disposizione non preclude, tuttavia, che il
+diritto dell'Unione conceda una protezione piu estesa. Ai termini dell'art. 7
+della medesima Carta, «[o]gni persona ha diritto al rispetto della propria
+vita privata e familiare, del proprio domicilio e delle proprie
+comunicazioni». Il testo dell'art. 8, n. 1, della CEDU e identico a quello
+dell'art. 7 suddetto, tranne per il fatto che utilizza la locuzione «propria
+corrispondenza» al posto di «proprie comunicazioni». Cio posto, si deve
+constatare che detto art. 7 contiene diritti corrispondenti a quelli conferiti
+dall'art. 8, n. 1, della CEDU. Occorre pertanto attribuire all'art. 7 della
+Carta lo stesso significato e la stessa portata che sono conferiti all'art. 8,
+n. 1, della CEDU nell'interpretazione che ne offre la giurisprudenza della
+Corte europea dei diritti dell'uomo (v., per analogia, sentenza 14 febbraio
+2008, causa C‑450/06, Varec, Racc. pag. I‑581, punto 48).
+
+54      La Corte europea dei diritti dell'uomo ha gia esaminato una
+controversia analoga, nei fatti, a quella oggetto della causa principale - il
+figlio minore di una coppia non sposata era stato condotto in un altro Stato
+membro dalla madre, che sola aveva su di lui potesta genitoriale - ed ha
+statuito, in sostanza, che una normativa nazionale che accorda di pieno
+diritto la potesta genitoriale su un minore unicamente alla madre non e
+contraria all'art. 8 della CEDU, interpretato alla luce della convenzione
+dell'Aia del 1980, purche permetta al padre del bambino, non investito della
+potesta genitoriale, di chiedere al giudice nazionale competente la modifica
+dell'attribuzione di tale autorita (Corte eur. D.U., sentenza Guichard c.
+Francia del 2 settembre 2003, , _Recueil des arr ets et decisions_ 2003-X; v.
+anche, nel medesimo senso, sentenza Balbontin c. Regno Unito del 14 settembre
+1999, ricorso n. 39067/97).
+
+55      Ne consegue che, ai fini dell'applicazione del regolamento n.
+2201/2003, per accertare la liceita del trasferimento di un minore, il quale
+sia stato condotto in un altro Stato membro dalla madre, il padre naturale
+deve avere il diritto di rivolgersi al giudice nazionale competente, prima del
+trasferimento, per chiedere che gli venga conferito un diritto di affidamento
+del figlio, il che costituisce l'essenza medesima del diritto di un padre
+naturale ad una vita privata e familiare in un tale contesto.
+
+56      Infatti, la Corte europea dei diritti dell'uomo ha statuito anche che
+una normativa nazionale che non accorda al padre naturale alcuna possibilita
+di ottenere l'affidamento del figlio se la madre non acconsente costituisce
+una discriminazione ingiustificata ai danni del padre e viola, pertanto,
+l'art. 14 della CEDU, in combinato disposto con l'art. 8 della medesima
+convenzione (Corte eur. D.U., sentenza Zaunegger c. Germania del 3 dicembre
+2009, ricorso n. 22028/04, §§ 63 e 64).
+
+57      Per contro, il fatto che il padre naturale non sia, a differenza della
+madre, automaticamente titolare di un diritto di affidamento del minore ai
+sensi dell'art. 2 del regolamento n. 2201/2003 non pregiudica il contenuto
+essenziale del suo diritto alla vita privata e familiare, purche sia
+assicurato il diritto enunciato al punto 55 della presente sentenza.
+
+58      Non inficia tale constatazione la circostanza che un padre, il quale
+non abbia intrapreso per tempo la procedura necessaria ad ottenere un diritto
+di affidamento, si trovi nell'impossibilita, in caso di trasferimento del
+minore da parte della madre verso un altro Stato membro, di ottenere il
+ritorno del figlio nello Stato membro in cui prima risiedeva abitualmente.
+Tale trasferimento rappresenta, infatti, l'esercizio lecito, da parte della
+madre affidataria del minore, del suo diritto alla libera circolazione,
+sancito agli artt. 20, n. 2, lett. a), TFUE e 21, n. 1, TFUE, e del suo
+diritto di decidere il luogo di residenza del minore, senza che cio privi il
+padre naturale della possibilita di esercitare il suo diritto di richiedere in
+seguito il diritto di affidamento del figlio o il diritto di fargli visita.
+
+59      Cosi, il riconoscimento, a favore del padre naturale, di un diritto di
+affidamento del figlio, ai sensi dell'art. 2, punto 11, del regolamento n.
+2201/2003, sebbene l'ordinamento nazionale non accordi un tale diritto,
+sarebbe in contrasto con la necessita di assicurare la certezza del diritto
+nonche i diritti e le liberta altrui, come prevede l'art. 52, n. 1, della
+Carta, nella fattispecie quelli della madre. Una tale soluzione rischierebbe,
+inoltre, di violare l'art. 51, n. 2, della Carta.
+
+60      Occorre ricordare altresi che l'art. 7 della Carta, citato dal giudice
+del rinvio nella sua questione, deve essere letto in correlazione con
+l'obbligo di tener conto del superiore interesse del minore, sancito all'art.
+24, n. 2, della Carta medesima, e segnatamente del diritto fondamentale del
+bambino di intrattenere regolarmente relazioni personali e contatti diretti
+con entrambi i genitori, quale enunciato all'art. 24, n. 3 (v., in tal senso,
+sentenza 27 giugno 2006, causa C‑540/03, Parlamento/Consiglio, Racc. pag.
+I‑5769, punto 58). Risulta peraltro dal trentatreesimo 'considerando' del
+regolamento n. 2201/2003 che quest'ultimo riconosce i diritti fondamentali e
+osserva i principi sanciti dalla Carta e che mira, in particolare, a garantire
+il pieno rispetto dei diritti fondamentali del bambino quali riconosciuti
+all'art. 24 della medesima. Cosi, le disposizioni del detto regolamento non
+possono essere interpretate in modo tale da portare ad una violazione di
+questo diritto fondamentale, il rispetto del quale s'identifica innegabilmente
+con l'interesse superiore del bambino (v., in tal senso, sentenza 23 dicembre
+2009, causa C‑403/09 PPU, Detiček, Racc. pag. I‑12193, punti 53-55).
+
+61      Cio osservato, occorre ancora verificare se l'art. 24 della Carta, di
+cui la Corte assicura il rispetto, osti ad un'interpretazione del regolamento
+n. 2201/2003 come quella esposta al punto 44 della presente sentenza.
+
+62      Si deve tener conto, al riguardo, della grande varieta delle relazioni
+non matrimoniali e di quella delle relazioni dei genitori con i figli che ne
+risulta, varieta evocata dal giudice nazionale nella decisione di rinvio e che
+si traduce in un riconoscimento di volta in volta diverso della portata e
+della ripartizione delle responsabilita genitoriali all'interno degli Stati
+membri. L'art. 24 della Carta deve quindi essere interpretato nel senso che
+non osta a che, ai fini dell'applicazione del regolamento n. 2201/2003, il
+diritto di affidamento sia conferito, in linea di principio, esclusivamente
+alla madre e che al padre naturale possa essere riconosciuto un diritto di
+affidamento solo in forza di una decisione giudiziaria. Un tale assetto
+permette, infatti, al giudice nazionale competente di prendere una decisione
+sull'affidamento del minore e sul diritto di visita alla luce di tutti i dati
+pertinenti, quali ha menzionato il giudice del rinvio, segnatamente, le
+circostanze della nascita del minore, la natura del rapporto tra i genitori e
+del rapporto tra ciascun genitore e il bambino nonche l'attitudine di ciascun
+genitore ad assumere l'onere dell'affidamento. Prendere in considerazione tali
+dati vale a tutelare l'interesse superiore del minore, conformemente all'art.
+24, n. 2, della Carta.
+
+63      Risulta da quanto precede che gli artt. 7 e 24 della Carta non ostano
+all'interpretazione del regolamento esposta al punto 44 della presente
+sentenza.
+
+64      Cio considerato, si deve risolvere la questione deferita dichiarando
+che il regolamento n. 2201/2003 deve essere interpretato nel senso che non
+osta alla normativa di uno Stato membro che subordini l'acquisizione, da parte
+del padre naturale di un minore, del diritto di affidamento al previo
+ottenimento di una decisione del giudice nazionale competente che gli
+attribuisca tale diritto, idoneo a rendere illecito, ai sensi dell'art. 2,
+punto 11, del citato regolamento, il trasferimento del minore da parte della
+madre o il suo mancato ritorno.
+
+  **Sulle spese**
+
+65      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:
+
+**Il regolamento (CE) del Consiglio 27 novembre 2003, n.  2201, relativo alla
+competenza, al riconoscimento e all'esecuzione delle decisioni in materia
+matrimoniale e in materia di responsabilita genitoriale, che abroga il
+regolamento (CE) n. 1347/2000, deve essere interpretato nel senso che non osta
+alla normativa di uno Stato membro che subordini l'acquisizione, da parte del
+padre naturale di un minore, del diritto di affidamento al previo ottenimento
+di una decisione del giudice nazionale competente che gli attribuisca tale
+diritto, idoneo a rendere illecito, ai sensi dell'art. 2, punto 11, del citato
+regolamento, il trasferimento del minore da parte della madre o il suo mancato
+ritorno. **
+
+Firme
+
+* * *
+
+* Lingua processuale: l'inglese. 
 
