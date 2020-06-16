@@ -13,7 +13,7 @@ BOT_NAME = 'data_scraping'
 
 SPIDER_MODULES = ['data_scraping.spiders']
 NEWSPIDER_MODULE = 'data_scraping.spiders'
-
+LOG_LEVEL = 'INFO'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'data_scraping (+http://www.yourdomain.com)'

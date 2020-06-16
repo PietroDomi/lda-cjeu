@@ -18,5 +18,5 @@ class CelexSpider(scrapy.Spider):
         filename = 'data_html/%s.html' % page
         with open(filename, 'w', encoding='utf-8') as f:
             if i % 20 == 0:
-                print(f"{i} out of {len(start_urls)} documents collected")
+                print(f"\n{i} out of {len(start_urls)} documents collected")
             f.write(response.text)

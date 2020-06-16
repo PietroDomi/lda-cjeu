@@ -1265,7 +1265,3 @@ Firme
 
 ( * ) Lingua processuale: il danese.
 
-  *[""]: Double quotes
-  *[*]: Asterisk
-  *[?]: Question mark
-

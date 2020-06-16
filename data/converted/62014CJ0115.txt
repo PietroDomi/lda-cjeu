@@ -1721,7 +1721,3 @@ Firme
 
 ( * ) Lingua processuale: il tedesco.
 
-  *[""]: Double quotes
-  *[*]: Asterisk
-  *[?]: Question mark
-

@@ -1385,7 +1385,3 @@ Firme
 
 ( * ) Lingua processuale: l’italiano.
 
-  *[""]: Double quotes
-  *[*]: Asterisk
-  *[?]: Question mark
-

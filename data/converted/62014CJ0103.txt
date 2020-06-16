@@ -2338,7 +2338,3 @@ Firme
 
 ( * ) Lingua processuale: il lituano.
 
-  *[""]: Double quotes
-  *[*]: Asterisk
-  *[?]: Question mark
-
