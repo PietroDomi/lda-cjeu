@@ -17,7 +17,7 @@ def convert():
         if int(celex[1:5]) < int(converted[0][1:5]):
             with open("data/converted/"+celex[:-5]+".txt","w", encoding='utf-8') as file:
                 file.write(text_maker.handle(open("data_scraping/data_html/"+celex,encoding='utf-8').read()))
-                print("\t"+ celex + " converted, " + str(len(celexs)-i) + " remaining")
+                print("\t"+ celex + " converted, " + str(len(celexs)-len(converted)-i) + " remaining")
 
     return len(celexs)
 

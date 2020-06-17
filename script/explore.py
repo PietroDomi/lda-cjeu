@@ -9,11 +9,11 @@ def get(from_year, show=False):
 
     distr, _ = to_get_list(celexs)
     
-    tot = 0
-    print("Year","Cum. Sum\n")
-    for i in range(2015,2000,-1):
-        tot += np.sum(np.array(distr)==i)
-        print(i,tot)
+    # tot = 0
+    # print("Year","Cum. Sum\n")
+    # for i in range(2015,2000,-1):
+    #     tot += np.sum(np.array(distr)==i)
+    #     print(i,tot)
 
     print()
     if show:
@@ -33,7 +33,7 @@ def get(from_year, show=False):
 def to_get_list(celexs, from_year=2010, create_txt=False):
 
     to_get = set()
-    years = np.arange(from_year,2016)
+    years = np.arange(from_year,2021)
     distr = []
     for celex in celexs:
         distr.append(int(celex[1:5]))

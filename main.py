@@ -6,8 +6,8 @@ from gensim.models import TfidfModel, LdaModel
 
 def main():
     parser = argparse.ArgumentParser(description="LDA")
-    parser.add_argument("--year", type=int, help=f"what year you would like to analyse the data from (y, cumsum) {[()]}", default=2010)
-    parser.add_argument("--k", metavar="NUM_TOPICS", help="number of topics for LDA", default=5)
+    parser.add_argument("--year", type=int, help=f"what year you would like to analyse the data from (year, corpus size): \n(2015, 7), (2014, 113), (2013, 132), (2012, 159), (2011, 242), (2010, 612), (2009, 1090), (2008, 1291), (2007, 1431), (2006, 1720), (2005, 2162), (2004, 2561), (2003, 2983), (2002, 3349), (2001, 3795)", default=2010)
+    parser.add_argument("--k", type=int, metavar="NUM_TOPICS", help="number of topics for LDA", default=5)
     parser.add_argument("--plot", metavar="SHOW DISTR PLOT", help="displays the distribution of documents through time", default=False)
 
     args = parser.parse_args()
@@ -49,14 +49,14 @@ def main():
     NUM_DOCS = len(documents.text)
 
     print("\nChecking for preprocessed documents...")
-    if os.path.exists(f"data/from_{args.year}_preprocessed.pickle"):
-        with open(f"data/from_{args.year}_preprocessed.pickle","rb") as file:
+    if os.path.exists(f"data/.preprocessed/from_{args.year}_preprocessed.pickle"):
+        with open(f"data/.preprocessed/from_{args.year}_preprocessed.pickle","rb") as file:
             processed_docs = pickle.load(file)
         print("\nDocuments preprocessed loaded")
     else:
         print("Preprocesssing documents...")
         processed_docs = documents.text.apply(func=model.preprocess, args=(NUM_DOCS,))
-        with open(f"data/from_{args.year}_preprocessed.pickle","wb") as file:
+        with open(f"data/.preprocessed/from_{args.year}_preprocessed.pickle","wb") as file:
             pickle.dump(processed_docs, file)
         print("Documents preprocessed and saved")
 
@@ -74,9 +74,9 @@ def main():
 
     lda_model_tfidf = model.run_model(LdaModel, corpus_tfidf, NUM_TOPICS, dictionary, save_file="tfidf")
 
-    for lda_model, corpus in zip((lda_model_bow, lda_model_tfidf), (corpus_bow, corpus_tfidf)):
-        model.print_topics(lda_model)
-        model.classify(lda_model,corpus)
+    for i, (lda_model, corpus) in enumerate(zip((lda_model_bow, lda_model_tfidf), (corpus_bow, corpus_tfidf))):
+        model.print_topics(lda_model, output=f"model_{i}_k{args.k}_from{args.year}")
+        model.classify(lda_model,corpus,i)
 
     # lda_model_bow.show_topics
 

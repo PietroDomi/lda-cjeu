@@ -1,4 +1,4 @@
-import os, re
+import os, re, csv
 from nltk.stem.snowball import ItalianStemmer
 from gensim.corpora import Dictionary
 from nltk.corpus import stopwords
@@ -56,16 +56,23 @@ def run_model(model, corpus, NUM_TOPICS, dictionary, save_file):
     return lda_model
 
 
-def classify(lda_model, corpus, num=1):
-    print(f"\nClassification document {num} with model: {str(lda_model)}")
+def classify(lda_model, corpus, i, num=1):
+    print(f"\nClassification document {num} with model {i+1}")
     for index, score in sorted(lda_model[corpus[num]], key=lambda tup: -1*tup[1]):
         print("\nScore: {}\t \nTopic: {}".format(score, lda_model.print_topic(index, 10)))
 
-def print_topics(model):
+def print_topics(model, output=None):
+    if not output == None:
+        file = open("data/output/"+output+".csv","w", newline='')
+        fwriter = csv.writer(file, delimiter=",")
     for topic in model.show_topics(formatted=False):
+        row = []
         print(f"\nTopic {topic[0]}")
         for word in topic[1]:
+            row.append(word[0])
             print(f"\t{word[0]}")
+        if not output == None:
+            fwriter.writerow(row)
 
 def print_bow(corpus, dictionary, num=0):
     for i in range(len(corpus[num])):
