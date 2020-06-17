@@ -1,0 +1,425 @@
+
+
+SENTENZA DELLA CORTE (Decima Sezione)
+
+10 aprile 2014 (*)
+
+«Inadempimento di uno Stato - Direttiva 91/271/CEE - Trattamento delle acque
+reflue urbane - Articoli da 3 a 5 e 10 - Allegato I, sezioni A e B»
+
+Nella causa C‑85/13,
+
+avente ad oggetto il ricorso per inadempimento, ai sensi dell'articolo 258
+TFUE, proposto il 21 febbraio 2013,
+
+**Commissione europea,** rappresentata da E. Manhaeve e L. Cimaglia, in
+qualita di agenti, con domicilio eletto in Lussemburgo,
+
+ricorrente,
+
+contro
+
+**Repubblica italiana,** rappresentata da G. Palmieri, in qualita di agente,
+assistita da M. Russo, avvocato dello Stato, con domicilio eletto in
+Lussemburgo,
+
+convenuta,
+
+LA CORTE (Decima Sezione),
+
+composta da E. Juhasz (relatore), presidente di sezione, A. Rosas e D. Švaby,
+giudici,
+
+avvocato generale: J. Kokott
+
+cancelliere: A. Impellizzeri, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza del 23 gennaio
+2014,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        Con il suo ricorso, la Commissione europea chiede alla Corte di
+dichiarare che la Repubblica italiana, avendo omesso di prendere le
+disposizioni necessarie per garantire che:
+
+-        gli agglomerati di Bareggio, Cassano d'Adda, Melegnano, Mortara, Olona Nord, Olona Sud, Robecco sul Naviglio, San Giuliano Milanese Est, San Giuliano Milanese Ovest, Seveso Sud, Trezzano sul Naviglio, Turbigo e Vigevano (Lombardia), aventi un numero di abitanti equivalenti (in prosieguo: gli «a.e.») superiore a 10 000 e scaricanti acque reflue urbane in acque recipienti considerate «aree sensibili» ai sensi dell'articolo 5, paragrafo 1, della direttiva 91/271/CEE del Consiglio, del 21 maggio 1991, concernente il trattamento delle acque reflue urbane (GU L 135, pag. 40), come modificata dal regolamento (CE) n. 1137/2008 del Parlamento europeo e del Consiglio, del 22 ottobre 2008 (GU L 311, pag. 1; in prosieguo: la «direttiva 91/271»), siano provvisti di reti fognarie per le acque reflue urbane, conformemente all'articolo 3 di tale direttiva; 
+
+-        negli agglomerati di Pescasseroli (Abruzzi), Aviano Capoluogo, Cormons, Gradisca d'Isonzo, Grado, Pordenone/Porcia/Roveredo/Cordenons, Sacile (Friuli-Venezia Giulia), Bareggio, Broni, Calco, Cassano d'Adda, Casteggio, Melegnano, Mortara, Orzinuovi, Rozzano, San Giuliano Milanese Ovest, Seveso Sud, Somma Lombardo, Trezzano sul Naviglio, Turbigo, Valle San Martino, Vigevano, Vimercate (Lombardia), Pesaro, Urbino (Marche), Alta Val Susa (Piemonte), Nuoro (Sardegna), Castellammare del Golfo I, Cinisi, Terrasini (Sicilia), Courmayeur (Valle d'Aosta) e Thiene (Veneto), aventi un numero di a.e. superiore a 10 000, le acque reflue urbane che confluiscono in reti fognarie siano sottoposte, prima dello scarico, ad un trattamento secondario o ad un trattamento equivalente, conformemente all'articolo 4 della direttiva 91/271; 
+
+-        negli agglomerati di Pescasseroli (Abruzzi), Aviano Capoluogo, Cividale del Friuli, Codroipo/Sedegliano/Flaibano, Cormons, Gradisca d'Isonzo, Grado, Latisana Capoluogo, Pordenone/Porcia/Roveredo/Cordenons, Sacile, San Vito al Tagliamento, Udine (Friuli-Venezia Giulia), Frosinone (Lazio), Francavilla Fontana, Monteiasi, Trinitapoli (Puglia), Dorgali, Nuoro, ZIR Villacidro (Sardegna) e Castellammare del Golfo I, Cinisi, Partinico, Terrasini e Trappeto (Sicilia), aventi un numero di a.e. superiore a 10 000 e scaricanti in acque recipienti considerate «aree sensibili» ai sensi della direttiva 91/271, le acque reflue urbane che confluiscono in reti fognarie siano sottoposte, prima dello scarico, ad un trattamento piu spinto di un trattamento secondario o equivalente, conformemente all'articolo 5 di detta direttiva, e 
+
+-        la progettazione, la costruzione, la gestione e la manutenzione degli impianti di trattamento delle acque reflue urbane realizzati per ottemperare ai requisiti fissati dagli articoli da 4 a 7 della direttiva 91/271 siano condotte in modo da garantire prestazioni sufficienti nelle normali condizioni climatiche locali e che la progettazione degli impianti tenga conto delle variazioni stagionali di carico negli agglomerati di Pescasseroli (Abruzzi), Aviano Capoluogo, Cividale del Friuli, Codroipo/Sedegliano/Flaibano, Cormons, Gradisca d'Isonzo, Grado, Latisana Capoluogo, Pordenone/Porcia/Roveredo/Cordenons, Sacile, San Vito al Tagliamento, Udine (Friuli-Venezia Giulia), Frosinone (Lazio), Bareggio, Broni, Calco, Cassano d'Adda, Casteggio, Melegnano, Mortara, Orzinuovi, Rozzano, San Giuliano Milanese Ovest, Seveso Sud, Somma Lombardo, Trezzano sul Naviglio, Turbigo, Valle San Martino, Vigevano, Vimercate (Lombardia), Pesaro, Urbino (Marche), Alta Val Susa (Piemonte), Francavilla Fontana, Monteiasi, Trinitapoli (Puglia), Dorgali, Nuoro, ZIR Villacidro (Sardegna), Castellammare del Golfo I, Cinisi, Partinico, Terrasini, Trappeto (Sicilia), Courmayeur (Valle d'Aosta) e Thiene (Veneto), 
+
+e venuta meno agli obblighi ad essa incombenti in forza dell'articolo 3 e/o
+dell'articolo 4 e/o dell'articolo 5 nonche dell'articolo 10 della direttiva
+91/271.
+
+  **Contesto normativo**
+
+2        L'articolo 1 della direttiva 91/271 prevede quanto segue:
+
+«La presente direttiva concerne la raccolta, il trattamento e lo scarico delle
+acque reflue urbane, nonche il trattamento e lo scarico delle acque reflue
+originate da taluni settori industriali.
+
+Essa ha lo scopo di proteggere l'ambiente dalle ripercussioni negative
+provocate dai summenzionati scarichi di acque reflue».
+
+3        L'articolo 2 di tale direttiva contiene in particolare le seguenti
+definizioni:
+
+«1)      "Acque reflue urbane": acque reflue domestiche o il miscuglio di
+acque reflue domestiche, acque reflue industriali e/o acque meteoriche di
+dilavamento.
+
+(...)
+
+4)      "Agglomerato": area in cui la popolazione e/o le attivita economiche
+sono sufficientemente concentrate cosi da rendere possibile la raccolta e il
+convogliamento delle acque reflue urbane verso un impianto di trattamento di
+acque reflue urbane o verso un punto di scarico finale.
+
+5)      "Rete fognaria": un sistema di condotte per la raccolta e il
+convogliamento delle acque reflue urbane.
+
+6)      "1 a.e. (abitante equivalente)": il carico organico biodegradabile,
+avente una richiesta biochimica di ossigeno a 5 giorni (BOD5) di 60 g di
+ossigeno al giorno.
+
+(...)
+
+8)      "Trattamento secondario": trattamento delle acque reflue urbane
+mediante un processo che in genere comporta il trattamento biologico con
+sedimentazioni secondarie, o un altro processo in cui vengano rispettati i
+requisiti stabiliti nella tabella 1 dell'allegato I.
+
+9)      "Trattamento appropriato": il trattamento delle acque reflue urbane
+mediante un processo e/o un sistema di smaltimento che dopo lo scarico
+garantisca la conformita delle acque recipienti ai relativi obiettivi di
+qualita e alle relative disposizioni della presente direttiva e di altre
+direttive comunitarie pertinenti.
+
+(...)».
+
+4        L'articolo 3 della direttiva di cui trattasi cosi dispone:
+
+«1\. Gli Stati membri provvedono affinche tutti gli agglomerati siano
+provvisti di reti fognarie per le acque reflue urbane,
+
+-        entro il 31 dicembre 2000 per quelli con un numero di abitanti equivalenti (a.e.) superiore a 15 000 e
+
+-        entro il 31 dicembre 2005 per quelli con numero di a.e. compreso tra 2 000 e 15 000.
+
+Per le acque reflue urbane che si immettono in acque recipienti considerate
+"aree sensibili" ai sensi della definizione di cui all'articolo 5, gli Stati
+membri garantiscono che gli agglomerati con oltre 10 000 a.e. siano provvisti
+di reti fognarie al piu tardi entro il 31 dicembre 1998.
+
+Laddove la realizzazione di una rete fognaria non sia giustificata o perche
+non presenterebbe vantaggi dal punto di vista ambientale o perche
+comporterebbe costi eccessivi, occorrera avvalersi di sistemi individuali o di
+altri sistemi adeguati che raggiungano lo stesso livello di protezione
+ambientale.
+
+2\. Le reti fognarie di cui al paragrafo 1 devono soddisfare i requisiti
+pertinenti dell'allegato I, sezione A. (...)».
+
+5        L'articolo 4 della medesima direttiva e del seguente tenore:
+
+«1\. Gli Stati membri provvedono affinche le acque reflue urbane che
+confluiscono in reti fognarie siano sottoposte, prima dello scarico, ad un
+trattamento secondario o ad un trattamento equivalente, secondo le seguenti
+modalita:
+
+-        al piu tardi entro il 31 dicembre 2000 per tutti gli scarichi provenienti da agglomerati con oltre 15 000 a.e.;
+
+-        entro il 31 dicembre 2005 per tutti gli scarichi provenienti da agglomerati con un numero di a.e. compreso tra 10 000 e 15 000;
+
+(...)
+
+3\. Gli scarichi provenienti dagli impianti di trattamento delle acque reflue
+urbane descritti ai paragrafi 1 e 2 devono soddisfare i requisiti pertinenti
+previsti all'allegato I, sezione B. (...)
+
+(...)».
+
+6        L'articolo 5, paragrafi da 1 a 5, della direttiva 91/271 cosi
+dispone:
+
+«1\. Per conseguire gli scopi di cui al paragrafo 2, gli Stati membri
+individuano, entro il 31 dicembre 1993, le aree sensibili secondo i criteri
+stabiliti nell'allegato II.
+
+2\. Gli Stati membri provvedono affinche le acque reflue urbane che
+confluiscono in reti fognarie siano sottoposte, prima dello scarico in aree
+sensibili, ad un trattamento piu spinto di quello descritto all'articolo 4 al
+piu tardi entro il 31 dicembre 1998 per tutti gli scarichi provenienti da
+agglomerati con oltre 10 000 a.e.
+
+3\. Gli scarichi provenienti dagli impianti di trattamento delle acque reflue
+urbane descritti al paragrafo 2 devono soddisfare i pertinenti requisiti
+previsti dall'allegato I, sezione B. (...)
+
+4\. In alternativa, i requisiti stabiliti ai paragrafi 2 e 3 per i singoli
+impianti non necessitano di applicazione nelle aree sensibili in cui puo
+essere dimostrato che la percentuale minima di riduzione del carico
+complessivo in ingresso a tutti gli impianti di trattamento delle acque reflue
+urbane in quella determinata area e pari almeno al 75% per il fosforo totale e
+almeno al 75% per l'azoto totale.
+
+5\. Gli scarichi provenienti dagli impianti di trattamento delle acque reflue
+urbane situati all'interno dei bacini drenanti in aree sensibili e che
+contribuiscono all'inquinamento di tali aree, sono soggetti ai paragrafi 2, 3
+e 4».
+
+7        Ai sensi dell'articolo 10 di detta direttiva, «[g]li Stati membri
+provvedono affinche la progettazione, la costruzione, la gestione e la
+manutenzione degli impianti di trattamento delle acque reflue urbane
+realizzati per ottemperare ai requisiti fissati agli articoli da 4 a 7 siano
+condotte in modo da garantire prestazioni sufficienti nelle normali condizioni
+climatiche locali. La progettazione degli impianti deve tener conto delle
+variazioni stagionali di carico».
+
+8        L'articolo 15, paragrafo 4, della medesima direttiva dispone che
+«[l]e informazioni raccolte dalle autorita competenti o dagli organismi
+abilitati conformemente alle disposizioni dei paragrafi 1, 2 e 3, sono
+conservate dallo Stato membro e comunicate alla Commissione entro sei mesi
+dalla data di ricevimento di un'apposita richiesta».
+
+9        L'allegato I della direttiva 91/271, intitolato «Requisiti relativi
+alle acque reflue urbane», fissa, nella sezione A, i requisiti essenziali che
+occorre rispettare per quanto riguarda le reti fognarie e l'allegato I,
+sezione B, a detta direttiva quelli da soddisfare per quanto concerne gli
+scarichi provenienti dagli impianti di trattamento delle acque reflue urbane,
+immessi in acque recipienti. In particolare, l'allegato I, sezione B, punto 1,
+della citata direttiva dispone che la progettazione o la modifica degli
+impianti di trattamento delle acque reflue va effettuata in modo da poter
+prelevare campioni rappresentativi sia delle acque reflue in arrivo sia dei
+liquami trattati, prima del loro scarico nelle acque recipienti. Per quanto
+riguarda gli impianti di trattamento le cui dimensioni corrispondono a un
+numero di a.e. compreso tra 10 000 e 49 999, l'allegato I, sezione D, punto 3,
+della medesima direttiva fissa in 12 il numero minimo di campioni da
+raccogliere a intervalli regolari nel corso di un anno intero, mentre questo
+numero sale a 24 per anno per gli impianti di trattamento di dimensioni
+superiori. A norma dell'allegato I, sezione B, punto 2, della direttiva
+91/271, gli scarichi provenienti dagli impianti di trattamento delle acque
+reflue urbane, sottoposti a trattamento ai sensi degli articoli 4 e 5 della
+medesima, devono soddisfare ai requisiti figuranti nella tabella 1, la quale
+contiene i valori massimi di concentrazione e le percentuali minime di
+riduzione in funzione di determinati parametri. Tra questi parametri sono
+compresi, segnatamente, la richiesta biochimica di ossigeno (BOD5 a 20 °C)
+senza nitrificazione e la richiesta chimica di ossigeno (COD). L'allegato I,
+sezione B, punto 3, di questa direttiva prevede che gli scarichi degli
+impianti di trattamento delle acque reflue urbane in talune aree sensibili
+soggette ad eutrofizzazione, quali individuate nell'allegato II, sezione A,
+lettera a), devono inoltre soddisfare i requisiti figuranti nella tabella 2,
+dove sono indicati i valori massimi di concentrazione e le percentuali minime
+di riduzione per quanto concerne il fosforo e l'azoto.
+
+  **Fase precontenziosa**
+
+10      Conformemente all'articolo 15, paragrafo 4, della direttiva 91/271, la
+Commissione ha invitato il governo italiano, con lettera del 29 maggio 2007, a
+fornire, entro sei mesi, informazioni dettagliate riguardo all'attuazione di
+detta direttiva in Italia.
+
+11      La Commissione sostiene di aver ricevuto la risposta del governo
+italiano con notevole ritardo rispetto al termine da essa indicato e che tale
+risposta non riguardava l'intero territorio nazionale, bensi solo una parte
+del medesimo e riportava dati basati sul sistema informativo geografico (SIG)
+risultati alquanto imprecisi. La Commissione ha giudicato, nel complesso,
+insufficienti le informazioni ad essa pervenute al fine di consentirle di
+condurre un'accurata analisi circa il rispetto delle disposizioni della
+direttiva negli agglomerati italiani con un numero di a.e. superiore a 10 000,
+che scaricano le loro acque reflue urbane in aree sensibili o nei relativi
+bacini drenanti.
+
+12      In esito all'esame di queste informazioni e di quelle raccolte dai
+suoi stessi servizi, la Commissione e giunta cosi alla conclusione che la
+Repubblica italiana era venuta meno agli obblighi previsti dagli articoli da 3
+a 5 e 10 della direttiva 91/271 in un numero assai elevato di agglomerati con
+un numero di a.e. superiore a 10 000, che scaricano le loro acque reflue
+urbane in aree sensibili o nei relativi bacini drenanti, e che essa inoltre
+seguitava a violare sistematicamente tali disposizioni.
+
+13      Di conseguenza, il 26 giugno 2009 la Commissione ha inviato al governo
+italiano una lettera di diffida, invitandolo a presentare le sue osservazioni
+entro due mesi dalla ricezione della suddetta lettera.
+
+14      Unitamente alla lettera di diffida, la Commissione ha trasmesso alle
+autorita italiane un elenco di 525 agglomerati con un numero di a.e. superiore
+a 10 000, che scaricano le loro acque reflue urbane in aree sensibili o nei
+relativi bacini drenanti, in relazione ai quali detta istituzione riteneva che
+la direttiva 91/271 fosse applicata scorrettamente, sotto diversi profili, a
+parecchi anni di distanza dalla scadenza del termine stabilito per
+l'attuazione delle specifiche disposizioni cui sono soggetti siffatti
+agglomerati, ovvero il 31 dicembre 1998.
+
+15      A questo proposito la Commissione sottolineava, in particolare, che i
+525 agglomerati da essa menzionati fossero solo una parte degli agglomerati
+italiani che scaricano le loro acque reflue urbane in aree sensibili, dato che
+le informazioni fornite dalle autorita italiane non erano complete.
+
+16      Il governo italiano ha risposto a detta lettera di diffida con una
+dettagliata nota di analisi, datata 27 ottobre 2009, predisposta dal Ministero
+dell'Ambiente e della Tutela del territorio e del mare, e con un CD-ROM che
+faceva seguito immediatamente alla stessa, inoltrato in data 29 ottobre 2009.
+
+17      Nella sua risposta, il ministero competente ha ammesso che i dati
+presentati fossero incompleti e che sussistessero effettivamente varie
+situazioni di non conformita in relazione alle quali il governo italiano aveva
+soltanto intrapreso le iniziative necessarie, o addirittura aveva
+semplicemente programmato le misure da adottare per porre rimedio a tali
+situazioni.
+
+18      In esito all'esame delle informazioni fornite dal governo italiano
+nella sua risposta, la Commissione ha ritenuto che numerosi agglomerati con un
+numero di a.e. superiore a 10 000, che scaricano le loro acque reflue urbane
+in aree sensibili o nei relativi bacini drenanti, non fossero conformi agli
+obblighi previsti dagli articoli da 3 a 5 e 10 della direttiva 91/271.
+
+19      Di conseguenza, la Commissione ha trasmesso al governo italiano, con
+lettera del 20 marzo 2011, un parere motivato emesso ai sensi dell'articolo
+258, primo comma, TFUE e ha invitato la Repubblica italiana ad adottare i
+provvedimenti necessari per conformarsi a tale parere motivato nel termine di
+due mesi dalla sua ricezione.
+
+20      Il parere motivato era corredato di un elenco di 159 agglomerati
+aventi un numero di a.e. superiore a 10 000, che scaricano le loro acque
+reflue urbane in aree sensibili o nei loro bacini drenanti, i quali, alla luce
+dei dati disponibili, non apparivano conformi alle pertinenti disposizioni
+della direttiva 91/271.
+
+21      Il governo italiano ha risposto agli addebiti formulati nel parere
+motivato con una nota datata 27 luglio 2011, proveniente dalla Presidenza del
+Consiglio dei Ministri, alla quale era allegata una nuova nota d'analisi
+dettagliata del Ministero dell'Ambiente e della Tutela del territorio e del
+mare.
+
+22      Nei documenti forniti in risposta al parere motivato, la Repubblica
+italiana operava ulteriori ridefinizioni degli agglomerati da esaminare, che
+riducevano a 153 il numero totale degli stessi, e descriveva i progressi
+ottenuti nei diversi agglomerati in materia di reti fognarie, trattamento
+secondario e trattamento terziario.
+
+23      In seguito all'analisi svolta dalla Commissione sulla base delle
+informazioni ottenute in risposta al parere motivato, detta istituzione ha
+concluso che, nell'insieme degli agglomerati italiani menzionati nel parere
+motivato come aventi un numero di a.e. superiore a 10 000, che scaricano le
+loro acque reflue urbane in aree sensibili, essa disponeva gia, per 50 fra di
+essi, di prove sufficienti di non conformita alle pertinenti disposizioni
+della direttiva 91/271 alla data di scadenza del termine impartito per la
+risposta.
+
+24      Di conseguenza, la Commissione ha deciso di proporre il presente
+ricorso ai sensi dell'articolo 258 TFUE.
+
+  **Sul ricorso**
+
+25      Con il presente ricorso, la Commissione chiede alla Corte di
+dichiarare che la Repubblica italiana, non avendo garantito la raccolta e il
+trattamento delle acque reflue urbane scaricate in aree sensibili di diversi
+agglomerati con un numero di a.e. superiore a 10 000, e venuta meno agli
+obblighi ad essa incombenti in forza dell'articolo 3 e/o dell'articolo 4 e/o
+dell'articolo 5 nonche dell'articolo 10 della direttiva 91/271.
+
+26      Nel suo ricorso, la Commissione sostiene che la Repubblica italiana
+non ha rispettato gli obblighi ad essa incombenti per quanto riguarda 50
+agglomerati. Tuttavia, in sede di replica, quest'istituzione ha rinunciato
+alla censura relativa alla violazione degli articoli da 3 a 5 e 10 della
+direttiva 91/271 per quanto concerne gli agglomerati di San Vito al
+Tagliamento (Friuli-Venezia Giulia), Bareggio, Cassano d'Adda, San Giuliano
+Milanese Ovest, Seveso Sud, Somma Lombardo, Turbigo, Vimercate (Lombardia) e
+Monteiasi (Puglia).
+
+27      Inoltre, la Commissione ritiene che non occorra piu perseguire la
+Repubblica italiana per violazione dell'articolo 4 della direttiva 91/271 per
+gli agglomerati di Aviano Capoluogo, Pordenone/Porcia/Roveredo/Cordenons e
+Sacile (Friuli-Venezia Giulia).
+
+28      Viceversa, la Commissione conferma le sue censure per quanto concerne
+gli altri 41 agglomerati indicati nel suo ricorso.
+
+29      Occorre rilevare che la Repubblica italiana, il giorno dell'udienza,
+non nega piu l'inadempimento che le e addebitato per 36 agglomerati sui 41
+ancora oggetto del contendere. Viceversa, questo Stato membro ritiene che gli
+agglomerati di Codroipo/Sedegliano/Flaibano, Latisana Capoluogo, Sacile
+(Friuli-Venezia Giulia), Dorgali (Sardegna) e Partinico (Sicilia) dispongano
+di reti fognarie e di impianti di trattamento delle acque reflue conformi alle
+disposizioni della direttiva 91/271.
+
+30      A sostegno della sua difesa, la Repubblica italiana fa riferimento ad
+alcune analisi di controllo condotte sugli scarichi degli impianti di
+trattamento di detti agglomerati. Occorre pero rilevare, come riconosciuto
+dalla Repubblica italiana in udienza, che queste analisi sono successive alla
+scadenza del termine previsto nel parere motivato del 20 marzo 2011.
+
+31      Occorre a tal riguardo ricordare che, secondo costante giurisprudenza
+della Corte, l'esistenza di un inadempimento dev'essere valutata in relazione
+alla situazione dello Stato membro quale si presentava alla scadenza del
+termine stabilito nel parere motivato e che i mutamenti avvenuti in seguito
+non possono essere presi in considerazione dalla Corte (sentenza
+Commissione/Francia, C‑23/13, EU:C:2013:723, punto 21 e giurisprudenza ivi
+citata). Ebbene, e pacifico che, alla data di scadenza del termine fissato nel
+parere motivato, la Repubblica italiana non aveva adottato le misure
+necessarie al fine di osservare gli obblighi ad essa incombenti in forza delle
+disposizioni della direttiva 91/271.
+
+32      Cio posto, il ricorso della Commissione va considerato fondato.
+
+33      Di conseguenza, occorre dichiarare che la Repubblica italiana, avendo
+omesso di prendere le disposizioni necessarie per garantire che:
+
+-        gli agglomerati di Melegnano, Mortara, Olona Nord, Olona Sud, Robecco sul Naviglio, San Giuliano Milanese Est, Trezzano sul Naviglio e Vigevano (Lombardia), aventi un numero di a.e. superiore a 10 000 e scaricanti acque reflue urbane in acque recipienti considerate «aree sensibili» ai sensi dell'articolo 5, paragrafo 1, della direttiva 91/271, siano provvisti di reti fognarie per le acque reflue urbane, conformemente all'articolo 3 di tale direttiva; 
+
+-        negli agglomerati di Pescasseroli (Abruzzi), Cormons, Gradisca d'Isonzo, Grado (Friuli-Venezia Giulia), Broni, Calco, Casteggio, Melegnano, Mortara, Orzinuovi, Rozzano, Trezzano sul Naviglio, Valle San Martino, Vigevano (Lombardia), Pesaro, Urbino (Marche), Alta Val Susa (Piemonte), Nuoro (Sardegna), Castellammare del Golfo I, Cinisi, Terrasini (Sicilia), Courmayeur (Valle d'Aosta) e Thiene (Veneto), aventi un numero di a.e. superiore a 10 000, le acque reflue urbane che confluiscono in reti fognarie siano sottoposte, prima dello scarico, ad un trattamento secondario o ad un trattamento equivalente, conformemente all'articolo 4 della direttiva 91/271; 
+
+-        negli agglomerati di Pescasseroli (Abruzzi), Aviano Capoluogo, Cividale del Friuli, Codroipo/Sedegliano/Flaibano, Cormons, Gradisca d'Isonzo, Grado, Latisana Capoluogo, Pordenone/Porcia/Roveredo/Cordenons, Sacile, Udine (Friuli-Venezia Giulia), Frosinone (Lazio), Francavilla Fontana, Trinitapoli (Puglia), Dorgali, Nuoro, ZIR Villacidro (Sardegna) e Castellammare del Golfo I, Cinisi, Partinico, Terrasini e Trappeto (Sicilia), aventi un numero di a.e. superiore a 10 000 e scaricanti in acque recipienti considerate «aree sensibili» ai sensi della direttiva 91/271, le acque reflue urbane che confluiscono in reti fognarie siano sottoposte, prima dello scarico, ad un trattamento piu spinto di un trattamento secondario o equivalente, conformemente all'articolo 5 di detta direttiva, e 
+
+-        la progettazione, la costruzione, la gestione e la manutenzione degli impianti di trattamento delle acque reflue urbane realizzati per ottemperare ai requisiti fissati dagli articoli da 4 a 7 della direttiva 91/271 siano condotte in modo da garantire prestazioni sufficienti nelle normali condizioni climatiche locali e che la progettazione degli impianti tenga conto delle variazioni stagionali di carico negli agglomerati di Pescasseroli (Abruzzi), Aviano Capoluogo, Cividale del Friuli, Codroipo/Sedegliano/Flaibano, Cormons, Gradisca d'Isonzo, Grado, Latisana Capoluogo, Pordenone/Porcia/Roveredo/Cordenons, Sacile, Udine (Friuli-Venezia Giulia), Frosinone (Lazio), Broni, Calco, Casteggio, Melegnano, Mortara, Orzinuovi, Rozzano, Trezzano sul Naviglio, Valle San Martino, Vigevano (Lombardia), Pesaro, Urbino (Marche), Alta Val Susa (Piemonte), Francavilla Fontana, Trinitapoli (Puglia), Dorgali, Nuoro, ZIR Villacidro (Sardegna), Castellammare del Golfo I, Cinisi, Partinico, Terrasini, Trappeto (Sicilia), Courmayeur (Valle d'Aosta) e Thiene (Veneto), 
+
+e venuta meno agli obblighi ad essa incombenti in forza dell'articolo 3 e/o
+dell'articolo 4 e/o dell'articolo 5 nonche dell'articolo 10 della direttiva
+91/271.
+
+  **Sulle spese**
+
+34      A norma dell'articolo 138, paragrafo 1, del regolamento di procedura
+della Corte, la parte soccombente e condannata alle spese se ne e stata fatta
+domanda. Poiche la Commissione ne ha fatto domanda, la Repubblica italiana,
+rimasta soccombente, dev'essere condannata alle spese.
+
+Per questi motivi, la Corte (Decima Sezione) dichiara e statuisce:
+
+1)       **La Repubblica italiana, avendo omesso di prendere le disposizioni
+necessarie per garantire che:**
+
+-         **gli agglomerati di Melegnano, Mortara, Olona Nord, Olona Sud, Robecco sul Naviglio, San Giuliano Milanese Est, Trezzano sul Naviglio e Vigevano (Lombardia), aventi un numero di abitanti equivalenti superiore a 10  000 e scaricanti acque reflue urbane in acque recipienti considerate «aree sensibili» ai sensi dell'articolo 5, paragrafo 1, della direttiva 91/271/CEE del Consiglio, del 21 maggio 1991, concernente il trattamento delle acque reflue urbane, come modificata dal regolamento (CE) n. 1137/2008 del Parlamento europeo e del Consiglio, del 22 ottobre 2008, siano provvisti di reti fognarie per le acque reflue urbane, conformemente all'articolo 3 di tale direttiva;**
+
+-         **negli agglomerati di Pescasseroli (Abruzzi), Cormons, Gradisca d 'Isonzo, Grado (Friuli-Venezia Giulia), Broni, Calco, Casteggio, Melegnano, Mortara, Orzinuovi, Rozzano, Trezzano sul Naviglio, Valle San Martino, Vigevano (Lombardia), Pesaro, Urbino (Marche), Alta Val Susa (Piemonte), Nuoro (Sardegna), Castellammare del Golfo I, Cinisi, Terrasini (Sicilia), Courmayeur (Valle d'Aosta) e Thiene (Veneto), aventi un numero di abitanti equivalenti superiore a 10 000, le acque reflue urbane che confluiscono in reti fognarie siano sottoposte, prima dello scarico, ad un trattamento secondario o ad un trattamento equivalente, conformemente all'articolo 4 della direttiva 91/271, come modificata dal regolamento n. 1137/2008;**
+
+-         **negli agglomerati di Pescasseroli (Abruzzi), Aviano Capoluogo, Cividale del Friuli, Codroipo/Sedegliano/Flaibano, Cormons, Gradisca d 'Isonzo, Grado, Latisana Capoluogo, Pordenone/Porcia/Roveredo/Cordenons, Sacile, Udine (Friuli-Venezia Giulia), Frosinone (Lazio), Francavilla Fontana, Trinitapoli (Puglia), Dorgali, Nuoro, ZIR Villacidro (Sardegna) e Castellammare del Golfo I, Cinisi, Partinico, Terrasini e Trappeto (Sicilia), aventi un numero di abitanti equivalenti superiore a 10 000 e scaricanti in acque recipienti considerate «aree sensibili» ai sensi della direttiva 91/271, come modificata dal regolamento n. 1137/2008, le acque reflue urbane che confluiscono in reti fognarie siano sottoposte, prima dello scarico, ad un trattamento piu spinto di un trattamento secondario o equivalente, conformemente all'articolo 5 di detta direttiva, e**
+
+-         **la progettazione, la costruzione, la gestione e la manutenzione degli impianti di trattamento delle acque reflue urbane realizzati per ottemperare ai requisiti fissati dagli articoli da 4 a 7 della direttiva 91/271, come modificata dal regolamento n.  1137/2008, siano condotte in modo da garantire prestazioni sufficienti nelle normali condizioni climatiche locali e che la progettazione degli impianti tenga conto delle variazioni stagionali di carico negli agglomerati di Pescasseroli (Abruzzi), Aviano Capoluogo, Cividale del Friuli, Codroipo/Sedegliano/Flaibano, Cormons, Gradisca d'Isonzo, Grado, Latisana Capoluogo, Pordenone/Porcia/Roveredo/Cordenons, Sacile, Udine (Friuli-Venezia Giulia), Frosinone (Lazio), Broni, Calco, Casteggio, Melegnano, Mortara, Orzinuovi, Rozzano, Trezzano sul Naviglio, Valle San Martino, Vigevano (Lombardia), Pesaro, Urbino (Marche), Alta Val Susa (Piemonte), Francavilla Fontana, Trinitapoli (Puglia), Dorgali, Nuoro, ZIR Villacidro (Sardegna), Castellammare del Golfo I, Cinisi, Partinico, Terrasini, Trappeto (Sicilia), Courmayeur (Valle d'Aosta) e Thiene (Veneto),**
+
+**e venuta meno agli obblighi ad essa incombenti in forza dell'articolo 3 e/o
+dell'articolo 4 e/o dell'articolo 5 nonche dell'articolo 10 della direttiva
+91/271, come modificata dal regolamento n. 1137/2008.**
+
+2)       **La Repubblica italiana e condannata alle spese.**
+
+Firme
+
+* * *
+
+* Lingua processuale: l'italiano. 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

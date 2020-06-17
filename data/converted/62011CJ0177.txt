@@ -1,0 +1,702 @@
+
+
+SENTENZA DELLA CORTE (Ottava Sezione)
+
+21 giugno 2012 ( *1 )
+
+«Direttiva 2001/42/CE — Valutazione degli effetti di determinati piani e
+programmi sull’ambiente — Articolo 3, paragrafo 2, lettera b) — Margine di
+discrezionalità degli Stati membri»
+
+Nella causa C-177/11,
+
+avente ad oggetto una domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Symvoulio tis Epikrateias (Grecia) con
+decisione del 5 novembre 2010, pervenuta in cancelleria il 15 aprile 2011, nel
+procedimento
+
+Syllogos Ellinon Poleodomon kai Chorotakton
+
+contro
+
+Ypourgos Perivallontos, Chorotaxias & Dimosion Ergon,
+
+Ypourgos Oikonomias kai Oikonomikon,
+
+Ypourgos Esoterikon, Dimosias Dioikisis kai Apokentrosis,
+
+LA CORTE (Ottava Sezione),
+
+composta dalla sig.ra A. Prechal, presidente di sezione, dai sigg. K.
+Schiemann (relatore) e E. Jarašiūnas, giudici,
+
+avvocato generale: sig.ra J. Kokott
+
+cancelliere: sig.ra L. Hewlett, amministratore principale,
+
+vista la fase scritta del procedimento e in seguito all’udienza del 29 marzo
+2012,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il Syllogos Ellinon Poleodomon kai Chorotakton, da G.P. Giannakourou;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Ypourgos Perivallontos, Chorotaxias & Dimosion Ergon nonché per
+l’Ypourgos Oikonomias kai Oikonomikon e l’Ypourgos Esoterikon, Dimosias
+Dioikisis kai Apokentrosis, da F. Iatrelis, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo greco, da K. Paraskevopoulou e C. Divani nonché da G.
+Karipsiadis e I. Bakopoulos, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo belga, da T. Materne, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da P. Oliver nonché da M. Patakia e S. Petrova, in
+qualità di agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+3, paragrafo 2, lettera b), della direttiva 2001/42/CE del Parlamento europeo
+e del Consiglio, del 27 giugno 2001, concernente la valutazione degli effetti
+di determinati piani e programmi sull’ambiente (GU L 197, pag. 30; in
+prosieguo: la «direttiva “VAS”», VAS valutazione ambientale strategica).  
+  
+---|---  
+  
+2
+
+|
+
+Detta domanda è stata sollevata nell’ambito di un ricorso proposto dinanzi al
+Symvoulio tis Epikrateias (Consiglio di Stato) dal Syllogos Ellinon Poleodomon
+kai Chorotakton, (associazione degli urbanisti e pianificatori territoriali
+greci) con sede in Atene, volto ad ottenere l’annullamento del decreto
+ministeriale 107017, che traspone nell’ordinamento greco la direttiva «VAS»
+(YPEXODE/EYPE/oik. 107017/28-8-2006), del 28 agosto 2006 (in prosieguo: il
+«decreto ministeriale del 28 agosto 2006»), adottato congiuntamente
+dall’Ypourgos Perivallontos, Chorotaxias & Dimosion Ergon (Ministro
+dell’Ambiente, dell’Assetto territoriale e dei Lavori Pubblici), dall’Ypourgos
+Oikonomias kai Oikonomikon (Ministro dell’Economia e delle Finanze) e
+dall’Ypourgos Esoterikon, Dimosias Dioikisis kai Apokentrosis (Ministro degli
+Interni, della Pubblica Amministrazione e del Decentramento).  
+  
+---|---  
+  
+Contesto normativo
+
+La normativa dell’Unione
+
+3
+
+|
+
+Le direttive pertinenti nella fattispecie sono le seguenti:
+
+|
+
+—
+
+|
+
+la direttiva «VAS»;  
+  
+---|---  
+  
+—
+
+|
+
+la direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla
+conservazione degli habitat naturali e seminaturali e della flora e della
+fauna selvatiche (GU L 206, pag. 7), come modificata dalla direttiva
+2006/105/CE del Consiglio, del 20 novembre 2006 (GU L 363, pag. 368; in
+prosieguo: la «direttiva “habitat”»), e  
+  
+---|---  
+  
+—
+
+|
+
+la direttiva 79/409/CEE del Consiglio, del 2 aprile 1979, concernente la
+conservazione degli uccelli selvatici (GU L 103, pag. 1), come modificata
+dalla direttiva 2009/147/CE del Parlamento europeo e del Consiglio, del 30
+novembre 2009 (GU 2010, L 20, pag. 7; in prosieguo: la «direttiva “uccelli”»).  
+  
+---|---  
+  
+La direttiva «VAS»
+
+4
+
+|
+
+A termini del considerando 10 della direttiva «VAS», tutti i piani e i
+programmi per i quali è stata prescritta una valutazione ai sensi della
+direttiva «habitat» possono avere effetti significativi sull’ambiente e
+dovrebbero di norma essere oggetto di una valutazione ambientale sistematica.  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 3 della direttiva «VAS», rubricato «Ambito d’applicazione»,
+dispone:
+
+«1. I piani e i programmi di cui ai paragrafi 2, 3 e 4, che possono avere
+effetti significativi sull’ambiente, sono soggetti ad una valutazione
+ambientale ai sensi degli articoli da 4 a 9.
+
+2\. Fatto salvo il paragrafo 3, viene effettuata una valutazione ambientale
+per tutti i piani e i programmi:
+
+|
+
+a)
+
+|
+
+che sono elaborati per i settori agricolo, forestale, della pesca, energetico,
+industriale, dei trasporti, della gestione dei rifiuti e delle acque, delle
+telecomunicazioni, turistico, della pianificazione territoriale o della
+destinazione dei suoli, e che definiscono il quadro di riferimento per
+l’autorizzazione dei progetti elencati negli allegati I e II della direttiva
+85/337/CEE, o  
+  
+---|---  
+  
+b)
+
+|
+
+per i quali, in considerazione dei possibili effetti sui siti, si ritiene
+necessaria una valutazione ai sensi degli articoli 6 e 7 della direttiva
+[“habitat”].  
+  
+---|---  
+  
+3\. Per i piani e i programmi di cui al paragrafo 2 che determinano l’uso di
+piccole aree a livello locale e per le modifiche minori dei piani e dei
+programmi di cui al paragrafo 2, la valutazione ambientale è necessaria solo
+se gli Stati membri determinano che essi possono avere effetti significativi
+sull’ambiente.
+
+4\. Gli Stati membri determinano se i piani e i programmi, diversi da quelli
+di cui al paragrafo 2, che definiscono il quadro di riferimento per
+l’autorizzazione dei progetti, possono avere effetti significativi
+sull’ambiente.
+
+5\. Gli Stati membri determinano se i piani o i programmi di cui ai paragrafi
+3 e 4 possono avere effetti significativi sull’ambiente attraverso l’esame
+caso per caso o specificando i tipi di piani e di programmi o combinando le
+due impostazioni. A tale scopo gli Stati membri tengono comunque conto dei
+pertinenti criteri di cui all’allegato II, al fine di garantire che i piani e
+i programmi con probabili effetti significativi sull’ambiente rientrino
+nell’ambito di applicazione della presente direttiva.
+
+(...)».  
+  
+La direttiva «habitat»
+
+6
+
+|
+
+L’articolo 4 della direttiva «habitat» prevede quanto segue:
+
+«1. In base ai criteri di cui all’allegato III (fase 1) e alle informazioni
+scientifiche pertinenti, ogni Stato membro propone un elenco di siti,
+indicante quali tipi di habitat naturali di cui all’allegato I e quali specie
+locali di cui all’allegato II si riscontrano in detti siti. (...)
+
+(...)
+
+2\. In base ai criteri di cui all’allegato III (fase 2) e nell’ambito di
+ognuna delle nove regioni biogeografiche di cui all’articolo 1, lettera c),
+punto iii) e dell’insieme del territorio di cui all’articolo 2, paragrafo 1,
+la Commissione elabora, d’accordo con ognuno degli Stati membri, un progetto
+di elenco dei siti di importanza comunitaria, sulla base degli elenchi degli
+Stati membri, in cui sono evidenziati i siti in cui si riscontrano uno o più
+tipi di habitat naturali prioritari o una o più specie prioritarie.
+
+(...)
+
+L’elenco dei siti selezionati come siti di importanza comunitaria in cui sono
+evidenziati i siti in cui si riscontrano uno o più tipi di habitat naturali
+prioritari o una o più specie prioritarie è fissato dalla Commissione secondo
+la procedura di cui all’articolo 21.
+
+3\. L’elenco menzionato al paragrafo 2 è elaborato entro un termine di sei
+anni dopo la notifica della presente direttiva.
+
+4\. Quando un sito di importanza comunitaria è stato scelto a norma della
+procedura di cui al paragrafo 2, lo Stato membro interessato designa tale sito
+come zona speciale di conservazione il più rapidamente possibile e entro un
+termine massimo di sei anni, stabilendo le priorità in funzione
+dell’importanza dei siti per il mantenimento o il ripristino, in uno stato di
+conservazione soddisfacente, di uno o più tipi di habitat naturali di cui
+all’allegato I o di una o più specie di cui all’allegato II e per la coerenza
+di Natura 2000, nonché alla luce dei rischi di degrado e di distruzione che
+incombono su detti siti.
+
+5\. Non appena un sito è iscritto nell’elenco di cui al paragrafo 2, terzo
+comma, esso è soggetto alle disposizioni dell’articolo 6, paragrafi 2, 3 e 4».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 6, paragrafo 3, della direttiva «habitat» dispone:
+
+«Qualsiasi piano o progetto non direttamente connesso e necessario alla
+gestione del sito ma che possa avere incidenze significative su tale sito,
+singolarmente o congiuntamente ad altri piani e progetti, forma oggetto di una
+opportuna valutazione dell’incidenza che ha sul sito, tenendo conto degli
+obiettivi di conservazione del medesimo. Alla luce delle conclusioni della
+valutazione dell’incidenza sul sito e fatto salvo il paragrafo 4, le autorità
+nazionali competenti danno il loro accordo su tale piano o progetto soltanto
+dopo aver avuto la certezza che esso non pregiudicherà l’integrità del sito in
+causa e, se del caso, previo parere dell’opinione pubblica».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 7 della direttiva «habitat» stabilisce quanto segue:
+
+«Gli obblighi derivanti dall’articolo 6, paragrafi 2, 3 e 4 della presente
+direttiva sostituiscono gli obblighi derivanti dall’articolo 4, paragrafo 4,
+prima frase, della direttiva 79/409/CEE, per quanto riguarda le zone
+classificate a norma dell’articolo 4, paragrafo 1, o analogamente riconosciute
+a norma dell’articolo 4, paragrafo 2 di detta direttiva a decorrere dalla data
+di entrata in vigore della presente direttiva o dalla data di classificazione
+o di riconoscimento da parte di uno Stato membro a norma della direttiva
+79/409/CEE, qualora essa sia posteriore».  
+  
+---|---  
+  
+La direttiva «uccelli»
+
+9
+
+|
+
+L’articolo 4 della direttiva «uccelli», che sostituisce riproducendolo
+identico l’articolo 4 della direttiva 79/409, dispone:
+
+«1. Per le specie elencate nell’allegato I sono previste misure speciali di
+conservazione per quanto riguarda l’habitat, per garantire la sopravvivenza e
+la riproduzione di dette specie nella loro area di distribuzione.
+
+A tal fine si tiene conto:
+
+|
+
+a)
+
+|
+
+delle specie minacciate di sparizione;  
+  
+---|---  
+  
+b)
+
+|
+
+delle specie che possono essere danneggiate da talune modifiche del loro
+habitat;  
+  
+---|---  
+  
+c)
+
+|
+
+delle specie considerate rare in quanto la loro popolazione è scarsa o la loro
+ripartizione locale è limitata;  
+  
+---|---  
+  
+d)
+
+|
+
+di altre specie che richiedono una particolare attenzione per la specificità
+del loro habitat.  
+  
+---|---  
+  
+Per effettuare le valutazioni si terrà conto delle tendenze e delle variazioni
+dei livelli di popolazione.
+
+Gli Stati membri classificano in particolare come zone di protezione speciale
+i territori più idonei in numero e in superficie alla conservazione di tali
+specie nella zona geografica marittima e terrestre a cui si applica la
+presente direttiva.
+
+2\. Gli Stati membri adottano misure analoghe per le specie migratrici non
+menzionate all’allegato I che ritornano regolarmente, tenuto conto delle
+esigenze di protezione nella zona geografica marittima e terrestre a cui si
+applica la presente direttiva per quanto riguarda le aree di riproduzione, di
+muta e di svernamento e le zone in cui si trovano le stazioni lungo le rotte
+di migrazione. A tale scopo, gli Stati membri attribuiscono un’importanza
+particolare alla protezione delle zone umide e specialmente delle zone
+d’importanza internazionale.
+
+(...)
+
+4\. Gli Stati membri adottano misure idonee a prevenire, nelle zone di
+protezione di cui ai paragrafi 1 e 2, l’inquinamento o il deterioramento degli
+habitat, nonché le perturbazioni dannose agli uccelli che abbiano conseguenze
+significative in considerazione degli obiettivi del presente articolo. (...)».  
+  
+La normativa greca
+
+10
+
+|
+
+L’articolo 1 del decreto ministeriale del 28 agosto 2006 recita:
+
+«Il presente decreto intende attuare le disposizioni della direttiva [“VAS”],
+in modo da integrare, nel quadro di uno sviluppo equilibrato, considerazioni
+ambientali all’atto dell’adozione di piani e programmi, prevedendo tutte le
+misure, condizioni e procedure necessarie per valutare le loro possibili
+conseguenze sull’ambiente, e da promuovere così lo sviluppo sostenibile e un
+elevato livello di protezione dell’ambiente».  
+  
+---|---  
+  
+11
+
+|
+
+L’articolo 3, paragrafo 1, lettera b), del decreto ministeriale del 28 agosto
+2006 dispone:
+
+«1. Fatto salvo quanto previsto al paragrafo 2, la valutazione ambientale
+strategica è effettuata prima di approvare un piano o un programma o di
+avviare il relativo iter legislativo per piani o programmi di livello
+nazionale, regionale, provinciale o locale che possono avere effetti
+significativi sull’ambiente, e in particolare:
+
+(...)
+
+|
+
+b)
+
+|
+
+per tutti i piani e programmi che trovano interamente o parzialmente
+applicazione in aree del ramo nazionale della Rete ecologica europea Natura
+2000 [Siti di interesse comunitario (SIC) e Zone di protezione speciale (ZPS)]
+e che possono influire significativamente su di esse. Fanno eccezione i piani
+di gestione e i programmi di azione direttamente collegati o indispensabili
+alla gestione e alla tutela di dette aree.  
+  
+---|---  
+  
+Per stabilire se i piani e programmi di cui al precedente paragrafo, e che non
+sono i piani e programmi sub a), possano influire significativamente su aree
+del ramo nazionale della Rete ecologica europea Natura 2000 [Siti di interesse
+comunitario (SIC) e Zone di protezione speciale (ZPS)], e – di conseguenza –
+per stabilire se occorra sottoporli a procedura di valutazione ambientale
+strategica, si deve seguire la procedura di controllo ambientale preliminare
+di cui all’articolo 5, paragrafo 2».  
+  
+12
+
+|
+
+L’articolo 5, paragrafo 1, del decreto ministeriale del 28 agosto 2006 è del
+seguente tenore:
+
+«Ogni piano o programma di quelli menzionati ai paragrafi 1, lettera b), e 2
+dell’articolo 3 è sottoposto a procedura di controllo ambientale preliminare
+affinché l’autorità competente di cui al paragrafo 3 possa giudicare, alla
+stregua dei criteri specifici enunciati nel suddetto articolo, se il piano o
+programma in esame possa avere effetti significativi sull’ambiente e debba
+perciò essere sottoposto a valutazione ambientale strategica. (...)».  
+  
+---|---  
+  
+13
+
+|
+
+Il giudice del rinvio osserva che gli articoli 3, paragrafo 1, lettera b), e 5
+del suddetto decreto subordinano la valutazione ambientale strategica prevista
+dalla direttiva «VAS» a una «procedura di controllo ambientale preliminare»
+volta ad accertare se il piano o il programma in esame possa pregiudicare
+significativamente zone speciali di conservazione appartenenti alla Rete
+ecologica europea Natura 2000.  
+  
+---|---  
+  
+Procedimento principale e questione pregiudiziale
+
+14
+
+|
+
+A sostegno del proprio ricorso la ricorrente ha sollevato diversi motivi di
+annullamento sia di diritto interno che di diritto dell’Unione.  
+  
+---|---  
+  
+15
+
+|
+
+Quanto al diritto dell’Unione, la ricorrente afferma che il decreto
+ministeriale del 28 agosto 2006 non ha trasposto correttamente la direttiva
+«VAS». A suo avviso, dall’articolo 3, paragrafo 4, di detta direttiva
+risulterebbe che, trattandosi dei piani ovvero dei programmi di cui al
+paragrafo 2 del medesimo articolo 3, gli Stati membri non hanno la facoltà di
+determinare se un piano o un programma possa avere effetti significativi
+sull’ambiente.  
+  
+---|---  
+  
+16
+
+|
+
+In tali circostanze, il Symvoulio tis Epikrateias (Consiglio di Stato) ha
+deciso di sospendere il giudizio e di sottoporre alla Corte la seguente
+questione pregiudiziale:
+
+«Se l’articolo 3, paragrafo 2, lettera b), della direttiva [“VAS”], disponendo
+che venga effettuata una valutazione ambientale per tutti i piani e programmi
+“per i quali, in considerazione dei possibili effetti sui siti, si ritiene
+necessaria una valutazione ai sensi degli articoli 6 e 7 della direttiva
+[“habitat”], debba essere interpretato nel senso che l’obbligo di sottoporre
+un determinato piano a valutazione ambientale dipende dal fatto che ricorrano,
+per tale piano, i presupposti per procedere a valutazione ambientale ai sensi
+della direttiva [“habitat”] e che, pertanto, detta disposizione della
+direttiva [“VAS”] presuppone anch’essa, come quelle succitate della direttiva
+[‘habitat’], la constatazione che il piano può avere un’incidenza
+significativa su una determinata zona speciale di conservazione, lasciando la
+corrispondente valutazione sostanziale agli Stati membri. O se invece, ai
+sensi di tale articolo 3, paragrafo 2, lettera b), della direttiva [“VAS”],
+l’obbligo di effettuare, conformemente ad essa, una valutazione ambientale non
+dipenda dalla sussistenza dei presupposti per l’effettuazione di una
+valutazione ambientale ai sensi della direttiva [“habitat”], ossia dal
+giudizio sui possibili effetti significativi su una zona speciale di
+conservazione, bastando – al contrario –, affinché si attivi l’obbligo di
+eseguire una tale valutazione, constatare che un determinato piano è collegato
+in qualche modo ad uno dei siti di cui alla direttiva [“habitat”] e non
+necessariamente ad una zona speciale di conservazione».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+17
+
+|
+
+Con la sua questione il giudice del rinvio chiede, in sostanza, se l’articolo
+3, paragrafo 2, lettera b), della direttiva «VAS» debba essere interpretato
+nel senso che esso subordina l’obbligo di sottoporre un determinato piano a
+valutazione ambientale ai sensi di detta direttiva al ricorrere, per tale
+piano, dei presupposti perché lo si debba assoggettare a valutazione ai sensi
+della direttiva «habitat».  
+  
+---|---  
+  
+18
+
+|
+
+In via preliminare si deve rilevare che l’articolo 3, paragrafo 4, della
+direttiva «VAS», anch’esso citato dal giudice del rinvio nella sua decisione,
+non si applica – lo conferma il suo stesso testo – ai piani e programmi di cui
+all’articolo 3, paragrafo 2, di detta direttiva.  
+  
+---|---  
+  
+19
+
+|
+
+Quanto all’articolo 3, paragrafo 2, lettera b), della direttiva «VAS», tale
+disposizione richiede una valutazione ambientale ogni volta che è necessaria
+una valutazione ai sensi degli articoli 6 e 7 della direttiva «habitat». Di
+conseguenza, per determinare l’ambito di applicazione dell’articolo 3,
+paragrafo 2, lettera b), della direttiva «VAS» va esaminato quello di tali
+ultimi articoli.  
+  
+---|---  
+  
+20
+
+|
+
+L’articolo 4, paragrafo 5, della direttiva «habitat» enuncia che i siti di
+importanza comunitaria, compresi i siti di importanza comunitaria designati
+come zone speciali di conservazione dagli Stati membri, sono assoggettati alle
+disposizioni dell’articolo 6, paragrafi 2-4, di detta direttiva.  
+  
+---|---  
+  
+21
+
+|
+
+Risulta dal tenore dell’articolo 6, paragrafo 3, della direttiva «habitat», in
+combinato disposto con l’articolo 4, paragrafo 5, della medesima, che una
+valutazione è richiesta per qualsiasi piano o progetto non direttamente
+connesso o necessario alla gestione di un sito di importanza comunitaria, ma
+in grado di avere incidenze significative su un tale sito, singolarmente o
+congiuntamente ad altri piani e progetti.  
+  
+---|---  
+  
+22
+
+|
+
+L’articolo 6, paragrafo 3, prima frase, della direttiva «habitat» subordina il
+requisito di un’opportuna valutazione delle incidenze di un piano o di un
+progetto alla condizione che vi sia una probabilità o un rischio che
+quest’ultimo pregiudichi significativamente il sito interessato (sentenza del
+7 settembre 2004, Waddenvereniging e Vogelbeschermingsvereniging, C-127/02,
+Racc. pag. I-7405, punto 43). Tale condizione è soddisfatta qualora non possa
+escludersi, sulla base di elementi oggettivi, che detto piano o progetto
+pregiudichi significativamente il sito interessato (v., in tal senso, sentenza
+del 13 dicembre 2007, Commissione/Irlanda, C-418/04, Racc. pag. I-10947, punto
+227).  
+  
+---|---  
+  
+23
+
+|
+
+Di conseguenza, un esame effettuato per verificare se un piano o un progetto
+può avere incidenze significative su un sito, ai sensi dell’articolo 6,
+paragrafo 3, della direttiva «habitat», è necessariamente limitato alla
+questione di stabilire se possa essere escluso, sulla base di elementi
+oggettivi, che detto piano o progetto pregiudichi significativamente il sito
+interessato. Tale interpretazione vale altresì per le zone di cui all’articolo
+4, paragrafi 1 e 2, della direttiva «uccelli», tenuto conto dell’estensione a
+dette zone, ad opera dell’articolo 7 della direttiva «habitat», dell’ambito di
+applicazione dell’articolo 6, paragrafo 3, di quest’ultima direttiva.  
+  
+---|---  
+  
+24
+
+|
+
+Occorre dunque rispondere alla questione sollevata dichiarando che l’articolo
+3, paragrafo 2, lettera b), della direttiva «VAS» deve essere interpretato nel
+senso che esso subordina l’obbligo di sottoporre un determinato piano a
+valutazione ambientale al ricorrere, per tale piano, dei presupposti perché lo
+si debba sottoporre a valutazione ai sensi della direttiva «habitat», compreso
+il presupposto che il piano possa avere incidenze significative sul sito
+interessato. L’esame effettuato per verificare se quest’ultima condizione sia
+soddisfatta è necessariamente limitato alla questione di stabilire se possa
+essere escluso, sulla base di elementi oggettivi, che detto piano o progetto
+pregiudichi significativamente il sito interessato.  
+  
+---|---  
+  
+Sulle spese
+
+25
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Ottava Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 3, paragrafo 2, lettera b), della direttiva 2001/42/CE del
+Parlamento europeo e del Consiglio, del 27 giugno 2001, concernente la
+valutazione degli effetti di determinati piani e programmi sull’ambiente, deve
+essere interpretato nel senso che esso subordina l’obbligo di sottoporre un
+determinato piano a valutazione ambientale al ricorrere, per tale piano, dei
+presupposti perché lo si debba sottoporre a valutazione ai sensi della
+direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla
+conservazione degli habitat naturali e seminaturali e della flora e della
+fauna selvatiche, come modificata dalla direttiva 2006/105/CE del Consiglio,
+del 20 novembre 2006, compreso il presupposto che il piano possa avere
+incidenze significative sul sito interessato. L’esame effettuato per
+verificare se quest’ultima condizione sia soddisfatta è necessariamente
+limitato alla questione di stabilire se possa essere escluso, sulla base di
+elementi oggettivi, che detto piano o progetto pregiudichi significativamente
+il sito interessato.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il greco.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

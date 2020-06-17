@@ -1,0 +1,731 @@
+
+
+**Causa C ‑70/10**
+
+**Scarlet Extended SA**
+
+**contro**
+
+**Soci ete belge des auteurs, compositeurs et editeurs SCRL (SABAM)**
+
+(domanda di pronuncia pregiudiziale proposta dalla cour d'appel de Bruxelles)
+
+«Societa dell'informazione -- Diritto d'autore -- Internet -- Programmi "peer-
+to-peer" -- Fornitori di accesso a Internet -- Predisposizione di un sistema
+di filtraggio delle comunicazioni elettroniche al fine di impedire gli scambi
+dei file che ledono i diritti d'autore -- Assenza di un obbligo generale di
+sorvegliare le informazioni trasmesse»
+
+Massime della sentenza
+
+_Ravvicinamento delle legislazioni -- Societa dell'informazione -- Diritto
+d'autore e diritti connessi -- Tutela dei dati personali nel settore delle
+comunicazioni elettroniche -- Ingiunzione ad un fornitore di accesso ad
+Internet di predisporre un sistema di filtraggio di tutte le comunicazioni
+elettroniche, che si applica indistintamente a tutta la sua clientela, a
+titolo preventivo e a sue spese, senza limiti nel tempo, per prevenire le
+violazioni di un diritto di proprieta intellettuale -- Inammissibilita_
+
+_(Carta dei diritti fondamentali dell 'Unione europea, artt. 8 e 11; direttive
+del Parlamento europeo e del Consiglio 95/46, 2000/31, art. 15, n. 1, 2001/29,
+2002/58 e 2004/48, art. 3, n. 1)_
+
+Le direttive 2000/31, relativa a taluni aspetti giuridici dei servizi della
+societa dell'informazione, in particolare il commercio elettronico, nel
+mercato interno, 2001/29, sull'armonizzazione di taluni aspetti del diritto
+d'autore e dei diritti connessi nella societa dell'informazione, 2004/48, sul
+rispetto dei diritti di proprieta intellettuale, 95/46, relativa alla tutela
+delle persone fisiche con riguardo al trattamento dei dati personali, nonche
+alla libera circolazione di tali dati, e 2002/58, relativa al trattamento dei
+dati personali e alla tutela della vita privata nel settore delle
+comunicazioni elettroniche, lette nel loro combinato disposto ed interpretate
+alla luce delle condizioni che la tutela dei diritti fondamentali applicabili
+implica, devono essere interpretate nel senso che ostano ad un'ingiunzione
+rivolta ad un fornitore di accesso ad Internet di predisporre un sistema di
+filtraggio:
+
+-      di tutte le comunicazioni elettroniche che transitano per i suoi servizi, in particolare mediante programmi «peer-to-peer»;
+
+-      che si applica indistintamente a tutta la sua clientela;
+
+-      a titolo preventivo; 
+
+-      a sue spese esclusive, e 
+
+-      senza limiti nel tempo,
+
+idoneo ad identificare nella rete di tale fornitore la circolazione di file
+contenenti un'opera musicale, cinematografica o audiovisiva rispetto alla
+quale il richiedente affermi di vantare diritti di proprieta intellettuale,
+onde bloccare il trasferimento di file il cui scambio pregiudichi il diritto
+d'autore.
+
+Un'ingiunzione di questo tipo obbligherebbe infatti il fornitore a prestare
+una sorveglianza attiva su tutti i dati di ciascuno dei suoi clienti per
+prevenire qualsiasi futura violazione di diritti di proprieta intellettuale,
+costringendolo in tal modo ad effettuare una sorveglianza generalizzata, che e
+vietata dall'art. 15, n. 1, della direttiva 2000/31. Essa comporterebbe
+inoltre una grave violazione della liberta di impresa del fornitore di cui
+trattasi, poiche l'obbligherebbe a predisporre un sistema informatico
+complesso, costoso, permanente e unicamente a suo carico, il che risulterebbe
+peraltro contrario alle condizioni stabilite dall'art. 3, n. 1, della
+direttiva 2004/48, il quale richiede che le misure adottate per assicurare il
+rispetto dei diritti di proprieta intellettuale non siano inutilmente
+complesse o costose. Pertanto, siffatta ingiunzione non rispetterebbe
+l'esigenza di garantire un giusto equilibrio tra, da un lato, la tutela del
+diritto di proprieta intellettuale, di cui godono i titolari dei diritti
+d'autore, e, dall'altro, quella della liberta d'impresa, appannaggio di
+operatori come i fornitori di accesso a Internet. Gli effetti di detta
+ingiunzione, tra l'altro, non si limiterebbero a colpire tali fornitori,
+poiche il sistema di filtraggio e idoneo a ledere anche i diritti fondamentali
+dei clienti, ossia il loro diritto alla tutela dei dati personali e la loro
+liberta di ricevere o di comunicare informazioni, diritti, questi ultimi,
+tutelati dagli artt. 8 e 11 della Carta dei diritti fondamentali dell'Unione
+europea. Da un lato, l'ingiunzione implicherebbe un'analisi sistematica di
+tutti i contenuti, nonche la raccolta e l'identificazione degli indirizzi IP
+degli utenti all'origine dell'invio dei contenuti illeciti sulla rete,
+indirizzi che costituiscono dati personali protetti, in quanto consentono di
+identificare in modo preciso i suddetti utenti. Dall'altro, rischierebbe di
+ledere la liberta di informazione, poiche tale sistema potrebbe non essere in
+grado di distinguere adeguatamente tra un contenuto lecito ed un contenuto
+illecito, sicche il suo impiego potrebbe produrre il risultato di bloccare
+comunicazioni aventi un contenuto lecito.
+
+(v. punti 40, 48-52 e dispositivo)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+24 novembre 2011 (*)
+
+«Societa dell'informazione - Diritto d'autore - Internet - Programmi "peer-to-
+peer" - Fornitori di accesso a Internet - Predisposizione di un sistema di
+filtraggio delle comunicazioni elettroniche al fine di impedire gli scambi dei
+file che ledono i diritti d'autore - Assenza di un obbligo generale di
+sorvegliare le informazioni trasmesse»
+
+Nel procedimento C‑70/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dalla cour d'appel de Bruxelles (Belgio), con
+decisione 28 gennaio 2010, pervenuta in cancelleria il 5 febbraio 2010, nella
+causa
+
+**Scarlet Extended SA**
+
+contro
+
+**Soci ete belge des auteurs, compositeurs et editeurs SCRL (SABAM),**
+
+con l'intervento di:
+
+**Belgian Entertainment Association Video ASBL (BEA Video),**
+
+**Belgian Entertainment Association Music ASBL (BEA Music),**
+
+**Internet Service Provider Association ASBL (ISPA),**
+
+LA CORTE (Terza Sezione),
+
+composta dal sig. K. Lenaerts, presidente di sezione, dal sig. J. Malenovský
+(relatore), dalla sig.ra R. Silva de Lapuerta, dai sigg. E. Juhasz e G.
+Arestis, giudici,
+
+avvocato generale: sig. P. Cruz Villalon
+
+cancelliere: sig.ra C. Stromholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza del 13 gennaio
+2011,
+
+considerate le osservazioni presentate:
+
+-        per la Scarlet Extended SA, dagli avv.ti T. De Meese e B. Van Asbroeck, avocats;
+
+-        per la Societe belge des auteurs, compositeurs et editeurs SCRL (SABAM), la Belgian Entertainment Association Video ASBL (BEA Video) e la Belgian Entertainment Association Music ASBL (BEA Music), dagli avv.ti F. de Visscher, B. Michaux e F. Brison, avocats; 
+
+-        per la Internet Service Provider Association ASBL (ISPA), dall'avv. G. Somers, avocat;
+
+-        per il governo belga, dai sigg. T. Materne e J.‑C. Halleux, nonche dalla sig.ra C. Pochet, in qualita di agenti;
+
+-        per il governo ceco, dal sig. M. Smolek e dalla sig.ra K. Havličkova, in qualita di agenti;
+
+-        per il governo italiano, dalla sig.ra G. Palmieri, in qualita di agente, assistita dal sig. S. Fiorentino, avvocato dello Stato; 
+
+-        per il governo olandese, dalle sig.re C. Wissels e B. Koopman, in qualita di agenti;
+
+-        per il governo polacco, dai sigg. M. Szpunar, M. Drwięcki e J. Goliński, in qualita di agenti;
+
+-        per il governo finlandese, dalla sig.ra M. Pere, in qualita di agente;
+
+-        per la Commissione europea, dalle sig.re J. Samnadda e C. Vrignon, in qualita di agenti,
+
+sentite le conclusioni dell'avvocato generale, presentate all'udienza del 14
+aprile 2011,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+delle seguenti direttive:
+
+-        direttiva del Parlamento europeo e del Consiglio 8 giugno 2000, 2000/31/CE, relativa a taluni aspetti giuridici dei servizi della societa dell'informazione, in particolare il commercio elettronico, nel mercato interno («Direttiva sul commercio elettronico») (GU L 178, pag. 1); 
+
+-        direttiva del Parlamento europeo e del Consiglio 22 maggio 2001, 2001/29/CE, sull'armonizzazione di taluni aspetti del diritto d'autore e dei diritti connessi nella societa dell'informazione (GU L 167, pag. 10); 
+
+-        direttiva del Parlamento europeo e del Consiglio 29 aprile 2004, 2004/48/CE, sul rispetto dei diritti di proprieta intellettuale (GU L 157, pag. 45; rettifiche nella GU 2004, L 195, pag. 16); 
+
+-        direttiva del Parlamento europeo e del Consiglio 24 ottobre 1995, 95/46/CE, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonche alla libera circolazione di tali dati (GU L 281, pag. 31), e 
+
+-        direttiva del Parlamento europeo e del Consiglio 12 luglio 2002, 2002/58/CE, relativa al trattamento dei dati personali e alla tutela della vita privata nel settore delle comunicazioni elettroniche (direttiva relativa alla vita privata e alle comunicazioni elettroniche) (GU L 201, pag. 37). 
+
+2        Questa domanda e stata presentata nel contesto di una controversia
+tra la Scarlet Extended SA (in prosieguo: la «Scarlet») e la Societe belge des
+auteurs, compositeurs et editeurs SCRL (SABAM) (in prosieguo: la «SABAM»)
+vertente sul rifiuto della Scarlet di predisporre un sistema di filtraggio
+delle comunicazioni elettroniche realizzate tramite programmi per lo scambio
+di archivi (detti «peer-to-peer»), onde impedire gli scambi dei file che
+ledono i diritti d'autore.
+
+  **Contesto normativo**
+
+  _Il diritto dell 'Unione _
+
+ La direttiva 2000/31
+
+3        Ai sensi del quarantacinquesimo e del quarantasettesimo
+'considerando' della direttiva 2000/31:
+
+«(45) Le limitazioni alla responsabilita dei prestatori intermedi previste
+nella presente direttiva lasciano impregiudicata la possibilita di azioni
+inibitorie di altro tipo. Siffatte azioni inibitorie possono, in particolare,
+essere ordinanze di organi giurisdizionali o autorita amministrative che
+obbligano a porre fine a una violazione o impedirla, anche con la rimozione
+dell'informazione illecita o la disabilitazione dell'accesso alla medesima.
+
+(...)
+
+(47)      Gli Stati membri non possono imporre ai prestatori un obbligo di
+sorveglianza di carattere generale. Tale disposizione non riguarda gli
+obblighi di sorveglianza in casi specifici e, in particolare, lascia
+impregiudicate le ordinanze emesse dalle autorita nazionali secondo le
+rispettive legislazioni».
+
+4        L'art. 1 di questa direttiva cosi recita:
+
+«1.      La presente direttiva mira a contribuire al buon funzionamento del
+mercato interno garantendo la libera circolazione dei servizi della societa
+dell'informazione tra Stati membri.
+
+2.      La presente direttiva ravvicina, nella misura necessaria alla realizzazione dell'obiettivo di cui al paragrafo 1, talune norme nazionali sui servizi della societa dell'informazione che interessano il mercato interno, lo stabilimento dei prestatori, le comunicazioni commerciali, i contratti per via elettronica, la responsabilita degli intermediari, i codici di condotta, la composizione extragiudiziaria delle controversie, i ricorsi giurisdizionali e la cooperazione tra Stati membri. 
+
+(...)».
+
+5        L'art. 12 di detta direttiva, che figura nella Sezione 4 del Capo II
+della stessa ed e intitolato «Responsabilita dei prestatori intermediari»,
+dispone quanto segue:
+
+«1.      Gli Stati membri provvedono affinche, nella prestazione di un
+servizio della societa dell'informazione consistente nel trasmettere, su una
+rete di comunicazione, informazioni fornite da un destinatario del servizio, o
+nel fornire un accesso alla rete di comunicazione, il prestatore non sia
+responsabile delle informazioni trasmesse a condizione che egli:
+
+a)      non dia origine alla trasmissione;
+
+b)      non selezioni il destinatario della trasmissione; e
+
+c)      non selezioni ne modifichi le informazioni trasmesse.
+
+(...)
+
+3.      Il presente articolo lascia impregiudicata la possibilita, secondo gli ordinamenti degli Stati membri, che un organo giurisdizionale o un'autorita amministrativa esiga che il prestatore impedisca o ponga fine ad una violazione». 
+
+6        Ai sensi dell'art. 15 della direttiva 2000/31, anch'esso incluso
+nella sua Sezione 4 del Capo II:
+
+«1.      Nella prestazione dei servizi di cui agli articoli 12, 13 e 14, gli
+Stati membri non impongono ai prestatori un obbligo generale di sorveglianza
+sulle informazioni che trasmettono o memorizzano ne un obbligo generale di
+ricercare attivamente fatti o circostanze che indichino la presenza di
+attivita illecite.
+
+2.      Gli Stati membri possono stabilire che i prestatori di servizi della societa dell'informazione siano tenuti ad informare senza indugio la pubblica autorita competente di presunte attivita o informazioni illecite dei destinatari dei loro servizi o a comunicare alle autorita competenti, a loro richiesta, informazioni che consentano l'identificazione dei destinatari dei loro servizi con cui hanno accordi di memorizzazione dei dati». 
+
+ La direttiva 2001/29
+
+7        A norma del sedicesimo e del cinquantanovesimo 'considerando' della
+direttiva 2001/29:
+
+«(16)(...) La presente direttiva dovrebbe essere attuata in tempi analoghi a
+quelli previsti per [la direttiva 2000/31], in quanto tale direttiva fornisce
+un quadro armonizzato di principi e regole che riguardano tra l'altro alcune
+parti importanti della presente direttiva. Questa direttiva lascia
+impregiudicate le regole relative alla responsabilita della direttiva
+suddetta.
+
+(...)
+
+(59)      In particolare in ambito digitale, i servizi degli intermediari
+possono essere sempre piu utilizzati da terzi per attivita illecite. In molti
+casi siffatti intermediari sono i piu idonei a porre fine a dette attivita
+illecite. Pertanto fatte salve le altre sanzioni e i mezzi di tutela a
+disposizione, i titolari dei diritti dovrebbero avere la possibilita di
+chiedere un provvedimento inibitorio contro un intermediario che consenta
+violazioni in rete da parte di un terzo contro opere o altri materiali
+protetti. Questa possibilita dovrebbe essere disponibile anche ove gli atti
+svolti dall'intermediario siano soggetti a eccezione ai sensi dell'articolo 5.
+Le condizioni e modalita relative a tale provvedimento ingiuntivo dovrebbero
+essere stabilite dal diritto nazionale degli Stati membri».
+
+8        L'art. 8 della direttiva 2001/29 stabilisce quanto segue:
+
+«1.      Gli Stati membri prevedono adeguate sanzioni e mezzi di ricorso
+contro le violazioni dei diritti e degli obblighi contemplati nella presente
+direttiva e adottano tutte le misure necessarie a garantire l'applicazione
+delle sanzioni e l'utilizzazione dei mezzi di ricorso. Le sanzioni previste
+devono essere efficaci, proporzionate e dissuasive.
+
+(...)
+
+3.      Gli Stati membri si assicurano che i titolari dei diritti possano chiedere un provvedimento inibitorio nei confronti degli intermediari i cui servizi siano utilizzati da terzi per violare un diritto d'autore o diritti connessi». 
+
+ La direttiva 2004/48
+
+9        Il ventitreesimo 'considerando' della direttiva 2004/48 cosi recita:
+
+«[Senza pregiudizio di] eventuali altre misure, procedure e mezzi di ricorso
+disponibili, i titolari dei diritti dovrebbero avere la possibilita di
+richiedere un provvedimento inibitorio contro un intermediario i cui servizi
+sono utilizzati da terzi per violare il diritto di proprieta industriale del
+titolare. Le condizioni e modalita relative a tale provvedimento inibitorio
+dovrebbero essere stabilite dal diritto nazionale degli Stati membri. Per
+quanto riguarda le violazioni del diritto d'autore e dei diritti connessi, la
+direttiva [2001/29] prevede gia un ampio livello di armonizzazione. Pertanto
+l'articolo 8, paragrafo 3, della direttiva [2001/29] non dovrebbe essere
+pregiudicato dalla presente direttiva».
+
+10      Ai termini dell'art. 2, n. 3, della direttiva 2004/48:
+
+«La presente direttiva fa salve:
+
+a)      le disposizioni comunitarie che disciplinano il diritto sostanziale di
+proprieta intellettuale (…), la direttiva [2000/31] in generale e le
+disposizioni degli articoli da 12 a 15 [di quest'ultima] in particolare;
+
+(...)».
+
+11      L'art. 3 della direttiva 2004/48 cosi recita:
+
+«1.      Gli Stati membri definiscono le misure, le procedure e i mezzi di
+ricorso necessari ad assicurare il rispetto dei diritti di proprieta
+intellettuale di cui alla presente direttiva. Tali misure, procedure e mezzi
+di ricorso sono leali ed equi, non inutilmente complessi o costosi e non
+comportano termini irragionevoli ne ritardi ingiustificati.
+
+2.      Le misure, le procedure e i mezzi di ricorso sono effettivi, proporzionati e dissuasivi e sono applicati in modo da evitare la creazione di ostacoli al commercio legittimo e da prevedere salvaguardie contro gli abusi». 
+
+12      L'art. 11 della direttiva 2004/48 cosi dispose:
+
+«Gli Stati membri assicurano che, in presenza di una decisione giudiziaria che
+ha accertato una violazione di un diritto di proprieta intellettuale, le
+autorita giudiziarie possano emettere nei confronti dell'autore della
+violazione un'ingiunzione diretta a vietare il proseguimento della violazione.
+Se previsto dalla legislazione nazionale, il mancato rispetto di
+un'ingiunzione e oggetto, ove opportuno, del pagamento di una pena pecuniaria
+suscettibile di essere reiterata, al fine di assicurarne l'esecuzione. Gli
+Stati membri assicurano che i titolari possano chiedere un provvedimento
+ingiuntivo nei confronti di intermediari i cui servizi sono utilizzati da
+terzi per violare un diritto di proprieta intellettuale, senza pregiudizio
+dell'articolo 8, paragrafo 3, della direttiva [2001/29]».
+
+  _Il diritto nazionale_
+
+13      L'art. 87, n. 1, primo e secondo comma, della legge 30 giugno 1994,
+sul diritto d'autore e sui diritti connessi ( _Moniteur belge_ del 27 luglio
+1994, pag. 19297) prevede quanto segue:
+
+«Il presidente del tribunal de premiere instance (…) consta[ta] l'esistenza e
+[ordina] la cessazione di qualsiasi violazione del diritto d'autore o di un
+diritto connesso.
+
+[Puo] altresi emanare un provvedimento inibitorio contro intermediari i cui
+servizi siano utilizzati da un terzo per violare il diritto d'autore o un
+diritto connesso».
+
+14      Gli artt. 18 e 21 della legge 11 marzo 2003, su taluni aspetti
+giuridici dei servizi della societa dell'informazione ( _Moniteur belge_ del
+17 marzo 2003, pag. 12962), recepiscono nel diritto nazionale gli artt. 12 e
+15 della direttiva 2000/31.
+
+  **Causa principale e questioni pregiudiziali**
+
+15      La SABAM e una societa di gestione che rappresenta gli autori, i
+compositori e gli editori di opere musicali ed autorizza l'utilizzo delle loro
+opere tutelate da parte di terzi.
+
+16      La Scarlet e un fornitore di accesso ad Internet (in prosieguo: «FAI»)
+che procura ai propri clienti tale accesso, senza proporre altri servizi come
+lo scaricamento o la condivisione dei file.
+
+17      Nel corso del 2004, la SABAM perveniva alla conclusione che gli utenti
+di Internet che si avvalevano dei servizi della Scarlet scaricavano da
+Internet, senza autorizzazione e senza pagarne i diritti, opere contenute nel
+suo catalogo utilizzando reti «peer-to-peer», che costituiscono uno strumento
+aperto per la condivisione di contenuti, indipendente, decentralizzato e
+dotato di avanzate funzioni di ricerca e di scaricamento di file.
+
+18      Con atto di ricorso del 24 giugno 2004 essa citava pertanto la Scarlet
+dinanzi al presidente del tribunal de premiere instance de Bruxelles,
+sostenendo che, nella sua qualita di FAI, tale societa si trovava nella
+situazione ideale per adottare misure volte a far cessare le violazioni del
+diritto d'autore commesse dai suoi clienti.
+
+19      LA SABAM chiedeva, anzitutto, che venisse riconosciuta la violazione
+dei diritti d'autore sulle opere musicali appartenenti al suo repertorio, in
+particolare dei diritti di riproduzione e di comunicazione al pubblico, dovuta
+allo scambio non autorizzato di file musicali realizzato grazie a software
+«peer to peer». Tali violazioni sarebbero state commesse avvalendosi dei
+servizi della Scarlet.
+
+20      Essa domandava inoltre che la Scarlet fosse condannata, a pena di
+ammenda, a far cessare tali violazioni rendendo impossibile o bloccando
+qualsiasi forma di invio o di ricezione da parte dei suoi clienti, mediante
+programmi «peer to peer», senza autorizzazione dei titolari dei diritti, di
+file contenenti un'opera musicale, pretendendo infine che la Scarlet le
+comunicasse la descrizione delle misure che intendeva applicare per
+ottemperare all'emananda sentenza, a pena di ammenda.
+
+21      Con sentenza 26 novembre 2004, il presidente del tribunal de premiere
+instance de Bruxelles accertava l'esistenza delle violazioni del diritto
+d'autore denunciate dalla SABAM. Tuttavia, prima di statuire sull'istanza di
+provvedimenti inibitori, esso incaricava un perito di verificare se le
+soluzioni tecniche proposte dalla SABAM fossero tecnicamente realizzabili, se
+esse consentissero di filtrare unicamente gli scambi illeciti di file e se
+esistessero altri dispositivi idonei a controllare l'utilizzo di programmi
+«peer to peer», nonche di quantificare il costo dei dispositivi considerati.
+
+22      Nella sua relazione, il perito designato traeva la conclusione che,
+nonostante la presenza di numerosi ostacoli tecnici, non si poteva escludere
+completamente che il filtraggio ed il blocco degli scambi illeciti di file
+fosse realizzabile.
+
+23      Con sentenza 29 giugno 2007, il presidente del tribunal de premiere
+instance de Bruxelles condannava pertanto la Scarlet a far cessare le
+violazioni del diritto d'autore accertate con la sentenza 26 novembre 2004,
+rendendo impossibile qualsiasi forma, realizzata mediante un programma «peer
+to peer», di invio o di ricezione, da parte dei suoi clienti, di file che
+contenessero un'opera musicale appartenente al repertorio della Sabam, a pena
+di ammenda.
+
+24      La Scarlet interponeva appello contro tale sentenza dinanzi al giudice
+del rinvio, affermando, anzitutto, che le risultava impossibile ottemperare a
+tale ingiunzione poiche l'efficacia e la durata nel tempo dei dispositivi di
+blocco o di filtraggio non erano dimostrate e l'attuazione di tali dispositivi
+era ostacolata da diversi fattori pratici, quali problemi di capacita della
+rete e di impatto sulla stessa. Inoltre, qualsiasi tentativo di bloccare i
+file incriminati, a suo avviso, sarebbe stato destinato al fallimento a breve
+termine, stante l'esistenza di numerosi programmi «peer-to-peer» che avrebbero
+reso impossibile la verifica del loro contenuto da parte di terzi.
+
+25      La Scarlet sosteneva poi che detta ingiunzione non era conforme
+all'art. 21 della legge 11 marzo 2003, su taluni aspetti giuridici dei servizi
+della societa dell'informazione, che recepisce nel diritto nazionale l'art. 15
+della direttiva 2000/31, in quanto imponeva, de facto, un obbligo generale di
+sorveglianza sulle comunicazioni veicolate dalla sua rete, posto che qualsiasi
+dispositivo di blocco o di filtraggio del traffico «peer to peer» presuppone
+una sorveglianza generalizzata su tutte le comunicazioni che passano per tale
+rete.
+
+26      Infine, la Scarlet spiegava che la predisposizione di un sistema di
+filtraggio avrebbe leso le disposizioni del diritto dell'Unione in materia di
+tutela dei dati personali e di segreto delle comunicazioni, in quanto tale
+filtraggio implica il trattamento degli indirizzi IP, che sono dati personali.
+
+27      In tale contesto il giudice del rinvio ha ritenuto che, prima di
+verificare se un meccanismo di filtraggio e di blocco dei file «peer-to-peer»
+esista e possa essere efficace, occorre assicurarsi che gli obblighi da porre
+eventualmente a carico della Scarlet siano conformi al diritto dell'Unione.
+
+28      In tale contesto, la cour d'appel de Bruxelles ha deciso di sospendere
+il procedimento e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+«1)      Se le direttive 2001/29 e 2004/48, lette in combinato disposto con le
+direttive 95/46, 2000/31 e 2002/58, interpretate, in particolare, alla luce
+degli artt. 8 e 10 della Convenzione europea per la salvaguardia dei diritti
+dell'uomo e delle liberta fondamentali, consentano agli Stati membri di
+autorizzare un giudice nazionale, adito nell'ambito di un procedimento nel
+merito e in base alla sola disposizione di legge che prevede che "[i giudici
+nazionali] possono altresi emettere un'ingiunzione recante un provvedimento
+inibitorio nei confronti di intermediari i cui servizi siano utilizzati da un
+terzo per violare il diritto d'autore o un diritto connesso", ad ordinare ad
+un [FAI] di predisporre, nei confronti della sua intera clientela, in
+abstracto e a titolo preventivo, esclusivamente a spese di tale FAI e senza
+limitazioni nel tempo, un sistema di filtraggio di tutte le comunicazioni
+elettroniche, sia entranti che uscenti, che transitano per i suoi servizi, in
+particolare mediante l'impiego di software "peer to peer", al fine di
+individuare, nella sua rete, la circolazione di file contenenti un'opera
+musicale, cinematografica o audiovisiva sulla quale il richiedente affermi di
+vantare diritti, e in seguito di bloccare il trasferimento di questi, al
+momento della richiesta o in occasione dell'invio.
+
+2)      In caso di risposta affermativa alla [prima] questione (…), se tali
+direttive obblighino il giudice nazionale, adito per statuire su una richiesta
+di ingiunzione nei confronti di un intermediario dei cui servizi si avvalgano
+terzi per violare il diritto d'autore, ad applicare il principio della
+proporzionalita quando e chiamato a pronunciarsi sull'efficacia e sull'effetto
+dissuasivo della misura richiesta».
+
+  **Sulle questioni pregiudiziali**
+
+29      Con le sue questioni il giudice del rinvio chiede, in sostanza, se le
+direttive 2000/31, 2001/29, 2004/48, 95/46 e 2002/58, lette nel loro combinato
+disposto ed interpretate alla luce delle condizioni che la tutela dei diritti
+fondamentali applicabili implica, debbano essere interpretate nel senso che
+ostano all'ingiunzione rivolta ad un FAI di predisporre un sistema di
+filtraggio:
+
+-        di tutte le comunicazioni elettroniche che transitano per i suoi servizi, in particolare mediante programmi «peer-to-peer»; 
+
+-        che si applichi indistintamente a tutta la sua clientela; 
+
+-        a titolo preventivo; 
+
+-        a sue spese esclusive, e 
+
+-        senza limiti nel tempo, 
+
+idoneo ad identificare nella rete di tale fornitore la circolazione di file
+contenenti un'opera musicale, cinematografica o audiovisiva rispetto alla
+quale il richiedente affermi di vantare diritti di proprieta intellettuale,
+onde bloccare il trasferimento di file il cui scambio pregiudichi il diritto
+d'autore (in prosieguo: il «sistema di filtraggio controverso»).
+
+30      In proposito, occorre anzitutto ricordare che, ai sensi degli artt. 8,
+n. 3, della direttiva 2001/29 e 11, terza frase, della direttiva 2004/48, i
+titolari di diritti di proprieta intellettuale possono chiedere un
+provvedimento inibitorio nei confronti degli intermediari, come i FAI, i cui
+servizi siano utilizzati da terzi per violare i loro diritti.
+
+31      Dalla giurisprudenza della Corte risulta poi che la competenza
+attribuita, a norma di tali disposizioni, agli organi giurisdizionali
+nazionali deve consentire a questi ultimi di ingiungere a detti intermediari
+di adottare provvedimenti che contribuiscano in modo effettivo, non solo a
+porre fine alle violazioni gia inferte ai diritti di proprieta intellettuale
+mediante i loro servizi della societa dell'informazione, ma anche a prevenire
+nuove violazioni (v., in questo senso, sentenza 12 luglio 2011, causa
+C‑324/09, L'Oreal e a., non ancora pubblicata nella Raccolta, punto 131).
+
+32      Infine, dalla medesima giurisprudenza si evince che le modalita delle
+ingiunzioni che gli Stati membri devono prevedere ai sensi di detti artt. 8,
+n. 3, e 11, terza frase, quali quelle relative alle condizioni che devono
+essere soddisfatte e alla procedura da seguire, devono essere stabilite dal
+diritto nazionale (v., mutatis mutandis, sentenza L'Oreal e a., cit., punto
+135).
+
+33      Pertanto, tali norme nazionali, al pari della loro applicazione da
+parte degli organi giurisdizionali nazionali, devono rispettare i limiti
+derivanti dalle direttive 2001/29 e 2004/48, nonche dalle fonti del diritto
+alle quali tali direttive fanno riferimento (v., in questo senso, sentenza
+L'Oreal e a., cit., punto 138).
+
+34      Di conseguenza, in conformita al sedicesimo 'considerando' della
+direttiva 2001/29 e all'art. 2, n. 3, lett. a), della direttiva 2004/48, dette
+norme, emanate dagli Stati membri, non possono intaccare le disposizioni della
+direttiva 2000/31 e, piu precisamente, i suoi artt. 12‑15\.
+
+35      Tali norme devono quindi rispettare l'art. 15, n. 1, della direttiva
+2000/31, che vieta alle autorita nazionali di adottare misure che impongano ad
+un FAI di procedere ad una sorveglianza generalizzata sulle informazioni che
+esso trasmette sulla propria rete.
+
+36      A questo riguardo, la Corte ha gia statuito che siffatto divieto
+abbraccia in particolare le misure nazionali che obbligherebbero un prestatore
+intermedio, come un FAI, a realizzare una vigilanza attiva su tutti i dati di
+ciascuno dei suoi clienti per prevenire qualsiasi futura violazione di diritti
+di proprieta intellettuale. Peraltro, un obbligo siffatto di vigilanza
+generale sarebbe incompatibile con l'art. 3 della direttiva 2004/48, il quale
+enuncia che le misure contemplate da detta direttiva devono essere eque e
+proporzionate e non eccessivamente costose (v. sentenza L'Oreal e a., cit.,
+punto 139).
+
+37      Cio considerato, occorre verificare se l'ingiunzione oggetto della
+causa principale, che impone al FAI di predisporre il sistema di filtraggio
+controverso, implichi in tale circostanza l'obbligo di procedere ad una
+sorveglianza attiva su tutti i dati di ciascuno dei suoi clienti per prevenire
+qualsiasi futura violazione di diritti di proprieta intellettuale.
+
+38      A questo proposito, e pacifico che l'attuazione di tale sistema di
+filtraggio presuppone:
+
+-        che il FAI identifichi, in primo luogo, nell'insieme delle comunicazioni elettroniche di tutti i suoi clienti, i file che appartengono al traffico «peer-to-peer»; 
+
+-        che esso identifichi, in secondo luogo, nell'ambito di tale traffico, i file che contengono opere sulle quali i titolari dei diritti di proprieta intellettuale affermino di vantare diritti; 
+
+-        in terzo luogo, che esso determini quali tra questi file sono scambiati in modo illecito e, 
+
+-        in quarto luogo, che proceda al blocco degli scambi di file che esso stesso qualifica come illeciti. 
+
+39      Siffatta sorveglianza preventiva richiederebbe cosi un'osservazione
+attiva sulla totalita delle comunicazioni elettroniche realizzate sulla rete
+del FAI coinvolto e, pertanto, includerebbe tutte le informazioni da
+trasmettere e ciascun cliente che si avvale di tale rete.
+
+40      Alla luce di quanto precede, occorre dichiarare che l'ingiunzione
+rivolta al FAI in questione di predisporre il sistema di filtraggio
+controverso lo obbligherebbe a procedere ad una sorveglianza attiva su tutti i
+dati di ciascuno dei suoi clienti per prevenire qualsiasi futura violazione di
+diritti di proprieta intellettuale. Da cio si evince che tale ingiunzione
+imporrebbe a detto FAI una sorveglianza generalizzata, che e vietata dall'art.
+15, n. 1, della direttiva 2000/31.
+
+41      Per vagliare la conformita di tale ingiunzione al diritto dell'Unione,
+occorre inoltre tenere conto delle condizioni che discendono dalla tutela dei
+diritti fondamentali applicabili, come quelli menzionati dal giudice del
+rinvio.
+
+42      In proposito va ricordato che l'ingiunzione oggetto della causa
+principale e volta a garantire la tutela dei diritti d'autore, che
+appartengono alla sfera del diritto di proprieta intellettuale e che possono
+essere lesi dalla natura e dal contenuto di talune comunicazioni elettroniche
+realizzate per il tramite della rete del FAI in questione.
+
+43      Sebbene la tutela del diritto di proprieta intellettuale sia sancita
+dall'art. 17, n. 2, della Carta dei diritti fondamentali dell'Unione europea
+(in prosieguo: la «Carta»), non puo desumersi ne da tale disposizione ne dalla
+giurisprudenza della Corte che tale diritto sia intangibile e che la sua
+tutela debba essere garantita in modo assoluto.
+
+44      Come emerge, infatti, dai punti 62‑68 della sentenza 29 gennaio 2008,
+causa C‑275/06, Promusicae (Racc. pag. I‑271), la tutela del diritto
+fondamentale di proprieta, di cui fanno parte i diritti di proprieta
+intellettuale, deve essere bilanciata con quella di altri diritti
+fondamentali.
+
+45      Piu precisamente, dal punto 68 di tale sentenza emerge che e compito
+delle autorita e dei giudici nazionali, nel contesto delle misure adottate per
+proteggere i titolari di diritti d'autore, garantire un giusto equilibrio tra
+la tutela di tali diritti e quella dei diritti fondamentali delle persone su
+cui incidono dette misure.
+
+46      Pertanto, in circostanze come quelle della causa principale, le
+autorita ed i giudici nazionali devono in particolare garantire un giusto
+equilibrio tra la tutela del diritto di proprieta intellettuale, di cui godono
+i titolari di diritti d'autore, e quella della liberta d'impresa, appannaggio
+di operatori come i FAI in forza dell'art. 16 della Carta.
+
+47      Orbene, nella presente fattispecie, l'ingiunzione di predisporre il
+sistema di filtraggio controverso implica una sorveglianza, nell'interesse di
+tali titolari, su tutte le comunicazioni elettroniche realizzate sulla rete
+del FAI coinvolto. Tale sorveglianza e inoltre illimitata nel tempo, riguarda
+qualsiasi futura violazione e postula che si debbano tutelare non solo opere
+esistenti, bensi anche opere future, che non sono state ancora create nel
+momento in cui viene predisposto detto sistema.
+
+48      Pertanto, un'ingiunzione di questo genere causerebbe una grave
+violazione della liberta di impresa del FAI in questione, poiche
+l'obbligherebbe a predisporre un sistema informatico complesso, costoso,
+permanente e unicamente a suo carico, il che risulterebbe peraltro contrario
+alle condizioni stabilite dall'art. 3, n. 1, della direttiva 2004/48, il quale
+richiede che le misure adottate per assicurare il rispetto dei diritti di
+proprieta intellettuale non siano inutilmente complesse o costose.
+
+49      Cio premesso, occorre dichiarare che l'ingiunzione di predisporre il
+sistema di filtraggio controverso non rispetta l'esigenza di garantire un
+giusto equilibrio tra, da un lato, la tutela del diritto di proprieta
+intellettuale, di cui godono i titolari dei diritti d'autore, e, dall'altro,
+quella della liberta d'impresa, appannaggio di operatori come i FAI.
+
+50      Per di piu, gli effetti di detta ingiunzione non si limiterebbero al
+FAI coinvolto, poiche il sistema di filtraggio controverso e idoneo a ledere
+anche i diritti fondamentali dei clienti di tale FAI, ossia il loro diritto
+alla tutela dei dati personali e la loro liberta di ricevere o di comunicare
+informazioni, diritti, questi ultimi, tutelati dagli artt. 8 e 11 della Carta.
+
+51      Da un lato, infatti, e pacifico che l'ingiunzione di predisporre il
+sistema di filtraggio controverso implicherebbe un'analisi sistematica di
+tutti i contenuti, nonche la raccolta e l'identificazione degli indirizzi IP
+degli utenti all'origine dell'invio dei contenuti illeciti sulla rete,
+indirizzi che costituiscono dati personali protetti, in quanto consentono di
+identificare in modo preciso i suddetti utenti.
+
+52      Dall'altro, detta ingiunzione rischierebbe di ledere la liberta di
+informazione, poiche tale sistema potrebbe non essere in grado di distinguere
+adeguatamente tra un contenuto lecito ed un contenuto illecito, sicche il suo
+impiego potrebbe produrre il risultato di bloccare comunicazioni aventi un
+contenuto lecito. Infatti, e indiscusso che la questione della liceita di una
+trasmissione dipende anche dall'applicazione di eccezioni di legge al diritto
+di autore che variano da uno Stato membro all'altro. Inoltre, in certi Stati
+membri talune opere possono rientrare nel pubblico dominio o possono essere
+state messe in linea gratuitamente da parte dei relativi autori.
+
+53      Pertanto, occorre dichiarare che, adottando l'ingiunzione che
+costringe il FAI a predisporre il sistema di filtraggio controverso, il
+giudice nazionale in questione non rispetterebbe l'obbligo di garantire un
+giusto equilibrio tra, da un lato, il diritto di proprieta intellettuale e,
+dall'altro, la liberta di impresa, il diritto alla tutela dei dati personali e
+la liberta di ricevere o di comunicare informazioni.
+
+54      Alla luce di quanto precede, occorre risolvere le questioni sottoposte
+dichiarando che le direttive 2000/31, 2001/29, 2004/48, 95/46 e 2002/58, lette
+in combinato disposto e interpretate tenendo presenti le condizioni derivanti
+dalla tutela dei diritti fondamentali applicabili, devono essere interpretate
+nel senso che ostano all'ingiunzione ad un FAI di predisporre il sistema di
+filtraggio controverso.
+
+  **Sulle spese**
+
+55      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:
+
+**Le direttive:**
+
+-         **del Parlamento europeo e del Consiglio 8 giugno 2000, 2000/31/CE, relativa a taluni aspetti giuridici dei servizi della societ a dell'informazione, in particolare il commercio elettronico, nel mercato interno («Direttiva sul commercio elettronico»);**
+
+-         **del Parlamento europeo e del Consiglio 22 maggio 2001, 2001/29/CE, sull 'armonizzazione di taluni aspetti del diritto d'autore e dei diritti connessi nella societa dell'informazione;**
+
+-         **del Parlamento europeo e del Consiglio 29 aprile 2004, 2004/48/CE, sul rispetto dei diritti di propriet a intellettuale; **
+
+-         **del Parlamento europeo e del Consiglio 24 ottobre 1995, 95/46/CE, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonch e alla libera circolazione di tali dati, e **
+
+-         **del Parlamento europeo e del Consiglio 12 luglio 2002, 2002/58/CE, relativa al trattamento dei dati personali e alla tutela della vita privata nel settore delle comunicazioni elettroniche (direttiva relativa alla vita privata e alle comunicazioni elettroniche),**
+
+**lette nel loro combinato disposto e interpretate alla luce delle condizioni
+che la tutela dei diritti fondamentali applicabili implica, devono essere
+interpretate nel senso che ostano ad un 'ingiunzione rivolta ad un fornitore
+di accesso ad Internet di predisporre un sistema di filtraggio:**
+
+-         **di tutte le comunicazioni elettroniche che transitano per i suoi servizi, in particolare mediante programmi «peer-to-peer»; **
+
+-         **che si applica indistintamente a tutta la sua clientela;**
+
+-         **a titolo preventivo;**
+
+-         **a sue spese esclusive, e**
+
+-         **senza limiti nel tempo,**
+
+**idoneo ad identificare nella rete di tale fornitore la circolazione di file
+contenenti un 'opera musicale, cinematografica o audiovisiva rispetto alla
+quale il richiedente affermi di vantare diritti di proprieta intellettuale,
+onde bloccare il trasferimento di file il cui scambio pregiudichi il diritto
+d'autore. **
+
+Firme
+
+* * *
+
+* Lingua processuale: il francese. 
+

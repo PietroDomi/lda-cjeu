@@ -17,6 +17,10 @@ class CelexSpider(scrapy.Spider):
         page = response.url.split(":")[-1]
         filename = 'data_html/%s.html' % page
         with open(filename, 'w', encoding='utf-8') as f:
-            if i % 20 == 0:
-                print(f"\n{i} out of {len(start_urls)} documents collected")
+            if i == 1:
+                print("\nScraping begins:")
+            elif i % 20 == 0:
+                print(f"\n\t{i} out of {len(start_urls)} documents collected")
+            elif i == len(start_urls):
+                print("\nScraping end.")
             f.write(response.text)

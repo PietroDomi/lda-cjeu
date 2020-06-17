@@ -1,0 +1,540 @@
+
+
+**Causa C ‑423/10**
+
+**Delphi Deutschland GmbH**
+
+**contro**
+
+**Hauptzollamt D usseldorf**
+
+(domanda di pronuncia pregiudiziale proposta dal Finanzgericht Dusseldorf)
+
+«Tariffa doganale comune -- Nomenclatura combinata -- Classificazione doganale
+-- Connettori elettrici -- Sottovoce 8536 69 -- Spine e prese di corrente»
+
+Massime della sentenza
+
+_Tariffa doganale comune -- Voci doganali -- Connettori elettrici, realizzati
+in metallo, che sono meri componenti delle spine e delle prese prodotte in una
+fase successiva, senza garanzia di isolamento al punto di raccordo_
+
+_(Regolamento del Consiglio n.  2658/87, allegato I; regolamenti della
+Commissione n. 1810/2004, n. 1719/2005 e n. 1549/2006)_
+
+La sottovoce 8536 69 della nomenclatura combinata figurante all'allegato I del
+regolamento n. 2658/87, relativo alla nomenclatura tariffaria e statistica ed
+alla tariffa doganale comune, come modificata per gli anni 2005, 2006 e 2007,
+rispettivamente, dai regolamenti nn. 1810/2004, 1719/2005 e 1549/2006, deve
+essere interpretata nel senso che connettori elettrici realizzati in metallo
+prestampato (rame, ottone, lamiera d'acciaio), privi di isolamento e definiti
+«terminals» e distinti in «female terminals» (terminali femmina) e «male
+terminals» (terminali maschio), non sono esclusi dalla citata sottovoce per il
+fatto che non garantiscono l'isolamento della linea nel punto di collegamento
+o che sono meri componenti delle spine e delle prese prodotte in una fase
+successiva, in quanto essi consentono connessioni elettriche multiple tra
+dispositivi, cavi e board, ecc., mediante il semplice inserimento del maschio
+nella femmina senza alcun bisogno di operazioni di assemblaggio.
+
+(v. punto 30 e dispositivo)
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Ottava Sezione)
+
+18 maggio 2011 (*)
+
+«Tariffa doganale comune - Nomenclatura combinata - Classificazione doganale -
+Connettori elettrici - Sottovoce 8536 69 - Spine e prese di corrente»
+
+Nel procedimento C‑423/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Finanzgericht Dusseldorf (Germania) con
+decisione 11 agosto 2010, pervenuta in cancelleria il 27 agosto 2010, nella
+causa
+
+**Delphi Deutschland GmbH**
+
+contro
+
+**Hauptzollamt D usseldorf,**
+
+LA CORTE (Ottava Sezione),
+
+composta dal sig. K. Schiemann, presidente di sezione, dalle sig.re C. Toader
+e A. Prechal (relatore), giudici,
+
+avvocato generale: sig. J. Mazak
+
+cancelliere: sig. A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+-        per la Delphi Deutschland GmbH, dall'avv. L. Harings, Rechtsanwalt;
+
+-        per la Commissione europea, dalla sig.ra L. Bouyon e dal sig. B.‑R. Killmann, in qualita di agenti,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+della sottovoce 8536 69 della nomenclatura combinata (in prosieguo: la «NC»)
+figurante all'allegato I del regolamento (CEE) del Consiglio 23 luglio 1987,
+n. 2658, relativo alla nomenclatura tariffaria e statistica ed alla tariffa
+doganale comune (GU L 256, pag. 1). Per gli anni 2005, 2006 e 2007, tale
+allegato e stato sostituito rispettivamente dagli allegati dei regolamenti
+(CE) della Commissione 7 settembre 2004, n. 1810 (GU L 327, pag. 1); 27
+ottobre 2005, n. 1719 (GU L 286, pag. 1), e 17 ottobre 2006, n. 1549 (GU L
+301, pag. 1).
+
+2        Tale domanda e stata presentata nell'ambito di una controversia tra
+la Delphi Deutschland GmbH (in prosieguo: la «Delphi Deutschland»), ricorrente
+nella causa principale, e lo Hauptzollamt Dusseldorf (Ufficio doganale
+principale di Dusseldorf), convenuto nella causa principale, in merito alla
+classificazione doganale dei connettori elettrici.
+
+  **Contesto normativo**
+
+3        La seconda parte della NC, nella sua versione derivante dal
+regolamento n. 1810/2004, contiene la sezione XVI, rubricata «Macchine ed
+apparecchi, materiale elettrico e loro parti; apparecchi di registrazione o di
+riproduzione del suono, apparecchi di registrazione o di riproduzione delle
+immagini e del suono in televisione, parti ed accessori di questi apparecchi».
+
+4        La suddetta sezione XVI contiene il capitolo 85, rubricato «Macchine,
+apparecchi e materiale elettrico e loro parti; apparecchi per la registrazione
+o la riproduzione del suono, apparecchi per la registrazione o la riproduzione
+delle immagini e del suono per la televisione, e parti ed accessori di questi
+apparecchi». Tale capitolo comprende in particolare la voce e le sottovoci
+seguenti:
+
+«8536
+
+|
+
+«Apparecchi per l'interruzione, il sezionamento, la protezione, la
+diramazione, l'allacciamento o il collegamento dei circuiti elettrici (per
+esempio interruttori, commutatori, rele, interruttori di sicurezza, limitatori
+di sovracorrente, spine e prese di corrente, portalampade, cassette di
+giunzione) per una tensione inferiore o uguale a 1 000 V:
+
+|  
+---|---|---  
+  
+(…)
+
+|   |  
+  |
+
+-
+
+|
+
+Portalampade, spine e prese di corrente:
+
+|  
+  
+8536 61
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Portalampade:
+
+|  
+  
+(…)
+
+|   |  
+  
+8536 69
+
+|
+
+-
+
+|
+
+-
+
+|
+
+altre:
+
+|  
+  
+8536 69 10
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+per cavi coassiali  
+  
+8536 69 30
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+per circuiti stampati  
+  
+8536 69 90
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+altre».  
+  
+5        Tale capitolo include anche le seguenti sottovoci:
+
+«8536 90
+
+|
+
+-
+
+|
+
+altri apparecchi:
+
+|  
+---|---|---|---  
+  
+(…)
+
+|   |  
+  
+8536 90 10
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Connessioni ed elementi di contatto per fili e cavi».  
+  
+6        Le sottovoci menzionate ai punti 4 e 5 della presente sentenza sono
+le stesse della versione della NC risultante dai regolamenti nn. 1719/2005 e
+1549/2006 nonche dal regolamento (CE) della Commissione 20 settembre 2007, n.
+1214 (GU L 286, pag. 1).
+
+7        In conformita dell'art. 9, n. 1, lett. a), secondo trattino, del
+regolamento n. 2658/87, la Commissione redige le note esplicative relative
+alla NC, che pubblica regolarmente nella _Gazzetta ufficiale dell 'Unione
+europea. _Quelle pubblicate il 28 febbraio 2006 (GU C 256, pag. 1), le quali
+fanno riferimento alle voci e alle sottovoci della NC dell'anno 2005, riprese
+nel regolamento n. 1810/2004, non contengono alcuna nota esplicativa per
+quanto riguarda la sottovoce 8536 69\.
+
+8        Per contro, le note esplicative pubblicate il 30 maggio 2008 (GU C
+133, pag. 1), le quali fanno riferimento alle voci e alle sottovoci della NC
+dell'anno 2008, riprese nel regolamento n. 1214/2007, precisano, a titolo
+delle sottovoci da 8536 69 10 a 8536 69 90:
+
+«Queste sottovoci comprendono spinotti per antenna elettro-meccanici, maschio
+e femmina, che consentono di effettuare connessioni elettriche multiple -- per
+esempio tra dispositivi, cavi e board -- semplicemente inserendo il maschio
+nella femmina senza alcun bisogno di operazioni di assemblaggio.
+
+I connettori possono avere un cavo antenna maschio o femmina su entrambi i
+lati, oppure uno dei due su un lato e sull'altro un diverso tipo di contatto
+(per esempio un contatto aggraffato o un morsetto, saldato o a vite).
+
+Nelle stesse sottovoci rientrano anche coppie di connettori consistenti in uno
+spinotto per antenna (maschio e femmina) e una presa di corrente (due pezzi
+distinti). Questi connettori (maschio e femmina) presentano un altro tipo di
+contatto all'altra estremita.
+
+Non rientrano in queste sottovoci elementi di connessione o contatti con i
+quali sia possibile stabilire una connessione elettrica servendosi di altri
+dispositivi (per es. un contatto aggraffato o un morsetto, saldato o a vite),
+compresi invece nella sottovoce 8536 90».
+
+  **Causa principale e questione pregiudiziale**
+
+9        Emerge dalla decisione di rinvio che la Delphi Deutschland,
+un'impresa attiva nell'industria della componentistica per autoveicoli,
+importava connettori elettrici definiti «terminals» e distinti in «female
+terminals» (terminali femmina) e «male terminals» (terminali maschio). I
+prodotti, realizzati in metallo prestampato (rame, ottone, lamiera d'acciaio),
+non avevano isolamento e, in parte per esigenze di trasporto, erano collocati
+su nastri metallici dai quali dovevano essere ritagliati per essere
+utilizzati.
+
+10      Ai connettori vengono successivamente aggraffati (mediante crimpatura)
+i cavi necessari. Per far cio, il cavo viene fissato al connettore in
+questione comprimendo le alette metalliche sporgenti posizionate all'estremita
+di tale connettore ed esercitando un'ulteriore pressione sul cavo. In seguito
+i «female terminals» e i «male terminals» vengono montati individualmente su
+due contenitori di plastica tra loro complementari («female connector» e «male
+connector»). A tal fine, il fissaggio dei connettori ai contenitori di
+plastica avviene mediante uno specifico elemento in plastica. Nella maggior
+parte dei citati contenitori anche i cavi vengono fissati mediante un
+ulteriore elemento specifico in materiale plastico. Inoltre ai cavi e ai
+contenitori puo essere applicata un'ulteriore guarnizione. I cavi da
+connettere fissati ai contenitori sopra descritti, compatibili l'uno con
+l'altro, possono essere uniti in maniera rapida e sicura e poi disgiunti.
+
+11      La connessione elettrica di due cavi, a cui sono crimpati
+rispettivamente «female terminals» e «male terminals» compatibili, puo a sua
+volta, attraverso tali connettori, essere generata in modo veloce e sicuro ed
+essere poi interrotta. Infatti, i «female terminals» sono configurati in modo
+tale da inglobare completamente i «male terminals» fino alla parte destinata
+alla crimpatura del cavo utilizzato, cosi da garantire una connessione
+elettrica sicura. Tuttavia, di norma, il collegamento elettrico cosi generato
+e di fatto fruibile soltanto laddove i due elementi di connessione siano
+isolati.
+
+12      Il 7 dicembre 2007 la Delphi Deutschland dichiarava all'ufficio
+doganale aeroportuale, che dipende dallo Hauptzollamt Dusseldorf, gli elementi
+di connessione e contatti, includendoli nella sottovoce 8536 90 10 della NC,
+per poterli immettere in libera pratica, senza percezione di dazi doganali.
+
+13      I prodotti di cui trattasi erano connettori maschio costituiti da
+spinotti di metallo tra loro paralleli dorati ad un'estremita. Gli spinotti di
+metallo servivano a generare connessioni elettriche con tensione inferiore ai
+1000 V e non erano adatti ai cavi coassiali, ai circuiti stampati o agli
+aeromobili.
+
+14      Sulla base delle analisi effettuate, lo Hauptzollamt Dusseldorf ha
+considerato che i prodotti in parola dovessero essere classificati nella
+sottovoce 8536 69 90 della NC. A questo titolo, esso imponeva, con decisioni
+del 2 e 20 maggio nonche del 1° e 30 agosto 2008, il pagamento di dazi
+doganali per un importo totale di EUR 112 823,62.
+
+15      La Delphi Deutschland presentava avverso tali decisioni un reclamo,
+che lo Hauptzollamt Dusseldorf rigettava, considerandolo infondato, con
+decisione del 28 maggio 2009.
+
+16      Investito della controversia tra la Delphi Deutschland e lo
+Hauptzollamt Dusseldorf, il Finanzgericht Dusseldorf si interroga se la
+sottovoce 8536 69 della NC includa anche i connettori oggetto della causa
+principale.
+
+17      Da un lato, secondo il giudice del rinvio, alla luce del solo testo in
+lingua tedesca della sottovoce 8536 69 della NC e del sottotitolo in cui
+rientra tale sottovoce, vale a dire «Portalampade, spine e prese di corrente»,
+dal momento che in tale sottotitolo e usato il termine «Steckvorrichtungen»
+(spine e prese di corrente), la classificazione nella sottovoce 8536 69 90 e
+corretta in quanto la connessione elettrica tra due cavi puo essere generata
+dall'introduzione di connettore in un altro con esso compatibile.
+
+18      Dall'altro lato, il giudice del rinvio constata che le versioni
+inglese e francese di tale testo utilizzano, per quanto riguarda la sottovoce
+8536 90 della NC, rispettivamente i termini «plugs and sockets» e «fiches et
+prises de courant», che riguardano piuttosto spine maschio e prese femmine.
+
+19      Orbene, le citate prese, di norma, devono garantire anche l'isolamento
+della linea nel punto di collegamento, cosa che i connettori di cui trattasi
+non garantiscono. Detti connettori, inoltre, sebbene in grado di generare una
+sola connessione elettrica a spina, sono meri componenti delle spine e delle
+prese prodotte in una fase successiva dalla ricorrente nella causa principale.
+
+20      Ritenendo che la soluzione della controversia che e chiamato a
+risolvere richieda l'interpretazione della sottovoce 8536 69 della NC, il
+Finanzgericht Dusseldorf ha deciso di sospendere il giudizio e di sottoporre
+alla Corte la seguente questione pregiudiziale:
+
+«Se i connettori elettrici descritti in modo piu dettagliato nella [decisione
+di rinvio] rientrino nella sottovoce 8536 69 della [NC]».
+
+  **Sulla questione pregiudiziale**
+
+21      Occorre preliminarmente sottolineare che, quando la Corte e adita con
+rinvio pregiudiziale in materia di classificazione doganale, la sua funzione
+consiste nel chiarire al giudice nazionale i criteri la cui attuazione gli
+permettera di classificare correttamente nella NC i prodotti di cui trattasi,
+piuttosto che nel procedere essa stessa a tale classificazione, tanto piu che
+quest'ultima non dispone necessariamente di tutti gli elementi indispensabili
+a tale riguardo. In effetti, il giudice nazionale appare comunque
+avvantaggiato a far questo (sentenza 28 ottobre 2010, causa C‑423/09, X, Racc.
+pag. I‑10821, punto 14 e giurisprudenza ivi citata).
+
+22      Orbene, alla luce dei chiarimenti contenuti nella decisione di rinvio,
+come citati, in particolare, al punto 19 della presente sentenza, si deve
+considerare che il giudice del rinvio chiede, sostanzialmente, se la sottovoce
+8536 69 della NC debba essere interpretata nel senso che connettori elettrici
+come quelli oggetto della causa principale sono esclusi dalla citata sottovoce
+in quanto non garantiscono l'isolamento della linea nel punto di collegamento
+o costituiscono meri componenti delle spine e delle prese prodotte in una fase
+successiva.
+
+23      Secondo costante giurisprudenza, per garantire la certezza del diritto
+e facilitare i controlli, il criterio decisivo per la classificazione
+tariffaria delle merci va ricercato, in linea di principio, nelle loro
+caratteristiche e proprieta oggettive, quali definite nel testo della voce
+della NC e delle note delle sezioni o dei capitoli (v., segnatamente, sentenza
+X, cit., punto 15 e giurisprudenza ivi citata).
+
+24      Le note esplicative elaborate, per quanto riguarda la NC, dalla
+Commissione europea e, per quanto riguarda il sistema armonizzato di
+designazione e codificazione delle merci, dall'Organizzazione mondiale delle
+dogane forniscono un rilevante contributo all'interpretazione della portata
+delle varie voci doganali, senza pero essere giuridicamente vincolanti
+(sentenza X, cit., punto 16 e giurisprudenza ivi citata).
+
+25      Si deve rilevare che la sottovoce 8536 69 della NC reca il titolo
+«altre». Tuttavia, come emerge dal testo delle sottovoci 8536 61 e 8536 69
+della NC nonche dal sottotitolo precedente tali due sottovoci, la sottovoce
+8536 69 della NC si riferisce, in realta, ai prodotti definiti in lingua
+tedesca «Steckvorrichtungen» (spine e prese di corrente), in lingua inglese
+«plugs and sockets» e in lingua francese «fiches et prises de courant».
+
+26      In merito all'interpretazione della portata della sottovoce 8536 69
+della NC, occorre tener conto, inoltre, delle note esplicative, anche se
+queste ultime fanno riferimento alle sottovoci da 8536 69 10 a 8536 69 90
+della NC, nella sua versione risultante dal regolamento n. 1214/2007. In
+effetti, poiche i testi delle citate sottovoci sono identici a quelli delle
+stesse sottovoci della NC, nella sua versione risultante dai regolamenti nn.
+1810/2004, 1719/2005 e 1549/2006, non occorre, in linea di principio,
+attribuire a queste ultime un senso diverso da quello che si deve attribuire,
+tenendo conto delle note esplicative, alle prime.
+
+27      Emerge dalle note esplicative relative alle sottovoci da 8536 69 10 a
+8536 69 90 della NC e, in particolare, dal loro primo paragrafo che le citate
+sottovoci devono essere interpretate nel senso che esse comprendono gli
+spinotti per antenna elettro-meccanici, maschio e femmina, che consentono di
+effettuare connessioni elettriche multiple - per esempio tra dispositivi, cavi
+e board - semplicemente inserendo il maschio nella femmina senza alcun bisogno
+di operazioni di assemblaggio.
+
+28      Ne consegue che le caratteristiche e le proprieta oggettive dei
+prodotti rientranti nella sottovoce 8536 69 della NC consistono, come
+suggerito dalla loro definizione e come lo confermano le note esplicative, nel
+fatto di consentire operazioni di connessione elettrica in un modo ben
+specifico, vale a dire semplicemente inserendo il maschio nella femmina senza
+alcun bisogno di operazioni di assemblaggio.
+
+29      Orbene, poiche vi sono prodotti che consentono di effettuare le citate
+operazioni in siffatto modo, occorre considerare che essi rientrano nella
+sottovoce 8536 69 della NC, senza che siano pertinenti, di per se, le
+circostanze che tali stessi prodotti non garantiscono l'isolamento della linea
+nel punto di collegamento o che essi costituiscono meri componenti delle spine
+e delle prese prodotte in una fase successiva. Infatti, poiche la citata
+sottovoce non comporta alcun riferimento a siffatte circostanze, si deve
+dedurre che esse non hanno alcuna incidenza ai fini della classificazione
+doganale di tali merci (v., per analogia, sentenze 25 maggio 1989, causa
+40/88, Weber, Racc. pag. 1395, punto 16, e X, cit., punto 34).
+
+30      Si deve dunque risolvere la questione sottoposta dichiarando che la
+sottovoce 8536 69 della NC, come modificata per gli anni 2005, 2006 e 2007,
+rispettivamente, dai regolamenti (CE) della Commissione nn. 1810/2004,
+1719/2005 e 1549/2006, deve essere interpretata nel senso che connettori
+elettrici come quelli oggetto della causa principale non sono esclusi dalla
+citata sottovoce per il fatto che non garantiscono l'isolamento della linea
+nel punto del collegamento o che sono meri componenti delle spine e delle
+prese prodotte in una fase successiva, in quanto essi consentono connessioni
+elettriche multiple - per esempio tra dispositivi, cavi e board - mediante il
+semplice inserimento del maschio nella femmina senza alcun bisogno di
+operazioni di assemblaggio.
+
+  **Sulle spese**
+
+31      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Ottava Sezione) dichiara:
+
+**La sottovoce 8536 69 della nomenclatura combinata figurante all 'allegato I
+del regolamento (CEE) del Consiglio 23 luglio 1987, n. 2658, relativo alla
+nomenclatura tariffaria e statistica ed alla tariffa doganale comune, come
+modificata per gli anni 2005, 2006 e 2007, rispettivamente, dai regolamenti
+(CE) della Commissione 7 settembre 2004, n. 1810, 27 ottobre 2005, n. 1719, e
+17 ottobre 2006, n. 1549, deve essere interpretata nel senso che connettori
+elettrici come quelli oggetto della causa principale non sono esclusi dalla
+citata sottovoce per il fatto che non garantiscono l'isolamento della linea
+nel punto di collegamento o che sono meri componenti delle spine e delle prese
+prodotte in una fase successiva, in quanto essi consentono connessioni
+elettriche multiple - per esempio tra dispositivi, cavi e board - mediante il
+semplice inserimento del maschio nella femmina senza alcun bisogno di
+operazioni di assemblaggio.**
+
+Firme
+
+* * *
+
+* Lingua processuale: il tedesco. 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

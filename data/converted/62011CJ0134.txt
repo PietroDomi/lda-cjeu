@@ -1,0 +1,559 @@
+
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+16 febbraio 2012 ( *1 )
+
+«Direttiva 90/314/CEE — Viaggi, vacanze e circuiti “tutto compreso” — Articolo
+7 — Protezione contro il rischio di insolvenza o di fallimento
+dell’organizzatore del viaggio “tutto compreso” — Ambito di applicazione —
+Insolvenza dell’organizzatore dovuta ad un utilizzo fraudolento dei fondi
+depositati dal consumatore»
+
+Nella causa C-134/11,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Landgericht Hamburg (Germania), con
+decisione del 2 marzo 2011, pervenuta in cancelleria il 18 marzo 2011, nel
+procedimento
+
+Jürgen Blödel-Pawlik
+
+contro
+
+HanseMerkur Reiseversicherung AG,
+
+LA CORTE (Quinta Sezione),
+
+composta dal sig. M. Safjan, presidente di sezione, dai sigg. A. Borg Barthet
+(relatore) e J.-J. Kasel, giudici,
+
+avvocato generale: sig. P. Mengozzi
+
+cancelliere: sig. A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per Jürgen Blödel-Pawlik, da M. Sauren, Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per la HanseMerkur Reiseversicherung AG, da G. Heinemann, Rechtsanwalt;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo tedesco, da T. Henze e J. Kemper, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo belga, da T. Materne e J.-C. Halleux, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ceco, da M. Smolek e J. Vláčil, in qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo estone, da M. Linntam, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo greco, da K. Paraskevopoulou e I. Bakopoulos, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo spagnolo, da S. Centeno Huerta, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo italiano, da G. Palmieri, in qualità di agente, assistita da L.
+Ventrella, avvocato dello Stato;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ungherese, da M.Z. Fehér Miklós, K. Szíjjártó e Z. Tóth, in
+qualità di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo austriaco, da A. Posch, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo polacco, da M. Szpunar, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da M. Owsiany-Hornung e S. Grünheid, in qualità di
+agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+7 della direttiva 90/314/CEE del Consiglio, del 13 giugno 1990, concernente i
+viaggi, le vacanze ed i circuiti «tutto compreso» (GU L 158, pag. 59).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra il sig.
+Blödel-Pawlik e la HanseMerkur Reiseversicherung AG (in prosieguo: la
+«HanseMerkur Reiseversicherung») in merito al negato rimborso, da parte di
+quest’ultima, del prezzo relativo ad un viaggio «tutto compreso» pagato dal
+consumatore, ma al quale l’organizzatore del viaggio non ha dato esecuzione.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+Ai sensi rispettivamente del settimo, del diciottesimo, del ventunesimo e del
+ventiduesimo «considerando» della direttiva 90/314:
+
+«considerando che il turismo svolge un ruolo sempre più importante
+nell’economia degli Stati membri; che i servizi tutto compreso rappresentano
+una parte essenziale dell’attività turistica; che l’industria dei servizi
+tutto compreso negli Stati membri riceverebbe un notevole impulso
+all’espansione ed all’aumento della produttività dall’adozione di un minimo di
+norme comuni intese a conferirle una dimensione comunitaria; (…)
+
+(...)
+
+considerando che l’organizzatore e/o il venditore parti del contratto devono
+essere responsabili nei confronti del consumatore dell’adempimento degli
+obblighi contrattuali; che inoltre l’organizzatore e il venditore devono
+essere responsabili dei danni risultanti per il consumatore dall’inadempimento
+o dalla cattiva esecuzione del contratto, a meno che le mancanze constatate
+nell’adempimento del contratto non siano imputabili né a colpa loro né a colpa
+di un altro prestatore di servizi;
+
+(...)
+
+considerando che sarebbe opportuno, sia per il consumatore che per gli
+operatori di servizi tutto compreso[,] che l’organizzatore o il venditore
+siano tenuti a dare prove sufficienti di disporre di garanzie in caso di
+insolvenza o di fallimento;
+
+considerando che gli Stati membri devono avere la facoltà di adottare o di
+mantenere in vigore disposizioni più severe in materia di viaggi “tutto
+compreso” al fine di tutelare il consumatore».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 1 della medesima direttiva prevede quanto segue:
+
+«La presente direttiva ha lo scopo di ravvicinare le disposizioni legislative,
+regolamentari ed amministrative degli Stati membri concernenti i viaggi, le
+vacanze e i giri turistici “tutto compreso” venduti o offerti in vendita nel
+territorio della Comunità».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 4, paragrafo 6, primo comma, della suddetta direttiva così dispone:
+
+«Allorché il consumatore recede dal contratto conformemente al paragrafo 5
+oppure se, per qualsiasi motivo, tranne la colpa del consumatore,
+l’organizzazione annulla il servizio tutto compreso prima della partenza, il
+consumatore ha diritto:
+
+|
+
+a)
+
+|
+
+ad usufruire di un altro servizio tutto compreso di qualità equivalente o
+superiore qualora l’organizzatore e/o il venditore possa proporglielo. Se il
+servizio tutto compreso è di qualità inferiore, l’organizzatore deve
+rimborsare al consumatore la differenza di prezzo;  
+  
+---|---  
+  
+b)
+
+|
+
+oppure ad essere rimborsato quanto prima della totalità dell’importo da lui
+pagato in applicazione del contratto».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 5, paragrafi 1 e 2, della direttiva 90/314 è così formulato:
+
+«1. Gli Stati membri prendono le misure necessarie per garantire che
+l’organizzatore e/o il venditore parte del contratto siano responsabili nei
+confronti del consumatore della buona esecuzione degli obblighi risultanti dal
+contratto, sia che tali obblighi debbano essere eseguiti da lui stesso sia che
+debbano essere eseguiti da altri prestatori di servizi, fatto salvo il diritto
+dell’organizzatore e/o del venditore di rivalersi presso questi altri
+prestatori di servizi.
+
+2\. Per quanto riguarda i danni arrecati al consumatore dall’inadempimento o
+dalla cattiva esecuzione del contratto, gli Stati membri prendono le misure
+necessarie affinché l’organizzatore e/o il venditore siano considerati
+responsabili, a meno che l’inadempimento o la cattiva esecuzione non siano
+imputabili né a colpa loro né a colpa di un altro prestatore di servizi
+(...)».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 7 di tale direttiva così dispone:
+
+«L’organizzatore e/o il venditore parte del contratto danno prove sufficienti
+di disporre di garanzie per assicurare, in caso di insolvenza o di fallimento,
+il rimborso dei fondi depositati e il rimpatrio del consumatore».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 8 della stessa direttiva enuncia quanto segue:
+
+«Nel settore disciplinato dalla presente direttiva gli Stati membri possono
+adottare o mantenere in vigore disposizioni più rigorose ai fini della
+protezione del consumatore».  
+  
+---|---  
+  
+La normativa tedesca
+
+9
+
+|
+
+Ai sensi dell’articolo 651 k, paragrafo 1, punto 1, del codice civile
+(Bürgerliches Gesetzbuch), che ha recepito nel diritto tedesco l’articolo 7
+della direttiva 90/314:
+
+«L’organizzatore deve garantire che al viaggiatore vengano rifusi
+
+1\. il prezzo pagato per il viaggio, se le prestazioni di viaggio non vengono
+fornite a causa dell’insolvibilità o dell’apertura della procedura
+d’insolvenza sul patrimonio dell’organizzatore (…)».  
+  
+---|---  
+  
+Causa principale e questione pregiudiziale
+
+10
+
+|
+
+Il 4 agosto 2009 il sig. Blödel-Pawlik prenotava, per sé e per sua moglie, un
+viaggio «tutto compreso» presso la Rhein Reisen GmbH (in prosieguo: la «Rhein
+Reisen»), che aveva stipulato, in quanto organizzatore del viaggio,
+un’assicurazione contro la sua insolvenza presso la HanseMerkur
+Reiseversicherung avente effetto dal 1o agosto 2009.  
+  
+---|---  
+  
+11
+
+|
+
+La Rhein Reisen presentava al sig. Blödel-Pawlik due buoni di garanzia nei
+quali era previsto che il prezzo del viaggio gli sarebbe stato rimborsato in
+caso di mancata fornitura delle prestazioni di viaggio dovuta ad insolvenza
+dell’organizzatore del viaggio.  
+  
+---|---  
+  
+12
+
+|
+
+Prima che il viaggio iniziasse, la Rhein Reisen informava il sig. Blödel-
+Pawlik di essere costretta a dichiarare la propria insolvenza.  
+  
+---|---  
+  
+13
+
+|
+
+Dagli atti di causa risulta che la Rhein Reisen, rappresentata da un
+amministratore unico, non aveva in realtà alcuna intenzione di dare esecuzione
+al viaggio in questione. Infatti, sia la cronologia degli eventi sia l’elenco
+dei movimenti del conto bancario di detto organizzatore farebbero emergere una
+condotta fraudolenta del medesimo.  
+  
+---|---  
+  
+14
+
+|
+
+Il sig. Blödel-Pawlik, pertanto, domandava alla HanseMerkur Reiseversicherung
+il rimborso del prezzo del viaggio che aveva versato.  
+  
+---|---  
+  
+15
+
+|
+
+Quest’ultima, tuttavia, afferma di non essere tenuta ad effettuare un simile
+rimborso, dato che l’ipotesi di annullamento del viaggio imputabile
+esclusivamente alla condotta fraudolenta dell’organizzatore dello stesso non è
+contemplata dall’articolo 7 della direttiva 90/314.  
+  
+---|---  
+  
+16
+
+|
+
+Anche il giudice del rinvio dubita che la direttiva 90/314 sia volta a
+tutelare i consumatori dalle operazioni fraudolente degli organizzatori di
+viaggi.  
+  
+---|---  
+  
+17
+
+|
+
+Il Landgericht Hamburg, ritenendo che la soluzione della controversia dinanzi
+ad esso pendente dipenda dall’interpretazione della direttiva 90/314, decideva
+di sospendere il procedimento e di sottoporre alla Corte la seguente questione
+pregiudiziale:
+
+«Se l’articolo 7 della [direttiva 90/314] sia applicabile anche nel caso in
+cui l’organizzatore risulti insolvente perché fin dall’inizio ha utilizzato,
+in maniera fraudolenta, per altri scopi, tutto il denaro versato dai
+viaggiatori, senza avere mai pianificato l’effettuazione del viaggio».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+18
+
+|
+
+Con la sua questione, il giudice del rinvio chiede, in sostanza, se l’articolo
+7 della direttiva 90/314 debba essere interpretato nel senso che rientra nel
+suo campo di applicazione una situazione nella quale l’insolvenza
+dell’organizzatore del viaggio è dovuta alla condotta fraudolenta del
+medesimo.  
+  
+---|---  
+  
+19
+
+|
+
+A tale riguardo, si deve ricordare, in via preliminare, che l’articolo 7 della
+direttiva 90/314 pone in capo all’organizzatore del viaggio l’obbligo di
+disporre di garanzie idonee ad assicurare, in caso di insolvenza o di
+fallimento, il rimborso dei fondi depositati e il rimpatrio del consumatore;
+lo scopo di tali garanzie è quello di proteggere i consumatori contro i rischi
+economici derivanti dall’insolvenza o dal fallimento dell’organizzatore del
+viaggio (v. sentenza dell’8 ottobre 1996, Dillenkofer e a., C-178/94, C-179/94
+e da C-188/94 a C-190/94, Racc. pag. I-4845, punti 34 e 35).  
+  
+---|---  
+  
+20
+
+|
+
+L’obiettivo fondamentale di tale disposizione è, quindi, quello di garantire
+che, in caso di insolvenza o di fallimento del suddetto organizzatore, siano
+assicurati il rimpatrio del consumatore e il rimborso dei fondi da questo
+depositati (v., in tal senso, sentenza Dillenkofer e a., cit., punti 35 e 36).  
+  
+---|---  
+  
+21
+
+|
+
+Orbene, è necessario rilevare che il tenore letterale dell’articolo 7 della
+direttiva 90/314 non prevede, per la suddetta garanzia, alcuna condizione
+specifica relativa alle cause di insolvenza dell’organizzatore del viaggio.  
+  
+---|---  
+  
+22
+
+|
+
+A tale riguardo, la Corte ha dichiarato, al punto 74 della sentenza del 15
+giugno 1999, Rechberger e a. (C-140/97, Racc. pag. I-3499), che l’articolo 7
+della direttiva in esame contiene l’obbligo di risultato di conferire a coloro
+che partecipano a viaggi «tutto compreso» un diritto alle garanzie di rimborso
+delle somme versate e di rimpatrio in caso di fallimento dell’organizzatore di
+viaggi e che tali garanzie sono volte, per l’appunto, a tutelare il
+consumatore contro le conseguenze del fallimento, indipendentemente dalle
+cause del medesimo.  
+  
+---|---  
+  
+23
+
+|
+
+La Corte ne ha dedotto che circostanze quali il comportamento imprudente
+dell’organizzatore di viaggi o il verificarsi di eventi eccezionali o
+imprevedibili non possono costituire un ostacolo al rimborso dei fondi
+depositati e al rimpatrio dei consumatori ai sensi dell’articolo 7 della
+direttiva 90/314 (v. sentenza Rechberger e a., cit., punti 75 e 76).  
+  
+---|---  
+  
+24
+
+|
+
+Inoltre, una simile interpretazione dell’articolo 7 della direttiva 90/314 è
+corroborata dall’obiettivo che questa deve perseguire, che è quello di
+garantire un elevato livello di protezione dei consumatori (v. sentenza
+Dillenkofer e a., cit., punto 39).  
+  
+---|---  
+  
+25
+
+|
+
+Alla luce delle suesposte considerazioni, occorre rispondere alla questione
+sottoposta che l’articolo 7 della direttiva 90/314 deve essere interpretato
+nel senso che rientra nel suo campo di applicazione una situazione nella quale
+l’insolvenza dell’organizzatore del viaggio è dovuta alla condotta fraudolenta
+del medesimo.  
+  
+---|---  
+  
+Sulle spese
+
+26
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:  
+  
+---|---  
+|
+
+L’articolo 7 della direttiva 90/314/CEE del Consiglio, del 13 giugno 1990,
+concernente i viaggi, le vacanze ed i circuiti «tutto compreso», deve essere
+interpretato nel senso che rientra nel suo campo di applicazione una
+situazione nella quale l’insolvenza dell’organizzatore del viaggio è dovuta
+alla condotta fraudolenta del medesimo.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il tedesco.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

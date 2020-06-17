@@ -786,3 +786,7 @@ Firme
 
 ( * ) Lingua processuale: il rumeno.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

@@ -994,3 +994,7 @@ Firme
 
 ( * ) Lingua processuale: il francese.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

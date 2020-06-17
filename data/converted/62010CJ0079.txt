@@ -1,0 +1,587 @@
+
+
+**Causa C ‑79/10**
+
+**Systeme Helmholz GmbH**
+
+**contro**
+
+**Hauptzollamt N urnberg**
+
+(domanda di pronuncia pregiudiziale proposta dal Bundesfinanzhof)
+
+«Direttiva 2003/96/CE -- Tassazione dei prodotti energetici e dell'elettricita
+-- Art. 14, n. 1, lett. b) -- Esenzione dei prodotti energetici utilizzati
+come carburante o combustibile per la navigazione aerea -- Utilizzazione di un
+aeromobile a fini diversi da quelli commerciali -- Portata»
+
+Massime della sentenza
+
+1.         _Disposizioni tributarie -- Armonizzazione delle legislazioni -- Tassazione dei prodotti energetici e dell'elettricita -- Esenzione dei prodotti energetici forniti per essere utilizzati come carburante o combustibile per la navigazione aerea, ad esclusione dell'aviazione privata da diporto -- Portata_
+
+_[Direttiva del Consiglio 2003/96, art.  14, n. 1, lett. b)]_
+
+2.         _Disposizioni tributarie -- Armonizzazione delle legislazioni -- Tassazione dei prodotti energetici e dell'elettricita -- Esenzione dei carburanti utilizzati nel settore della fabbricazione, dello sviluppo, del controllo e della manutenzione di aeromobili -- Portata_
+
+_[Direttiva del Consiglio 2003/96, art.  15, n. 1, lett. j)]_
+
+1.        L'art. 14, n. 1, lett. b), della direttiva 2003/96, che ristruttura il quadro comunitario per la tassazione dei prodotti energetici e dell'elettricita, dev'essere interpretato nel senso che dell'esenzione dall'accisa sul carburante utilizzato per la navigazione aerea prevista da tale disposizione non puo beneficiare un'impresa che, al fine di sviluppare la propria attivita, utilizzi un aeromobile ad essa appartenente per provvedere agli spostamenti del proprio personale presso clienti o luoghi di svolgimento di fiere commerciali, laddove tali spostamenti non sono direttamente funzionali alla prestazione di servizi aerei a titolo oneroso da parte dell'impresa medesima. 
+
+(v. punto 33, dispositivo 1)
+
+2.        L'art. 15, n. 1, lett. j), della direttiva 2003/96, che ristruttura il quadro comunitario per la tassazione dei prodotti energetici e dell'elettricita, dev'essere interpretato nel senso che i carburanti utilizzati per l'effettuazione di voli andata e ritorno verso un'officina di manutenzione aeronautica non ricadono nella sfera di applicazione di tale disposizione. 
+
+(v. punto 39, dispositivo 2)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+1° dicembre 2011 (*)
+
+«Direttiva 2003/96/CE - Tassazione dei prodotti energetici e dell'elettricita
+- Art. 14, n. 1, lett. b) - Esenzione dei prodotti energetici utilizzati quali
+carburanti o combustibili per la navigazione aerea - Utilizzazione di un
+aeromobile a fini diversi da quelli commerciali - Portata»
+
+Nel procedimento C‑79/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Bundesfinanzhof (Germania), con decisione 1°
+dicembre 2009, pervenuta in cancelleria l'11 febbraio 2010, nella causa
+
+**Systeme Helmholz GmbH**
+
+contro
+
+**Hauptzollamt N urnberg**,
+
+LA CORTE (Quarta Sezione),
+
+composta dal sig. J.-C. Bonichot, presidente di sezione, dalla sig.ra A.
+Prechal (relatore), dal sig. L. Bay Larsen, dalla sig.ra C. Toader e dal sig.
+E. Jarašiūnas, giudici,
+
+avvocato generale: sig.ra E. Sharpston
+
+cancelliere: sig.ra K. Sztranc-Sławiczek, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza del 5 maggio
+2011,
+
+considerate le osservazioni presentate:
+
+-        per la Systeme Helmholz GmbH, dal sig. G. Real, revisore dei conti/consulente fiscale;
+
+-        per lo Hauptzollamt Nurnberg, dal sig. S. Junker, Regierungsdirektor, e dal sig. D. Jakobs, rappresentante in giudizio;
+
+-        per il governo francese, dai sigg. G. de Bergues, B. Cabonat e dalla sig.ra B. Beaupere-Manokha, in qualita di agenti;
+
+-        per il governo cipriota, dalla sig.ra E. Symeonidou, in qualita di agente;
+
+-        per la Commissione europea, dal sig. W. Molls, in qualita di agente,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+degli artt.11, n. 3, 14, n. 1, lett. b) e 15, n. 1, lett. j), della direttiva
+del Consiglio 27 ottobre 2003, 2003/96/CE, che ristruttura il quadro
+comunitario per la tassazione dei prodotti energetici e dell'elettricita (GU L
+283, pag. 51).
+
+2        Tale domanda e stata proposta nell'ambito di una controversia tra la
+Systeme Helmholz GmbH (in prosieguo: la «Systeme Helmholz») e lo Hauptzollamt
+Nurnberg (ufficio doganale di Norimberga; in prosieguo: lo «Hauptzollamt») in
+merito al diniego, da parte di quest'ultimo, di procedere al rimborso, a
+favore della Systeme Helmholz, dell'accisa sugli oli minerali gravante sul
+carburante destinato ad un aeromobile di detta societa, in base al rilievo che
+quest'ultima non e una societa di trasporto aereo.
+
+  **Contesto normativo**
+
+  _Normativa dell 'Unione_
+
+3        Il ventitreesimo 'considerando' della direttiva 2003/96 cosi recita:
+
+«Gli obblighi internazionali vigenti e il mantenimento della posizione
+competitiva delle imprese comunitarie rendono opportuno mantenere le esenzioni
+per i prodotti energetici destinati alla navigazione aerea e marittima,
+esclusa la navigazione da diporto, mentre dovrebbe essere possibile per gli
+Stati membri limitare tali esenzioni».
+
+4        L'art. 11, n. 3, della direttiva medesima cosi dispone:
+
+«Nel caso di utilizzazioni miste la tassazione si applica in proporzione a
+ciascun tipo di utilizzazione; qualora una delle due utilizzazioni sia
+insignificante, puo essere trattata come nulla».
+
+5        A termini del successivo art. 14, n. 1, lett. b):
+
+«In aggiunta alle disposizioni generali di cui alla direttiva 92/12/CEE,
+relative alle esenzioni di cui godono i prodotti tassabili quando sono
+destinati a determinati usi, e fatte salve le altre disposizioni comunitarie,
+gli Stati membri esentano dalla tassazione i prodotti elencati in appresso,
+alle condizioni da essi stabilite al fine di garantire un'agevole e corretta
+applicazione delle esenzioni stesse e di evitare frodi, evasioni o abusi:
+
+(...)
+
+b)      i prodotti energetici forniti per essere utilizzati come carburante
+per la navigazione aerea, ad esclusione dell'aviazione privata da diporto.
+
+Ai fini della presente direttiva, per "aviazione privata da diporto" si
+intende l'uso di un aeromobile da parte del suo proprietario o della persona
+fisica o giuridica autorizzata ad utilizzarlo in virtu di un contratto di
+locazione o di qualsiasi altro titolo, per scopi non commerciali ed in
+particolare per scopi diversi dal trasporto di passeggeri o merci o dalla
+prestazione di servizi a titolo oneroso o per conto di autorita pubbliche.
+
+Gli Stati membri possono limitare l'ambito di questa esenzione alle forniture
+di carboturbo (codice NC 2710 19 21)».
+
+6        Ai sensi del successivo art. 15, n. 1, lett. j):
+
+«Fatte salve le altre disposizioni comunitarie, gli Stati membri possono
+applicare, sotto controllo fiscale, esenzioni o riduzioni totali o parziali
+del livello di tassazione:
+
+(...)
+
+j)       ai carburanti per motori utilizzati nel settore della fabbricazione,
+dello sviluppo, del controllo e della manutenzione di aeromobili e di navi».
+
+  _Normativa nazionale_
+
+7        Le disposizioni pertinenti sono quelle della legge in materia di
+accisa sugli oli minerali (Mineralolsteuergesetz) 21 dicembre 1992 (BGBl. 1992
+I, pag. 2185), nel testo vigente nel 2004, anno in cui e sorta la controversia
+(in prosieguo: il «MinolStG»), nonche quelle contenute nel regolamento di
+attuazione dell'accisa sugli oli minerali (Mineralolsteuer-
+Durchfuhrungsverordnung) 15 settembre 1993 (BGBl. 1993 I, pag. 1602), nel
+testo vigente nel 2004.
+
+8        L'art. 4 del MinolStG, segnatamente, cosi disponeva:
+
+«Esenzioni fiscali, definizioni
+
+1)       Salve restando le disposizioni dell'art. 12, gli oli minerali possono
+essere utilizzati in regime di esenzione da imposta
+
+(…)
+
+3\.       come carburante per la navigazione aerea
+
+a) dalle compagnie aeree che effettuano a titolo commerciale il trasporto di
+persone e beni o la fornitura a titolo oneroso di servizi,
+
+b) negli aeromobili di pubbliche autorita e militari per ragioni di servizio
+nonche dei servizi di soccorso aereo per scopi di salvataggio.
+
+Carburanti per la navigazione aerea ai sensi di questa legge sono la benzina
+avio codice NC 2710 0026, con RON (research octan number) non inferiore a 100,
+carboturbo leggero codice NC 2710 0037 e carboturbo (carburante medio-pesante)
+codice NC 2710 0051 della nomenclatura combinata, qualora questi vengano
+utilizzati per aeromobili;
+
+(...)».
+
+9        Il successivo art. 12 cosi recitava:
+
+«Autorizzazione
+
+Chi intende
+
+1\.       utilizzare o cedere (distribuire) ad altri per fini fiscalmente
+agevolati
+
+2\.       introdurre come utilizzatore o distributore
+
+l'olio minerale fiscalmente agevolato ai sensi dell'art. 3, commi 1‑3, 5 e 7,
+dell'art. 4 o dell'art. 32, commi 1 e 2
+
+a)       in una zona al di fuori dell'area di applicazione delle accise della
+Comunita europea (paese terzo) o
+
+b)       per scopi commerciali o nella vendita a distanza in un altro Stato
+membro della Comunita europea (Stato membro),
+
+necessita dell'autorizzazione
+
+(…)».
+
+10      L'art. 50, n. 1, del regolamento di attuazione dell'accisa sugli oli
+minerali, nel testo vigente nel 2004, cosi disponeva:
+
+«Rimborso dell'accisa sui carburanti per la navigazione aerea:
+
+1)       ai vettori aerei e agli enti, ai sensi dell'art. 4, comma 1, n. 3,
+della legge, viene rimborsata o accreditata, su richiesta, l'imposta sui
+carburanti per la navigazione aerea, acquistati con pagamento dell'imposta nel
+territorio fiscale e utilizzato per voli esenti (…)».
+
+  **Controversia principale e questioni pregiudiziali**
+
+11      La Systeme Helmholz esercita attivita di sviluppo e di
+commercializzazione di componenti elettronici e di software. Essa e
+proprietaria di un aeromobile utilizzato dal suo amministratore sia per scopi
+privati sia per voli diretti verso altre imprese e fiere commerciali nonche
+per l'effettuazione di voli di addestramento e manutenzione. Essa non dispone
+di una licenza di esercizio ai sensi della legge tedesca sulla navigazione
+aerea (Luftverkehrsgesetz), obbligatoria in Germania per le imprese di
+trasporti aerei.
+
+12      La Systeme Helmholz teneva un libro di bordo mensile in cui effettuava
+annotazioni in ordine all'utilizzo dell'aeromobile con indicazione della data,
+del percorso, della durata e dello scopo dei singoli voli. In data 16 dicembre
+2005 chiedeva il rimborso dell'accisa sugli oli minerali per un quantitativo
+complessivo di 2 358 litri di benzina avio, corrispondente all'importo di EUR
+1 700,12 a titolo di voli effettuati ai fini aziendali nel 2004 in Germania,
+tra i quali figuravano parimenti i voli andata e ritorno verso un cantiere di
+manutenzione aeronautica, nonche voli di addestramento.
+
+13      Con decisione 9 febbraio 2006, lo Hauptzollamt respingeva la domanda
+di rimborso sulla base del rilievo che la Systeme Helmholz non era un'impresa
+di trasporti aerei.
+
+14      Poiche con decisione 12 aprile 2006 lo Hauptzollamt aveva dichiarato
+infondato il reclamo proposto avverso il diniego di rimborso dalla Systeme
+Helmholz, quest'ultima proponeva ricorso dinanzi al Finanzgericht Munchen, il
+quale dichiarava che, quanto ai voli effettuati a fini aziendali - ad
+esclusione dei voli di manutenzione e di addestramento -, la Systeme Helmholz
+aveva diritto al rimborso dell'accisa sugli oli minerali, in base all'art. 14,
+n. 1, lett. b), primo comma, della direttiva 2003/96. A parere del
+Finanzgericht Munchen, da tale disposizione non potrebbe dedursi una
+limitazione dell'esenzione di sgravio alle sole imprese di trasporti aerei.
+L'utilizzazione di un aeromobile nell'ambito del trasporto in conto proprio
+dell'azienda, ai fini dello sviluppo di affari, perseguirebbe uno scopo
+commerciale, ragion per cui sussisterebbero i requisiti previsti dal diritto
+comunitario per poter beneficiare dell'esenzione.
+
+15      Per contro, quanto ai voli connessi alla manutenzione e ai controlli
+dell'efficienza dell'apparecchio nonche all'addestramento, il Finanzgericht
+Munchen riteneva che questi non potessero beneficiare dello sgravio fiscale
+previsto dalla direttiva 2003/96. A parere di detto giudice, l'art. 15, n. 1,
+lett. j), della direttiva medesima prevedrebbe, infatti, la possibilita di
+rimborso unicamente per i carburanti utilizzati ai fini della manutenzione
+dell'apparecchio. Inoltre, i voli d'addestramento e di manutenzione non
+sarebbero voli effettuati a fini commerciali, in quanto sarebbero effettuati
+per ragioni sia private sia aziendali e non presenterebbero alcun collegamento
+diretto con l'attivita dell'impresa. Non potrebbe essere nemmeno applicata una
+ripartizione pro rata, atteso che l'art. 14, n. 1, lett. b), della direttiva
+2003/96 non prevede tale possibilita.
+
+16      Avverso tale decisione la Systeme Helmholz e lo Hauptzollamt hanno
+entrambi proposto ricorso per cassazione dinanzi al Bundesfinanzhof, la prima
+nella parte in cui la decisione medesima le nega l'esenzione per i voli
+d'addestramento e di manutenzione, e il secondo nella parte in cui la
+decisione stessa ha esentato la Systeme Helmholz dall'accisa sui carburanti
+utilizzati nell'ambito di voli effettuati dalla societa de qua per conto
+proprio.
+
+17      Cio premesso il Bundesfinanzhof ha deciso di sospendere il
+procedimento e di sottoporre alla Corte le seguenti questioni pregiudiziali:
+
+«1)      Se l'art. 14, n. 1, lett. b), primo comma, della direttiva 2003/96/CE
+(…), sia da interpretare nel senso che l'esclusione dell'aviazione privata da
+diporto dalle agevolazioni fiscali significhi che l'esenzione fiscale per
+prodotti energetici utilizzabili come carburanti nel trasporto aereo debba
+essere concessa solo alle imprese di trasporto aereo oppure se l'esenzione
+debba essere estesa a tutti i carburanti impiegati nel trasporto aereo, nella
+misura in cui l'impiego dell'aeromobile sia destinato a scopi commerciali.
+
+2)      Se l'art. 15, n. 1, lett. j), della direttiva 2003/96 (…), sia da
+interpretare nel senso che la disposizione ricomprenda anche i carburanti
+necessari ad un aeromobile per il volo verso e di ritorno dalle officine
+ovvero se l'agevolazione sussista solo per le imprese il cui effettivo oggetto
+sociale consista nella fabbricazione, nello sviluppo, nel controllo o nella
+manutenzione di aeromobili.
+
+3)      Se l'art. 11, n. 3, della direttiva 2003/96 (…), sia da interpretare
+nel senso che, nel caso in cui un aeromobile utilizzato per scopi sia privati
+sia commerciali venga impiegato in voli di manutenzione o di addestramento,
+per il carburante usato in tali voli, debba essere concessa, ai sensi
+dell'art. 14, n. 1, lett. b), della direttiva 2003/96 (…), un'esenzione
+proporzionale relativa all'uso commerciale.
+
+4)      In caso di soluzione negativa della questione sub 3): se
+dall'inapplicabilita dell'art. 11, n. 3, della direttiva 2003/96 (…), possa
+dedursi, nell'ambito del successivo art. 14, n. 1, lett. b), che nessuna
+esenzione fiscale possa essere concessa in caso di utilizzazione mista di un
+aeromobile per scopi privati e commerciali.
+
+5)      In caso di soluzione affermativa della questione sub 3) o di
+equivalenti effetti giuridici derivanti da altra disposizione della direttiva
+del Consiglio 27 ottobre 2003, 2003/96 (...), quali criteri e quale periodo di
+riferimento siano alla base della determinazione della quota rispettivamente
+utilizzata ai sensi dell'art. 11, n. 3, della direttiva 2003/96 (…), nel caso
+di voli di manutenzione e di addestramento».
+
+  **Sulle questioni pregiudiziali**
+
+  _Sulla prima questione_
+
+18      Con la prima questione il giudice del rinvio chiede, sostanzialmente,
+se l'esenzione fiscale prevista dall'art. 14, n. 1, lett. b), della direttiva
+2003/96 si applichi ad un'impresa, quale la societa di cui trattasi nella
+causa principale, il cui oggetto sociale sia estraneo alla navigazione aerea e
+che, al fine di sviluppare i propri affari, utilizzi un aeromobile ad essa
+appartenente per provvedere allo spostamento del proprio personale presso
+clienti o nei luoghi di svolgimento di fiere commerciali.
+
+19      Al fine di rispondere a tale questione, si deve rilevare che le
+disposizioni relative alle esenzioni previste dalla direttiva 2003/96 devono
+essere oggetto d'interpretazione autonoma, fondata sul loro tenore letterale
+nonche sulle finalita perseguite dalla direttiva medesima (v., in tal senso
+sentenze 1° aprile 2004, causa C‑389/02, Deutsche See-Bestattungs-
+Genossenschaft, Racc. pag. I‑3537, punto 19; 1° marzo 2007, causa C‑391/05,
+Jan De Nul, Racc. pag. I‑1793, punto 22, e 11 novembre 2011, causa C‑505/10,
+Sea Fighter, non ancora pubblicata nella Raccolta, punto 14).
+
+20      Per quanto attiene, in primo luogo, al tenore dell'art. 14, n. 1,
+lett. b), della direttiva 2003/96, il primo comma di tale disposizione prevede
+l'esenzione fiscale per i «prodotti energetici forniti per essere utilizzati
+come carburante per la navigazione aerea, ad esclusione dell'aviazione privata
+da diporto». Il successivo secondo comma definisce, poi, la nozione di
+«aviazione da diporto» in termini negativi, nel senso dell'«uso di un
+aeromobile (…) per scopi non commerciali ed in particolare per scopi diversi
+dal trasporto di passeggeri o merci o dalla prestazione di servizi a titolo
+oneroso o per conto di autorita pubbliche».
+
+21      Orbene, dalla locuzione «diversi dal trasporto passeggeri o merci o
+dalla prestazione di servizi a titolo oneroso» emerge che la navigazione aerea
+ricompresa nella sfera di applicazione di detta esenzione fa riferimento
+all'utilizzazione del carburante nel caso in cui l'aeromobile serva
+direttamente ai fini della prestazione di servizi aerei a titolo oneroso. Tale
+nozione esige, pertanto, che la prestazione di servizi a titolo oneroso sia
+inerente allo spostamento dell'aeromobile (v., in tal senso, sentenza Sea
+Fighter, cit. supra, punto 18).
+
+22      Detta interpretazione dell'art. 14, n. 1, lett. b), della direttiva
+2003/96 risulta d'altronde avvalorata dai relativi lavori preparatori.
+Infatti, nella propria proposta di direttiva, da cui e scaturita l'adozione
+della direttiva del Consiglio 19 ottobre 1992, 92/81/CEE, relativa
+all'armonizzazione delle strutture delle accise sugli oli minerali (GU L 316,
+pag. 12), con l'introduzione di un'esenzione dall'accisa sui carburanti
+utilizzati per la navigazione aerea la Commissione europea aveva inteso
+«estendere a tutta l'aviazione commerciale l'esenzione attualmente applicata
+al carburante utilizzato per i voli commerciali internazionali» [COM(90) 434
+def.]. Secondo la Commissione «[cio doveva consentire] di trattare in modo
+uniforme il trasporto aereo tra due punti qualsiasi della Comunita, il che
+[poneva] l'accento sull'eliminazione delle compartimentazioni nel mercato
+interno. Il carburante utilizzato nell'aviazione privata [doveva] essere
+soggetto all'accisa, come [gia] generalmente [avveniva]». La Commissione ha
+quindi operato la distinzione, ai fini dell'esenzione fiscale per il
+carburante utilizzato nella navigazione aerea, tra aviazione commerciale ed
+aviazione privata.
+
+23      In secondo luogo, dalla finalita della direttiva 2003/96, secondo cui
+gli Stati membri tassano i prodotti energetici, emerge che questa non mira ad
+istituire esenzioni di carattere generale (v., in tal senso, sentenza Sea
+Fighter, cit. supra, punto 21).
+
+24      Dal ventitreesimo 'considerando' della direttiva 2003/96 risulta
+peraltro che l'art. 14, n. 1, lett. b), della direttiva medesima si fonda sul
+rispetto degli obblighi internazionali e sul mantenimento della posizione
+competitiva delle imprese comunitarie.
+
+25      Per quanto attiene agli obblighi internazionali, come osservato dalla
+Commissione, tale riferimento riguarda principalmente le esenzioni fiscali sui
+prodotti energetici destinati all'aviazione civile di cui beneficiano le
+compagnie aeree sulla base della convenzione relativa all'aviazione civile
+internazionale, firmata a Chicago il 7 dicembre 1944 ( _Raccolta dei trattati
+delle Nazioni Unite_ , vol. 15, pag. 296), nonche sulla base degli accordi
+bilaterali internazionali sui servizi aerei conclusi tra l'Unione europea e/o
+i suoi Stati membri e gli Stati terzi e tra gli Stati membri stessi.
+
+26      Quanto al mantenimento della posizione competitiva delle imprese
+comunitarie, come osservato dal governo cipriota e dalla Commissione, la
+competitivita cui allude il ventitreesimo 'considerando' della direttiva
+2003/96 riguarda principalmente quella delle compagnie aeree della Comunita
+rispetto a quella degli Stati terzi. Infatti, l'imposizione di un'imposta sui
+carburanti utilizzati per i voli intracomunitari o internazionali effettuati
+dalle compagnie aeree europee ridurrebbe la competitivita di tali imprese in
+modo significativo rispetto alle imprese di trasporti aerei di Stati terzi.
+
+27      Da tali considerazioni emerge che le operazioni di navigazione aerea
+effettuate da un'impresa quale la Systeme Helmholz, consistenti nel trasporto
+di proprio personale presso clienti o luoghi di svolgimento di fiere
+commerciali per mezzo di un proprio apparecchio, non possono essere assimilate
+all'utilizzazione di un aeromobile a fini commerciali, ai sensi e ai fini
+dell'applicazione dell'art. 14, n. 1, lett. b) della direttiva 2003/96 e non
+ricadono, quindi, nell'esenzione fiscale per il carburante utilizzato per la
+navigazione aerea prevista da tale disposizione, laddove si tratti di
+operazioni di navigazione aerea non direttamente funzionali alla prestazione
+di un servizio aereo a titolo oneroso.
+
+28      Tale conclusione non puo essere rimessa in discussione dal fatto che
+sussiste una certa divergenza tra le varie versioni linguistiche dell'art. 14,
+n. 1, lett. b), primo comma, della menzionata direttiva quanto alle operazioni
+di navigazione aerea escluse dal beneficio dell'esenzione fiscale prevista da
+tale disposizione. Mentre diverse versioni linguistiche di tale disposizione
+utilizzano termini che sembrano rinviare alle sole attivita di diporto, quali
+la versione inglese e francese che fanno riferimento alla nozione di «aviation
+de tourisme privee» («private pleasure-flying»), la versione tedesca della
+direttiva medesima utilizza, quantomeno nel testo della disposizione stessa,
+la nozione di «aviazione privata non commerciale» («private nichtgewerbliche
+Luftfahrt») che sembra rinviare ad attivita non commerciali complessivamente
+intese.
+
+29      Tuttavia, tali nozioni divergenti sono espressamente definite all'art.
+14, n. 1, lett. b), secondo comma, della direttiva 2003/96 nel senso dell'«uso
+di un aeromobile (…) per scopi non commerciali ed in particolare per scopi
+diversi dal trasporto di passeggeri o merci o dalla prestazione di servizi a
+titolo oneroso o per conto di autorita pubbliche». Orbene, e alla luce di tale
+definizione che occorre interpretare la portata dell'esenzione fiscale
+prevista dall'art. 14, n. 1, lett. b), della direttiva 2003/96.
+
+30      Infine, la conclusione esposta supra al punto 27 non puo essere
+inficiata dalle menzionate sentenze Deutsche See-Bestattungs-Genossenschaft e
+Jan De Nul. Infatti, in tali cause, il carburante per cui era stata chiesta
+l'esenzione fiscale alimentava imbarcazioni che servivano direttamente alla
+fornitura di servizi resi a titolo oneroso. In tal senso, al punto 28 della
+sentenza Deutsche See-Bestattungs-Genossenschaft, citata supra, la Corte ha
+affermato, con riguardo alle operazioni effettuate dalla Deutsche See-
+Bestattungs-Genossenschaft consistenti nell'organizzazione di sepolture in
+alto mare per cui utilizzava tre imbarcazioni attrezzate a tal fine, che
+«[era] pacifico che [tali operazioni] costituiscono prestazioni di servizio a
+titolo oneroso». Peraltro, al punto 40 della menzionata sentenza Jan De Nul,
+la Corte ha precisato che le manovre effettuate da una draga trasportatrice
+nel corso di operazioni d'aspirazione e scarico di materiali, vale a dire gli
+spostamenti inerenti all'esecuzione delle attivita di dragaggio, rientrano
+nella sfera di applicazione della nozione di «navigazione», ai sensi dell'art.
+8, n. 1, lett. c), primo comma, della direttiva 92/81.
+
+31      È in tale contesto che dev'essere inteso il punto 23 della menzionata
+sentenza Deutsche See-Bestattungs-Genossenschaft, in cui la Corte ha affermato
+che «qualsiasi operazione di navigazione a fini commerciali rientra nella
+sfera di applicazione dell'esenzione», nonche il successivo punto 25 in cui la
+Corte ha precisato che la direttiva 92/81 non opera alcuna distinzione quanto
+all'oggetto della navigazione ivi contemplata e che le distorsioni della
+concorrenza che le disposizioni della direttiva medesima intendono evitare
+possono verificarsi indipendentemente dal tipo di navigazione commerciale in
+gioco. In tal senso, l'oggetto del tragitto effettuato resta irrilevante ai
+fini dell'applicazione dell'esenzione fiscale quando la navigazione contempla
+una prestazione di servizi a titolo oneroso (sentenza Sea Fighter, citata
+supra, punto 17).
+
+32      Per contro, nella causa principale, gli spostamenti a fini aziendali
+del personale della Systeme Helmholz, per mezzo dell'apparecchio appartenente
+alla societa stessa, per recarsi presso clienti nonche a fiere commerciali ai
+fini dello sviluppo della sua attivita, vale a dire lo sviluppo e la
+distribuzione di componenti elettroniche e di software, non sono direttamente
+funzionali alla prestazione di servizi aerei a titolo oneroso da parte di tale
+impresa.
+
+33      La prima questione dev'essere pertanto risolta dichiarando che l'art.
+14, n. 1, lett. b), della direttiva 2003/96 dev'essere interpretato nel senso
+che dell'esenzione dall'accisa sul carburante utilizzato per la navigazione
+aerea prevista da tale disposizione non puo beneficiare un'impresa, come
+quella oggetto della causa principale, la quale, al fine di sviluppare la
+propria attivita, utilizzi un aeromobile ad essa appartenente per provvedere
+agli spostamenti del proprio personale presso clienti o luoghi di svolgimento
+di fiere commerciali, laddove tali spostamenti non sono direttamente
+funzionali alla prestazione di servizi aerei a titolo oneroso da parte
+dell'impresa medesima.
+
+  _Sulla seconda questione_
+
+34      Con la seconda questione il giudice del rinvio chiede,
+sostanzialmente, se l'esenzione fiscale di cui all'art. 15, n. 1, lett. j),
+della direttiva 2003/96 si applichi esclusivamente ai carburanti utilizzati da
+imprese la cui attivita consista nella fabbricazione, nello sviluppo, nel
+controllo o nella manutenzione di aeromobili ovvero se tale esenzione riguardi
+parimenti i carburanti di cui un aeromobile necessiti per effettuare i voli di
+andata e ritorno verso un'officina di manutenzione aeronautica.
+
+35      L'art. 15, n. 1, lett. j), della direttiva 2003/96, dispone che gli
+Stati membri possono applicare, sotto controllo fiscale, esenzioni o riduzioni
+totali o parziali del livello di tassazione ai carburanti utilizzati nel
+settore della fabbricazione, dello sviluppo, del controllo e della
+manutenzione di aeromobili e di navi.
+
+36      Per quanto attiene, in primo luogo, al tenore di tale disposizione,
+dalla sua formulazione e, segnatamente, dall'utilizzazione dei termini «bei
+der» nel testo tedesco, di «field» nel testo inglese e di «domaine» nel testo
+francese, emerge che il beneficio dell'esenzione fiscale prevista dall'art.
+15, n. 1, lett. j), della direttiva 2003/96 e riservato all'utilizzazione di
+carburante da parte delle imprese operanti specificamente nelle attivita ivi
+menzionate.
+
+37      Per quanto attiene, in secondo luogo, all'economia generale della
+direttiva 2003/96, se l'esenzione obbligatoria di cui all'art. 14, n. 1, lett.
+b), di detta direttiva mira ad incoraggiare fiscalmente le utilizzazioni di
+carburante per la navigazione aerea a fini commerciali, il successivo art. 15,
+n. 1, lett. j), prevede, per contro, un'esenzione facoltativa volta ad
+incoraggiare specificamente un determinato numero di attivita commerciali
+effettuate dai costruttori di aerei e dalle officine di manutenzione
+aeronautica che implicano, segnatamente, il consumo di carburante al suolo,
+ove nessuna di tali attivita ricade nel campo di attivita abituale delle
+imprese operanti nel settore della navigazione aerea.
+
+38      Ne consegue che l'art. 15, n. 1, lett. j), di detta direttiva non
+riguarda i carburanti che siano stati consumati da un aeromobile per
+l'effettuazione di voli andata e ritorno verso un'officina di manutenzione
+aeronautica.
+
+39      La seconda questione pregiudiziale dev'essere quindi risolta nel senso
+che l'art. 15, n. 1, lett. j), della direttiva 2003/96 dev'essere interpretato
+nel senso che i carburanti utilizzati per l'effettuazione di voli andata e
+ritorno verso un'officina di manutenzione aeronautica non ricadono nella sfera
+di applicazione di tale disposizione.
+
+  _Sulle questioni terza, quarta e quinta_
+
+40      Con le questioni terza, quarta e quinta, il giudice del rinvio chiede,
+sostanzialmente, se, nel caso di un'utilizzazione mista di un aeromobile a
+fini privati e aziendali, debba essere concessa un'esenzione pro rata
+all'utilizzazione a fini aziendali sul carburante utilizzato per
+l'effettuazione di voli di manutenzione o di addestramento e, in caso
+affermativo, su quali criteri e su quali periodi di riferimento occorra
+fondarsi ai fini della determinazione della rispettiva proporzione di
+utilizzazione.
+
+41      Alla luce della soluzione fornita alla prima questione, non occorre
+procedere alla soluzione di tali questioni pregiudiziali.
+
+  **Sulle spese**
+
+42      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:
+
+1)       **L 'art. 14, n. 1, lett. b), della direttiva del Consiglio 27
+ottobre 2003, 2003/96/CE, che ristruttura il quadro comunitario per la
+tassazione dei prodotti energetici e dell'elettricita, dev'essere interpretato
+nel senso che dell'esenzione dall'accisa sul carburante utilizzato per la
+navigazione aerea prevista da tale disposizione non puo beneficiare
+un'impresa, come quella oggetto della causa principale, la quale, al fine di
+sviluppare la propria attivita, utilizzi un aeromobile ad essa appartenente
+per provvedere agli spostamenti del proprio personale presso clienti o luoghi
+di svolgimento di fiere commerciali, laddove tali spostamenti non sono
+direttamente funzionali alla prestazione di servizi aerei a titolo oneroso da
+parte dell'impresa medesima.**
+
+2)       **L 'art. 15, n. 1, lett. j), della direttiva 2003/96 dev'essere
+interpretato nel senso che i carburanti utilizzati per l'effettuazione di voli
+andata e ritorno verso un'officina di manutenzione aeronautica non ricadono
+nella sfera di applicazione di tale disposizione.**
+
+Firme
+
+* * *
+
+* Lingua processuale: il tedesco. 
+

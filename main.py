@@ -6,7 +6,7 @@ from gensim.models import TfidfModel, LdaModel
 
 def main():
     parser = argparse.ArgumentParser(description="LDA")
-    parser.add_argument("--year", type=int, help="what year you would like to analyse the data from [2001-2015]", default=2010)
+    parser.add_argument("--year", type=int, help=f"what year you would like to analyse the data from (y, cumsum) {[()]}", default=2010)
     parser.add_argument("--k", metavar="NUM_TOPICS", help="number of topics for LDA", default=5)
     parser.add_argument("--plot", metavar="SHOW DISTR PLOT", help="displays the distribution of documents through time", default=False)
 
@@ -15,7 +15,13 @@ def main():
     if os.path.exists("old/last_run.txt"):
         with open("old/last_run.txt","r") as file:
             args_old = json.load(file)
-            to_collect = (args.year < args_old['year'])
+            oldest_year = args_old['year']
+            to_collect = (args.year < oldest_year)
+        if to_collect:
+            with open("old/last_run.txt","w") as file:
+                d = args.__dict__
+                d['year'] = oldest_year if oldest_year <= args.year else args.year
+                json.dump(d, file, indent=2)
     else:
         with open("old/last_run.txt","w") as file:
             json.dump(args.__dict__, file, indent=2)
@@ -29,11 +35,11 @@ def main():
         print("\n\nData Collected")
         tot_docs = html_converter.convert()
         print(f"\nData converted: {tot_docs} total documents")
-    elif int(os.listdir("data/converted")[-1][1:5]) < args.year:
-        print("Converting data from html to txt...")
+    elif int(os.listdir("data/converted")[0][1:5]) > args.year:
+        print("\nConverting data from html to txt...")
         html_converter.convert()
     else:
-        print("Data already collected")        
+        print("\nData already collected")        
 
     documents = pd.DataFrame()
     documents["text"] = model.load_docs(args.year, dir="data/converted/")
@@ -42,11 +48,11 @@ def main():
     NUM_TOPICS = args.k
     NUM_DOCS = len(documents.text)
 
-    print("Checking for preprocessed documents...")
+    print("\nChecking for preprocessed documents...")
     if os.path.exists(f"data/from_{args.year}_preprocessed.pickle"):
         with open(f"data/from_{args.year}_preprocessed.pickle","rb") as file:
             processed_docs = pickle.load(file)
-        print("Documents preprocessed loaded")
+        print("\nDocuments preprocessed loaded")
     else:
         print("Preprocesssing documents...")
         processed_docs = documents.text.apply(func=model.preprocess, args=(NUM_DOCS,))
@@ -55,7 +61,7 @@ def main():
         print("Documents preprocessed and saved")
 
     dictionary = model.create_dict(processed_docs, NUM_TOPICS, filter_n_most_freq=10)
-    print("Dictionary created:", dictionary)
+    print("\nDictionary created:", dictionary)
 
     # print(sorted(dictionary.cfs.values(),reverse=True))
 
@@ -69,10 +75,10 @@ def main():
     lda_model_tfidf = model.run_model(LdaModel, corpus_tfidf, NUM_TOPICS, dictionary, save_file="tfidf")
 
     for lda_model, corpus in zip((lda_model_bow, lda_model_tfidf), (corpus_bow, corpus_tfidf)):
-        model.classify(lda_model,corpus)
         model.print_topics(lda_model)
+        model.classify(lda_model,corpus)
 
-    lda_model_bow.show_topics
+    # lda_model_bow.show_topics
 
 
 if __name__ == "__main__":

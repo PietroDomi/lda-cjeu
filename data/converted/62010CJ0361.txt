@@ -1,0 +1,383 @@
+
+
+**Causa C ‑361/10**
+
+**Intercommunale Intermosane SCRL**
+
+**et**
+
+**F ederation de l'industrie e du gaz**
+
+**contro**
+
+**Stato belga**
+
+[domanda di pronuncia pregiudiziale proposta dal Conseil d'État (Belgio)]
+
+«Mercato interno -- Norme e regole tecniche -- Procedura d'informazione nel
+settore delle norme e delle regolamentazioni tecniche e regole relative ai
+servizi della societa dell'informazione -- Prescrizioni minime di sicurezza di
+taluni vecchi impianti elettrici sui luoghi di lavoro»
+
+Massime della sentenza
+
+_Ravvicinamento delle legislazioni -- Procedura d'informazione nel settore
+delle norme e delle regolamentazioni tecniche e delle regole relative ai
+servizi della societa dell'informazione -- Direttiva 98/34 -- Regola tecnica
+-- Nozione_
+
+_(Direttiva del Parlamento europeo e del Consiglio 98/34, come modificata
+dalla direttiva 98/48, art.  1, punto 11)_
+
+L'art. 1, punto 11, della direttiva 98/34, che prevede una procedura
+d'informazione nel settore delle norme e delle regolamentazioni tecniche e
+delle regole relative ai servizi della societa dell'informazione, come
+modificata dalla direttiva 98/48, deve essere interpretato nel senso che norme
+che enunciano prescrizioni generali relative alla realizzazione di impianti
+elettrici, alla costruzione del materiale elettrico e alle protezioni connesse
+con detto materiale al fine di garantire la protezione dei lavoratori, come
+quelle contenute nella normativa belga sulle prescrizioni minime di sicurezza
+di taluni vecchi impianti elettrici sui luoghi di lavoro, non sono regole
+tecniche, ai sensi di tale disposizione, i cui progetti devono essere oggetto
+della notifica di cui all'art. 8, n. 1, primo comma, della stessa direttiva.
+
+(v. punto 22 e dispositivo)
+
+  
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Settima Sezione)
+
+9 giugno 2011 (*)
+
+«Mercato interno - Norme e regole tecniche - Procedura d'informazione nel
+settore delle norme e delle regolamentazioni tecniche e regole relative ai
+servizi della societa dell'informazione - Prescrizioni minime di sicurezza di
+taluni vecchi impianti elettrici sui luoghi di lavoro»
+
+Nel procedimento C‑361/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal Conseil d'État (Belgio), con decisione 9
+luglio 2010, pervenuta in cancelleria il 19 luglio 2010, nella causa
+
+**Intercommunale Intermosane SCRL,**
+
+**F ederation de l'industrie et du gaz**
+
+contro
+
+**Stato belga,**
+
+LA CORTE (Settima Sezione),
+
+composta dal sig. D. Švaby, presidente di sezione, dalla sig.ra R. Silva de
+Lapuerta (relatore) e dal sig. G. Arestis, giudici,
+
+avvocato generale: sig.ra E. Sharpston
+
+cancelliere: sig. A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+considerate le osservazioni presentate:
+
+-        per la Intercommunale Intermosane SCRL, dall'avv. J. Bourtembourg, avocat;
+
+-        per il governo belga, dai sigg. J.-C. Halleux e T. Materne, in qualita di agenti;
+
+-        per la Repubblica d'Austria, dalla sig.ra C. Pesendorfer, in qualita di agente;
+
+-        per la Commissione europea, dalla sig.ra M. Patakia e dal sig. G. Zavvos, in qualita di agenti,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+degli artt. 1 e 8 della direttiva del Parlamento europeo e del Consiglio 22
+giugno 1998, 98/34/CE, che prevede una procedura d'informazione nel settore
+delle norme e delle regolamentazioni tecniche e delle regole relative ai
+servizi della societa dell'informazione (GU L 204, pag. 37), come modificata
+dalla direttiva del Parlamento europeo e del Consiglio 20 luglio 1998,
+98/48/CE (GU L 217, pag. 18; in prosieguo: la «direttiva 98/34»).
+
+2        La domanda in esame e stata presentata nell'ambito di una
+controversia tra, da un lato, la Intercommunale Intermosane SCRL e la
+Federation de l'industrie et du gaz, associazione senza scopo di lucro e,
+dall'altro lato, lo Stato belga, relativamente ad una normativa sulle
+prescrizioni minime di sicurezza di taluni vecchi impianti elettrici sui
+luoghi di lavoro.
+
+  **Contesto normativo**
+
+  _La normativa dell 'Unione_
+
+3        L'art. 1 della direttiva 98/34 dispone:
+
+«Ai sensi della presente direttiva si intende per:
+
+1)      "prodotto": i prodotti di fabbricazione industriale e i prodotti
+agricoli, compresi i prodotti della pesca;
+
+(...)
+
+3)      "specificazione tecnica": una specificazione che figura in un
+documento che definisce le caratteristiche richieste di un prodotto, quali i
+livelli di qualita o di proprieta di utilizzazione, la sicurezza, le
+dimensioni, comprese le prescrizioni applicabili al prodotto per quanto
+riguarda la denominazione di vendita, la terminologia, i simboli, le prove ed
+i metodi di prova, l'imballaggio, la marcatura e l'etichettatura, nonche le
+procedure di valutazione della conformita.
+
+(...)
+
+4)      "altro requisito": un requisito diverso da una specificazione tecnica,
+prescritto per un prodotto per motivi di tutela, in particolare dei
+consumatori o dell'ambiente, e concernente il suo ciclo di vita dopo la
+commercializzazione, quali le sue condizioni di utilizzazione, di riciclaggio,
+di reimpiego o di eliminazione qualora tali condizioni possano influenzare in
+modo significativo la composizione o la natura del prodotto o la sua
+commercializzazione;
+
+(...)
+
+11)      "regola tecnica": una specificazione tecnica o altro requisito o una
+regola relativa ai servizi, comprese le disposizioni amministrative che ad
+esse si applicano, la cui osservanza e obbligatoria, de jure o de facto, per
+la commercializzazione, la prestazione di servizi, lo stabilimento di un
+fornitore di servizi o l'utilizzo degli stessi in uno Stato membro o in una
+parte importante di esso, nonche, fatte salve quelle di cui all'articolo 10,
+le disposizioni legislative, regolamentari ed amministrative degli Stati
+membri che vietano la fabbricazione, l'importazione, la commercializzazione o
+l'utilizzo di un prodotto oppure la prestazione o l'utilizzo di un servizio o
+lo stabilimento come fornitore di servizi.
+
+(...)
+
+(...)
+
+La presente direttiva non si applica alle misure che gli Stati membri
+ritengono necessarie nel contesto del trattato per garantire la protezione
+delle persone, e segnatamente dei lavoratori, in occasione dell'impiego di
+prodotti, a condizione che tali misure non influiscano sui prodotti stessi».
+
+4        L'art. 8, n. 1, primo comma, della direttiva 98/34 e formulato come
+segue:
+
+«Fatto salvo l'articolo 10, gli Stati membri comunicano immediatamente alla
+Commissione ogni progetto di regola tecnica, salvo che si tratti del semplice
+recepimento integrale di una norma internazionale e europea, nel qual caso e
+sufficiente una semplice informazione sulla norma stessa. Essi le comunicano
+brevemente anche i motivi che rendono necessario adottare tale regola tecnica
+a meno che non risultino gia dal progetto».
+
+  _La normativa nazionale_
+
+5        Gli artt. 8‑13 del regio decreto 2 giugno 2008, relativo ai requisiti
+minimi di sicurezza di taluni vecchi impianti elettrici sui luoghi di lavoro (
+_Moniteur belge_ del 19 giugno 2008, pag. 31631; in prosieguo: il «regio
+decreto») prevedono:
+
+«Art. 8. L'impianto elettrico e realizzato in modo da proteggere i lavoratori
+dai rischi dovuti al contatto diretto e indiretto, dagli effetti delle
+sovratensioni dovute segnatamente a difetti dell'isolamento, alle manovre e
+agli agenti atmosferici, dalle bruciature e da altri rischi di salute nonche
+dai rischi non elettrici dovuti all'uso di elettricita.
+
+      Ove non risulti possibile eliminare i suddetti rischi con l'ausilio di misure concettuali o di misure di protezione collettiva, l'accesso a tali impianti va riservato esclusivamente ai lavoratori con competenza contrassegnata dal codice BA4 o BA5, cosi come stabilito all'art. 47 del [regolamento generale relativo agli impianti elettrici]. 
+
+Art. 9.            L'impianto elettrico deve essere realizzato in modo da:
+
+1°      evitare gli archi e le temperature di superficie pericolosi;
+
+2°      evitare il surriscaldamento, l'incendio e l'esplosione.
+
+Art. 10. § 1\. Ogni circuito e protetto da almeno un dispositivo di
+protezione, che interrompe una corrente in sovraccarico prima che si possa
+produrre un riscaldamento atto a nuocere all'isolamento, alle connessioni, ai
+conduttori o all'ambiente.
+
+      Ogni circuito e protetto da un dispositivo che interrompe una corrente di corto circuito prima che si producano effetti pericolosi.
+
+      § 2\. In deroga alle disposizioni del § 1, taluni impianti possono non essere protetti dalle sovracorrenti, a patto che vengano rispettate le condizioni e le modalita previste agli artt. 119, 123 e 126 del [regolamento generale relativo agli impianti elettrici]. 
+
+Art. 11. § 1\. Al fine dell'esecuzione dei lavori fuori tensione,
+l'interruzione dell'impianto elettrico o dei singoli circuiti elettrici deve
+poter essere effettuata in maniera sicura ed affidabile.
+
+      § 2\. Il comando funzionale deve essere effettuato in maniera sicura ed affidabile.
+
+      § 3\. Gli effetti delle cadute di tensione o della mancanza e del ripristino della tensione non devono pregiudicare la sicurezza dei lavoratori. 
+
+Art. 12. L'impianto elettrico deve essere realizzato con materiale elettrico
+costruito in modo tale da non pregiudicare la sicurezza delle persone, in caso
+di installazione e di manutenzione corrette e di utilizzazione conforme alla
+sua destinazione.
+
+      Se del caso, il materiale deve rispondere alle condizioni dei decreti che danno attuazione alle direttive comunitarie applicabili in materia. 
+
+Art. 13. Sia in ragione della sua costruzione, sia in ragione di una
+protezione supplementare, il materiale elettrico utilizzato e adeguato alle
+influenze esterne e alle condizioni di uso presenti o ragionevolmente
+prevedibili».
+
+  **Causa principale e questioni pregiudiziali**
+
+6        Con ricorso presentato il 18 agosto 2008 dinanzi al giudice del
+rinvio, le ricorrenti nella causa principale hanno presentato domanda di
+annullamento del regio decreto.
+
+7        A sostegno del loro ricorso, le ricorrenti nella causa principale
+deducono, in particolare, una violazione della direttiva 98/34, poiche il
+regio decreto contiene delle regole tecniche, il cui progetto avrebbe dovuto
+essere comunicato alla Commissione ai sensi dell'art. 8 di tale direttiva.
+
+8        In tale contesto, il Conseil d'État ha deciso di sospendere il
+procedimento e di sottoporre alla Corte le seguenti questioni pregiudiziali:
+
+«1)      Se norme nazionali, come gli artt. 8‑13 del [regio decreto] che
+enunciano le prescrizioni relative alla realizzazione di impianti elettrici,
+alla costruzione del materiale elettrico e alle protezioni connesse con detto
+materiale al fine di garantire la protezione dei lavoratori, costituiscano
+regole tecniche ai sensi dell'art. 1, punto 11, della direttiva [98/34], i cui
+progetti devono essere oggetto di una notifica, in virtu dell'art. 8, n. 1,
+primo comma, della stessa direttiva.
+
+2)      Se norme nazionali, come gli artt. 8‑13 del [regio decreto]
+costituiscano misure ai sensi dell'art. 1, in fine, della direttiva [98/34]
+che gli Stati membri ritengono necessarie per garantire la protezione delle
+persone, e segnatamente dei lavoratori, in occasione dell'impiego di prodotti
+e che non influiscono sui prodotti stessi».
+
+  **Sulle questioni pregiudiziali**
+
+  _Sulla prima questione_
+
+9        Con la prima questione, il giudice del rinvio chiede sostanzialmente
+se l'art. 1, punto 11, della direttiva 98/34 vada interpretato nel senso che
+norme nazionali del tipo di quelle in esame nella causa principale
+costituiscano, ai sensi di tale disposizione, regole tecniche, i cui progetti
+devono essere oggetto della notifica di cui all'art. 8, n. 1, primo comma,
+della stessa direttiva.
+
+10      Per giurisprudenza costante, la direttiva 98/34 e volta a tutelare,
+mediante un controllo preventivo, la libera circolazione delle merci, che
+costituisce uno dei fondamenti dell'Unione europea, e l'utilita di tale
+controllo emerge nei casi in cui regole tecniche che rientrano nel campo di
+applicazione di tale direttiva possano costituire ostacoli per gli scambi
+delle merci fra Stati membri, ostacoli che sono ammissibili solo se necessari
+per soddisfare esigenze imperative dirette al conseguimento di uno scopo
+d'interesse generale (v. sentenze 30 aprile 1996, causa C‑194/94, CIA Security
+International, Racc. pag. I‑2201, punti 40 e 48, nonche 8 settembre 2005,
+causa C‑303/04, Lidl Italia, Racc. pag. I‑7865, punto 22).
+
+11      In tale contesto occorre ricordare che, secondo la giurisprudenza,
+dall'art. 1, punto 11, della direttiva 98/34 emerge che la nozione di «regola
+tecnica» si scompone in tre categorie, cioe, in primo luogo, la
+«specificazione tecnica», ai sensi dell'art. 1, punto 3, della direttiva
+citata, in secondo luogo, l'«altro requisito», come definito dall'art. 1,
+punto 4, di tale direttiva, e, in terzo luogo, il divieto di fabbricazione,
+importazione, commercializzazione o utilizzo di un prodotto di cui all'art. 1,
+punto 11, della direttiva stessa (v. sentenze 21 aprile 2005, causa C‑267/03,
+Lindberg, Racc. pag. I‑3247, punto 54, e 8 novembre 2007, causa C‑20/05,
+Schwibbert, Racc. pag. I‑9447, punto 34).
+
+12      Nell'ipotesi in cui gli impianti elettrici di cui alla causa
+principale possano essere qualificati come «prodotto» ai sensi dell'art. 1,
+punto 1, della direttiva 98/34, occorre esaminare se le disposizioni nazionali
+in esame nella causa principale rientrino in una di queste tre categorie.
+
+13      A tale riguardo e, in primo luogo, sufficiente anzitutto constatare
+che tali norme non rientrano nella terza categoria di regole tecniche di cui
+all'art. 1, punto 11, della direttiva 98/34, poiche non comportano un divieto
+di fabbricazione, di importazione, di commercializzazione o di utilizzazione
+di un prodotto ai sensi di tale disposizione.
+
+14      In secondo luogo, occorre verificare se le norme nazionali in esame
+nella causa principale rientrino nella prima categoria di regole tecniche di
+cui all'art. 1, punto 11, della direttiva 98/34, vale a dire nella nozione di
+«specificazione tecnica».
+
+15      Dalla giurisprudenza risulta che tale nozione, definita nel suddetto
+art. 1, punto 3, presuppone che la norma nazionale si riferisca
+necessariamente al prodotto o al suo imballaggio in quanto tali, e che
+definisca quindi una delle caratteristiche richieste di un prodotto (v.
+sentenza Schwibbert, cit., punto 35 e giurisprudenza citata).
+
+16      Per quanto riguarda le norme nazionali controverse nella causa
+principale, va rilevato che le prescrizioni minime relative alla realizzazione
+di taluni impianti elettrici previsti da tali disposizioni mirano a garantire
+la sicurezza di tali impianti allo scopo di proteggere i lavoratori che li
+utilizzano.
+
+17      Ora, si deve necessariamente constatare che tali prescrizioni minime
+impongono requisiti e obiettivi generali in materia di sicurezza e di
+protezione, senza necessariamente riferirsi al prodotto in questione o al suo
+imballaggio in quanto tali e, quindi, senza definire le caratteristiche di
+tale prodotto.
+
+18      Di conseguenza, le norme nazionali di cui alla causa principale non
+contengono specificazioni tecniche ai sensi della direttiva 98/34.
+
+19      In terzo luogo, va verificato se tali disposizioni rientrino nella
+seconda categoria di regole tecniche di cui all'art. 1, punto 11, della
+direttiva 98/34, vale a dire nella nozione di «altro requisito».
+
+20      Secondo la giurisprudenza, per poter essere qualificati come «altr[i]
+requisit[i]» ai sensi dell'art. 1, punto 4, della direttiva 98/34, le
+prescrizioni minime previste da dette disposizioni devono costituire delle
+«condizioni» in grado di influenzare in modo significativo la composizione o
+la natura del prodotto in questione o la sua commercializzazione (v., in tal
+senso, sentenza Lindberg, cit., punto 72).
+
+21      Ora, tenuto conto del carattere generale di dette prescrizioni, esse
+non possono costituire condizioni siffatte, ne possono, di conseguenza, essere
+qualificate come «altr[i] requisit[i]» ai sensi del suddetto art. 1, punto 4\.
+
+22      Alla luce delle considerazioni precedenti, la prima questione va
+risolta dichiarando che l'art. 1, punto 11, della direttiva 98/34 deve essere
+interpretato nel senso che norme nazionali del tipo in esame nella causa
+principale non sono regole tecniche, ai sensi di tale disposizione, i cui
+progetti devono essere oggetto della notifica di cui all'art. 8, n. 1, primo
+comma, della stessa direttiva.
+
+  _Sulla seconda questione_
+
+23      Vista la soluzione fornita alla prima questione, non e necessario
+risolvere la seconda questione.
+
+  **Sulle spese**
+
+24      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Settima Sezione) dichiara:
+
+**L 'art 1, punto 11, della direttiva del Parlamento europeo e del Consiglio
+22 giugno 1998, 98/34/CE, che prevede una procedura d'informazione nel settore
+delle norme e delle regolamentazioni tecniche e delle regole relative ai
+servizi della societa dell'informazione, come modificata dalla direttiva del
+Parlamento europeo e del Consiglio 20 luglio 1998, 98/48/CE, deve essere
+interpretato nel senso che norme nazionali del tipo in esame nella causa
+principale non sono regole tecniche, ai sensi di tale disposizione, i cui
+progetti devono essere oggetto della notifica di cui all'art. 8, n. 1, primo
+comma, della stessa direttiva.**
+
+Firme
+
+* * *
+
+* Lingua processuale: il francese. 
+

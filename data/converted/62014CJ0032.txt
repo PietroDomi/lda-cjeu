@@ -1204,3 +1204,7 @@ Firme
 
 ( *1 ) Lingua processuale: l’ungherese.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

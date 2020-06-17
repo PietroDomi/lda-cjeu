@@ -1,0 +1,1373 @@
+
+
+SENTENZA DELLA CORTE (Quinta Sezione)
+
+1o marzo 2012 ( *1 )
+
+«Libera circolazione delle merci — Restrizioni quantitative e misure di
+effetto equivalente — Direttiva 89/106/CEE — Prodotti da costruzione — Norme
+non armonizzate — Certificazioni di qualità — Requisiti relativi agli
+organismi di certificazione»
+
+Nella causa C-484/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Tribunal Supremo (Spagna), con decisione
+del 14 settembre 2010, pervenuta in cancelleria il 7 ottobre 2010, nel
+procedimento
+
+Asociación para la Calidad de los Forjados (Ascafor),
+
+Asociación de Importadores y Distribuidores de Acero para la Construcción
+(Asidac),
+
+contro
+
+Administración del Estado,
+
+Calidad Siderúrgica SL,
+
+Colegio de Ingenieros Técnicos Industriales,
+
+Asociación Española de Normalización y Certificación (AENOR),
+
+Consejo General de Colegios Oficiales de Aparejadores y Arquitectos Técnicos,
+
+Asociación de Investigación de las Industrias de la Construcción (Aidico)
+Instituto Tecnológico de la Construcción,
+
+Asociación Nacional Española de Fabricantes de Hormigón Preparado (Anefhop),
+
+Ferrovial Agromán SA,
+
+Agrupación de Fabricantes de Cemento de España (Oficemen),
+
+Asociación de Aceros Corrugados Reglamentarios y su Tecnología y Calidad
+(Acerteq),
+
+LA CORTE (Quinta Sezione),
+
+composta dal sig. M. Safjan, presidente di sezione, dai sigg. E. Levits
+(relatore) e J.-J. Kasel, giudici,
+
+avvocato generale: sig. Y. Bot
+
+cancelliere: sig.ra M. Ferreira, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all’udienza del 5 ottobre
+2011,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per l’Asociación para la Calidad de los Forjados (Ascafor) e per l’Asociación
+de Importadores y Distribuidores de Acero para la Construcción (Asidac), da A.
+Vázquez Guillén, procurador, assistito da J.M. Sala Arquer, abogado;  
+  
+---|---  
+  
+—
+
+|
+
+per la Calidad Siderúrgica SL, da M. del Valle Gili Ruiz, procuradora,
+assistita da C. L. Rubio Soler, abogado;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Asociación Española de Normalización y Certificación (AENOR), da L.
+Cazorla González-Serrano, abogado;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Asociación de Investigación de las Industrias de la Construcción
+(Aidico) Instituto Tecnológico de la Construcción, da C. Tejada Marcelino,
+procuradora, assistita da A. Albert Mora, abogado;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Asociación Nacional Española de Fabricantes de Hormigón Preparado
+(Anefhop), da C. Hidalgo Senén e E. Hidalgo Martínez, procuradores;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Asociación de Aceros Corrugados Reglamentarios y su Tecnología y Calidad
+(Acerteq), da R. Martínez Solís, abogada;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo spagnolo, da S. Centino Huerta e B. Plaza Cruz, in qualità di
+agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo olandese, da C.M. Wissels, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da L. Banciella e G. Zavvos nonché da A. Alcover
+San Pedro, in qualità di agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 34 TFUE e 36 TFUE.  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra
+l’Asociación para la Calidad de los Forjados (Ascafor) e l’Asociación de
+Importadores y Distribuidores de Acero para la Construcción (Asidac), da un
+lato, e l’Administración del Estado, la Calidad Siderúrgica SL, il Colegio de
+Ingenieros Técnicos Industriales, l’Asociación Española de Normalización y
+Certificación (AENOR), il Consejo General de Colegios Oficiales de
+Aparejadores y Arquitectos Técnicos, l’Asociación de Investigación de las
+Industrias de la Construcción (Aidico) Instituto Tecnológico de la
+Construcción, l’Asociación Nacional Española de Fabricantes de Hormigón
+Preparado (Anefhop), la Ferrovial Agromán SA, l’Agrupación de Fabricantes de
+Cemento de España (Oficemen) e l’Asociación de Aceros Corrugados
+Reglamentarios y su Tecnología y Calidad (Acerteq), dall’altro, in merito ad
+una domanda diretta ad ottenere l’annullamento del regio decreto n. 1247/2008,
+del 18 luglio 2008, recante approvazione del regolamento sul calcestruzzo
+strutturale (EHE-08) (BOE n. 203, del 22 agosto 2008, pag. 35176).  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+La direttiva 89/106/CEE del Consiglio, del 21 dicembre 1988, relativa al
+ravvicinamento delle disposizioni legislative, regolamentari e amministrative
+degli Stati membri concernenti i prodotti da costruzione (GU 1989, L 40, pag.
+12), come modificata dalla direttiva 93/68/CEE del Consiglio, del 22 luglio
+1993 (GU L 220, pag. 1; in prosieguo: la «direttiva 89/106»), si applica, in
+forza del suo articolo 1, paragrafo 1, ai «materiali da costruzione».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 6, paragrafo 2, di tale direttiva così recita:
+
+«Gli Stati membri consentono tuttavia che i prodotti non contemplati
+dall’articolo 4, paragrafo 2, siano immessi sul mercato nel proprio
+territorio, se soddisfano prescrizioni nazionali conformi al Trattato,
+fintantoché le specificazioni [tecniche] europee di cui ai capitoli II e III
+[non] dispo[rran]no diversamente (...)».  
+  
+---|---  
+  
+5
+
+|
+
+A termini dell’articolo 16 della suddetta direttiva:
+
+«1. Se, per un determinato prodotto, non esistono le specificazioni tecniche
+di cui all’articolo 4, lo Stato membro di destinazione, agendo a richiesta e
+in singoli casi, considera come conformi alle disposizioni nazionali in vigore
+i prodotti che hanno superato le prove e i controlli effettuati, nello Stato
+membro di produzione, da un organismo riconosciuto secondo i metodi in vigore
+nello Stato membro di destinazione o riconosciuti come equivalenti da tale
+Stato membro.
+
+2\. Lo Stato membro di produzione comunica allo Stato membro di destinazione,
+la cui regolamentazione è applicabile alle prove ed ai controlli da
+effettuare, quale organismo esso intenda riconoscere a tal fine. Lo Stato
+membro di destinazione e lo Stato membro produttore si scambiano tutte le
+informazioni necessarie. Finito tale scambio di informazioni lo Stato membro
+produttore riconosce l’organismo in tal modo designato. Se uno Stato membro
+nutre dubbi, esso provvede a motivarli ed a informarne la Commissione.
+
+3\. Gli Stati membri provvedono a che gli organismi designati si forniscano
+mutua assistenza.
+
+4\. Qualora uno Stato membro constati che un organismo riconosciuto non
+effettua i collaudi e i controlli regolarmente secondo le sue disposizioni
+nazionali, esso lo comunica allo Stato membro in cui l’organismo è
+riconosciuto. Quest’ultimo, entro un termine appropriato, informa lo Stato
+membro che ha effettuato la comunicazione, circa i provvedimenti presi.
+Qualora lo Stato membro che ha effettuato la comunicazione non ritenga
+sufficienti detti provvedimenti, esso può vietare o subordinare a particolari
+condizioni l’immissione sul mercato e l’utilizzazione del prodotto in
+questione. Esso ne informa l’altro Stato membro e la Commissione».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 17 della stessa direttiva dispone quanto segue:
+
+«In applicazione della procedura di cui all’articolo 16, gli Stati membri di
+destinazione attribuiscono alle relazioni e ai certificati di conformità
+rilasciati dallo Stato membro produttore lo stesso valore dei documenti
+nazionali corrispondenti».  
+  
+---|---  
+  
+7
+
+|
+
+Il capo VII della direttiva 89/106, intitolato «Organismi riconosciuti»,
+contiene l’articolo 18, il cui paragrafo 2 così prevede:
+
+«Gli organismi di certificazione, gli organismi d’ispezione ed i laboratori di
+collaudo devono rispondere ai criteri di cui all’allegato IV».  
+  
+---|---  
+  
+8
+
+|
+
+L’allegato IV della direttiva 89/106 indica le condizioni minime che devono
+soddisfare gli organismi di certificazione, gli organismi d’ispezione e i
+laboratori di prove per essere riconosciuti ai sensi di tale direttiva.  
+  
+---|---  
+  
+Il diritto nazionale
+
+9
+
+|
+
+Il regolamento sul calcestruzzo strutturale (EHE-08), approvato con il regio
+decreto n. 1247/2008 (in prosieguo: il «regolamento sul calcestruzzo»),
+stabilisce le specificazioni tecniche cui devono essere conformi i prodotti
+relativi al calcestruzzo per essere utilizzati in Spagna nel settore delle
+costruzioni.  
+  
+---|---  
+  
+10
+
+|
+
+Tale regolamento stabilisce anche le modalità di controllo delle
+specificazioni tecniche da soddisfare.  
+  
+---|---  
+  
+11
+
+|
+
+Per quanto riguarda l’acciaio per armatura, l’articolo 87 del regolamento sul
+calcestruzzo prevede due possibilità di attestare la conformità dei prodotti
+alle specificazioni tecniche.  
+  
+---|---  
+  
+12
+
+|
+
+Da un lato, l’acciaio per armatura è considerato conforme agli standard di
+qualità e sicurezza se dispone di una certificazione di qualità riconosciuta
+ufficialmente in conformità all’allegato 19 di detto regolamento.  
+  
+---|---  
+  
+13
+
+|
+
+Dall’altro, in mancanza di una certificazione di qualità riconosciuta, la
+conformità alle suddette specificazioni è accertata mediante la realizzazione
+di prove e test al momento della ricezione di ciascun lotto di acciaio per
+armatura.  
+  
+---|---  
+  
+14
+
+|
+
+Relativamente all’acciaio per armatura proveniente da uno Stato membro diverso
+dal Regno di Spagna, l’articolo 4.1 del regolamento sul calcestruzzo prevede
+quanto segue:
+
+«Nell’ambito di applicazione del presente regolamento, possono essere
+utilizzati prodotti da costruzione legalmente fabbricati o commercializzati
+negli Stati membri dell’Unione europea (...) a condizione che siano conformi
+alla normativa di tali Stati e garantiscano, nell’uso al quale sono destinati,
+un livello di sicurezza equivalente a quello stabilito dal presente
+regolamento.
+
+Tale livello di equivalenza deve essere attestato conformemente alle
+prescrizioni dell’articolo 4.2 ovvero, se del caso, all’articolo 16 della
+direttiva 89/106/CEE (...).
+
+(...).
+
+Le certificazioni di qualità volontarie che agevolano l’osservanza delle
+disposizioni del presente regolamento possono essere riconosciute dalle
+amministrazioni pubbliche competenti nel settore delle costruzioni in ciascuno
+Stato membro dello Spazio economico europeo e possono far riferimento al
+progetto della struttura, ai prodotti, ai procedimenti di fabbricazione o alla
+considerazione di criteri ambientali».  
+  
+---|---  
+  
+15
+
+|
+
+L’articolo 81 di tale regolamento, intitolato «Livelli di garanzia e
+certificazioni di qualità», dispone quanto segue:
+
+«La conformità dei prodotti e dei procedimenti di esecuzione ai requisiti
+essenziali definiti dal presente regolamento presuppone che essi soddisfino
+con un livello di garanzia sufficiente una serie di specificazioni.
+
+[Gli Stati di produzione] hanno in ogni caso la facoltà di stabilire per i
+[loro] prodotti e procedimenti un livello di garanzia superiore a quello
+minimo prescritto, istituendo dei sistemi (come le certificazioni di qualità)
+atti a certificare, sulla base di corrispondenti controlli, ispezioni e prove,
+che i [loro] sistemi di qualità e i [loro] controlli di produzione soddisfano
+i requisiti necessari per il rilascio di tali certificazioni.
+
+(...) detti livelli di garanzia supplementari e superiori ai minimi
+regolamentari possono essere dimostrati:
+
+|
+
+a)
+
+|
+
+mediante l’apposizione di una certificazione di qualità riconosciuta
+ufficialmente, secondo la procedura prevista dall’allegato 19 del presente
+regolamento, ovvero  
+  
+---|---  
+  
+b)
+
+|
+
+nel caso dei materiali prodotti nel cantiere o dei procedimenti ivi applicati,
+mediante un sistema equivalente, convalidato e controllato sotto la
+responsabilità della Dirección Facultativa, atto ad assicurare che essi
+offrano garanzie equivalenti a quelle prescritte dall’allegato 19 per le
+certificazioni di qualità riconosciute ufficialmente.  
+  
+---|---  
+  
+Il presente regolamento prevede l’applicazione di determinati criteri
+particolari per la ricezione di tali prodotti e procedimenti che offrono un
+livello di garanzia superiore attestato mediante una delle due procedure di
+cui al comma precedente.
+
+Il collaudo di accettazione può tener conto delle garanzie collegate al
+possesso di una certificazione sempreché questa soddisfi talune condizioni.
+Pertanto, sia nel caso dei procedimenti di esecuzione sia in quello dei
+prodotti per i quali non è prescritta la marchiatura CE conformemente alla
+direttiva 89/106/CEE, il presente regolamento consente di applicare criteri
+particolari di accettazione allorché tali procedimenti o prodotti siano dotati
+di una certificazione di qualità apposta nell’ambito di una procedura
+volontaria, riconosciuta ufficialmente da un Centro direttivo competente nel
+settore delle costruzioni e dei lavori pubblici e facente parte della Pubblica
+amministrazione di uno Stato membro dell’Unione europea o di uno degli Stati
+firmatari dell’Accordo sullo Spazio economico europeo.
+
+Il comma precedente si applica anche ai materiali da costruzione fabbricati o
+commercializzati legalmente in uno Stato che abbia stipulato un accordo di
+associazione doganale con l’Unione europea, qualora un tale accordo riservi a
+detti prodotti lo stesso trattamento riservato a quelli fabbricati o
+commercializzati in uno Stato membro dell’Unione europea. In tal caso, il
+livello di equivalenza deve essere accertato secondo le procedure di cui alla
+direttiva 89/106/CEE.
+
+Per essere conformi ai requisiti essenziali fissati dal presente regolamento,
+le certificazioni di qualità devono soddisfare le condizioni di riconoscimento
+ufficiale stabilite dall’allegato 19.
+
+(...)».  
+  
+16
+
+|
+
+L’allegato 19 del regolamento sul calcestruzzo, intitolato «Livelli di
+garanzia e condizioni di riconoscimento ufficiale delle certificazioni»,
+stabilisce, segnatamente, le norme organizzative e di funzionamento degli
+organismi di certificazione nonché i poteri di cui dispone al riguardo
+l’amministrazione competente.  
+  
+---|---  
+  
+17
+
+|
+
+L’articolo 1 di tale allegato dispone quanto segue:
+
+«Il presente regolamento consente alla Direccíon Facultativa di applicare
+criteri particolari per determinati prodotti e procedimenti qualora questi
+presentino livelli di garanzia aggiuntivi superiori ai minimi regolamentari,
+conferiti loro nell’ambito di una procedura volontaria conformemente
+all’articolo 81.
+
+In via generale, tali livelli di garanzia aggiuntivi sono dimostrati mediante
+l’apposizione di una certificazione di qualità ufficialmente riconosciuta da
+un’amministrazione competente nel settore delle costruzioni di uno Stato
+membro dell’Unione europea, di uno Stato firmatario dell’Accordo sullo Spazio
+economico europeo o di uno Stato che abbia stipulato con l’Unione europea un
+accordo di attuazione di un’unione doganale, nel qual caso il livello di
+equivalenza deve essere attestato secondo le procedure stabilite dalla
+direttiva 89/106/CEE».  
+  
+---|---  
+  
+18
+
+|
+
+A termini dell’articolo 2 dell’allegato 19 del regolamento sul calcestruzzo:
+
+«(...) Nel caso di prodotti o procedimenti ai quali non sia applicabile il
+marchio CE, il livello di garanzia minimo è il livello stabilito dal presente
+regolamento.
+
+In via complementare, e su base volontaria, il fabbricante del prodotto, il
+responsabile di un procedimento o il costruttore potranno optare per
+l’apposizione di una certificazione di qualità che attesti un livello di
+garanzia superiore a quello minimo previsto dal presente regolamento. Nel caso
+di prodotti cui è apposto il marchio CE, tali certificazioni di qualità devono
+apportare un valore aggiunto in termini di caratteristiche non attestate dal
+marchio CE.
+
+Dal momento che si tratta di iniziative volontarie, tali certificazioni di
+qualità possono essere conferite sulla base di criteri diversi e secondo
+procedure particolari. Il presente allegato stabilisce le condizioni che
+consentono di distinguere le certificazioni che conferiscono un livello di
+garanzia aggiuntivo rispetto al minimo regolamentare e possono, pertanto,
+essere ufficialmente riconosciute dalle amministrazioni competenti».  
+  
+---|---  
+  
+19
+
+|
+
+L’articolo 3 del suddetto allegato è così formulato:
+
+«L’amministrazione competente ad effettuare il riconoscimento ufficiale della
+certificazione dovrà accertare la sussistenza dei requisiti cui il presente
+allegato subordina detto riconoscimento e vigilare sul loro mantenimento. Per
+conseguire tale obiettivo, l’amministrazione competente può, mantenendo la
+necessaria riservatezza, intervenire in tutte le attività che essa reputi
+rilevanti per il riconoscimento della certificazione.
+
+(...)».  
+  
+---|---  
+  
+20
+
+|
+
+L’articolo 4 dell’allegato 19 del regolamento sul calcestruzzo così prevede:
+
+«Ai fini del riconoscimento ufficiale, la certificazione deve
+
+|
+
+—
+
+|
+
+avere carattere volontario ed essere rilasciata da un organismo di
+certificazione che risponda ai requisiti stabiliti dal presente allegato;  
+  
+---|---  
+  
+—
+
+|
+
+essere conforme alle disposizioni del presente regolamento e contenere la
+dichiarazione espressa di tale conformità;  
+  
+---|---  
+  
+—
+
+|
+
+essere rilasciata in base ad un regolamento che definisca le specifiche
+garanzie da essa conferite, la sua procedura di rilascio, il regime di
+funzionamento, i requisiti tecnici nonché le regole per l’adozione delle
+decisioni che la riguardano.  
+  
+---|---  
+  
+—
+
+|
+
+Il regolamento summenzionato deve essere accessibile al pubblico, redatto in
+termini chiari e precisi e fornire informazioni prive di ambiguità ad uso
+tanto del cliente dell’ente di certificazione quanto degli altri soggetti
+interessati; deve altresì prevedere procedure specifiche sia per gli impianti
+esterni al cantiere sia per quelli che ne fanno parte nonché per i
+procedimenti ivi applicati;  
+  
+---|---  
+  
+—
+
+|
+
+deve garantire l’indipendenza e l’imparzialità dell’organismo che rilascia le
+certificazioni; in particolare, non consentirà la partecipazione alle
+decisioni sui singoli casi di persone che esercitino attività di valutazione o
+di consulenza relative agli stessi;  
+  
+---|---  
+  
+—
+
+|
+
+deve prevedere, per i prodotti certificati per i quali siano stati ottenuti
+risultati non conformi nelle prove relative al controllo di produzione, il
+trattamento necessario a garantire l’immediato avvio delle necessarie azioni
+correttive e, se del caso, informare i clienti. Detto regolamento definirà
+altresì il termine massimo che può intercorrere tra la rilevazione della non
+conformità e le azioni correttive da adottare;  
+  
+---|---  
+  
+—
+
+|
+
+deve stabilire i requisiti minimi cui devono rispondere i laboratori
+partecipanti alla certificazione;  
+  
+---|---  
+  
+—
+
+|
+
+deve prevedere, nel caso dei prodotti e dei procedimenti sviluppati in
+impianti esterni al cantiere, tra le condizioni di rilascio, l’obbligo di
+disporre dei dati relativi al controllo di produzione per un periodo di almeno
+sei mesi. Nel caso degli impianti del cantiere, le medesime norme stabiliscono
+i criteri volti a garantire il medesimo livello di informazione sulla
+produzione e di garanzia dell’utente;  
+  
+---|---  
+  
+—
+
+|
+
+per i prodotti o procedimenti non contemplati dal presente allegato, ma
+previsti dal regolamento, deve fornire garanzie supplementari in relazione
+alle caratteristiche non prescritte, ma tali da contribuire a soddisfare i
+requisiti stabiliti dal presente regolamento».  
+  
+---|---  
+  
+Fatti del procedimento principale e questione pregiudiziale
+
+21
+
+|
+
+I membri dell’Ascafor sono imprese la cui attività principale consiste nella
+produzione e nella commercializzazione dell’acciaio per calcestruzzo armato in
+Spagna. I membri dell’Asidac sono importatori spagnoli di acciaio destinato
+all’edilizia.  
+  
+---|---  
+  
+22
+
+|
+
+Ad avviso di tali associazioni, il regolamento sul calcestruzzo, in
+particolare l’articolo 81 e l’allegato 19 dello stesso, limitano la loro
+possibilità di importare acciaio per armatura proveniente da Stati membri
+diversi dal Regno di Spagna.  
+  
+---|---  
+  
+23
+
+|
+
+Il giudice del rinvio precisa che in Spagna, per poter essere impiegato nel
+settore edile, è necessario che l’acciaio per armatura sia conforme ad una
+serie di specificazioni tecniche.  
+  
+---|---  
+  
+24
+
+|
+
+Per poter dimostrare che tali requisiti siano soddisfatti, il regolamento sul
+calcestruzzo prevede due possibilità: o la conformità dell’acciaio per
+armatura alle specificazioni tecniche viene accertata mediante prove e
+controlli effettuati al momento dell’accettazione di ciascun lotto di tale
+prodotto, oppure l’acciaio per armatura dispone di una certificazione di
+qualità riconosciuta ufficialmente, vale a dire risulta che il produttore si è
+conformato sin dalla fabbricazione agli obblighi stabiliti da detto
+regolamento.  
+  
+---|---  
+  
+25
+
+|
+
+Il giudice del rinvio sottolinea che, nel primo caso, le prove ed i controlli
+di conformità comportano un costo maggiore e finiscono per gravare
+sull’utilizzatore finale dell’acciaio e non sul produttore dello stesso, come
+accade invece nell’ambito della procedura di conformità mediante acquisizione
+di una certificazione di qualità ufficialmente riconosciuta.  
+  
+---|---  
+  
+26
+
+|
+
+Il giudice del rinvio ne deduce che gli utilizzatori dell’acciaio per armatura
+sono indotti ad usare i prodotti certificati, ossia quelli che sono dotati di
+una certificazione di qualità ufficialmente riconosciuta, per evitare i disagi
+e i costi legati ad un controllo di conformità al momento dell’accettazione di
+ciascun lotto di acciaio per armatura, con la conseguenza che anche i
+produttori di Stati membri diversi dal Regno di Spagna sarebbero indotti a
+commercializzare i loro prodotti nel mercato spagnolo avvalendosi di siffatta
+certificazione di qualità riconosciuta ufficialmente dalle autorità spagnole.  
+  
+---|---  
+  
+27
+
+|
+
+In proposito, rammentando il procedimento di riconoscimento delle
+certificazioni di qualità di Stati membri diversi dal Regno di Spagna,
+previsto dall’articolo 81 del regolamento sul calcestruzzo in combinato
+disposto con l’allegato 19 dello stesso, il giudice del rinvio esprime dubbi
+circa la compatibilità con gli articoli 34 TFUE e 36 TFUE delle elencate
+condizioni che gli organismi di certificazione di tali Stati membri devono
+soddisfare affinché i certificati di qualità da essi rilasciati siano
+ufficialmente riconosciuti in Spagna.  
+  
+---|---  
+  
+28
+
+|
+
+In tale contesto, il Tribunal Supremo ha deciso di sospendere il procedimento
+e di sottoporre alla Corte la seguente questione pregiudiziale:
+
+«Se la disciplina tassativa alla quale l’allegato 19 del regio decreto n.
+1247/08, del 18 luglio 2008, in combinato disposto con l’articolo 81 dello
+stesso, subordina il riconoscimento ufficiale delle certificazioni di qualità
+sia eccessiva e sproporzionata rispetto allo scopo perseguito. Se essa
+comporti una restrizione ingiustificata che rende più difficile il
+riconoscimento dell’equivalenza dei certificati e costituisca un ostacolo o
+una restrizione alla commercializzazione dei prodotti importati contraria agli
+articoli [34 TFUE] e [36 TFUE]».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+Sulla ricevibilità
+
+29
+
+|
+
+La Calidad Siderúrgica SL, l’Aidico Instituto Tecnológico de la Construcción e
+l’Acerteq eccepiscono l’irricevibilità della questione pregiudiziale.  
+  
+---|---  
+  
+30
+
+|
+
+Da un lato, il giudice del rinvio chiederebbe, in realtà, alla Corte di
+pronunciarsi sul merito della controversia interpretando il diritto nazionale.
+Pertanto, essa dovrebbe dichiarare la propria incompetenza.  
+  
+---|---  
+  
+31
+
+|
+
+Dall’altro, la questione sarebbe redatta in termini ipotetici e fittizi, dal
+momento che il giudice del rinvio non avrebbe indicato quali delle condizioni
+poste dalla normativa nazionale controversa siano sproporzionate rispetto
+all’obiettivo perseguito da tale normativa.  
+  
+---|---  
+  
+32
+
+|
+
+Anzitutto, occorre rammentare che il procedimento previsto all’articolo 267
+TFUE si basa sulla netta separazione di funzioni tra i giudici nazionali e la
+Corte. Spetta solo ai giudici nazionali, cui è stata sottoposta la
+controversia e cui incombe la responsabilità dell’emananda decisione
+giudiziaria, valutare, tenendo conto delle specificità di ogni causa, sia la
+necessità di una pronuncia pregiudiziale per emanare la loro sentenza, sia la
+rilevanza delle questioni che essi sottopongono alla Corte. Di conseguenza, se
+la questione sollevata verte sull’interpretazione del diritto dell’Unione, la
+Corte è, in via di principio, tenuta a pronunciarsi (v. sentenze del 5 ottobre
+2006, Nádasdi e Németh, C-290/05 e C-333/05, Racc. pag. I-10115, punto 28, e
+del 16 dicembre 2008, Michaniki, C-213/07, Racc. pag. I-9999, punto 32).  
+  
+---|---  
+  
+33
+
+|
+
+Per contro, non spetta alla Corte pronunciarsi, nell’ambito di un procedimento
+pregiudiziale, sulla conformità di norme di diritto interno con il diritto
+dell’Unione, né interpretare disposizioni legislative o regolamentari
+nazionali (v., in particolare, sentenze del 9 settembre 2003, Jaeger,
+C-151/02, Racc. pag. I-8389, punto 43, e del 31 gennaio 2008, Centro Europa 7,
+C-380/05, Racc. pag. I-349, punto 49; ordinanze del 17 settembre 2009,
+Investitionsbank Sachsen-Anhalt, C-404/08 e C-409/08, punto 25, e del 13
+gennaio 2010, Calestani e Lunardi, C-292/09 e C-293/09, punto 15).  
+  
+---|---  
+  
+34
+
+|
+
+La Corte ha tuttavia reiteratamente affermato di essere competente per fornire
+al giudice nazionale tutti gli elementi di interpretazione attinenti al
+diritto dell’Unione che gli consentano di pronunciarsi su tale conformità ai
+fini della definizione della causa sottopostagli (v., in particolare, sentenze
+del 15 dicembre 1993, Hünermund e a., C-292/92, Racc. pag. I-6787, punto 8, e
+Centro Europa 7, cit., punto 50, nonché ordinanza Calestani e Lunardi, cit.,
+punto 16).  
+  
+---|---  
+  
+35
+
+|
+
+Nel caso di specie, da un lato, la questione pregiudiziale verte
+esplicitamente sull’interpretazione degli articoli 34 TFUE e 36 TFUE, dato che
+il giudice del rinvio dubita della compatibilità della normativa nazionale
+controversa con detti articoli.  
+  
+---|---  
+  
+36
+
+|
+
+Dall’altro, sebbene tale giudice non abbia indicato quali delle condizioni
+poste dalla normativa nazionale controversa relativamente agli organismi di
+certificazione siano tali da andare oltre quanto necessario per conseguire
+l’obiettivo perseguito, va sottolineato che i dubbi del suddetto giudice
+vertono sulla tassatività delle condizioni stabilite e non su una condizione
+in particolare.  
+  
+---|---  
+  
+37
+
+|
+
+Pertanto, è precisamente questo il contesto in cui occorre fornire una
+risposta utile al giudice del rinvio.  
+  
+---|---  
+  
+Nel merito
+
+Osservazioni preliminari
+
+38
+
+|
+
+In via preliminare, si deve ricordare che la direttiva 89/106 ha
+essenzialmente lo scopo di eliminare gli ostacoli agli scambi creando
+condizioni che consentano ai materiali da costruzione di essere liberamente
+commercializzati all’interno dell’Unione. A questo fine, detta direttiva
+precisa le condizioni essenziali che i prodotti da costruzione devono
+soddisfare e che sono attuate dalle norme armonizzate e dalle norme nazionali
+di trasposizione, mediante benestare tecnici europei nonché specificazioni
+tecniche nazionali riconosciute a livello dell’Unione (v., in tal senso,
+sentenza del 13 marzo 2008, Commissione/Belgio, C-227/06, punto 31).  
+  
+---|---  
+  
+39
+
+|
+
+È pacifico che l’acciaio per calcestruzzo armato è un «materiale da
+costruzione» ai sensi della direttiva 89/106, che non costituisce oggetto né
+di una norma armonizzata o di un benestare tecnico europeo né di una
+specificazione tecnica nazionale riconosciuta a livello dell’Unione ai sensi
+dell’articolo 4, paragrafo 2, di tale direttiva.  
+  
+---|---  
+  
+40
+
+|
+
+Orbene, per quanto riguarda i materiali da costruzione non contemplati
+dall’articolo 4, paragrafo 2, della direttiva 89/106, l’articolo 6, paragrafo
+2, di quest’ultima dispone che gli Stati membri ne consentono l’immissione sul
+mercato nel loro territorio se tali prodotti soddisfano prescrizioni nazionali
+conformi al Trattato e fintantoché le specificazioni tecniche europee non
+dispongano diversamente (v., in tal senso, sentenza Commissione/Belgio, cit.,
+punto 33).  
+  
+---|---  
+  
+41
+
+|
+
+Come risulta dalla decisione di rinvio, in forza della normativa nazionale
+spagnola sussistono due possibilità di attestare la conformità dell’acciaio
+per calcestruzzo armato agli standard di sicurezza e di qualità industriali
+spagnoli, ossia mediante prove e controlli al momento dell’accettazione dei
+lotti di acciaio nel cantiere ovvero esibendo una certificazione di qualità
+sulla base della quale si presume che il produttore dell’acciaio abbia
+soddisfatto specificazioni tecniche superiori.  
+  
+---|---  
+  
+42
+
+|
+
+Le ricorrenti nel procedimento principale, confermando la valutazione del
+giudice del rinvio, hanno sottolineato che la prima soluzione comporta un
+aumento dei costi di controllo; il governo spagnolo ha evidenziato,
+quantomeno, che in tale ambito i controlli sono maggiori e che i relativi
+costi vengono a gravare sugli utilizzatori finali.  
+  
+---|---  
+  
+43
+
+|
+
+In tali condizioni, la seconda modalità di attestazione della conformità
+dell’acciaio per armatura riveste in Spagna un’importanza del tutto
+particolare, dal momento che gli utilizzatori finali sono economicamente
+indotti a far uso dell’acciaio per armatura recante una certificazione di
+qualità.  
+  
+---|---  
+  
+44
+
+|
+
+In proposito, va osservato che l’articolo 81 del regolamento sul calcestruzzo
+prevede un procedimento di riconoscimento delle certificazioni di qualità
+rilasciate da organismi di Stati membri diversi dal Regno di Spagna
+all’acciaio per armatura ivi fabbricato. In particolare, detto articolo
+dispone che, per essere ufficialmente riconosciuta, la certificazione di
+qualità rilasciata da uno Stato membro deve soddisfare le condizioni stabilite
+all’allegato 19 di tale regolamento.  
+  
+---|---  
+  
+45
+
+|
+
+In tale allegato sono specificate, da un lato, le condizioni sostanziali cui
+deve essere conforme l’acciaio per armatura e, dall’altro, i requisiti
+procedurali e formali relativi al rilascio della certificazione di qualità.  
+  
+---|---  
+  
+46
+
+|
+
+In particolare, l’articolo 4 dell’allegato 19 del regolamento sul calcestruzzo
+prescrive i requisiti a cui devono essere conformi gli organismi di
+certificazione appartenenti a Stati membri diversi dal Regno di Spagna
+affinché le certificazioni di qualità da essi rilasciate siano riconosciute
+ufficialmente in Spagna.  
+  
+---|---  
+  
+47
+
+|
+
+In tale contesto si deve ricordare che, in forza dell’articolo 16, paragrafo
+1, della direttiva 89/106, applicabile ai materiali da costruzione le cui
+specificazioni tecniche non siano state armonizzate, lo Stato membro di
+destinazione considera come conformi alle disposizioni nazionali in vigore i
+prodotti che abbiano superato le prove e i controlli effettuati, nello Stato
+membro di fabbricazione, da un organismo riconosciuto secondo i metodi in
+vigore nello Stato membro di destinazione o da esso riconosciuti come
+equivalenti.  
+  
+---|---  
+  
+48
+
+|
+
+A tale riguardo, l’allegato IV della suddetta direttiva stabilisce le
+condizioni minime necessarie che devono essere soddisfatte dagli organismi di
+certificazione, dagli organismi di ispezione e dai laboratori di prova per
+essere riconosciuti.  
+  
+---|---  
+  
+49
+
+|
+
+Si deve necessariamente rilevare che i requisiti prescritti per gli organismi
+di certificazione all’articolo 4 dell’allegato 19 del regolamento sul
+calcestruzzo vanno al di là di tali condizioni minime.  
+  
+---|---  
+  
+50
+
+|
+
+Orbene, è pacifico che uno Stato membro può assoggettare l’immissione sul
+mercato nel suo territorio di un materiale da costruzione, non rientrante in
+specificazioni tecniche armonizzate o riconosciute a livello dell’Unione, solo
+a disposizioni nazionali conformi agli obblighi che derivano dal Trattato, in
+particolare al principio della libera circolazione delle merci sancito negli
+articoli 34 TFUE e 36 TFUE (v. sentenza Commissione/Belgio, cit., punto 34).  
+  
+---|---  
+  
+51
+
+|
+
+Pertanto, occorre verificare se, come sostenuto dalle ricorrenti nel
+procedimento principale, l’applicazione tassativa delle condizioni di cui
+trattasi agli organismi di certificazione appartenenti ad uno Stato membro
+diverso dal Regno di Spagna configuri un ostacolo alla libera circolazione
+delle merci.  
+  
+---|---  
+  
+Sull’esistenza di un ostacolo alla libera circolazione delle merci
+
+52
+
+|
+
+Secondo costante giurisprudenza, ogni normativa commerciale degli Stati membri
+idonea ad ostacolare direttamente o indirettamente, in atto o in potenza, il
+commercio nell’ambito dell’Unione deve essere considerata come una misura di
+effetto equivalente a restrizioni quantitative ai sensi dell’articolo 34 TFUE
+(v., in particolare, sentenze dell’11 luglio 1974, Dassonville, 8/74, Racc.
+pag. 837, punto 5, e del 2 dicembre 2010, Ker-Optika, C-108/09, Racc. pag.
+I-12213, punto 47).  
+  
+---|---  
+  
+53
+
+|
+
+Da giurisprudenza parimenti costante risulta che l’articolo 34 TFUE riflette
+l’obbligo di rispettare i principi di non discriminazione e di mutuo
+riconoscimento dei prodotti legalmente fabbricati e commercializzati in altri
+Stati membri e di assicurare ai prodotti dell’Unione libero accesso ai mercati
+nazionali (v. sentenze del 10 febbraio 2009, Commissione/Italia, C-110/05,
+Racc. pag. I-519, punto 34, e Ker-Optika, cit., punto 48).  
+  
+---|---  
+  
+54
+
+|
+
+Nel caso specifico, a termini dell’articolo 4 dell’allegato 19 del regolamento
+sul calcestruzzo, gli organismi appartenenti a Stati membri diversi dal Regno
+di Spagna che rilasciano certificati di qualità per l’acciaio per armatura
+devono soddisfare tutti i requisiti ivi prescritti affinché detti certificati
+siano ufficialmente riconosciuti in Spagna.  
+  
+---|---  
+  
+55
+
+|
+
+L’imposizione di tutti i predetti requisiti è tale da comportare il rigetto
+della domanda di riconoscimento dei certificati di qualità rilasciati in uno
+Stato membro diverso dal Regno di Spagna quando l’organismo che li rilascia
+non è ad essi conforme, tanto più che l’articolo 4 dell’allegato 19 del
+regolamento sul calcestruzzo prescrive condizioni più ampie rispetto agli
+standard minimi necessari previsti dall’allegato IV della direttiva 89/106 cui
+devono rispondere gli organismi riconosciuti ai sensi di tale direttiva.  
+  
+---|---  
+  
+56
+
+|
+
+Pertanto, i requisiti controversi sono idonei a limitare l’accesso al mercato
+spagnolo dell’acciaio per armatura prodotto e certificato in uno Stato membro
+diverso dal Regno di Spagna, dal momento che essi non sono necessariamente
+soddisfatti dall’organismo di certificazione dello Stato di produzione.  
+  
+---|---  
+  
+57
+
+|
+
+Dato che gli operatori economici stabiliti nel Regno di Spagna risultano
+dissuasi dall’importare acciaio per armatura prodotto in un altro Stato
+membro, e sebbene le prescrizioni dell’articolo 4 dell’allegato 19 del
+regolamento sul calcestruzzo valgano tanto per gli organismi di certificazione
+appartenenti a Stati membri diversi dal Regno di Spagna quanto per gli
+organismi di certificazione spagnoli, la normativa nazionale controversa deve
+essere considerata una misura di effetto equivalente ad una restrizione
+quantitativa all’importazione ai sensi dell’articolo 34 TFUE.  
+  
+---|---  
+  
+Sulla giustificazione dell’ostacolo alla libera circolazione delle merci
+
+58
+
+|
+
+È pacifico che un ostacolo alla libera circolazione delle merci può essere
+giustificato dai motivi di interesse generale indicati nell’articolo 36 TFUE
+oppure da una ragione imperativa. In entrambi i casi, la misura nazionale deve
+essere idonea a garantire la realizzazione dell’obiettivo perseguito e non
+deve andare oltre quanto necessario per il suo raggiungimento (v. sentenza
+Ker-Optika, cit., punto 57).  
+  
+---|---  
+  
+59
+
+|
+
+Nella fattispecie in esame, il governo spagnolo sottolinea che la normativa
+nazionale controversa è giustificata dall’obiettivo di tutela della salute e
+della vita delle persone, in quanto essa mira a garantire la sicurezza dei
+destinatari delle opere di ingegneria civile e degli edifici.  
+  
+---|---  
+  
+60
+
+|
+
+A questo riguardo è pacifico che, in mancanza di norme di armonizzazione, gli
+Stati membri restano liberi di decidere in merito al livello al quale
+intendono garantire la tutela della salute e della vita delle persone ed alla
+necessità di controllare i prodotti in questione al momento del loro uso (v.,
+in tal senso, sentenze del 27 giugno 1996, Brandsma, C-293/94, Racc. pag.
+I-3159, punto 11, e del 10 novembre 2005, Commissione/Portogallo, C-432/03,
+Racc. pag. I-9665, punto 44).  
+  
+---|---  
+  
+61
+
+|
+
+In tale ambito vanno evidenziate le divergenze emerse nel corso dell’udienza
+tra, da un lato, l’interpretazione del sistema delle certificazioni di qualità
+difesa oralmente da talune parti interessate e, dall’altro, il dettato stesso
+delle disposizioni nazionali in esame nonché le osservazioni scritte di talune
+di dette parti.  
+  
+---|---  
+  
+62
+
+|
+
+Infatti, l’articolo 2 dell’allegato 19 del regolamento sul calcestruzzo
+dispone che «[i]n via complementare, e su base volontaria, il produttore, il
+responsabile di un procedimento o il costruttore potranno optare per
+l’apposizione di una certificazione di qualità che attesti un livello di
+garanzia superiore a quello minimo previsto dal presente regolamento (...). Il
+presente allegato indica le condizioni che consentono di distinguere le
+certificazioni che conferiscono un livello di garanzia aggiuntivo rispetto al
+minimo regolamentare e possono, pertanto, essere ufficialmente riconosciute
+dalle amministrazioni competenti». Nelle loro osservazioni scritte, il governo
+spagnolo e l’Acerteq hanno affermato che le certificazioni di qualità
+riconosciute ufficialmente consentono di dimostrare che il prodotto
+certificato offre un livello di garanzia superiore o molto superiore a quello
+generalmente richiesto dal regolamento sul calcestruzzo.  
+  
+---|---  
+  
+63
+
+|
+
+Qualora il giudice del rinvio dovesse accogliere tale concezione del sistema
+delle certificazioni di qualità in Spagna, ne conseguirebbe che le
+certificazioni di qualità riconosciute ufficialmente in Spagna sarebbero
+dirette ad attestare che il prodotto certificato è conforme a requisiti che
+superano gli standard minimi prescritti dal regolamento sul calcestruzzo per
+garantire la sicurezza industriale.  
+  
+---|---  
+  
+64
+
+|
+
+In tali circostanze, le condizioni che l’allegato 19 del regolamento sul
+calcestruzzo prescrive per gli organismi che rilasciano le certificazioni di
+qualità nonché per le procedure da seguire per ottenere il riconoscimento
+ufficiale di tali certificazioni in Spagna andrebbero al di là di quanto
+necessario per attestare la conformità dell’acciaio per armatura agli standard
+minimi che garantiscono la tutela della vita e della salute delle persone. Un
+simile obiettivo non potrebbe giustificare l’ostacolo alla libera circolazione
+delle merci risultante dalla normativa nazionale controversa.  
+  
+---|---  
+  
+65
+
+|
+
+Per contro, all’udienza, talune parti interessate hanno sostenuto che il
+sistema spagnolo delle certificazioni di qualità consente di instaurare a
+vantaggio del prodotto certificato una presunzione di conformità agli standard
+minimi posti dal regolamento sul calcestruzzo.  
+  
+---|---  
+  
+66
+
+|
+
+Spetta al giudice del rinvio stabilire quale di tali due interpretazioni del
+diritto nazionale debba essere accolta. Nel caso in cui esso opti per quella
+sostenuta dalle parti nel corso dell’udienza dinanzi alla Corte, occorrerebbe
+distinguere allora tra, da un lato, i certificati di qualità rilasciati in
+Stati membri diversi dal Regno di Spagna da organismi riconosciuti ai sensi
+della direttiva 89/106 e, dall’altro, quelli rilasciati da enti differenti.  
+  
+---|---  
+  
+67
+
+|
+
+In quest’ultima ipotesi, sarebbe del tutto legittimo che uno Stato membro,
+allo scopo di garantire la salute e la vita delle persone, si assicuri che
+l’organismo che ha rilasciato un certificato di qualità sia conforme a
+requisiti relativi alla sua attività di controllo, come quelli previsti
+dall’allegato 19 del regolamento sul calcestruzzo.  
+  
+---|---  
+  
+68
+
+|
+
+Per quanto riguarda i certificati di qualità rilasciati in Stati membri
+diversi dal Regno di Spagna da organismi riconosciuti ai sensi della direttiva
+89/106, la Corte ha già dichiarato che i meccanismi di riconoscimento
+dell’equivalenza di detti certificati richiedono un comportamento attivo da
+parte dell’ente nazionale investito di una domanda di riconoscimento. Del
+resto, un siffatto comportamento attivo s’impone, se del caso, anche
+all’organismo che rilascia un simile certificato, ed è compito degli Stati
+membri assicurarsi che gli organismi competenti riconosciuti cooperino
+reciprocamente, allo scopo di facilitare le procedure da seguire per ottenere
+l’accesso al mercato nazionale dello Stato membro di importazione (v., in tal
+senso, sentenza Commissione/Portogallo, cit., punto 47).  
+  
+---|---  
+  
+69
+
+|
+
+L’articolo 16 della direttiva 89/106 sottolinea inoltre, ai paragrafi 2 e 3,
+l’importanza di siffatta cooperazione.  
+  
+---|---  
+  
+70
+
+|
+
+In tali condizioni, si deve necessariamente rilevare che, alla luce di tale
+cooperazione nonché del principio di mutuo riconoscimento ricordato al punto
+53 della presente sentenza, taluni requisiti prescritti dall’articolo 4
+dell’allegato 19 del regolamento sul calcestruzzo sono tali da andare al di là
+di quanto necessario per assicurare il rispetto degli standard minimi previsti
+dal regolamento sul calcestruzzo a garanzia della tutela della vita e della
+salute delle persone, circostanza che, nel procedimento principale, spetta al
+giudice del rinvio valutare.  
+  
+---|---  
+  
+71
+
+|
+
+Pertanto, si deve rispondere alla questione sollevata dichiarando che gli
+articoli 34 TFUE e 36 TFUE devono essere interpretati nel senso che i
+requisiti prescritti dall’articolo 81 del regolamento sul calcestruzzo, in
+combinato disposto con l’allegato 19 di tale regolamento, per consentire il
+riconoscimento ufficiale dei certificati attestanti il livello di qualità
+dell’acciaio per calcestruzzo armato rilasciati in uno Stato membro diverso
+dal Regno di Spagna costituiscono un ostacolo alla libera circolazione delle
+merci. Un simile ostacolo può essere giustificato dall’obiettivo di tutela
+della salute e della vita delle persone, purché i requisiti prescritti non
+siano superiori agli standard minimi richiesti per l’uso dell’acciaio per
+calcestruzzo armato in Spagna. In tal caso, spetta al giudice del rinvio
+accertare, nell’ipotesi in cui l’ente che rilascia il certificato di qualità
+che deve essere oggetto di un riconoscimento ufficiale in Spagna abbia la
+qualità di organismo riconosciuto ai sensi della direttiva 89/106, quali di
+tali requisiti eccedano quanto necessario a realizzare l’obiettivo di tutela
+della salute e della vita delle persone.  
+  
+---|---  
+  
+Sulle spese
+
+72
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Quinta Sezione) dichiara:  
+  
+---|---  
+|
+
+Gli articoli 34 TFUE e 36 TFUE devono essere interpretati nel senso che i
+requisiti prescritti dall’articolo 81 del regolamento sul calcestruzzo
+strutturale (EHE-08), approvato con il regio decreto n. 1247/2008, del 18
+luglio 2008, in combinato disposto con l’allegato 19 di tale regolamento, per
+consentire il riconoscimento ufficiale dei certificati attestanti il livello
+di qualità dell’acciaio per calcestruzzo armato rilasciati in uno Stato membro
+diverso dal Regno di Spagna costituiscono un ostacolo alla libera circolazione
+delle merci. Un simile ostacolo può essere giustificato dall’obiettivo di
+tutela della salute e della vita delle persone, purché i requisiti prescritti
+non siano superiori agli standard minimi richiesti per l’uso dell’acciaio per
+calcestruzzo armato in Spagna. In tal caso, spetta al giudice del rinvio
+accertare, nell’ipotesi in cui l’ente che rilascia il certificato di qualità
+che deve essere oggetto di un riconoscimento ufficiale in Spagna abbia la
+qualità di organismo riconosciuto ai sensi della direttiva 89/106/CEE del
+Consiglio, del 21 dicembre 1988, relativa al ravvicinamento delle disposizioni
+legislative, regolamentari e amministrative degli Stati membri concernenti i
+prodotti da costruzione, come modificata dalla direttiva 93/68/CEE del
+Consiglio, del 22 luglio 1993, quali di tali requisiti eccedano quanto
+necessario a realizzare l’obiettivo di tutela della salute e della vita delle
+persone.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: lo spagnolo.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

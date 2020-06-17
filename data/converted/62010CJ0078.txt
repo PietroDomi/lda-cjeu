@@ -1,0 +1,699 @@
+
+
+SENTENZA DELLA CORTE (Quarta Sezione)
+
+17 febbraio 2011 (*)
+
+«Codice doganale comunitario - Artt. 213, 233 e 239 - Obbligo di solidarieta
+di piu debitori per una stessa obbligazione doganale - Sgravio dei dazi
+all'importazione - Estinzione dell'obbligazione doganale - Possibilita pour un
+codebitore solidale di avvalersi dello sgravio accordato a un altro codebitore
+− Insussistenza»
+
+Nel procedimento C‑78/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dalla Cour d'appel de Rouen (Francia) con
+decisione 28 gennaio 2010, pervenuta in cancelleria il 10 febbraio 2010, nella
+causa
+
+**Marc Berel,** in qualita di rappresentante della societa Port Angot
+Developpement,
+
+**Emmanuel Hess,** in qualita di curatore fallimentare della societe Port
+Angot Developpement,
+
+**Rijn Schelde Mondia France SA** ,
+
+**Receveur principal des douanes de Rouen Port** ,
+
+**Administration des douanes - Havre port**,
+
+**Soci ete Port Angot Developpement, **succeduta alla Manutention de Produits
+Chimiques et Miniers Maprochim SAS,
+
+**Asia Pulp & Paper France EURL**
+
+contro
+
+**Administration des douanes de Rouen,**
+
+**Receveur principal des douanes du Havre,**
+
+**Administration des douanes du Havre,**
+
+LA CORTE (Quarta Sezione),
+
+composta dal sig. J.-C. Bonichot, presidente di sezione, dai sigg. K.
+Schiemann, L. Bay Larsen, dalle sig.re C. Toader e A. Prechal (relatore),
+giudici,
+
+avvocato generale: sig.ra V. Trstenjak
+
+cancelliere: sig.ra C. Stromholm, amministratore
+
+vista la fase scritta del procedimento e in seguito all'udienza dell'11
+novembre 2010,
+
+considerate le osservazioni presentate:
+
+-        per il sig. M. Berel, in qualita di rappresentante della societa Port Angot Developpement, dall'avv. E. Taÿ Pamart, avocat;
+
+-        per l'Asia Pulp & Paper Francia EURL, dagli avv.ti F. Citron e S. Le Roy, avocats;
+
+-        per il governo francese, dai sigg. G. de Bergues e B. Cabouat, in qualita di agenti;
+
+-        per la Commissione europea, dalla sig.ra L. Bouyon e dal sig. B.R. Killmann, in qualita di agenti,
+
+sentite le conclusioni dell'avvocato generale, presentate all'udienza del 16
+dicembre 2010,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+degli artt. 213, 233 e 239 del regolamento (CEE) del Consiglio 12 ottobre
+1992, n. 2913, che istituisce un codice doganale comunitario (GU L 302, pag.
+1), come modificato dal regolamento (CE) del Parlamento europeo e del
+Consiglio 19 dicembre 1996, n. 82/97 (GU 1997, L 17, pag. 1; in prosieguo: il
+«codice doganale»),
+
+2        Tale domanda e stata proposta nell'ambito di una controversia che
+oppone il sig. Berel, rappresentante della societa Port Angot Developpement,
+succeduta alla Manutention de Produits Chimiques et Miniers Maprochim SAS (in
+prosieguo: la «Maprochim»), la Rijn Schelde Mondia France SA (in prosieguo: la
+«Mondia France») e l'Asia Pulp & Paper France EURL (in prosieguo: l'«Asia P &
+P») all'aministrazione doganale di Rouen, all'esattoria principale delle
+dogane di Le Havre e all'amministrazione doganale di Le Havre (in prosieguo:
+le «autorita doganali») relativamente al recupero di un dazio doganale di cui
+sono debitori in solido la Maprochim, l'Asia P & P e la Mondia France e grazie
+al quale quest'ultima societa ha beneficiato di un parziale sgravio.
+
+  **Contesto normativo**
+
+  _Il diritto dell 'Unione_
+
+3        L'art. 4 del codice doganale prevede quanto segue:
+
+«Ai fini del presente codice, s'intende per:
+
+(...)
+
+9)      obbligazione doganale: l'obbligo di una persona di corrispondere
+l'importo dei dazi all'importazione (obbligazione doganale all'importazione)
+(...) applicabili in virtu delle disposizioni comunitarie in vigore ad una
+determinata merce;
+
+(...)
+
+12)      debitore doganale: qualsiasi persona tenuta al pagamento
+dell'obbligazione doganale;
+
+(...)».
+
+4        L'art. 5 del codice doganale cosi dispone:
+
+«1.      (...) chiunque puo farsi rappresentare presso l'autorita doganale per
+l'espletamento di atti e formalita previsti dalla normativa doganale.
+
+2.      La rappresentanza puo essere:
+
+-        diretta, quando il rappresentante agisce a nome e per conto di terzi, oppure,
+
+-        indiretta, quando il rappresentante agisce a nome proprio ma per conto di terzi.
+
+(...)
+
+4.      Il rappresentante deve dichiarare di agire per la persona rappresentata, precisare se si tratta di una rappresentanza diretta o indiretta e disporre del potere di rappresentanza. 
+
+La persona che non dichiari di agire a nome o per conto di un terzo o che
+dichiari di agire a nome o per conto di un terzo senza disporre del potere di
+rappresentanza e considerata agire a suo nome e per proprio conto.
+
+(...)».
+
+5        Ai termini dell'art. 202 del codice doganale:
+
+«1.      L'obbligazione doganale all'importazione sorge in seguito:
+
+a)      all'irregolare introduzione nel territorio doganale della Comunita di
+una merce soggetta a dazi all'importazione
+
+(...)
+
+Ai sensi del presente articolo, per introduzione irregolare s'intende
+qualsiasi introduzione effettuata in violazione degli articoli da 38 a 41 e
+dell'articolo 177, secondo trattino.
+
+2.      L'obbligazione doganale sorge al momento dell'introduzione irregolare.
+
+3.      Sono debitori:
+
+-        la persona che ha proceduto a tale introduzione irregolare,
+
+-        le persone che hanno partecipato a questa introduzione sapendo o dovendo, secondo ragione, sapere che essa era irregolare,
+
+-        le persone che hanno acquisito o detenuto la merce considerata e sapevano o avrebbero dovuto, secondo ragione, sapere allorquando l'hanno acquisita o ricevuta che si trattava di merce introdotta irregolarmente». 
+
+6        L'art. 203 del codice doganale e del seguente tenore:
+
+«1.      L'obbligazione doganale all'importazione sorge in seguito:
+
+-         alla sottrazione al controllo doganale di una merce soggetta a dazi all'importazione.
+
+2.      L'obbligazione doganale sorge all'atto della sottrazione della merce al controllo doganale.
+
+3.      I debitori sono:
+
+-         la persona che ha sottratto la merce al controllo doganale,
+
+-        le persone che hanno partecipato a tale sottrazione sapendo o dovendo, secondo ragione, sapere che si trattava di una sottrazione di merce al controllo doganale, 
+
+-        le persone che hanno acquisito o detenuto tale merce e sapevano o avrebbero dovuto, secondo ragione, sapere allorquando l'hanno acquisita o ricevuta che si trattava di merce sottratta al controllo doganale e, 
+
+-        se del caso, la persona che deve adempiere agli obblighi che comporta la permanenza della merce in custodia temporanea o l'utilizzazione del regime doganale al quale la merce e stata vincolata». 
+
+7        L'art. 213 del codice doganale prevede quanto segue:
+
+«Quando per una medesima obbligazione doganale esistono piu debitori, essi
+sono tenuti al pagamento dell'obbligazione in solido».
+
+8        L'art. 233 del detto codice dispone come segue:
+
+«(...) l'obbligazione doganale si estingue:
+
+a)      con il pagamento dell'importo dei dazi;
+
+b)      con lo sgravio dell'importo dei dazi;
+
+(...)».
+
+9        L'art. 236 del codice doganale prevede quanto segue:
+
+«1.      Si procede al rimborso dei dazi all'importazione o dei dazi
+all'esportazione quando si constati che al momento del pagamento il loro
+importo non era legalmente dovuto o che l'importo e stato contabilizzato
+contrariamente all'articolo 220, paragrafo 2\.
+
+Si procede allo sgravio dei dazi all'importazione o dei dazi all'esportazione
+quando si constati che al momento della contabilizzazione il loro importo non
+era legalmente dovuto o che l'importo e stato contabilizzato contrariamente
+all'articolo 220, paragrafo 2\.
+
+Non vengono accordati ne rimborso ne sgravio qualora i fatti che hanno dato
+luogo al pagamento o alla contabilizzazione di un importo che non era
+legalmente dovuto risultano da una frode dell'interessato.
+
+2.      Il rimborso o lo sgravio dei dazi all'importazione o dei dazi all'esportazione viene concesso, su richiesta presentata all'ufficio doganale interessato, entro tre anni dalla data della notifica al debitore dei dazi stessi. 
+
+Questo termine viene prorogato quando l'interessato fornisce la prova che gli
+e stato impossibile presentare la domanda nel termine stabilito per caso
+fortuito o di forza maggiore.
+
+L'autorita doganale procede d'ufficio al rimborso o allo sgravio dei dazi di
+cui sopra quando constati, durante detto termine, l'esistenza di una delle
+situazioni descritte nel paragrafo 1, primo e secondo comma».
+
+10      Ai termini dell'art. 239 del medesimo codice:
+
+«1.      Si puo procedere al rimborso o allo sgravio dei dazi all'importazione
+o dei dazi all'esportazione in situazioni diverse da quelle di cui agli
+articoli 236, 237 e 238:
+
+-        da determinarsi secondo la procedura del comitato,
+
+-        dovute a circostanze che non implicano frode o manifesta negligenza da parte dell'interessato. Le situazioni in cui si applica la presente disposizione e le modalita procedurali da osservare sono definite secondo la procedura del comitato. Il rimborso e lo sgravio possono essere subordinati a condizioni particolari. 
+
+2.      Il rimborso o lo sgravio dei dazi per i motivi di cui al paragrafo 1 e concesso su richiesta presentata all'ufficio doganale interessato entro dodici mesi dalla data della comunicazione al debitore dei predetti dazi. 
+
+(...)».
+
+11       L'art. 878 n 1, del regolamento (CEE) della Commissione 2 luglio
+1993, n. 2454, che fissa talune disposizioni d'applicazione del regolamento
+(CEE) n. 2913/92 (GU L 253, pag. 1), come modificato dal regolamento (CE)
+della Commissione 29 luglio 1998, n. 1677 (GU L 212, pag. 18; in prosieguo: il
+«regolamento di applicazione»), cosi prevede:
+
+«La domanda di rimborso o di sgravio dei dazi all'importazione o
+all'esportazione, qui di seguito denominata "domanda di rimborso o di
+sgravio", e fatta dalla persona che ha pagato tali dazi o e tenuta a pagarli,
+oppure dalle persone che le sono succedute nei suoi diritti e obblighi.
+
+La domanda di rimborso o di sgravio puo ugualmente essere introdotta dal
+rappresentante della persona o delle persone di cui al primo comma».
+
+12      L'art. 899 del regolamento di applicazione dispone come segue:
+
+«Fatte salve altre situazioni da esaminare caso per caso nell'ambito della
+procedura prevista agli articoli da 905 a 909 e quando l'autorita doganale di
+decisione, cui e stata presentata la domanda di rimborso o di sgravio di cui
+all'articolo 239, paragrafo 2 del codice, constati:
+
+-        che i motivi addotti a sostegno della domanda corrispondono all'una o all'altra situazione di cui agli articoli da 900 a 903 e che non vi e stata alcuna manovra fraudolenta o manifesta negligenza dell'interessato, accorda il rimborso o lo sgravio dell'importo dei dazi all'importazione in oggetto. 
+
+Per "interessato" s'intende la (le) persona(e) di cui all'articolo 878,
+paragrafo 1, o i loro rappresentanti e, all'occorrenza, ogni altra persona che
+abbia partecipato all'espletamento delle formalita doganali relative alle
+merci in oggetto o che abbia dato le istruzioni necessarie per l'espletamento
+di tali formalita,
+
+-         che i motivi addotti a sostegno della domanda corrispondono all'una o all'altra situazione di cui all'articolo 904, non accorda il rimborso o lo sgravio dell'importo dei dazi all'importazione in oggetto». 
+
+13      L'art. 900, n. 1, lett. o), del regolamento di applicazione cosi
+recita:
+
+«Si procede al rimborso o allo sgravio dei dazi all'importazione quando:
+
+(...)
+
+o)      l'obbligazione doganale non sia sorta sulla base dell'articolo 201 del
+codice [doganale] e l'interessato possa presentare un certificato d'origine,
+(...) o qualsiasi altro documento appropriato attestante che le merci
+importate avrebbero potuto, qualora fossero state dichiarate per l'immissione
+in libera pratica, beneficiarie del trattamento comunitario o di un
+trattamento tariffario preferenziale, sempre che siano state soddisfatte le
+altre condizioni previste dall'articolo 890».
+
+  _Il diritto nazionale_
+
+14      L'art. 1208 del code civil (codice civile francese) dispone quanto
+segue:
+
+«Il codebitore solidale perseguito dal creditore puo opporre tutte le
+eccezioni risultanti dalla natura dell'obbligazione e tutte quelle proprie a
+lui personalmente, nonche quelle comuni a tutti i debitori.
+
+Egli non puo opporre le eccezioni puramente personali di qualcuno degli altri
+debitori».
+
+15      Ai termini dell'art. 1285 del code civil:
+
+«Lo sgravio o discarico convenzionale in favore di uno dei debitori solidali
+libera tutti gli altri, a meno che il creditore non abbia espressamente
+riservato i suoi diritti nei confronti di questi ultimi.
+
+In quest'ultimo caso, puo ripetere il debito solo al netto della parte di
+colui al quale ha fatto lo sgravio».
+
+  **Causa principale e questione pregiudiziale**
+
+16      La Mondia France e una societa specializzata nell'importazione ed
+esportazione di prodotti forestali, in particolare carta e cellulosa, nonche
+nello stoccaggio e nella distribuzione di tali merci. A tal fine, essa e
+titolare di un'autorizzazione per la gestione di magazzini e aree di custodia
+temporanea (MADT) a Rouen e a Le Havre.
+
+17      L'Asia P & P, che e una cliente della Mondia France, affidava a
+quest'ultima le operazioni legate al trasporto, allo stoccaggio e allo
+sdoganamento di merci da essa vendute nell'Unione europea, essenzialmente
+carta di origine indonesiana.
+
+18      La Mondia France incaricava la Maprochim, operante come agente
+doganale, di effettuare, per suo conto, le operazioni di sdoganamento di dette
+merci.
+
+19      Nel corso del mese di aprile 2000, le autorita doganali sottoponevano
+a verifica le operazioni d'importazione di tali merci, effettuate nel 1998 e
+nel 1999, sia a Le Havre sia a Rouen.
+
+20      In occasione di tale verifica, veniva constatato che una parte delle
+merci stoccate nei magazzini della Mondia France era stata consegnata all'Asia
+P & P senza che fossero state adempiute le formalita di sdoganamento. Per tali
+merci, dette autorita consideravano che era stata commessa l'infrazione di
+importazione senza dichiarazione.
+
+21      Per un'altra parte delle merci veniva accertato che erano state
+consegnate senza adempiere le formalita di sdoganamento, che erano state
+effettuate solo dopo la data in cui tali merci avevano lasciato il magazzino
+accreditato della Mondia France. Per tali merci, le autorita doganali
+addebitavano l'infrazione consistente nella sottrazione di merci sotto
+controllo doganale.
+
+22      Le autorita doganali notificavano quindi alla Mondia France, all'Asia
+P & P e alla Maprochim le infrazioni che avevano accertato e richiedevano i
+dazi e le imposte corrispondenti alle forniture di tali merci, costituiti da
+dazi doganali e altre imposte. In seguito, esse emettevano avvisi di
+riscossione nei confronti di tali tre societa, in particolare per il pagamento
+dei dazi doganali.
+
+23      Dopo che i loro reclami avverso i detti avvisi erano stati respinti
+dalle autorita doganali, queste ultime venivano citate in giudizio davanti ai
+giudici di Le Havre e di Rouen dalle tre societa di cui trattasi per ottenere
+l'annullamento sia degli avvisi di riscossione che le riguardavano sia delle
+decisioni che avevano respinto tali reclami. Il Tribunal d'instance (Tribunale
+di primo grado) di Le Havre rimetteva poi la causa al Tribunal d'instance
+(Tribunale di primo grado) di Rouen per ragioni di connessione.
+
+24      Il 31 ottobre 2000 la Mondia France presentava inoltre alla direction
+generale des douanes (direzione generale delle dogane) una domanda di sgravio
+dei dazi ai sensi degli artt. 239 del codice doganale e 900, n. 1, lett. o),
+del regolamento di applicazione, facendo valere l'assenza di manovre
+fraudolente o di negligenza manifesta e chiedendo il beneficio, a posteriori,
+del trattamento tariffario preferenziale applicabile alla carta proveniente
+dall'Indonesia.
+
+25      In un primo momento, tale domanda veniva respinta, poiche la direction
+generale des douanes aveva ottenuto preventivamente il parere della
+Commissione delle Comunita europee, la quale aveva ritenuto, in una lettera
+datata 7 ottobre 2004, che si doveva ravvisare l'esistenza di una negligenza
+manifesta da parte della Mondia France. Il ricorso contro tale lettera era
+stato dichiarato manifestamente irricevibile con ordinanza del Tribunale di
+primo grado delle Comunita europee 25 gennaio 2007, causa T‑55/05, Rijn
+Schelde Mondia France/Commissione.
+
+26      Tuttavia, alla luce di nuovi elementi loro comunicati, le autorita
+doganali, in un secondo momento, con lettere in data 6 febbraio e 3 marzo
+2006, accordavano alla Mondia France uno sgravio parziale dei dazi.
+
+27      Con sentenza 11 aprile 2008, il Tribunal d'instance di Rouen,
+prendendo atto di tale sgravio, respingeva le domande di annullamento,
+presentate dalla Mondia France, dall'Asia P & P e dalla Maprochim, degli
+avvisi di riscossione dei dazi che le riguardavano.
+
+28      Per quanto riguarda lo sgravio di dazi richiesto dall'Asia P & P e
+dalla Maprochim, detto giudice dichiarava che risultava dall'art. 1208 del
+code civil che, dovendo ciascun codebitore solidale essere considerato
+necessariamente il rappresentante degli altri codebitori, la cosa giudicata
+nei confronti dell'uno e opponibile agli altri, e cio anche quando questi
+ultimi sono rimasti fuori dal giudizio.
+
+29      Esso perveniva alla conclusione che doveva considerarsi che la Mondia
+France, presentando una domanda di sgravio dei dazi, aveva agito non soltanto
+per proprio conto, ma anche in qualita di rappresentante del codebitore
+solidale, ossia l'Asia P & P.
+
+30      Pertanto, il Tribunal d'instance di Rouen riduceva l'importo
+dell'obbligazione doganale dovuta dall'Asia P & P a concorrenza dello sgravio
+parziale di dazi concesso alla Mondia France, cosicche l'importo di tale
+obbligazione fosse lo stesso di quello dovuto da quest'ultima societa. Cosi,
+l'importo dell'obbligazione dell'Asia P & P che era di EUR 980 058,65 veniva
+ricondotto a EUR 224 390, 73\.
+
+31      Per quanto concerne la Maprochim, il Tribunal d'instance di Rouen
+considerava che tale societa fosse debitrice di un debito doganale di EUR 49
+284 in applicazione dell'art. 203, n. 3, del codice doganale, per aver
+partecipato alla sottrazione della merce al controllo doganale sapendo o
+dovendo ragionevolmente sapere che si trattava di una simile sottrazione.
+
+32      Tale giudice dichiarava, inoltre, che la Maprochim non poteva
+pretendere uno sgravio di dazi in base all'art. 236 del detto codice, perche
+tale disposizione non si applica quando si tratta di un'obbligazione doganale
+sorta non dall'immissione in libera pratica delle merci, ma dalla sottrazione
+delle stesse al controllo doganale.
+
+33      La Mondia France, l'Asia P & P e la Maprochim cosi come le autorita
+doganali interponevano appello avverso tale sentenza dinanzi alla Cour d'appel
+di Rouen.
+
+34      Il giudice del rinvio considera, innanzitutto, che, poiche gli avvisi
+di riscossione notificati all'Asia P & P erano regolari, tale societa non
+poteva piu presentare una domanda di sgravio dell'obbligazione dinanzi a tale
+giurisdizione, dato che il termine di dodici mesi previsto all'art. 239, n. 2,
+del codice doganale era scaduto.
+
+35      Il giudice del rinvio respingeva poi l'argomento dell'Asia P & P,
+secondo il quale detta societa avrebbe dovuto beneficiare dello sgravio
+accordato alla Mondia France, dato che quest'ultima aveva un mandato generale
+di rappresentanza e avrebbe quindi presentato la domanda di sgravio anche per
+conto dell'Asia P & P. A tal proposito, il detto giudice dichiarava che i
+presupposti elencati all'art. 5, n. 4, del codice doganale hanno portata
+generale e nel caso di specie nessuno di essi era soddisfatto.
+
+36      Infine, sempre per quanto riguarda l'Asia P & P, il giudice del rinvio
+considerava altresi che la decisione di sgravio dei dazi concesso alla Mondia
+France costituiva un'eccezione ad personam per quest'ultima, ai sensi
+dell'art. 1208 del code civil, che l'Asia P & P non poteva invocare in quanto
+tale, tanto piu che non poteva opporre tale eccezione che non era comune a
+tutti gli altri codebitori.
+
+37      Tale giudice si pone tuttavia la questione se gli artt. 213, 233 e 239
+del codice doganale ostino all'applicazione del principio di mutua
+rappresentanza dei codebitori solidali che discende, in presenza di
+determinate condizioni, dagli artt. 1200 e seguenti del code civil,
+consentendo cosi all'Asia P & P, che aveva incaricato la Mondia France di
+procedere alle operazioni di sdoganamento, di beneficiare dello sgravio
+concesso a quest'ultima societa ai sensi dell'art. 239 di detto codice e
+dell'art. 900, n. 1, lett o), del regolamento d'applicazione.
+
+38      Esso si pone la stessa domanda per quanto riguarda la societa Port
+Angot Developpement, che e succeduta alla Maprochim ed e oggetto di una
+procedura di liquidazione giudiziaria, dato che tale societa ha chiesto,
+dinanzi al giudice del rinvio, di beneficiare dello sgravio accordato alla
+Mondia France e il cui beneficio e stato esteso all'Asia P & P dal Tribunal
+d'instance di Rouen in forza dello stesso principio di mutua rappresentanza
+dei codebitori solidali.
+
+39      Alla luce di quanto sopra, la Cour d'appel di Rouen ha deciso di
+sospendere il procedimento e di sottoporre alla Corte la seguente questione
+pregiudiziale:
+
+«Se gli artt. 213, 233 e 239 del codice doganale (...) ostino a che un
+codebitore solidale del debito doganale, che non abbia fruito di una decisione
+di sgravio del detto debito, possa opporre all'amministrazione incaricata del
+recupero, al fine di essere dispensato dal pagamento del debito doganale, la
+decisione di sgravio fondata sull'art. 239 [di tale codice], notificata ad
+altro codebitore solidale».
+
+  **Sulla questione pregiudiziale**
+
+40      Con la sua domanda, il giudice del rinvio chiede in sostanza se gli
+artt. 213, 233 e 239 del codice doganale debbano essere interpretati nel senso
+che essi ostano all'applicazione, nel contesto di un obbligo di solidarieta
+per un'obbligazione doganale ai sensi dell'art. 213 quale quella controversa
+nella causa principale, di un principio di diritto nazionale dal quale risulta
+che lo sgravio parziale di dazi concesso sul fondamento dell'art. 239 a uno
+dei codebitori puo essere fatto valere da tutti gli altri codebitori, cosicche
+l'estinzione dell'obbligazione prevista all'art. 233, primo comma, lett. b),
+del medesimo codice si riferisce all'obbligazione in quanto tale e quindi
+dispensa l'insieme dei codebitori solidali dal pagamento della stessa nei
+limiti dell'importo per il cui ammontare e stato accordato lo sgravio.
+
+41      A questo proposito occorre osservare che, contrariamente agli artt. 3,
+secondo comma, e 4, n. 1, secondo comma, del regolamento (CEE) del Consiglio
+18 aprile 1988, n. 1031, concernente la determinazione delle persone tenute
+all'adempimento dell'obbligazione doganale (GU L 102, pag. 5), i quali
+impongono, in caso di pluralita di debitori per una stessa obbligazione
+doganale, una responsabilita «conformemente alle disposizioni vigenti negli
+Stati membri (...), a titolo solidale», l'art. 213 del codice doganale, che ha
+sostituito tali disposizioni non effettua piu alcun rinvio al diritto
+nazionale.
+
+42      Detto art. 213 si limita ad affermare il principio di solidarieta in
+caso di pluralita di debitori per una stessa obbligazione doganale. Esso non
+prescrive, infatti, alcuna regola piu precisa relativa all'attuazione di tale
+solidarieta, in particolare quanto all'eventuale incidenza di uno sgravio
+accordato a uno dei codebitori sulle obbligazioni degli altri.
+
+43      Una simile regola inoltre non e espressamente prevista ne in altre
+disposizioni del codice doganale ne nel regolamento di applicazione.
+
+44      Infatti, sebbene l'art. 233, primo comma, lett. b), del codice
+doganale preveda l'estinzione dell'obbligazione doganale in caso di sgravio
+dall'importo dei dazi, tale disposizione non precisa se, in caso di pluralita
+di debitori, tale estinzione riguardi soltanto chi chiede lo sgravio o se si
+estenda parimenti e necessariamente agli altri codebitori dell'obbligazione.
+
+45      Tuttavia, un'interpretazione di tale disposizione che limita
+l'estinzione dell'obbligazione doganale al solo autore della domanda di
+sgravio risulta giustificata tenuto conto di un insieme di elementi
+concordanti.
+
+46      In primo luogo, lo sgravio dei dazi, poiche costituisce, conformemente
+all'art. 233, primo comma, lett. b), del codice doganale, una causa di
+estinzione dell'obbligazione doganale, deve essere interpretato
+restrittivamente. Infatti, tale articolo risponde alla necessita di tutelare
+le risorse proprie dell'Unione europea (v. in tal senso, in particolare,
+sentenza 29 aprile 2010, causa C‑230/08, Dansk Transport og Logistik, Racc.
+pag. I-3799, punto 51 e giurisprudenza ivi citata).
+
+47      In secondo luogo, risulta del pari dalla giurisprudenza della Corte
+che gli Stati membri mantengono la possibilita di adottare misure idonee a
+contribuire efficacemente alla realizzazione degli obiettivi della normativa
+doganale, in particolare alla riscossione effettiva dell'obbligazione
+doganale, e possono altresi, nel rispetto di tali obiettivi e conformemente al
+principio di proporzionalita, stabilire, eventualmente, regole che precisino
+le condizioni d'applicazione di disposizioni previste da tale normativa (v.,
+in tal senso, sentenza 23 settembre 2004, causa C‑414/02, Spedition Ulustrans,
+Racc. pag. I‑8633, punto 38 e giurisprudenza ivi citata).
+
+48      Occorre aggiungere che l'art. 213 del codice doganale e finalizzato
+proprio a raggiungere tale obiettivo di riscossione effettiva
+dell'obbligazione doganale e quindi a garantire la tutela delle risorse
+proprie dell'Unione. Infatti, il meccanismo della solidarieta costituisce uno
+strumento giuridico supplementare messo a disposizione delle autorita
+nazionali al fine di rafforzare l'efficacia della loro azione in materia di
+recupero dell'obbligazione doganale.
+
+49      Orbene, l'applicazione, nell'ambito di un obbligo di solidarieta nei
+confronti di un'obbligazione doganale ai sensi dell'art. 213 del codice
+doganale, di un principio del diritto nazionale come quello della mutua
+rappresentanza dei codebitori solidali evocato dal giudice del rinvio, dal
+quale risulterebbe che lo sgravio dei dazi accordato sul fondamento dell'art.
+239 del codice doganale a uno dei codebitori puo essere fatto valere da tutti
+gli altri codebitori per opporsi al pagamento dell'obbligazione, cosicche la
+relativa estinzione, prevista all'art. 233, primo comma, lett. b), del
+medesimo codice, riguarderebbe necessariamente il debito nella sua integrita,
+non contribuirebbe ad attuare detto obiettivo, il quale riveste un'importanza
+fondamentale nell'ambito della normativa doganale.
+
+50      In terzo luogo, non risulta neppure che l'applicazione di tale
+principio del diritto nazionale e le conseguenze radicali che esso genererebbe
+per l'obbligazione doganale siano giustificati relativamente alle
+caratteristiche di una decisione di sgravio dei dazi fondata sull'art. 239 del
+codice doganale, quale quella controversa nella causa principale.
+
+51      Nel caso di specie, l'obbligo di solidarieta a cui sono tenute le tre
+societa codebitrici dell'obbligazione doganale non deriva dallo stesso fatto
+generatore. Infatti, alcune di loro sono tenute al pagamento di tale
+obbligazione in quanto autori dell'atto che ha originato l'obbligazione
+doganale, nella fattispecie, o l'introduzione irregolare di merci nel
+territorio doganale dell'Unione ai sensi dell'art. 202 del codice doganale, o
+la sottrazione di merci al controllo doganale ai sensi dell'art. 203 del
+medesimo codice. L'obbligo di solidarieta che grava su altre societa deriva o
+dalla loro partecipazione a una simile introduzione o sottrazione oppure dal
+fatto che esse hanno acquistato o detenuto detta merce.
+
+52      In una situazione del genere, l'esame dell'assenza di manovra
+fraudolenta o manifesta negligenza da parte dell'interessato, che costituisce
+un presupposto cui l'art. 239 del codice doganale subordina la concessione di
+uno sgravio dei dazi all'importazione, deve essere effettuato tenuto conto
+delle circostanze specifiche pertinenti rispetto al fatto generatore
+dell'obbligazione doganale in capo a ciascun codebitore nonche dell'esperienza
+professionale e della diligenza propria di costui rispetto ai fatti che gli
+sono addebitati e che fondano il suo obbligo di solidarieta.
+
+53      Ne consegue altresi che, in una situazione quale quella controversa
+nella causa principale, le conclusioni derivanti dall'esame della situazione
+propria a un codebitore non possono, in linea di principio, essere estese ad
+altri codebitori.
+
+54      Peraltro, contrariamente a quanto sostiene l'Asia P & P, una simile
+estensione non puo essere giustificata nel caso di specie neanche adducendo il
+motivo che la Mondia France, che e l'autore della domanda di sgravio di dazi,
+avrebbe fatto tale domanda in qualita di mandatario, in maniera generale nel
+settore doganale, dell'Asia P & P, altro codebitore dell'obbligazione
+doganale.
+
+55      Infatti, come rilevato dal giudice del rinvio, una siffatta
+rappresentanza in materia di sgravio di dazi e subordinata al rispetto delle
+condizioni previste all'art. 5, n. 4, del codice doganale. Inoltre, e
+sufficiente constatare che il giudice del rinvio, l'unico competente ad
+applicare il diritto dell'Unione ai fatti della causa principale, ha
+dichiarato che non ricorreva nessuna di dette condizioni relativamente alla
+richiesta di sgravio di dazi presentata dalla Mondia France.
+
+56      Quanto alla Maprochim, e chiaro che tale societa, che ha agito essa
+stessa in qualita di rappresentante della societa Mondia France ai sensi
+dell'art. 5 del codice doganale per quanto riguarda l'adempimento per proprio
+conto delle formalita legate allo sdoganamento delle merci, non puo pretendere
+di essere stata rappresentata da quest'ultima societa allorquando essa ha
+chiesto il beneficio dello sgravio dei dazi.
+
+57      La Maprochim non puo neanche far valere l'assenza di negligenza
+manifesta accertata per la Mondia France, che e l'operatore economico da essa
+rappresentato.
+
+58      A tale riguardo, la Corte ha precisato che l'operatore che si rivolge
+a un agente doganale, indipendentemente dal fatto che cio avvenga nel contesto
+di una rappresentanza diretta o indiretta, e in ogni caso debitore
+dell'obbligazione doganale nei confronti delle autorita doganali e non puo
+esimersi dalla sua responsabilita adducendo gli errori commessi da tale agente
+(v. sentenza 20 novembre 2008, causa C-38/07 P, Heuschen & Schrouff Oriental
+Foods Trading/Commissione, Racc. pag. I‑8599, punto 52).
+
+59      Allo stesso modo, la Corte ha dichiarato che gli elementi riguardanti
+l'eventuale negligenza di un agente doganale, ivi compreso il livello della
+sua esperienza professionale, devono essere presi in considerazione ai fini
+della valutazione della negligenza dell'importatore rappresentato dal momento
+che non puo essere consentito che alcuni operatori, che si sono rivolti ai
+servizi di un agente doganale, possano sottrarsi al recupero a posteriori di
+dazi doganali invocando la propria inesperienza in materia di formalita
+doganali (v., in tal senso, sentenza Heuschen & Schrouff Oriental Foods
+Trading/Commissione, cit., punti 53 e 54).
+
+60      Tuttavia, non ne discende in nessun modo che, viceversa, un agente
+doganale i cui servizi sono normalmente richiesti per la sua esperienza
+professionale in materia di formalita doganali debba poter beneficiare
+dell'inesperienza in tale materia dell'operatore economico che rappresenta.
+
+61      Se ne deve quindi desumere che risulta dal meccanismo dell'art. 239
+del codice doganale che una decisione di sgravio di dazi fondata su tale
+disposizione, come quella di cui trattasi nella causa principale, puo essere
+invocata soltanto a beneficio dell'unico autore della domanda di sgravio.
+
+62      Tale conclusione e peraltro confortata dal principio secondo il quale
+il rimborso o lo sgravio dei dazi all'importazione o dei dazi
+all'esportazione, i quali possono essere concessi soltanto a determinate
+condizioni ed in casi specificamente previsti, costituiscono un'eccezione
+rispetto al normale regime delle importazioni ed esportazioni e, di
+conseguenza, le disposizioni che prevedono siffatto rimborso o sgravio devono
+essere interpretate restrittivamente (v., in particolare, sentenza 11 novembre
+1999, causa C‑48/98, Sohl & Sohlke, Racc. pag. I‑7877, punto 52).
+
+63      Infine, in una situazione quale quella della causa principale, se il
+principio del diritto nazionale che prevede la mutua rappresentanza dei
+codebitori solidali potesse essere applicato, ne risulterebbe che, in tutti i
+casi, l'obbligazione doganale non potrebbe piu essere recuperata, mentre
+sussisterebbe un rischio che i codebitori diversi dall'autore della domanda di
+sgravio non soddisfino il presupposto relativo all'assenza di manovra
+fraudolenta e negligenza manifesta, tenuto conto sia delle circostanze
+specifiche del fatto generatore del loro obbligo di solidarieta per
+l'obbligazione doganale sia dell'esperienza professionale e della diligenza
+che e loro propria.
+
+64      Una simile conseguenza sarebbe sproporzionata e quindi andrebbe oltre,
+com'e stato ricordato al punto 47 della presente sentenza, i limiti del
+margine discrezionale di cui dispongono gli Stati membri per precisare le
+condizioni di applicazione delle disposizioni previste dalla normativa
+doganale.
+
+65      Pertanto, in una situazione di obbligo di solidarieta per
+un'obbligazione doganale quale quella di cui trattasi nella causa principale,
+l'estinzione di tale obbligazione in caso di sgravio dell'importo dei dazi di
+cui all'art. 233, primo comma, lett. b), del codice doganale si riferisce
+soltanto al solo autore della richiesta di sgravio di dazi e non si estende
+agli altri codebitori dell'obbligazione.
+
+66      Tenuto conto di tutto quanto precede, occorre risolvere la questione
+sollevata dichiarando che gli artt. 213, 233 e 239 del codice doganale devono
+essere interpretati nel senso che essi ostano all'applicazione, nel contesto
+di un obbligo di solidarieta per un'obbligazione doganale ai sensi dell'art.
+213 quale quella controversa nella causa principale, di un principio di
+diritto nazionale dal quale risulta che lo sgravio parziale di dazi concesso
+sul fondamento dell'art. 239 a uno dei codebitori puo essere fatto valere da
+tutti gli altri codebitori, cosicche l'estinzione dell'obbligazione prevista
+all'art. 233, primo comma, lett. b), del medesimo codice si riferisce
+all'obbligazione in quanto tale e quindi dispensa l'insieme dei codebitori
+solidali dal pagamento della stessa nei limiti dell'importo per il cui
+ammontare e stato accordato lo sgravio.
+
+  **Sulle spese**
+
+67      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Quarta Sezione) dichiara:
+
+**Gli artt.  13, 233 e 239 del regolamento (CEE) del Consiglio 12 ottobre
+1992, n. 2913, che istituisce un codice doganale comunitario, come modificato
+dal regolamento (CE) del Parlamento europeo e del Consiglio 19 dicembre 1996,
+n. 82/97, devono essere interpretati nel senso che essi ostano
+all'applicazione, nel contesto di un obbligo di solidarieta per
+un'obbligazione doganale ai sensi dell'art. 213 quale quella controversa nella
+causa principale, di un principio di diritto nazionale dal quale risulta che
+lo sgravio parziale di dazi concesso sul fondamento dell'art. 239 a uno dei
+codebitori puo essere fatto valere da tutti gli altri codebitori, cosicche
+l'estinzione dell'obbligazione prevista all'art. 233, primo comma, lett. b),
+del medesimo codice si riferisce all'obbligazione in quanto tale e quindi
+dispensa l'insieme dei codebitori solidali dal pagamento della stessa nei
+limiti dell'importo per il cui ammontare e stato accordato lo sgravio.**
+
+Firme
+
+* * *
+
+* Lingua processuale: il francese. 
+

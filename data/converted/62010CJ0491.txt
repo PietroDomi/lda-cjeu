@@ -1,0 +1,782 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+22 dicembre 2010 (*)
+
+«Cooperazione giudiziaria in materia civile - Regolamento (CE) n. 2201/2003 -
+Competenza, riconoscimento ed esecuzione delle decisioni in materia
+matrimoniale e in materia di responsabilita genitoriale - Responsabilita
+genitoriale - Diritto di affidamento - Sottrazione di minore - Art. 42 -
+Esecuzione di una decisione certificata che prescrive il ritorno di un minore,
+adottata da un'autorita giudiziaria competente (spagnola) - Competenza
+dell'autorita giudiziaria richiesta (tedesca) a negare l'esecuzione di detta
+decisione in caso di violazione grave dei diritti del minore»
+
+Nel procedimento C‑491/10 PPU,
+
+avente ad oggetto una domanda di pronuncia pregiudiziale, proposta ai sensi
+dell'art. 267 TFUE, dall'Oberlandesgericht Celle (Germania) con decisione 30
+settembre 2010, pervenuta in cancelleria il 15 ottobre 2010, nella causa
+promossa da
+
+**Joseba Andoni Aguirre Zarraga**
+
+contro
+
+**Simone Pelz,**
+
+LA CORTE (Prima Sezione),
+
+composta dal sig. A. Tizzano (relatore), presidente di sezione, dai sigg.
+J.-J. Kasel, M. Ilešič, E. Levits e M. Safjan, giudici,
+
+avvocato generale: sig. Y. Bot
+
+cancelliere: sig. K. Malacek, amministratore
+
+vista la domanda del presidente della Corte 19 ottobre 2010, conformemente
+all'art. 104 ter, n. 1, del regolamento di procedura della Corte, di esaminare
+la necessita di sottoporre il presente rinvio pregiudiziale al procedimento
+d'urgenza,
+
+vista la decisione della Prima Sezione 28 ottobre 2010 di sottoporre detto
+rinvio a siffatto procedimento,
+
+vista la fase scritta del procedimento e in seguito all'udienza del 6 dicembre
+2010,
+
+considerate le osservazioni presentate:
+
+-        per il sig. Aguirre Zarraga, rappresentato dal Bundesamt fur Justiz, dalla sig.ra A. Schulz, in qualita di agente;
+
+-        per la sig.ra Pelz, dalla sig.ra K. Niethammer-Jurgens, Rechtsanwaltin;
+
+-        per il governo tedesco, dal sig. T. Henze e dalla sig.ra J. Kemper, in qualita di agenti;
+
+-        per il governo ellenico, dalla sig.ra T. Papadopoulou, in qualita di agente;
+
+-        per il governo spagnolo, dal sig. J.M. Rodriguez Carcamo, in qualita di agente;
+
+-        per il governo francese, dalla sig.ra B. Beaupere-Manokha, in qualita di agente;
+
+-        per il governo lettone, dalle sig.re M. Borkoveca e D. Palcevska, in qualita di agenti;
+
+-        per la Commissione europea, dalla sig.ra A.-M. Rouchaud-Joet e dal sig. W. Bogensberger, in qualita di agenti,
+
+sentito l'avvocato generale,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione del
+regolamento (CE) del Consiglio 27 novembre 2003, n. 2201, relativo alla
+competenza, al riconoscimento e all'esecuzione delle decisioni in materia
+matrimoniale e in materia di responsabilita genitoriale, che abroga il
+regolamento (CE) n. 1347/2000 (GU L 338, pag. 1).
+
+2        Tale domanda e stata presentata nell'ambito di una controversia tra
+il sig. Aguirre Zarraga e la sig.ra Pelz in merito al ritorno in Spagna della
+loro figlia Andrea, la quale attualmente risiede in Germania con sua madre.
+
+  **Contesto normativo**
+
+  _Il regolamento n.  2201/2003_
+
+3        Ai termini del diciassettesimo 'considerando' del regolamento n.
+2201/2003:
+
+«In caso di trasferimento o mancato rientro illeciti del minore, si dovrebbe
+ottenerne immediatamente il ritorno e a tal fine dovrebbe continuare ad essere
+applicata la convenzione dell'Aia del 25 ottobre 1980 [sugli aspetti civili
+della sottrazione internazionale di minori (in prosieguo: la "convenzione
+dell'Aja del 1980"], quale integrata dalle disposizioni del presente
+regolamento, in particolare l'articolo 11\. I giudici dello Stato membro in
+cui il minore e stato trasferito o trattenuto illecitamente dovrebbero avere
+la possibilita di opporsi al suo rientro in casi precisi, debitamente
+motivati. Tuttavia, una simile decisione dovrebbe poter essere sostituita da
+una decisione successiva emessa dai giudici dello Stato membro di residenza
+abituale del minore prima del suo trasferimento illecito o mancato rientro. Se
+la decisione implica il rientro del minore, esso dovrebbe avvenire senza che
+sia necessario ricorrere a procedimenti per il riconoscimento e l'esecuzione
+della decisione nello Stato membro in cui il minore e trattenuto».
+
+4        Il diciannovesimo 'considerando' di tale regolamento e formulato nei
+seguenti termini:
+
+«L'audizione del minore e importante ai fini dell'applicazione del presente
+regolamento, senza che detto strumento miri a modificare le procedure
+nazionali applicabili in materia».
+
+5        Il ventunesimo 'considerando' del regolamento n. 2201/2003 cosi
+recita:
+
+«Il riconoscimento e l'esecuzione delle decisioni rese in uno Stato membro
+dovrebbero fondarsi sul principio della fiducia reciproca e i motivi di non
+riconoscimento dovrebbero essere limitati al minimo indispensabile».
+
+6        Ai sensi del ventiquattresimo 'considerando' di tale regolamento:
+
+«Il certificato rilasciato allo scopo di facilitare l'esecuzione della
+decisione non dovrebbe essere impugnabile. Non dovrebbe poter dare luogo a una
+domanda di rettifica se non in caso di errore materiale, ossia se il
+certificato non rispecchia correttamente il contenuto della decisione».
+
+7        Il trentatreesimo 'considerando' del medesimo regolamento ha il
+seguente tenore:
+
+«Il presente regolamento riconosce i diritti fondamentali e osserva i principi
+sanciti in particolare dalla Carta dei diritti fondamentali dell'Unione
+europea [proclamata il 7 dicembre 2000 a Nizza (GU C 364, pag. 1; in
+prosieguo: la «Carta dei diritti fondamentali»)]. In particolare, mira a
+garantire il pieno rispetto dei diritti fondamentali del bambino quali
+riconosciuti dall'articolo 24 della Carta dei diritti fondamentali dell'Unione
+europea (...)».
+
+8        L'art. 11 del regolamento n. 2201/2003, intitolato «Ritorno del
+minore», cosi dispone:
+
+«Quando una persona, istituzione o altro ente titolare del diritto di
+affidamento adisce le autorita competenti di uno Stato membro affinche emanino
+un provvedimento in base alla convenzione dell'Aia [del 1980] per ottenere il
+ritorno di un minore che e stato illecitamente trasferito o trattenuto in uno
+Stato membro diverso dallo Stato membro nel quale il minore aveva la residenza
+abituale immediatamente prima dell'illecito trasferimento o mancato ritorno,
+si applicano i paragrafi da 2 a 8\.
+
+2.      Nell'applicare gli articoli 12 e 13 della convenzione dell'Aia del 1980, si assicurera che il minore possa essere ascoltato durante il procedimento se cio non appaia inopportuno in ragione della sua eta o del suo grado di maturita. 
+
+(…)
+
+8.      Nonostante l'emanazione di un provvedimento contro il ritorno in base all'articolo 13 della convenzione dell'Aia del 1980, una successiva decisione che prescrive il ritorno del minore emanata da un giudice competente ai sensi del presente regolamento e esecutiva conformemente alla sezione 4 del capo III, allo scopo di assicurare il ritorno del minore». 
+
+9        Per quanto attiene al riconoscimento delle decisioni, l'art. 21 del
+regolamento in parola prevede quanto segue:
+
+«1.      Le decisioni pronunciate in uno Stato membro sono riconosciute negli
+altri Stati membri senza che sia necessario il ricorso ad alcun procedimento.
+
+(…)
+
+3.      Fatta salva la sezione 4 del presente capo, ogni parte interessata puo far dichiarare, secondo il procedimento di cui alla sezione 2, che la decisione deve essere o non puo essere riconosciuta. 
+
+(…)»
+
+10      L'art. 23, n. 1, del predetto regolamento cosi recita:
+
+«Le decisioni relative alla responsabilita genitoriale non sono riconosciute
+nei casi seguenti:
+
+a)       se, tenuto conto dell'interesse superiore del minore, il
+riconoscimento e manifestamente contrario all'ordine pubblico dello Stato
+membro richiesto;
+
+b)       se, salvo i casi d'urgenza, la decisione e stata resa senza che il
+minore abbia avuto la possibilita di essere ascoltato, in violazione dei
+principi fondamentali di procedura dello Stato membro richiesto;
+
+(…)».
+
+11      L'art. 42 del medesimo regolamento, intitolato «Ritorno del minore»,
+cosi dispone:
+
+«1.      Il ritorno del minore di cui all'articolo 40, paragrafo 1, lettera
+b), ordinato con una decisione esecutiva emessa in uno Stato membro, e
+riconosciuto ed e eseguibile in un altro Stato membro senza che sia necessaria
+una dichiarazione di esecutivita e senza che sia possibile opporsi al
+riconoscimento, se la decisione e stata certificata nello Stato membro
+d'origine conformemente al paragrafo 2.
+
+Anche se la legislazione nazionale non prevede l'esecutivita di diritto,
+nonostante eventuali impugnazioni, di una decisione che prescrive il ritorno
+del minore di cui all'articolo 11, paragrafo 8, l'autorita giurisdizionale puo
+dichiarare che la decisione in questione e esecutiva.
+
+2.      Il giudice di origine che ha emanato la decisione di cui all'articolo 40, paragrafo 1, lettera b), rilascia il certificato di cui al paragrafo 1 solo se: 
+
+a)      il minore ha avuto la possibilita di essere ascoltato, salvo che
+l'audizione sia stata ritenuta inopportuna in ragione della sua eta o del suo
+grado di maturita,
+
+b)      le parti hanno avuto la possibilita di essere ascoltate; e
+
+c)      l'autorita giurisdizionale ha tenuto conto, nel rendere la sua
+decisione, dei motivi e degli elementi di prova alla base del provvedimento
+emesso conformemente all'articolo 13 della convenzione dell'Aia del 1980.
+
+Nel caso in cui l'autorita giurisdizionale o qualsiasi altra autorita adotti
+misure per assicurare la protezione del minore dopo il suo ritorno nello Stato
+della residenza abituale, il certificato contiene i dettagli di tali misure.
+
+Il giudice d'origine rilascia detto certificato di sua iniziativa e
+utilizzando il modello standard di cui all'allegato IV (certificato sul
+ritorno del minore).
+
+Il certificato e compilato nella lingua della decisione».
+
+12      L'art. 43 del regolamento n. 2201/2003, intitolato «Domanda di
+rettifica», dispone quanto segue:
+
+«1.      Il diritto dello Stato membro di origine e applicabile a qualsiasi
+rettifica del certificato.
+
+2.      Il rilascio di un certificato a norma dell'articolo 41, paragrafo 1, o dell'articolo 42, paragrafo 1, non e inoltre soggetto ad alcun mezzo di impugnazione». 
+
+13      L'art. 60 del regolamento in esame, intitolato «Relazione con talune
+convenzioni multilaterali», dispone che, nei rapporti tra gli Stati che ne
+sono parti, tale regolamento prevale, segnatamente, sulla convenzione dell'Aia
+del 1980.
+
+  _Il regolamento (CE) n.  1206/2001_
+
+14      Il regolamento (CE) del Consiglio 28 maggio 2001, n. 1206, relativo
+alla cooperazione fra le autorita giudiziarie degli Stati membri nel settore
+dell'assunzione delle prove in materia civile o commerciale (GU L 174, pag.
+1), al suo art. 10, n. 4, per quanto riguarda il ricorso a tecnologie di
+comunicazione moderne, cosi prevede:
+
+«L'autorita giudiziaria richiedente puo chiedere all'autorita giudiziaria
+richiesta di avvalersi delle tecnologie della comunicazione per l'esecuzione
+dell'assunzione delle prove, in particolare utilizzando la videoconferenza e
+la teleconferenza.
+
+L'autorita giudiziaria richiesta ottempera a tale richiesta salvo qualora
+questa sia incompatibile con le leggi del suo Stato membro o sussistano
+notevoli difficolta di ordine pratico.
+
+(…)».
+
+  **Causa principale e questioni pregiudiziali**
+
+15      Dalla decisione di rinvio e dal fascicolo trasmesso alla Corte dal
+giudice del rinvio emerge che i fatti della controversia principale, nonche i
+vari procedimenti che coinvolgono le parti della causa principale, possono
+essere riassunti nel seguente modo.
+
+  _Fatti della causa principale_
+
+16      Il sig. Aguirre Zarraga, cittadino spagnolo, e la sig.ra Pelz,
+cittadina tedesca, si sono sposati il 25 settembre 1998 a Erandio (Spagna).
+Dal matrimonio e nata, il 31 gennaio 2000, la figlia Andrea. Il luogo di
+residenza abituale della famiglia si trovava a Sondika (Spagna).
+
+17      Poiche i rapporti tra la sig.ra Pelz e il sig. Aguirre Zarraga si
+erano deteriorati verso la fine del 2007, essi si sono separati e
+successivamente hanno entrambi presentato istanza di divorzio dinanzi ai
+giudici spagnoli.
+
+  _Il procedimento dinanzi ai giudici spagnoli_
+
+18      Tanto la sig.ra Pelz quanto il sig. Aguirre Zarraga hanno chiesto il
+diritto di affidamento esclusivo per la figlia comune. Con decisione 12 maggio
+2008, il Juzgado de Primera Instancia e Instruccion n. 5 de Bilbao (giudice di
+primo grado e d'istruzione n. 5 di Bilbao) ha assegnato provvisoriamente al
+sig. Aguirre Zarraga il diritto di affidamento, mentre alla sig.ra Pelz veniva
+concesso un diritto di visita. In seguito a tale decisione, Andrea si e
+trasferita presso il domicilio paterno.
+
+19      Detta decisione era segnatamente fondata sulle raccomandazioni
+espresse dall'Equipo Psicosocial Judicial (servizio psico-sociale giudiziario)
+in un parere emesso su richiesta del giudice adito. In base a tale parere,
+occorreva assegnare l'affidamento al padre in quanto quest'ultimo poteva
+meglio garantire il mantenimento dell'ambiente familiare, scolastico e sociale
+della minore. Poiche la sig.ra Pelz aveva ripetutamente reso noto il suo
+desiderio di stabilirsi in Germania con il nuovo compagno e con sua figlia,
+detto giudice aveva ritenuto che l'assegnazione dell'affidamento alla madre
+sarebbe stata in contrasto tanto con le conclusioni di suddetto parere quanto
+con il bonum filii.
+
+20      Nel giugno 2008, la sig.ra Pelz si e trasferita in Germania dove ormai
+risiede con il suo nuovo compagno. Nell'agosto 2008, alla fine delle vacanze
+estive trascorse con la madre, Andrea e rimasta presso quest'ultima in
+Germania. Da allora, essa non e piu tornata da suo padre in Spagna.
+
+21      Considerando che, dal 15 agosto 2008, Andrea abitava presso sua madre
+in Germania, e cio in violazione della sua decisione 12 maggio 2008, con una
+nuova decisone relativa ai provvedimenti provvisori datata 15 ottobre 2008,
+resa su istanza del sig. Aguirre Zarraga, il Juzgado de Primera Instancia e
+Instruccion n. 5 de Bilbao ha segnatamente vietato ad Andrea di lasciare il
+territorio spagnolo accompagnata dalla madre, da qualsiasi membro della
+famiglia di quest'ultima o da qualsiasi persona avente un legame di affinita
+con la sig.ra Pelz. Inoltre, tale decisione ha sospeso il diritto di visita,
+precedentemente accordato a quest'ultima, fino alla pronuncia della sentenza
+definitiva.
+
+22      Nel luglio 2009, il procedimento riguardante il diritto di affidamento
+relativo ad Andrea e proseguito dinanzi allo stesso giudice. Quest'ultimo ha
+ritenuto che fossero necessarie una nuova consulenza tecnica e un'audizione
+personale di Andrea e ha fissato le relative udienze a Bilbao. Tuttavia, ne
+Andrea ne sua madre si sono presentate a dette udienze. Secondo il giudice del
+rinvio, il giudice spagnolo non ha accolto la richiesta della sig.ra Pelz di
+ottenere l'autorizzazione, per lei e per sua figlia, a lasciare liberamente il
+territorio spagnolo dopo la consulenza tecnica e l'audizione di Andrea. Detto
+giudice non avrebbe nemmeno accolto l'esplicita richiesta della sig.ra Pelz di
+procedere all'audizione di Andrea tramite videoconferenza.
+
+23      Con sentenza 16 dicembre 2009, il Juzgado de Primera Instancia e
+Instruccion n. 5 de Bilbao ha assegnato il diritto di affidamento relativo ad
+Andrea esclusivamente al padre della medesima. La sig.ra Pelz ha interposto
+appello contro tale sentenza dinanzi all'Audiencia Provincial de Bizkaya
+(Corte d'appello di Biscaglia), chiedendo in particolare che si procedesse ad
+un'audizione di Andrea.
+
+24      Con sentenza 21 aprile 2010, quest'ultimo giudice ha respinto detta
+richiesta rilevando che, secondo le norme di procedura spagnole, la produzione
+di prove in grado d'appello sarebbe possibile soltanto in taluni casi
+espressamente determinati dalla legge. Orbene, la mancata comparizione
+volontaria di una parte debitamente convocata in primo grado ad un'udienza non
+configurerebbe uno di questi casi. Per il resto, il procedimento e tuttora
+pendente dinanzi a detto giudice.
+
+  _I procedimenti dinanzi ai giudici tedeschi_
+
+25      In Germania hanno avuto luogo due procedimenti.
+
+26      Il primo riguardava la richiesta del sig. Aguirre Zarraga volta ad
+ottenere il ritorno di sua figlia in Spagna, presentata in base alla
+convenzione dell'Aia del 1980. Tale domanda e stata dapprima accolta
+dall'Amtsgericht Celle (Tribunale distrettuale di Celle), con decisione 30
+gennaio 2009.
+
+27      La sig.ra Pelz ha impugnato tale decisione. Con sentenza 1° luglio
+2009, l'Oberlandesgericht Celle (Corte regionale d'appello di Celle) ha
+accolto il ricorso, ha annullato conseguentemente la summenzionata decisione e
+ha respinto la domanda del sig. Aguirre Zarraga in base all'art. 13, secondo
+comma, della convenzione dell'Aia del 1980.
+
+28      L'Oberlandesgericht Celle ha rilevato, in particolare, che l'audizione
+di Andrea da esso effettuata evidenziava che quest'ultima si opponeva
+persistentemente al ritorno richiesto dal padre, rifiutando categoricamente di
+rientrare in Spagna. Il consulente tecnico incaricato da tale giudice
+concludeva in esito alla suddetta audizione che, in considerazione dell'eta e
+della maturita di Andrea, era necessario tenere conto della sua opinione.
+
+29      Il secondo procedimento dinanzi ai giudici tedeschi e stato avviato in
+base ad un certificato rilasciato il 5 febbraio 2010 in applicazione dell'art.
+42 del regolamento n. 2201/2003 dal Juzgado de Primera Instancia e Instruccion
+n. 5 de Bilbao sul fondamento della sentenza di divorzio da esso pronunciata
+il 16 dicembre 2009, con cui tale giudice aveva altresi statuito in merito al
+diritto di affidamento relativo ad Andrea.
+
+30      Con lettera del 26 marzo 2010, il Bundesamt fur Justiz (Ufficio
+federale tedesco per la giustizia) ha trasmesso al giudice competente della
+Repubblica federale di Germania, ossia l'Amtsgericht Celle, detta sentenza e
+il relativo certificato. Detto Ministero ha richiamato l'attenzione di tale
+giudice sul fatto che, in forza dell'art. 44, n. 3, della legge
+sull'attuazione ed esecuzione di taluni strumenti giuridici nel settore del
+diritto internazionale della famiglia (Gesetz zur Aus- und Durchfuhrung
+bestimmter Rechtsinstrumente auf dem Gebiet des internationalen
+Familienrechts), doveva essere data esecuzione ipso iure alla decisione del
+giudice spagnolo che prescriveva il ritorno del minore.
+
+31      La sig.ra Pelz si e opposta all'esecuzione forzata di detta decisione
+certificata, chiedendo che la stessa non fosse riconosciuta.
+
+32      Con decisione 28 aprile 2010, l'Amtsgericht Celle ha ritenuto che alla
+sentenza del Juzgado de Primera Instancia e Instruccion n. 5 de Bilbao
+dovessero essere negati sia il riconoscimento che l'esecuzione, in quanto
+quest'ultimo non aveva sentito Andrea prima di adottare la propria decisione.
+
+33      Il 18 giugno 2010, il sig. Aguirre Zarraga ha interposto appello
+contro tale sentenza dinanzi all'Oberlandesgericht Celle, chiedendo che essa
+venisse annullata, che le richieste della sig.ra Pelz venissero respinte e che
+fosse data esecuzione ipso iure alla sentenza del Juzgado de Primera Instancia
+e Instruccion n. 5 de Bilbao 16 dicembre 2009, nella parte in cui prescriveva
+il ritorno di Andrea dal padre.
+
+34      Sebbene l'Oberlandesgericht Celle riconosca che il giudice dello Stato
+membro dell'esecuzione di un certificato emesso conformemente all'art. 42 del
+regolamento n. 2201/2003 e, in linea di principio, privo di una propria
+competenza di controllo ai sensi dell'art. 21 del regolamento in parola, esso
+ritiene tuttavia che cio non dovrebbe valere in caso di violazione
+particolarmente grave di un diritto fondamentale.
+
+35      A tale proposito, il giudice del rinvio rileva, da un lato, che il
+Juzgado de Primera Instancia e Instruccion n. 5 de Bilbao non ha raccolto
+l'attuale opinione di Andrea e non ha dunque potuto tenere conto di tale
+opinione nella sua sentenza 16 dicembre 2009 riguardante, tra l'altro, il
+diritto di affidamento relativo a tale minore. Dall'altro, gli sforzi
+intrapresi del giudice spagnolo al fine di sentire quest'ultima sarebbero
+stati insufficienti alla luce dell'importanza attribuita alla presa in
+considerazione dell'opinione del minore dall'art. 24, n. 1, della Carta dei
+diritti fondamentali.
+
+36      Inoltre, l'Oberlandesgericht Celle si interroga sulla questione se,
+nell'ipotesi in cui, nonostante una siffatta violazione di un diritto
+fondamentale, il giudice dello Stato membro dell'esecuzione fosse privo di
+qualsiasi potere di controllo, tale Stato membro possa essere vincolato da un
+certificato, emesso ai sensi dell'art. 42 del regolamento n. 2201/2003, dal
+contenuto manifestamente falso. Infatti, secondo il giudice del rinvio, il
+certificato del Juzgado de Primera Instancia e Instruccion n. 5 de Bilbao del
+5 febbraio 2010 conterrebbe una dichiarazione manifestamente falsa in quanto
+indicherebbe che Andrea e stata sentita dai detti giudici spagnoli, mentre in
+realta non lo sarebbe stata.
+
+37      Sulla scorta di tali premesse, l'Oberlandesgericht Celle ha deciso di
+sospendere il giudizio e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+«1)      Se, sulla base di un'interpretazione dell'art. 42 del regolamento [n.
+2201/2003] conforme alla Carta dei diritti fondamentali, nel caso in cui si
+debba dare esecuzione alla decisione di uno Stato membro di origine viziata da
+gravi violazioni dei diritti fondamentali, il giudice dello Stato membro
+dell'esecuzione disponga eccezionalmente di propri poteri di esame.
+
+2)      Se il giudice dello Stato membro dell'esecuzione sia obbligato a dare
+esecuzione ad un certificato rilasciato dal giudice dello Stato membro
+d'origine ai sensi dell'art. 42 del regolamento [n. 2201/2003], benche tale
+certificato, sulla base degli atti di causa, risulti manifestamente inesatto».
+
+  **Sul procedimento d 'urgenza **
+
+38      Con memorandum datato 19 ottobre 2010, conformemente all'art. 104 ter,
+n. 1, terzo comma, del regolamento di procedura della Corte, il presidente
+della Corte ha chiesto alla Prima Sezione di esaminare la necessita di
+sottoporre il presente rinvio pregiudiziale al procedimento d'urgenza.
+
+39      A tal riguardo va precisato che, come emerge dalla giurisprudenza, la
+Corte riconosce l'urgenza di statuire nelle situazioni di trasferimento di un
+minore segnatamente laddove la separazione di un figlio dal genitore al quale,
+come nella causa principale, egli era stato, seppure provvisoriamente,
+inizialmente affidato rischierebbe di deteriorare i rapporti tra questi ultimi
+o di nuocere a tali rapporti e di provocare un danno psichico (v., in tal
+senso, sentenze 11 luglio 2008, causa C‑195/08 PPU, Rinau, Racc. pag. I‑5271,
+punto 44; 23 dicembre 2009, causa C‑403/09 PPU, Detiček, Racc. pag. I‑12193,
+punto 30; 1° luglio 2010, causa C‑211/10 PPU, Povse, Racc. pag. I‑6673, punto
+35, e 5 ottobre 2010, causa C‑400/10 PPU, McB.).
+
+40      Dalla decisione di rinvio si evince che Andrea e separata dal padre da
+oltre due anni e che, a causa della distanza e dei rapporti tesi tra le parti
+nella causa principale, sussiste un grave e concreto rischio di assenza totale
+di contatti tra Andrea e suo padre per tutta la durata del procedimento
+pendente dinanzi al giudice del rinvio. In tali circostanze, il ricorso al
+procedimento ordinario per trattare la presente domanda di pronuncia
+pregiudiziale potrebbe ledere seriamente, se non anche irreparabilmente, i
+rapporti tra il sig. Aguirre Zarraga e sua figlia, nonche compromettere
+ulteriormente l'integrazione della medesima nel suo ambiente familiare e
+sociale nel caso di un eventuale ritorno in Spagna.
+
+41      Cio considerato, in data 28 ottobre 2010, su proposta del giudice
+relatore, sentito l'avvocato generale, la Prima Sezione ha deciso di
+sottoporre il presente rinvio pregiudiziale al procedimento d'urgenza.
+
+  **Sulle questioni pregiudiziali**
+
+42      Con le sue questioni pregiudiziali, che occorre trattare
+congiuntamente, il giudice del rinvio chiede sostanzialmente se, in
+circostanze come quelle della causa principale, il giudice competente dello
+Stato membro dell'esecuzione possa, in via eccezionale, opporsi all'esecuzione
+di una decisione che prescrive il ritorno di un minore e che e stata oggetto
+di un certificato rilasciato in base all'art. 42 del regolamento n. 2201/2003
+dal giudice dello Stato membro d'origine, a motivo del fatto che quest'ultimo
+avrebbe attestato, nel suddetto certificato, di aver ottemperato all'obbligo
+di sentire la minore prima di emettere la propria decisione, nell'ambito di un
+procedimento di divorzio, sull'assegnazione del diritto di affidamento
+relativo alla medesima, quando invece tale audizione non avrebbe avuto luogo,
+e cio in violazione del predetto art. 42, interpretato conformemente all'art.
+24 della Carta dei diritti fondamentali.
+
+43      Al fine di risolvere tali questioni, occorre anzitutto constatare che
+si tratta, in un contesto come quello della causa principale, di un mancato
+ritorno illecito del minore ai sensi dell'art. 2, punto 11, del regolamento n.
+2201/2003.
+
+44      Orbene, come rilevato dall'avvocato generale ai paragrafi 120 e 121
+della sua presa di posizione, tale regolamento parte dall'assunto secondo cui
+il trasferimento o il trattenimento illeciti di un minore in violazione di una
+decisione giurisdizionale emanata in un altro Stato membro ledono gravemente
+gli interessi del minore e prevede dunque provvedimenti per permetterne il
+ritorno, quanto prima possibile, nel luogo della sua residenza abituale. A tal
+riguardo, detto regolamento ha istituito un sistema in forza del quale, in
+caso di valutazioni divergenti tra il giudice della residenza abituale del
+minore e quello del luogo in cui egli si trova illegalmente, la competenza
+esclusiva a decidere sul ritorno del minore rimane in capo al primo.
+
+45      L'imperativo della celerita sotteso ad un siffatto sistema esige che,
+in simili circostanze, i giudici nazionali investiti di una domanda di ritorno
+del minore statuiscano rapidamente. È d'altronde a tal fine che l'art. 11, n.
+3, del regolamento n. 2201/2003 impone a detti giudici di utilizzare le
+procedure piu rapide previste dai loro ordinamenti nazionali e, salvo nel caso
+in cui circostanze eccezionali non lo consentano, di emanare la propria
+decisione al piu tardi sei settimane dopo aver ricevuto la domanda.
+
+46      Occorre ancora aggiungere che, al fine di conseguire tale obiettivo,
+il sistema istituito dal regolamento n. 2201/2003 si impernia sul ruolo
+centrale conferito al giudice competente per statuire sul merito della
+controversia conformemente alle disposizioni dello stesso regolamento e che, a
+differenza del ventunesimo 'considerando' di tale regolamento, ai sensi del
+quale il riconoscimento e l'esecuzione delle decisioni rese in uno Stato
+membro devono fondarsi sul principio della fiducia reciproca, e i motivi di
+non riconoscimento dovrebbero essere limitati al minimo indispensabile, il
+diciassettesimo 'considerando' del regolamento in parola enuncia che, in caso
+di mancato rientro illecito di un minore, l'esecuzione di una decisione che
+implica il rientro di quest'ultimo dovrebbe avvenire senza che sia necessario
+ricorrere a procedimenti per il riconoscimento o l'esecuzione della detta
+decisione nello Stato membro in cui si trova il minore.
+
+47      È dunque allo scopo di ottenere una rapida esecuzione, in particolare,
+delle decisioni che prescrivono il ritorno di un minore, emanate, come nella
+causa principale, nelle circostanze menzionate all'art. 11, n. 8, del
+regolamento n. 2201/2003, che quest'ultimo prevede, ai suoi artt. 40‑45, un
+regime specifico che consente di dotare tali decisioni di efficacia esecutiva
+nello Stato membro in cui devono esplicare i propri effetti.
+
+48      In tal senso, dagli artt. 42, n. 1, e 43, n. 2, del regolamento n.
+2201/2003, interpretati alla luce del diciassettesimo e del ventiquattresimo
+'considerando' dello stesso regolamento, si evince che una decisione che
+prescrive il ritorno di un minore, emanata dal giudice competente ai sensi del
+predetto regolamento, qualora sia esecutiva e abbia dato luogo al rilascio di
+un certificato in forza dell'art. 42, n. 1, nello Stato membro d'origine, e
+riconosciuta e automaticamente dotata di efficacia esecutiva in un altro Stato
+membro senza che sia possibile opporsi al suo riconoscimento (v., in tal
+senso, citate sentenze Rinau, punto 84, e Povse, punto 70).
+
+49      Di conseguenza, il giudice dello Stato membro dell'esecuzione non puo
+che constatare l'efficacia esecutiva di una decisione cosi certificata.
+
+50      Inoltre, puo essere presentata una domanda di rettifica del
+certificato rilasciato dal giudice di origine, o possono essere sollevati
+dubbi in ordine alla sua autenticita, soltanto conformemente alle norme
+giuridiche dello Stato membro di origine (v., in tal senso, sentenza Povse,
+cit., punto 73 e giurisprudenza ivi citata). Peraltro, al fine di assicurare
+la celerita dell'esecuzione delle decisioni di cui trattasi e per evitare che
+l'efficacia delle disposizioni del regolamento n. 2201/2003 sia compromessa da
+un impiego abusivo della procedura, qualsiasi impugnazione del rilascio di un
+certificato a norma dell'art. 42 del summenzionato regolamento, diversa da una
+domanda di rettifica ai sensi dell'art. 43, n. 1, di quest'ultimo, e esclusa,
+e cio anche nello Stato membro di origine (v., in tal senso, sentenza Rinau,
+cit., punto 85).
+
+51      Inoltre, dalla giurisprudenza emerge anche che, nell'ambito della
+netta ripartizione di competenze tra i giudici dello Stato membro d'origine e
+quelli dello Stato membro dell'esecuzione, delineata dal regolamento n.
+2201/2003 e volta al rapido rientro del minore, le questioni attinenti alla
+legittimita della decisione che prescrive tale ritorno in quanto tale,
+segnatamente la questione se ricorrano i presupposti perche il giudice
+competente possa pronunciare tale decisione, devono essere sollevate dinanzi
+ai giudici dello Stato membro d'origine, in conformita alle norme del suo
+ordinamento giuridico (sentenza Povse, cit., punto 74).
+
+52      È alla luce dei summenzionati principi che occorre interpretare l'art.
+42, n. 2, primo comma, del regolamento n. 2201/2003, ai sensi del quale il
+giudice dello Stato membro d'origine rilascia il certificato di cui al n. 1
+del predetto articolo soltanto se il minore ha avuto la possibilita di essere
+ascoltato, salvo che l'audizione sia stata ritenuta inopportuna alla luce
+della sua eta o del suo grado di maturita [lett. a)], se le parti hanno avuto
+la possibilita di essere ascoltate [lett. b)] e se detto giudice ha emanato la
+sua decisione tenendo conto dei motivi e degli elementi di prova alla base del
+provvedimento emesso conformemente all'art. 13 della convenzione dell'Aia del
+1980 [lett. c)].
+
+53      Va rilevato anzitutto che l'art. 42, n. 2, primo comma, di tale
+regolamento non persegue altro fine che quello di indicare al giudice dello
+Stato membro d'origine il contenuto minimo richiesto per quanto riguarda la
+decisione in base alla quale verra rilasciato il certificato previsto
+dall'art. 42, n. 1\.
+
+54      Inoltre, alla luce della giurisprudenza ricordata ai punti 48, 50 e 51
+della presente sentenza, e giocoforza constatare che detto art. 42, n. 2,
+primo comma, non autorizza affatto il giudice dello Stato membro
+dell'esecuzione ad esercitare un controllo sulle condizioni, ivi enunciate, di
+rilascio del predetto certificato.
+
+55      Infatti, tale autorizzazione rischierebbe di compromettere l'effetto
+utile del sistema istituito dal regolamento n. 2201/2003, quale descritto ai
+punti 44‑51 della presente sentenza.
+
+56      Ne consegue che, qualora un giudice di uno Stato membro rilasci il
+certificato di cui al predetto art. 42, il giudice dello Stato membro
+dell'esecuzione e tenuto a dare esecuzione alla decisione in tal modo
+certificata, senza potersi opporre al riconoscimento ne all'esecutivita di
+quest'ultima.
+
+57      Tale interpretazione e confortata dal fatto che le cause di non
+riconoscimento o di non dichiarazione di esecutivita, da parte del giudice
+dello Stato membro dell'esecuzione, di una decisione in materia di
+responsabilita genitoriale, previste dagli artt. 23 e 31 del regolamento n.
+2201/2003, tra cui la manifesta contrarieta all'ordine pubblico di tale Stato
+membro e la violazione dei principi fondamentali di procedura di quest'ultimo
+che impongono di dare al minore la possibilita di essere ascoltato, non sono
+state riprese come motivi che possono giustificare l'opposizione del giudice
+di detto Stato membro nell'ambito dei procedimenti previsti dal capo III,
+sezione 4, del regolamento in esame (v., in tal senso, sentenza Rinau, cit.,
+punti 91, 97 e 99).
+
+58      Tuttavia, con il primo quesito il giudice del rinvio chiede se detta
+interpretazione si imponga anche qualora la decisione dello Stato membro
+d'origine, cui dev'essere data esecuzione in forza del certificato di cui e
+stata oggetto, sia viziata da una grave violazione dei diritti fondamentali.
+
+59      A tal riguardo va rilevato che la netta ripartizione di competenze tra
+i giudici dello Stato membro d'origine e dello Stato membro dell'esecuzione,
+tracciata dalle disposizioni del capo III, sezione 4, del regolamento n.
+2201/2003 (v., in tal senso, sentenza Povse, cit., punto 73), poggia sulla
+premessa secondo cui detti giudici rispettano, nelle loro rispettive sfere di
+competenza, gli obblighi loro imposti da tale regolamento, conformemente alla
+Carta dei diritti fondamentali.
+
+60      A tal riguardo, poiche il regolamento n. 2201/2003 non puo essere
+contrario a quest'ultima, occorre interpretare le disposizioni dell'art. 42
+del medesimo regolamento che attuano il diritto del minore di essere sentito
+alla luce dell'art. 24 di tale Carta (v., in tal senso, sentenza McB., cit.,
+punto 60).
+
+61      Del resto, il diciannovesimo 'considerando' del regolamento in parola
+indica che l'audizione del minore e importante ai fini dell'applicazione del
+regolamento e il suo trentatreesimo 'considerando' sottolinea, in via piu
+generale, che detto regolamento riconosce i diritti fondamentali e osserva i
+principi sanciti dalla Carta dei diritti fondamentali, in particolare mirando
+a garantire il rispetto dei diritti fondamentali del bambino quali
+riconosciuti dall'art. 24 di quest'ultima.
+
+62      A tal riguardo va anzitutto rilevato che dall'art. 24 di tale Carta
+nonche dall'art. 42, n. 2, primo comma, lett. a), del regolamento n. 2201/2003
+si evince che essi si riferiscono non all'audizione del minore in quanto tale,
+bensi alla possibilita per il minore di essere sentito.
+
+63      Infatti, da un lato, l'art. 24, al suo n. 1, prescrive che i minori
+possano liberamente esprimere la propria opinione e che tale opinione sia
+presa in considerazione sulle questioni che li riguardano unicamente «in
+funzione della loro eta e della loro maturita» e, al suo n. 2, impone di
+tenere conto, in tutti gli atti relativi a un minore, dell'interesse superiore
+di quest'ultimo, ove tale interesse puo giustificare che non si proceda ad
+un'audizione del minore. D'altro canto, il predetto art. 42, n. 2, primo
+comma, lett. a), impone di dare al minore la possibilita di essere ascoltato,
+«salvo che l'audizione sia stata ritenuta inopportuna in ragione della sua eta
+o del suo grado di maturita».
+
+64      Ne deriva che spetta al giudice che deve statuire sul ritorno di un
+minore valutare l'opportunita di una simile audizione, poiche i conflitti che
+rendono necessaria una decisione di assegnazione dell'affidamento di un minore
+ad uno dei genitori e le tensioni ad essa connesse costituiscono situazioni in
+cui l'audizione del minore, segnatamente in quanto richiede, eventualmente, la
+sua presenza fisica dinanzi al giudice, puo risultare inopportuna, se non
+anche dannosa per la salute psichica del medesimo, che spesso subisce dette
+tensioni e i relativi effetti negativi. Pertanto, pur rimanendo un diritto del
+minore, l'audizione non puo costituire un obbligo assoluto, ma deve essere
+oggetto di una valutazione in funzione delle esigenze legate all'interesse
+superiore del minore in ogni caso di specie, conformemente all'art. 24, n. 2,
+della Carta dei diritti fondamentali.
+
+65      Ne consegue che, conformemente a quanto previsto dall'art. 24 della
+Carta dei diritti fondamentali e dall'art. 42, n. 2, primo comma, lett. a),
+del regolamento n. 2201/2003, il diritto del minore di essere sentito non
+esige che sia necessariamente tenuta un'audizione dinanzi al giudice dello
+Stato membro d'origine, bensi richiede che siano messe a disposizione di tale
+minore le procedure e condizioni legali che gli consentono di esprimere
+liberamente la sua opinione e che quest'ultima sia raccolta dal giudice.
+
+66      In altri termini, sebbene l'art. 24 della Carta dei diritti
+fondamentali e l'art. 42, n. 2, primo comma, lett. a), del regolamento n.
+2201/2003 non impongano al giudice dello Stato membro d'origine di sentire in
+tutti i casi il minore nell'ambito di un'audizione, lasciando quindi un certo
+margine discrezionale a tale giudice, resta nondimeno il fatto che, quando
+questi decide di sentire il minore, tali disposizioni richiedono che egli
+adotti, in funzione dell'interesse superiore del minore e alla luce delle
+circostanze di ogni caso di specie, tutte le misure appropriate ai fini di una
+siffatta audizione, onde rispettare l'effetto utile di dette disposizioni,
+offrendo al minore una possibilita concreta ed effettiva di esprimersi.
+
+67      In vista dello stesso scopo, il giudice dello Stato membro d'origine
+deve ricorrere, per quanto possibile e prendendo sempre in considerazione
+l'interesse superiore del minore, a tutti i mezzi di cui dispone in forza del
+suo diritto nazionale nonche agli strumenti propri della cooperazione
+giudiziaria transfrontaliera, compresi, ove necessario, quelli previsti dal
+regolamento n. 1206/2001.
+
+68      Ne consegue che il giudice dello Stato membro d'origine puo emettere
+un certificato conforme ai requisiti di cui all'art. 42 del regolamento n.
+2201/2003 soltanto dopo aver verificato che, in funzione dell'interesse
+superiore del minore e tenuto conto di tutte le circostanze del caso di
+specie, la decisione sulla quale vertera tale certificato sia stata adottata
+nel rispetto del diritto del minore di esprimersi liberamente e che sia stata
+offerta a quest'ultimo una possibilita concreta ed effettiva di esprimersi,
+tenuto conto dei mezzi procedurali nazionali e degli strumenti della
+cooperazione giudiziaria internazionale.
+
+69      Tuttavia, come precisato al punto 51 della presente sentenza, spetta
+ai soli giudici nazionali dello Stato membro d'origine esaminare la
+legittimita di detta decisione alla luce dei requisiti imposti, segnatamente,
+dall'art. 24 della Carta dei diritti fondamentali e dall'art. 42 del
+regolamento n. 2201/2003.
+
+70      Infatti, come sottolineato al punto 46 della presente sentenza, i
+sistemi di riconoscimento e di esecuzione delle decisioni emanate in uno Stato
+membro istituiti da detto regolamento sono fondati sul principio della fiducia
+reciproca tra gli Stati membri in ordine al fatto che i rispettivi ordinamenti
+giuridici nazionali siano in grado di fornire una tutela equivalente ed
+effettiva dei diritti fondamentali, riconosciuti a livello dell'Unione, in
+particolare nella Carta dei diritti fondamentali.
+
+71      In tale contesto, come rilevato dall'avvocato generale al paragrafo
+135 della sua presa di posizione, e quindi nell'ambito dell'ordinamento
+giuridico dello Stato membro d'origine che le parti interessate devono
+esperire i mezzi di ricorso che consentono di contestare la legittimita di una
+decisione certificata in forza dell'art. 42 del regolamento n. 2201/2003.
+
+72      Per quanto riguarda la causa principale, va rilevato, da un lato, che
+dal fascicolo sottoposto alla Corte emerge che dinanzi all'Audiencia
+Provincial de Bizkaya e tuttora pendente un giudizio di appello. Dall'altro,
+il governo spagnolo ha precisato in udienza che la decisione di tale giudice
+sara anch'essa impugnabile mediante un ricorso interno, ossia quantomeno un
+«recurso de amparo» dinanzi alla Corte costituzionale, nell'ambito del quale
+possono essere eccepite segnatamente eventuali violazioni dei diritti
+fondamentali, tra cui il diritto del minore di essere sentito.
+
+73      Spetta pertanto ai giudici dello Stato membro d'origine verificare se
+la decisione oggetto di un certificato rilasciato in forza dell'art. 42 del
+regolamento n. 2201/2003 sia viziata da una violazione del diritto del minore
+di essere sentito.
+
+74      Da quanto precede emerge che, in circostanze come quelle della causa
+principale, la questione dell'eventuale violazione dell'art. 42, n. 2, primo
+comma, lett. a), del regolamento n. 2201/2003 da parte del giudice dello Stato
+membro d'origine che ha emanato la decisione certificata rientra unicamente
+nella competenza dei giudici di tale Stato membro e che il giudice competente
+dello Stato membro dell'esecuzione non puo opporsi al riconoscimento e
+all'esecuzione di detta decisione, con riguardo al certificato rilasciato da
+detto giudice dello Stato membro d'origine.
+
+75      Alla luce di tutte queste considerazioni, le questioni sollevate vanno
+risolte nel senso che, in circostanze come quelle della causa principale, il
+giudice competente dello Stato membro dell'esecuzione non puo opporsi
+all'esecuzione di una decisione certificata che prescrive il ritorno di un
+minore illecitamente trattenuto con la motivazione che il giudice dello Stato
+membro d'origine che ha emanato tale decisione avrebbe violato l'art. 42 del
+regolamento n. 2201/2003, interpretato conformemente all'art. 24 della Carta
+dei diritti fondamentali, poiche l'accertamento della sussistenza di una
+siffatta violazione compete esclusivamente ai giudici dello Stato membro
+d'origine.
+
+  **Sulle spese**
+
+76      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:
+
+**In circostanze come quelle della causa principale, il giudice competente
+dello Stato membro dell 'esecuzione non puo opporsi all'esecuzione di una
+decisione certificata che prescrive il ritorno di un minore illecitamente
+trattenuto con la motivazione che il giudice dello Stato membro d'origine che
+ha emanato tale decisione avrebbe violato l'art. 42 del regolamento (CE) del
+Consiglio 27 novembre 2003, n. 2201, relativo alla competenza, al
+riconoscimento e all'esecuzione delle decisioni in materia matrimoniale e in
+materia di responsabilita genitoriale, che abroga il regolamento (CE) n.
+1347/2000, interpretato conformemente all'art. 24 della Carta dei diritti
+fondamentali dell'Unione europea, poiche l'accertamento della sussistenza di
+una siffatta violazione compete esclusivamente ai giudici dello Stato membro
+d'origine. **
+
+Firme
+
+* * *
+
+* Lingua processuale: il tedesco. 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

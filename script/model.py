@@ -23,7 +23,7 @@ def preprocess(text, NUM_DOCS):
     result = []
     stemmer = ItalianStemmer()
     if i % 20 == 0:
-        print(f"{i} out of {NUM_DOCS} documents preprocessed")
+        print(f"\t{i} out of {NUM_DOCS} documents preprocessed")
     nlp = Italian()
     t0 = text.split("Lingua processuale")[0].split("Sentenza")[1:]
     t1 = "".join(t0)
@@ -46,12 +46,12 @@ def create_dict(corpus, NUM_TOPICS=5, filter_n_most_freq=10):
 
 
 def run_model(model, corpus, NUM_TOPICS, dictionary, save_file):
-    print("\nRunning model...")
+    print(f"\nRunning model...")
     lda_model = model(corpus, num_topics=NUM_TOPICS, id2word=dictionary)
     lda_model.save("data/.models/"+save_file)
 
     for idx, topic in lda_model.print_topics(-1):
-        print('Topic: {} \nWords: {}'.format(idx, topic))
+        print('\nTopic: {} \nWords: {}'.format(idx, topic))
 
     return lda_model
 
@@ -63,7 +63,7 @@ def classify(lda_model, corpus, num=1):
 
 def print_topics(model):
     for topic in model.show_topics(formatted=False):
-        print(topic[0])
+        print(f"\nTopic {topic[0]}")
         for word in topic[1]:
             print(f"\t{word[0]}")
 

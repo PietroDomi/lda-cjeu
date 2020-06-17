@@ -1,0 +1,615 @@
+
+
+**Causa C ‑215/10**
+
+**Pacific World Limited**
+
+**e**
+
+**FDD International Limited**
+
+**contro**
+
+**The Commissioners for Her Majesty 's Revenue and Customs**
+
+[domanda di pronuncia pregiudiziale proposta dal
+
+First-tier Tribunal (Tax Chamber)]
+
+«Tariffa doganale comune -- Classificazione doganale -- Nomenclatura combinata
+-- Assortimenti di unghie finte preformate in plastica -- Validita del
+regolamento (CE) n. 1417/2007 -- Altri lavori di materie plastiche (voce 3926)
+-- Preparazioni per manicure o pedicure (voce 3304) -- Utensili e assortimenti
+di utensili per manicure o pedicure (voce 8214)»
+
+Massime della sentenza
+
+_Tariffa doganale comune -- Voci doganali -- Unghie finte e assortimenti di
+unghie finte preformate in plastica_
+
+_(Regolamento del Consiglio n.  2658/87, allegato I; regolamento della
+Commissione n. 1417/2007, allegato)_
+
+Il regolamento n. 1417/2007, relativo alla classificazione di talune merci
+nella nomenclatura combinata, e valido nella misura in cui classifica le
+unghie finte e, pertanto, gli assortimenti di unghie finte, descritti nel suo
+allegato nella sottovoce 3926 90 97 della nomenclatura combinata, di cui
+all'allegato I del regolamento n. 2658/87, relativo alla nomenclatura
+tariffaria e statistica ed alla tariffa doganale comune, quale modificato dal
+regolamento n. 1549/2006.
+
+(v. punti 51-52 e dispositivo)
+
+  
+  
+  
+  
+  
+  
+
+SENTENZA DELLA CORTE (Settima Sezione)
+
+28 luglio 2011 (*)
+
+«Tariffa doganale comune - Classificazione doganale - Nomenclatura combinata -
+Assortimenti di unghie finte preformate in plastica - Validita del regolamento
+(CE) n. 1417/2007 - Altri lavori di materie plastiche (voce 3926) -
+Preparazioni per manicure o pedicure (voce 3304) - Utensili e assortimenti di
+utensili per manicure o pedicure (voce 8214)»
+
+Nel procedimento C‑215/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, dal First-tier Tribunal (Tax Chamber) (Regno
+Unito), con decisione 20 aprile 2010, pervenuta in cancelleria il 4 maggio
+2010, nella causa
+
+**Pacific World Limited,**
+
+**FDD International Limited**
+
+contro
+
+**The Commissioners for Her Majesty 's Revenue and Customs,**
+
+LA CORTE (Settima Sezione),
+
+composta dal sig. D. Švaby, presidente di sezione, dai sigg. E. Juhasz e G.
+Arestis (relatore), giudici,
+
+avvocato generale: sig. Y. Bot
+
+cancelliere: sig.ra L. Hewlett, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all'udienza del 7 aprile
+2011,
+
+considerate le osservazioni presentate:
+
+-        per la Pacific World Limited e la FDD International Limited, dalla sig.ra V. Sloane, barrister; 
+
+-        per il governo del Regno Unito, dal sig. L. Seeboruth, in qualita di agente, assistito dal sig. M. Angiolini, barrister;
+
+-        per la Commissione europea, dalla sig.ra L. Bouyon e dal sig. R. Lyal, in qualita di agenti,
+
+vista la decisione, adottata dopo aver sentito l'avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte, da una parte, sulla
+validita del regolamento (CE) della Commissione 28 novembre 2007, n. 1417,
+relativo alla classificazione di talune merci nella nomenclatura combinata (GU
+L 316, pag. 4), e, dall'altra, sull'interpretazione delle sottovoci doganali
+3926 90 97, 3304 30 00 e 8214 20 00 della nomenclatura combinata di cui
+all'allegato I del regolamento (CEE) del Consiglio 23 luglio 1987, n. 2658,
+relativo alla nomenclatura tariffaria e statistica ed alla tariffa doganale
+comune (GU L 256, pag. 1), quale modificato dal regolamento (CE) della
+Commissione 17 ottobre 2006, n. 1549 (GU L 301, pag. 1; in prosieguo: la
+«NC»).
+
+2        Tale domanda e stata presentata nell'ambito di una controversia tra
+la Pacific World Limited (in prosieguo: la «Pacific World») e la FDD
+International Limited (in prosieguo: la «FDD»), da un lato, e i Commissioners
+for Her Majesty's Revenue and Customs (in prosieguo: i «Commissioners»),
+dall'altro, in merito alla classificazione doganale di assortimenti di unghie
+finte.
+
+  **Contesto normativo**
+
+  _In generale_
+
+3        La NC e basata sul sistema armonizzato di designazione e di
+codificazione delle merci (in prosieguo: il «SA»), elaborato dal Consiglio di
+cooperazione doganale, divenuto Organizzazione mondiale delle dogane,
+istituito dalla convenzione internazionale conclusa a Bruxelles il 14 giugno
+1983 e approvata, a nome della Comunita, con la decisione del Consiglio 7
+aprile 1987, 87/369/CEE, relativa alla conclusione della convenzione
+internazionale sul sistema armonizzato di designazione e di codificazione
+delle merci e il relativo protocollo di emendamento (GU L 198, pag. 1; in
+prosieguo: la «convenzione sul SA»).
+
+  _La NC_
+
+4        La parte prima della NC contiene un insieme di disposizioni
+preliminari. In tale parte, al titolo I dedicato alle regole generali, la
+sezione A, intitolata «Regole generali per l'interpretazione della
+nomenclatura combinata» (in prosieguo: le «regole generali della NC»), dispone
+quanto segue:
+
+«La classificazione delle merci nella [NC] si effettua in conformita alle
+seguenti regole:
+
+1\.       I titoli delle sezioni, dei capitoli o dei sottocapitoli sono da
+considerare come puramente indicativi, poiche la classificazione delle merci e
+determinata legalmente dal testo delle voci, da quello delle note premesse
+alle sezioni o ai capitoli e, occorrendo, dalle norme che seguono, purche
+queste non contrastino col testo di dette voci e note.
+
+2\.       a) (...)
+
+b)       Qualsiasi menzione ad una materia, nel testo di una determinata voce,
+si riferisce a questa materia sia allo stato puro, sia mescolata od anche
+associata ad altre materie. Cosi pure qualsiasi menzione di lavori di una
+determinata materia si riferisce ai lavori costituiti interamente o
+parzialmente da questa materia. La classificazione di questi oggetti mescolati
+o compositi e effettuata seguendo i principi enunciati nella regola 3.
+
+3\.       Qualora per il dispositivo della regola 2 b) o per qualsiasi altra
+ragione una merce sia ritenuta classificabile in due o piu voci, la
+classificazione e effettuata in base ai seguenti principi:
+
+a)       La voce piu specifica deve avere la priorita sulle voci di portata
+piu generale. Tuttavia quando due o piu voci si riferiscono ciascuna a una
+parte solamente delle materie che costituiscono un prodotto misto o un oggetto
+composito o ad una parte solamente degli oggetti, nel caso di merci presentate
+in assortimenti condizionati per la vendita al minuto, queste voci sono da
+considerare, rispetto a questo prodotto od oggetto, come ugualmente specifiche
+anche se una di esse, peraltro, ne da una descrizione piu precisa o completa.
+
+b)       I prodotti misti, i lavori composti di materie differenti o
+costituiti dall'assemblaggio di oggetti differenti e le merci presentate in
+assortimenti condizionati per la vendita al minuto, la cui classificazione non
+puo essere effettuata in applicazione della regola 3 a), sono classificati,
+quando e possibile operare questa determinazione, secondo la materia o
+l'oggetto che conferisce agli stessi il loro carattere essenziale.
+
+c)       Nei casi in cui le regole 3 a) o 3 b) non permettono di effettuare la
+classificazione, la merce e classificata nella voce che, in ordine di
+numerazione, e posta per ultima tra quelle suscettibili di essere validamente
+prese in considerazione.
+
+(...)
+
+6\.       La classificazione delle merci nelle sottovoci di una stessa voce e
+determinata legalmente dal testo di queste sottovoci e dalle note di
+sottovoci, nonche, mutatis mutandis, dalle regole di cui sopra, tenendo conto
+del fatto che possono essere comparate soltanto le sottovoci dello stesso
+valore. Ai fini di questa regola, le note di sezioni o di capitoli sono, salvo
+disposizioni contrarie, parimenti applicabili».
+
+5        La seconda parte della NC comprende una classificazione delle merci
+in sezioni, capitoli, voci e sottovoci.
+
+6        La sezione VI, intitolata «Prodotti delle industrie chimiche o delle
+industrie connesse», contiene il capitolo 33, a sua volta intitolato «Oli
+essenziali e resinoidi; prodotti per profumeria o per toeletta preparati e
+preparazioni cosmetiche». Il capitolo 33 contiene la voce 3304, redatta nei
+seguenti termini: «Prodotti di bellezza o per il trucco preparati e
+preparazioni per la conservazione o la cura della pelle, diversi dai
+medicamenti, comprese le preparazioni antisolari e le preparazioni per
+abbronzare; preparazioni per manicure o pedicure». La sottovoce 3304 30 00 e
+invece intitolata «Preparazioni per manicure o pedicure».
+
+7        La sezione VI contiene inoltre il capitolo 35, intitolato «Sostanze
+albuminoidi; prodotti a base di amidi o di fecole modificati; colle; enzimi».
+Il capitolo 35 contiene segnatamente la sottovoce 3506 10 00, intitolata
+«Prodotti di ogni specie da usare come colle o adesivi, condizionati per la
+vendita al minuto come colle o adesivi, di peso netto non superiore ad 1 kg».
+
+8        La sezione VII e intitolata «Materie plastiche e lavori di tali
+materie; gomma e lavori di gomma». Tale sezione comprende il capitolo 39,
+intitolato «Materie plastiche e lavori di tali materie». L'ultima voce del
+capitolo 39 e la voce 3926, intitolata «Altri lavori di materie plastiche e
+lavori di altre materie delle voci da 3901 a 3914», che include la sottovoce
+3926 90, intitolata «Altri» che, a sua volta, contiene la sottovoce 3926 90
+97, anch'essa intitolata «Altri».
+
+9        La sezione XV, intitolata «Metalli comuni e loro lavori» comprende il
+capitolo 82, intitolato «Utensili e utensileria; oggetti di coltelleria e
+posateria da tavola, di metalli comuni; parti di questi oggetti di metalli
+comuni». Il capitolo 82 contiene la voce 8214 intitolata «Altri oggetti di
+coltelleria (per esempio: tosatrici, fenditoi, coltellacci, scuri da macellaio
+o da cucina e tagliacarte); utensili ed assortimenti di utensili per manicure
+o pedicure (comprese le lime da unghie)». Tale voce contiene, a sua volta, la
+sottovoce 8214 20 00, intitolata «Utensili ed assortimenti di utensili per
+manicure o pedicure (comprese le lime da unghie)».
+
+  _Il regolamento n.  1417/2007_
+
+10      L'allegato del regolamento n. 1417/2007 contiene la classificazione di
+tre tipi di merci.
+
+11      Il primo tipo di merci contemplato da tale regolamento e un
+assortimento per la decorazione delle unghie, confezionato per la vendita al
+minuto, contenente unghie finte di plastica preformata, di diverse misure, un
+tubetto di colla, una lima da unghie, un bastoncino per manicure ed adesivi
+decorativi per le unghie. Tale merce e classificata con il codice NC 3926 90
+97, secondo i punti 1, 3, lett. b), e 6 delle regole generali della NC.
+
+12      Nell'allegato del regolamento in parola viene quindi precisato che
+l'assortimento di cui trattasi, composto da diversi articoli, deve essere
+classificato nella voce 3926 90 97 in base a quello tra essi che gli
+conferisce il suo carattere essenziale, ossia le unghie finte in materia
+plastica. Tale allegato fa riferimento alla nota esplicativa del SA relativa
+alla voce 33.04 di quest'ultimo, punto B, ed enuncia che un siffatto
+«assortimento non e costituito da prodotti per manicure della sottovoce 3304
+30 00, in quanto comporta l'aggiunta di unghie finte sulle unghie naturali e
+non include preparazioni per manicure destinate unicamente a curare ed
+abbellire le mani e le unghie naturali (...)».
+
+13      La seconda classificazione effettuata dal citato regolamento riguarda
+le unghie finte preformate in plastica della stessa misura, presentate in
+confezioni e destinate ad essere applicate sull'unghia naturale, utilizzando
+una soluzione adesiva acrilica. Ai sensi dell'allegato di cui trattasi, tali
+unghie finte devono essere classificate, come altri lavori di materie
+plastiche, nella sottovoce 3926 90 97, in base alla materia costitutiva,
+nonche dei punti 1 e 6 delle regole generali della NC. Viene anche precisato
+che, per gli stessi motivi di quelli esposti per il primo tipo di merci, dette
+unghie finte non sono considerate come preparazioni per manicure della
+sottovoce 3304 30 00\.
+
+14      Il terzo tipo di prodotti contemplato dal suddetto allegato consiste
+in una soluzione adesiva destinata a far aderire le unghie finte preformate in
+plastica alle unghie naturali e confezionata in tubetti dosatori, per
+facilitarne l'applicazione, di un peso netto massimo di 1 kg. Lo stesso
+allegato menziona che tale prodotto e classificato con il codice NC 3506 10
+00, secondo i punti 1 e 6 delle regole generali della NC, e precisa che non
+viene considerato come una preparazione per manicure o pedicure della voce
+3304.
+
+  _Le note esplicative del SA_
+
+15      L'Organizzazione mondiale delle dogane approva, alle condizioni
+stabilite dall'art. 8 della convenzione sul SA, le note esplicative e i pareri
+di classificazione adottati dal comitato del SA. Conformemente all'art. 7, n.
+1, della convenzione sul SA, il compito di tale comitato consiste, in
+particolare, nel proporre emendamenti alla detta convenzione e nel redigere
+note esplicative, pareri di classificazione, nonche altri pareri per
+l'interpretazione del SA.
+
+16      La nota esplicativa VIII relativa al punto 3, lett. b), delle regole
+generali per l'interpretazione del SA, dispone quanto segue:
+
+«Il fattore che determina il carattere essenziale varia da merce a merce. Esso
+puo, ad esempio, essere rappresentato dalla natura della materia costitutiva o
+degli elementi che compongono l'oggetto in esame, dal loro volume, dalla loro
+quantita, dal loro peso, dal loro valore, dall'importanza di una delle materie
+costitutive, avuto riguardo alla utilizzazione delle merci».
+
+17      La nota esplicativa del SA relativa alla voce 33.04 del medesimo, al
+punto B, indica quanto segue:
+
+«B. - Preparazioni per manicure e pedicure
+
+Questo gruppo comprende le polveri e gli smalti per le unghie, i solventi per
+gli smalti da unghie, le preparazioni atte a togliere le pellicine e le altre
+preparazioni per manicure e pedicure.
+
+Sono esclusi da questa voce:
+
+a)       Le preparazioni medicamentose destinate a trattare certe malattie
+della pelle, come per esempio le pomate per il trattamento dell'eczema (n.
+30.03 o 30.04).
+
+b)       I deodoranti per i piedi come pure le preparazioni per il trattamento
+delle unghie degli animali (n. 33.07)».
+
+18      Il punto 2 della nota esplicativa del SA relativa alla voce 82.14 di
+quest'ultimo e redatto nei seguenti termini:
+
+«Gli utensili da manicure, pedicure. Tra questi utensili si possono citare le
+lime da unghie, (dritte o pieghevoli), sgorbie respingi-pipite, raschini da
+unghie, tagliacalli, sgorbie per l'estrazione dei calli, le spatole appuntite
+per tagliare e fresare le pelli sulle unghie, pinze da unghie e taglia-unghie.
+
+Gli assortimenti di utensili da manicure e pedicure sono presentati in
+scatole, scrigni, astucci, ecc. e possono contenere forbici e altri oggetti,
+come i lustra-unghie e le pinze per depilare, che, presi isolatamente,
+seguirebbero il regime loro proprio».
+
+  **Causa principale e questioni pregiudiziali**
+
+19      La Pacific World e la FDD hanno sede nel Regno Unito e importano
+nell'Unione europea assortimenti (denominati anche «kit») di unghie finte.
+Questi contengono, generalmente, una confezione di unghie finte di plastica di
+diverse misure, destinate ad essere fissate sulle unghie naturali della mano o
+del piede; una soluzione adesiva specialmente concepita per fissare le unghie
+finte sulle unghie naturali ed altri accessori quali un bastoncino per
+manicure e un utensile per l'applicazione.
+
+20      La FDD e la Pacific World hanno ottenuto, rispettivamente nel 2005 e
+nel 2006, informazioni tariffarie vincolanti, emesse dai Commissioners, che
+classificavano le unghie finte e i prodotti per unghie finte nella sottovoce
+3304 30 00 della NC, come «preparazioni per manicure e pedicure».
+
+21      Tali informazioni tariffarie erano fondate su una decisione adottata
+nel 2005 dal VAT and Duties Tribunal, divenuto il First-tier Tribunal (Tax
+Chamber), che ha ritenuto che le unghie finte e la soluzione adesiva per
+queste ultime rientrassero nella sottovoce 3304 30 00 della NC e non nella
+sottovoce 3926 90 90 della NC come «altri lavori di materie plastiche».
+
+22      Tuttavia, il 4 dicembre 2007, e stato pubblicato nella _Gazzetta
+ufficiale dell 'Unione europea _il regolamento n. 1417/2007 che classifica le
+unghie finte e gli assortimenti di unghie finte nella sottovoce 3926 90 97
+della NC come «altri lavori di materie plastiche» e classifica la soluzione
+adesiva per le unghie finte, qualora venduta separatamente, nella sottovoce
+3506 10 00 come «prodotti di ogni specie da usare come colle o adesivi,
+condizionati per la vendita al minuto come colle o adesivi, di peso netto non
+superiore ad 1 kg».
+
+23      Tenuto conto di tale regolamento, i Commissioners hanno notificato
+alla Pacific World e alla FDD nuove decisioni secondo cui le informazioni
+tariffarie vincolanti summenzionate non erano piu valide.
+
+24      Le due societa interessate hanno impugnato tali nuove decisioni
+dinanzi al VAT and Duties Tribunal, con la motivazione che la corretta
+classificazione dei prodotti di cui trattasi nella causa principale sarebbe
+quella di cui alle informazioni tariffarie vincolanti precedentemente emesse
+dai Commissioners e che, di conseguenza, il regolamento n. 1417/2007 sarebbe
+invalido per quanto riguarda la classificazione di tali merci.
+
+25      In base alle considerazioni che precedono, il First-tier Tribunal (Tax
+Chamber) ha deciso di sospendere il procedimento e di sottoporre alla Corte le
+seguenti questioni pregiudiziali:
+
+«1)       Se il regolamento [n. 1417/2007] sia valido laddove classifica nella
+sottovoce 3926 90 97 della NC [precedentemente 3926 90 90] le unghie finte e,
+quindi, gli assortimenti di unghie finte, descritti nell'[allegato] del detto
+regolamento.
+
+2)       In caso di risposta negativa alla prima questione, se la [NC] debba
+essere interpretata nel senso che richiede che gli assortimenti di unghie
+finte di cui trattasi siano classificati come ["preparazioni per manicure o
+pedicure"] nella sottovoce doganale 33 04 30 00 o come ['utensili ed
+assortimenti di utensili per manicure o pedicure (comprese le lime da
+unghie)'] nella sottovoce doganale 82 14 20 00».
+
+  **Sulle questioni pregiudiziali**
+
+26      Con le sue questioni, che occorre esaminare congiuntamente, il giudice
+del rinvio si interroga sulla validita del regolamento n. 1417/2007 nella
+parte in cui classifica le unghie finte preformate in plastica e, quindi, gli
+assortimenti di tali unghie finte nella sottovoce 3926 90 97 della NC, come
+altri lavori di materie plastiche, nonche sull'eventuale classificazione di
+tali assortimenti nelle sottovoci 3304 30 00 o 8214 20 00, che contemplano
+rispettivamente le preparazioni per manicure o pedicure e gli utensili e
+assortimenti di utensili per manicure o pedicure.
+
+27      Dalla domanda di pronuncia pregiudiziale emerge che la controversia
+principale riguarda unicamente la classificazione degli assortimenti di unghie
+finte venduti al minuto e importati dalle ricorrenti nella causa principale.
+
+28      Va ricordato che, secondo una giurisprudenza costante, nell'interesse
+della certezza del diritto e per facilitare i controlli, il criterio decisivo
+per la classificazione doganale delle merci va ricercato, in linea di
+principio, nelle loro caratteristiche e proprieta oggettive, quali definite
+nel testo della voce della NC e delle note di sezione o di capitolo (v., in
+particolare, sentenze 18 luglio 2007, causa C‑142/06, Olicom, Racc. pag.
+I‑6675, punto 16, nonche 11 dicembre 2008, cause riunite C‑362/07 e C‑363/07,
+Kip Europe e a., Racc. pag. I‑9489, punto 26).
+
+29      Va altresi rammentato che le note esplicative del SA costituiscono
+mezzi importanti per garantire un'applicazione uniforme della tariffa doganale
+comune e come tali forniscono elementi validi per l'interpretazione della
+stessa (v. sentenze 19 maggio 1994, causa C‑11/93, Siemens Nixdorf, Racc. pag.
+I‑1945, punto 12; 18 dicembre 1997, causa C‑382/95, Techex, Racc. pag. I‑7363,
+punto 12; 27 aprile 2006, causa C‑15/05, Kawasaki Motors Europe, Racc. pag.
+I‑3657, punto 36, e 29 aprile 2010, causa C‑123/09, Roeckl Sporthandschuhe,
+Racc. pag. I-4065 punto 29).
+
+  _Sulla merce caratteristica di assortimenti come quelli di cui trattasi
+nella causa principale_
+
+30      Nella specie, va constatato che gli assortimenti di unghie finte come
+quelli in esame nella causa principale, composti da vari articoli,
+segnatamente da capsule di unghie finte di diverse misure, da colla, da un
+bastoncino per manicure e da un utensile per l'applicazione, non sono
+esplicitamente previsti ne dal testo delle voci della NC ne da quello delle
+note di sezione o di capitoli di quest'ultima.
+
+31      Vanno pertanto applicate tutte le regole generali della NC pertinenti
+al fine di effettuare la classificazione di detti assortimenti.
+
+32      A tal riguardo, va rilevato che siffatti assortimenti di unghie finte
+preformate in plastica rientrano nel punto 3 di suddette regole, poiche
+«s[ono] ritenut[i] classificabil[i] in due o piu voci». Infatti, essi possono
+corrispondere tanto al testo della voce 3304, avente ad oggetto «Prodotti di
+bellezza o per il trucco preparati e preparazioni per la conservazione o la
+cura della pelle, diversi dai medicamenti, comprese (...) preparazioni per
+manicure o pedicure», quanto a quello della voce 3926, relativa ad «altri
+lavori di materie plastiche (...)». Il punto 3, lett. b), delle regole
+generali della NC si applica se la classificazione degli oggetti non puo
+essere effettuata con riferimento al punto 3, lett. a), delle medesime. Cio
+avviene nel caso di specie, in quanto nessuna voce, generale o particolare,
+della NC riguarda un assortimento di unghie finte come quelli di cui trattasi
+nella controversia principale.
+
+33      Il punto 3, lett. b), delle regole generali della NC prevede che le
+merci presentate in assortimenti confezionati per la vendita al minuto, la cui
+classificazione non puo essere effettuata in applicazione del punto 3, lett.
+a), di dette regole generali, siano classificate, quando e possibile operare
+questa determinazione, secondo l'oggetto che conferisce alle stesse il loro
+carattere essenziale (v. citate sentenze Kip Europe e a., punto 49, nonche
+Roeckl Sporthandschuhe, punto 33).
+
+34      A tal riguardo, la nota esplicativa VIII del SA relativa al punto 3,
+lett. b), delle regole generali della NC prevede che il fattore che determina
+il carattere essenziale delle merci, a seconda del tipo di merce, possa essere
+rappresentato ad esempio dalla natura della materia costitutiva o degli
+elementi che le compongono, dal loro volume, dalla loro quantita, dal loro
+peso o dal loro valore, o ancora dall'importanza di una delle materie
+costitutive, avuto riguardo alla utilizzazione delle merci. Al pari degli
+interessati che hanno presentato osservazioni dinanzi alla Corte, va
+constatato che le unghie finte predominano gli assortimenti, come quelli di
+cui trattasi nella causa principale, quanto a volume e quantita e che gli
+altri prodotti, ossia la colla per unghie, il bastoncino per manicure e
+l'utensile per l'applicazione, sono prodotti accessori che contribuiscono
+soltanto a realizzare la destinazione della merce. Sono pertanto le unghie
+finte che conferiscono a detti assortimenti il loro carattere essenziale.
+
+  _Sulla classificazione delle unghie finte preformate in plastica_
+
+35      Per quanto riguarda la classificazione nella NC di unghie finte come
+quelle in esame nella causa principale, il regolamento n. 1417/2007 rinvia
+alla sottovoce 3926 90 97, corrispondente agli «altri lavori di materie
+plastiche». Le ricorrenti nella causa principale criticano tale
+classificazione e sostengono, in via principale, che le merci di cui trattasi
+dovrebbero essere classificate nella voce 3304 come «preparazioni per manicure
+o pedicure», poiche, da un lato, tenuto conto del loro processo di
+fabbricazione, esse sono il frutto di una reazione di polimerizzazione nel
+corso della quale sono mescolati piu componenti e, dall'altro, esse hanno come
+unica funzione quella di abbellire le mani e i piedi.
+
+36      Come emerge dalla giurisprudenza richiamata al punto 28 della presente
+sentenza, la classificazione deve essere effettuata secondo le caratteristiche
+e proprieta oggettive del prodotto. In tal senso, una capsula di unghie finte
+e, oggettivamente, un frammento di materia plastica, ritagliato per adattarsi
+su un'unghia naturale e modificarne la forma. Pertanto, la classificazione di
+tali merci nella sottovoce 3926 90 97 come «altri lavori di materie
+plastiche», in linea di principio, sembra giustificata.
+
+37      Peraltro, nel regolamento n. 1417/2007, la Commissione, riferendosi
+alla nota esplicativa del SA relativa alla voce 33.04 di quest'ultimo, punto
+B, precisa che le unghie finte non vanno considerate come preparazioni per
+manicure della sottovoce 3304 30 00 in quanto sono destinate ad essere
+aggiunte alle unghie naturali e non costituiscono preparazioni per manicure
+destinate unicamente a curare ed abbellire le mani e le unghie naturali. Il
+governo del Regno Unito sostiene tale posizione.
+
+38      In primo luogo, quanto al testo della voce 3304, esso contempla
+preparazioni per la conservazione o la cura della pelle, comprese preparazioni
+per manicure o pedicure. Il punto B della nota esplicativa del SA relativa
+alla voce 33.04 di quest'ultima indica, quali esempi di «preparazioni per
+manicure o pedicure», «le polveri e gli smalti per le unghie, i solventi per
+gli smalti da unghie, le preparazioni atte a togliere le pellicine e le altre
+preparazioni per manicure o pedicure».
+
+39      Va pertanto constatato che le summenzionate «preparazioni per manicure
+o pedicure» consistono in sostanze, che si possono presentare sotto varie
+forme, quali polveri, liquidi, pomate e che sono utilizzate per la manicure o
+la pedicure, ossia per le cure estetiche destinate ad abbellire le mani o i
+piedi e, in particolare, le unghie.
+
+40      In secondo luogo, va rilevato che, sebbene talvolta la tariffa
+doganale comune faccia riferimento a procedimenti di fabbricazione o alla
+destinazione delle merci, in genere e di preferenza, nell'interesse della
+certezza del diritto e per facilitare i controlli, essa fa appello a criteri
+di classificazione fondati sulle caratteristiche e sulle proprieta oggettive
+dei prodotti, che possono essere verificate al momento dello sdoganamento (v.
+sentenze 16 dicembre 1976, causa 38/76, Industriemetall Luma, Racc. pag. 2027,
+punto 7, e 25 maggio 1989, causa 40/88, Weber, Racc. pag. 1395, punto 14).
+
+41      Ne consegue che i procedimenti di fabbricazione di un prodotto sono
+determinanti unicamente qualora una voce doganale lo prescriva esplicitamente
+(v. sentenza Weber, cit., punto 15).
+
+42      Nella specie, in mancanza di voce doganale e di note di sezione o di
+capitoli relativi alle unghie finte, come quelle di cui trattasi nella causa
+principale, ai termini delle quali il processo di fabbricazione costituirebbe
+un criterio, un siffatto criterio non ha incidenza sulla classificazione di
+queste ultime nella NC.
+
+43      A tal riguardo, l'argomento della Pacific World e della FDD, secondo
+cui un'unghia finta sarebbe una «semplice soluzione di sostituzione dello
+smalto per unghie», non puo essere accolto. Infatti, a differenza di uno
+smalto per unghie, una capsula di unghie finte e un oggetto solido in
+plastica, incollato sull'unghia naturale e che consente di modificarne la
+forma, segnatamente prolungando l'unghia naturale. Inoltre, l'applicazione di
+unghie finte non costituisce in alcun modo un trattamento per le unghie, delle
+mani o dei piedi.
+
+44      Pertanto, un siffatto prodotto non corrisponde ad una preparazione per
+manicure o pedicure della sottovoce 3304 30 00\.
+
+45      Per quanto riguarda la classificazione nella sottovoce 8214 20 00,
+proposta dalla Pacific World e dalla FDD in subordine, va sottolineato che
+un'unghia finta, ossia l'oggetto che conferisce agli assortimenti di cui
+trattasi il loro carattere essenziale, non puo essere considerata come un
+utensile ai sensi della voce 8214.
+
+46      Innanzitutto, va rilevato che il capitolo 82, che contiene tale voce,
+fa parte della sezione XV intitolata «Metalli comuni e loro lavori». Orbene,
+le unghie finte sono fabbricate in materia plastica.
+
+47      Non puo essere condiviso l'argomento delle ricorrenti nella causa
+principale secondo cui dalla versione inglese della NC emergerebbe che il
+testo della sottovoce 8214 20 00 non contempla espressamente gli assortimenti
+di «utensili» per manicure o pedicure.
+
+48      Secondo una giurisprudenza consolidata, da una parte, la formulazione
+utilizzata in una delle versioni linguistiche di una disposizione di diritto
+dell'Unione non puo essere l'unico elemento a sostegno dell'interpretazione di
+questa disposizione ne si puo attribuire ad essa, a tal riguardo, un carattere
+prioritario rispetto alle altre versioni linguistiche. D'altra parte, le varie
+versioni linguistiche di un testo di diritto dell'Unione devono essere
+interpretate in modo uniforme e, pertanto, in caso di divergenze tra loro, la
+disposizione di cui trattasi dev'essere interpretata in funzione dell'economia
+generale e della finalita della normativa di cui essa fa parte (v. sentenza 5
+maggio 2011, cause riunite C‑230/09 e C‑231/09, Kurt und Thomas Etling e a.,
+non ancora pubblicata nella Raccolta, punto 60 e giurisprudenza ivi citata).
+
+49      A tal riguardo, occorre riferirsi al punto 2 della nota esplicativa
+del SA relativa alla voce 82.14 di quest'ultimo, che riguarda proprio gli
+utensili che possono essere presentati in assortimenti per manicure o
+pedicure, quali una lima per unghie, un taglia-unghie o un raschino per
+unghie.
+
+50      Alla luce di queste precisazioni, assortimenti di unghie finte come
+quelle di cui trattasi nella causa principale, che, come indicato al punto 30
+della presente sentenza, sono composti segnatamente da capsule di unghie
+finte, di diverse misure, e da colla, non possono essere considerati come
+assortimenti di «utensili» per manicure o pedicure ai sensi della sottovoce
+8214 20 00\.
+
+51      Si deve concludere che un'unghia finta non puo essere classificata ne
+nella sottovoce 3304 30 00 come «preparazioni per manicure o pedicure», ne
+nella sottovoce 8214 20 00 come «utensili ed assortimenti di utensili per
+manicure o pedicure», ma rientra, viste le sue caratteristiche e proprieta
+oggettive, nella sottovoce 3926 90 97, come «altri lavori di materie
+plastiche». Pertanto, in applicazione del punto 3, lett. b), delle regole
+generali della NC, gli assortimenti di unghie finte, come quelli di cui
+trattasi nella causa principale, vanno classificati nella sottovoce 3926 90
+97\.
+
+52      Alla luce delle considerazioni che precedono, le questioni poste vanno
+risolte nel senso che il regolamento n. 1417/2007 e valido nella misura in cui
+classifica le unghie finte e, pertanto, gli assortimenti di unghie finte,
+descritti nel suo allegato nella sottovoce 3926 90 97 della NC.
+
+  **Sulle spese**
+
+53      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Settima Sezione) dichiara:
+
+**Il regolamento (CE) della Commissione 28 novembre 2007, n.  1417, relativo
+alla classificazione di talune merci nella nomenclatura combinata, e valido
+nella misura in cui classifica le unghie finte e, pertanto, gli assortimenti
+di unghie finte, descritti nel suo allegato nella sottovoce 3926 90 97 della
+nomenclatura combinata, di cui all'allegato I del regolamento (CEE) del
+Consiglio 23 luglio 1987, n. 2658, relativo alla nomenclatura tariffaria e
+statistica ed alla tariffa doganale comune, quale modificato dal regolamento
+(CE) della Commissione 17 ottobre 2006, n. 1549.**
+
+Firme
+
+* * *
+
+* Lingua processuale: l'inglese. 
+

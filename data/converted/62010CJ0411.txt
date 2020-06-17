@@ -1,0 +1,1228 @@
+
+
+SENTENZA DELLA CORTE (Grande Sezione)
+
+21 dicembre 2011 (*)
+
+«Diritto dell'Unione - Principi - Diritti fondamentali - Attuazione del
+diritto dell'Unione - Divieto dei trattamenti inumani o degradanti - Sistema
+europeo comune di asilo - Regolamento (CE) n. 343/2003 - Nozione di "paesi
+sicuri" - Trasferimento di un richiedente asilo verso lo Stato membro
+competente - Obbligo - Presunzione relativa di rispetto, da parte di tale
+Stato membro, dei diritti fondamentali»
+
+Nei procedimenti riuniti C‑411/10 e C‑493/10,
+
+aventi ad oggetto le domande di pronuncia pregiudiziale proposte alla Corte,
+ai sensi dell'art. 267 TFUE, dalla Court of Appeal (England & Wales) (Civil
+Division) (Regno Unito) e dalla High Court (Irlanda) con decisioni 12 luglio e
+11 ottobre 2010, pervenute in cancelleria, rispettivamente, il 18 agosto e il
+15 ottobre 2010, nei procedimenti
+
+**N. S.** (causa C‑411/10)
+
+contro
+
+**Secretary of State for the Home Department**
+
+e
+
+**M. E.** (causa C‑493/10),
+
+**A. S. M**.,
+
+**M. T.** ,
+
+**K. P.** ,
+
+**E. H.**
+
+contro
+
+**Refugee Applications Commissioner** ,
+
+**Minister for Justice, Equality and Law Reform** ,
+
+con l'intervento di:
+
+**Amnesty International Ltd and the AIRE Centre (Advice on Individual Rights
+in Europe) (UK)** (causa C‑411/10),
+
+**United Nations High Commissioner for Refugees (UNHCR) (UK)** (causa
+C‑411/10),
+
+**Equality and Human Rights Commission (EHRC)** (causa C‑411/10),
+
+**Amnesty International Ltd and the AIRE Centre (Advice on Individual Rights
+in Europe) (IRL)** (causa C‑493/10),
+
+**United Nations High Commissioner for Refugees (UNHCR) (IRL)** (causa
+C‑493/10),
+
+LA CORTE (Grande Sezione),
+
+composta dal sig. V. Skouris, presidente, dai sigg. A. Tizzano, J. N. Cunha
+Rodrigues, K. Lenaerts, J.‑C. Bonichot, J. Malenovský e U. Lohmus, presidenti
+di sezione, dai sigg. A. Rosas (relatore), M. Ilešič, T. von Danwitz, A.
+Arabadjiev, dalla sig.ra C. Toader e dal sig. J.‑J. Kasel, giudici,
+
+avvocato generale: sig.ra V. Trstenjak
+
+cancelliere: sig.ra L. Hewlett, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all'udienza del 28 giugno
+2011,
+
+considerate le osservazioni presentate:
+
+-        per N. S., dalla sig.ra D. Rose, QC, dal sig. M. Henderson e dalla sig.ra A. Pickup, barristers, nonche dalla sig.ra S. York, Legal Officer; 
+
+-        per M. E. e a., dai sigg. C. Power, BL, F. McDonagh, SC, e G. Searson, solicitor;
+
+-        per Amnesty International Ltd and the AIRE Centre (Advice on Individual Rights in Europe) (UK) (causa C‑411/10), dai sigg. S. Cox e S. Taghavi, barristers, nonche dal sig. J. Tomkin, BL; 
+
+-        per Amnesty International Ltd and the AIRE Centre (Advice on Individual Rights in Europe) (IRL) (causa C‑493/10), dai sigg. B. Shipsey, SC, J. Tomkin, BL, e C. Ó Briain, solicitor; 
+
+-        per l'Equality and Human Rights Commission (EHRC), dal sig. G. Robertson, QC, nonche dal sig. J. Cooper e dalla sig.ra C. Collier, solicitors; 
+
+-        per l'United Nations High Commissioner for Refugees (UNHCR) (UK), dai sigg. R. Husain, QC, e R. Davies, solicitor, nonche dalle sig.re S. Knights e M. Demetriou, barristers; 
+
+-        per l'Irlanda, dal sig. D. O'Hagan, in qualita di agente, assistito dalla sig.ra S. Moorhead, SC, e dal sig. D. Conlan Smyth, BL; 
+
+-        per il governo del Regno Unito, dalla sig.ra C. Murrell, in qualita di agente, assistita dal sig. D. Beard, barrister;
+
+-        per il governo belga, dalla sig.ra C. Pochet e dal sig. T. Materne, in qualita di agenti;
+
+-        per il governo ceco, dai sigg. M. Smolek e J. Vlačil, in qualita di agenti;
+
+-        per il governo tedesco, dai sigg. T. Henze e N. Graf Vitzthum, in qualita di agenti;
+
+-        per il governo ellenico, dalle sig.re A. Samoni‑Rantou, M. Michelogiannaki, T. Papadopoulou, F. Dedousi e M. Germani, in qualita di agenti; 
+
+-        per il governo francese, dal sig. G. de Bergues nonche dalle sig.re E. Belliard e B. Beaupere‑Manokha, in qualita di agenti;
+
+-        per il governo italiano, dalla sig.ra G. Palmieri, in qualita di agente, assistita dalla sig.ra M. Russo, avvocato dello Stato;
+
+-        per il governo dei Paesi Bassi, dalle sig.re C. M. Wissels e M. Noort, in qualita di agenti;
+
+-        per il governo austriaco, dal sig. G. Hesse, in qualita di agente;
+
+-        per il governo polacco, dai sigg. M. Arciszewski, B. Majczyna e M. Szpunar, in qualita di agenti;
+
+-        per il governo sloveno, dalle sig.re N. Aleš Verdir e V. Klemenc, in qualita di agenti;
+
+-        per il governo finlandese, dal sig. J. Heliskoski, in qualita di agente;
+
+-        per la Commissione europea, dalla sig.ra M. Condou‑Durande nonche dai sigg. M. Wilderspin e H. Kraemer, in qualita di agenti;
+
+-        per la Confederazione svizzera, dal sig. O. Kjelsen, in qualita di agente,
+
+sentite le conclusioni dell'avvocato generale, presentate all'udienza del 22
+settembre 2011,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        Le due domande di pronuncia pregiudiziale vertono
+sull'interpretazione, in primo luogo, dell'art. 3, n. 2, del regolamento (CE)
+del Consiglio 18 febbraio 2003, n. 343, che stabilisce i criteri e i
+meccanismi di determinazione dello Stato membro competente per l'esame di una
+domanda d'asilo presentata in uno degli Stati membri da un cittadino di un
+paese terzo (GU L 50, pag. 1); in secondo luogo, dei diritti fondamentali
+dell'Unione europea, compresi i diritti enunciati agli artt. 1, 4, 18, 19, n.
+2, e 47 della Carta dei diritti fondamentali dell'Unione europea (in
+prosieguo: la «Carta»), e, in terzo luogo, del Protocollo (n. 30)
+sull'applicazione della Carta alla Polonia e al Regno Unito [(GU 2010, C 83,
+pag. 313); in prosieguo: il «Protocollo (n. 30)»].
+
+2        Dette domande sono state sollevate nell'ambito di una serie di
+controversie tra richiedenti asilo da rinviare in Grecia in applicazione del
+regolamento n. 343/2003 e le autorita, rispettivamente, del Regno Unito e
+irlandesi.
+
+  **Contesto normativo**
+
+  _Il diritto internazionale_
+
+3        La Convenzione relativa allo status dei rifugiati, firmata a Ginevra
+il 28 luglio 1951 [ _Recueil des trait es des Nations unies_ vol. 189, pag.
+150, n. 2545 (1954) (in prosieguo: la «Convenzione di Ginevra»)], e entrata in
+vigore il 22 aprile 1954 ed e stata completata dal Protocollo relativo allo
+status dei rifugiati del 31 gennaio 1967 (in prosieguo: il «Protocollo del
+1967»), entrato in vigore il 4 ottobre 1967.
+
+4        Tutti gli Stati membri sono parti contraenti della Convenzione di
+Ginevra e del Protocollo del 1967, cosi come la Repubblica d'Islanda, il Regno
+di Norvegia, la Confederazione svizzera e il Principato del Liechtenstein.
+L'Unione non e parte contraente della Convenzione di Ginevra e neppure del
+Protocollo del 1967, ma l'art. 78 TFUE e l'art. 18 della Carta prevedono che
+il diritto di asilo sia garantito, in particolare, nel rispetto di detta
+convenzione e di detto protocollo.
+
+5        L'art. 33 della Convenzione di Ginevra, rubricato «Divieto di
+espulsione e di rinvio al confine», stabilisce, al suo n. 1, quanto segue:
+
+«Nessuno Stato contraente espellera o respingera, in qualsiasi modo, un
+rifugiato verso i confini di territori in cui la sua vita o la sua liberta
+sarebbero minacciate a motivo della sua razza, della sua religione, della sua
+cittadinanza, della sua appartenenza a un gruppo sociale o delle sue opinioni
+politiche».
+
+  _Il sistema europeo comune di asilo_
+
+6        Al fine di realizzare l'obiettivo, fissato dal Consiglio europeo di
+Strasburgo dell'8 e 9 dicembre 1989, di un'armonizzazione delle loro politiche
+di asilo, gli Stati membri hanno firmato a Dublino, il 15 giugno 1990, la
+Convenzione sulla determinazione dello Stato competente per l'esame di una
+domanda di asilo presentata in uno degli Stati membri delle Comunita europee
+(GU 1997, C 254, pag. 1; in prosieguo: la «Convenzione di Dublino»). Detta
+convenzione e entrata in vigore il 1° settembre 1997 per i dodici Stati
+firmatari iniziali, il 1° ottobre 1997 per la Repubblica d'Austria e il Regno
+di Svezia e il 1° gennaio 1998 per la Repubblica di Finlandia.
+
+7        Le conclusioni del Consiglio europeo di Tampere del 15 e 16 ottobre
+1999 prevedevano, in particolare, l'istituzione di un regime europeo comune in
+materia di asilo, basato sull'applicazione, in ogni sua componente, della
+Convenzione di Ginevra, in modo da garantire che nessuno sarebbe stato
+rinviato in luogo in cui rischiava di essere nuovamente perseguitato, in
+ottemperanza al principio di non respingimento.
+
+8        Il Trattato di Amsterdam del 2 ottobre 1997 ha introdotto l'art. 63
+nel Trattato CE, che dava competenza alla Comunita europea per adottare le
+misure raccomandate dal Consiglio europeo di Tampere. Questo trattato ha
+altresi accluso al Trattato CE il Protocollo (n. 24) sull'asilo per i
+cittadini degli Stati membri dell'Unione europea (GU 2010, C 83, pag. 305), a
+termini del quale tali Stati si considerano reciprocamente paesi di origine
+sicuri a tutti i fini giuridici e pratici connessi a questioni inerenti
+l'asilo.
+
+9        L'adozione dell'art. 63 CE ha permesso, in particolare, di
+sostituire, tra gli Stati membri eccetto il Regno di Danimarca, la Convenzione
+di Dublino con il regolamento n. 343/2003, il quale e entrato in vigore il 17
+marzo 2003. Su questo fondamento giuridico sono state adottate altresi le
+direttive applicabili ai procedimenti principali, finalizzate all'istituzione
+del regime europeo comune in materia di asilo previsto dalle conclusioni del
+Consiglio europeo di Tampere.
+
+10      In seguito all'entrata in vigore del Trattato di Lisbona le
+disposizioni pertinenti in materia di asilo sono gli artt. 78 TFUE, che
+prevede l'istituzione di un sistema europeo comune di asilo, e 80 TFUE, che
+ricorda il principio di solidarieta e di ripartizione equa delle
+responsabilita tra gli Stati membri.
+
+11      La normativa dell'Unione rilevante per i procedimenti principali
+comprende:
+
+-        il regolamento n. 343/2003;
+
+-        la direttiva del Consiglio 27 gennaio 2003, 2003/9/CE, recante norme minime relative all'accoglienza dei richiedenti asilo negli Stati membri (GU L 31, pag. 18); 
+
+-        la direttiva del Consiglio 29 aprile 2004, 2004/83/CE, recante norme minime sull'attribuzione, a cittadini di paesi terzi o apolidi, della qualifica di rifugiato o di persona altrimenti bisognosa di protezione internazionale, nonche norme minime sul contenuto della protezione riconosciuta (GU L 304, pag. 12; rettifica in GU 2005, L 204, pag. 24); 
+
+-        la direttiva del Consiglio 1° dicembre 2005, 2005/85/CE, recante norme minime per le procedure applicate negli Stati membri ai fini del riconoscimento e della revoca dello status di rifugiato (GU L 326, pag. 13; rettifica in GU 2006, L 236, pag. 36). 
+
+12      Occorre menzionare, inoltre, la direttiva del Consiglio 20 luglio
+2001, 2001/55/CE, sulle norme minime per la concessione della protezione
+temporanea in caso di afflusso massiccio di sfollati e sulla promozione
+dell'equilibrio degli sforzi tra gli Stati membri che ricevono gli sfollati e
+subiscono le conseguenze dell'accoglienza degli stessi (GU L 212, pag. 12).
+Come risulta dal suo ventesimo 'considerando', uno degli obiettivi di detta
+direttiva e prevedere un sistema di solidarieta inteso a promuovere
+l'equilibrio degli sforzi tra gli Stati membri che ricevono gli sfollati e
+subiscono le conseguenze dell'accoglienza degli stessi in caso di afflusso
+massiccio.
+
+13      La registrazione dei dati relativi alle impronte digitali degli
+stranieri che attraversano illegalmente una frontiera esterna dell'Unione
+permette di determinare lo Stato membro competente per una domanda di asilo.
+Tale registrazione e stata introdotta con il regolamento (CE) del Consiglio 11
+dicembre 2000, n. 2725, che istituisce l'«Eurodac» per il confronto delle
+impronte digitali per l'efficace applicazione della Convenzione di Dublino (GU
+L 316, pag. 1).
+
+14      Il regolamento n. 343/2003 e le direttive 2003/9, 2004/83 e 2005/85
+fanno riferimento, rispettivamente al primo 'considerando', al fatto che una
+politica comune nel settore dell'asilo, che preveda un regime europeo comune
+in materia di asilo, costituisce un elemento fondamentale dell'obiettivo
+dell'Unione di istituire progressivamente uno spazio di liberta, di sicurezza
+e di giustizia aperto a quanti, spinti dalle circostanze, cercano
+legittimamente protezione nella Comunita. Essi fanno altresi riferimento,
+rispettivamente al secondo 'considerando', alle conclusioni del Consiglio
+europeo di Tampere.
+
+15      Ciascuno di tali testi indica di rispettare i diritti fondamentali e
+di osservare i principi che sono riconosciuti, segnatamente, dalla Carta. In
+particolare, il quindicesimo 'considerando' del regolamento n. 343/2003
+precisa che esso mira ad assicurare la piena osservanza del diritto di asilo
+garantito all'art. 18 della Carta; il quinto 'considerando' della direttiva
+2003/9 enuncia che, in particolare, questa direttiva mira a garantire il pieno
+rispetto della dignita umana e a favorire l'applicazione degli artt. 1 e 18
+della Carta, e il decimo 'considerando' della direttiva 2004/83 precisa che
+essa mira segnatamente ad assicurare il pieno rispetto della dignita umana e
+il diritto di asilo dei richiedenti asilo nonche dei familiari al loro
+seguito.
+
+16      A termini del suo art. 1, il regolamento n. 343/2003 stabilisce i
+criteri e i meccanismi di determinazione dello Stato membro competente per
+l'esame di una domanda d'asilo presentata in uno degli Stati membri da un
+cittadino di un paese terzo.
+
+17      L'art. 3, nn. 1 e 2, di detto regolamento prevede quanto segue:
+
+«1.      Gli Stati membri esaminano la domanda di asilo di un cittadino di un
+paese terzo presentata alla frontiera o nel rispettivo territorio. Una domanda
+d'asilo e esaminata da un solo Stato membro, che e quello individuato come
+Stato competente in base ai criteri enunciati al capo III.
+
+2.      In deroga al paragrafo 1, ciascuno Stato membro puo esaminare una domanda d'asilo presentata da un cittadino di un paese terzo, anche se tale esame non gli compete in base ai criteri stabiliti nel presente regolamento. In tale ipotesi, detto Stato membro diventa lo Stato membro competente ai sensi del presente regolamento e assume gli obblighi connessi a tale competenza. Eventualmente, esso ne informa lo Stato membro anteriormente competente, lo Stato membro che ha in corso la procedura volta a determinare lo Stato membro competente o quello al quale e stato chiesto di prendere o riprendere in carico il richiedente asilo». 
+
+18      Al fine di permettere di determinare lo «Stato membro competente» ai
+sensi dell'art. 3, n. 1, del regolamento n. 343/2003, il capo III di
+quest'ultimo enuncia una serie di criteri obiettivi, elencati in ordine
+gerarchico, relativi ai minori non accompagnati, al nucleo familiare, al
+rilascio di un permesso di soggiorno o di un visto, all'ingresso illegale o al
+soggiorno illegale in uno Stato membro, all'ingresso legale in uno Stato
+membro e alle domande presentate in un'area di transito internazionale di un
+aeroporto.
+
+19      L'art. 13 del medesimo regolamento dispone che, ove nessuno Stato
+membro possa essere designato sulla base della gerarchia dei criteri,
+competente a esaminare la domanda di asilo e, per difetto, il primo Stato
+membro in cui la domanda e stata presentata.
+
+20      Conformemente all'art. 17 del regolamento n. 343/2003, lo Stato membro
+che ha ricevuto una domanda d'asilo e ritiene che un altro Stato membro sia
+competente per l'esame della stessa puo interpellare tale Stato membro
+affinche prenda in carico il richiedente asilo nel piu breve termine
+possibile.
+
+21      L'art. 18, n. 7, di detto regolamento stabilisce che la mancata
+risposta, da parte dello Stato membro richiesto, entro il termine di due mesi,
+o di un mese se e invocata l'urgenza, equivale all'accettazione della
+richiesta e comporta l'obbligo, per tale Stato membro, di prendere in carico
+la persona interessata, comprese le disposizioni appropriate all'arrivo della
+stessa.
+
+22      L'art. 19 del regolamento n. 343/2003 cosi recita:
+
+«1.      Quando lo Stato membro richiesto accetta di prendere in carico il
+richiedente asilo, lo Stato membro nel quale la domanda d'asilo e stata
+presentata notifica al richiedente asilo la decisione di non esaminare la
+domanda e l'obbligo del trasferimento del richiedente verso lo Stato membro
+competente.
+
+2.      La decisione menzionata al paragrafo 1 e motivata. Essa e corredata dei termini relativi all'esecuzione del trasferimento e contiene, se necessario, le informazioni relative al luogo e alla data in cui il richiedente deve presentarsi, nel caso si rechi nello Stato membro competente con i propri mezzi. La decisione puo formare oggetto di ricorso o revisione. Il ricorso o la revisione della decisione non ha effetto sospensivo ai fini dell'esecuzione del trasferimento eccetto quando il giudice o l'organo giurisdizionale competente decida in tal senso caso per caso se la legislazione nazionale lo consente. 
+
+(…)
+
+4.      Se il trasferimento non avviene entro sei mesi, la competenza ricade sullo Stato membro nel quale e stata presentata la domanda d'asilo. Questo termine puo essere prorogato fino a un massimo di un anno se non e stato possibile effettuare il trasferimento a causa della detenzione del richiedente asilo, o fino a un massimo di diciotto mesi qualora il richiedente asilo si sia reso irreperibile. 
+
+(…)».
+
+23      Il Regno Unito partecipa all'applicazione dei regolamenti e di
+ciascuna delle quattro direttive menzionate ai punti 11‑13 della presente
+sentenza. L'Irlanda, al contrario, partecipa all'applicazione dei regolamenti
+e delle direttive 2004/83, 2005/85 e 2001/55, ma non della direttiva 2003/9.
+
+24      Il Regno di Danimarca e vincolato dall'accordo che ha concluso con la
+Comunita europea il quale estende alla Danimarca le disposizioni del
+regolamento n. 343/2003 e del regolamento n. 2725/2000, approvato con la
+decisione del Consiglio 21 febbraio 2006, 2006/188/CE (GU L 66, pag. 37). Non
+e vincolato dalle direttive citate al punto 11 della presente sentenza.
+
+25      La Comunita ha concluso altresi un accordo con la Repubblica d'Islanda
+e il Regno di Norvegia sui criteri e i meccanismi per determinare lo Stato
+competente per l'esame di una domanda di asilo presentata in uno Stato membro,
+in Islanda o in Norvegia, approvato con la decisione del Consiglio 15 marzo
+2001, 2001/258/CE (GU L 93, pag. 38).
+
+26      La Comunita ha del pari concluso un accordo con la Confederazione
+svizzera relativo ai criteri e ai meccanismi che permettono di determinare lo
+Stato competente per l'esame di una domanda di asilo introdotta in uno degli
+Stati membri o in Svizzera, approvato con la decisione del Consiglio 28
+gennaio 2008, 2008/147/CE (GU L 53, pag. 3), nonche il Protocollo, con la
+Confederazione svizzera e il Principato del Liechtenstein, all'accordo tra la
+Comunita europea e la Confederazione svizzera relativo ai criteri e ai
+meccanismi che permettono di determinare lo Stato competente per l'esame di
+una domanda di asilo introdotta in uno degli Stati membri o in Svizzera,
+approvato con la decisione del Consiglio 24 ottobre 2008, 2009/487/CE (GU
+2009, L 161, pag. 6).
+
+27      La direttiva 2003/9 stabilisce norme minime in materia di accoglienza
+dei richiedenti asilo negli Stati membri. Dette norme concernono, in
+particolare, gli obblighi relativi alle informazioni da fornire ai richiedenti
+asilo nonche alla documentazione che deve essere loro rimessa, le decisioni
+che possono essere adottate dagli Stati membri in merito al soggiorno e alla
+circolazione dei richiedenti asilo sul loro territorio, i nuclei familiari,
+gli esami medici, la scolarizzazione e l'istruzione dei minori, il lavoro dei
+richiedenti asilo e il loro accesso alla formazione professionale, le
+disposizioni generali relative alle condizioni materiali di accoglienza e
+all'assistenza sanitaria dei richiedenti, le modalita relative alle condizioni
+di accoglienza e l'assistenza sanitaria che devono essere accordate ai
+richiedenti asilo.
+
+28      Detta direttiva introduce altresi l'obbligo di controllare il livello
+delle condizioni di accoglienza nonche la possibilita di esercitare un ricorso
+in ordine alle materie e alle decisioni rientranti nella direttiva medesima.
+Essa contiene, inoltre, regole sulla formazione delle autorita e sulle risorse
+necessarie per l'applicazione delle disposizioni nazionali adottate in sua
+attuazione.
+
+29      La direttiva 2004/83 stabilisce norme minime sull'attribuzione, a
+cittadini di paesi terzi o ad apolidi, della qualifica di rifugiato o di
+persona altrimenti bisognosa di protezione internazionale, nonche norme minime
+sul contenuto della protezione riconosciuta. Il suo capo II contiene diverse
+disposizioni che indicano come valutare le domande. Il capo III elenca i
+requisiti per essere considerato rifugiato. Il capo IV e relativo allo status
+di rifugiato. I capi V e VI trattano dei requisiti per poter beneficiare della
+protezione sussidiaria e dello status da essa conferito. Il capo VII comprende
+diverse disposizioni che definiscono il contenuto della protezione
+internazionale. A termini dell'art. 20, n. 1, di detta direttiva, le
+disposizioni di quest'ultimo capo non pregiudicano i diritti sanciti dalla
+Convenzione di Ginevra.
+
+30      La direttiva 2005/85 precisa i diritti dei richiedenti asilo e le
+procedure di esame delle domande.
+
+31      L'art. 36 della direttiva 2005/85, rubricato «Concetto di paesi terzi
+europei sicuri», enuncia al suo n. 1 quanto segue:
+
+«Gli Stati membri possono prevedere che l'esame della domanda di asilo e della
+sicurezza del richiedente stesso relativamente alle sue condizioni specifiche,
+secondo quanto prescritto al capo II, non abbia luogo o non sia condotto
+esaurientemente nei casi in cui un'autorita competente abbia stabilito, in
+base agli elementi disponibili, che il richiedente asilo sta cercando di
+entrare o e entrato illegalmente nel suo territorio da un paese terzo sicuro a
+norma del paragrafo 2».
+
+32      Le condizioni previste in detto paragrafo 2 riguardano, in
+particolare:
+
+-        la ratifica della Convenzione di Ginevra e il rispetto delle sue disposizioni;
+
+-        l'esistenza di una procedura di asilo prescritta per legge;
+
+-        la ratifica della Convenzione europea per la salvaguardia dei diritti dell'uomo e delle liberta fondamentali, firmata Roma il 4 novembre 1950 (in prosieguo: la «CEDU»), e l'osservanza delle sue disposizioni, comprese le norme riguardanti i rimedi effettivi. 
+
+33      L'art. 39 della direttiva 2005/85 indica in quali casi vi e il diritto
+a un mezzo di impugnazione efficace dinanzi ai giudici degli Stati membri. Il
+suo n. 1, lett. a), iii), menziona le decisioni di non procedere ad un esame a
+norma dell'art. 36 della medesima direttiva.
+
+  **Procedimenti principali e questioni pregiudiziali**
+
+  _La causa C ‑411/10_
+
+34      N.S., ricorrente nel procedimento principale, e un cittadino afgano
+giunto nel Regno Unito transitando, in particolare, per la Grecia. In tale
+ultimo Stato egli e stato oggetto di una misura di arresto il 24 settembre
+2008, ma non ha presentato domanda di asilo.
+
+35      A suo dire, le autorita greche lo avevano messo in detenzione per
+quattro giorni e, al momento del rilascio, gli avevano notificato un ordine di
+lasciare il territorio greco entro 30 giorni. Mentre cercava di lasciare la
+Grecia, egli sarebbe stato arrestato dalla polizia e respinto in Turchia, dove
+sarebbe stato detenuto, per due mesi, in condizioni penose. Sarebbe indi evaso
+dal suo luogo di detenzione in Turchia e, a partire da tale Stato, sarebbe
+arrivato nel Regno Unito, il 12 gennaio 2009, presentandovi il giorno stesso
+domanda di asilo.
+
+36      Il 1º aprile 2009 il Secretary of State for the Home Department (in
+prosieguo: il «Secretary of State») chiedeva alla Repubblica ellenica, in base
+a quanto previsto dall'art. 17 del regolamento n. 343/2003, di prendere in
+carico il ricorrente nel procedimento principale per l'esame della sua domanda
+di asilo. La Repubblica ellenica non rispondeva alla richiesta entro il
+termine fissato all'art. 18, n. 7, di detto regolamento, cosicche, ai sensi di
+questa stessa disposizione, il suo silenzio veniva equiparato al
+riconoscimento da parte sua, il 18 giugno 2009, della propria competenza per
+l'esame della domanda del ricorrente.
+
+37      Il 30 luglio 2009 il Secretary of State informava il ricorrente nel
+procedimento principale che erano state impartite istruzioni circa il suo
+trasferimento in Grecia il 6 agosto 2009.
+
+38      Il 31 luglio 2009 il Secretary of State comunicava al ricorrente nel
+procedimento principale una decisione nella quale si attestava che,
+conformemente all'allegato 3, Parte 2, punto 5, n. 4, della legge del 2004
+sull'asilo e l'immigrazione (trattamento dei richiedenti e altri aspetti)
+[Asylum and Immigration (Treatment of Claimants, ecc.) Act 2004; in prosieguo:
+la «legge del 2004 sull'asilo»], la sua denuncia secondo la quale il suo
+trasferimento in Grecia avrebbe comportato una violazione dei diritti
+garantitigli dalla CEDU era manifestamente infondata, essendo la Repubblica
+ellenica iscritta nell'«elenco dei paesi sicuri» di cui alla Parte 2
+dell'allegato 3 alla legge del 2004 sull'asilo.
+
+39      Tale decisione di attestazione aveva come conseguenza, ai sensi del
+punto 5, n. 4, della Parte 2 dell'allegato 3 alla legge del 2004 sull'asilo,
+che il ricorrente nel procedimento principale non aveva la possibilita di
+proporre nel Regno Unito un ricorso in materia di immigrazione («immigration
+appeal»), con effetto sospensivo, contro la decisione del suo trasferimento in
+Grecia, possibilita che gli sarebbe spettata in assenza di tale decisione di
+attestazione.
+
+40      Il 31 luglio 2009 il ricorrente nel procedimento principale chiedeva
+al Secretary of State di assumere la competenza per l'esame della sua domanda
+d'asilo ai sensi dell'art. 3, n. 2, del regolamento n. 343/2003, con
+l'argomento che un suo rinvio in Grecia rischiava di compromettere i suoi
+diritti fondamentali garantiti dal diritto dell'Unione, dalla CEDU e/o dalla
+Convenzione di Ginevra. Con lettera del 4 agosto 2009 il Secretary of State
+confermava sia la decisione di trasferimento in Grecia del ricorrente nel
+procedimento principale sia la decisione con cui la sua denuncia basata sulla
+CEDU era stata ritenuta manifestamente infondata.
+
+41      Il 6 agosto 2009 il ricorrente nel procedimento principale chiedeva di
+essere ammesso a presentare ricorso giurisdizionale («judicial review») contro
+le decisioni del Secretary of State. Quest'ultimo annullava, di conseguenza,
+le disposizioni impartite per il suo trasferimento. Il 14 ottobre 2009 il
+ricorrente veniva ammesso a proporre detto ricorso.
+
+42      Il ricorso veniva esaminato dalla High Court of Justice (England &
+Wales), Queen's Bench Division (Administrative Court), dal 24 al 26 febbraio
+2010. Con sentenza 31 marzo 2010 il giudice Cranston lo respingeva, ma
+autorizzava il ricorrente nel procedimento principale a interporre appello
+dinanzi alla Court of Appeal (England & Wales) (Civil Division).
+
+43      Il ricorrente nel procedimento principale proponeva impugnazione
+dinanzi a quest'ultimo organo giurisdizionale il 21 aprile 2010\.
+
+44      Risulta dalla decisione di rinvio, nella quale detto giudice fa
+riferimento alla sentenza della High Court of Justice (England & Wales),
+Queen's Bench Division (Administrative Court), che:
+
+-        le procedure di asilo in Grecia presenterebbero gravi carenze: i richiedenti incontrerebbero numerose difficolta per adempiere le formalita necessarie, non riceverebbero informazioni e assistenza sufficienti e le loro domande non sarebbero esaminate con attenzione; 
+
+-        i casi di concessione di asilo in Grecia sarebbero rarissimi;
+
+-        i mezzi di ricorso giurisdizionale sarebbero ivi insufficienti e di difficilissimo accesso;
+
+-        le condizioni di accoglienza dei richiedenti asilo sarebbero ivi inappropriate: o i richiedenti sarebbero detenuti in condizioni inadeguate o vivrebbero in miseria all'addiaccio, senza tetto e senza cibo. 
+
+45      La High Court of Justice (England & Wales), Queen's Bench Division
+(Administrative Court) ha considerato che i rischi di respingimento dalla
+Grecia verso l'Afghanistan e la Turchia non sono dimostrati per quanto
+riguarda le persone rinviate ai sensi del regolamento n. 343/2003, ma il
+ricorrente nel procedimento principale ha contestato tale valutazione dinanzi
+al giudice a quo.
+
+46      Dinanzi alla Court of Appeal (England & Wales) (Civil Division) il
+Secretary of State ha ammesso che «i diritti fondamentali enunciati nella
+Carta po[tevano] essere invocati contro il Regno Unito e (...) che
+l'Administrative Court ha commesso un errore dichiarando il contrario». La
+Carta semplicemente riaffermerebbe diritti che gia costituiscono parte
+integrante del diritto dell'Unione e non creerebbe diritti nuovi. Tuttavia, la
+High Court of Justice (England & Wales), Queen's Bench Division
+(Administrative Court) avrebbe a torto statuito che il Secretary of State
+aveva l'obbligo di prendere in considerazione i diritti fondamentali
+dell'Unione allorche esercita potere discrezionale che gli attribuisce l'art.
+3, n. 2, del regolamento n. 343/2003. Secondo il Secretary of State, tale
+potere discrezionale non rientrerebbe nell'ambito di applicazione del diritto
+dell'Unione.
+
+47      In subordine, il Secretary of State ha sostenuto che l'obbligo di
+rispettare i diritti fondamentali dell'Unione non esige che esso prenda in
+considerazione gli elementi volti a provare che, in caso di rinvio in Grecia,
+il ricorrente rischierebbe seriamente di subire una violazione dei diritti
+fondamentali garantitigli dall'Unione. Cio perche l'economia del regolamento
+n. 343/2003 gli conferirebbe la facolta di muovere dalla presunzione assoluta
+che la Grecia (o qualunque altro Stato membro) adempiera gli obblighi ad essa
+imposti dal diritto dell'Unione.
+
+48      Infine, il ricorrente nel procedimento principale ha asserito, dinanzi
+al giudice del rinvio, che la tutela conferita dalla Carta era superiore e piu
+ampia, in particolare, di quella garantita dall'art. 3 della CEDU, cio che
+potrebbe condurre ad un diverso esito della presente controversia.
+
+49      Nell'udienza del 12 luglio 2010 il giudice del rinvio ha statuito che,
+per poter decidere sull'appello, era necessario prendere posizione su talune
+questioni di diritto dell'Unione.
+
+50      La Court of Appeal (England & Wales) (Civil Division) ha percio deciso
+di sospendere il procedimento e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+«1)      Se la decisione adottata da uno Stato membro ai sensi dell'art. 3, n.
+2, del regolamento (...) n. 343/2003 di esaminare o meno una domanda di asilo
+benche tale esame non gli competa in base ai criteri stabiliti nel capo III
+del regolamento rientri nell'ambito di applicazione del diritto dell'Unione
+europea ai fini dell'art. 6 [TUE] e/o dell'art. 51 della [Carta].
+
+      In caso di soluzione positiva della prima questione:
+
+2)      Se l'obbligo di uno Stato membro di osservare i diritti fondamentali
+dell'Unione europea (inclusi i diritti stabiliti agli artt. 1, 4, 18, 19, n.
+2, e 47 della Carta) sia assolto allorche tale Stato invii il richiedente
+asilo nello Stato membro che l'art. 3, n. 1, [del regolamento n. 343/2003]
+designa come lo Stato competente conformemente ai criteri stabiliti nel capo
+III del [medesimo] regolamento, indipendentemente dalla situazione in tale
+Stato competente.
+
+3)      In particolare, se l'obbligo di rispettare i diritti fondamentali
+dell'Unione osti all'applicazione di una presunzione assoluta nel senso che lo
+Stato competente osservera (i) i diritti fondamentali del richiedente asilo ai
+sensi del diritto dell'Unione e/o (ii) le norme minime imposte dalle direttive
+2003/9 (...), 2004/83 (...) e/o 2005/85 (...).
+
+4)      In subordine, se uno Stato membro sia obbligato dal diritto
+dell'Unione e, in caso di soluzione affermativa, in quali circostanze, ad
+esercitare la facolta prevista all'art. 3, n. 2, del regolamento [n. 343/2003]
+assumendo la competenza per l'esame di una domanda di asilo, allorche il
+trasferimento allo Stato responsabile esporrebbe il richiedente asilo ad un
+rischio di violazione dei suoi diritti fondamentali, in particolare dei
+diritti stabiliti agli artt. 1, 4, 18, 19, n. 2, e/o 47 della Carta, e/o al
+rischio che non gli siano applicate le norme minime stabilite nelle direttive
+[2003/9, 2004/83 e 2005/85].
+
+5)      Se l'ambito della protezione attribuita, ad una persona alla quale e
+applicabile il regolamento [n. 343/2003], dai principi generali del diritto
+dell'Unione e, in particolare, dai diritti stabiliti agli artt. 1, 18 e 47
+della Carta sia piu ampio della protezione attribuita dall'art. 3 della
+[CEDU].
+
+6)      Se sia compatibile con i diritti stabiliti all'art. 47 della Carta che
+una disposizione di diritto nazionale imponga ad un organo giurisdizionale, al
+fine di determinare se una persona possa essere legalmente espulsa verso un
+altro Stato membro in conformita del regolamento [n. 343/2003], di considerare
+detto Stato membro come uno Stato dal quale la persona non sara inviata in un
+altro Stato in violazione dei suoi diritti scaturenti dalla CEDU o dalla
+Convenzione [di Ginevra] e dal Protocollo del 1967 (...).
+
+7)      Per la parte in cui le precedenti questioni concernono obblighi del
+Regno Unito, se le soluzioni delle questioni seconda‑sesta debbano comunque
+tener conto del Protocollo (n. 30) (...)».
+
+  _La causa C ‑493/10_
+
+51      Il procedimento principale concerne cinque ricorrenti, senza legami
+reciproci, originari dell'Afghanistan, dell'Iran e dell'Algeria. Ciascuno di
+loro e transitato per il territorio greco e vi e stato arrestato per ingresso
+illegale. Essi si sono successivamente recati in Irlanda, dove hanno chiesto
+asilo. Tre di loro hanno presentato tale domanda senza rivelare la loro previa
+presenza sul territorio greco, mentre i restanti due hanno ammesso la loro
+precedente presenza in Grecia. Il sistema Eurodac ha confermato che tutti i
+cinque ricorrenti erano precedentemente entrati nel territorio greco, ma che
+nessuno di loro vi aveva presentato domanda di asilo.
+
+52      Nessuno dei ricorrenti nel procedimento principale intende ritornare
+in Grecia. Come risulta dalla decisione di rinvio, non e stato invocato il
+fatto che il loro trasferimento in Grecia ai sensi del regolamento n. 343/2003
+violerebbe l'art. 3 della CEDU a causa di un potenziale respingimento, di
+respingimenti a catena, di maltrattamenti o di domande di asilo interrotte.
+Non e stato nemmeno allegato che tale trasferimento violerebbe altri articoli
+della CEDU. I ricorrenti nel procedimento principale hanno asserito che in
+Grecia le procedure e le condizioni per i richiedenti asilo sono inadeguate e
+che, pertanto, l'Irlanda sarebbe tenuta a esercitare la facolta conferitale
+dall'art. 3, n. 2, del regolamento n. 343/2003 di accettare la competenza a
+esaminare e di pronunciarsi in merito alle loro domande di asilo.
+
+53      La High Court ha percio deciso di sospendere il procedimento e di
+sottoporre alla Corte le seguenti questioni pregiudiziali:
+
+«1)      Se lo Stato membro che provvede al trasferimento ai sensi del
+regolamento (...) n. 343/2003 sia tenuto ad accertare il rispetto, da parte
+dello Stato ricevente, dell'art. 18 della [Carta], delle direttive 2003/9
+(...), 2004/83 (...) e 2005/85 (...) nonche del regolamento (...) n. 343/2003.
+
+2)      In caso di soluzione affermativa, ove lo Stato membro ricevente
+risulti non attenersi a una o piu di tali disposizioni, se lo Stato membro che
+provvede al trasferimento sia obbligato ad accettare la competenza ad
+esaminare la domanda di cui all'art. 3, n. 2, del regolamento (...) n.
+343/2003».
+
+54      Con ordinanza del presidente della Corte 16 maggio 2011, le cause
+C‑411/10 e C‑493/10 sono state riunite ai fini della fase orale e della
+sentenza.
+
+  **Sulle questioni pregiudiziali**
+
+  _Sulla prima questione nella causa C ‑411/10_
+
+55      Con la prima questione nella causa C‑411/10 la Court of Appeal
+(England & Wales) (Civil Division) chiede, in sostanza, se la decisione
+adottata da uno Stato membro sul fondamento dell'art. 3, n. 2, del regolamento
+n. 343/2003 di esaminare o meno una domanda di asilo rispetto alla quale non e
+competente in base ai criteri enunciati nel capo III di detto regolamento
+rientri nell'ambito di applicazione del diritto dell'Unione ai fini dell'art.
+6 TUE e/o dell'art. 51 della Carta.
+
+ Osservazioni presentate alla Corte
+
+56      N. S., l'Equality and Human Rights Commission (EHRC), Amnesty
+International Ltd and the AIRE Centre (Advice on Individual Rights in Europe)
+(UK), lo United Nations High Commissioner for Refugees (UNHCR), i governi
+francese, olandese, austriaco e finlandese nonche la Commissione europea sono
+dell'avviso che una decisione adottata sul fondamento dell'art. 3, n. 2, del
+regolamento n. 343/2003 rientri nell'ambito di applicazione del diritto
+dell'Unione.
+
+57      N. S. sottolinea, al riguardo, che l'esercizio della facolta prevista
+da detta disposizione non sara necessariamente piu favorevole al richiedente,
+il che spiega perche, nella sua relazione del 6 giugno 2007 sulla valutazione
+del sistema di Dublino [COM(2007) 299 def.], la Commissione abbia proposto che
+il ricorso alla facolta conferita dall'art. 3, n. 2, del regolamento n.
+343/2003 sia subordinato all'accordo del richiedente asilo.
+
+58      Secondo Amnesty International Ltd and the AIRE Centre (Advice on
+Individual Rights in Europe) (UK) e il governo francese, in particolare, la
+possibilita prevista all'art. 3, n. 2, del regolamento n. 343/2003 e
+giustificata dal fatto che questo regolamento ha l'obiettivo di tutelare i
+diritti fondamentali e che potrebbe rivelarsi necessario esercitare la facolta
+conferita da detta disposizione.
+
+59      Il governo finlandese ricorda che il regolamento n. 343/2003 fa parte
+di un insieme di norme che istituiscono un sistema.
+
+60      Secondo la Commissione, quando un regolamento conferisce un potere
+discrezionale ad uno Stato membro, quest'ultimo deve esercitare tale potere
+nel rispetto del diritto dell'Unione (sentenze 13 luglio 1989, causa 5/88,
+Wachauf, Racc. pag. 2609; 4 marzo 2010, causa C‑578/08, Chakroun, Racc. pag.
+I‑1839, e 5 ottobre 2010, causa C‑400/10 PPU, McB., Racc. pag. I‑8965). Essa
+sottolinea che una decisione adottata da uno Stato membro sul fondamento
+dell'art. 3, n. 2, del regolamento n. 343/2003 comporta conseguenze per tale
+Stato, il quale sara vincolato agli obblighi procedurali dell'Unione e alle
+direttive.
+
+61      L'Irlanda, il Regno Unito, il governo belga e il governo italiano
+ritengono, per contro, che una tale decisione non rientri nell'ambito di
+applicazione del diritto dell'Unione. Gli argomenti invocati sono la chiarezza
+del testo, a termini del quale si tratta di una facolta, il riferimento a una
+clausola «di sovranita» ovvero a una «clausola discrezionale» nei documenti
+della Commissione, la ragion d'essere di una tale clausola, ossia i motivi
+umanitari, nonche, infine, la logica del sistema istituito dal regolamento n.
+343/2003.
+
+62      Il Regno Unito sottolinea che una clausola di sovranita non
+costituisce una deroga nel senso della sentenza 18 giugno 1991, causa
+C‑260/89, ERT (Racc. pag. I‑2925, punto 43). Esso indica altresi che il fatto
+che il ricorso a tale clausola non costituisca un'attuazione del diritto
+dell'Unione non vuol dire che gli Stati membri ignorino i diritti
+fondamentali, poiche essi sono tenuti al rispetto della Convenzione di Ginevra
+e della CEDU. Il governo belga rimarca, tuttavia, che l'esecuzione della
+decisione di trasferire il richiedente asilo comporta l'attuazione del
+regolamento n. 343/2003 e, pertanto, rientra nell'ambito di applicazione
+dell'art. 6 TUE e della Carta.
+
+63      Per il governo ceco, la decisione di uno Stato membro rientra nel
+diritto dell'Unione quando tale Stato esercita la clausola di sovranita, ma
+non quando esso non si avvale di detta facolta.
+
+ Risposta della Corte
+
+64      A termini dell'art. 51, n. 1, della Carta, le disposizioni della
+medesima si applicano agli Stati membri esclusivamente nell'attuazione del
+diritto dell'Unione.
+
+65      L'esame dell'art. 3, n. 2, del regolamento n. 343/2003 mostra che esso
+riconosce agli Stati membri un potere discrezionale che fa parte integrante
+del sistema europeo comune di asilo previsto dal Trattato FUE ed elaborato dal
+legislatore dell'Unione.
+
+66      Come ha ricordato la Commissione, questo potere discrezionale deve
+essere esercitato dagli Stati membri nel rispetto delle altre disposizioni di
+detto regolamento.
+
+67      Inoltre, l'art. 3, n. 2, del regolamento n. 343/2003 indica che la
+deroga al principio enunciato al n. 1 del medesimo articolo comporta
+conseguenze precise previste da tale regolamento. Lo Stato membro che prende
+la decisione di esaminare esso stesso una domanda di asilo diventa, infatti,
+lo Stato membro competente ai sensi del regolamento n. 343/2003 e deve,
+all'occorrenza, informare l'altro o gli altri Stati membri interessati dalla
+domanda di asilo.
+
+68      Tali elementi corroborano l'interpretazione secondo la quale il potere
+discrezionale conferito agli Stati membri dall'art. 3, n. 2, del regolamento
+n. 343/2003 fa parte dei meccanismi di determinazione dello Stato membro
+competente a trattare una domanda di asilo previsti da detto regolamento e, di
+conseguenza, costituisce solo un elemento del sistema europeo comune di asilo.
+Pertanto, uno Stato membro che esercita tale potere discrezionale deve essere
+ritenuto attuare il diritto dell'Unione ai sensi dell'art. 51, n. 1, della
+Carta.
+
+69      La prima questione nella causa C‑411/10 deve, quindi, essere risolta
+dichiarando che la decisione adottata da uno Stato membro sul fondamento
+dell'art. 3, n. 2, del regolamento n. 343/2003 di esaminare o meno una domanda
+di asilo rispetto alla quale esso non e competente in base ai criteri
+enunciati nel capo III di detto regolamento da attuazione al diritto
+dell'Unione ai fini dell'art. 6 TUE e/o dell'art. 51 della Carta.
+
+  _Sulle questioni da seconda a quarta e sesta nella causa C ‑411/10 e sulle
+due questioni nella causa C‑493/10_
+
+70      Con la seconda questione nella causa C‑411/10 e con la prima nella
+causa C‑493/10 i giudici del rinvio chiedono, in sostanza, se lo Stato membro
+che deve effettuare il trasferimento del richiedente asilo verso lo Stato
+membro che l'art. 3, n. 1, del regolamento n. 343/2003 designa come competente
+sia tenuto a verificare il rispetto, da parte di quest'ultimo Stato membro,
+dei diritti fondamentali dell'Unione, delle direttive 2003/9, 2004/83 e
+2005/85 nonche del regolamento n. 343/2003.
+
+71      Con la terza questione nella causa C‑411/10 la Court of Appeal
+(England & Wales) (Civil Division) chiede, in sostanza, se l'obbligo, per lo
+Stato membro che deve effettuare il trasferimento del richiedente asilo, di
+rispettare i diritti fondamentali osti all'applicazione di una presunzione
+assoluta secondo la quale lo Stato competente rispetta i diritti fondamentali
+che il diritto dell'Unione conferisce al richiedente e/o le norme minime
+risultanti dalle direttive summenzionate.
+
+72      Con la quarta questione nella causa C‑411/10 e con la seconda nella
+causa C‑493/10 i giudici del rinvio chiedono, in sostanza, se, quando e
+constatato che lo Stato membro competente non rispetta i diritti fondamentali,
+lo Stato membro che deve effettuare il trasferimento del richiedente asilo sia
+tenuto ad accettare la competenza ad esaminare esso medesimo la domanda di
+asilo ai sensi dell'art. 3, n. 2, del regolamento n. 343/2003.
+
+73      Infine, con la sesta questione nella causa C‑411/10, la Court of
+Appeal (England & Wales) (Civil Division) chiede, in sostanza, se una
+disposizione di diritto nazionale che obbliga gli organi giurisdizionali,
+allorche devono stabilire se una persona possa essere legalmente espulsa verso
+un altro Stato membro ai sensi del regolamento n. 343/2003, a considerare tale
+Stato membro come uno «Stato sicuro» sia conforme ai diritti enunciati
+all'art. 47 della Carta.
+
+74      Occorre esaminare queste questioni congiuntamente.
+
+75      Il sistema europeo comune di asilo e fondato sull'applicazione in ogni
+sua componente della Convenzione di Ginevra e sulla garanzia che nessuno sara
+rispedito in luogo in cui rischia di essere nuovamente perseguitato. Il
+rispetto della Convenzione di Ginevra e del Protocollo del 1967 e previsto
+all'art. 18 della Carta e all'art. 78 TFUE (v. sentenze 2 marzo 2010, cause
+riunite C‑175/08, causa C‑176/08, causa C‑178/08 e C‑179/08, Salahadin Abdulla
+e a., Racc. pag. I‑1493, punto 53, nonche 17 giugno 2010, causa C‑31/09,
+Bolbol, Racc. pag. I‑5539, punto 38).
+
+76      Come e stato rilevato al punto 15 della presente sentenza, i diversi
+regolamenti e direttive pertinenti ai fini dei procedimenti principali
+prevedono di osservare i diritti fondamentali e i principi che sono
+riconosciuti dalla Carta.
+
+77      Occorre rilevare altresi che, secondo una giurisprudenza costante, gli
+Stati membri sono tenuti non solo a interpretare il loro diritto nazionale
+conformemente al diritto dell'Unione, ma anche a fare in modo di non basarsi
+su un'interpretazione di norme di diritto derivato che entri in conflitto con
+i diritti fondamentali tutelati dall'ordinamento giuridico dell'Unione o con
+gli altri principi generali del diritto dell'Unione (v., in tal senso,
+sentenze 6 novembre 2003, causa C‑101/01, Lindqvist, Racc. pag. I‑12971, punto
+87, e 26 giugno 2007, causa C‑305/05, Ordre des barreaux francophones et
+germanophone e a., Racc. pag. I‑5305, punto 28).
+
+78      Risulta dall'esame dei testi che istituiscono il sistema europeo
+comune di asilo che quest'ultimo e stato concepito in un contesto che permette
+di supporre che l'insieme degli Stati partecipanti, siano essi Stati membri o
+paesi terzi, rispetti i diritti fondamentali, compresi i diritti che trovano
+fondamento nella Convenzione di Ginevra e nel Protocollo del 1967, nonche
+nella CEDU, e che gli Stati membri possono fidarsi reciprocamente a tale
+riguardo.
+
+79      È proprio in ragione di tale principio di reciproca fiducia che il
+legislatore dell'Unione ha adottato il regolamento n. 343/2003 e le
+convenzioni menzionate ai punti 24‑26 della presente sentenza, al fine di
+razionalizzare il trattamento delle domande di asilo e di evitare la
+saturazione del sistema con l'obbligo, per le autorita nazionali, di trattare
+domande multiple introdotte da uno stesso richiedente, di accrescere la
+certezza del diritto quanto alla determinazione dello Stato competente a
+trattare la domanda di asilo e, cosi facendo, di evitare il forum shopping;
+tutto cio con l'obiettivo principale di accelerare il trattamento delle
+domande nell'interesse tanto dei richiedenti asilo quanto degli Stati
+partecipanti.
+
+80      In tali circostanze si deve presumere che il trattamento riservato ai
+richiedenti asilo in ciascuno Stato membro sia conforme a quanto prescritto
+dalla Carta, dalla Convenzione di Ginevra e dalla CEDU.
+
+81      Tuttavia, non si puo escludere che tale sistema incontri, in pratica,
+gravi difficolta di funzionamento in un determinato Stato membro, cosicche
+sussiste un rischio serio che un richiedente asilo sia, in caso di
+trasferimento verso detto Stato membro, trattato in modo incompatibile con i
+suoi diritti fondamentali.
+
+82      Non per questo, pero, se ne puo concludere che qualunque violazione di
+un diritto fondamentale da parte dello Stato membro competente si riverberi
+sugli obblighi degli altri Stati membri di rispettare le disposizioni del
+regolamento n. 343/2003.
+
+83      Ne va, infatti, della ragion d'essere dell'Unione e della
+realizzazione dello spazio di liberta, di sicurezza e di giustizia e, piu in
+particolare, del sistema europeo comune di asilo, fondato sulla fiducia
+reciproca e su una presunzione di osservanza, da parte degli altri Stati
+membri, del diritto dell'Unione, segnatamente dei diritti fondamentali.
+
+84      Inoltre, non sarebbe compatibile con gli obiettivi e con il sistema
+del regolamento n. 343/2003 che la minima violazione delle direttive 2003/9,
+2004/83 o 2005/85 sia sufficiente per impedire qualunque trasferimento di un
+richiedente asilo verso lo Stato membro di regola competente. Infatti, il
+regolamento n. 343/2003, presumendo che i diritti fondamentali del richiedente
+asilo saranno rispettati nello Stato membro di regola competente a conoscere
+della sua domanda, intende instaurare, come risulta in particolare dai
+paragrafi 124 e 125 delle conclusioni nella causa C‑411/10, un metodo chiaro e
+operativo che permetta di determinare rapidamente lo Stato membro competente a
+conoscere di una domanda di asilo. A tal fine il regolamento n. 343/2003
+prevede che un unico Stato membro, designato sulla base di criteri oggettivi,
+sia competente a conoscere di una domanda di asilo introdotta in uno dei paesi
+dell'Unione.
+
+85      Ora, se ogni violazione delle singole disposizioni delle direttive
+2003/9, 2004/83 o 2005/85 da parte dello Stato membro competente dovesse avere
+la conseguenza che lo Stato membro in cui e stata presentata una domanda di
+asilo non possa trasferire il richiedente in tale primo Stato, cio avrebbe
+l'effetto di aggiungere ai criteri di determinazione dello Stato membro
+competente enunciati nel capo III del regolamento n. 343/2003 un criterio
+supplementare di esclusione in base al quale violazioni minime delle regole
+delle direttive summenzionate commesse in un determinato Stato membro
+potrebbero avere l'effetto di esonerare quest'ultimo dagli obblighi che
+derivano da detto regolamento. Una tale conseguenza svuoterebbe detti obblighi
+del loro contenuto e comprometterebbe la realizzazione dell'obiettivo di
+designare rapidamente lo Stato membro competente a conoscere di una domanda di
+asilo presentata nell'Unione.
+
+86      Per contro, nell'ipotesi in cui si abbia motivo di temere seriamente
+che sussistono carenze sistemiche nella procedura di asilo e nelle condizioni
+di accoglienza dei richiedenti asilo nello Stato membro competente, che
+implichino un trattamento inumano o degradante, ai sensi dell'art. 4 della
+Carta, dei richiedenti asilo trasferiti nel territorio di questo Stato membro,
+tale trasferimento sarebbe incompatibile con detta disposizione.
+
+87      Quanto alla situazione della Grecia, e pacifico tra le parti che hanno
+presentato osservazioni alla Corte che detto Stato membro era, nel 2010, il
+punto di ingresso nell'Unione del 90% circa dei migranti clandestini, di modo
+che l'onere sopportato da detto Stato membro in ragione di tale afflusso e
+sproporzionato rispetto a quello sopportato dagli altri Stati membri e che le
+autorita greche sono materialmente incapaci di farvi fronte. La Repubblica
+ellenica ha fatto presente che gli Stati membri non avevano accettato la
+proposta della Commissione di sospendere l'applicazione del regolamento n.
+343/2003 e di modificarlo attenuando il criterio del primo ingresso.
+
+88      In una situazione analoga a quelle oggetto dei procedimenti
+principali, ossia il trasferimento, nel giugno 2009, di un richiedente asilo
+verso la Grecia, Stato membro competente ai sensi del regolamento n. 343/2003,
+la Corte europea dei diritti dell'uomo ha dichiarato, in particolare, che il
+Regno del Belgio aveva violato l'art. 3 della CEDU esponendo il richiedente
+asilo, da un lato, ai rischi risultanti dalle carenze della procedura di asilo
+in Grecia, atteso che le autorita belghe sapevano o dovevano sapere che non vi
+era alcuna garanzia che la sua domanda di asilo sarebbe stata esaminata
+seriamente dalle autorita greche, e, dall'altro lato, e con piena cognizione
+di causa, a condizioni detentive ed esistenziali costitutive di trattamenti
+degradanti (Corte eur. D. U., sentenza M. S. S. c. Belgio e Grecia del 21
+gennaio 2011, non ancora pubblicata nel _Recueil des arr ets et decisions_, §§
+358, 360 e 367).
+
+89      Il livello di lesione dei diritti fondamentali descritto in tale
+sentenza attesta che sussisteva in Grecia, all'epoca del trasferimento del
+richiedente M. S. S., una carenza sistemica nella procedura di asilo e nelle
+condizioni di accoglienza dei richiedenti asilo.
+
+90      Per giudicare che i rischi corsi dal richiedente erano
+sufficientemente fondati, la Corte europea dei diritti dell'uomo ha preso in
+considerazione i rapporti regolari e concordanti di organizzazioni non
+governative internazionali che davano atto delle difficolta pratiche poste
+dall'applicazione del sistema europeo comune di asilo in Grecia, la
+corrispondenza inviata dall'Alto Commissariato delle Nazioni Unite per i
+Rifugiati (UNHCR) al ministro belga competente, ma anche le relazioni della
+Commissione sulla valutazione del sistema di Dublino e le proposte di
+rifusione del regolamento n. 343/2003 volte a rafforzare l'efficacia di tale
+sistema e la tutela effettiva dei diritti fondamentali (sentenza M. S. S. c.
+Belgio e Grecia, cit., §§ 347‑350).
+
+91      Infatti, e contrariamente a quanto sostengono i governi belga,
+italiano e polacco, secondo i quali gli Stati membri non dispongono degli
+strumenti adeguati per valutare il rispetto dei diritti fondamentali da parte
+dello Stato membro competente e, pertanto, i rischi realmente corsi da un
+richiedente asilo nel caso in cui venga trasferito verso tale Stato membro,
+informazioni come quelle citate dalla Corte europea dei diritti dell'uomo sono
+idonee a permettere agli Stati membri di valutare il funzionamento del sistema
+di asilo nello Stato membro competente, che rendera possibile la stima di tali
+rischi.
+
+92      Occorre sottolineare la pertinenza delle relazioni e delle proposte di
+modifica del regolamento n. 343/2003 provenienti dalla Commissione, delle
+quali lo Stato membro che deve procedere al trasferimento non puo ignorare
+l'esistenza, visto che ha partecipato ai lavori del Consiglio dell'Unione
+europea, il quale e uno dei destinatari di tali documenti.
+
+93      Peraltro, l'art. 80 TFUE prevede che la politica dell'asilo e la sua
+attuazione siano regolate dal principio di solidarieta e di equa ripartizione
+delle responsabilita tra gli Stati membri, anche sul piano finanziario. La
+direttiva 2001/55 costituisce un esempio di tale solidarieta ma, come e stato
+indicato in udienza, i meccanismi di solidarieta che essa contiene sarebbero
+limitati a situazioni del tutto eccezionali rientranti nell'ambito di
+applicazione di tale direttiva, ossia l'afflusso massiccio di sfollati.
+
+94      Discende da quanto sopra che, in situazioni come quelle oggetto dei
+procedimenti principali, al fine di permettere all'Unione e ai suoi Stati
+membri di rispettare i loro obblighi di tutela dei diritti fondamentali dei
+richiedenti asilo, gli Stati membri, compresi gli organi giurisdizionali
+nazionali, sono tenuti a non trasferire un richiedente asilo verso lo «Stato
+membro competente» ai sensi del regolamento n. 343/2003 quando non possono
+ignorare che le carenze sistemiche nella procedura di asilo e nelle condizioni
+di accoglienza dei richiedenti asilo in tale Stato membro costituiscono motivi
+seri e comprovati di credere che il richiedente corra un rischio reale di
+subire trattamenti inumani o degradanti ai sensi dell'art. 4 della Carta.
+
+95      Riguardo alla questione se lo Stato membro che non puo effettuare il
+trasferimento del richiedente asilo verso lo Stato membro identificato come
+«competente» conformemente al regolamento n. 343/2003 sia tenuto ad esaminare
+esso stesso la domanda, occorre ricordare che il capo III di tale regolamento
+enuncia un certo numero di criteri e che, ai sensi dell'art. 5, n. 1, di detto
+regolamento, tali criteri si applicano nell'ordine in cui sono esposti in
+detto capo.
+
+96      Ferma restando la facolta, di cui all'art. 3, n. 2, del regolamento n.
+343/2003, di esaminare esso stesso la domanda, l'impossibilita di trasferire
+un richiedente asilo verso la Grecia, quando tale Stato risulti essere lo
+Stato membro competente in base ai criteri enunciati nel capo III di detto
+regolamento, impone allo Stato membro che doveva effettuare tale trasferimento
+di proseguire l'esame dei criteri di cui al medesimo capo, per verificare se
+uno dei criteri ulteriori permetta di identificare un altro Stato membro come
+competente all'esame della domanda di asilo.
+
+97      Conformemente all'art. 13 del regolamento n. 343/2003, quando lo Stato
+membro competente per l'esame della domanda d'asilo non puo essere designato
+sulla base dei criteri enumerati in detto regolamento, e competente a tale
+esame il primo Stato membro nel quale la domanda e stata presentata.
+
+98      È necessario, tuttavia, che lo Stato membro in cui si trova il
+richiedente asilo badi a non aggravare una situazione di violazione dei
+diritti fondamentali di tale richiedente con una procedura di determinazione
+dello Stato membro competente che abbia durata irragionevole. All'occorrenza,
+detto Stato e tenuto a esaminare esso stesso la domanda conformemente alle
+modalita previste all'art. 3, n. 2, del regolamento n. 343/2003.
+
+99      Risulta dall'insieme delle considerazioni precedenti, come ha
+osservato l'avvocato generale al paragrafo 131 delle sue conclusioni nella
+causa C‑411/10, che un'applicazione del regolamento n. 343/2003 sulla base di
+una presunzione assoluta che i diritti fondamentali del richiedente asilo
+saranno rispettati nello Stato membro di regola competente a conoscere della
+sua domanda e incompatibile con l'obbligo degli Stati membri di interpretare e
+di applicare il regolamento n. 343/2003 in conformita ai diritti fondamentali.
+
+100    Inoltre, come ha sottolineato N. S., se il regolamento n. 343/2003
+imponesse una presunzione assoluta di rispetto dei diritti fondamentali, esso
+stesso potrebbe essere considerato rimettere in causa le garanzie di tutela e
+di rispetto dei diritti fondamentali da parte dell'Unione e dei suoi Stati
+membri.
+
+101    È quanto avverrebbe, in particolare, nel caso di una disposizione che
+prevedesse che taluni Stati sono «Stati sicuri» quanto al rispetto dei diritti
+fondamentali, se siffatta disposizione dovesse essere interpretata nel senso
+di costituire una presunzione assoluta, che non ammette prova contraria.
+
+102    Al riguardo si deve rilevare che l'art. 36 della direttiva 2005/85,
+relativo al concetto di paese terzo europeo sicuro, dispone, al n. 2, lett. a)
+e c), che un paese terzo puo essere considerato «paese terzo sicuro» solo se,
+oltre ad aver ratificato la Convenzione di Ginevra e la CEDU, ne rispetta le
+disposizioni.
+
+103    Una tale formulazione indica che la mera ratifica delle convenzioni da
+parte di uno Stato non puo comportare l'applicazione di una presunzione
+assoluta che esso rispetti tali convenzioni. Il medesimo principio e
+applicabile tanto agli Stati membri quanto agli Stati terzi.
+
+104    Pertanto, la presunzione, di cui al punto 80 della presente sentenza,
+sottesa alla normativa in materia, che i richiedenti asilo saranno trattati in
+maniera conforme ai diritti dell'uomo deve essere considerata relativa.
+
+105    Tutto cio considerato, occorre risolvere le questioni sollevate
+dichiarando che il diritto dell'Unione osta all'applicazione di una
+presunzione assoluta secondo la quale lo Stato membro che l'art. 3, n. 1, del
+regolamento n. 343/2003 designa come competente rispetta i diritti
+fondamentali dell'Unione.
+
+106    L'art. 4 della Carta deve essere interpretato nel senso che gli Stati
+membri, compresi gli organi giurisdizionali nazionali, sono tenuti a non
+trasferire un richiedente asilo verso lo «Stato membro competente» ai sensi
+del regolamento n. 343/2003 quando non possono ignorare che le carenze
+sistemiche nella procedura di asilo e nelle condizioni di accoglienza dei
+richiedenti asilo in tale Stato membro costituiscono motivi seri e comprovati
+di credere che il richiedente corra un rischio reale di subire trattamenti
+inumani o degradanti ai sensi di tale disposizione.
+
+107    Ferma restando la facolta, di cui all'art. 3, n. 2, del regolamento n.
+343/2003, di esaminare esso stesso la domanda, l'impossibilita di trasferire
+un richiedente asilo verso un altro Stato membro dell'Unione che risulti
+essere lo Stato membro competente in base ai criteri enunciati nel capo III di
+detto regolamento impone allo Stato membro che doveva effettuare tale
+trasferimento di proseguire l'esame dei criteri di cui al medesimo capo, per
+verificare se uno dei criteri ulteriori permetta di identificare un altro
+Stato membro come competente a esaminare la domanda di asilo.
+
+108    È necessario, tuttavia, che lo Stato membro in cui si trova il
+richiedente asilo badi a non aggravare una situazione di violazione dei
+diritti fondamentali di tale richiedente con una procedura di determinazione
+dello Stato membro competente che abbia durata irragionevole. All'occorrenza,
+detto Stato e tenuto a esaminare esso stesso la domanda conformemente alle
+modalita previste all'art. 3, n. 2, del regolamento n. 343/2003.
+
+  _Sulla quinta questione nella causa C ‑411/10_
+
+109    Con la quinta questione nella causa C‑411/10 la Court of Appeal
+(England & Wales) (Civil Division) chiede, in sostanza, se la portata della
+tutela attribuita ad una persona cui si applica il regolamento n. 343/2003 dai
+principi generali del diritto dell'Unione, in particolare dagli artt. 1,
+relativo alla dignita umana, 18, sul diritto di asilo, e 47, relativo al
+diritto a un ricorso effettivo, della Carta, sia piu ampia di quella della
+tutela conferita dall'art. 3 della CEDU.
+
+110    Secondo la Commissione, la risposta a tale questione deve permettere di
+identificare le disposizioni della Carta la cui violazione da parte dello
+Stato membro competente implichera una responsabilita sussidiaria in capo allo
+Stato membro che deve decidere del trasferimento.
+
+111    Infatti, anche se la Court of Appeal (England & Wales) (Civil Division)
+non ha espressamente spiegato, nella decisione di rinvio, perche la risposta a
+tale questione le fosse necessaria per emettere sentenza, la lettura di detta
+decisione lascia nondimeno pensare che la questione si giustifichi alla luce
+della decisione del 2 dicembre 2008, K. R. S. c. Regno Unito, non ancora
+pubblicata nel _Recueil des arr ets et decisions_, in cui la Corte europea dei
+diritti dell'uomo ha dichiarato irricevibile la denuncia per violazione degli
+artt. 3 e 13 della CEDU in caso di trasferimento del ricorrente dal Regno
+Unito in Grecia. Dinanzi alla Court of Appeal (England & Wales) (Civil
+Division) talune parti hanno fatto valere che la tutela dei diritti
+fondamentali risultante dalla Carta era piu ampia di quella risultante dalla
+CEDU e che l'applicazione della Carta doveva comportare l'accoglimento della
+loro richiesta di non trasferire il ricorrente nel procedimento principale
+verso la Grecia.
+
+112    Dopo la pronuncia della decisione di rinvio la Corte europea dei
+diritti dell'uomo e ritornata sulla sua posizione alla luce di nuovi elementi
+probatori e ha statuito, nella succitata sentenza M. S. S. c. Belgio e Grecia,
+non solo che la Repubblica ellenica aveva violato l'art. 3 della CEDU a causa
+delle condizioni detentive ed esistenziali del ricorrente sul suo territorio,
+nonche l'art. 13 della CEDU, in combinato disposto con detto art. 3, in
+ragione delle carenze nella procedura di asilo seguita per il ricorrente, ma
+pure che il Regno del Belgio aveva violato l'art. 3 della CEDU esponendo il
+ricorrente a rischi connessi alle carenze della procedura di asilo in Grecia e
+a condizioni detentive ed esistenziali in Grecia contrarie a detto articolo.
+
+113    Come risulta dal punto 106 della presente sentenza, uno Stato membro
+violerebbe l'art. 4 della Carta se trasferisse un richiedente asilo verso lo
+Stato membro competente ai sensi del regolamento n. 343/2003 in circostanze
+come quelle descritte al precedente punto 94.
+
+114    Non risulta che gli artt. 1, 18 e 47 della Carta possano comportare una
+risposta differente da quella data alle questioni da seconda a quarta e sesta
+nella causa C‑411/10 nonche alle due questioni nella causa C‑493/10.
+
+115    Di conseguenza, si deve risolvere la quinta questione sollevata nella
+causa C‑411/10 dichiarando che gli artt. 1, 18 e 47 della Carta non comportano
+una risposta differente da quella data alle questioni da seconda a quarta e
+sesta nella causa C‑411/10 nonche alle due questioni nella causa C‑493/10.
+
+  _Sulla settima questione nella causa C ‑411/10_
+
+116    Con la settima questione nella causa C‑411/10 la Court of Appeal
+(England & Wales) (Civil Division) chiede, in sostanza, se, nella misura in
+cui le questioni precedenti concernono obblighi incombenti al Regno Unito,
+prendere in considerazione il Protocollo (n. 30) abbia una qualche incidenza
+sulle risposte apportate alle questioni da seconda a sesta.
+
+117    Come ha ricordato l'EHRC, tale questione trae origine dalla posizione
+del Secretary of State dinanzi alla High Court of Justice (England & Wales),
+Queen's Bench Division (Administrative Court), secondo la quale le
+disposizioni della Carta non sono applicabili nel Regno Unito.
+
+118    Anche se il Secretary of State non ha piu sostenuto questa posizione
+dinanzi alla Court of Appeal (England & Wales) (Civil Division), si deve
+ricordare che il Protocollo (n. 30) enuncia, all'art. 1, n. 1, che la Carta
+non estende la competenza della Corte di giustizia o di qualunque altro organo
+giurisdizionale della Polonia o del Regno Unito a ritenere che le leggi, i
+regolamenti o le disposizioni, le pratiche o l'azione amministrativa della
+Polonia o del Regno Unito non siano conformi ai diritti, alle liberta e ai
+principi fondamentali che essa riafferma.
+
+119    Risulta dalla formulazione di tale disposizione che, come ha osservato
+l'avvocato generale in particolare ai paragrafi 169 e 170 delle conclusioni
+nella causa C‑411/10, il Protocollo (n. 30) non rimette in questione
+l'applicabilita della Carta al Regno Unito o alla Polonia; lo conferma il suo
+stesso preambolo. Infatti, ai sensi del terzo 'considerando' del Protocollo
+(n. 30), l'art. 6 TUE dispone che la Carta deve essere applicata e
+interpretata dagli organi giurisdizionali della Polonia e del Regno Unito
+rigorosamente in conformita con le spiegazioni di cui a detto articolo.
+Peraltro, secondo il sesto 'considerando' del medesimo Protocollo, la Carta
+ribadisce i diritti, le liberta e i principi riconosciuti nell'Unione e li
+rende piu visibili, ma non crea nuovi diritti o principi.
+
+120    Cio considerato, l'art. 1, n. 1, del Protocollo (n. 30) esplicita
+l'art. 51 della Carta, relativo all'ambito di applicazione di quest'ultima, e
+non ha per oggetto di esonerare la Repubblica di Polonia e il Regno Unito
+dall'obbligo di rispettare le disposizioni della Carta, ne di impedire ad un
+giudice di uno di questi Stati membri di vigilare sull'osservanza di tali
+disposizioni.
+
+121    Poiche i diritti in discussione nei procedimenti principali non fanno
+parte del titolo IV della Carta, non vi e motivo di pronunciarsi
+sull'interpretazione dell'art. 1, n. 2, del Protocollo (n. 30).
+
+122    La settima questione nella causa C‑411/10 deve, pertanto, essere
+risolta dichiarando che, nella misura in cui le questioni che precedono
+concernono obblighi incombenti al Regno Unito, prendere in considerazione il
+Protocollo (n. 30) non ha incidenza sulle risposte apportate alle questioni da
+seconda a sesta deferite nella causa C‑411/10.
+
+  **Sulle spese**
+
+123    Nei confronti delle parti nei procedimenti principali il presente
+procedimento costituisce un incidente sollevato dinanzi ai giudici nazionali,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Grande Sezione) dichiara:
+
+1)       **La decisione adottata da uno Stato membro sul fondamento dell 'art.
+3, n. 2, del regolamento (CE) del Consiglio 18 febbraio 2003, n. 343, che
+stabilisce i criteri e i meccanismi di determinazione dello Stato membro
+competente per l'esame di una domanda d'asilo presentata in uno degli Stati
+membri da un cittadino di un paese terzo, di esaminare o meno una domanda di
+asilo rispetto alla quale esso non e competente in base ai criteri enunciati
+nel capo III di detto regolamento da attuazione al diritto dell'Unione ai fini
+dell'art. 6 TUE e/o dell'art. 51 della Carta dei diritti fondamentali
+dell'Unione europea.**
+
+2)       **Il diritto dell 'Unione osta all'applicazione di una presunzione
+assoluta secondo la quale lo Stato membro che l'art. 3, n. 1, del regolamento
+n. 343/2003 designa come competente rispetta i diritti fondamentali
+dell'Unione europea. **
+
+**L 'art. 4 della Carta dei diritti fondamentali dell'Unione europea deve
+essere interpretato nel senso che gli Stati membri, compresi gli organi
+giurisdizionali nazionali, sono tenuti a non trasferire un richiedente asilo
+verso lo «Stato membro competente» ai sensi del regolamento n. 343/2003 quando
+non possono ignorare che le carenze sistemiche nella procedura di asilo e
+nelle condizioni di accoglienza dei richiedenti asilo in tale Stato membro
+costituiscono motivi seri e comprovati di credere che il richiedente corra un
+rischio reale di subire trattamenti inumani o degradanti ai sensi di tale
+disposizione.**
+
+**Ferma restando la facolt a, di cui all'art. 3, n. 2, del regolamento n.
+343/2003, di esaminare esso stesso la domanda, l'impossibilita di trasferire
+un richiedente asilo verso un altro Stato membro dell'Unione europea che
+risulti essere lo Stato membro competente in base ai criteri enunciati nel
+capo III di detto regolamento impone allo Stato membro che doveva effettuare
+tale trasferimento di proseguire l'esame dei criteri di cui al medesimo capo,
+per verificare se uno dei criteri ulteriori permetta di identificare un altro
+Stato membro come competente a esaminare la domanda di asilo. **
+
+**È necessario, tuttavia, che lo Stato membro nel quale si trova il
+richiedente asilo badi a non aggravare una situazione di violazione dei
+diritti fondamentali di tale richiedente con una procedura di determinazione
+dello Stato membro competente che abbia durata irragionevole. All'occorrenza,
+detto Stato e tenuto a esaminare esso stesso la domanda conformemente alle
+modalita previste all'art. 3, n. 2, del regolamento n. 343/2003.**
+
+3)       **Gli artt.  1, 18 e 47 della Carta dei diritti fondamentali
+dell'Unione europea non comportano una risposta differente.**
+
+4)       **Nella misura in cui le questioni che precedono concernono obblighi
+incombenti al Regno Unito di Gran Bretagna e Irlanda del Nord, prendere in
+considerazione il Protocollo (n.  30) sull'applicazione della Carta dei
+diritti fondamentali dell'Unione europea alla Polonia e al Regno Unito non ha
+incidenza sulle risposte apportate alle questioni da seconda a sesta deferite
+nella causa C‑411/10. **
+
+Firme
+
+* * *
+
+* Lingua processuale: l'inglese. 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

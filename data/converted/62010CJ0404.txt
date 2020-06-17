@@ -1,0 +1,2820 @@
+  
+  
+SENTENZA DELLA CORTE (Terza Sezione)
+
+28 giugno 2012 ( *1 )
+
+«Impugnazione — Accesso ai documenti delle istituzioni — Regolamento (CE) n.
+1049/2001 — Documenti attinenti a un procedimento di controllo di
+un’operazione di concentrazione tra imprese — Regolamenti (CEE) n. 4064/89 e
+(CE) n. 139/2004 — Rifiuto di accesso — Eccezioni relative alla tutela degli
+obiettivi delle attività di indagine, degli interessi commerciali, delle
+consulenze legali e del processo decisionale delle istituzioni — Obbligo
+dell’istituzione interessata di procedere ad un esame concreto e specifico del
+contenuto dei documenti indicati nella domanda di accesso»
+
+Nella causa C-404/10 P,
+
+avente ad oggetto l’impugnazione, ai sensi dell’articolo 56 dello Statuto
+della Corte di giustizia dell’Unione europea, proposta il 10 agosto 2010,
+
+Commissione europea, rappresentata da B. Smulders, O. Beynet e P. Costa de
+Oliveira, in qualità di agenti, con domicilio eletto in Lussemburgo,
+
+ricorrente,
+
+sostenuta da:
+
+Repubblica ceca, rappresentata da M. Smolek e D. Hadroušek, in qualità di
+agenti,
+
+Repubblica francese, rappresentata da J. Gstalter, in qualità di agente,
+
+intervenienti in sede d’impugnazione,
+
+procedimento in cui le altre parti sono:
+
+Éditions Odile Jacob SAS, con sede in Parigi (Francia), rappresentata da O.
+Fréget e L. Eskenazi, avocats,
+
+ricorrente in primo grado,
+
+sostenuta da:
+
+Regno di Danimarca, rappresentato da S. Juul Jørgensen e C. Vang, in qualità
+di agenti,
+
+Regno di Svezia, rappresentato da K. Petkovska, in qualità di agente,
+
+intervenienti in sede d’impugnazione,
+
+Lagardère SCA, con sede in Parigi, rappresentata da A. Winckler, F. de Bure e
+J.-B. Pinçon, avocats,
+
+interveniente in primo grado,
+
+LA CORTE (Terza Sezione),
+
+composta dal sig. K. Lenaerts, presidente di sezione, dal sig. J. Malenovský,
+dalla sig.ra R. Silva de Lapuerta, dai sigg. E. Juhász (relatore) e G.
+Arestis, giudici,
+
+avvocato generale: sig. J. Mazák
+
+cancelliere: sig.ra R. Şereş, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza dell’8
+dicembre 2011,
+
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+Con la sua impugnazione, la Commissione europea chiede l’annullamento della
+sentenza del Tribunale dell’Unione europea del 9 giugno 2010, Éditions
+Jacob/Commissione (T-237/05, Racc. pag. II-2245; in prosieguo: la «sentenza
+impugnata»), in quanto quest’ultimo ha annullato parzialmente la decisione D
+(2005) 3286 della Commissione, del 7 aprile 2005 (in prosieguo: la «decisione
+controversa»), recante rigetto della domanda della Éditions Odile Jacob SAS
+(in prosieguo: la «Odile Jacob») volta ad ottenere l’accesso a taluni
+documenti relativi al procedimento di controllo delle operazioni di
+concentrazione COMP/M.2978 – Lagardère/Natexis/VUP.  
+  
+---|---  
+  
+2
+
+|
+
+Con la sua impugnazione incidentale la Odile Jacob chiede l’annullamento della
+sentenza impugnata nella parte in cui quest’ultima ha respinto la sua domanda
+volta all’annullamento della decisione controversa per aver negato l’accesso
+integrale al parere del servizio giuridico della Commissione, di cui al punto
+1, lettera g), della sentenza impugnata.  
+  
+---|---  
+  
+3
+
+|
+
+La presente causa si inscrive nel medesimo contesto della causa C-551/10 P
+nonché delle cause riunite C-553/10 P e C-554/10 P, le quali riguardano il
+procedimento di controllo delle operazioni di concentrazione volte ad
+acquisire le attività editoriali detenute in Europa dalla Vivendi Universal
+Publishing SA (in prosieguo: la «VUP»).  
+  
+---|---  
+  
+Contesto normativo
+
+4
+
+|
+
+L’articolo 4 del regolamento (CE) n. 1049/2001 del Parlamento europeo e del
+Consiglio, del 30 maggio 2001, relativo all’accesso del pubblico ai documenti
+del Parlamento europeo, del Consiglio e della Commissione (GU L 145, pag. 43),
+intitolato «Eccezioni», dispone quanto segue:
+
+«(...)
+
+2\. Le istituzioni rifiutano l’accesso a un documento la cui divulgazione
+arrechi pregiudizio alla tutela di quanto segue:
+
+|
+
+—
+
+|
+
+gli interessi commerciali di una persona fisica o giuridica, ivi compresa la
+proprietà intellettuale,  
+  
+---|---  
+  
+—
+
+|
+
+le procedure giurisdizionali e la consulenza legale,  
+  
+---|---  
+  
+—
+
+|
+
+gli obiettivi delle attività ispettive, di indagine e di revisione contabile,  
+  
+---|---  
+  
+a meno che vi sia un interesse pubblico prevalente alla divulgazione.
+
+3\. L’accesso a un documento elaborato per uso interno da un’istituzione o da
+essa ricevuto, relativo ad una questione su cui la stessa non abbia ancora
+adottato una decisione, viene rifiutato nel caso in cui la divulgazione del
+documento pregiudicherebbe gravemente il processo decisionale
+dell’istituzione, a meno che vi sia un interesse pubblico prevalente alla
+divulgazione.
+
+L’accesso a un documento contenente riflessioni per uso interno, facenti parte
+di discussioni e consultazioni preliminari in seno all’istituzione
+interessata, viene rifiutato anche una volta adottata la decisione, qualora la
+divulgazione del documento pregiudicherebbe seriamente il processo decisionale
+dell’istituzione, a meno che vi sia un interesse pubblico prevalente alla
+divulgazione.
+
+4\. Per quanto concerne i documenti di terzi, l’istituzione consulta il terzo
+al fine di valutare se sia applicabile una delle eccezioni di cui ai paragrafi
+1 o 2, a meno che non sia chiaro che il documento può o non deve essere
+divulgato.
+
+(...).
+
+6\. Se solo alcune parti del documento richiesto sono interessate da una delle
+eccezioni, le parti restanti del documento sono divulgate.
+
+7\. Le eccezioni di cui ai paragrafi 1, 2 e 3 si applicano unicamente al
+periodo nel quale la protezione è giustificata sulla base del contenuto del
+documento. Le eccezioni sono applicabili per un periodo massimo di 30 anni.
+Nel caso di documenti coperti dalle eccezioni relative alla vita privata o
+agli interessi commerciali e di documenti sensibili, le eccezioni possono
+continuare ad essere applicate anche dopo tale periodo, se necessario».  
+  
+5
+
+|
+
+Ai sensi dell’articolo 17 del regolamento (CEE) n. 4064/89 del Consiglio, del
+21 dicembre 1989, relativo al controllo delle operazioni di concentrazione tra
+imprese (GU L 395, pag. 1, e rettifica in JO 1990, L 257, pag. 13), intitolato
+«Segreto professionale»:
+
+«1. Le informazioni raccolte a norma degli articoli 11, 12, 13 e 18 possono
+essere utilizzate soltanto per lo scopo per il quale sono state richieste, per
+controllo o per l’audizione.
+
+2\. Fatti salvi l’articolo 4, paragrafo 3 e gli articoli 18 e 20, la
+Commissione e le autorità competenti degli Stati membri, nonché i loro
+funzionari ed altri agenti sono tenuti a non divulgare le informazioni
+raccolte a norma del presente regolamento e che, per la loro natura, sono
+protette dal segreto professionale.
+
+(...)».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 18, paragrafo 3, del citato regolamento dispone quanto segue:
+
+«La Commissione fonda le proprie decisioni soltanto sulle obiezioni in merito
+alle quali gli interessati hanno potuto fare osservazioni. Nello svolgimento
+della procedura i diritti della difesa sono pienamente garantiti. Almeno le
+parti direttamente interessate possono prendere conoscenza del fascicolo,
+rispettando l’interesse legittimo delle imprese a che non vengano divulgati i
+segreti relativi ai loro affari».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 13, paragrafo 3, del regolamento (CE) n. 447/98 della Commissione,
+del 1o marzo 1998, relativo alle notificazioni, ai termini e alle audizioni di
+cui al regolamento n. 4064/89 (GU L 61, pag. 1), precisa quanto segue:
+
+«Dopo la comunicazione delle obiezioni alle parti notificanti, la Commissione
+dà a queste, su richiesta, la possibilità di prendere conoscenza del
+fascicolo, affinché possano esercitare il loro diritto alla difesa.
+
+La Commissione, su richiesta, dà alle altre parti che sono state informate
+delle obiezioni la possibilità di prendere conoscenza del fascicolo, nella
+misura in cui la presentazione delle loro osservazioni lo richieda».  
+  
+---|---  
+  
+8
+
+|
+
+L’articolo 17, paragrafo 1, del regolamento n. 447/98 prevede quanto segue:
+
+«Non vengono comunicati o resi accessibili informazioni, e in particolare
+documenti, che contengano segreti commerciali di persone o imprese, e in
+particolare delle parti notificanti, delle altre parti interessate e dei
+terzi, né altre informazioni riservate la cui divulgazione non sia considerata
+dalla Commissione necessaria ai fini del procedimento né, infine, i documenti
+interni delle autorità».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 17 del regolamento (CE) n. 139/2004, del 20 gennaio 2004, relativo
+al controllo delle concentrazioni tra imprese (GU L 24, pag. 1), intitolato
+«Segreto professionale», dispone, nei suoi paragrafi 1 e 2:
+
+«1. Le informazioni raccolte in applicazione del presente regolamento possono
+essere utilizzate soltanto per lo scopo, per l’indagine o per l’audizione per
+il quale sono state richieste.
+
+2\. Fatti salvi l’articolo 4, paragrafo 3, e gli articoli 18 e 20, la
+Commissione e le autorità competenti degli Stati membri, nonché i loro
+funzionari ed altri agenti e le altre persone che lavorano sotto il controllo
+di dette autorità, così come i funzionari e gli agenti di altre autorità degli
+Stati membri, sono tenuti a non divulgare le informazioni raccolte a norma del
+presente regolamento e che, per la loro natura, sono protette dal segreto
+d’ufficio».  
+  
+---|---  
+  
+Fatti
+
+10
+
+|
+
+Le domande di accesso a taluni documenti presentati dalla Odile Jacob sono
+illustrate come segue nella sentenza impugnata:
+
+|
+
+«1
+
+|
+
+Con lettera 27 gennaio 2005, la [Odile Jacob] chiedeva alla Commissione (...),
+in applicazione del regolamento [n. 1049/2001], l’accesso a più documenti
+relativi al procedimento amministrativo (in prosieguo: il “procedimento
+controverso”) che ha portato all’adozione della decisione della Commissione 7
+gennaio 2004, 2004/422/CE, che dichiara un’operazione di concentrazione
+compatibile con il mercato comune e con il funzionamento dell’accordo sullo
+Spazio economico europeo (Caso COMP/M.2978 — Lagardère/Natexis/VUP) (GU L 125,
+pag. 54; in prosieguo: la “decisione di compatibilità”) al fine di utilizzarli
+a sostegno del suo ricorso nella causa T-279/04, Éditions Odile
+Jacob/Commissione, pendente dinanzi al Tribunale e intesa all’annullamento
+della decisione di compatibilità. I documenti considerati erano:
+
+|
+
+a)
+
+|
+
+la decisione della Commissione 5 giugno 2003 di aprire un’indagine
+approfondita sulla base dell’articolo 6, paragrafo 1, lettera c), del
+regolamento [n. 4064/89], nel procedimento controverso;  
+  
+---|---  
+  
+b)
+
+|
+
+la versione integrale del contratto di cessione firmato il 3 dicembre 2002
+dalla Natexis Banques populaires SA, da un lato, e dalla Segex Sarl e dalla
+Ecrinvest 4 SA, dall’altro;  
+  
+---|---  
+  
+c)
+
+|
+
+l’intera corrispondenza tra la Commissione e la Natexis Banques populaires tra
+il mese di settembre 2002 e la notifica dell’operazione di concentrazione
+intervenuta il 14 aprile 2003;  
+  
+---|---  
+  
+d)
+
+|
+
+l’intera corrispondenza tra la Commissione e la Lagardère SCA [in prosieguo:
+la “Lagardère”] tra il mese di settembre 2002 e la detta notifica;  
+  
+---|---  
+  
+e)
+
+|
+
+il contratto con il quale la Natexis Banques populaires è divenuta
+proprietaria delle partecipazioni e degli attivi della [VUP], nella Vivendi
+Universal SA il 20 dicembre 2002;  
+  
+---|---  
+  
+f)
+
+|
+
+la promessa di acquisizione della VUP emessa dalla Lagardère nei confronti
+della Vivendi Universal il 22 ottobre 2002;  
+  
+---|---  
+  
+g)
+
+|
+
+tutti i memorandum interni della Commissione vertenti, esclusivamente o no,
+sull’applicazione dell’articolo 3, paragrafo 5, lettera a), del regolamento n.
+4064/89 all’acquisizione degli attivi della VUP da parte della Natexis
+SA/Investima 10 SAS, ivi compresi quelli scambiati tra la direzione generale
+(DG) “Concorrenza” della Commissione e il servizio giuridico di quest’ultima;  
+  
+---|---  
+  
+h)
+
+|
+
+l’intera corrispondenza tra la Commissione e la Natexis vertente,
+esclusivamente o no, sull’applicazione dell’articolo 3, paragrafo 5, lettera
+a), del regolamento n. 4064/89 all’acquisizione degli attivi della VUP da
+parte della Natexis/Investima 10.  
+  
+---|---  
+  
+2
+
+|
+
+Con lettera 27 gennaio 2005, la [Odile Jacob] indirizzava alla Commissione una
+domanda di accesso ad un’altra serie di documenti al fine di utilizzarli a
+sostegno del suo ricorso nella causa T-452/04, Éditions Odile
+Jacob/Commissione, pendente dinanzi al Tribunale, intesa a fare annullare la
+decisione della Commissione 30 luglio 2004 relativa all’autorizzazione della
+Wendel Investissement SA quale acquirente degli attivi ceduti dalla Lagardère,
+conformemente alla decisione di compatibilità (in prosieguo: la “decisione di
+autorizzazione”). I documenti considerati erano i seguenti:
+
+|
+
+a)
+
+|
+
+la decisione della Commissione recante autorizzazione del mandatario
+incaricato di vigilare sul rispetto degli impegni sottoscritti dalla Lagardère
+all’atto dell’autorizzazione della concentrazione mediante la decisione di
+compatibilità;  
+  
+---|---  
+  
+b)
+
+|
+
+il mandato conferito dalla Lagardère alla Salustro Reydel Management SA per
+vigilare sul rispetto degli impegni sottoscritti dalla Lagardère all’atto
+dell’autorizzazione della concentrazione mediante la decisione di
+compatibilità;  
+  
+---|---  
+  
+c)
+
+|
+
+le eventuali domande di modifica della Commissione relative al progetto di
+mandato e le risposte fornite a tal riguardo dalla Lagardère;  
+  
+---|---  
+  
+d)
+
+|
+
+il mandato conferito dalla Lagardère al gestore degli elementi separati
+dell’attivo (Hold Separate Manager), responsabile della gestione degli attivi
+conformemente alla decisione di compatibilità;  
+  
+---|---  
+  
+e)
+
+|
+
+la decisione della Commissione recante l’autorizzazione del detto gestore;  
+  
+---|---  
+  
+f)
+
+|
+
+il progetto d’accordo firmato il 28 maggio 2004 tra la Lagardère e la Wendel
+Investissement al fine di rilevare gli attivi ceduti;  
+  
+---|---  
+  
+g)
+
+|
+
+la lettera indirizzata dalla Lagardère alla Commissione il 4 giugno 2004, con
+la quale chiede a quest’ultima di autorizzare la Wendel Investissement quale
+ente che rileva gli attivi ceduti;  
+  
+---|---  
+  
+h)
+
+|
+
+la domanda di informazioni indirizzata alla Lagardère dalla Commissione sulla
+base dell’art. 11 del regolamento n. 4064/89, l’11 giugno 2004, intesa a
+consentire a quest’ultima di valutare se le condizioni di autorizzazione della
+società Wendel Investissement erano soddisfatte;  
+  
+---|---  
+  
+i)
+
+|
+
+la risposta della Lagardère, in data 21 giugno 2004, a tale domanda di
+informazioni;  
+  
+---|---  
+  
+j)
+
+|
+
+la relazione del mandatario che valuta la candidatura della Wendel
+Investissement quale acquirente degli attivi ceduti con riferimento ai criteri
+di autorizzazione, trasmessa alla Commissione il 5 luglio 2004.  
+  
+---|---  
+  
+3
+
+|
+
+Con fax 15 febbraio 2005, il direttore generale della DG “Concorrenza”
+comunicava alla [Odile Jacob] la lettera della Commissione 5 febbraio 2004 che
+approva la designazione del mandatario e del gestore degli elementi separati
+di attivo [documenti di cui supra al punto 2, lettere a) ed e)], e la
+informava che gli altri documenti non potevano esserle trasmessi perché erano
+coperti dalle eccezioni di cui all’art. 4, n. 2, primo-terzo trattino, e n. 3,
+secondo comma, del regolamento n. 1049/2001 e che nessun interesse pubblico
+prevalente ne giustificava la divulgazione.  
+  
+---|---  
+  
+4
+
+|
+
+Con lettera 18 febbraio 2005, la [Odile Jacob] presentava una domanda
+confermativa (in prosieguo: la “domanda di accesso”) vertente sui documenti
+l’accesso ai quali le era stato rifiutato.  
+  
+---|---  
+  
+5
+
+|
+
+Il 14 marzo 2005, il segretario generale della Commissione informava la [Odile
+Jacob] che il termine di risposta alla sua domanda sarebbe stato prorogato,
+conformemente all’art. 8, n. 2, del regolamento n. 1049/2001, fino al 7 aprile
+2005, in ragione della complessità della domanda d’accesso e del numero di
+documenti richiesti».  
+  
+---|---  
+  
+11
+
+|
+
+Con la decisione controversa la Commissione ha confermato il suo diniego di
+accesso ai documenti di cui trattasi del 15 febbraio 2005.  
+  
+---|---  
+  
+12
+
+|
+
+In un primo momento, la Commissione ha identificato, in tale decisione, i
+documenti considerati dalla domanda di accesso e ne ha fornito un elenco
+dettagliato, salvo per quanto riguarda quelli rientranti sotto il punto 1,
+lettera d), della sentenza impugnata in quanto la corrispondenza tra la
+Lagardère e la Commissione ammontava ad una ventina di classificatori e la
+redazione di un elenco dettagliato avrebbe costituito un onere amministrativo
+sproporzionato. Peraltro, ha precisato di non detenere il documento figurante
+al punto 1, lettera f), della citata sentenza e ha rilevato che i documenti
+considerati in tal punto, lettera c), includevano quelli figuranti nel
+medesimo, lettera h).  
+  
+---|---  
+  
+13
+
+|
+
+Poi, al titolo «Tutela degli obiettivi delle attività di indagine», la
+Commissione ha precisato, nella citata decisione, che «la totalità dei
+documenti di cui trattasi è coperta dall’eccezione al diritto di accesso volto
+a proteggere gli obiettivi delle attività di indagine condotte dalla
+Commissione (articolo 4, paragrafo 2, terzo trattino, del regolamento n.
+1049/2001)».  
+  
+---|---  
+  
+14
+
+|
+
+In applicazione della citata eccezione la Commissione ha negato, nella
+decisione controversa, l’accesso all’insieme dei documenti richiesti in quanto
+erano stati comunicati ai servizi della Commissione o da questi redatti
+nell’ambito di un procedimento di controllo di un’operazione di concentrazione
+tra imprese. La Commissione ha ritenuto che, nell’ipotesi in cui il Tribunale
+avesse annullato la decisione di compatibilità, la Commissione sarebbe stata
+indotta a adottare una nuova decisione e, di conseguenza, a riaprire
+l’indagine. L’obiettivo di tale indagine sarebbe stato messo a repentaglio se
+documenti redatti o ricevuti nell’ambito del procedimento di controllo fossero
+stati resi pubblici in tale fase. Più in generale, la Commissione ha
+considerato che la divulgazione di informazioni fornitele nell’ambito di un
+procedimento di controllo di un’operazione di concentrazione avrebbe
+pregiudicato il clima di fiducia e di cooperazione tra la Commissione e gli
+interessati, indispensabile per la raccolta delle informazioni di cui ha
+bisogno.  
+  
+---|---  
+  
+15
+
+|
+
+Inoltre, la Commissione ha precisato espressamente, nella decisione
+controversa, che tale diniego è giustificato in quanto «l’eccezione volta a
+tutelare l’obiettivo delle attività di indagine si applica ad ogni documento
+oggetto della domanda».  
+  
+---|---  
+  
+16
+
+|
+
+La Commissione ha invocato altresì, in tale decisione, l’eccezione prevista
+dall’articolo 4, paragrafo 2, primo trattino, del regolamento n. 1049/2001,
+relativa alla tutela degli interessi commerciali, per giustificare il diniego
+di accesso ai documenti contemplati al punto 1, lettere b)-e), e h), e al
+punto 2, lettere b), c) (in parte), d), f), g), i) e j), della sentenza
+impugnata in quanto contengono informazioni sensibili relative alle strategie
+commerciali delle imprese interessate, trasmesse da queste ultime alla
+Commissione ai soli fini del controllo della prevista operazione di
+concentrazione. La Commissione ha ritenuto che i documenti considerati al
+punto 1, lettera a), e al punto 2, lettera c), per quanto riguarda una lettera
+della Commissione indirizzata alla Lagardère, e h), di tale sentenza, tutti da
+essa redatti, contengano anch’essi informazioni commercialmente sensibili
+relative alle imprese interessate.  
+  
+---|---  
+  
+17
+
+|
+
+La Commissione si è avvalsa inoltre dell’eccezione prevista all’articolo 4,
+paragrafo 3, secondo comma, del regolamento n. 1049/2001, relativa alla tutela
+del processo decisionale dell’istituzione per giustificare il diniego
+dell’accesso a due delle tre note interne della Commissione considerate al
+punto 1, lettera g), della sentenza impugnata. L’una è una domanda di parere
+della direzione generale «Concorrenza» al servizio giuridico, l’altra è una
+nota redatta per il membro della Commissione incaricato della concorrenza, che
+riassume lo stato degli atti.  
+  
+---|---  
+  
+18
+
+|
+
+A tale proposito, la Commissione ha precisato, in tale decisione, che,
+«[o]ltre al fatto che la divulgazione di tali documenti arrecherebbe
+pregiudizio all’obiettivo dell’indagine, (...) il processo decisionale stesso
+sarebbe gravemente pregiudicato se le decisioni interne dei servizi della
+Commissione relative a tale caso fossero rese pubbliche». Così, essa ha
+affermato che i sui servizi devono avere la possibilità di esprimere
+liberamente i loro punti di vista, senza pressioni esterne, informandone la
+Commissione al fine di adottare le decisioni.  
+  
+---|---  
+  
+19
+
+|
+
+La Commissione si è fondata anche, nella citata decisione, sull’eccezione
+prevista all’articolo 4, paragrafo 2, secondo trattino, del regolamento n.
+1049/2001, relativa alla tutela della consulenza legale, per giustificare il
+diniego di accesso ad uno dei documenti di cui al punto 1, lettera g), della
+sentenza impugnata. Essa ha sottolineato che è essenziale che le consulenze
+legali possano essere date in piena libertà, obiettività e indipendenza. Ha
+ritenuto che il servizio legale, se avesse dovuto tener conto della successiva
+pubblicazione del suo parere, non si sarebbe espresso in tutta indipendenza.  
+  
+---|---  
+  
+20
+
+|
+
+Per quanto riguarda i documenti provenienti da terzi, la Commissione ha
+considerato, nella decisione controversa, di non doverli consultare in
+applicazione dell’articolo 4, paragrafo 4, del regolamento n. 1049/2001, dal
+momento che ha ritenuto che una delle eccezioni invocate fosse applicabile e
+che fosse pertanto chiaro che i documenti di cui trattasi non dovevano essere
+divulgati.  
+  
+---|---  
+  
+21
+
+|
+
+La Commissione ha affermato, in tale decisione, di avere esaminato la
+possibilità di concedere alla Odile Jacob un accesso parziale ai documenti
+considerati, in forza dell’articolo 4, paragrafo 6, del regolamento n.
+1049/2001, ma di averla scartata in ragione del grande numero di documenti
+richiesti e tenuto conto del fatto che la quasi totalità del loro contenuto
+era coperta dalle eccezioni precedentemente enumerate. L’identificazione delle
+parti di tali documenti che potevano essere comunicate avrebbe comportato un
+onere amministrativo sproporzionato rispetto all’interesse del pubblico ad
+accedere alle parti frammentarie che risulterebbero da una siffatta
+operazione.  
+  
+---|---  
+  
+22
+
+|
+
+Peraltro la Commissione ha rilevato, nella citata decisione, che nessun
+interesse pubblico prevalente giustifica la divulgazione dei documenti
+considerati, poiché la domanda di accesso è fondata sulla tutela degli
+interessi della Odile Jacob in una controversia pendente dinanzi al Tribunale,
+difesa che rientrerebbe in un interesse privato e non pubblico.  
+  
+---|---  
+  
+23
+
+|
+
+La Commissione ha attirato, nella medesima decisione, l’attenzione
+sull’esistenza di altre regole specifiche di accesso previste, da un lato, dal
+regolamento n. 4064/89 e, dall’altro, dalle disposizioni dei regolamenti di
+procedura della Corte e del Tribunale che consentono ad una parte, nell’ambito
+di un procedimento giurisdizionale, di chiedere l’adozione di misure di
+organizzazione del procedimento che possono consistere nel chiedere la
+produzione di documenti relativi alla causa in corso.  
+  
+---|---  
+  
+24
+
+|
+
+Infine la Commissione ha rilevato, nella decisione controversa, che il fatto
+di aver comunicato domande di informazioni fondate sull’articolo 11 del
+regolamento n. 4064/89, in allegato al suo controricorso nella causa T-279/04,
+non può significare che essa sia tenuta a divulgare la domanda di informazioni
+indirizzata alla Lagardère in forza della medesima disposizione, contemplata
+al punto 2, lettera h), della sentenza impugnata. Essa ha ricordato che i
+documenti allegati alle memorie presentate alla Corte e al Tribunale vengono
+comunicati ai soli fini del procedimento di cui trattasi e non sono destinati
+ad essere resi pubblici, mentre la comunicazione di un documento in forza del
+regolamento n. 1049/2001 equivale a una pubblicazione di tale documento.  
+  
+---|---  
+  
+25
+
+|
+
+Successivamente alla decisione controversa, il 5 luglio 2005 la Odile Jacob ha
+depositato una domanda di misura di organizzazione del procedimento ai sensi
+dell’articolo 64 del regolamento di procedura nella causa T-279/04, intesa a
+che il Tribunale ordini alla Commissione di produrre i documenti considerati
+al punto 1, lettere a)-h), della sentenza impugnata. La Commissione ha
+comunicato alla Odile Jacob, in allegato alle sue osservazioni su tale
+domanda, il documento considerato al detto punto, lettera a), cioè la sua
+decisione del 5 giugno 2003 di aprire un’indagine approfondita sulla base
+dell’articolo 6, paragrafo 1, lettera c), del regolamento n. 4064/89 nel
+procedimento di cui trattasi.  
+  
+---|---  
+  
+Procedimento dinanzi al Tribunale e sentenza impugnata
+
+26
+
+|
+
+Con atto introduttivo depositato presso la cancelleria del Tribunale il 17
+giugno 2005, la Odile Jacob ha proposto un ricorso diretto a fare annullare la
+decisione controversa.  
+  
+---|---  
+  
+27
+
+|
+
+A sostegno del suo ricorso la Odile Jacob ha sollevato quattro motivi, con i
+quali si deducono l’assenza di un esame concreto e specifico dei documenti
+contemplati dalla domanda di accesso, l’errore manifesto di valutazione della
+Commissione nell’applicazione delle eccezioni previste dall’articolo 4,
+paragrafi 2e 3, del regolamento n. 1049/2001, la violazione del diritto ad un
+accesso quantomeno parziale ai documenti richiesti nonché la violazione del
+principio di proporzionalità derivante dall’assenza di ponderazione tra le
+eccezioni invocate e l’interesse pubblico prevalente che giustifica la
+divulgazione dei documenti richiesti.  
+  
+---|---  
+  
+28
+
+|
+
+Con ordinanza del 10 luglio 2009, conformemente agli articoli 65, lettera b),
+66, paragrafo 1, e 67, paragrafo 3, terzo comma, del suo regolamento di
+procedura, il Tribunale ha ingiunto alla Commissione di produrre l’integralità
+dei documenti richiesti, con eccezione di quelli contemplati al punto 1,
+lettera f), e al punto 2, lettere a) ed e), della sentenza impugnata, fermo
+restando che tali documenti non sarebbero stati comunicati né alla Odile Jacob
+né all’interveniente nell’ambito del procedimento dinanzi al Tribunale. A tale
+richiesta è stato dato seguito dalla Commissione.  
+  
+---|---  
+  
+29
+
+|
+
+Molti dei documenti con riferimento ai quali, ai sensi del regolamento n.
+1049/2001, la Odile Jacob aveva chiesto l’accesso le sono stati trasmessi
+dalla Commissione, in tutto o in parte. Il Tribunale ha pertanto considerato
+che non occorresse più statuire sulla legittimità della decisione controversa
+nella misura in cui la Commissione ha negato l’accesso ai documenti
+contemplati al punto 1, lettere a)-c), e al punto 2, lettere h) e j), della
+sentenza impugnata. La Odile Jacob non ha del resto contestato l’affermazione
+della Commissione secondo la quale il documento contemplato al punto 1,
+lettera f), di tale sentenza non era in suo possesso.  
+  
+---|---  
+  
+30
+
+|
+
+Di conseguenza, il Tribunale ha precisato che l’oggetto della controversia al
+punto 32 della sentenza impugnata verteva sui documenti contemplati al punto
+1, lettere d), e), g) e h), e al punto 2, lettere b)-d), f), g) e i), della
+sentenza impugnata (in prosieguo: i «documenti controversi»).  
+  
+---|---  
+  
+31
+
+|
+
+In un primo momento il Tribunale ha esaminato la ricevibilità di uno degli
+argomenti sollevati in limine dalla Lagardère, in quanto la domanda di accesso
+controversa doveva essere valutata nello specifico contesto di un procedimento
+di controllo delle concentrazioni tra imprese. La Lagardère sosteneva, in
+particolare, che l’accesso al fascicolo nei procedimenti di controllo delle
+concentrazioni è soggetto a regole specifiche, previste dall’articolo 17 del
+regolamento (CE) n. 802/2004 della Commissione, del 7 aprile 2004, di
+esecuzione del regolamento n. 139/2004 (GU L 133, pag. 1). Il Tribunale,
+rilevando che le conclusioni dell’istanza di intervento possono avere come
+oggetto soltanto l’adesione alle conclusioni di una delle parti, e constatando
+che tale argomento non era stato sollevato da queste ultime, ha respinto tale
+argomento in quanto irricevibile.  
+  
+---|---  
+  
+32
+
+|
+
+Per quanto riguarda la struttura dell’esame dei motivi del ricorso, il
+Tribunale ha seguito l’ordine delle motivazioni addotte dalla Commissione
+secondo le quali tutti i documenti controversi erano coperti dall’eccezione di
+cui all’articolo 4, paragrafo 2, terzo trattino, del regolamento n. 1049/2001,
+relativa alla tutela degli obiettivi delle attività di indagine, e che,
+inoltre, taluni documenti erano totalmente o parzialmente coperti da altre
+eccezioni. Quindi, il Tribunale ha esaminato, nei punti 63-97 della sentenza
+impugnata, la fondatezza dell’eccezione relativa alla tutela degli obiettivi
+delle citate attività, poi, nei punti 109-129 di tale sentenza, l’eccezione
+relativa alla tutela degli interessi commerciali, nei punti 136-145 della
+citata sentenza, l’eccezione relativa alla tutela del processo decisionale e,
+infine, nei punti 152-163 della medesima sentenza, l’eccezione relativa alla
+tutela della consulenza legale.  
+  
+---|---  
+  
+33
+
+|
+
+Il Tribunale, considerando che il primo ed il secondo motivo erano
+strettamente connessi, li ha esaminati congiuntamente.  
+  
+---|---  
+  
+34
+
+|
+
+Dopo aver rammentato la giurisprudenza costante relativa all’obbligo di un
+esame concreto e specifico delle domande di accesso ai documenti delle
+istituzioni, il Tribunale ha sottolineato che spettava all’istituzione
+interessata esaminare, in primo luogo, se il documento oggetto della domanda
+di accesso rientrasse nell’ambito di applicazione di una delle eccezioni
+previste dall’articolo 4 del regolamento n. 1049/2001, in secondo luogo, se la
+divulgazione di tale documento recasse concreto ed effettivo pregiudizio
+all’interesse tutelato e, in terzo luogo, in caso affermativo, se il bisogno
+di tutela si applicasse all’intero documento citato.  
+  
+---|---  
+  
+35
+
+|
+
+Riprendendo tale analisi in tre tempi, il Tribunale ha esaminato, in primo
+luogo, se i documenti controversi rientrassero nell’eccezione relativa alla
+tutela degli obiettivi delle attività ispettive, di indagine e di revisione
+contabile, prevista dall’articolo 4, paragrafo 2, terzo trattino, del
+regolamento n. 1049/2001.  
+  
+---|---  
+  
+36
+
+|
+
+Per i documenti comunicati prima del 14 aprile 2003 ai sensi della procedura
+informale detta di «prenotifica», il Tribunale ha ritenuto, al punto 67 della
+sentenza impugnata, che essi debbono considerarsi come rientranti
+nell’indagine condotta dalla Commissione a titolo del suo controllo
+dell’operazione di concentrazione, come indicato nella lettera del direttore
+generale della DG «Concorrenza» del 14 febbraio 2005, che identifica tali
+documenti come facenti parte del fascicolo relativo a tale indagine, nonché
+nella decisione controversa, che precisa che l’insieme dei documenti
+controversi sono stati «redatti o ricevuti nell’ambito del trattamento del
+procedimento di cui trattasi». Al punto 67 della sentenza impugnata, il
+Tribunale ha constatato espressamente che «tutti i documenti richiesti
+riguardano effettivamente un’attività di indagine».  
+  
+---|---  
+  
+37
+
+|
+
+Al punto 70 della sentenza impugnata, il Tribunale ha esaminato se la citata
+eccezione fosse ancora applicabile ratione temporis.  
+  
+---|---  
+  
+38
+
+|
+
+Il Tribunale ha rilevato che i documenti controversi erano stati richiesti da
+Odile Jacob quando l’indagine di cui trattasi era approdata all’adozione di
+due decisioni della Commissione, cioè la decisione di compatibilità e la
+decisione di autorizzazione. Tuttavia, il Tribunale ha parimenti evidenziato
+che tali decisioni non erano ancora definitive, tenuto conto dei due ricorsi,
+vale a dire le cause T-279/04 e T-452/04, pendenti dinanzi al Tribunale e
+intesi al loro annullamento.  
+  
+---|---  
+  
+39
+
+|
+
+Ai punti 76 e 77 della sentenza impugnata, il Tribunale ha considerato che il
+fatto di ammettere che i documenti controversi possano sempre essere coperti
+dall’eccezione di cui all’articolo 4, paragrafo 2, terzo trattino, del
+regolamento n. 1049/2001, fintantoché le decisioni di compatibilità e di
+autorizzazione adottate a seguito della indagine di cui trattasi non siano
+definitive, equivarrebbe ad assoggettare l’accesso a tali documenti ad un
+evento aleatorio, futuro ed eventualmente lontano. Pertanto, il Tribunale ha
+ritenuto che i documenti controversi non rientrassero più, all’atto
+dell’adozione della decisione controversa, nell’ambito di applicazione
+dell’eccezione relativa alla tutela degli obiettivi delle attività di
+indagine.  
+  
+---|---  
+  
+40
+
+|
+
+Il Tribunale ha aggiunto, nei punti 78 e 82 della sentenza impugnata, che,
+anche ammesso che detti documenti siano stati tali da rientrare nell’ambito di
+applicazione dell’eccezione relativa alla tutela degli obiettivi delle
+attività di indagine, non risulterebbe in alcun modo dagli argomenti della
+decisione impugnata, troppo vaghi e generici e che «non poggiano su alcun
+elemento proprio alla fattispecie», che la Commissione abbia operato un esame
+concreto e specifico dei documenti controversi. Secondo il Tribunale, lo
+stesso ragionamento potrebbe applicarsi a tutti i documenti forniti
+nell’ambito di qualsiasi procedura di controllo di una concentrazione tra
+imprese, poiché la motivazione astratta e generica della decisione controversa
+non fa riferimento al contenuto dei documenti controversi.  
+  
+---|---  
+  
+41
+
+|
+
+Per quanto riguarda l’intera corrispondenza tra la Commissione e la Lagardère
+tra il mese di settembre 2002 e la notifica dell’operazione di concentrazione,
+il Tribunale, disattendendo gli argomenti della Commissione, ha ritenuto che,
+in applicazione dell’articolo 2, paragrafo 3, del regolamento n. 1049/2001, le
+disposizioni relative all’accesso del pubblico ai documenti della Commissione
+si applicassero a tutti i documenti in possesso di tale istituzione e che i
+documenti in materia di controllo delle concetrazioni non si sottraessero a
+tale disposizione. A tale titolo, il Tribunale ha considerato che la
+Commissione era tenuta ad assicurarsi, mediante un esame concreto ed effettivo
+di ciascun documento controverso, che questo fosse manifestamento coperto
+dall’eccezione relativa alla tutela degli obiettivi delle attività di
+indagine. Quindi, la Commissione non poteva sottrarsi a tale obbligo
+procedendo ad un esame in abstracto di tale documento.  
+  
+---|---  
+  
+42
+
+|
+
+Sull’argomento della Commissione, attinente all’articolo 17, paragrafo 1, del
+regolamento n. 139/2004, a tenore del quale «le informazioni raccolte in
+applicazione del [detto] regolamento possono essere utilizzate soltanto per lo
+scopo, per l’indagine o per l’audizione per il quale sono state richieste», il
+Tribunale ha rilevato, al punto 89 della sentenza impugnata, che tale
+disposizione, la cui formulazione è simile a quella della disposizione del
+regolamento n. 4064/89, applicabile alla presente fattispecie, riguardava il
+modo in cui la Commissione può utilizzare le informazioni fornite e non
+disciplinerebbe l’accesso ai documenti garantito dal regolamento n. 1049/2001.  
+  
+---|---  
+  
+43
+
+|
+
+Il Tribunale ha precisato, al citato punto, che tale disposizione «non può
+essere interpretata come di ostacolo all’esercizio del diritto di accesso ai
+documenti garantito dall’art. 255 CE e dal regolamento n. 1049/2001. Inoltre,
+deve essere letta alla luce del n. 2 dell’art. 17 del regolamento n. 139/2004,
+il quale esclude unicamente la divulgazione delle informazioni “che per la
+loro natura sono protette dal segreto d’ufficio”. Le imprese notificanti
+dovevano pertanto mettere in conto che le informazioni raccolte non coperte
+dal segreto d’ufficio sarebbero state divulgate».  
+  
+---|---  
+  
+44
+
+|
+
+Al punto 90 della sentenza impugnata, il Tribunale ha rilevato che, «secondo
+la giurisprudenza, nella misura in cui il pubblico ha un diritto di accesso ai
+documenti che contengono determinate informazioni, tali informazioni non
+possono essere considerate come protette, per loro natura, dal segreto
+d’ufficio (sentenza del Tribunale 30 maggio 2006, causa T-198/03, Bank Austria
+Creditanstalt/Commissione, Racc. pag. II-1429, punto 74). L’obbligo del
+segreto d’ufficio non riveste pertanto una portata tale da poter giustificare
+un diniego generale ed astratto di accesso ai documenti trasmessi nell’ambito
+della notifica di una concentrazione. Certo né l’art. 287 CE, né i regolamenti
+n. 4064/89 e n. 139/2004 indicano in modo tassativo quali informazioni siano
+coperte, per la loro natura, dal segreto d’ufficio. Dalla formulazione
+dell’art. 17, n. 2, di tali regolamenti risulta tuttavia che non
+necessariamente tutte le informazioni raccolte sono coperte dal segreto
+d’ufficio. Pertanto, la valutazione del carattere riservato di una
+informazione necessita una ponderazione tra, da un lato, gli interessi
+legittimi che ostano alla sua divulgazione e, dall’altro lato, l’interesse
+generale che vuole che le attività delle istituzioni comunitarie si svolgano
+nel modo più trasparente possibile (v., in questo senso, sentenz[e] del
+Tribunale Bank Austria Creditanstalt/Commissione, cit., punto 71, e 12 ottobre
+2007, causa T-474/04, Pergan Hilfsstoffe für industrielle
+Prozesse/Commissione, Racc. pag. II-4225, punti 63-66)».  
+  
+---|---  
+  
+45
+
+|
+
+Al punto 91 della sentenza impugnata, il Tribunale ha considerato che,
+«[p]rocedendo all’esame concreto e specifico dei documenti richiesti,
+conformemente all’art. 4, n. 2, primo trattino, del regolamento n. 1049/2001,
+la Commissione è pertanto in grado di assicurare l’effetto utile delle
+disposizioni applicabili in materia di concentrazione, in piena coerenza con
+il regolamento n. 1049/2001. Da ciò consegue che l’obbligo del segreto
+d’ufficio, risultante dall’art. 287 CE e dall’art. 17 dei regolamenti n.
+4064/89 e n. 139/2004, non è tale da dispensare la Commissione dall’esame
+concreto di ogni documento in considerazione, richiesto dall’art. 4, n. 2, del
+regolamento n. 1049/2001».  
+  
+---|---  
+  
+46
+
+|
+
+Ritenendo che la Commissione abbia commesso un errore di diritto nel negare
+l’accesso ai documenti controversi in quanto erano coperti dall’eccezione di
+cui all’articolo 4, paragrafo 2, terzo trattino, del regolamento n. 1049/2001,
+il Tribunale ha considerato che la decisione controversa fosse viziata da
+illegittimità su tale punto.  
+  
+---|---  
+  
+47
+
+|
+
+Il Tribunale ha tuttavia rilevato, nel punto 99 della sentenza impugnata, che
+tutti i documenti controversi, l’accesso ai quali è stato negato dalla
+Commissione a titolo dell’eccezione relativa alla tutela degli obiettivi delle
+attività di indagine, restavano idonei ad essere coperti da una delle altre
+eccezioni al diritto di accesso previste dal regolamento n. 1049/2001.  
+  
+---|---  
+  
+48
+
+|
+
+Di conseguenza, il Tribunale ha esaminato se tali documenti potessero essere
+coperti da altre eccezioni al diritto di accesso previste nel citato
+regolamento, quali la tutela degli interessi commerciali, la tutela del
+processo decisionale o la tutela delle consulenze legali.  
+  
+---|---  
+  
+49
+
+|
+
+Per quanto riguarda l’eccezione relativa alla tutela degli interessi
+commerciali, il Tribunale ha ritenuto, nei punti 113-119 della sentenza
+impugnata, che i documenti controversi, sebbene tali, in ragione del loro
+stesso oggetto, da contenere informazioni relative alle strategie commerciali
+delle imprese interessate, non potevano essere considerati come rientranti per
+loro natura in tale eccezione, in quanto il pubblico ha un diritto d’accesso
+ai documenti delle istituzioni. Di conseguenza, il Tribunale ha statuito che
+la Commissione era tenuta ad assicurarsi, attraverso un esame concreto e
+specifico del contenuto di ciascun documento controverso, che esso fosse
+coperto dall’eccezione prevista dall’articolo 4, paragrafo 2, primo trattino,
+del regolamento n. 1049/2001, per poterne negare l’accesso.  
+  
+---|---  
+  
+50
+
+|
+
+Per quanto riguarda la consultazione dei terzi, ai sensi dell’articolo 4,
+paragrafo 4, del citato regolamento, il Tribunale ha rilevato, nei punti
+125-127 della sentenza impugnata, che l’assenza di consultazione dei terzi
+autori dei documenti è conforme al regolamento n. 1049/2001 solo se trova
+chiara applicazione ai documenti di cui trattasi una delle eccezioni previste
+dal citato regolamento. Orbene, il Tribunale ha ritenuto che tale non fosse il
+caso nella specie, a proposito delle eccezioni relative alla tutela delle
+attività di indagine nonché alla tutela degli interessi commerciali.  
+  
+---|---  
+  
+51
+
+|
+
+Sull’eccezione relativa alla tutela del processo decisionale, il Tribunale ha
+considerato, nei punti 138-143 della sentenza impugnata, che la nota del 10
+febbraio 2002 della DG «Concorrenza» al servizio giuridico della Commissione e
+la nota del 4 novembre 2002 che riassume lo stato degli atti contenevano
+riflessioni per uso interno facenti parte di discussioni e consultazioni
+preliminari e, a tal titolo, rientravano pertanto effettivamente nell’ambito
+di applicazione dell’articolo 4, paragrafo 3, secondo comma, del regolamento
+n. 1049/2001. Ritenendo che gli argomenti invocati dalla Commissione fossero
+generici e astratti, il Tribunale ha considerato che l’istituzione di cui
+trattasi non aveva dimostrato che l’accesso ai citati documenti potesse
+arrecare concreto ed effettivo pregiudizio alla tutela del processo
+decisionale della Commissione e che la divulgazione di tali documenti avrebbe
+avuto un impatto sostanziale su tale stesso processo decisionale.  
+  
+---|---  
+  
+52
+
+|
+
+Infine, sull’eccezione relativa alla tutela delle consulenze legali, il
+Tribunale ha ritenuto, al punto 154 della sentenza impugnata, che il parere
+del servizio giuridico della Commissione del 10 ottobre 2002 rientrasse
+effettivamente nell’eccezione prevista dall’articolo 4, paragrafo 2, secondo
+trattino, del regolamento n. 1049/2001.  
+  
+---|---  
+  
+53
+
+|
+
+Ai sensi dei punti 159 e 160 della sentenza impugnata, esisteva un rischio
+ragionevolmente prevedibile e non meramente ipotetico che la divulgazione del
+citato parere costituisse un pregiudizio per l’attività futura del servizio
+giuridico della Commissione, in particolare nel contenzioso dinanzi al
+Tribunale, e che, per il futuro, tale medesimo servizio facesse prova di
+prudenza e circospezione nella redazione di siffatte note al fine di non
+incidere sulla capacità decisionale della Commissione nelle materie dove essa
+interviene in qualità di amministrazione.  
+  
+---|---  
+  
+54
+
+|
+
+Inoltre, il Tribunale ha rilevato che la divulgazione dei pareri del servizio
+giuridico della Commissione rischiava di mettere tale istituzione in una
+situazione delicata, di pregiudicare considerevolmente la libertà di opinione
+del citato servizio e la sua capacità di difendersi in maniera efficace
+dinanzi al giudice dell’Unione, su un piano di parità con gli altri
+rappresentanti legali delle diverse parti nel procedimento giudiziario, nonché
+di indebolire la posizione definitiva della Commissione e il processo
+decisionale interno di quest’ultima.  
+  
+---|---  
+  
+55
+
+|
+
+Di conseguenza, il Tribunale ha respinto l’argomento della Odile Jacob secondo
+la quale la divulgazione del parere del servizio giuridico di cui al punto 1,
+lettera g), della sentenza impugnata non arrecherebbe pregiudizio alla tutela
+della consulenza legale.  
+  
+---|---  
+  
+56
+
+|
+
+Il Tribunale ha poi esaminato, nei punti 167-176 della sentenza impugnata, il
+terzo motivo, vertente sulla violazione del diritto ad un accesso quantomeno
+parziale ai documenti controversi.  
+  
+---|---  
+  
+57
+
+|
+
+Secondo il Tribunale, un esame concreto e specifico si impone parimenti
+nell’applicazione dell’articolo 4, paragrafo 6, del regolamento n. 1049/2001.
+L’istituzione interessata può esimersi dall’effettuare tale esame solo dopo
+aver effettivamente vagliato tutte le alternative disponibili ed avere
+spiegato in modo circostanziato le ragioni per le quali tali alternative
+implicano, a loro volta, un carico di lavoro irragionevole. Poiché la
+Commissione non ha proceduto in tal modo, il Tribunale ha considerato che la
+decisione controversa dovesse essere parimenti annullata per tale motivo.  
+  
+---|---  
+  
+58
+
+|
+
+Infine, sul quarto motivo, vertente sulla violazione del principio di
+proporzionalità, il Tribunale, nei punti 189-196 della sentenza impugnata, ha
+esaminato se esistesse un interesse pubblico prevalente tale da giustificare
+la divulgazione del parere del servizio giuridico della Commissione di cui
+trattasi, secondo le prescrizioni dell’articolo 4, paragrafo 2, ultima frase,
+del regolamento n. 1049/2001.  
+  
+---|---  
+  
+59
+
+|
+
+Dopo aver esaminato i diversi argomenti della Odile Jacob relativi alla difesa
+dei suoi interessi nell’ambito di un ricorso giurisdizionale, al mantenimento
+di una concorrenza non falsata sui mercati editoriali in Francia e al rischio
+di elusione delle norme relative al controllo delle concentrazioni tra
+imprese, il Tribunale ha respinto la totalità di tali argomenti considerando
+che non esistesse alcun interesse pubblico prevalente a giustificare la
+divulgazione del parere giuridico di cui trattasi.  
+  
+---|---  
+  
+60
+
+|
+
+Sulla base di tutto quanto precede il Tribunale, come emerge dal punto 197
+della sentenza impugnata, ha annullato la decisione controversa, in quanto
+quest’ultima ha negato l’accesso, integrale e parziale, all’insieme dei
+documenti richiesti, ad eccezione del parere giuridico di cui al punto 1,
+lettera g), di tale sentenza.  
+  
+---|---  
+  
+Procedimento dinanzi alla Corte
+
+61
+
+|
+
+Con atto depositato il 10 agosto 2010 presso la cancelleria della Corte, la
+Commissione proponeva domanda di provvedimenti urgenti, diretta ad ottenere la
+sospensione dell’esecuzione della sentenza impugnata fino alla pronuncia della
+Corte sull’impugnazione.  
+  
+---|---  
+  
+62
+
+|
+
+Considerando che la Commissione non aveva dimostrato l’esistenza di un danno
+grave e irreparabile e che, di conseguenza, la domanda di sospensione
+dell’esecuzione della sentenza impugnata non soddisfaceva il requisito
+dell’urgenza, il presidente della Corte, con ordinanza del 31 gennaio 2011, ha
+respinto tale domanda di provvedimenti urgenti.  
+  
+---|---  
+  
+63
+
+|
+
+Con ordinanza del presidente della Corte del 2 febbraio 2011, il Regno di
+Danimarca e il Regno dei Svezia sono stati ammessi ad intervenire a sostegno
+delle conclusioni della Odile Jacob e la Repubblica ceca è stata ammessa a
+intervenire a sostegno delle conclusioni della Commissione.  
+  
+---|---  
+  
+64
+
+|
+
+Con ordinanza del presidente della Corte del 29 giugno 2011, la Repubblica
+francese è stata ammessa ad intervenire a sostegno delle conclusioni della
+Commissione e a presentare le sue osservazioni nel corso della fase orale del
+procedimento.  
+  
+---|---  
+  
+Conclusioni delle parti
+
+65
+
+|
+
+Con la sua impugnazione, la Commissione chiede che la Corte voglia:
+
+|
+
+—
+
+|
+
+annullare la sentenza impugnata, nella parte in cui quest’ultima annulla
+parzialmente la decisione controversa;  
+  
+---|---  
+  
+—
+
+|
+
+respingere il ricorso di annullamento proposto dinanzi al Tribunale dalla
+Odile Jacob e statuire in via definitiva sulle questioni che sono oggetto
+della presente impugnazione, e  
+  
+---|---  
+  
+—
+
+|
+
+condannare la Odile Jacob alle spese sostenute dalla Commissione sia in primo
+grado che in occasione della presente impugnazione.  
+  
+---|---  
+  
+66
+
+|
+
+La Odile Jacob chiede, nella sua comparsa di risposta e impugnazione
+incidentale, che la Corte voglia:
+
+|
+
+—
+
+|
+
+respingere l’impugnazione della Commissione in quanto parzialmente
+irricevibile e, in ogni caso, infondata, e  
+  
+---|---  
+  
+—
+
+|
+
+annullare la sentenza impugnata nella parte in cui quest’ultima ha respinto la
+sua domanda volta all’annullamento della decisione controversa in quanto nega
+l’accesso integrale al parere del servizio giuridico della Commissione di cui
+al punto 1, lettera g), della citata sentenza.  
+  
+---|---  
+  
+67
+
+|
+
+La Repubblica ceca e la Repubblica francese sostengono le conclusioni della
+Commissione. Il Regno di Danimarca e il Regno di Svezia sostengono le
+conclusioni della Odile Jacob.  
+  
+---|---  
+  
+68
+
+|
+
+La Lagardère chiede che la Corte voglia:
+
+|
+
+—
+
+|
+
+annullare la sentenza impugnata, nella parte in cui quest’ultima annulla
+parzialmente la decisione controversa;  
+  
+---|---  
+  
+—
+
+|
+
+respingere il ricorso incidentale e il ricorso della Odile Jacob proposto
+dinanzi al Tribunale, e  
+  
+---|---  
+  
+—
+
+|
+
+condannare la Odile Jacob alla totalità delle spese relative ai due gradi di
+giudizio.  
+  
+---|---  
+  
+Sull’impugnazione
+
+69
+
+|
+
+Nella sua impugnazione, la Commissione solleva due motivi, il primo dei quali
+attiene ad un errore di interpretazione del regolamento n. 1049/2001, in
+quanto il Tribunale ha omesso di prendere in considerazione, ai fini
+dell’interpretazione delle eccezioni previste dall’articolo 4 di tale
+regolamento, le disposizioni del regolamento n. 4064/89.  
+  
+---|---  
+  
+70
+
+|
+
+Il secondo motivo, che si articola in cinque parti, attiene ad
+un’interpretazione erronea dell’articolo 4, paragrafi 2 e 3, del regolamento
+n. 1049/2001. La prima parte fa riferimento all’obbligo di procedere ad un
+esame concreto e specifico di ciascun documento oggetto di una domanda di
+accesso. La seconda parte riguarda un’errata interpretazione dell’articolo 4,
+paragrafo 2, terzo trattino, di tale regolamento, attinente all’eccezione
+relativa alla tutela degli obiettivi delle attività di indagine. La terza
+parte attiene ad un’errata interpretazione dell’articolo 4, paragrafo 2, primo
+trattino, del citato regolamento, riguardante l’eccezione relativa alla tutela
+degli interessi commerciali. La quarta parte si riferisce ad
+un’interpretazione errata dell’articolo 4, paragrafo 3, secondo comma, del
+medesimo regolamento, riguardante l’eccezione legata alla tutela del processo
+decisionale. La quinta parte si fonda su un’interpretazione erronea
+dell’articolo 4, paragrafo 6, del regolamento n. 1049/2001, relativo al
+diritto di accesso parziale.  
+  
+---|---  
+  
+71
+
+|
+
+All’inizio del suo ricorso, la Commissione, facendo riferimento alla decisione
+controversa, rammenta le eccezioni che coprono i documenti controversi e che
+hanno giustificato il rigetto della domanda di accesso. Queste ultime sono
+previste dalle seguenti disposizioni:
+
+|
+
+—
+
+|
+
+l’articolo 4, paragrafo 2, terzo trattino, del regolamento n. 1049/2001,
+relativo alla tutela degli obiettivi delle attività di indagine, che si
+applica alla totalità dei documenti controversi;  
+  
+---|---  
+  
+—
+
+|
+
+l’articolo 4, paragrafo 2, primo trattino, di tale regolamento, relativo alla
+tutela degli interessi commerciali, il quale si applica ai documenti previsti
+nei punti 1, lettere d), e) e h), e 2, lettere b), c), in parte, d), f), g) e
+i), della sentenza impugnata;  
+  
+---|---  
+  
+—
+
+|
+
+l’articolo 4, paragrafo 3, secondo comma, del citato regolamento, relativo
+alla tutela del processo decisionale dell’istituzione, il quale si applica a
+due delle tre note interne della Commissione previste nel punto 1, lettera g),
+della sentenza impugnata;  
+  
+---|---  
+  
+—
+
+|
+
+l’articolo 4, paragrafo 2, secondo trattino, del medesimo regolamento,
+relativo alla tutela delle consulenze legali, il quale si applica al parere
+del servizio giuridico della Commissione di cui al punto 1, lettera g), della
+sentenza impugnata.  
+  
+---|---  
+  
+Argomenti delle parti
+
+Sull’errata interpretazione del regolamento n. 1049/2001 attinente alla
+mancata presa in considerazione delle disposizioni del regolamento n. 4064/89
+
+72
+
+|
+
+Secondo la Commissione, il Tribunale non ha proceduto ad un’interpretazione e
+ad un’applicazione coerenti del regolamento n. 1049/2001, il che conduce a una
+contraddizione con le disposizioni relative alla procedura di controllo delle
+operazioni di concentrazione tra imprese e contrasta con la volontà del
+legislatore dell’Unione. Tale regolamento costituirebbe una norma generale che
+si applica a tutti i documenti in possesso delle istituzioni. Così, le
+eccezioni al diritto d’accesso ai documenti delle istituzioni sarebbero state
+formulate in termini ampi al fine di proteggere gli interessi pubblici o
+privati e di essere applicate nelle situazioni più disparate che possono
+presentarsi nella realtà. Tali eccezioni dovrebbero dunque essere interpretate
+in modo tale da proteggere gli interessi legittimi pubblici o privati in ogni
+ambito di attività delle istituzioni e, più particolarmente, qualora tali
+interessi beneficino di una tutela esplicita in forza di altre disposizioni
+del diritto dell’Unione, quali il regolamento n. 4064/89.  
+  
+---|---  
+  
+73
+
+|
+
+La Corte avrebbe già avuto occasione di interpretare il regolamento n.
+1049/2001, articolandolo con altri atti giuridici applicabili, nella sentenza
+del 29 giugno 2010, Commissione/Technische Glaswerke Ilmenau (C-139/07 P,
+Racc. pag. I-5885), e Commissione/Bavarian Lager (C-28/08 P, Racc. pag.
+I-6055). Orbene, la sentenza impugnata avrebbe creato una contraddizione
+nell’applicazione di tali norme a titoli diversi.  
+  
+---|---  
+  
+74
+
+|
+
+L’equilibrio del regolamento n. 4064/89 sarebbe stato quindi rimesso in
+discussione da parte del Tribunale. L’obbligo di fornire precisioni e
+informazioni imposto alle imprese nonché gli ampi poteri di indagine della
+Commissione sarebbero compensati dalle disposizioni di tutela rafforzata
+previste dal citato regolamento e dal regolamento n. 802/2004, che lo attua.
+Le garanzie di tutela avrebbero lo scopo di consentire, da un lato, il buon
+funzionamento del sistema di controllo delle concentrazioni tra imprese
+nell’interesse pubblico e, dall’altro, di garantire gli interessi legittimi
+delle imprese coinvolte a che le informazioni da esse trasmesse alla
+Commissione siano utilizzate ai soli fini dell’indagine e a che le
+informazioni riservate non siano divulgate, preservandole allo stesso tempo
+dall’ingerenza dell’autorità pubblica nella loro attività privata.  
+  
+---|---  
+  
+75
+
+|
+
+Secondo la Commissione, l’obbligo del segreto d’ufficio, contenuto
+nell’articolo 339 TFUE e ripreso nell’articolo 17 del regolamento n. 4064/89,
+ha la finalità di non pregiudicare i segreti e gli altri interessi commerciali
+delle imprese, ma anche di garantire loro i diritti della difesa. Tale
+interpretazione sarebbe fondata sulle sentenze del 16 luglio 1992, Asociación
+Española de Banca Privada e a. (C-67/91, Racc. pag. I-4785); del 15 ottobre
+2002, Limburgse Vinyl Maatschappij e a./Commissione (C-238/99 P, C-244/99 P,
+C-245/99 P, C-247/99 P, da C-250/99 P a C-252/99 P e C-254/99 P, Racc. pag.
+I-8375), nonché del 14 febbraio 2008, Varec (C-450/06, Racc. pag. I-581).  
+  
+---|---  
+  
+76
+
+|
+
+La Commissione evidenzia che le informazioni fornitele dalle imprese parti a
+un’operazione di concentrazione fanno parte delle loro attività private e sono
+in quanto tali soggette al rispetto delle disposizioni dell’articolo 8 della
+Convenzione europea per la salvaguardia dei dritti dell’umo e delle lbertà
+fondamentali, firmata a Roma il 4 novembre 1950. Il diritto di accesso ai
+documenti del fascicolo in materia di concentrazione tra imprese sarebbe
+riconosciuto unicamente alle parti direttamente interessate dal procedimento,
+ad eccezione dei documenti coperti dal segreto commerciale e, se del caso, ad
+altre persone fisiche o giuridiche che dimostrino di avervi sufficiente
+interesse, conformemente all’articolo 18, paragrafo 3, del regolamento n.
+4064/89. Qualsiasi altro richiedente che non dimostri un siffatto interesse
+otterrebbe il diniego di accesso ai documenti del fascicolo, su tale unica
+base e senza altra motivazione.  
+  
+---|---  
+  
+77
+
+|
+
+Quindi, nella sentenza impugnata, il Tribunale avrebbe deliberatamente omesso
+di tener conto del regime previsto dai regolamenti n. 4064/89 e n. 802/2004.  
+  
+---|---  
+  
+78
+
+|
+
+Conferendo al regolamento n. 1049/2001 il primato su ogni altra norma
+giuridica, non solo sul regolamento n. 4064/89, bensì anche sulla Carta dei
+diritti fondamentali dell’Unione europea nonché sulla Convenzione europea per
+la salvaguardia dei dritti dell’uomo e delle libertà fondamentali, il
+Tribunale avrebbe violato il diritto dell’Unione.  
+  
+---|---  
+  
+79
+
+|
+
+La Lagardère considera che il Tribunale abbia respinto a torto, nei punti
+33-38 della sentenza impugnata, l’argomento attinente all’applicazione
+esclusiva delle norme relative all’accesso al fascicolo previste nell’ambito
+del controllo delle operazioni di concentrazione.  
+  
+---|---  
+  
+80
+
+|
+
+A sostegno dell’impugnazione, la Repubblica ceca evidenzia che il principio
+dell’accesso ai documenti delle istituzioni non è un principio assoluto e che
+è soggetto a taluni limiti, come il rispetto del segreto d’ufficio o del
+segreto commerciale delle parti al procedimento. Di conseguenza, sarebbe
+necessario che l’accesso ai documenti che contengono informazioni sia
+riservato ai richiedenti interessati «in misura determinata» e che hanno
+dimostrato di possedere un interesse sufficiente ai sensi del regolamento n.
+4064/89. La Repubblica ceca fa valere che, in materia di operazioni di
+concentrazione tra imprese, il fatto di consentire l’accesso a taluni
+documenti potrebbe avvantaggiare considerevolmente i concorrenti dell’impresa,
+parti nel procedimento, sul mercato.  
+  
+---|---  
+  
+81
+
+|
+
+La Odile Jacob rileva che il motivo attinente all’applicazione delle
+disposizioni del regolamento n. 4064/89 è sollevato per la prima volta nella
+fase dell’impugnazione e deve, pertanto, essere considerato irricevibile. Tale
+società evidenzia che il comportamento della Commissione nella presente
+istanza è paradossale, in quanto tale istituzione aveva completamente ignorato
+l’applicabilità di tale regolamento quando ha deciso di produrre taluni
+documenti, in modo selettivo, dinanzi al Tribunale o quando ha trattato le
+domande di accesso ai documenti di cui trattasi.  
+  
+---|---  
+  
+82
+
+|
+
+In subordine, la Odile Jacob rileva che il primo motivo è, comunque,
+manifestamente infondato. La Commissione applicherebbe in modo errato il
+principio dell’unità dell’ordinamento giuridico dell’Unione a sostegno della
+sua argomentazione. I lavori preparatori relativi al regolamento n. 1049/2001
+contraddirebbero la valutazione della Commissione sull’articolazione tra
+quest’ultimo e i regolamenti specifici in materia di accesso ai documenti. I
+principi stabiliti dal citato regolamento verrebbero meno unicamente qualora
+norme specifiche prevedessero un accesso più ampio, e non viceversa. Il
+diritto della concorrenza non sarebbe un regime derogatorio volto a limitare
+le disposizioni del regolamento n. 1049/2001. I regolamenti relativi alle
+operazioni di concentrazione tra imprese e quelli relativi al diritto di
+accesso non sarebbero contraddittori e il Tribunale avrebbe correttamente
+stabilito un equilibrio tra di essi.  
+  
+---|---  
+  
+83
+
+|
+
+Secondo la Odile Jacob occorre distinguere, nell’accesso ai documenti
+riguardanti inchieste relative alle operazioni di concentrazione tra imprese,
+i rapporti tra la Commissione e le imprese interessate dall’indagine e i
+rapporti tra la Commissione e i terzi. In tali primi rapporti, il regolamento
+n. 4064/89 garantirebbe alle imprese oggetto di tali indagini la protezione
+dei loro diritti della difesa. Nei secondi rapporti, la Commissione sarebbe
+soggetta ad un obbligo di trasparenza in forza del regolamento n. 1049/2001.
+Tali due obblighi mirerebbero allo stesso scopo, quello di assicurare i limiti
+della legittimità all’azione della Commissione. Non sussisterebbe alcuna
+analogia, come intenderebbe applicare la Commissione, tra il caso di specie e
+la fattispecie che ha dato luogo alla sentenza Commissione/Bavarian Lager,
+citata supra.  
+  
+---|---  
+  
+84
+
+|
+
+Il Regno di Svezia sottolinea, a sostegno della Odile Jacob, che il fatto che
+una normativa speciale preveda altre regole di accesso ai documenti delle
+istituzioni non significa che tali regole debbano prevalere automaticamente su
+quelle del regolamento n. 1049/2001. Tenuto conto dell’insieme delle norme in
+materia di segreto, una siffatta interpretazione ridurrebbe considerevolmente
+l’importanza di tale regolamento e contrasterebbe con il principio della
+maggior trasparenza possibile delle attività delle istituzioni, contenuto
+negli articoli 1 TUE, 15 TFUE e 42 della Carta dei diritti fondamentali
+dell’Unione europea, e priverebbe il citato regolamento della sua ratio e dei
+suoi effetti.  
+  
+---|---  
+  
+85
+
+|
+
+Il Regno di Svezia rileva che le succitate sentenze Asociación Española de
+Banca Privada e a. nonché Limburgse Vinyl Maatschappij e a./Commissione
+precisano che la limitazione di utilizzo delle informazioni raccolte
+nell’ambito di un procedimento di controllo delle operazioni di concentrazione
+tra imprese, unitamente all’obbligo del segreto d’ufficio, mira a tutelare i
+diritti della difesa delle imprese. Tale limitazione impedirebbe alla
+Commissione di servirsi, in ogni altro contesto, delle informazioni utilizzate
+dalle imprese nell’ambito di un siffatto procedimento. Per contro, come
+sottolineerebbe il Tribunale, tale limitazione non avrebbe alcun altro scopo
+che quello di limitare il diritto della Commissione a servirsi essa stessa dei
+dati interessati dalla citata limitazione, e non riguarderebbe il diritto del
+pubblico di venire a conoscenza dei documenti. Non occorrerebbe tener conto
+dell’articolo 17, paragrafo 1, del regolamento n. 4064/89 nell’interpretazione
+delle eccezioni previste dal regolamento n. 1049/2001.  
+  
+---|---  
+  
+86
+
+|
+
+Inoltre, secondo il Regno di Svezia, l’articolo 17, paragrafo 2, del
+regolamento n. 4064/89, relativo all’obbligo di rispetto del segreto
+d’ufficio, e l’articolo 18, paragrafo 3, di tale regolamento, il quale tutela
+i diritti della difesa delle parti, non potrebbero nemmeno essere intesi nel
+senso che possono condurre ad accordare alle eccezioni previste dal
+regolamento n. 1049/2001 un’interpretazione più ampia di quella che emerge
+dalla formulazione dell’articolo 4 di tale ultimo regolamento.  
+  
+---|---  
+  
+Sull’errata interpretazione dell’articolo 4, paragrafi 2 e 3, del regolamento
+n. 1049/2001
+
+– Sulla prima parte del secondo motivo, attinente all’obbligo di esame
+concreto e specifico di ogni documento interessato
+
+87
+
+|
+
+Con la prima parte del secondo motivo, la Commissione contesta l’obbligo di
+procedere ad un esame concreto e specifico della totalità dei documenti
+controversi, stabilito nella sentenza impugnata.  
+  
+---|---  
+  
+88
+
+|
+
+Sostenuta dalla Lagardère, essa considera che la citata sentenza
+Commissione/Technische Glaswerke Ilmenau, la quale si applica in materia di
+aiuti di Stato, è trasponibile ad un procedimento di controllo delle
+operazioni di concentrazione tra imprese, in quanto tale sentenza stabilisce
+una presunzione generale secondo la quale la divulgazione dei documenti del
+fascicolo arrecherebbe pregiudizio, in linea di principio, alla tutela degli
+obiettivi dell’indagine.  
+  
+---|---  
+  
+89
+
+|
+
+Essa rileva che occorrerebbe ammettere l’esistenza di una presunzione generale
+secondo la quale l’accesso ai documenti che non sono accessibili ai terzi
+estranei alla procedura interessata arrecherebbe pregiudizio, in linea di
+principio, alla tutela degli obiettivi delle attività di indagine. Documenti
+di tal tipo sarebbero accessibili unicamente nel caso in cui non fossero
+coperti da tale presunzione o qualora sussista un interesse pubblico
+prevalente che ne giustifichi la divulgazione in forza dell’articolo 4,
+paragrafo 2, del regolamento n. 1049/2001.  
+  
+---|---  
+  
+90
+
+|
+
+La Odile Jacob, basandosi sul ragionamento del Tribunale, considera che la
+prima parte del secondo motivo sia infondata. Un esame concreto e specifico di
+ciascun documento costituirebbe una soluzione di principio che deve applicarsi
+a tutte le eccezioni previste dall’articolo 4 del regolamento n. 1049/2001,
+anche in materia di controllo delle operazioni di concentrazione tra imprese.
+Il fatto che la Commissione sia in possesso di informazioni strettamente
+riservate non esimerebbe in alcun modo quest’ultima dall’obbligo di procedere
+a tale esame concreto e specifico, anche solo al fine di determinare quali di
+tali documenti non contengono informazioni riservate e possono, se del caso,
+essere oggetto di accesso totale o parziale.  
+  
+---|---  
+  
+91
+
+|
+
+La Odile Jacob considera che il riferimento alla citata sentenza
+Commissione/Technische Glaswerke Ilmenau non è pertinente in una causa
+relativa a un’operazione di concentrazione tra imprese in quanto, in materia
+di aiuti di Stato, di cui si tratta in tale sentenza, gli interessati non
+godono di alcun diritto di accesso ai documenti del fascicolo amministrativo
+della Commissione, il che non avviene materia di controllo delle operazioni di
+concentrazione tra imprese in quanto gli articoli 17 e 18 del regolamento n.
+4064/89 autorizzano un siffatto accesso. Inoltre, nella causa che ha dato
+luogo alla citata sentenza Commissione/Technische Glaswerke Ilmenau, una parte
+dell’aiuto in questione sarebbe stato oggetto di esame da parte della
+Commissione, di modo che l’eccezione relativa alla tutela degli obiettivi
+delle attività di indagine avrebbe potuto ancora essere invocata.  
+  
+---|---  
+  
+– Sulla seconda parte del secondo motivo, attinente ad un’interpretazione
+errata dell’articolo 4, paragrafo 2, terzo trattino, del regolamento n.
+1049/2001 riguardante l’eccezione relativa alla tutela degli obiettivi delle
+attività di indagine
+
+92
+
+|
+
+La Commissione fa valere che l’indagine cui si riferiscono i documenti
+controversi non poteva essere considerata conclusa, dal momento che la
+validità delle decisioni di compatibilità e di autorizzazione era stata
+contestata e che, in caso di annullamento di tali decisioni, la Commissione
+doveva riaprire la sua indagine. Quindi, sarebbe contra legem la conclusione
+del Tribunale, al punto 77 della sentenza impugnata, secondo la quale i
+documenti controversi non rientravano più, all’atto dell’adozione della
+decisione controversa, nell’ambito di applicazione dell’eccezione relativa
+alla tutela degli obiettivi delle attività di indagine.  
+  
+---|---  
+  
+93
+
+|
+
+Emergerebbe dalla citata sentenza Commissione/Technische Glaswerke Ilmenau che
+la citata eccezione può continuare ad essere applicata e giustificare un
+diniego generale di accesso ai documenti, senza che sia necessario procedere
+ad un esame concreto dopo l’adozione della decisione della Commissione che
+pone fine a tale indagine. Infatti, la citata sentenza non distinguerebbe la
+fase di avanzamento di procedimenti tra inchieste in corso e inchieste
+concluse.  
+  
+---|---  
+  
+94
+
+|
+
+La Commissione considera che la sentenza impugnata, nella sua interpretazione
+dell’articolo 4, paragrafo 2, terzo trattino, del regolamento n. 1049/2001,
+disattende lo scopo di tale disposizione e conduce ad un paradosso in materia
+di controllo delle operazioni di concentrazione tra imprese. Mentre l’accesso
+al fascicolo sarebbe negato, a titolo delle norme sulla concorrenza, senza
+alcun esame dei documenti, ai terzi che non dimostrano di avere un «interesse
+sufficiente» nel procedimento, tale medesimo accesso potrebbe essere negato ad
+un membro del pubblico unicamente in base ad un esame concreto e dettagliato
+del contenuto dei documenti di cui trattasi unito ad una motivazione
+circostanziata, il che snaturerebbe completamente la struttura del
+procedimento in tale materia.  
+  
+---|---  
+  
+95
+
+|
+
+La Odile Jacob rileva che gli argomenti che sono sollevati nell’ambito della
+seconda parte del secondo motivo riprendono sostanzialmente gli argomenti già
+sviluppati dalla Commissione in primo grado e nell’ambito della prima parte
+del secondo motivo.  
+  
+---|---  
+  
+96
+
+|
+
+La Odile Jacob fa valere che i regolamenti n. 4064/89 e n. 1049/2001 non sono
+contraddittori per quanto riguarda l’accesso di terzi ai fascicoli. Tali due
+regolamenti prevedono che un «terzo» qualunque non possa né beneficiare di un
+diritto assoluto di accesso né ottenere un diniego assoluto.  
+  
+---|---  
+  
+– Sulla terza parte del secondo motivo, attinente ad un’interpretazione errata
+dell’articolo 4, paragrafo 2, primo trattino, del regolamento n. 1049/2001
+riguardante l’eccezione relativa alla tutela degli interessi commerciali
+
+97
+
+|
+
+La Commissione contesta l’interpretazione fornita dal Tribunale dell’articolo
+4, paragrafo 2, primo trattino, del regolamento n. 1049/2001 riguardante
+l’eccezione relativa alla tutela degli interessi commerciali. La Commissione
+fa valere che, per sua natura, un’operazione di concentrazione tra imprese
+richiede la trasmissione di un gran numero di informazioni, strettamente
+confidenziali, alle quali si applica l’obbligo del segreto d’ufficio previsto
+nell’articolo 339 TFUE e nell’articolo 17 del regolamento n. 4064/89. Di
+conseguenza, nel caso di specie, al fine di garantire la riservatezza dei
+documenti controversi e la limitazione del loro utilizzo a quanto previsto
+nell’articolo 16 del regolamento n. 1049/2001, sarebbe necessario poter negare
+l’accesso senza dover procedere all’esame concreto e dettagliato di questi
+ultimi. Non sarebbe neanche necessario consultare un terzo, poiché emergerebbe
+chiaramente dall’articolo 4, paragrafo 4, del regolamento n. 1049/2001 che i
+documenti controversi non potevano essere divulgati al pubblico. Peraltro, la
+parte che aveva fornito i citati documenti, cioè la Lagardère, si opporrebbe
+sempre alla loro divulgazione come lo prova la sua partecipazione nella
+presente istanza.  
+  
+---|---  
+  
+98
+
+|
+
+La Odile Jacob considera che le norme di accesso previste dal regolamento n.
+4064/89 non esimono in alcun modo la Commissione dal procedere ad un esame
+concreto e specifico di ciascun documento, compresi quelli riservati,
+nell’ambito di una domanda di accesso in forza del regolamento n. 1049/2001,
+al fine di gestire gli interessi in gioco e di garantire una tutela adeguata
+sia degli interessi commerciali delle imprese interessate sia il diritto di
+accesso ai documenti, quantomeno parziale, il quale può essere negato
+unicamente sulla base di una motivazione concreta e specifica. Inoltre, le
+nozioni di riservatezza, ai sensi del regolamento n. 4064/89, e di tutela
+degli interessi commerciali avrebbero significati equivalenti. Comunque, in
+caso di potenziale conflitto tra i regolamenti n. 4064/89 e n. 1049/2001, non
+si potrebbe sostenere che quest’ultimo debba sottostare, poiché impone che
+siano ad esso conformi le altre disposizioni in materia di accesso ai
+documenti delle istituzioni.  
+  
+---|---  
+  
+– Sulla quarta parte del secondo motivo, attinente ad un’interpretazione
+errata dell’articolo 4, paragrafo 3, secondo comma, del regolamento n.
+1049/2001 riguardante l’eccezione relativa alla tutela del processo
+decisionale dell’istituzione
+
+99
+
+|
+
+Secondo la Commissione, il Tribunale ha fornito un’interpretazione errata
+dell’articolo 4, paragrafo 3, secondo comma, del regolamento n. 1049/2001
+riguardante l’eccezione relativa alla tutela del processo decisionale
+dell’istituzione. La Commissione rileva, come per le altre eccezioni, che
+sussiste una presunzione di inaccessibilità dei documenti interni in materia
+di operazioni di concentrazione tra imprese, al fine di evitare il rischio di
+pregiudicare gravemente il processo decisionale della Commissione.  
+  
+---|---  
+  
+100
+
+|
+
+La Odile Jacob respinge tale nozione di «presunzione di inaccessibilità» dei
+documenti in materia di operazioni di concentrazione tra imprese. La
+Commissione avrebbe dovuto fornire motivazioni concrete e non considerazioni
+di ordine generale. I lavori preparatori che hanno condotto all’adozione del
+regolamento n. 1049/2001 avrebbero respinto il principio di un’inaccessibilità
+dell’insieme delle note interne delle istituzioni. Di conseguenza, non sarebbe
+accettabile che l’accesso ad ogni nota interna sia negato per il solo motivo
+che essa costituirebbe un parere ai sensi dell’articolo 4, paragrafo 3,
+secondo comma, di tale regolamento.  
+  
+---|---  
+  
+– Sulla quinta parte del secondo motivo, attinente ad un’interpretazione
+errata dell’articolo 4, paragrafo 6, del regolamento n. 1049/2001, relativo al
+diritto di accesso parziale
+
+101
+
+|
+
+La Commissione considera che l’accesso ai documenti controversi poteva essere
+validamente negato sulla base di presunzioni generali e che, quindi, non
+poteva esservi violazione del diritto ad un accesso parziale a tali documenti,
+ai sensi dell’articolo 4, paragrafo 6, del regolamento n. 1049/2001.  
+  
+---|---  
+  
+102
+
+|
+
+La Odile Jacob considera che la Commissione non poteva, in base ad una
+presunzione generale di inaccessibilità, esimersi dal suo dovere di
+comunicazione dei documenti controversi ed era tenuta, in particolare, ad
+esaminare la possibilità di un accesso parziale a questi ultimi, come previsto
+dall’articolo 4, paragrafo 6, di tale regolamento.  
+  
+---|---  
+  
+Giudizio della Corte
+
+103
+
+|
+
+Nei limiti in cui il primo e il secondo motivo coincidono in gran parte,
+occorre esaminarli congiuntamente.  
+  
+---|---  
+  
+104
+
+|
+
+In via preliminare, occorre rispondere all’argomento della Odile Jacob, la
+quale considera che la questione dell’articolazione tra il regolamento n.
+4064/89 e il regolamento n. 1049/2001 sarebbe irricevibile nella fase
+dell’impugnazione.  
+  
+---|---  
+  
+105
+
+|
+
+Tale argomento non è fondato. È pacifico che, nel suo controricorso dinanzi al
+Tribunale, la Commissione ha invocato l’eccezione relativa alla protezione
+degli obiettivi delle attività di indagine, prevista dall’articolo 4,
+paragrafo 2, terzo trattino, del regolamento n. 1049/2001, come motivazione
+del diniego di divulgazione dei documenti controversi. Nonostante il fatto
+che, in tale controricorso, la Commissione non abbia citato espressamente il
+regolamento n. 4064/89, è indubbio che le attività di indagine invocate dalla
+Commissione riguardavano un procedimento amministrativo di concentrazione tra
+imprese rientrante in tale regolamento. Ciò emerge dalla prima lettera del 27
+gennaio 2005 della Odile Jacob con cui quest’ultima chiedeva alla Commissione
+di avere accesso a taluni documenti riguardanti il procedimento amministrativo
+che ha condotto all’adozione della decisione di compatibilità. Il primo
+documento che il Tribunale ha identificato nel punto 1, lettera a), della
+sentenza impugnata quale documento richiesto è la decisione della Commissione
+del 5 giugno 2003 di avviare un’indagine approfondita sul fondamento
+dell’articolo 6, paragrafo 1, lettera c), del regolamento n. 4064/89.
+Peraltro, nella sua controreplica dinanzi al Tribunale, la Commissione
+menziona esplicitamente tale regolamento.  
+  
+---|---  
+  
+106
+
+|
+
+Così, occorre constatare che la questione dell’articolazione tra il
+regolamento n. 4064/89 e il regolamento n. 1049/2001 non modifica l’oggetto
+della controversia e deve essere esaminata dalla Corte.  
+  
+---|---  
+  
+107
+
+|
+
+Con i suoi due motivi, la Commissione fa valere, sostanzialmente, che il
+ragionamento del Tribunale è erroneo, a causa del fatto che le disposizioni
+pertinenti del regolamento n. 4064/89, relative all’accesso ai documenti di un
+procedimento di controllo di un’operazione di concentrazione tra imprese, non
+sono state prese in considerazione ai fini dell’interpretazione delle
+eccezioni al diritto di accesso previste dall’articolo 4, paragrafo 2, primo e
+terzo terzo trattino, del regolamento n. 1049/2001, riguardanti,
+rispettivamente, la tutela degli interessi commerciali e la tutela degli
+obiettivi delle attività di indagine.  
+  
+---|---  
+  
+108
+
+|
+
+Alla luce della giurisprudenza della Corte relativa alla relazione tra il
+regolamento n. 1049/2001 e talune normative specifiche del diritto
+dell’Unione, stabilita in particolare dalle succitate sentenze
+Commissione/Technische Glaswerke Ilmenau e Commissione/Bavarian Lager, nonché
+dalla sentenza del 21 settembre 2010, Svezia e a./API e Commissione (C-514/07
+P, C-528/07 P e C-532/07 P, Racc. pag. I-8533), tale censura si rivela
+fondata.  
+  
+---|---  
+  
+109
+
+|
+
+Infatti, la presente fattispecie riguarda i rapporti tra il regolamento n.
+1049/2001 e un’altra normativa, vale a dire il regolamento n. 4064/89, che
+disciplina un ambito specifico del diritto dell’Unione. Tali regolamenti
+perseguono obiettivi distinti. Il primo intende garantire la maggiore
+trasparenza possibile del processo decisionale delle pubbliche autorità,
+nonché delle informazioni sulle quali le loro decisioni si basano. Intende
+pertanto facilitare al massimo l’esercizio del diritto di accesso ai
+documenti, nonché promuovere una prassi amministrativa corretta. Il secondo è
+volto a garantire il rispetto del segreto d’ufficio delle procedure di
+controllo delle operazioni di concentrazione tra imprese di dimensione
+comunitaria.  
+  
+---|---  
+  
+110
+
+|
+
+Nella specie, tali due regolamenti non comportano disposizioni che prevedano
+espressamente la prevalenza dell’uno sull’altro. Pertanto, occorre garantire
+un’applicazione di ciascuno di tali regolamenti che sia compatibile con quella
+dell’altro e ne consenta quindi un’attuazione coerente.  
+  
+---|---  
+  
+111
+
+|
+
+Conformemente alla giurisprudenza della Corte, anche se il regolamento n.
+1049/2001 è volto a conferire al pubblico un diritto di accesso il più ampio
+possibile ai documenti delle istituzioni, tale diritto è tuttavia
+assoggettato, alla luce del regime derogatorio previsto dall’articolo 4 di
+tale regolamento, a determinati limiti per motivi di interesse pubblico o
+privato (v., in tal senso, sentenza Commissione/Technische Glaswerke Ilmenau,
+cit., punto 51).  
+  
+---|---  
+  
+112
+
+|
+
+Nella specie, la Commissione si è rifiutata di comunicare alla Odile Jacob i
+documenti controversi invocando, in primo luogo, per la totalità di tali
+documenti, l’eccezione prevista dall’articolo 4, paragrafo 2, terzo trattino,
+del regolamento n. 1049/2001 e, in secondo luogo, per alcuni di tali
+documenti, eccezioni attinenti, rispettivamente, alla tutela degli interessi
+commerciali, alla tutela del processo decisionale dell’istituzione e alla
+tutela delle consulenze legali, previste rispettivamente dall’articolo 4,
+paragrafo 2, primo trattino, paragrafo 3, secondo comma, e paragrafo 2,
+secondo trattino, di tale regolamento.  
+  
+---|---  
+  
+113
+
+|
+
+A tale proposito occorre rilevare che un’istituzione dell’Unione, al fine di
+valutare una domanda di accesso a taluni documenti in suo possesso, può
+prendere in considerazione diversi motivi di diniego previsti dall’articolo 4
+del regolamento n. 1049/2001.  
+  
+---|---  
+  
+114
+
+|
+
+Nel caso di specie, la Commissione poteva, di conseguenza, fondarsi
+legittimamente su diversi motivi cumulativamente, al fine di negare l’accesso
+ai documenti controversi. I motivi di diniego si basano per tutti tali
+documenti, principalmente, sull’eccezione relativa alla tutela degli obiettivi
+delle attività di indagine, e inoltre in via sussidiaria e specifica sulle
+altre eccezioni, come descritte al punto 112 della presente sentenza.  
+  
+---|---  
+  
+115
+
+|
+
+In primo luogo, per quanto riguarda i documenti scambiati tra la Commissione e
+le parti notificanti o i terzi, è costante che i documenti di cui trattasi
+rientrano effettivamente in un’attività di indagine ai sensi dell’articolo 4,
+paragrafo 2, terzo trattino, del regolamento n. 1049/2001. Inoltre, in
+considerazione dell’obiettivo di un procedimento di controllo di una
+concentrazione tra imprese, la quale consiste nel verificare se un’operazione
+conferisca o meno alle parti notificanti un potere di mercato che possa
+incidere in misura significativa sulla concorrenza, la Commissione raccoglie
+nell’ambito di un siffatto procedimento informazioni commerciali sensibili,
+relative alle strategie commerciali delle imprese implicate, agli importi
+delle loro vendite, alle loro parti di mercato o ai loro rapporti commerciali,
+di modo che l’accesso ai documenti di un siffatto procedimento di controllo
+può arrecare pregiudizio alla tutela degli interessi commerciali delle citate
+imprese. Pertanto, le eccezioni relative alla tutela degli interessi
+commerciali e a quella degli obiettivi delle attività di indagine sono, nel
+caso di specie, strettamente connesse.  
+  
+---|---  
+  
+116
+
+|
+
+È vero che, per poter giustificare il rifiuto di accesso a un documento, non
+basta, in linea di principio, che tale documento rientri in un’attività o in
+un interesse fra quelli menzionati all’articolo 4, paragrafo 2, del
+regolamento n. 1049/2001, poiché l’istituzione interessata deve anche spiegare
+come l’accesso a tale documento possa arrecare concretamente ed effettivamente
+pregiudizio all’interesse tutelato da un’eccezione prevista in tale articolo.
+Tuttavia, tale istituzione può basarsi al riguardo su presunzioni di carattere
+generale che si applicano a determinate categorie di documenti, in quanto a
+domande di divulgazione riguardanti documenti della stessa natura possono
+applicarsi considerazioni di ordine generale analoghe (v. sentenza
+Commissione/Technische Glaswerke Ilmenau, cit., punti 53 e 54 nonché
+giurisprudenza citata).  
+  
+---|---  
+  
+117
+
+|
+
+Per quanto riguarda le procedure di controllo degli aiuti di Stato, la Corte
+ha considerato che siffatte presunzioni generali possono derivare dal
+regolamento (CE) n. 659/1999 del Consiglio, del 22 marzo 1999, recante
+modalità di applicazione dell’articolo [88] del Trattato CE (GU L 83, pag. 1),
+che disciplina specificamente la materia degli aiuti di Stato e che contiene
+disposizioni riguardanti l’accesso a talune informazioni e a documenti
+ottenuti nell’ambito della procedura di indagine e di controllo di un aiuto
+(v., in tal senso, sentenza Commissione/Technische Glaswerke Ilmenau, cit.,
+punti 55-57).  
+  
+---|---  
+  
+118
+
+|
+
+Siffatte presunzioni generali sono applicabili in materia di procedura di
+controllo delle operazioni di concentrazione tra imprese, in quanto la
+normativa che disciplina tale procedura prevede anche regole rigorose sul
+trattamento delle informazioni ottenute o elaborate nell’ambito di una
+siffatta procedura.  
+  
+---|---  
+  
+119
+
+|
+
+Infatti, gli articoli 17 e 18, paragrafo 3, del regolamento n. 4064/89, nonché
+l’articolo 17 del regolamento n. 447/98, che disciplinano in modo restrittivo
+l’uso delle informazioni nell’ambito della procedura di controllo delle
+operazioni di concentrazione tra imprese, limitando l’accesso al fascicolo
+alle «parti direttamente interessate» e «alle altre parti interessate», fatto
+salvo l’interesse legittimo delle imprese coinvolte a che i loro segreti
+commerciali non siano divulgati, ed esigendo che le informazioni raccolte
+siano utilizzate unicamente per lo scopo perseguito dalla domanda di
+informazioni, dal controllo o dalla revisione contabile, e che le informazioni
+che, per loro natura, sono coperte dal segreto d’ufficio non siano divulgate.
+Tali disposizioni sono state riprese, sostanzialmente, negli articoli 17 e 18,
+paragrafo 3, del regolamento n. 139/2004, nonché nell’articolo 17 del
+regolamento n. 802/2004.  
+  
+---|---  
+  
+120
+
+|
+
+Vero è che il diritto di consultare il fascicolo amministrativo nell’ambito di
+un procedimento di controllo di un’operazione di concentrazione tra imprese e
+il diritto di accesso ai documenti, ai sensi del regolamento n. 1049/2001,
+sono giuridicamente distinti, ma ciò non toglie che essi portano ad una
+situazione paragonabile da un punto di vista funzionale. Infatti,
+indipendentemente dal fondamento giuridico in base al quale è accordato,
+l’accesso al fascicolo consente agli interessati di ottenere le osservazioni e
+tutti i documenti presentati alla Commissione (v., in tal senso, sentenza
+Commissione/Technische Glaswerke Ilmenau, cit., punto 59).  
+  
+---|---  
+  
+121
+
+|
+
+Pertanto, un accesso generalizzato, sulla base del regolamento n. 1049/2001,
+ai documenti scambiati, nell’ambito di un siffatto procedimento, tra la
+Commissione e le parti notificanti o i terzi sarebbe, come sottolineato dalla
+Commissione, tale da mettere a repentaglio l’equilibrio che il legislatore
+dell’Unione ha voluto garantire, nel regolamento sulle concentrazioni, tra, da
+un lato, l’obbligo per le imprese interessate di comunicare alla Commissione
+informazioni commerciali eventualmente sensibili, al fine di consentire a
+quest’ultima di valutare la compatibilità dell’operazione di concentrazione
+progettata con il mercato comune e, dall’altro, la garanzia di tutela
+rafforzata legata, a titolo del segreto d’ufficio e del segreto commerciale,
+alle informazioni così trasmesse alla Commissione.  
+  
+---|---  
+  
+122
+
+|
+
+Se persone diverse da quelle legittimate ad accedere al fascicolo dalla
+normativa sul procedimento di controllo delle operazioni di concentrazione tra
+imprese o coloro che potevano essere considerati interessati, ma che non hanno
+esercitato il loro diritto d’accesso alle informazioni o che hanno ottenuto un
+diniego, fossero in misura di ottenere l’accesso ai documenti relativi a un
+siffatto procedimento sul fondamento del regolamento n. 1049/2001, il regime
+istituito da tale normativa sarebbe rimesso in discussione.  
+  
+---|---  
+  
+123
+
+|
+
+Di conseguenza, ai fini dell’interpretazione delle eccezioni previste
+dall’articolo 4, paragrafo 2, primo e terzo trattino, del regolamento n.
+1049/2001, il Tribunale avrebbe dovuto riconoscere l’esistenza di una
+presunzione generale secondo la quale la divulgazione dei documenti scambiati
+tra la Commissione e le imprese durante un procedimento di controllo delle
+operazioni di concentrazione tra imprese arrecherebbe, in linea di principio,
+pregiudizio sia alla tutela degli obiettivi delle attività di indagine sia a
+quella degli interessi commerciali delle imprese coinvolte in un siffatto
+procedimento (v., in tal senso, sentenza Commissione/Technische Glaswerke
+Ilmenau, cit., punto 61).  
+  
+---|---  
+  
+124
+
+|
+
+Tenuto conto della natura degli interessi tutelati nell’ambito del controllo
+di un’operazione di concentrazione, è giocoforza considerare che la
+conclusione tratta nel precedente punto si impone indipendentemente dalla
+questione di sapere se la domanda di accesso riguardi un procedimento di
+controllo già concluso o un procedimento pendente. Infatti, la pubblicazione
+delle informazioni sensibili riguardanti le attività economiche delle imprese
+coinvolte può pregiudicare i loro interessi commerciali, indipendentemente
+dall’esistenza di un procedimento di controllo pendente. Inoltre, la
+prospettiva di una siffatta pubblicazione una volta concluso il procedimento
+di controllo rischierebbe di nuocere alla disponibilità delle imprese a
+collaborare quando un siffatto procedimento è pendente.  
+  
+---|---  
+  
+125
+
+|
+
+Occorre peraltro sottolineare che, ai sensi dell’articolo 4, paragrafo 7, del
+regolamento n. 1049/2001, le eccezioni riguardanti gli interessi commerciali o
+i documenti sensibili possono essere applicate per un periodo di trent’anni, o
+anche per un periodo maggiore se necessario.  
+  
+---|---  
+  
+126
+
+|
+
+La succitata presunzione generale non esclude la possibilità di dimostrare che
+un dato documento di cui viene chiesta la divulgazione non rientra nella detta
+presunzione o che sussiste un interesse pubblico prevalente atto a
+giustificare la divulgazione del documento in questione ai sensi dell’articolo
+4, paragrafo 2, del regolamento n. 1049/2001 (sentenza Commissione/Technische
+Glaswerke Ilmenau, cit., punto 62).  
+  
+---|---  
+  
+127
+
+|
+
+In secondo luogo, per quanto riguarda l’eccezione prevista dall’articolo 4,
+paragrafo 3, secondo comma, del regolamento n. 1049/2001, occorre rilevare che
+la citata eccezione è stata sollevata, dalla Commissione, per negare l’accesso
+ad una nota della DG «Concorrenza» al servizio giuridico della Commissione
+nella quale si chiedeva un parere sull’applicazione dell’articolo 3, paragrafo
+5, lettera a), del regolamento n. 4064/89, nonché una nota indirizzata al
+membro della Commissione incaricato della concorrenza che riassumeva lo stato
+degli atti, come indicati al punto 1, lettera g), della sentenza impugnata.  
+  
+---|---  
+  
+128
+
+|
+
+A tale proposito occorre sottolineare che, analogamente alla situazione
+verificatasi nella causa che ha dato luogo alla citata sentenza
+Commissione/Technische Glaswerke Ilmenau (v., in particolare, punti 14 e 22 di
+tale sentenza), un procedimento giudiziario dinanzi al Tribunale era pendente,
+nella presente causa, quando la domanda di accesso ai documenti controversi è
+stata presentata. È infatti pacifico che tali documenti sono stati richiesti
+dalla Odile Jacob al fine di essere utilizzati a sostegno del suo ricorso
+nella causa T-279/04, pendente dinanzi al Tribunale al momento della domanda
+di accesso.  
+  
+---|---  
+  
+129
+
+|
+
+si distingue da quella all’origine della sentenza del 21 luglio 2011,
+Svezia/My Travel e Commissione (C-506/08 P, Racc. pag. I-13489), nella quale,
+al momento della domanda di accesso a taluni documenti interni elaborati
+nell’ambito di un procedimento amministrativo di controllo di un’operazione di
+concentrazione tra imprese, la decisione della Commissione relativa
+all’operazione di cui trattasi era stata annullata da una sentenza del
+Tribunale passata in giudicato in assenza di impugnazione diretta avverso tale
+sentenza e nella quale la Commissione non aveva, a seguito di tale sentenza
+d’annullamento, ripreso le sue attività ai fini dell’adozione eventuale di una
+nuova decisione relativa alla citata operazione. Essa si distingue parimenti
+dalla situazione che ha dato origine alla sentenza pronunciata in tale
+medesima data nella causa Commissione/Agrofert Holding, nella quale la domanda
+di accesso a taluni documenti interni era stata presentata mentre la decisione
+della Commissione, che aveva concluso il procedimento di controllo
+dell’operazione di concentrazione relativo ai citati documenti, era diventata
+definitiva in assenza di ricorso giurisdizionale proposto avverso tale
+decisione.  
+  
+---|---  
+  
+130
+
+|
+
+In una situazione come quella della presente fattispecie, in cui l’istituzione
+interessata potrebbe, in funzione dell’esito del procedimento giurisdizionale,
+essere indotta a riprendere le sue attività ai fini dell’adozione eventuale di
+una nuova decisione relativa all’operazione di concentrazione di cui trattasi,
+occorre ammettere l’esistenza di una presunzione generale secondo la quale
+l’obbligo che si imporrebbe alla citata istituzione di divulgare, durante tale
+procedimento, talune note interne come quelle previste nel punto 127 della
+presente sentenza pregiudicherebbe gravemente il processo decisionale di tale
+istituzione.  
+  
+---|---  
+  
+131
+
+|
+
+Una siffatta valutazione vale anche per il parere giuridico menzionato nel
+punto 1, lettera g), della sentenza impugnata, oltre alle considerazioni
+adeguatamente esposte dal Tribunale nel punto 160 della sentenza impugnata.  
+  
+---|---  
+  
+132
+
+|
+
+Occorre ancora sottolineare che, nei punti 84 e 85 della citata sentenza
+Svezia e a./API e Commissione, la Corte ha stabilito che le limitazioni
+all’applicazione del principio di trasparenza per quanto concerne l’attività
+giurisdizionale perseguono la finalità di garantire che il diritto di accesso
+ai documenti delle istituzioni sia esercitato senza arrecare pregiudizio alla
+tutela delle procedure giurisdizionali. Secondo la Corte, la tutela di tali
+procedure implica che sia garantita l’osservanza dei principi della parità
+delle armi nonché della buona amministrazione della giustizia. La Corte ha
+aggiunto, al punto 87 di tale sentenza, che l’accesso di una parte ai
+documenti potrebbe falsare l’equilibrio indispensabile tra le parti
+processuali – equilibrio che si pone alla base del principio della parità
+delle armi – in quanto solo l’istituzione interessata da una domanda d’accesso
+ai propri documenti, e non invece tutte le parti del procedimento, sarebbe
+soggetta all’obbligo di divulgazione.  
+  
+---|---  
+  
+133
+
+|
+
+In terzo luogo, sull’argomento relativo ad un’interpretazione errata
+dell’articolo 4, paragrafo 6, del regolamento n. 1049/2001, riguardante il
+diritto di accesso parziale, occorre rilevare che le presunzioni generali
+previste, rispettivamente, nel punto 123 nonché nei punti 130 e 131 della
+presente sentenza significano che i documenti coperti da queste ultime
+sfuggono all’obbligo di una divulgazione, integrale o parziale, del loro
+contenuto.  
+  
+---|---  
+  
+134
+
+|
+
+Analoga considerazione vale, in particolare, per il diniego di accesso
+parziale al parere giuridico menzionato nel punto 1, lettera g), della
+sentenza impugnata, diniego che è più specificatamente previsto, nel punto 197
+della citata sentenza, tra i motivi di annullamento della decisione
+controversa.  
+  
+---|---  
+  
+135
+
+|
+
+Di conseguenza, occorre accogliere l’insieme dei motivi e delle loro parti
+invocati dalla Commissione a sostegno della sua impugnazione.  
+  
+---|---  
+  
+136
+
+|
+
+Emerge da tutto quanto suesposto che occorre annullare la sentenza impugnata
+nei limiti in cui quest’ultima ha annullato la decisione controversa.  
+  
+---|---  
+  
+Sull’impugnazione incidentale
+
+137
+
+|
+
+Con la sua impugnazione incidentale, la Odile Jacob chiede l’annullamento
+della sentenza impugnata nella parte in cui quest’ultima ha respinto la sua
+domanda volta all’annullamento della decisione controversa in quanto recante
+diniego di accesso integrale al parere del servizio giuridico della
+Commissione di cui al punto 1, lettera g), della sentenza impugnata.  
+  
+---|---  
+  
+138
+
+|
+
+Alla luce delle considerazioni suesposte, in particolare, nei punti 128-134
+della presente sentenza, tale impugnazione deve essere respinta in quanto
+infondata.  
+  
+---|---  
+  
+Sul ricorso dinanzi al Tribunale
+
+139
+
+|
+
+Conformemente all’articolo 61, primo comma, seconda frase, dello Statuto della
+Corte di giustizia dell’Unione europea, quest’ultima, in caso di annullamento
+della sentenza impugnata, può statuire definitivamente sulla controversia
+qualora lo stato degli atti lo consenta. Occorre rilevare che tale ipotesi
+ricorre nel caso di specie.  
+  
+---|---  
+  
+140
+
+|
+
+A sostegno del suo ricorso la Odile Jacob aveva sollevato quattro motivi
+attinenti rispettivamente all’assenza di un esame concreto e specifico dei
+documenti controversi, all’errore manifesto di valutazione della Commissione
+nell’applicazione delle eccezioni previste dall’articolo 4, paragrafi 2 e 3,
+del regolamento n. 1049/2001, alla violazione del diritto ad un accesso
+quantomeno parziale ai documenti controversi e alla violazione del principio
+di proporzionalità derivante dall’assenza di ponderazione tra le eccezioni
+invocate e l’interesse pubblico prevalente che giustifica la divulgazione dei
+citati documenti.  
+  
+---|---  
+  
+141
+
+|
+
+Orbene, per quanto riguarda il primo e secondo motivo, come emerge dai punti
+116-132 della presente sentenza, la Commissione poteva, nel caso di specie, in
+forza dell’articolo 4, paragrafo 2, primo e terzo trattino, del regolamento n.
+1049/2001, negare l’accesso a tutti i documenti controversi attinenti al
+procedimento di controllo delle concentrazioni di cui trattasi oggetto della
+domanda di accesso presentata dalla Odile Jacob sul fondamento di tale
+regolamento, e ciò senza procedere previamente ad un esame concreto e
+specifico di tali documenti.  
+  
+---|---  
+  
+142
+
+|
+
+In assenza di elementi contenuti nel ricorso, atti a confutare le presunzioni
+generali menzionate nei punti 123, 130 e 131 della presente sentenza, la Odile
+Jacob non può sostenere che la Commissione dovesse procedere ad un esame
+concreto e specifico dei documenti controversi e, pertanto, il primo e il
+secondo motivo devono essere respinti.  
+  
+---|---  
+  
+143
+
+|
+
+Consegue da quanto precede, nonché dai punti 133 e 134 della presente
+sentenza, che il terzo motivo, attinente alla violazione del diritto ad un
+accesso quantomeno parziale ai documenti controversi, diventa inoperante.  
+  
+---|---  
+  
+144
+
+|
+
+Per quanto riguarda il quarto motivo, relativo alla violazione del principio
+di proporzionalità risultante dall’assenza di ponderazione tra le eccezioni
+invocate e l’interesse pubblico prevalente che giustifica la divulgazione dei
+citati documenti controversi, occorre sottolineare che la Commissione ha
+ritenuto, nella decisione controversa, che l’interesse invocato dalla Odile
+Jacob fosse evidentemente privato e non pubblico.  
+  
+---|---  
+  
+145
+
+|
+
+A tale proposito occorre rilevare che, ai sensi dell’articolo 4, paragrafi 2,
+ultima frase, e 3, del regolamento n. 1049/2001, unicamente un interesse
+pubblico prevalente può primeggiare sulla necessità di tutelare gli interessi
+di cui ai paragrafi 2 e 3 di tale articolo.  
+  
+---|---  
+  
+146
+
+|
+
+Orbene, la Odile Jacob ha espressamente illustrato nel suo atto introduttivo
+del ricorso la circostanza secondo la quale i documenti controversi potrebbero
+consentirle di far valere meglio i suoi argomenti nell’ambito dei ricorsi di
+annullamento da essa proposti avverso le decisioni di compatibilità e di
+autorizzazione. Pertanto, la Odile Jacob non ha dimostrato l’esistenza di un
+interesse pubblico prevalente che giustifichi la divulgazione dei documenti
+controversi e occorre respingere tale motivo in quanto infondato.  
+  
+---|---  
+  
+147
+
+|
+
+Di conseguenza, il ricorso proposto dalla Odile Jacob dinanzi al Tribunale e
+diretto all’annullamento della decisione controversa deve essere respinto.  
+  
+---|---  
+  
+Sulle spese
+
+148
+
+|
+
+Ai sensi dell’articolo 122, primo comma, del suo regolamento di procedura,
+quando l’impugnazione è accolta e la controversia viene definitivamente decisa
+dalla Corte, quest’ultima statuisce sulle spese. Ai sensi dell’articolo 69 del
+medesimo regolamento, applicabile al procedimento di impugnazione ai sensi
+dell’articolo 118 dello stesso, la parte soccombente è condannata alle spese
+se ne è stata fatta domanda. Il paragrafo 4, primo comma, di detto articolo 69
+prevede che gli Stati membri intervenuti nella causa sopportino le proprie
+spese.  
+  
+---|---  
+  
+149
+
+|
+
+Poiché l’impugnazione della Commissione è stata accolta, l’impugnazione
+incidentale della Odile Jacob è stata respinta e dev’essere respinto il
+ricorso della Odile Jacob dinanzi al Tribunale, occorre condannare la Odile
+Jacob a sopportare, oltre alle proprie spese, quelle sostenute dalla
+Commissione e dalla Lagardère sia in primo grado sia in occasione della
+presente impugnazione, conformemente alla domanda di queste ultime.  
+  
+---|---  
+  
+150
+
+|
+
+La Repubblica ceca, il Regno di Danimarca, la Repubblica francese e il Regno
+di Svezia sopporteranno le proprie spese.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Terza Sezione) dichiara e statuisce:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+I punti 2-6 del dispositivo della sentenza del Tribunale dell’Unione europea
+del 9 giugno 2010, Éditions Jacob/Commissione (T-237/05), sono annullati.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+L’impugnazione incidentale è respinta.  
+  
+---|---  
+|  |
+
+3)
+
+|
+
+Il ricorso proposto dinanzi al Tribunale dell’Unione europea e volto
+all’annullamento della decisione D (2005) 3286 della Commissione, del 7 aprile
+2005, nella parte in cui ha respinto la domanda della Éditions Odile Jacob SAS
+diretta ad ottenere l’accesso a taluni documenti relativi al procedimento di
+controllo delle operazioni di concentrazione COMP/M.2978 –
+Lagardère/Natexis/VUP, è respinto.  
+  
+---|---  
+|  |
+
+4)
+
+|
+
+La Éditions Odile Jacob SAS è condannata a sopportare, oltre alle proprie
+spese, quelle sostenute dalla Commissione europea e dalla Lagardère SCA, sia
+in primo grado sia in occasione della presente impugnazione.  
+  
+---|---  
+|  |
+
+5)
+
+|
+
+La Repubblica ceca, il Regno di Danimarca, la Repubblica francese e il Regno
+di Svezia sopporteranno le proprie spese.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il francese.
+

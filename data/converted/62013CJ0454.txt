@@ -1,0 +1,522 @@
+
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+17 dicembre 2015 ( * )
+
+«Rinvio pregiudiziale — Reti e servizi di comunicazione elettronica —
+Direttiva 2002/20/CE — Articoli 12 e 13 — Diritti amministrativi — Contributo
+per la concessione di diritti di installare strutture — Ambito di applicazione
+— Normativa comunale — Imposta sulle antenne per la telefonia mobile»
+
+Nella causa C‑454/13,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Tribunal de première instance de
+Bruxelles (Belgio), con decisione del 17 maggio 2013, pervenuta in cancelleria
+il 13 agosto 2013, nel procedimento
+
+Proximus SA, già Belgacom SA,
+
+contro
+
+Commune d’Etterbeek,
+
+LA CORTE (Terza Sezione),
+
+composta da M. Ilešič, presidente della Seconda Sezione, facente funzione di
+presidente della Terza Sezione, C. Toader, D. Šváby, E. Jarašiūnas (relatore)
+e C.G. Fernlund, giudici,
+
+avvocato generale: N. Wahl
+
+cancelliere: V. Tourrès, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 3
+settembre 2015,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Proximus SA, già Belgacom SA, da B. Den Tandt e H. De Bauw, advocaten;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commune d’Etterbeek, da I. Lemineur, P. Vassart e T. Swennen, avocats;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da J. Hottiaux e L. Nicolae, in qualità di agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione degli
+articoli 12 e 13 della direttiva 2002/20/CE del Parlamento europeo e del
+Consiglio, del 7 marzo 2002, relativa alle autorizzazioni per le reti e i
+servizi di comunicazione elettronica (direttiva autorizzazioni) (GU L 108,
+pag. 21).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra la
+Proximus SA, già Belgacom SA, e la Commune d’Etterbeek (Comune di Etterbeek,
+Belgio) in merito ad un’imposta sulle antenne per la telefonia mobile
+installate nel territorio di detto Comune.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+3
+
+|
+
+L’articolo 1 della direttiva autorizzazioni, recante il titolo «Finalità e
+ambito di applicazione», al paragrafo 2 dispone quanto segue:
+
+«La presente direttiva si applica alle autorizzazioni per la fornitura di reti
+e servizi di comunicazione elettronica».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 2 di tale direttiva, intitolato «Definizioni», al paragrafo 2,
+lettera a), stabilisce che la nozione «autorizzazione generale» vale a
+designare «un quadro normativo istituito dallo Stato membro che garantisce i
+diritti alla fornitura di reti o di servizi di comunicazione elettronica e
+stabilisce obblighi specifici per il settore applicabili a tutti i tipi o a
+tipi specifici di servizi e di reti di comunicazione elettronica,
+conformemente alla presente direttiva».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 12 della suddetta direttiva riguarda i diritti amministrativi che
+gli Stati membri sono autorizzati ad imporre alle imprese che prestano servizi
+o reti ai sensi dell’autorizzazione generale o che hanno ricevuto una
+concessione dei diritti d’uso nonché le modalità dell’imposizione di tali
+diritti.  
+  
+---|---  
+  
+6
+
+|
+
+Ai sensi dell’articolo 13 della direttiva autorizzazioni, intitolato
+«Contributi per la concessione di diritti d’uso e di diritti di installare
+strutture»:
+
+«Gli Stati membri possono consentire all’autorità competente di riscuotere
+contributi sui diritti d’uso delle frequenze radio o dei numeri o sui diritti
+di installare strutture su proprietà pubbliche o private, al di sopra o sotto
+di esse al fine di garantire l’impiego ottimale di tali risorse. Gli Stati
+membri fanno sì che tali contributi siano trasparenti, obiettivamente
+giustificati, proporzionati allo scopo perseguito e non discriminatori e
+tengano conto degli obiettivi dell’articolo 8 della [direttiva 2002/21/CE del
+Parlamento europeo e del Consiglio, del 7 marzo 2002, che istituisce un quadro
+normativo comune per le reti ed i servizi di comunicazione elettronica
+(direttiva quadro) (GU L 108, pag. 33)]».  
+  
+---|---  
+  
+Il diritto belga
+
+7
+
+|
+
+In data 26 febbraio 2007, il consiglio comunale del Comune di Etterbeek ha
+adottato un regolamento tributario che introduce un’imposta annua sulle
+antenne per la telefonia mobile (in prosieguo: il «regolamento tributario»),
+applicabile dal 1o gennaio 2007 al 31 dicembre 2013.  
+  
+---|---  
+  
+8
+
+|
+
+Il regolamento tributario precisa, all’articolo 1, che tale imposta si applica
+alle «antenne per la telefonia mobile installate sul territorio del Comune di
+Etterbeek» e che con la nozione di «antenna per la telefonia mobile» si
+intende «qualsiasi antenna emettitrice o ripetitore di onde elettromagnetiche
+che consenta la telefonia mobile, collegata o meno ad una stazione separata,
+fissata o meno a un traliccio o a un pilone».  
+  
+---|---  
+  
+9
+
+|
+
+L’articolo 2, primo comma, del summenzionato regolamento tributario prevede
+che l’importo dell’imposta di cui trattasi nel procedimento principale ammonti
+a EUR 4000 all’anno e per ciascuna unità, l’articolo 3 dello stesso precisa
+che tale importo è indicizzato del 2% ogni anno.  
+  
+---|---  
+  
+10
+
+|
+
+Ai sensi dell’articolo 4 del citato regolamento tributario, detta imposta è
+«dovuta in solido da tutte le persone fisiche o giuridiche titolari di un
+diritto reale o di un diritto di sfruttamento su un’antenna per la telefonia
+mobile. In caso di proprietà indivisa o di sfruttamento di una stessa antenna
+da parte di più persone fisiche o giuridiche, l’imposta è dovuta solidalmente
+da tutti i comproprietari e titolari congiunti di un diritto reale o di
+sfruttamento».  
+  
+---|---  
+  
+Procedimento principale e questione pregiudiziale
+
+11
+
+|
+
+Dal fascicolo sottoposto alla Corte risulta che la Belgacom SA, alla quale è
+subentrata la Proximus SA, è operatore di una rete pubblica di
+telecomunicazioni e che, a tale titolo, è proprietaria e gestore di antenne
+per la telefonia mobile installate nel territorio del Comune di Etterbeek.  
+  
+---|---  
+  
+12
+
+|
+
+Le autorità del Comune di Etterbeek hanno inviato, ai sensi del regolamento
+tributario, taluni avvisi-estratti di ruolo relativi all’assoggettamento della
+Belgacom SA all’imposta di cui trattasi nel procedimento principale per
+l’esercizio d’imposta 2009, per un importo complessivo pari a EUR 108201,60.
+Tali avvisi-estratti di ruolo sono stati oggetto di opposizione presso la
+giunta comunale del Comune di Etterbeek. A seguito del rigetto di tale
+opposizione, la Belgacom SA ha presentato un ricorso dinanzi al Tribunal de
+première instance de Bruxelles (Tribunale di primo grado di Bruxelles).  
+  
+---|---  
+  
+13
+
+|
+
+A sostegno del proprio ricorso dinanzi al giudice del rinvio, la Belgacom SA
+ha fatto valere che gli avvisi-estratti di ruolo in parola non sono
+compatibili con la direttiva autorizzazioni, dal momento che tale direttiva
+vieta qualunque imposta a carico degli operatori di telefonia mobile diversi
+da quelli contemplati dai suoi articoli 12 e 13. A suo avviso, l’imposta di
+cui trattasi nel procedimento principale è riconducibile all’ambito di
+applicazione della direttiva autorizzazioni, dato che le antenne per la
+telefonia mobile costituiscono «strutture», ai sensi di tale direttiva.
+Tuttavia, tale imposta non soddisferebbe i requisiti di cui all’articolo 13 di
+detta direttiva.  
+  
+---|---  
+  
+14
+
+|
+
+Il Comune di Etterbeek ha affermato che l’ambito di applicazione della
+direttiva autorizzazioni riguarda unicamente la determinazione dei requisiti
+di accesso alle reti. A suo parere, l’imposta di cui al procedimento
+principale non è né un contributo ai sensi dell’articolo 13 della direttiva
+autorizzazioni, né un diritto ai sensi dell’articolo 12 della medesima
+direttiva. Essa configurerebbe un’imposta su un’attività economica,
+determinata con riferimento alla collocazione di antenne sul territorio
+comunale, a prescindere da qualsiasi autorizzazione all’installazione di
+strutture.  
+  
+---|---  
+  
+15
+
+|
+
+Considerate tali osservazioni, il giudice del rinvio nutre dubbi circa
+l’applicabilità degli articoli 12 e 13 della direttiva autorizzazioni nel
+procedimento principale.  
+  
+---|---  
+  
+16
+
+|
+
+Ciò premesso, il Tribunal de première instance de Bruxelles ha deciso di
+sospendere il giudizio e di sottoporre alla Corte la seguente questione
+pregiudiziale:
+
+«Se gli articoli 12 e 13 della direttiva [autorizzazioni] debbano essere
+interpretati nel senso che essi ostano a che una normativa di un’autorità
+nazionale o di un ente locale istituisca, a fini di bilancio, un’imposta sulle
+infrastrutture di comunicazione mobile installate su proprietà pubbliche o
+private e utilizzate nell’esercizio delle attività coperte dall’autorizzazione
+generale».  
+  
+---|---  
+  
+Sulla questione pregiudiziale
+
+17
+
+|
+
+Con la sua questione, il giudice del rinvio chiede, in sostanza, se gli
+articoli 12 e 13 della direttiva autorizzazioni debbano essere interpretati
+nel senso che essi ostano a che un’imposta, come quella di cui trattasi nel
+procedimento principale, sia posta a carico di tutte le persone fisiche o
+giuridiche titolari di un diritto reale o di un diritto di sfruttamento su
+un’antenna per la telefonia mobile.  
+  
+---|---  
+  
+18
+
+|
+
+In via preliminare, occorre ricordare che, in forza dell’articolo 1, paragrafo
+2, della direttiva autorizzazioni, tale direttiva si applica alle
+autorizzazioni per la fornitura di reti e servizi di comunicazione
+elettronica.  
+  
+---|---  
+  
+19
+
+|
+
+La direttiva citata prevede non solo norme relative alle procedure di
+concessione delle autorizzazioni generali o dei diritti d’uso delle frequenze
+radio o dei numeri e al loro contenuto, ma anche regole relative alla natura,
+o anche all’entità, degli oneri pecuniari collegati a tali procedure che gli
+Stati membri possono imporre alle imprese nel settore dei servizi di
+comunicazione elettronica (v. sentenze Belgacom e Mobistar, C‑256/13 e
+C‑264/13, EU:C:2014:2149, punto 29, nonché Base Company, C‑346/13,
+EU:C:2015:649, punto 15).  
+  
+---|---  
+  
+20
+
+|
+
+Come risulta da una giurisprudenza costante della Corte, è nell’ambito della
+direttiva autorizzazioni che gli Stati membri non possono riscuotere imposte o
+contributi sulla fornitura di servizi e reti di comunicazione elettronica
+diversi da quelli previsti da tale direttiva (sentenza Base Company, C‑346/13,
+EU:C:2015:649, punto 16; v. anche, in tal senso, sentenze Vodafone España e
+France Telecom España, C‑55/11, C‑57/11 e C‑58/11, EU:C:2012:446, punti 28 e
+29, nonché Belgacom e Mobistar, C‑256/13 e C‑264/13, EU:C:2014:2149, punto
+30).  
+  
+---|---  
+  
+21
+
+|
+
+Ne consegue che, affinché le disposizioni della direttiva autorizzazioni siano
+applicabili ad un’imposta come quella di cui al procedimento principale, il
+suo fatto generatore deve essere connesso alla procedura di autorizzazione
+generale, che garantisce, secondo l’articolo 2, paragrafo 2, lettera a), della
+direttiva autorizzazioni, i diritti alla fornitura di reti o di servizi di
+comunicazione elettronica (sentenza Base Company, C‑346/13, EU:C:2015:649,
+punto 17; v. anche, in tal senso, sentenze Fratelli De Pra e SAIV, C‑416/14,
+EU:C:2015:617, punto 41; Commissione/Francia,C‑485/11, EU:C:2013:427, punti
+30, 31 e 34, nonché Vodafone Malta e Mobisle Communications, C‑71/12,
+EU:C:2013:431, punti 24 e 25).  
+  
+---|---  
+  
+22
+
+|
+
+Al riguardo, la Corte ha ricordato, in relazione all’articolo 12 della
+direttiva autorizzazioni, che un’imposta il cui fatto generatore non sia
+collegato alla procedura di autorizzazione generale che consente di accedere
+al mercato dei servizi di comunicazione elettronica non rientra nell’ambito di
+applicazione dello stesso articolo 12 (v., in particolare, sentenze Vodafone
+Malta e Mobisle Communications, C‑71/12, EU:C:2013:431, punto 25, nonché
+Fratelli De Pra e SAIV, C‑416/14, EU:C:2015:617, punto 41).  
+  
+---|---  
+  
+23
+
+|
+
+Per quanto attiene all’articolo 13 della direttiva autorizzazioni, la Corte ha
+ricordato che tale disposizione non riguarda tutti i contributi cui sono
+assoggettate le infrastrutture che consentono la fornitura di reti e servizi
+di comunicazione elettronica (sentenze Belgacom e Mobistar, C‑256/13 e
+C‑264/13, EU:C:2014:2149, punto 34, nonché Base Company, C‑346/13,
+EU:C:2015:649, punto 18).  
+  
+---|---  
+  
+24
+
+|
+
+Difatti, tale articolo verte sulle modalità di imposizione di contributi sui
+diritti d’uso delle frequenze radio o dei numeri o sui diritti di installare
+strutture su proprietà pubbliche o private, al di sopra o sotto di esse
+(sentenze Belgacom e Mobistar, C‑256/13 e C‑264/13, EU:C:2014:2149, punto 31,
+nonché Base Company, C‑346/13, EU:C:2015:649, punto 19).  
+  
+---|---  
+  
+25
+
+|
+
+Nel caso specifico, dalla decisione di rinvio emerge che l’imposta di cui
+trattasi nel procedimento principale «è dovuta in solido da tutte le persone
+fisiche o giuridiche titolari di un diritto reale o di un diritto di
+sfruttamento su un’antenna per la telefonia mobile», vale a dire «qualsiasi
+antenna emettitrice o ripetitore di onde elettromagnetiche che consenta la
+telefonia mobile, collegata o meno ad una stazione separata, fissata o meno a
+un traliccio o a un pilone», «installata sul territorio del Comune di
+Etterbeek».  
+  
+---|---  
+  
+26
+
+|
+
+Come si evince dalle osservazioni depositate dinanzi alla Corte, il fatto
+generatore di tale imposta, la quale è posta a carico di tutte le persone
+fisiche o giuridiche titolari di un diritto reale o di un diritto di
+sfruttamento su un’antenna per la telefonia mobile, a prescindere dal fatto
+che esse siano titolari di un’autorizzazione concessa in applicazione della
+direttiva autorizzazioni, non risulta collegato alla procedura di
+autorizzazione generale che consente alle imprese di fornire reti e servizi di
+comunicazione elettronica, circostanza che spetta tuttavia al giudice del
+rinvio verificare.  
+  
+---|---  
+  
+27
+
+|
+
+Inoltre, secondo la giurisprudenza della Corte, i termini «strutture» e
+«installare», impiegati nell’articolo 13 della direttiva autorizzazioni,
+rinviano, rispettivamente, alle infrastrutture materiali che consentono la
+fornitura di servizi e reti di comunicazione elettronica e alla loro
+installazione materiale sulla proprietà pubblica o privata interessata
+(sentenze Belgacom e Mobistar, C‑256/13 e C‑264/13, EU:C:2014:2149, punto 33,
+nonché Base Company, C‑346/13, EU:C:2015:649, punto 21).  
+  
+---|---  
+  
+28
+
+|
+
+Pertanto, sebbene l’imposta di cui trattasi nel procedimento principale sia
+posta a carico di tutte le persone fisiche o giuridiche titolari di un diritto
+reale o di un diritto di sfruttamento su un’antenna per la telefonia mobile,
+la quale configura un’infrastruttura materiale che consente la fornitura di
+reti e servizi di comunicazione elettronica, non risulta che detta imposta
+presenti le caratteristiche di un contributo imposto alle imprese che
+forniscono reti e servizi di comunicazione elettronica in cambio del diritto
+di installare strutture.  
+  
+---|---  
+  
+29
+
+|
+
+Alla luce delle considerazioni sopra svolte, occorre rispondere alla questione
+posta dichiarando che gli articoli 12 e 13 della direttiva autorizzazioni
+devono essere interpretati nel senso che essi non ostano a che un’imposta,
+come quella di cui trattasi nel procedimento principale, sia posta a carico di
+tutte le persone fisiche o giuridiche titolari di un diritto reale o di un
+diritto di sfruttamento su un’antenna per la telefonia mobile.  
+  
+---|---  
+  
+Sulle spese
+
+30
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:  
+  
+---|---  
+|
+
+Gli articoli 12 e 13 della direttiva 2002/20/CE del Parlamento europeo e del
+Consiglio, del 7 marzo 2002, relativa alle autorizzazioni per le reti e i
+servizi di comunicazione elettronica (direttiva autorizzazioni), devono essere
+interpretati nel senso che essi non ostano a che un’imposta, come quella di
+cui trattasi nel procedimento principale, sia posta a carico di tutte le
+persone fisiche o giuridiche titolari di un diritto reale o di un diritto di
+sfruttamento su un’antenna per la telefonia mobile.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( * ) Lingua processuale: il francese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

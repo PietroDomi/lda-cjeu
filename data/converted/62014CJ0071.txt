@@ -1258,3 +1258,7 @@ Firme
 
 ( *1 ) Lingua processuale: l’inglese.
 
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

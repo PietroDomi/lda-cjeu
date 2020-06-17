@@ -1,0 +1,998 @@
+
+
+SENTENZA DELLA CORTE (Terza Sezione)
+
+1° luglio 2010 (*)
+
+«Cooperazione giudiziaria in materia civile - Materia matrimoniale e della
+responsabilita genitoriale - Regolamento (CE) n. 2201/2003 - Trasferimento
+illecito del minore - Provvedimenti provvisori che disciplinano il potere dei
+genitori di prendere decisioni relative al minore - Diritto di affidamento -
+Decisione che prescrive il ritorno del minore - Esecuzione - Competenza -
+Procedimento pregiudiziale d'urgenza»
+
+Nel procedimento C‑211/10 PPU,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale ex art. 267 TFUE,
+proposta dall'Oberster Gerichtshof (Austria), con decisione 20 aprile 2010,
+pervenuta in cancelleria il 3 maggio 2010, nella causa promossa da
+
+**Doris Povse**
+
+contro
+
+**Mauro Alpago** ,
+
+LA CORTE (Terza Sezione),
+
+composta dal sig. K. Lenaerts, presidente di sezione, dalla sig.ra R. Silva de
+Lapuerta, dai sigg. E. Juhasz (relatore), J. Malenovský e D. Švaby, giudici,
+
+avvocato generale: sig.ra E. Sharpston
+
+cancelliere: sig. K. Malacek, amministratore
+
+vista la domanda del giudice a quo di sottoporre il rinvio pregiudiziale a
+procedimento d'urgenza conformemente all'art. 104 ter del regolamento di
+procedura,
+
+vista la decisione della Terza Sezione 11 maggio 2010 di accogliere tale
+domanda,
+
+vista la fase scritta del procedimento e in seguito all'udienza del 14 giugno
+2010,
+
+considerate le osservazioni presentate:
+
+-        per il governo austriaco, dalle sig.re C. Pesendorfer e A. Hable, in qualita di agenti;
+
+-        per il governo ceco, dal sig. D. Hadroušek, in qualita di agente;
+
+-        per il governo tedesco, dal sig. T. Henze e dalla sig.ra J. Kemper, in qualita di agenti;
+
+-        per il governo francese, dalla sig.ra B. Beaupere‑Manokha, in qualita di agente;
+
+-        per il governo italiano, dalla sig.ra G. Palmieri, in qualita di agente, assistita dalla sig.ra M. Russo, avvocato dello Stato;
+
+-        per il governo lettone, dalle sig.re K. Drevina e E. Drobiševska, in qualita di agenti;
+
+-        per il governo sloveno, dalle sig.re A. Vran e V. Klemenc, in qualita di agenti;
+
+-        per il governo del Regno Unito, dalla sig.ra F. Penlington, in qualita di agente, assistita dall'avv. K. Smith, barrister;
+
+-        per la Commissione delle Comunita europee, dal sig. M. Wilderspin e dalla sig.ra S. Grunheid, in qualita di agenti,
+
+sentito l'avvocato generale,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione del
+regolamento (CE) del Consiglio 27 novembre 2003, n. 2201, relativo alla
+competenza, al riconoscimento e all'esecuzione delle decisioni in materia
+matrimoniale e in materia di responsabilita genitoriale, che abroga il
+regolamento (CE) n. 1347/2000 (GU L 338, pag. 1; in prosieguo: il
+«regolamento»).
+
+2        La questione e sorta nell'ambito di una controversia tra la sig.ra
+Povse e il sig. Alpago relativamente al ritorno in Italia della loro figlia
+Sofia, che si trova in Austria con la madre, e al diritto di affidamento di
+tale minore.
+
+  **Contesto normativo**
+
+  _La convenzione dell 'Aia del 1980_
+
+3        L'art. 3 della convenzione dell'Aia del 25 ottobre 1980 sugli aspetti
+civili della sottrazione internazionale di minori (in prosieguo: la
+«convenzione dell'Aia del 1980») cosi recita:
+
+«Il trasferimento o il mancato rientro di un minore e ritenuto illecito:
+
+a)      quando avviene in violazione dei diritti di custodia assegnati ad una
+persona, istituzione o ogni altro ente, congiuntamente o individualmente, in
+base alla legislazione dello Stato nel quale il minore aveva la sua residenza
+abituale immediatamente prima del suo trasferimento o del suo mancato rientro
+e
+
+b)      se tali diritti [erano] effettivamente esercitati, individualmente o
+congiuntamente, al momento del trasferimento del minore o del suo mancato
+rientro, o avrebbero potuto esserlo se non si fossero verificate tali
+circostanze.
+
+Il diritto di custodia citato al capoverso a) di cui sopra puo in particolare
+derivare direttamente dalla legge, da una decisione giudiziaria o
+amministrativa, o da un accordo in vigore in base alla legislazione del
+predetto Stato».
+
+4        L'art. 12 di tale convenzione dispone quanto segue:
+
+«Qualora un minore sia stato illecitamente trasferito o trattenuto ai sensi
+dell'articolo 3, e sia trascorso un periodo inferiore ad un anno, a decorrere
+dal trasferimento o dal mancato ritorno del minore, fino alla presentazione
+dell'istanza presso l'autorita giudiziaria o amministrativa dello Stato
+contraente dove si trova il minore, l'autorita adita ordina il suo ritorno
+immediato.
+
+L'autorita giudiziaria o amministrativa, benche adita dopo la scadenza del
+periodo di un anno di cui al capoverso precedente, deve ordinare il ritorno
+del minore, a meno che non sia dimostrato che il minore sia integrato nel suo
+nuovo ambiente.
+
+Se l'autorita giudiziaria o amministrativa dello Stato richiesto ha motivo di
+ritenere che il minore e stato condotto in un altro Stato, essa puo sospendere
+la procedura o respingere la domanda di ritorno del minore».
+
+5        Ai sensi dell'art. 13 della convenzione dell'Aia del 1980:
+
+«Nonostante le disposizioni del precedente articolo, l'autorita giudiziaria o
+amministrativa dello Stato richiesto non e tenuta ad ordinare il ritorno del
+minore qualora la persona, istituzione od ente che si oppone al ritorno
+dimostri:
+
+a)      che la persona, l'istituzione o l'ente cui era affidato il minore non
+esercitava effettivamente il diritto di affidamento al momento del
+trasferimento o del mancato rientro, o aveva consentito, anche
+successivamente, al trasferimento o al mancato ritorno; o
+
+b)      che sussiste un fondato rischio, per il minore, di essere esposto, per
+il fatto del suo ritorno, a pericoli fisici e psichici, o comunque di trovarsi
+in una situazione intollerabile.
+
+L'autorita giudiziaria o amministrativa puo altresi rifiutarsi di ordinare il
+ritorno del minore qualora essa accerti che il minore si oppone al ritorno e
+che ha raggiunto un'eta ed un grado di maturita tali che sia opportuno tener
+conto del suo parere.
+
+Nel valutare le circostanze di cui al presente articolo, le autorita
+giudiziarie e amministrative devono tener conto delle informazioni fornite
+dall'Autorita centrale o da ogni altra autorita competente dello Stato di
+residenza del minore, riguardo alla sua situazione sociale».
+
+  _La normativa dell 'Unione_
+
+6        Il diciassettesimo 'considerando' del regolamento precisa quanto
+segue:
+
+«In caso di trasferimento o mancato rientro illeciti del minore, si dovrebbe
+ottenerne immediatamente il ritorno e a tal fine dovrebbe continuare ad essere
+applicata la [convenzione dell'Aia del 1980], quale integrata dalle
+disposizioni del presente regolamento, in particolare l'articolo 11. I giudici
+dello Stato membro in cui il minore e stato trasferito o trattenuto
+illecitamente dovrebbero avere la possibilita di opporsi al suo rientro in
+casi precisi, debitamente motivati. Tuttavia, una simile decisione dovrebbe
+poter essere sostituita da una decisione successiva emessa dai giudici dello
+Stato membro di residenza abituale del minore prima del suo trasferimento
+illecito o mancato rientro. Se la decisione implica il rientro del minore,
+esso dovrebbe avvenire senza che sia necessario ricorrere a procedimenti per
+il riconoscimento e l'esecuzione della decisione nello Stato membro in cui il
+minore e trattenuto».
+
+7        Il ventunesimo 'considerando' del regolamento recita:
+
+«Il riconoscimento e l'esecuzione delle decisioni rese in uno Stato membro
+dovrebbero fondarsi sul principio della fiducia reciproca e i motivi di non
+riconoscimento dovrebbero essere limitati al minimo indispensabile».
+
+8        Il ventitreesimo 'considerando' del regolamento e cosi redatto:
+
+«Il Consiglio europeo di Tampere ha affermato nelle sue conclusioni (punto 34)
+che le decisioni pronunciate nelle controversie familiari dovrebbero essere
+"automaticamente riconosciute in tutta l'Unione senza che siano necessarie
+procedure intermedie o che sussistano motivi per rifiutarne l'esecuzione".
+Pertanto le decisioni in materia di diritto di visita o di ritorno, che siano
+state certificate nello Stato membro d'origine conformemente alle disposizioni
+del presente regolamento, dovrebbero essere riconosciute e hanno efficacia
+esecutiva in tutti gli altri Stati membri senza che sia richiesto qualsiasi
+altro procedimento. Le modalita relative all'esecuzione di tali decisioni sono
+tuttora disciplinate dalla legge nazionale».
+
+9        Il ventiquattresimo 'considerando' del regolamento cosi recita:
+
+«Il certificato rilasciato allo scopo di facilitare l'esecuzione della
+decisione non dovrebbe essere impugnabile. Non dovrebbe poter dare luogo a una
+domanda di rettifica se non in caso di errore materiale, ossia se il
+certificato non rispecchia correttamente il contenuto della decisione».
+
+10      L'art. 2 del regolamento contiene, al punto 11, una definizione della
+nozione di «trasferimento illecito o mancato ritorno del minore» che
+corrisponde sostanzialmente a quella contenuta nell'art. 3, primo comma, della
+convenzione dell'Aia del 1980.
+
+11      La sezione 2, intitolata «Responsabilita genitoriale», del capo II del
+regolamento, comprende gli artt. 8‑15\. L'art. 8 del regolamento, rubricato
+«Competenza generale», cosi dispone:
+
+«1.      Le autorita giurisdizionali di uno Stato membro sono competenti per
+le domande relative alla responsabilita genitoriale su un minore, se il minore
+risiede abitualmente in quello Stato membro alla data in cui sono aditi.
+
+2.      Il paragrafo 1 si applica fatte salve le disposizioni degli articoli 9, 10 e 12».
+
+12      Ai sensi dell'art. 10 del regolamento, che contiene norme specifiche
+sulla competenza nei casi di sottrazione di minori:
+
+«In caso di trasferimento illecito o mancato rientro del minore, l'autorita
+giurisdizionale dello Stato membro nel quale il minore aveva la residenza
+abituale immediatamente prima del trasferimento o del mancato rientro conserva
+la competenza giurisdizionale fino a che il minore non abbia acquisito la
+residenza in un altro Stato membro e:
+
+a)      se ciascuna persona, istituzione o altro ente titolare del diritto di
+affidamento ha accettato il trasferimento o mancato rientro
+
+         o
+
+b)      se il minore ha soggiornato in quell'altro Stato membro almeno per un
+anno da quando la persona, istituzione o altro ente titolare del diritto di
+affidamento ha avuto conoscenza, o avrebbe dovuto avere conoscenza, del luogo
+in cui il minore si trovava e il minore si e integrato nel nuovo ambiente e se
+ricorre una qualsiasi delle seguenti condizioni:
+
+i)      entro un anno da quando il titolare del diritto di affidamento ha
+avuto conoscenza, o avrebbe dovuto avere conoscenza, del luogo in cui il
+minore si trovava non e stata presentata alcuna domanda di ritorno del minore
+dinanzi alle autorita competenti dello Stato membro nel quale il minore e
+stato trasferito o dal quale non ha fatto rientro;
+
+ii)      una domanda di ritorno presentata dal titolare del diritto di
+affidamento e stata ritirata e non e stata presentata una nuova domanda entro
+il termine di cui al punto i);
+
+iii)      un procedimento dinanzi all'autorita giurisdizionale dello Stato
+membro nel quale il minore aveva la residenza abituale immediatamente prima
+del trasferimento o del mancato rientro e stato definito a norma dell'articolo
+11, paragrafo 7;
+
+iv)      l'autorita giurisdizionale dello Stato membro nel quale il minore
+aveva la residenza abituale immediatamente prima dell'illecito trasferimento o
+del mancato ritorno ha emanato una decisione di affidamento che non prevede il
+ritorno del minore».
+
+13      L'art. 11 del regolamento, intitolato «Ritorno del minore», cosi
+dispone:
+
+«1.      Quando una persona, istituzione o altro ente titolare del diritto di
+affidamento adisce le autorita competenti di uno Stato membro affinche emanino
+un provvedimento in base alla [convenzione dell'Aia del 1980] per ottenere il
+ritorno di un minore che e stato illecitamente trasferito o trattenuto in uno
+Stato membro diverso dallo Stato membro nel quale il minore aveva la residenza
+abituale immediatamente prima dell'illecito trasferimento o mancato ritorno,
+si applicano i paragrafi da 2 a 8\.
+
+2.      Nell'applicare gli articoli 12 e 13 della convenzione dell'Aia del 1980, si assicurera che il minore possa essere ascoltato durante il procedimento se cio non appaia inopportuno in ragione della sua eta o del suo grado di maturita. 
+
+3.      Un'autorita giurisdizionale alla quale e stata presentata la domanda per il ritorno del minore di cui al paragrafo 1 procede al rapido trattamento della domanda stessa, utilizzando le procedure piu rapide previste nella legislazione nazionale. 
+
+Fatto salvo il primo comma l'autorita giurisdizionale, salvo nel caso in cui
+circostanze eccezionali non lo consentano, emana il provvedimento al piu tardi
+sei settimane dopo aver ricevuto la domanda.
+
+4.      Un'autorita giurisdizionale non puo rifiutare di ordinare il ritorno di un minore in base all'articolo 13, lettera b), della convenzione dell'Aia del 1980 qualora sia dimostrato che sono previste misure adeguate per assicurare la protezione del minore dopo il suo ritorno. 
+
+5.      Un'autorita giurisdizionale non puo rifiutare di disporre il ritorno del minore se la persona che lo ha chiesto non ha avuto la possibilita di essere ascoltata. 
+
+6.      Se un'autorita giurisdizionale ha emanato un provvedimento contro il ritorno di un minore in base all'articolo 13 della convenzione dell'Aia del 1980, l'autorita giurisdizionale deve immediatamente trasmettere direttamente ovvero tramite la sua autorita centrale una copia del provvedimento giudiziario contro il ritorno e dei pertinenti documenti, in particolare una trascrizione delle audizioni dinanzi al giudice, all'autorita giurisdizionale competente o all'autorita centrale dello Stato membro nel quale il minore aveva la residenza abituale immediatamente prima dell'illecito trasferimento o mancato ritorno, come stabilito dalla legislazione nazionale. L'autorita giurisdizionale riceve tutti i documenti indicati entro un mese dall'emanazione del provvedimento contro il ritorno. 
+
+7.      A meno che l'autorita giurisdizionale dello Stato membro nel quale il minore aveva la residenza abituale immediatamente prima dell'illecito trasferimento o mancato ritorno non sia gia stat[a] adita da una delle parti, l'autorita giurisdizionale o l'autorita centrale che riceve le informazioni di cui al paragrafo 6 deve informarne le parti e invitarle a presentare all'autorita giurisdizionale le proprie conclusioni, conformemente alla legislazione nazionale, entro tre mesi dalla data della notifica, affinche quest'ultima esamini la questione dell'affidamento del minore. 
+
+Fatte salve le norme sulla competenza di cui al presente regolamento, in caso
+di mancato ricevimento delle conclusioni entro il termine stabilito,
+l'autorita giurisdizionale archivia il procedimento.
+
+8.      Nonostante l'emanazione di un provvedimento contro il ritorno in base all'articolo 13 della convenzione dell'Aia del 1980, una successiva decisione che prescrive il ritorno del minore emanata da un giudice competente ai sensi del presente regolamento e esecutiva conformemente alla sezione 4 del capo III, allo scopo di assicurare il ritorno del minore». 
+
+14      L'art. 15 del regolamento, rubricato «Trasferimento delle competenze a
+una autorita giurisdizionale piu adatta a trattare il caso», stabilisce quanto
+segue:
+
+«1.      In via eccezionale le autorita giurisdizionali di uno Stato membro
+competenti a conoscere del merito, qualora ritengano che l'autorita
+giurisdizionale di un altro Stato membro con il quale il minore abbia un
+legame particolare sia piu adatt[a] a trattare il caso o una sua parte
+specifica e ove cio corrisponda all'interesse superiore del minore, possono:
+
+a)      interrompere l'esame del caso o della parte in questione e invitare le
+parti a presentare domanda all'autorita giurisdizionale dell'altro Stato
+membro conformemente al paragrafo 4 oppure
+
+b)      chiedere all'autorita giurisdizionale dell'altro Stato membro di
+assumere la competenza ai sensi del paragrafo 5.
+
+(…)
+
+5.      Le autorita giurisdizionali di quest'altro Stato membro possono accettare la competenza, ove cio corrisponda, a motivo delle particolari circostanze del caso, all'interesse superiore del minore, entro 6 settimane dal momento in cui sono adite in base al paragrafo 1, lettere a) o b). In questo caso, l'autorita giurisdizionale preventivamente adita declina la propria competenza. In caso contrario, la competenza continua ad essere esercitata dall'autorita giurisdizionale preventivamente adit[a] ai sensi degli articoli da 8 a 14. 
+
+6.      Le autorita giurisdizionali collaborano, ai fini del presente articolo, direttamente ovvero attraverso le autorita centrali nominate a norma dell'articolo 53». 
+
+15      L'art. 40 del regolamento fa parte della sezione 4, intitolata
+«Esecuzione di talune decisioni in materia di diritto di visita e di talune
+decisioni che prescrivono il ritorno del minore», del capo III, dal titolo
+«Riconoscimento ed esecuzione». Tale articolo, rubricato «Campo
+d'applicazione», prescrive quanto segue:
+
+«1.      La presente sezione si applica:
+
+(…)
+
+b)      al ritorno del minore ordinato in seguito a una decisione che
+prescrive il ritorno del minore di cui all'articolo 11, paragrafo 8\.
+
+2.      Le disposizioni della presente sezione non ostano a che il titolare della responsabilita genitoriale chieda il riconoscimento e l'esecuzione [di una decisione] in forza delle disposizioni contenute nelle sezioni 1 e 2 del presente capo». 
+
+16      A norma dell'art. 42 del regolamento, intitolato «Ritorno del minore»:
+
+«1.      Il ritorno del minore di cui all'articolo 40, paragrafo 1, lettera
+b), ordinato con una decisione esecutiva emessa in uno Stato membro, e
+riconosciuto ed e eseguibile in un altro Stato membro senza che sia necessaria
+una dichiarazione di esecutivita e senza che sia possibile opporsi al
+riconoscimento, se la decisione e stata certificata nello Stato membro
+d'origine conformemente al paragrafo 2.
+
+Anche se la legislazione nazionale non prevede l'esecutivita di diritto,
+nonostante eventuali impugnazioni, di una decisione che prescrive il ritorno
+del minore di cui all'articolo 11, paragrafo 8, l'autorita giurisdizionale puo
+dichiarare che la decisione in questione e esecutiva.
+
+2.      Il giudice di origine che ha emanato la decisione di cui all'articolo 40, paragrafo 1, lettera b), rilascia il certificato di cui al paragrafo 1 solo se: 
+
+a)      il minore ha avuto la possibilita di essere ascoltato, salvo che
+l'audizione sia stata ritenuta inopportuna in ragione della sua eta o del suo
+grado di maturita,
+
+b)      le parti hanno avuto la possibilita di essere ascoltate; e
+
+c)      l'autorita giurisdizionale ha tenuto conto, nel rendere la sua
+decisione, dei motivi e degli elementi di prova alla base del provvedimento
+emesso conformemente all'articolo 13 della convenzione dell'Aia del 1980.
+
+Nel caso in cui l'autorita giurisdizionale o qualsiasi altra autorita adotti
+misure per assicurare la protezione del minore dopo il suo ritorno nello Stato
+della residenza abituale, il certificato contiene i dettagli di tali misure.
+
+Il giudice d'origine rilascia detto certificato di sua iniziativa e
+utilizzando il modello standard di cui all'allegato IV (certificato sul
+ritorno del minore).
+
+Il certificato e compilato nella lingua della decisione».
+
+17      Ai sensi dell'art. 43 del regolamento, rubricato «Domanda di
+rettifica»:
+
+«1.      Il diritto dello Stato membro di origine e applicabile a qualsiasi
+rettifica del certificato.
+
+2.      Il rilascio di un certificato a norma dell'articolo 41, paragrafo 1, o dell'articolo 42, paragrafo 1, non e inoltre soggetto ad alcun mezzo di impugnazione». 
+
+18      L'art. 44 del regolamento, intitolato «Effetti del certificato», e
+cosi redatto:
+
+«Il certificato ha effetto soltanto nei limiti del carattere esecutivo della
+sentenza».
+
+19      L'art. 47 del regolamento, rubricato «Procedimento di esecuzione»,
+stabilisce quanto segue:
+
+«1.      Il procedimento di esecuzione e disciplinato dalla legge dello Stato
+membro dell'esecuzione.
+
+2.      Ogni decisione pronunciata dall'autorita giurisdizionale di uno Stato membro e dichiarata esecutiva ai sensi della sezione 2 o certificata conformemente all'articolo 41, paragrafo 1, o all'articolo 42, paragrafo 1, e eseguita nello Stato membro dell'esecuzione alle stesse condizioni che si applicherebbero se la decisione fosse stata pronunciata in tale Stato membro. 
+
+In particolare una decisione certificata conformemente all'articolo 41,
+paragrafo 1, o all'articolo 42, paragrafo 1, non puo essere eseguita se e
+incompatibile con una decisione esecutiva emessa posteriormente».
+
+20      L'art. 60 del regolamento, sotto il titolo «Relazione con talune
+convenzioni multilaterali», dispone che, nei rapporti tra gli Stati che ne
+sono parti, tale regolamento prevale, segnatamente, sulla convenzione dell'Aia
+del 1980.
+
+  **Causa principale e questioni pregiudiziali**
+
+21      Come risulta dal fascicolo di causa sottoposto alla Corte, la sig.ra
+Povse e il sig. Alpago hanno convissuto more uxorio fino alla fine del mese di
+gennaio del 2008 con la figlia Sofia, nata a Vittorio Veneto il 6 dicembre
+2006. Ai sensi dell'art. 317 bis del codice civile italiano, l'esercizio della
+potesta spettava congiuntamente a entrambi i genitori. Alla fine del mese di
+gennaio del 2008 la coppia si e separata e la sig.ra Povse ha lasciato
+l'abitazione comune, accompagnata dalla figlia Sofia. Sebbene il Tribunale per
+i Minorenni di Venezia, con provvedimento provvisorio e urgente emesso su
+istanza del padre l'8 febbraio 2008, avesse disposto a carico della madre il
+divieto di espatriare con la bambina, nel febbraio del 2008 essa si e recata
+con la figlia in Austria, dove vivono da allora.
+
+22      Il 16 aprile 2008 il sig. Alpago ha adito il Bezirksgericht Leoben
+(giudice di primo grado del circondario di Leoben, Austria) per ottenere il
+ritorno della figlia in Italia in forza dell'art. 12 della convenzione
+dell'Aia del 1980.
+
+23      Con decreto del 23 maggio 2008 il Tribunale per i Minorenni di Venezia
+ha revocato il divieto di espatrio della madre con la figlia e ha disposto
+temporaneamente l'affidamento condiviso ad entrambi i genitori, precisando al
+contempo che la figlia poteva, fino all'adozione della decisione definitiva,
+risiedere in Austria con la madre, alla quale tale giudice attribuiva il
+potere di prendere le «decisioni concernenti l'ordinaria amministrazione». Con
+lo stesso decreto il giudice italiano disponeva che il padre partecipasse alle
+spese di mantenimento della figlia, stabiliva modi e tempi di visita di
+quest'ultimo alla figlia e ordinava una consulenza tecnica d'ufficio per
+verificare i rapporti esistenti tra la bambina e i genitori.
+
+24      Nonostante tale decisione, risulta dalla relazione peritale redatta il
+15 maggio 2009 dal consulente tecnico d'ufficio cosi designato che le visite
+del padre erano permesse dalla madre solo in maniera minima ed insufficiente a
+valutare i rapporti del padre con la figlia, soprattutto dal punto di vista
+delle competenze genitoriali, ragion per cui il consulente dichiarava di non
+essere in grado di assolvere il proprio incarico in maniera completa e
+nell'interesse della minore.
+
+25      Il 3 luglio 2008 il Bezirksgericht Leoben ha respinto la domanda del
+sig. Alpago del 16 aprile 2008, ma il 1° settembre 2008 tale decisione e stata
+annullata dal Landesgericht Leoben (giudice di secondo grado per il Land di
+Leoben, Austria) sulla base del rilievo che il sig. Alpago non era stato
+ascoltato, come impone l'art. 11, n. 5, del regolamento.
+
+26      Il 21 novembre 2008 il Bezirksgericht Leoben ha nuovamente respinto la
+domanda del sig. Alpago, fondandosi sul decreto del Tribunale per i Minorenni
+di Venezia del 23 maggio 2008, da cui risultava che la minore poteva restare
+provvisoriamente presso la madre.
+
+27      Il 7 gennaio 2009 il Landesgericht Leoben ha confermato la decisione
+di rigetto della domanda del sig. Alpago evocando un grave rischio di danno
+psichico per la minore, ai sensi dell'art. 13, lett. b), della convenzione
+dell'Aia del 1980.
+
+28      La sig.ra Povse ha adito il Bezirksgericht Judenburg (Austria),
+competente per territorio, chiedendo l'affidamento della figlia. Il 26 maggio
+2009 tale giudice, senza concedere al sig. Alpago la facolta di esprimersi, in
+conformita del principio del contraddittorio, si e dichiarato competente in
+forza dell'art. 15, n. 5, del regolamento, e ha chiesto al Tribunale per i
+Minorenni di Venezia di declinare la propria competenza.
+
+29      Tuttavia, gia in data 9 aprile 2009 il sig. Alpago aveva adito il
+Tribunale per i Minorenni di Venezia, nell'ambito del procedimento ivi
+pendente sul diritto di affidamento, chiedendo che fosse disposto il ritorno
+della figlia in Italia ai sensi dell'art. 11, n. 8, del regolamento. Nel corso
+di un'udienza tenutasi dinanzi a tale giudice il 19 maggio 2009, la sig.ra
+Povse si e dichiarata disponibile a seguire un progetto di incontri tra padre
+e figlia predisposto dal consulente tecnico d'ufficio. Essa non ha fatto
+menzione del procedimento giudiziario intentato dinanzi al Bezirksgericht
+Judenburg, sfociato nella citata decisione 26 maggio 2009.
+
+30      Il 10 luglio 2009 il Tribunale per i Minorenni di Venezia ha
+confermato la propria competenza, dichiarando che a suo giudizio non
+ricorrevano i presupposti per un trasferimento di competenza ex art. 10 del
+regolamento, e ha rilevato che la consulenza tecnica d'ufficio da esso
+disposta non aveva potuto essere portata a termine in quanto la madre non
+aveva aderito al progetto di incontri elaborato dal consulente.
+
+31      Con lo stesso decreto del 10 luglio 2009 il Tribunale per i Minorenni
+di Venezia ha inoltre disposto il ritorno immediato della minore in Italia e
+ha incaricato i servizi sociali del comune di Vittorio Veneto, per l'ipotesi
+in cui anche la madre facesse ritorno con la bambina, di mettere a loro
+disposizione un alloggio e di predisporre un programma d'incontri con il
+padre. Il giudice auspicava in tal modo di ripristinare i contatti tra padre e
+figlia, che si erano interrotti a causa dell'atteggiamento della madre. A tal
+fine il Tribunale per i Minorenni di Venezia ha rilasciato un certificato ex
+art. 42 del regolamento.
+
+32      Il 25 agosto 2009, il Bezirksgericht Judenburg ha emesso un
+provvedimento provvisorio con il quale la minore e stata provvisoriamente
+affidata alla sig.ra Povse. Copia di tale provvedimento e stata inviata per
+posta al sig. Alpago in Italia, senza informarlo del suo diritto di rifiutarne
+la ricezione e senza accludere una traduzione. Il 23 settembre 2009 tale
+provvedimento e divenuto definitivo e dotato di efficacia esecutiva in diritto
+austriaco.
+
+33      Il 22 settembre 2009 il sig. Alpago ha chiesto al Bezirksgericht
+Leoben l'esecuzione del decreto del Tribunale per i Minorenni di Venezia del
+10 luglio 2009 che aveva disposto il ritorno della figlia in Italia. Il
+Bezirksgericht Leoben ha respinto la domanda rilevando che l'esecuzione del
+decreto del giudice italiano presentava un grave rischio di danno psichico per
+la minore. In accoglimento dell'appello interposto dal sig. Alpago avverso
+tale decisione, il Landesgericht Leoben, richiamandosi alla sentenza della
+Corte 11 luglio 2008, causa C‑195/08 PPU, Rinau (Racc. pag. I‑5271), ha
+riformato detta decisione e disposto il ritorno della minore.
+
+34      L'Oberster Gerichtshof (Corte di cassazione, Austria) e stato adito
+dalla sig.ra Povse con ricorso per «Revision» volto a ottenere la cassazione
+della sentenza del Landesgericht Leoben e il rigetto della domanda di
+esecuzione. Tale organo giurisdizionale, nutrendo dubbi in ordine
+all'interpretazione del regolamento, ha deciso di sospendere il giudizio e di
+sottoporre alla Corte le seguenti questioni pregiudiziali:
+
+«1)      Se rientri nella nozione di "decisione di affidamento che non prevede
+il ritorno del minore" ai sensi dell'art. 10, lett. b), iv), del regolamento
+(…) anche un provvedimento provvisorio con cui si dispone che, fino
+all'adozione della decisione definitiva sull'affidamento, "le decisioni
+relative al minore", in particolare il diritto di stabilire il luogo di
+residenza, spettano al genitore che ha sottratto il minore.
+
+2)      Se un decreto che dispone il ritorno del minore rientri nel campo di
+applicazione dell'art. 11, n. 8, del regolamento solo qualora il giudice
+disponga il ritorno sulla base di una decisione di affidamento da esso stesso
+adottata.
+
+3)      In caso di soluzione affermativa alla prima e alla seconda questione:
+
+a)      Se nello Stato di esecuzione possa essere eccepita l'incompetenza del
+giudice dello Stato di origine (prima questione) o l'inapplicabilita dell'art.
+11, n. 8, del regolamento (seconda questione) per opporsi all'esecuzione di
+una decisione che sia stata certificata dal giudice di origine ai sensi
+dell'art. 42, n. 2, del regolamento.
+
+b)      Oppure se, in tale fattispecie, il convenuto debba richiedere la
+revoca del certificato nello Stato di origine, con la possibilita di
+sospendere l'esecuzione nel secondo Stato fino all'adozione della decisione
+nello Stato di origine.
+
+4)      In caso di soluzione negativa alle questioni prima e seconda o terza,
+sub a):
+
+Se una decisione emanata da un giudice del secondo Stato, da considerarsi
+esecutiva ai sensi del diritto di quest'ultimo, con la quale la custodia viene
+provvisoriamente attribuita al genitore che ha sottratto il minore, osti, ai
+sensi dell'art. 47, n. 2, del regolamento, all'esecuzione di un decreto che
+dispone il ritorno emesso precedentemente nello Stato di origine ai sensi
+dell'art. 11, n. 8, del regolamento anche quando non impedirebbe l'esecuzione
+di un provvedimento di ritorno emanato dal secondo Stato ai sensi della
+convenzione dell'Aia.
+
+5)      Qualora anche la quarta questione vada risolta in senso negativo:
+
+a)      Se, nel caso di una decisione certificata dal giudice di origine ai
+sensi dell'art. 42, n. 2, del regolamento, il secondo Stato possa rifiutarsi
+di darvi esecuzione qualora, successivamente alla sua adozione, le circostanze
+siano mutate in modo tale che ora l'esecuzione sarebbe gravemente lesiva per
+l'interesse del minore.
+
+b)      Oppure se, in tal caso, il convenuto debba far valere tali mutate
+circostanze nello Stato di origine, con la possibilita di sospendere
+l'esecuzione nel secondo Stato fino a che sia stata adottata la decisione
+nello Stato di origine».
+
+  **Sul procedimento d 'urgenza**
+
+35      Il giudice del rinvio ha motivato la propria richiesta di trattare il
+rinvio pregiudiziale con procedimento d'urgenza ex art. 104 ter del
+regolamento di procedura affermando che i contatti tra la minore e il padre si
+sono interrotti. Una decisione tardiva in merito all'esecuzione del decreto
+del Tribunale per i Minorenni di Venezia del 10 luglio 2009, che ha disposto
+il ritorno della minore in Italia, comporterebbe un ulteriore deterioramento
+dei rapporti tra padre e figlia ed accrescerebbe quindi il rischio di danno
+psichico nel caso in cui la minore dovesse fare ritorno in Italia.
+
+36      Su proposta del giudice relatore, sentito l'avvocato generale, l'11
+maggio 2010 la Terza Sezione della Corte ha deciso di accogliere la domanda
+del giudice a quo di sottoporre il rinvio pregiudiziale a procedimento
+d'urgenza.
+
+  **Sulle questioni pregiudiziali**
+
+  _Osservazioni preliminari_
+
+37      È pacifico che la causa principale verte su una fattispecie di
+trasferimento illecito di minore ai sensi dell'art. 3, primo comma, della
+convenzione dell'Aia del 1980 e dell'art. 2, punto 11, del regolamento.
+
+38      È altresi pacifico che, ai sensi dell'art. 10 del regolamento, il
+giudice competente, quanto meno al momento della sottrazione della minore, era
+il Tribunale per i Minorenni di Venezia, giudice del luogo di residenza
+abituale della minore prima dell'illecito trasferimento.
+
+  _Sulla prima questione_
+
+39      Con tale questione il giudice del rinvio domanda se, in una
+fattispecie di trasferimento illecito di minore, l'art. 10, lett. b), iv), del
+regolamento debba essere interpretato nel senso che un provvedimento
+provvisorio va qualificato come «decisione di affidamento che non prevede il
+ritorno del minore» ai sensi di tale disposizione.
+
+40      Occorre sottolineare che il sistema istituito dal regolamento si
+impernia sul ruolo centrale conferito al giudice competente ai sensi delle
+disposizioni del regolamento stesso e che, ai sensi del suo ventunesimo
+'considerando', il riconoscimento e l'esecuzione delle decisioni rese in uno
+Stato membro devono fondarsi sul principio della fiducia reciproca, mentre i
+motivi di non riconoscimento dovrebbero essere limitati al minimo
+indispensabile.
+
+41      Nel caso di trasferimento illecito di minori, l'art. 10 del
+regolamento attribuisce la competenza, come regola generale, ai giudici dello
+Stato membro in cui il minore aveva la residenza abituale immediatamente prima
+del trasferimento. Tale competenza e in via di principio conservata e si
+trasferisce solo qualora il minore abbia acquisito la residenza abituale in un
+altro Stato membro e, inoltre, ricorra una delle condizioni alternative
+previste dallo stesso art. 10\.
+
+42      La questione sollevata dal giudice a quo e diretta specificamente ad
+accertare se, mediante l'adozione di un provvedimento provvisorio, il giudice
+competente abbia trasferito la propria competenza, a norma dell'art. 10, lett.
+b), iv), del regolamento ai giudici dello Stato membro in cui il minore
+sottratto e stato condotto.
+
+43      A tal proposito va rilevato che il regolamento mira a dissuadere dal
+commettere sottrazioni di minori tra Stati membri e, in caso di sottrazione,
+ad ottenere che il ritorno del minore sia effettuato al piu presto (v.
+sentenza Rinau, cit., punto 52).
+
+44      Ne consegue che il trasferimento illecito di un minore non dovrebbe,
+in linea di principio, comportare il trasferimento della competenza dai
+giudici dello Stato membro in cui il minore aveva la residenza abituale
+immediatamente prima del trasferimento a quelli dello Stato membro in cui e
+stato condotto, e cio nemmeno nell'ipotesi in cui, a seguito del
+trasferimento, il minore abbia acquisito la residenza abituale in quest'altro
+Stato membro.
+
+45      La condizione enunciata all'art. 10, lett. b), iv), del regolamento
+dev'essere pertanto interpretata in senso restrittivo.
+
+46      Pertanto, alla luce del ruolo centrale attribuito dal regolamento al
+giudice competente e del principio della conservazione di tale competenza, si
+deve ritenere che per «decisione di affidamento che non prevede il ritorno del
+minore» vada intesa una decisione definitiva, adottata sulla scorta di una
+disamina completa dell'insieme degli elementi pertinenti, con la quale il
+giudice competente si pronuncia sulla disciplina della questione
+dell'affidamento del minore, disciplina che non e piu soggetta ad altre
+decisioni amministrative o giudiziarie. Il fatto che la disciplina della
+questione dell'affidamento del minore preveda una revisione o un riesame
+periodico entro un certo periodo, o in funzione di certe circostanze, di tale
+questione non priva la decisione del suo carattere definitivo.
+
+47      Tale conclusione discende dalla sistematica del regolamento e risponde
+altresi agli interessi del minore. Qualora infatti una decisione provvisoria
+dovesse comportare la perdita di competenza in ordine alla questione
+dell'affidamento del minore, il giudice competente dello Stato membro della
+residenza abituale anteriore del minore potrebbe essere dissuaso dall'adottare
+una siffatta decisione provvisoria, e cio quand'anche essa fosse necessaria
+per tutelare gli interessi del minore.
+
+48      Con il decreto del 23 maggio 2008 il Tribunale per i Minorenni di
+Venezia, giudice competente ai sensi del regolamento, tenendo conto della
+situazione di fatto creatasi a seguito della sottrazione della minore e
+considerando l'interesse di quest'ultima, ha revocato il divieto di espatrio
+dal territorio italiano, ha disposto provvisoriamente l'affidamento condiviso
+a entrambi i genitori, ha concesso al padre un diritto di visita e ha disposto
+una consulenza tecnica d'ufficio in merito ai rapporti tra la minore e i due
+genitori, in vista appunto dell'adozione di una sua decisione definitiva sul
+diritto di affidamento. Tale giudice ha inoltre attribuito alla madre il
+diritto di prendere, nei confronti della minore, le «decisioni (…) concernenti
+l'ordinaria amministrazione», vale a dire le decisioni genitoriali attinenti
+agli aspetti pratici della vita quotidiana della bambina.
+
+49      Si desume da quanto sopra che tale decreto, qualificato come
+provvisorio tanto dal Tribunale per i Minorenni di Venezia quanto dal giudice
+del rinvio, non configura affatto una decisione definitiva sul diritto di
+affidamento.
+
+50      Occorre pertanto risolvere la prima questione dichiarando che l'art.
+10, lett. b), iv), del regolamento dev'essere interpretato nel senso che un
+provvedimento provvisorio non configura una «decisione di affidamento che non
+prevede il ritorno del minore» ai sensi di tale disposizione e non puo
+costituire il fondamento di un trasferimento di competenza ai giudici dello
+Stato membro verso il quale il minore e stato illecitamente trasferito.
+
+  _Sulla seconda questione_
+
+51      Con tale questione il giudice a quo domanda se l'art. 11, n. 8, del
+regolamento debba essere interpretato nel senso che la decisione del giudice
+competente che disponga il ritorno del minore rientra nell'ambito di
+applicazione di detta norma solo qualora si fondi su una decisione definitiva
+del medesimo giudice in merito al diritto di affidamento del minore.
+
+52      Si deve rilevare che una siffatta interpretazione, che subordina
+l'esecuzione di una decisione del giudice competente con la quale si disponga
+il ritorno del minore all'esistenza di una decisione definitiva dello stesso
+giudice in merito al diritto di affidamento, non trova alcun fondamento
+testuale nell'art. 11 del regolamento ne, specificamente, nel suo n. 8\. Al
+contrario, l'art. 11, n. 8, del regolamento fa riferimento a qualunque
+«successiva decisione che prescrive il ritorno del minore».
+
+53      Vero e che, ai sensi del n. 7 dello stesso articolo, l'autorita
+giurisdizionale o l'autorita centrale dello Stato membro di residenza abituale
+anteriore deve notificare alle parti le informazioni che abbia ricevuto in
+merito a un provvedimento contro il ritorno del minore adottato nello Stato
+membro in cui questi e stato trasferito e invitarle a presentare le proprie
+conclusioni «affinche [tale autorita] esamini la questione dell'affidamento
+del minore». Questa disposizione, tuttavia, non fa che indicare l'obiettivo
+finale dei procedimenti amministrativi e giudiziari, vale a dire la
+regolarizzazione della situazione del minore, ma da cio non e lecito dedurre
+che la decisione sull'affidamento del minore costituisca una condizione
+preliminare all'adozione di una decisione che dispone il ritorno del minore.
+Tale decisione intermedia, infatti, e anch'essa volta al conseguimento
+dell'obiettivo finale, che e la disciplina della questione dell'affidamento
+del minore.
+
+54      Analogamente, gli artt. 40 e 42‑47 del regolamento non subordinano
+affatto l'esecuzione di una decisione emessa ai sensi dell'art. 11, n. 8, e
+certificata ai sensi dell'art. 42, n. 1, del regolamento, alla previa adozione
+di una decisione in materia di affidamento.
+
+55      Questa interpretazione dell'art. 11, n. 8, del regolamento e
+confermata dalla giurisprudenza della Corte.
+
+56      La Corte ha dichiarato che, benche intrinsecamente connessa ad altre
+materie disciplinate dal regolamento, in particolare al diritto di
+affidamento, l'esecutivita di una decisione che prescrive il ritorno di un
+minore successiva ad un provvedimento contro il ritorno beneficia
+dell'autonomia procedurale, al fine di non ritardare il ritorno di un minore
+illecitamente trasferito. Essa ha altresi affermato questa autonomia delle
+disposizioni degli artt. 11, n. 8, 40 e 42 del regolamento nonche la priorita
+riconosciuta alla competenza del giudice di origine nell'ambito del capo III,
+sezione 4, del regolamento (v., in tal senso, sentenza Rinau, cit., punti 63 e
+64).
+
+57      Occorre aggiungere che tale interpretazione e conforme alla ratio del
+meccanismo istituito dagli artt. 11, n. 8, 40 e 42 del regolamento.
+
+58      In base a tale meccanismo, qualora il giudice dello Stato membro in
+cui il minore e stato illecitamente trasferito abbia emesso una decisione
+contro il ritorno ai sensi dell'art. 13 della convenzione dell'Aia del 1980,
+il regolamento, che all'art. 60 afferma il proprio primato su tale convenzione
+nei rapporti tra gli Stati membri, intende riservare al giudice che sia
+competente in forza di questo stesso regolamento qualunque decisione in merito
+all'eventuale ritorno del minore. In tal senso, l'art. 11, n. 8, dispone che
+una siffatta decisione del giudice competente e esecutiva conformemente alla
+sezione 4 del capo III del regolamento, allo scopo di assicurare il ritorno
+del minore.
+
+59      Si deve ricordare che il giudice competente, prima di adottare tale
+decisione, deve tener conto dei motivi e degli elementi di prova sulla scorta
+dei quali e stata emessa la decisione contro il ritorno. Il fatto che egli
+abbia preso in considerazione tali elementi contribuisce a giustificare
+l'esecutivita della decisione, una volta che sia stata adottata, in conformita
+al principio di reciproca fiducia sotteso al regolamento.
+
+60      Per giunta, tale sistema comporta un duplice esame della questione del
+ritorno del minore, garantendo cosi una maggiore fondatezza della decisione e
+una tutela rafforzata degli interessi del minore.
+
+61      Inoltre, come correttamente rileva la Commissione europea, il giudice
+cui spetta pronunciarsi in definitiva sul diritto di affidamento deve disporre
+della facolta di stabilire tutte le modalita e le misure intermedie, ivi
+inclusa la designazione del luogo di residenza del minore, il che potrebbe
+eventualmente renderne necessario il ritorno.
+
+62      L'obiettivo di celerita perseguito dagli artt. 11, n. 8, 40 e 42 del
+regolamento e la priorita attribuita alla competenza del giudice di origine
+difficilmente potrebbero conciliarsi con un'interpretazione secondo la quale
+la decisione di ritorno dovrebbe essere preceduta da una decisione definitiva
+sul diritto di affidamento. Un'interpretazione del genere si tradurrebbe in un
+vincolo tale da obbligare eventualmente il giudice competente a prendere una
+decisione sul diritto di affidamento senza disporre di tutte le informazioni e
+di tutti gli elementi pertinenti, ne del tempo necessario a valutarli in modo
+obiettivo e pacato.
+
+63      Quanto all'argomento secondo il quale un'interpretazione siffatta
+potrebbe comportare per il minore una serie di spostamenti inutili, nel caso
+in cui il giudice competente dovesse in definitiva attribuire l'affidamento al
+genitore residente nello Stato membro del trasferimento, si deve
+necessariamente sottolineare che l'interesse a che sull'affidamento definitivo
+del minore sia resa una decisione giudiziaria giusta e fondata, la necessita
+di scoraggiare le sottrazioni di minori nonche il diritto del minore di
+intrattenere regolarmente rapporti personali e contatti diretti con entrambi i
+genitori prevalgono sugli eventuali inconvenienti che tali spostamenti
+potrebbero provocare.
+
+64      Uno dei diritti fondamentali del bambino e infatti quello, sancito
+dall'art. 24, n. 3, della Carta dei diritti fondamentali dell'Unione europea,
+proclamata a Nizza il 7 dicembre 2000 (GU C 364, pag. 1), di intrattenere
+regolarmente relazioni personali e contatti diretti con i due genitori, e il
+rispetto di tale diritto si identifica innegabilmente con un interesse
+superiore di qualsiasi bambino (v. sentenza 23 dicembre 2009, causa C‑403/09
+PPU, Detiček, Racc. pag. I‑12193, punto 54). Orbene, e giocoforza constatare
+che, il piu delle volte, un trasferimento illecito del minore, a seguito di
+una decisione presa unilateralmente da uno dei suoi genitori, priva il bambino
+della possibilita di intrattenere regolarmente relazioni personali e contatti
+diretti con l'altro genitore (sentenza Detiček, cit., punto 56).
+
+65      La correttezza di tale impostazione emerge anche dall'esame della
+fattispecie di cui e causa.
+
+66      Il decreto del 10 luglio 2009 con il quale il giudice competente ha
+disposto il ritorno della minore si fonda, infatti, sulla considerazione che i
+rapporti tra la bambina e il padre si sono interrotti. Risponde pertanto al
+superiore interesse della minore che tali rapporti siano ripristinati e che,
+nei limiti del possibile, sia anche assicurata la presenza della madre in
+Italia, affinche i rapporti della bambina con entrambi i genitori nonche le
+competenze genitoriali e la personalita di questi ultimi siano esaminati
+approfonditamente dai competenti servizi italiani prima dell'adozione di una
+decisione definitiva sull'affidamento e sulla responsabilita genitoriale.
+
+67      La seconda questione va pertanto risolta dichiarando che l'art. 11, n.
+8, del regolamento dev'essere interpretato nel senso che la decisione del
+giudice competente che disponga il ritorno del minore rientra nell'ambito di
+applicazione di tale disposizione anche qualora non sia preceduta da una
+decisione definitiva adottata dal medesimo giudice sul diritto di affidamento
+del minore.
+
+  _Sulla terza questione_
+
+68      Alla luce della soluzione fornita alle prime due questioni
+pregiudiziali, non occorre risolvere la terza.
+
+  _Sulla quarta questione_
+
+69      Con tale questione il giudice del rinvio domanda se l'art. 47, n. 2,
+secondo comma, del regolamento debba essere interpretato nel senso che una
+decisione che attribuisca un diritto di affidamento provvisorio, emessa in un
+momento successivo da un giudice dello Stato membro di esecuzione e
+considerata esecutiva ai sensi della legge di tale Stato, osti all'esecuzione
+di una decisione certificata, emessa anteriormente, con la quale era stato
+disposto il ritorno del minore, in quanto incompatibile con quest'ultima
+decisione.
+
+70      Come risulta dal ventiquattresimo 'considerando' nonche dagli artt.
+42, n. 1, e 43, n. 2, del regolamento, il rilascio di un certificato non e
+impugnabile e la decisione certificata e automaticamente dotata di efficacia
+esecutiva senza che sia possibile opporsi al suo riconoscimento.
+
+71      Peraltro, a norma dell'art. 43, n. 1, del regolamento, la legge dello
+Stato membro di origine e applicabile a qualsiasi rettifica del certificato,
+fermo restando che, ai sensi del ventiquattresimo 'considerando' del
+regolamento, la domanda di rettifica e ammessa solo in caso di errore
+materiale, ossia se il certificato non rispecchia correttamente il contenuto
+della decisione. All'art. 44 del regolamento si prevede inoltre che il
+certificato ha effetto soltanto nei limiti del carattere esecutivo della
+sentenza, e all'art. 47, n. 2, secondo comma, del regolamento, che una
+decisione certificata non puo essere eseguita se e incompatibile con una
+decisione esecutiva emessa posteriormente.
+
+72      Occorre inoltre ricordare che, come risulta dal ventitreesimo
+'considerando' del regolamento, le modalita relative all'esecuzione di tali
+decisioni restano disciplinate dalla legge nazionale dello Stato membro di
+esecuzione.
+
+73      Dalle disposizioni innanzi citate, che delineano una netta
+ripartizione di competenze tra i giudici dello Stato membro d'origine e quelli
+dello Stato membro di esecuzione e che mirano a un rapido ritorno del minore,
+risulta che un certificato rilasciato in forza dell'art. 42 del regolamento,
+che conferisce alla decisione cosi certificata un'efficacia esecutiva
+specifica, non e in alcun modo impugnabile. Il giudice richiesto deve
+limitarsi a constatare l'efficacia esecutiva di tale decisione, e nei
+confronti del certificato puo soltanto essere proposta domanda di rettifica,
+oppure possono essere sollevati dubbi in merito alla sua autenticita,
+conformemente alla legge nazionale dello Stato membro di origine (v., in tal
+senso, sentenza Rinau, cit., punti 85, 88 e 89). Le uniche norme dello Stato
+membro richiesto che possono trovare applicazione sono quelle che disciplinano
+le questioni procedurali.
+
+74      Per contro, le questioni attinenti alla fondatezza della decisione in
+quanto tale, e segnatamente la questione se ricorrano i presupposti perche il
+giudice competente possa pronunciare tale decisione, ivi incluse le eventuali
+contestazioni in merito alla competenza, devono essere sollevate dinanzi ai
+giudici dello Stato membro di origine, in conformita delle norme del suo
+ordinamento giuridico. Del pari, la domanda di sospensione dell'esecuzione di
+una decisione certificata puo essere presentata soltanto al giudice competente
+dello Stato membro di origine, in conformita delle norme del suo ordinamento
+giuridico.
+
+75      Pertanto, contro l'esecuzione di siffatta decisione non vi e alcun
+mezzo d'impugnazione esperibile dinanzi ai giudici dello Stato membro del
+trasferimento, e le uniche norme giuridiche di tale Stato che siano
+applicabili sono quelle procedurali, ai sensi dell'art. 47, n. 1, del
+regolamento, vale a dire le modalita di esecuzione della decisione. Orbene, un
+procedimento come quello che costituisce oggetto della presente questione
+pregiudiziale non riguarda ne requisiti di forma ne questioni procedurali,
+bensi questioni di merito.
+
+76      Di conseguenza, l'incompatibilita, ai sensi dell'art. 47, n. 2,
+secondo comma, del regolamento, di una decisione certificata con una decisione
+esecutiva successiva dev'essere verificata soltanto rispetto alle eventuali
+decisioni pronunciate successivamente dai giudici competenti dello Stato
+membro di origine.
+
+77      Una siffatta incompatibilita si produrrebbe non soltanto nei casi in
+cui la decisione fosse annullata o riformata a seguito di un'azione in
+giudizio nello Stato membro di origine. Come e stato chiarito in udienza,
+infatti, il giudice competente puo, d'ufficio o, se del caso, su richiesta dei
+servizi sociali, ritornare sulla propria decisione, allorche l'interesse del
+minore lo esige, e adottare una nuova decisione esecutiva, senza espressamente
+revocare la prima, che risulterebbe cosi caducata.
+
+78      Ritenere che una decisione emessa successivamente da un giudice dello
+Stato membro di esecuzione possa ostare all'esecuzione di una decisione
+anteriore certificata nello Stato membro di origine che abbia disposto il
+ritorno del minore costituirebbe un'elusione del meccanismo istituito dalla
+sezione 4 del capo III del regolamento. Una simile deroga alla competenza dei
+giudici dello Stato membro di origine priverebbe di effetto utile l'art. 11,
+n. 8, del regolamento - che conferisce in ultima analisi al giudice competente
+il diritto di decidere e prevale, in forza dell'art. 60 del regolamento, sulla
+convenzione dell'Aia del 1980 - e riconoscerebbe una competenza di merito ai
+giudici dello Stato membro di esecuzione.
+
+79      Di conseguenza, occorre risolvere la quarta questione dichiarando che
+l'art. 47, n. 2, secondo comma, del regolamento dev'essere interpretato nel
+senso che una decisione emessa successivamente da un giudice dello Stato
+membro di esecuzione, che attribuisca un diritto di affidamento provvisorio e
+sia considerata esecutiva ai sensi della legge di tale Stato, non e opponibile
+all'esecuzione di una decisione certificata, emessa anteriormente dal giudice
+competente dello Stato membro di origine e con la quale era stato disposto il
+ritorno del minore.
+
+  _Sulla quinta questione_
+
+80      Con tale questione il giudice a quo domanda se l'esecuzione di una
+decisione certificata possa essere negata nello Stato membro di esecuzione
+adducendo un mutamento delle circostanze, sopravvenuto dopo la sua emanazione,
+tale per cui l'esecuzione potrebbe ledere gravemente il superiore interesse
+del minore, o se invece un tale mutamento debba essere dedotto dinanzi ai
+giudici dello Stato membro di origine, il che implicherebbe la sospensione
+dell'esecuzione della decisione nello Stato membro richiesto, nelle more del
+procedimento nello Stato membro di origine.
+
+81      A tal proposito, un cambiamento significativo delle circostanze in
+relazione al superiore interesse del minore costituisce una questione
+sostanziale, eventualmente idonea a condurre a una modifica della decisione
+del giudice competente in merito al ritorno del minore. Orbene, conformemente
+alla ripartizione delle competenze ampiamente evocata nella presente sentenza,
+una questione del genere rientra nella sfera del giudice competente dello
+Stato membro di origine. Del resto detto giudice e, nel sistema istituito dal
+regolamento, altresi competente a valutare il superiore interesse del minore
+ed e a detto giudice che dev'essere presentata l'eventuale domanda di
+sospensione della sua decisione.
+
+82      Tale conclusione non e inficiata dal riferimento, di cui all'art. 47,
+n. 2, primo comma, del regolamento, all'esecuzione di una decisione resa in un
+altro Stato membro «alle stesse condizioni» che si applicherebbero se la
+decisione fosse stata pronunciata nello Stato membro di esecuzione. Tale
+prescrizione va interpretata restrittivamente. Essa riguarda soltanto le
+modalita procedurali secondo le quali deve svolgersi il ritorno del minore, e
+non puo in nessun caso fornire una giustificazione sostanziale per opporsi
+alla decisione del giudice competente.
+
+83      Si deve pertanto risolvere la quinta questione dichiarando che
+l'esecuzione di una decisione certificata non puo essere negata nello Stato
+membro di esecuzione adducendo un mutamento delle circostanze, sopravvenuto
+dopo la sua emanazione, tale per cui l'esecuzione potrebbe ledere gravemente
+il superiore interesse del minore. Un mutamento del genere dev'essere dedotto
+dinanzi al giudice competente dello Stato membro di origine, al quale dovrebbe
+essere presentata anche l'eventuale domanda di sospensione dell'esecuzione
+della sua decisione.
+
+  **Sulle spese**
+
+84      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:
+
+1)       **L 'art. 10, lett. b), iv), del regolamento (CE) del Consiglio 27
+novembre 2003 n. 2201, relativo alla competenza, al riconoscimento e
+all'esecuzione delle decisioni in materia matrimoniale e in materia di
+responsabilita genitoriale, che abroga il regolamento (CE) n. 1347/2000,
+dev'essere interpretato nel senso che un provvedimento provvisorio non
+configura una «decisione di affidamento che non prevede il ritorno del minore»
+ai sensi di tale disposizione e non puo costituire il fondamento di un
+trasferimento di competenza ai giudici dello Stato membro verso il quale il
+minore e stato illecitamente trasferito. **
+
+2)       **L 'art. 11, n. 8, del regolamento n. 2201/2003 dev'essere
+interpretato nel senso che la decisione del giudice competente che disponga il
+ritorno del minore rientra nell'ambito di applicazione di tale disposizione
+anche qualora non sia preceduta da una decisione definitiva adottata dal
+medesimo giudice sul diritto di affidamento del minore. **
+
+3)       **L 'art. 47, n. 2, secondo comma, del regolamento n. 2201/2003
+dev'essere interpretato nel senso che una decisione emessa successivamente da
+un giudice dello Stato membro di esecuzione, che attribuisca un diritto di
+affidamento provvisorio e sia considerata esecutiva ai sensi della legge di
+tale Stato, non e opponibile all'esecuzione di una decisione certificata,
+emessa anteriormente dal giudice competente dello Stato membro di origine e
+con la quale era stato disposto il ritorno del minore.**
+
+4)       **L 'esecuzione di una decisione certificata non puo essere negata
+nello Stato membro di esecuzione adducendo un mutamento delle circostanze,
+sopravvenuto dopo la sua emanazione, tale per cui l'esecuzione potrebbe ledere
+gravemente il superiore interesse del minore. Un mutamento del genere
+dev'essere dedotto dinanzi al giudice competente dello Stato membro di
+origine, al quale dovrebbe essere presentata anche l'eventuale domanda di
+sospensione dell'esecuzione della sua decisione. **
+
+Firme
+
+* * *
+
+* Lingua processuale: il tedesco. 
+

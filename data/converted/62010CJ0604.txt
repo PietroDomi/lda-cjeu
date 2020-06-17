@@ -1,0 +1,1317 @@
+  
+  
+SENTENZA DELLA CORTE (Terza Sezione)
+
+1o marzo 2012 ( *1 )
+
+«Direttiva 96/9/CE — Tutela giuridica delle banche di dati — Diritto d’autore
+— Calendari degli incontri dei campionati di calcio»
+
+Nella causa C-604/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dalla Court of Appeal (England & Wales)
+(Civil Division) (Regno Unito), con decisione del 10 dicembre 2010, pervenuta
+in cancelleria il 21 dicembre 2010, nel procedimento
+
+Football Dataco Ltd,
+
+Football Association Premier League Ltd,
+
+Football League Ltd,
+
+Scottish Premier League Ltd,
+
+Scottish Football League,
+
+PA Sport UK Ltd
+
+contro
+
+Yahoo! UK Ltd,
+
+Stan James (Abingdon) Ltd,
+
+Stan James plc,
+
+Enetpulse ApS,
+
+LA CORTE (Terza Sezione),
+
+composta dal sig. K. Lenaerts (relatore), presidente di sezione, dai sigg. J.
+Malenovský, E. Juhász, G. Arestis e D. Šváby, giudici,
+
+avvocato generale: sig. P. Mengozzi
+
+cancelliere: sig.ra L. Hewlett, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all’udienza del 27 ottobre
+2011,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per la Football Dataco Ltd, la Football Association Premier League Ltd, la
+Football League Ltd, la Scottish Premier League Ltd, la Scottish Football
+League e la PA Sport UK Ltd, da J. Mellor, QC, e da S. Levine, L. Lane e R.
+Hoy, barristers,  
+  
+---|---  
+  
+—
+
+|
+
+per la Yahoo! UK Ltd, la Stan James (Abingdon) Ltd, la Stan James plc e la
+Enetpulse ApS, da D. Alexander e R. Meade, QC, e da P. Roberts e P. Nagpal,
+barristers,  
+  
+---|---  
+  
+—
+
+|
+
+per il governo del Regno Unito, da L. Seeboruth, in qualità di agente,
+assistito da S. Malynicz, barrister,  
+  
+---|---  
+  
+—
+
+|
+
+per il governo italiano, da G. Palmieri, in qualità di agente, assistita da S.
+Fiorentino, avvocato dello Stato,  
+  
+---|---  
+  
+—
+
+|
+
+per il governo maltese, da A. Buhagiar e G. Kimberley, in qualità di agenti,  
+  
+---|---  
+  
+—
+
+|
+
+per il governo portoghese, da A. P. Barros nonché da L. Inez Fernandes e P.
+Mateus Calado, in qualità di agenti,  
+  
+---|---  
+  
+—
+
+|
+
+per il governo finlandese, da J. Heliskoski, in qualità di agente,  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da J. Samnadda e T. van Rijn, in qualità di
+agenti,  
+  
+---|---  
+  
+sentite le conclusioni dell’avvocato generale, presentate all’udienza del 15
+dicembre 2011,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione della
+direttiva 96/9/CE del Parlamento europeo e del Consiglio, dell’11 marzo 1996,
+relativa alla tutela giuridica delle banche di dati (GU L 77, pag. 20).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia insorta tra la
+Football Dataco Ltd, la Football Association Premier League Ltd, la Football
+League Ltd, la Scottish Premier League Ltd, la Scottish Football League e la
+PA Sport UK Ltd (in prosieguo, congiuntamente: la «Football Dataco e a.»), da
+un lato, e la Yahoo! UK Ltd, la Stan James (Abingdon) Ltd, la Stan James plc e
+la Enetpulse ApS (in prosieguo, congiuntamente: la «Yahoo e a.»), dall’altro,
+avente ad oggetto i diritti di proprietà intellettuale che le prime vantano
+sui calendari degli incontri dei campionati di calcio inglese e scozzese.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto internazionale
+
+3
+
+|
+
+Collocato nella sezione dedicata al diritto d’autore e ai diritti connessi,
+l’articolo 10, paragrafo 2, dell’Accordo sugli aspetti dei diritti di
+proprietà intellettuale attinenti al commercio, che costituisce l’allegato 1 C
+dell’Accordo che istituisce l’Organizzazione mondiale del commercio, firmato a
+Marrakech il 15 aprile 1994, approvato con la decisione 94/800/CE del
+Consiglio, del 22 dicembre 1994, relativa alla conclusione a nome della
+Comunità europea, per le materie di sua competenza, degli Accordi dei
+negoziati multilaterali dell’Uruguay Round (1986-1994) (GU L 336, pag. 1),
+così dispone:
+
+«Le compilazioni di dati o altro materiale, in forma leggibile da una macchina
+o in altra forma, che a causa della selezione o della disposizione del loro
+contenuto costituiscono creazioni intellettuali sono protette come tali. La
+protezione, che non copre i dati o il materiale stesso, non pregiudica diritti
+d’autore eventualmente esistenti sui dati o sul materiale».  
+  
+---|---  
+  
+4
+
+|
+
+L’articolo 5 del Trattato dell’Organizzazione mondiale della proprietà
+intellettuale (OMPI) sul diritto d’autore, adottato a Ginevra il 20 dicembre
+1996, relativo alla «[c]ompilazione di dati (banche dati)», prevede quanto
+segue:
+
+«Le compilazioni di dati o altro materiale, in qualsiasi forma, che a causa
+della selezione o della disposizione del loro contenuto costituiscono
+creazioni intellettuali sono protette in quanto tali. La protezione non copre
+i dati o il materiale stesso e non pregiudica i diritti d’autore eventualmente
+esistenti sui dati o sul materiale contenuti nella compilazione».  
+  
+---|---  
+  
+Il diritto dell’Unione
+
+5
+
+|
+
+I considerando 1, 2, 3, 4, 9, 10, 12, 15, 16, 18, 26, 27, 39 e 60 della
+direttiva 96/9 così recitano:
+
+|
+
+«(1)
+
+|
+
+considerando che attualmente le banche di dati non sono sufficientemente
+tutelate in tutti gli Stati membri dalle normative esistenti e che detta
+tutela, ove esiste, assume connotazioni diverse;  
+  
+---|---  
+  
+(2)
+
+|
+
+considerando che simili differenze nella tutela giuridica delle banche di dati
+assicurata dalle leggi degli Stati membri hanno effetti negativi e diretti sul
+funzionamento del mercato interno per quanto riguarda le banche di dati, ed in
+particolare sulla libertà per le persone fisiche e giuridiche di fornire beni
+e servizi riguardanti le banche di dati in linea in base ad un regime
+giuridico armonizzato in tutta la Comunità; che tali differenze rischiano di
+aggravarsi con l’introduzione da parte degli Stati membri di nuove
+disposizioni legislative in una materia che sta assumendo una dimensione
+sempre più internazionale;  
+  
+---|---  
+  
+(3)
+
+|
+
+considerando che è opportuno eliminare le differenze esistenti che producono
+distorsioni al funzionamento del mercato interno ed impedire che ne sorgano di
+nuove, mentre non occorre eliminare o impedire che sorgano quelle differenze
+che non pregiudicheranno il funzionamento del mercato interno oppure lo
+sviluppo di un mercato dell’informazione all’interno della Comunità;  
+  
+---|---  
+  
+(4)
+
+|
+
+considerando che la tutela delle banche di dati sulla base del diritto
+d’autore esiste in forme diverse negli Stati membri, in base alla legislazione
+o alla giurisprudenza, e che la mancata armonizzazione dei diritti di
+proprietà intellettuale può avere per effetto di ostacolare la libera
+circolazione di beni o servizi all’interno della Comunità fintantoché esistano
+differenze tra le varie legislazioni degli Stati membri per quanto riguarda la
+portata e le condizioni della tutela dei diritti;  
+  
+---|---  
+  
+(…)
+
+(9)
+
+|
+
+considerando che le banche di dati rappresentano uno strumento prezioso per lo
+sviluppo di un mercato dell’informazione all’interno della Comunità e che tale
+strumento sarà altresì utile in numerosi altri settori;  
+  
+---|---  
+  
+(10)
+
+|
+
+considerando che la crescita esponenziale, all’interno della Comunità e a
+livello mondiale, della massa di informazioni prodotte ed elaborate
+annualmente in tutti i settori commerciali e industriali richiede investimenti
+nei sistemi avanzati di gestione dell’informazione in tutti gli Stati membri;  
+  
+---|---  
+  
+(…)
+
+(12)
+
+|
+
+considerando che tale investimento nei moderni sistemi di memorizzazione e
+gestione delle informazioni non sarà effettuato all’interno della Comunità a
+meno che non venga introdotta una tutela giuridica stabile ed uniforme per
+tutelare i costitutori di banche di dati;  
+  
+---|---  
+  
+(…)
+
+(15)
+
+|
+
+considerando che i criteri da applicare per stabilire se una banca dati sia
+protetta dal diritto d’autore dovranno limitarsi al fatto che la scelta o la
+disposizione del contenuto della banca di dati costituisce una creazione
+intellettuale, propria dell’autore; che questa protezione riguarda la
+struttura della banca di dati;  
+  
+---|---  
+  
+(16)
+
+|
+
+considerando che non dovranno essere applicati altri criteri diversi da quello
+di originalità, nel senso di creazione intellettuale, per stabilire se una
+banca di dati sia tutelabile o meno in base al diritto d’autore, e in
+particolare non dovrà essere effettuata alcuna valutazione della qualità o del
+valore estetico della banca di dati;  
+  
+---|---  
+  
+(…)
+
+(18)
+
+|
+
+considerando che la presente direttiva lascia impregiudicata la libertà degli
+autori di decidere se, o in quale maniera, essi consentano l’inserimento di
+loro opere in una banca di dati, in particolare se l’autorizzazione concessa è
+esclusiva e non esclusiva; (…)  
+  
+---|---  
+  
+(…)
+
+(26)
+
+|
+
+considerando che le opere tutelate dal diritto d’autore e le prestazioni
+tutelate da alcuni diritti connessi che sono inserite in una banca di dati
+beneficiano comunque dei rispettivi diritti esclusivi e non possono pertanto
+essere inserite o riprodotte da una banca di dati senza l’autorizzazione del
+titolare dei diritti o dei suoi aventi causa;  
+  
+---|---  
+  
+(27)
+
+|
+
+considerando che l’esistenza di un diritto separato nella scelta o nella
+disposizione di opere e prestazioni in una banca di dati lascia impregiudicati
+i diritti d’autore su tali opere e i diritti connessi sulle prestazioni
+inserite in una banca di dati;  
+  
+---|---  
+  
+(…)
+
+(39)
+
+|
+
+considerando che, oltre alla tutela del diritto d’autore per la scelta o la
+disposizione originali del contenuto di una banca di dati, la presente
+direttiva intende salvaguardare i costitutori di banche di dati dall’indebita
+appropriazione dei risultati dell’investimento finanziario e professionale
+effettuato per ottenere e raccogliere il contenuto proteggendo la totalità o
+parti sostanziali della banca di dati da taluni atti commessi dall’utente o da
+un concorrente;  
+  
+---|---  
+  
+(…)
+
+(60)
+
+|
+
+considerando che taluni Stati membri tutelano attualmente mediante un regime
+di diritto d’autore le banche di dati che non soddisfano i criteri per essere
+ammesse alla tutela basata sul diritto d’autore previsti dalla presente
+direttiva; che, anche se le banche di dati in questione sono tutelabili in
+base al diritto previsto dalla presente direttiva di impedire l’estrazione e/o
+il reimpiego non autorizzati del loro contenuto, la durata della tutela
+accordata grazie a quest’ultimo diritto è sensibilmente inferiore a quella di
+cui godono in base ai regimi nazionali attualmente in vigore; che
+un’armonizzazione dei criteri applicati per stabilire se una banca di dati
+sarà tutelata in base al diritto d’autore non può avere l’effetto di ridurre
+la durata della tutela di cui attualmente godono i titolari dei diritti in
+questione; che occorre prevedere una deroga in tal senso; che gli effetti di
+tale deroga devono limitarsi al territorio degli Stati membri interessati».  
+  
+---|---  
+  
+6
+
+|
+
+Ai sensi dell’articolo 1, paragrafo 2, della direttiva 96/9:
+
+«Ai fini della presente direttiva per “banca di dati” si intende una raccolta
+di opere, dati o altri elementi indipendenti sistematicamente o metodicamente
+disposti ed individualmente accessibili grazie a mezzi elettronici o in altro
+modo».  
+  
+---|---  
+  
+7
+
+|
+
+Collocato nel capitolo II, intitolato «Diritto d’autore», l’articolo 3 della
+direttiva 96/9, che definisce l’«[o]ggetto della tutela», così dispone:
+
+«1. A norma della presente direttiva, le banche di dati che per la scelta o la
+disposizione del materiale costituiscono una creazione dell’ingegno propria
+del loro autore sono tutelate in quanto tali dal diritto d’autore. Per
+stabilire se alle banche dati possa essere riconosciuta tale tutela non si
+applicano altri criteri.
+
+2\. La tutela delle banche di dati in base al diritto d’autore prevista dalla
+presente direttiva non si estende al loro contenuto e lascia impregiudicati i
+diritti esistenti su tale contenuto».  
+  
+---|---  
+  
+8
+
+|
+
+Collocato nel capitolo III, intitolato «Diritto “sui generis”», l’articolo 7
+della direttiva 96/9, relativo all’«[o]ggetto della tutela», ai paragrafi 1 e
+4, così dispone:
+
+«1. Gli Stati membri attribuiscono al costitutore di una banca di dati il
+diritto di vietare operazioni di estrazione e/o reimpiego della totalità o di
+una parte sostanziale del contenuto della stessa, valutata in termini
+qualitativi o quantitativi, qualora il conseguimento, la verifica e la
+presentazione di tale contenuto attestino un investimento rilevante sotto il
+profilo qualitativo o quantitativo.
+
+(…)
+
+4\. Il diritto di cui al paragrafo 1 si applica a prescindere dalla
+tutelabilità della banca di dati a norma del diritto d’autore o di altri
+diritti. (…)».  
+  
+---|---  
+  
+9
+
+|
+
+Collocato nel capitolo IV, intitolato «Disposizioni comuni», l’articolo 14
+della direttiva 96/9 così dispone:
+
+«1. La tutela prevista dalla presente direttiva per quanto riguarda il diritto
+d’autore si applica anche alle banche di dati create prima della data di cui
+all’articolo 16, paragrafo 1, che a tale data soddisfino i requisiti fissati
+dalla presente direttiva in materia di tutela delle banche di dati in base al
+diritto d’autore.
+
+2\. In deroga al paragrafo 1, allorché alla data di pubblicazione della
+presente direttiva una banca di dati tutelata mediante un regime di diritto
+d’autore in uno Stato membro non soddisfa i criteri di ammissibilità alla
+tutela in base al diritto d’autore previsti all’articolo 3, paragrafo 1, la
+presente direttiva non ha l’effetto di ridurre in tale Stato membro il
+restante periodo di tutela accordato in base al regime di cui sopra.
+
+(...)».  
+  
+---|---  
+  
+10
+
+|
+
+La data di pubblicazione della direttiva 96/9 nella Gazzetta ufficiale delle
+Comunità europee è il 27 marzo 1996.  
+  
+---|---  
+  
+11
+
+|
+
+Detta direttiva è stata trasposta nel Regno Unito mediante l’adozione del
+regolamento del 1997 in materia di diritto d’autore e diritti sulle banche di
+dati (Copyright and Rights in Databases Regulations 1997, SI 1997, n. 3032),
+entrato in vigore il 1o gennaio 1998. Il testo delle disposizioni di tale
+regolamento pertinenti ai fini della presente controversia è identico a quello
+delle pertinenti disposizioni della menzionata direttiva.  
+  
+---|---  
+  
+Causa principale e questioni pregiudiziali
+
+L’elaborazione dei calendari degli incontri dei campionati di calcio inglese e
+scozzese
+
+12
+
+|
+
+Ai termini della decisione di rinvio, in Inghilterra e in Scozia
+l’elaborazione dei calendari annuali degli incontri dei campionati di calcio
+avviene secondo regole e procedimenti nel complesso simili.  
+  
+---|---  
+  
+13
+
+|
+
+Essa presuppone l’osservanza di un certo numero di regole, le cosiddette
+«regole d’oro», di cui le più importanti sono le seguenti:
+
+|
+
+—
+
+|
+
+nessuna squadra può disputare tre incontri consecutivi in casa o in trasferta;  
+  
+---|---  
+  
+—
+
+|
+
+nell’ambito di cinque incontri consecutivi nessuna squadra può disputare
+quattro incontri in casa o quattro incontri in trasferta;  
+  
+---|---  
+  
+—
+
+|
+
+nella misura del possibile, ogni squadra dovrà aver disputato, in ogni momento
+della stagione, un ugual numero di partite in casa e in trasferta, e  
+  
+---|---  
+  
+—
+
+|
+
+tutte le squadre dovrebbero disputare, nella misura del possibile, un ugual
+numero di turni infrasettimanali in casa e in trasferta.  
+  
+---|---  
+  
+14
+
+|
+
+Il procedimento di elaborazione di un calendario del genere di quelli oggetto
+della causa principale si articola in diverse fasi. La prima fase, che ha
+inizio nel corso della stagione precedente, consiste nell’elaborazione, da
+parte dei dipendenti delle federazioni professionali interessate, del
+programma degli incontri dei campionati di Premier League e nel progetto del
+calendario degli incontri degli altri campionati. Essa consiste nella
+predisposizione di un elenco delle possibili date degli incontri in funzione
+di una serie di parametri fondamentali (date di inizio e di fine della
+stagione, numero di incontri da disputare, date riservate ad altri tornei
+nazionali, europei o internazionali).  
+  
+---|---  
+  
+15
+
+|
+
+La seconda fase consiste nell’invio alle squadre interessate dei questionari
+che precedono la fissazione del calendario e nell’analisi delle risposte a
+tali questionari, in particolare le richieste «di data specifica» (richiesta
+formulata da una squadra di disputare, in casa o in trasferta, l’incontro con
+un’altra squadra programmato in una data precisa), le richieste «senza data
+specifica» [richiesta di una squadra di disputare tale incontro tale giorno
+della settimana a partire da tale ora (ad esempio, il sabato a partire dalle
+13:30)], e le richieste di «abbinamento» (richieste di due o più squadre di
+non giocare in casa nella stessa giornata). In ogni stagione vengono formulate
+all’incirca 200 richieste.  
+  
+---|---  
+  
+16
+
+|
+
+La terza fase, che, nell’ambito dei campionati di calcio inglese, è affidata
+al sig. Thompson, della società Atos Origin IT Services UK Ltd, consta di due
+compiti, la «predisposizione delle sequenze» e gli «abbinamenti».  
+  
+---|---  
+  
+17
+
+|
+
+Il compito di predisposizione delle sequenze è finalizzato ad ottenere la
+sequenza perfetta di incontri in casa e in trasferta per ogni squadra, tenendo
+conto delle regole d’oro, di una serie di vincoli organizzativi e, per quanto
+possibile, delle richieste formulate dalle squadre. Il sig. Thompson elabora
+poi una griglia di abbinamenti in funzione delle richieste effettuate dalle
+squadre. Egli inserisce progressivamente i nomi delle squadre in tale griglia
+e cerca di trovare una soluzione per il maggior numero di casi problematici
+sino ad ottenere un progetto di calendario soddisfacente. A tal fine, per
+ottenere una versione leggibile del calendario, egli ricorre a un programma
+verso cui trasferisce i dati della tabella di predisposizione delle sequenze e
+della griglia degli abbinamenti.  
+  
+---|---  
+  
+18
+
+|
+
+La seconda fase, basata sulla cooperazione tra il sig. Thompson e i dipendenti
+delle federazioni professionali interessate, consiste nel verificare il
+contenuto del calendario degli incontri. Tale verifica viene svolta
+manualmente, con l’aiuto di un programma per la soluzione dei problemi ancora
+insoluti. Hanno poi luogo due riunioni, una del gruppo di lavoro sul
+calendario e l’altra con i rappresentanti della polizia, volte a finalizzare
+il contenuto del calendario. Per quanto riguarda la stagione 2008/2009, sono
+state effettuate, in quest’ultima fase, 56 modifiche.  
+  
+---|---  
+  
+19
+
+|
+
+Secondo gli accertamenti di fatto compiuti dal giudice di primo grado,
+riportati nella decisione di rinvio, il procedimento di elaborazione dei
+calendari di calcio oggetto della causa principale non è meramente
+meccanicistico o deterministico, bensì richiede impegno e competenze molto
+significativi, al fine di soddisfare le varie esigenze presenti nel migliore
+rispetto delle regole applicabili. Il lavoro necessario a tal fine non si
+ridurrebbe all’applicazione di criteri fissi e sarebbe diverso, ad esempio,
+dall’elaborazione di un elenco telefonico, in quanto richiederebbe, in ogni
+fase, ponderazione e competenze, in particolare quando il programma
+informatico non trova alcuna soluzione rispetto alle esigenze in gioco. Quanto
+all’utilizzo parziale dell’elaborazione elettronica, essa non esclude affatto,
+secondo quanto affermato dal sig. Thompson, la necessità di ponderazione
+nonché un certo margine di discrezionalità.  
+  
+---|---  
+  
+Causa principale e questioni pregiudiziali
+
+20
+
+|
+
+La Football Dataco e a. sostengono di disporre di un diritto «sui generis» ai
+sensi dell’articolo 7 della direttiva 96/9, di un diritto d’autore ai sensi
+dell’articolo 3 di tale direttiva, nonché di un diritto d’autore ai sensi
+della normativa britannica sulla proprietà intellettuale, sui calendari degli
+incontri dei campionati di calcio inglese e scozzese.  
+  
+---|---  
+  
+21
+
+|
+
+La Yahoo e a., contestando l’esistenza di una previsione legislativa di detti
+diritti, sostengono di essere legittimati a fare uso di tali calendari
+nell’ambito delle loro attività, senza l’obbligo di corrispondere alcun
+compenso economico.  
+  
+---|---  
+  
+22
+
+|
+
+Il giudice in primo grado ha ritenuto che i calendari in questione possano
+godere della tutela conferita dal diritto d’autore ai sensi dell’articolo 3
+della direttiva 96/9, sulla base del rilievo che la loro elaborazione richiede
+una parte sostanziale di lavoro creativo. Egli ha invece negato loro il
+beneficio dei due altri diritti invocati.  
+  
+---|---  
+  
+23
+
+|
+
+Il giudice del rinvio ha confermato la sentenza di primo grado per quanto
+riguarda l’esclusione, per i calendari oggetto della causa principale, della
+tutela derivante dal diritto «sui generis» ex articolo 7 della direttiva 96/9.
+Per contro, egli si interroga sulla loro tutelabilità in base al diritto
+d’autore ai sensi dell’articolo 3 della medesima direttiva. Tale giudice
+nutre, inoltre, dubbi circa la possibilità che tali calendari siano tutelati
+dal diritto d’autore, sulla base della normativa britannica antecedente detta
+direttiva, a condizioni diverse rispetto a quelle di cui al citato articolo 3.  
+  
+---|---  
+  
+24
+
+|
+
+Ciò premesso, la Court of Appeal (England & Wales) (Civil Division) ha deciso
+di sospendere il procedimento e di sottoporre alla Corte le seguenti questioni
+pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Cosa debba essere inteso per “banche di dati che per la scelta o disposizione
+del materiale costituiscono una creazione dell’ingegno propria del loro
+autore” di cui all’articolo 3, paragrafo 1, della direttiva 96/9 (…) e, in
+particolare:
+
+|
+
+a)
+
+|
+
+se debbano essere esclusi l’impegno intellettuale e le cognizioni applicate
+nella creazione dei dati;  
+  
+---|---  
+  
+b)
+
+|
+
+se la “la scelta o la disposizione del materiale” includa l’attribuzione di
+una significativa rilevanza ad elementi di dati preesistenti (come avviene
+nella fissazione della data di un incontro di calcio), e;  
+  
+---|---  
+  
+c)
+
+|
+
+se la “creazione dell’ingegno propria del loro autore” presupponga un quid
+pluris rispetto al dispiego di significativa attività e cognizioni da parte
+dell’autore e, in caso affermativo, in cosa consista tale quid pluris.  
+  
+---|---  
+  
+2)
+
+|
+
+Se la direttiva precluda la sussistenza di diritti nazionali in materia di
+diritto d’autore su banche dati diversi da quelli istituiti dalla direttiva
+[96/9]».  
+  
+---|---  
+  
+Sulla prima questione pregiudiziale
+
+25
+
+|
+
+Con la sua prima questione, il giudice del rinvio chiede, in sostanza,
+l’interpretazione dell’articolo 3, paragrafo 1, della direttiva 96/9. In
+particolare, egli chiede:
+
+|
+
+—
+
+|
+
+in primo luogo, se, nell’ambito di applicazione di tale disposizione, debbano
+essere esclusi l’impegno intellettuale e le cognizioni destinati alla
+creazione di dati;  
+  
+---|---  
+  
+—
+
+|
+
+in secondo luogo, se la «scelta o la disposizione» del materiale, ai sensi
+della citata disposizione, includa l’attribuzione di una significativa
+rilevanza ad elementi di dati preesistenti, e  
+  
+---|---  
+  
+—
+
+|
+
+in terzo luogo, se la nozione di «creazione dell’ingegno propria dell’autore»,
+ai sensi della medesima disposizione, presupponga un quid pluris rispetto al
+dispiego di significativa attività e cognizioni da parte dell’autore ed,
+eventualmente, in cosa consista tale requisito supplementare.  
+  
+---|---  
+  
+26
+
+|
+
+In limine occorre, da un lato, ricordare che la Corte ha già avuto modo di
+dichiarare che un calendario di incontri di un campionato di calcio
+costituisce una «banca di dati», ai sensi dell’articolo 1, paragrafo 2, della
+direttiva 96/9. La Corte ha ritenuto, in sostanza, che la combinazione della
+data, dell’orario e dell’identità delle due squadre, quella ospitante e quella
+ospite, relativi a un incontro di calcio, sia dotata di un valore informativo
+autonomo tale da renderla un «elemento indipendente», ai sensi del citato
+articolo 1, paragrafo 2, e che la disposizione, sotto forma di calendario,
+delle date, degli orari e dei nomi delle squadre relativi ai vari incontri
+delle giornate di un campionato di calcio soddisfa i requisiti di cui
+all’articolo 1, paragrafo 2, attinenti alla disposizione sistematica o
+metodica e all’accessibilità individuale dei dati contenuti nella base (v.
+sentenza del 9 novembre 2004, Fixtures Marketing, C-444/02, Racc. pag.
+I-10549, punti 33-36).  
+  
+---|---  
+  
+27
+
+|
+
+Dall’altro lato, emerge, tanto dal raffronto del tenore letterale,
+rispettivamente, degli articoli 3, paragrafo 1, e 7, paragrafo 1, della
+direttiva 96/9, quanto da quello di altre disposizioni o considerando della
+stessa, segnatamente del suo articolo 7, paragrafo 4, e del suo considerando
+39, che il diritto d’autore e il diritto «sui generis» costituiscono due
+diritti indipendenti aventi oggetto e presupposti di applicazione differenti.  
+  
+---|---  
+  
+28
+
+|
+
+Di conseguenza, la circostanza che una «banca di dati», ai sensi dell’articolo
+1, paragrafo 2, della direttiva 96/9, non soddisfi i requisiti per poter
+godere della tutela in base al diritto «sui generis», ai sensi dell’articolo 7
+della citata direttiva, come stabilito dalla Corte a proposito dei calendari
+di incontri di calcio (sentenze del 9 novembre 2004, Fixtures Marketing,
+C-46/02, Racc. pag. I-10365, punti 43-47; Fixtures Marketing, C-338/02, Racc.
+pag. I-10497, punti 32-36, e Fixtures Marketing, C-444/02, cit., punti 48-52),
+non significa automaticamente che questa stessa banca di dati non possa
+neppure godere della tutela conferita dal diritto d’autore, ai sensi
+dell’articolo 3 di detta direttiva.  
+  
+---|---  
+  
+29
+
+|
+
+Conformemente al paragrafo 1 di tale articolo 3, una «banca di dati», ai sensi
+dell’articolo 1, paragrafo 2, della direttiva 96/9, è tutelata dal diritto
+d’autore se, per la scelta o la disposizione del materiale, costituisce una
+creazione dell’ingegno propria del suo autore.  
+  
+---|---  
+  
+30
+
+|
+
+In primo luogo, risulta dal combinato disposto dell’articolo 3, paragrafo 2, e
+del considerando 15 della direttiva 96/9, che destinataria della tutela
+conferita dal diritto d’autore prevista da tale direttiva è la «struttura»
+della banca di dati, e non già il suo «contenuto» né, pertanto, gli elementi
+costitutivi di quest’ultimo.  
+  
+---|---  
+  
+31
+
+|
+
+Del pari, come risulta dall’articolo 10, paragrafo 2, dell’Accordo sugli
+aspetti dei diritti di proprietà intellettuale attinenti al commercio e
+dall’articolo 5 del Trattato dell’OMPI sul diritto d’autore, la compilazione
+di dati che, per effetto della selezione o della disposizione del loro
+contenuto, costituisce una creazione intellettuale è protetta in quanto tale
+dal diritto d’autore. Tale protezione non si estende, invece, ai dati stessi e
+non pregiudica i diritti d’autore eventualmente esistenti su tali dati.  
+  
+---|---  
+  
+32
+
+|
+
+In tale contesto, le nozioni di «scelta» e di «disposizione», ai sensi
+dell’articolo 3, paragrafo 1, della direttiva 96/9 riguardano,
+rispettivamente, la selezione e la sistematizzazione dei dati con cui l’autore
+della base conferisce a quest’ultima la sua struttura. Tali nozioni non
+comprendono, invece, la creazione dei dati contenuti in tale base.  
+  
+---|---  
+  
+33
+
+|
+
+Di conseguenza, come affermano la Yahoo e a., i governi italiano, portoghese e
+finlandese, al pari della Commissione europea, gli elementi indicati nella
+prima questione, lettera a), sollevata dal giudice del rinvio e relativi
+all’impegno intellettuale nonché al know-how destinati alla creazione di dati
+non possono essere presi in considerazione per valutare se la banca di dati
+che li contiene possa godere della tutela in base al diritto d’autore prevista
+dalla direttiva 96/9.  
+  
+---|---  
+  
+34
+
+|
+
+Tale analisi è confermata dalla finalità della citata direttiva. Come si
+ricava dai considerando 9, 10 e 12 della stessa, tale finalità consiste
+nell’incentivare la creazione di sistemi di memorizzazione e gestione di dati
+al fine di contribuire allo sviluppo del mercato delle informazioni in un
+contesto caratterizzato da una crescita esponenziale della massa di
+informazioni prodotte ed elaborate annualmente in tutti i settori di attività
+(v. sentenze del 9 novembre 2004, Fixtures Marketing, C-46/02, cit., punto 33;
+The British Horseracing Board e a., C-203/02, Racc. pag. I-10415, punto 30;
+Fixtures Marketing, C-338/02, cit., punto 23, nonché Fixtures Marketing,
+C-444/02, cit., punto 39), e non nel proteggere la creazione di elementi che
+possano essere raccolti in una banca di dati.  
+  
+---|---  
+  
+35
+
+|
+
+Nella causa principale, occorre rilevare che i mezzi, in particolare
+intellettuali, descritti dal giudice del rinvio, così come sono riportati ai
+punti 14-18 supra, mirano, nell’ambito dell’organizzazione dei campionati in
+questione, a determinare la data, l’orario e l’identità delle squadre relativi
+a ciascun incontro di tali campionati, in funzione di un insieme di regole, di
+parametri e di vincoli organizzativi, nonché delle specifiche richieste
+formulate dalle squadre interessate (v. citate sentenze del 9 novembre 2004,
+Fixtures Marketing, C-46/02, punto 41; Fixtures Marketing, C-338/02, punto 31,
+e Fixtures Marketing, C-444/02, punto 47).  
+  
+---|---  
+  
+36
+
+|
+
+Come hanno sottolineato la Yahoo e a. e il governo portoghese, tali mezzi
+riguardano la creazione dei dati stessi contenuti nella banca di dati de qua,
+come ricordato al punto 26 supra (v. citate sentenze del 9 novembre 2004,
+Fixtures Marketing, C-46/02, punto 42; Fixtures Marketing, C-338/02, punto 31,
+e Fixtures Marketing, C-444/02, punto 47). Pertanto, alla luce di quanto
+esposto al punto 32 supra, essi non presentano comunque alcuna rilevanza ai
+fini della valutazione della questione se i calendari degli incontri di calcio
+oggetto della causa principale possano godere della tutela conferita dal
+diritto d’autore prevista dalla direttiva 96/9.  
+  
+---|---  
+  
+37
+
+|
+
+In secondo luogo, come risulta dal considerando 16 della direttiva 96/9, la
+nozione di creazione dell’ingegno propria del suo autore rinvia al criterio di
+originalità (v., in tal senso, sentenze del 16 luglio 2009, Infopaq
+International, C-5/08, Racc. pag. I-6569, punti 35, 37 e 38; del 22 dicembre
+2010, Bezpečnostní softwarová asociace, C-393/09, Racc. pag. I-13971, punto
+45; del 4 ottobre 2011, Football Association Premier League e a., C-403/08 e
+C-429/08, Racc. pag. I-9083, punto 97, nonché del 1o dicembre 2011, Painer,
+C-145/10, Racc. pag. I-12533, punto 87).  
+  
+---|---  
+  
+38
+
+|
+
+Per quanto concerne la costituzione di una banca di dati, tale criterio di
+originalità è soddisfatto quando, mediante la scelta o la disposizione dei
+dati in essa contenuti, il suo autore esprima la sua capacità creativa con
+originalità effettuando scelte libere e creative (v., per analogia, citate
+sentenze Infopaq International, punto 45; Bezpečnostní softwarová asociace,
+punto 50, e Painer, punto 89) ed imprime quindi il suo «tocco personale»
+(sentenza Painer, cit., punto 92).  
+  
+---|---  
+  
+39
+
+|
+
+Al contrario, il criterio de quo non è soddisfatto quando la costituzione
+della banca di dati sia dettata da considerazioni di carattere tecnico, da
+regole o vincoli che non lasciano margine per la libertà creativa (v., per
+analogia, citate sentenze Bezpečnostní softwarová asociace, punti 48 e 49,
+nonché Football Association Premier League e a., punto 98).  
+  
+---|---  
+  
+40
+
+|
+
+Come risulta sia dall’articolo 3, paragrafo 1, sia dal considerando 16 della
+direttiva 96/9, per valutare se una banca di dati possa godere della tutela in
+base al diritto d’autore prevista da tale direttiva non sono applicabili
+criteri diversi da quello di originalità.  
+  
+---|---  
+  
+41
+
+|
+
+Ne deriva, da un lato, che, purché la scelta o la disposizione dei dati – vale
+a dire, in una fattispecie come quella oggetto della causa principale, quelli
+riguardanti la data, l’orario e l’identità delle squadre relativi ai vari
+incontri del campionato in questione (v. punto 26 supra) – sia espressione
+originale dello spirito creativo dell’autore della banca di dati, ai fini
+della valutazione della questione se detta banca di dati possa godere della
+tutela conferita dal diritto d’autore prevista dalla direttiva 96/9 è
+indifferente che tale scelta o tale disposizione includa, o meno,
+l’attribuzione di una «significativa rilevanza» a detti dati, così come
+indicato nella prima questione, lettera b), sollevata dal giudice del rinvio.  
+  
+---|---  
+  
+42
+
+|
+
+Dall’altro lato, il fatto che la costituzione della banca di dati abbia
+richiesto, oltre alla creazione dei dati in essa contenuti, un dispiego di
+attività e know-how significativi da parte del suo autore, così come indicato
+nella lettera c) della questione medesima, non può, di per sé, giustificare la
+sua tutela in base al diritto d’autore prevista dalla direttiva 96/9, qualora
+tale attività e tale know-how non esprimano alcuna originalità nella scelta o
+nella disposizione dei dati di cui trattasi.  
+  
+---|---  
+  
+43
+
+|
+
+Nella specie, spetta al giudice del rinvio valutare, alla luce degli elementi
+di analisi suesposti, se i calendari degli incontri di calcio oggetto della
+causa principale costituiscano banche di dati che soddisfino i requisiti
+necessari per poter godere della tutela conferita dal diritto d’autore,
+fissati all’articolo 3, paragrafo 1, della direttiva 96/9.  
+  
+---|---  
+  
+44
+
+|
+
+A tal riguardo, le modalità con cui vengono elaborati tali calendari, quali
+descritte dal giudice del rinvio, se non sono associate ad elementi che
+rappresentino originalità nella scelta o nella disposizione dei dati racchiusi
+in tali calendari, non sono sufficienti affinché la banca di dati in questione
+possa essere protetta attraverso il diritto d’autore previsto dall’articolo 3,
+paragrafo 1, della direttiva 96/9.  
+  
+---|---  
+  
+45
+
+|
+
+Alla luce delle suesposte considerazioni, occorre rispondere alla prima
+questione sollevata dichiarando che l’articolo 3, paragrafo 1, della direttiva
+96/9 deve essere interpretato nel senso che una «banca di dati», ai sensi
+dell’articolo 1, paragrafo 2, di tale direttiva, è protetta dal diritto
+d’autore previsto dalla direttiva medesima a condizione che la scelta o la
+disposizione dei dati in essa contenuti costituisca un’espressione originale
+della libertà creativa del suo autore, valutazione, questa, che spetta al
+giudice nazionale.  
+  
+---|---  
+  
+46
+
+|
+
+Di conseguenza:
+
+|
+
+—
+
+|
+
+l’impegno intellettuale e il know-how destinati alla creazione di detti dati
+non sono rilevanti per stabilire se la relativa banca di dati possa godere
+della tutela conferita da tale diritto;  
+  
+---|---  
+  
+—
+
+|
+
+a tal fine, è indifferente che la scelta o la disposizione di tali dati
+includa, o meno, l’attribuzione agli stessi di una significativa rilevanza, e  
+  
+---|---  
+  
+—
+
+|
+
+il dispiego di attività e know-how significativi necessario ai fini della
+costituzione di tale banca di dati non può, di per sé, giustificare una
+siffatta tutela se non esprime alcuna originalità nella scelta o nella
+disposizione dei dati ivi contenuti.  
+  
+---|---  
+  
+Sulla seconda questione pregiudiziale
+
+47
+
+|
+
+Con la sua seconda questione, il giudice del rinvio chiede, in sostanza, se la
+direttiva 96/9 debba essere interpretata nel senso che osti a una normativa
+nazionale che accordi a banche di dati rientranti nella definizione contenuta
+nel suo articolo 1, paragrafo 2, una tutela in base al diritto d’autore a
+condizioni diverse da quelle previste dal suo articolo 3, paragrafo 1.  
+  
+---|---  
+  
+48
+
+|
+
+A tal proposito, occorre sottolineare che la direttiva 96/9, ai sensi dei suoi
+primi quattro considerando, è volta ad eliminare le differenze esistenti tra i
+diritti nazionali in materia di tutela giuridica delle banche di dati, in
+particolare per quanto riguarda la portata e le condizioni della tutela
+conferita dal diritto d’autore, e pregiudizievoli per il funzionamento del
+mercato interno, la libera circolazione di beni o servizi all’interno
+dell’Unione europea nonché lo sviluppo di un mercato dell’informazione
+nell’ambito della stessa.  
+  
+---|---  
+  
+49
+
+|
+
+In tale contesto, l’articolo 3 della direttiva 96/9 procede, come si evince
+dal considerando 60 di detta direttiva, a «un’armonizzazione dei criteri
+applicati per stabilire se una banca di dati sarà tutelata in base al diritto
+d’autore».  
+  
+---|---  
+  
+50
+
+|
+
+È pur vero, per quanto riguarda le banche di dati protette, alla data del 27
+marzo 1996, da un regime nazionale di diritto d’autore che riconosce tutela in
+base a criteri diversi da quelli di cui all’articolo 3, paragrafo 1, della
+menzionata direttiva, che l’articolo 14, paragrafo 2, della direttiva 96/9
+garantisce, nello Stato membro interessato, la durata della tutela
+riconosciuta da detto regime. Tuttavia, fatta unicamente salva questa
+disposizione transitoria, il citato articolo 3, paragrafo 1, osta a che una
+normativa nazionale accordi a banche di dati rientranti nella definizione
+contenuta nell’articolo 1, paragrafo 2, della citata direttiva, la tutela in
+base al diritto d’autore a condizioni che si discostino dal requisito di
+originalità previsto dal citato articolo 3, paragrafo 1.  
+  
+---|---  
+  
+51
+
+|
+
+Quanto ai considerando 18, 26 e 27 della direttiva 96/9, cui si richiamano la
+Football Dataco e a., essi sottolineano la libertà di cui godono gli autori di
+opere di decidere in merito all’inserimento delle stesse in una banca di dati,
+nonché l’irrilevanza dell’inserimento di un’opera tutelata in una banca di
+dati eventualmente protetta sui diritti che tutelano l’opera così inserita.
+Essi non offrono, per contro, alcun sostegno ad un’interpretazione contraria a
+quella esposta supra al punto precedente.  
+  
+---|---  
+  
+52
+
+|
+
+Alla luce delle considerazioni che precedono, occorre rispondere alla seconda
+questione sollevata dichiarando che la direttiva 96/9 deve essere interpretata
+nel senso che, fatta salva la disposizione transitoria contenuta nel suo
+articolo 14, paragrafo 2, essa osta a una normativa nazionale che accordi a
+banche di dati ricomprese nella definizione contenuta nel suo articolo 1,
+paragrafo 2, una tutela in base al diritto d’autore a condizioni diverse da
+quelle previste dal suo articolo 3, paragrafo 1.  
+  
+---|---  
+  
+Sulle spese
+
+53
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Terza Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+L’articolo 3, paragrafo 1, della direttiva 96/9/CE del Parlamento europeo e
+del Consiglio, dell’11 marzo 1996, relativa alla tutela giuridica delle banche
+di dati, deve essere interpretato nel senso che una «banca di dati», ai sensi
+dell’articolo 1, paragrafo 2, di tale direttiva, è protetta dal diritto
+d’autore previsto dalla direttiva medesima a condizione che la scelta o la
+disposizione dei dati in essa contenuti costituisca un’espressione originale
+della libertà creativa del suo autore, valutazione, questa, che spetta al
+giudice nazionale.
+
+Di conseguenza:
+
+|
+
+—
+
+|
+
+l’impegno intellettuale e il know-how destinati alla creazione di detti dati
+non sono rilevanti per stabilire se la relativa banca di dati possa godere
+della tutela conferita da tale diritto;  
+  
+---|---  
+  
+—
+
+|
+
+a tal fine, è indifferente che la scelta o la disposizione di tali dati
+includa, o meno, l’attribuzione agli stessi di una significativa rilevanza, e  
+  
+---|---  
+  
+—
+
+|
+
+il dispiego di attività e know-how significativi necessario ai fini della
+costituzione di tale banca di dati non può, di per sé, giustificare una
+siffatta tutela se non esprime alcuna originalità nella scelta o nella
+disposizione dei dati ivi contenuti.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+La direttiva 96/9 deve essere interpretata nel senso che, fatta salva la
+disposizione transitoria contenuta nel suo articolo 14, paragrafo 2, essa osta
+a una normativa nazionale che accordi a banche di dati ricomprese nella
+definizione contenuta nel suo articolo 1, paragrafo 2, una tutela in base al
+diritto d’autore a condizioni diverse da quelle previste dal suo articolo 3,
+paragrafo 1.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: l’inglese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+

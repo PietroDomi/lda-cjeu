@@ -1,0 +1,543 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+8 dicembre 2011 (*)
+
+«Art. 88, n. 3, CE - Aiuti di Stato - Aiuto concesso sotto forma di garanzia
+al mutuante al fine di consentirgli la concessione di un finanziamento al
+mutuatario - Violazione di norme procedurali - Obbligo di recupero - Nullita -
+Poteri del giudice nazionale»
+
+Nel procedimento C‑275/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell'art. 267 TFUE, introdotta dallo Hoge Raad der Nederlanden (Paesi
+Bassi) con decisione 28 maggio 2010, pervenuta in cancelleria il 2 giugno
+2010, nella causa
+
+**Residex Capital IV CV**
+
+contro
+
+**Gemeente Rotterdam** ,
+
+LA CORTE (Prima Sezione),
+
+composta dal sig. A.Tizzano (relatore), presidente di sezione, dai sigg. M.
+Safjan, A. Borg-Barthet, E. Levits e J.‑J. Kasel, giudici,
+
+avvocato generale: sig.ra J. Kokott
+
+cancelliere: sig.ra M. Ferreira, amministratore principale
+
+vista la fase scritta del procedimento e in seguito all'udienza del 13 aprile
+2011,
+
+considerate le osservazioni presentate:
+
+-        per la Residex Capital IV CV, dagli avv.ti M. Scheltema e E. Schotanus, advocaten;
+
+-        per la Gemeente Rotterdam, dagli avv.ti J. van den Brande e M. Custers, advocaten;
+
+-        per il governo dei Paesi Bassi, dalla sig.ra M. Noort, in qualita di agente;
+
+-        per il governo danese, dal sig. C. Vang, in qualita di agente;
+
+-        per il governo tedesco, dal sig. T. Henze e dalla sig.ra K. Petersen, in qualita di agenti;
+
+-        per la Commissione europea, dai sigg. H. van Vliet e S. Thomas, in qualita di agenti,
+
+sentite le conclusioni dell'avvocato generale, presentate all'udienza del 26
+maggio 2011,
+
+ha pronunciato la seguente
+
+**Sentenza**
+
+1        La domanda di pronuncia pregiudiziale verte sull'interpretazione
+dell'art. 88, n. 3, CE.
+
+2        Tale domanda e stata proposta nell'ambito di una controversia tra la
+societa Residex Capital IV CV (in prosieguo: la «Residex») e la Gemeente
+Rotterdam (Comune di Rotterdam) in merito ad una garanzia concessa dalla
+Gemeentelijk Havenbedrijf Rotterdam (azienda comunale del porto di Rotterdam;
+in prosieguo: la «GHR») alla Residex, ai fini della copertura di un
+finanziamento da quest'ultima concesso ad un mutuatario.
+
+  **Contesto normativo**
+
+  _Diritto dell 'Unione _
+
+3        Il tredicesimo 'considerando' del regolamento (CE) del Consiglio 22
+marzo 1999, n. 659, recante modalita di applicazione dell'articolo [88] del
+Trattato CE (GU L 83, pag. 1), cosi recita:
+
+«considerando che in caso di aiuti illegali non compatibili con il mercato
+comune occorrerebbe ripristinare la concorrenza effettiva; che a tal fine e
+necessario che l'aiuto, compresi gli interessi, venga recuperato senza
+indugio; che e opportuno che il recupero avvenga nel rispetto delle procedure
+di legge nazionali (…)».
+
+4        L'art. 1 del regolamento medesimo cosi dispone:
+
+«Ai fini del presente regolamento, si intende per:
+
+(…)
+
+f)      "aiuti illegali": i nuovi aiuti attuati in violazione dell'articolo
+[88], paragrafo 3, del trattato;
+
+(…)».
+
+5        La comunicazione della Commissione relativa all'applicazione della
+normativa in materia di aiuti di Stato da parte dei giudici nazionali (GU
+2009, C 85, pag. 1) afferma, al punto 28, contenuto nel capitolo intitolato
+«Sospensione del pagamento dell'aiuto illegale» quanto segue:
+
+«(…)Nell'ambito degli obblighi ad essi incombenti, ai sensi dell'articolo 88,
+paragrafo 3, del trattato CE, i giudici nazionali devono salvaguardare i
+diritti degli individui contro l'eventuale violazione di siffatti diritti
+(...)».
+
+6        Il successivo punto 30, contenuto nel capitolo rubricato «Recupero di
+aiuti illegali», cosi recita:
+
+«In caso di aiuti concessi illegittimamente, il giudice nazionale deve trarre
+tutte le conseguenze giuridiche derivanti da tale illegittimita in base al
+diritto nazionale. Di conseguenza, il giudice nazionale, in linea di
+principio, deve esigere dal beneficiario il rimborso integrale dell'aiuto di
+Stato illegale (…). Il giudice nazionale e tenuto a ordinare il recupero
+integrale dell'aiuto illegale per tutelare i diritti individuali del
+ricorrente (come il concorrente) a norma dell'articolo 88, paragrafo 3 del
+trattato (…). L'obbligo del recupero del giudice nazionale pertanto non
+dipende dalla compatibilita della misura di aiuto con l'articolo 87, paragrafi
+2 o 3 del trattato (…)».
+
+7        Al punto 2.1, terzo comma, della comunicazione della Commissione
+sull'applicazione degli artt. 87 e 88 del Trattato CE agli aiuti di Stato
+concessi sotto forma di garanzie (GU 2008, C 155, pag. 10; in prosieguo:
+«comunicazione sulle garanzie»), e precisato quanto segue:
+
+«(…) Il beneficio derivante dalla garanzia statale risiede nel fatto che il
+relativo rischio viene assunto dallo Stato. Tale assunzione del rischio
+dovrebbe in linea di principio essere remunerata con un adeguato corrispettivo
+(premio). L'eventuale rinuncia, totale o parziale, al premio stesso comporta
+una perdita di risorse per lo Stato e nel contempo un beneficio per l'impresa
+(…)».
+
+8        A termini del successivo punto 2.2:
+
+«Di solito il beneficiario degli aiuti e il mutuatario. (…) Senza la garanzia
+statale egli talvolta non sarebbe in grado di trovare un istituto finanziario
+disposto a concedergli un prestito ad alcuna condizione. (…) Analogamente, una
+garanzia statale puo permettere ad un'impresa in crisi di proseguire le
+proprie attivita anziche essere eliminata o ristrutturata, provocando in tal
+modo una distorsione della concorrenza».
+
+9        Il punto 2.3 della comunicazione medesima, rubricato «Aiuti concessi
+al mutuante», recita quanto segue:
+
+«2.3.1. Sebbene di norma il beneficiario dell'aiuto sia il mutuatario, non puo
+escludersi che in talune circostanze anche il mutuante fruisca direttamente di
+un aiuto statale. Ad esempio, un aiuto al mutuante puo segnatamente
+sussistere, per effetto dell'aumento della copertura da cui e assistito il
+credito, nell'ipotesi in cui una garanzia statale venga concessa a posteriori
+per un prestito o per altra obbligazione pecuniaria preesistente, senza
+un'adeguata modifica delle loro condizioni, oppure nell'ipotesi in cui il
+prestito garantito venga utilizzato per rimborsare un prestito non garantito
+al medesimo istituto di credito. (…)».
+
+2.3.2. Le garanzie si differenziano dagli altri provvedimenti di aiuto
+statale, quali i contributi o le esenzioni fiscali, in quanto implicano
+l'instaurazione di un rapporto giuridico tra lo Stato ed il mutuante. Di
+conseguenza e necessario esaminare le possibili conseguenze per soggetti terzi
+qualora lo Stato abbia concesso un aiuto illegale. (…) La questione relativa
+all'eventuale incidenza dell'illegittimita dell'aiuto sul rapporto giuridico
+instaurato tra lo Stato ed i soggetti terzi deve essere esaminata secondo il
+diritto nazionale».
+
+10      Il successivo punto 3.2, rubricato «Garanzie ad hoc», cosi recita:
+
+«Nel caso delle garanzie statali ad hoc, la Commissione ritiene sufficiente
+che vengano rispettate tutte le condizioni seguenti per escludere la presenza
+di aiuti di Stato:
+
+(…)
+
+c)      La garanzia non assiste piu dell'80% del prestito (o di un'altra
+obbligazione finanziaria) in essere; (…)
+
+La Commissione ritiene che, se l'obbligazione finanziaria e interamente
+assistita da una garanzia statale, il mutuante sara meno motivato a valutare,
+coprire e minimizzare adeguatamente il rischio derivante dall'operazione di
+prestito e, in particolare, a valutare adeguatamente il merito di credito del
+mutuatario. (…) La mancanza di incentivo a minimizzare il rischio
+dell'inadempimento potrebbe indurre i mutuanti a concedere prestiti soggetti a
+rischi eccedenti il normale rischio di mercato, (…).
+
+(…)».
+
+11      Il punto 4.1 della comunicazione medesima cosi recita:
+
+«(…) In linea di principio, si considerera l'elemento dell'aiuto di Stato come
+la differenza tra il prezzo di mercato adeguato della garanzia fornita ad hoc
+o attraverso un regime ed il prezzo realmente pagato per tale misura.
+
+(…)
+
+Nel calcolare l'elemento di aiuto in una garanzia, la Commissione si
+concentrera in particolare sui seguenti elementi:
+
+a)      Se, nell'ipotesi di garanzie ad hoc, il mutuatario si trovi in
+difficolta finanziarie (…).
+
+La Commissione sottolinea che, per le imprese in difficolta, un (eventuale)
+garante di mercato, al momento di concedere la garanzia, addebiterebbe un
+premio elevato visto il tasso di inadempimento previsto; se la probabilita che
+il mutuatario non possa rimborsare il prestito diventa particolarmente
+elevata, tale tasso di mercato puo non esistere ed in circostanze eccezionali
+l'elemento di aiuto della garanzia puo rivelarsi elevato quanto l'importo
+effettivamente coperto da tale garanzia;
+
+(…)».
+
+  _La normativa olandese_
+
+12      L'art. 3:40, n. 2, del codice civile olandese cosi dispone:
+
+«Il contrasto con una norma imperativa determina la nullita del negozio
+giuridico ovvero solo la sua annullabilita, se la disposizione e volta
+esclusivamente alla tutela di una delle parti di un negozio plurilaterale; cio
+vale solo nella misura in cui non risulti diversamente dalla ratio della
+disposizione».
+
+  **Causa principale e questione pregiudiziale**
+
+13      Nel 2001 la Residex acquisiva un pacchetto azionario nella societa MD
+Helicopters Holding NV (in prosieguo: la «MDH»), societa controllata della RDM
+Aerospace NV (in prosieguo: la «Aerospace»). Nell'ambito di tale acquisizione
+la Residex aveva ottenuto un'opzione in base alla quale poteva rivendere il
+pacchetto azionario della MDH alla Aerospace. Nel corso del febbraio 2003,
+dopo aver respinto una richiesta volta a che essa aumentasse la propria
+partecipazione nel capitale della MDH, ovvero concedesse un prestito a
+quest'ultima o alla Aerospace, la Residex si avvaleva dell'opzione.
+
+14      La Residex non otteneva tuttavia il pagamento del prezzo di vendita
+delle proprie azioni, pari a circa EUR 8,5 milioni, somma che essa avrebbe
+dovuto percepire per effetto dell'esercizio dell'opzione. Infatti, dalla
+decisione di rinvio emerge che, nella specie, il capo del servizio della GHR
+proponeva alla Residex di trasformare il proprio credito in prestito,
+aggiungendo a tale importo un finanziamento di USD 15 milioni (equivalenti,
+all'epoca, a circa EUR 13 922 405) che la Residex avrebbe concesso alla
+Aerospace. A titolo di contropartita, la GHR si obbligava a costituire una
+garanzia volta a coprire l'importo del finanziamento.
+
+15      Con contratto del 3 marzo 2003, completato nel maggio successivo, il
+prestito veniva concluso per un importo di EUR 23 040 657,03, ivi compresi gli
+interessi e le spese. Con contratto di pari data la GHR si costituiva garante
+a favore della Residex per un importo massimo di EUR 23 012 510, oltre
+interessi e spese del prestito.
+
+16      È pacifico che la Aerospace abbia rimborsato parte di tale
+finanziamento, a concorrenza di EUR 16 000 000\. A fronte della constatazione
+che la residua parte del finanziamento, oltre interessi, non era stata
+rimborsata dalla Aerospace, la Residex chiamava in garanzia la Gemeente
+Rotterdam, con lettera alla medesima del 22 dicembre 2004, chiedendo il
+pagamento dell'importo di EUR 10 240 252, oltre interessi e spese. Poiche la
+Gemeente Rotterdam si rifiutava a provvedere al versamento di tale importo, la
+Residex adiva l'autorita giudiziaria olandese.
+
+17      Con sentenza 24 gennaio 2007, il Rechtbank Rotterdam dichiarava
+fondata la tesi difensiva della Gemeente Rotterdam, secondo cui la garanzia e
+nulla per violazione del diritto dell'Unione in materia di aiuti di Stato e,
+conseguentemente, respingeva la domanda della Residex. L'appello da
+quest'ultima interposto avverso tale sentenza veniva respinto dal Gerechtshof
+te 's-Gravenhage (Corte d'appello dell'Aja) con sentenza 10 luglio 2008.
+
+18      Avverso tale sentenza la Residex ricorreva quindi in cassazione
+dinanzi al giudice del rinvio. Quest'ultimo rileva che, nell'ambito del
+procedimento in cassazione, non e contestato il rilievo del Gerechtshof te
+'s-Gravenhage secondo cui la garanzia costituisce una misura di aiuto ai sensi
+dell'art. 87 CE, ragion per cui essa avrebbe dovuto essere notificata alla
+Commissione a norma dell'art. 88, n. 3, CE.
+
+19      La Residex contesta, in particolare, al Gerechtshof te 's-Gravenhage
+di non aver tenuto conto del fatto che l'art. 88, n. 3, CE, incide sulla
+validita di misure di esecuzione incompatibili con tale disposizione solamente
+quando la nullita di queste conduce all'eliminazione dell'aiuto
+illegittimamente concesso al beneficiario e, conseguentemente, conduce
+all'eliminazione della distorsione della concorrenza determinata
+dall'attuazione dell'aiuto, vale a dire, nella specie, al recupero del
+finanziamento alla Aerospace.
+
+20      Richiamandosi, segnatamente, alle sentenze 20 settembre 2001, causa
+C‑390/98, Banks (Racc. pag. I‑6117, punti 73‑80) e 12 febbraio 2008, causa
+C‑199/06, CELF e ministre de la Culture et de la Communication (Racc. pag.
+I‑469, punti 34‑55), lo Hoge Raad der Nederlanden ritiene che l'eliminazione
+dell'aiuto illegittimo mediante il suo recupero costituisca la logica
+conseguenza dell'accertamento dell'illegittimita dell'aiuto medesimo e che il
+giudice nazionale debba accogliere la domanda di rimborso dell'aiuto concesso
+in violazione dell'art. 88, n. 3, CE.
+
+21      Cosi, nel caso di specie, contrariamente a quanto sostenuto dalla
+Residex, il Gerechtshof te 's-Gravenhage sarebbe stato competente ad
+annullare, sulla base dell'art. 3:40, n. 2, del codice civile olandese, un
+atto giuridico di esecuzione di detto aiuto, in quanto incompatibile con la
+menzionata disposizione del Trattato CE. Lo Hoge Raad der Nederlanden rileva
+d'altronde che, in una causa analoga, da cui e scaturita la sentenza 27 giugno
+2000, causa C‑404/97, Commissione/Portogallo (Racc. pag. I‑4897), la Corte ha
+dichiarato l'invalidita della garanzia rilevando che il giudice nazionale
+doveva quindi procedere al suo annullamento nell'ambito dell'obbligo ad esso
+incombente di eliminazione delle conseguenze di un aiuto illegittimo.
+
+22      Tuttavia, il giudice del rinvio si chiede se l'annullamento della
+garanzia costituisca una misura efficace per ristabilire la situazione
+antecedente alla concessione del finanziamento, segnatamente ai fini della
+tutela degli interessi delle parti colpite da una distorsione della
+concorrenza risultante dalla concessione del finanziamento medesimo. A tal
+riguardo, il giudice a quo osserva che l'annullamento della garanzia non
+implica l'eliminazione della distorsione della concorrenza, vale a dire del
+finanziamento ottenuto dalla Aerospace, di cui detta societa non avrebbe
+potuto beneficiare in normali circostanze di mercato. Per ottenerne
+l'eliminazione, sarebbe necessario recuperare i benefici tratti dalla
+Aerospace da tale vantaggio concorrenziale.
+
+23      Cio premesso, lo Hoge Raad der Nederlanden decideva di sospendere il
+procedimento e di sottoporre alla Corte la seguente questione pregiudiziale:
+
+«Se il disposto dell'ultimo periodo dell'art. 88, n. 3, CE, attualmente
+divenuto art. 108, n. 3, TFUE, in una fattispecie come quella in esame, in cui
+un aiuto di Stato illegittimo ha avuto attuazione mediante concezione di una
+garanzia al mutuante, con la conseguenza che il mutuatario ha potuto ottenere
+dal mutuante medesimo un finanziamento che, in normali condizioni di mercato,
+non avrebbe potuto ottenere, debba essere interpretato nel senso che il
+giudice nazionale, nell'ambito del proprio obbligo di eliminare le conseguenze
+dell'aiuto illegittimo, abbia l'obbligo o, quantomeno, la facolta di annullare
+la garanzia controversa, sebbene tale annullamento non implichi il recupero
+del finanziamento concesso in forza di detta garanzia».
+
+  **Sulla questione pregiudiziale**
+
+24      Con la questione pregiudiziale il giudice del rinvio chiede,
+sostanzialmente, da un lato, se i giudici nazionali degli Stati membri siano
+competenti ad annullare una garanzia in una fattispecie come quella oggetto
+della causa principale, in cui la garanzia e stata concessa da un ente
+pubblico ai fini della copertura di un prestito concesso da una societa
+finanziaria ad un'impresa la quale non avrebbe potuto ottenere tale
+finanziamento in normali condizioni di mercato e, dall'altro, in caso di
+soluzione affermativa di tale questione, se il diritto dell'Unione imponga al
+giudice medesimo di procedere all'annullamento della garanzia ottenuta in tali
+circostanze.
+
+25      Al fine di rispondere alla prima parte della questione si deve
+rammentare che l'attuazione del sistema di controllo degli aiuti di Stato,
+come risulta dall'art. 88 CE e dalla pertinente giurisprudenza della Corte,
+incombe, da un lato, alla Commissione e, dall'altro, ai giudici nazionali.
+(sentenza 5 ottobre 2006, causa C‑368/04, Transalpine Ölleitung in Österreich
+e a., Racc. pag. I‑9957, punto 36).
+
+26      A tal riguardo, i giudici nazionali e la Commissione svolgono ruoli
+distinti ma complementari (v. sentenze 11 luglio 1996, causa C‑39/94, SFEI e
+a., Racc. pag. I‑3547, punto 41; 21 ottobre 2003, cause riunite C‑261/01 e
+C‑262/01, van Calster e a., Racc. pag. I‑12249, punto 74, nonche Transalpine
+Ölleitung in Österreich e a., cit. supra, punto 37).
+
+27      Infatti, mentre la valutazione della compatibilita di misure di aiuto
+con il mercato comune rientra nella competenza esclusiva della Commissione,
+che agisce sotto il controllo dei giudici dell'Unione, i giudici nazionali
+provvedono alla salvaguardia dei diritti dei singoli in caso di inadempimento
+dell'obbligo di previa notifica degli aiuti di Stato alla Commissione previsto
+dall'art. 88, n. 3, CE (v. le menzionate sentenze van Calster e a., punto 75,
+nonche Transalpine Ölleitung in Österreich e a., punto 38).
+
+28      Cio premesso, si deve ricordare che una misura di aiuto attuata in
+violazione degli obblighi dettati dall'art. 88, n. 3, CE, e illegittima (v.
+sentenze 21 novembre 1991, causa C‑354/90, Federation nationale du commerce
+exterieur des produits alimentaires et Syndicat national des negociants et
+transformateurs de saumon, Racc. pag. I‑5505, punto 17, nonche 27 ottobre
+2005, cause riunite da C‑266/04 a C‑270/04, causa C‑276/04 e da C‑321/04 a
+C‑325/04, Distribution Casino France e a., Reac. pag. I‑9481, punto 30). Tale
+interpretazione trova peraltro conferma nell'art. 1, lett. f), del regolamento
+n. 659/1999.
+
+29      A tal riguardo la Corte ha ripetutamente avuto modo di dichiarare che,
+in caso di violazione dell'art. 88, n. 3, CE, spetta al giudice nazionale
+trarne tutte le conseguenze, conformemente al suo diritto nazionale, sia per
+quanto riguarda la validita degli atti che comportano l'attuazione delle
+misure di aiuto, sia per quanto attiene al recupero degli aiuti finanziari
+concessi in violazione di tale norma (sentenze van Calster e a., cit. supra,
+punto 64; 21 luglio 2005, causa C‑71/04, Xunta de Galicia, Racc., pag. I‑7419,
+punto 49, nonche CELF e ministre de la Culture et de la Communication, cit.
+supra, punto 41).
+
+30      Orbene, nella causa principale, il giudice del rinvio rileva che la
+garanzia concessa alla Residex costituisce una misura di aiuto non notificata
+e, conseguentemente, illegittima.
+
+31      Ne consegue che, in tal caso, i giudici nazionali del Regno dei Paesi
+Bassi sono competenti a trarre tutte le conseguenze da tale illegittimita,
+conformemente al loro diritto nazionale, anche per quanto attiene alla
+validita degli atti di esecuzione di tale garanzia.
+
+32      Con la seconda parte della questione pregiudiziale il giudice del
+rinvio chiede se il diritto dell'Unione imponga ai giudici nazionali di
+annullare una garanzia concessa in circostanze come quella oggetto della causa
+principale.
+
+33      Al fine di procedere alla soluzione di tale seconda parte della
+questione, si deve ricordare che, secondo costante giurisprudenza della Corte,
+la logica conseguenza dell'accertamento dell'illegittimita di un aiuto e la
+sua soppressione mediante recupero al fine di ripristinare la situazione
+precedente (v., segnatamente, sentenze 8 maggio 2003, cause riunite C‑328/99 e
+C‑399/00, Italia e SIM 2 Multimedia/Commissione, Racc. pag. I‑4035, punto 66,
+e 28 luglio 2011, causa C‑403/10 P, Mediaset/Commissione, non ancora
+pubblicata nella Raccolta, punto 22).
+
+34      In tal senso, il principale obiettivo cui e finalizzato il rimborso di
+un aiuto di Stato illegittimamente versato e quello di eliminare la
+distorsione della concorrenza causata dal vantaggio concorrenziale determinato
+dall'aiuto medesimo (sentenze 29 aprile 2004, causa C‑277/00,
+Germania/Commissione, Racc. pag. I‑3925, punto 76, e 17 settembre 2009, causa
+C‑520/07 P, Commissione/MTU Friedrichshafen, Racc. pag. I‑8555, punto 57).
+Infatti, con la restituzione dell'aiuto, il beneficiario perde il vantaggio di
+cui aveva fruito sul mercato rispetto ai suoi concorrenti e viene ristabilita
+la situazione precedente al versamento dell'aiuto (sentenza 4 aprile 1995,
+causa C‑350/93, Italia/Commissione, Racc. pag. I‑699, punto 22).
+
+35      Solamente in casi eccezionali puo risultare inopportuno disporre il
+recupero dell'aiuto (sentenze 20 settembre 1990, causa C‑5/89,
+Commissione/Germania, Racc. pag. I‑3437, punto 16; SFEI e a., cit. supra,
+punto 70, nonche CELF e ministre de la Culture et de la Communication, cit.
+supra, punto 42).
+
+36      Nella causa principale, non emerge dagli atti che circostanze
+eccezionali di tal genere siano state invocate dinanzi ai giudici del Regno
+dei Paesi Bassi, ragion per cui questi ultimi sono tenuti a disporre il
+rimborso dell'aiuto oggetto della causa principale conformemente al loro
+diritto nazionale.
+
+37      Orbene, affinche si possa procedere a tale rimborso, e essenziale che
+i giudici nazionali individuino il beneficiario ovvero, eventualmente, i
+beneficiari dell'aiuto. Infatti, quando un aiuto viene concesso sotto forma di
+garanzia, i beneficiari dell'aiuto stesso possono essere vuoi il mutuatario
+vuoi il mutuante o, in taluni casi, entrambi congiuntamente.
+
+38      A tal riguardo si deve rilevare che, certamente, il giudice del rinvio
+ritiene che, nella causa sottopostagli, il beneficiario dell'aiuto sia la
+Aerospace.
+
+39      Infatti, quando il finanziamento concesso da un istituto di credito ad
+un mutuatario e garantito dalla pubblica amministrazione di uno Stato membro,
+detto mutuatario ricava normalmente un vantaggio economico e beneficia, in tal
+modo, di un aiuto ai sensi dell'art. 87, n. 1, CE, considerato che l'onere
+finanziario che questi sopporta e inferiore a quello che avrebbe sopportato se
+avesse dovuto procurarsi lo stesso finanziamento e la stessa garanzia a prezzo
+di mercato.
+
+40      Tuttavia, come e emerso dal dibattimento all'udienza dinanzi alla
+Corte e come rilevato dall'avvocato generale al paragrafo 71 delle
+conclusioni, da taluni rilievi in punto di fatto della decisione di rinvio
+risulta che, nella causa principale, la Residex avrebbe potuto parimenti
+trarre un vantaggio economico dalla garanzia di cui trattasi.
+
+41      Infatti, secondo il giudice del rinvio, la Aerospace si trovava in una
+situazione economica tale che essa non sarebbe stata in grado di ottenere un
+finanziamento sui mercati dei capitali. Pertanto, solamente a fronte della
+garanzia concessa dalla Gemeente Rotterdam la Residex le ha concesso un
+finanziamento a tasso preferenziale rispetto a quello vigente sul mercato.
+Inoltre, dagli atti sottoposti alla Corte non risulta che la Residex abbia
+remunerato la Gemeente Rotterdam a condizioni normali di mercato a titolo di
+contropartita per il vantaggio che essa poteva ricavare dalla garanzia.
+
+42      Cio premesso e alla luce dei dati di fatto rilevati supra al punto 14,
+non puo essere escluso a priori che la garanzia di cui trattasi sia stata
+concessa in relazione ad un credito esistente della Residex e cio nell'ambito
+di una ristrutturazione del debito della Aerospace. In tal caso, la Residex
+avrebbe ottenuto, per mezzo della garanzia, un vantaggio economico proprio
+considerato che, come parimenti rilevato al punto 2.3.1 della comunicazione
+relativa alle garanzie, il suo credito sarebbe divenuto piu solido per effetto
+della garanzia rilasciata dalla pubblica amministrazione, senza che peraltro
+abbia avuto luogo un adeguamento delle condizioni di finanziamento.
+
+43      Alla luce delle suesposte considerazioni, spetta al giudice del rinvio
+individuare, tenuto conto di tutte le particolarita del caso di specie, il
+beneficiario ovvero, eventualmente, i beneficiari della garanzia de qua
+disponendo, in applicazione dei principi rammentati supra ai punti 33, 34 e
+36, il recupero dell'importo complessivo dell'aiuto di cui trattasi.
+
+44      Cio premesso, si deve rilevare che, per quanto attiene
+all'annullamento della garanzia ed a prescindere del beneficiario dell'aiuto,
+il diritto dell'Unione non impone alcuna conseguenza determinata che i giudici
+nazionali debbano obbligatoriamente trarre quanto alla validita degli atti
+relativi all'esecuzione dell'aiuto.
+
+45      Tuttavia, come rilevato supra al punto 34, poiche l'obiettivo dei
+provvedimenti che i giudici nazionali sono tenuti ad adottare in caso di
+violazione dell'art. 88, n. 3, CE mira essenzialmente al ripristino della
+situazione concorrenziale precedente al versamento dell'aiuto di cui trattasi,
+i giudici medesimi devono assicurarsi che i provvedimenti da essi disposti
+quanto alla validita degli atti stessi consentano di conseguire tale
+obiettivo.
+
+46      Spetta, pertanto, al giudice del rinvio verificare se, tenuto conto
+delle specifiche circostanze della controversia ad esso sottoposta,
+l'annullamento della garanzia possa risultare piu efficace rispetto ad altre
+misure ai fini del ripristino della situazione ex ante.
+
+47      Possono infatti esservi situazioni in cui l'annullamento di un
+contratto, laddove possa determinare la reciproca restituzione delle
+prestazioni eseguite dalle parti ovvero l'eliminazione di un vantaggio futuro,
+puo risultare piu idoneo per conseguire l'obiettivo del ripristino della
+situazione concorrenziale precedente alla concessione dell'aiuto.
+
+48      Ne consegue che, nella causa principale, il giudice del rinvio puo
+disporre, in assenza di misure procedurali meno vincolanti, l'annullamento
+della garanzia concesso dalla Gemeente Rotterdam alla Residex laddove ritenga
+che, alla luce delle specifiche circostanze della specie, tale annullamento
+sia di idoneo a garantire o ad agevolare il ripristino della situazione
+concorrenziale precedente alla concessione della garanzia medesima.
+
+49      Alla luce di tutte le suesposte considerazioni, la questione
+pregiudiziale dev'essere risolta affermando che l'ultimo periodo dell'art. 88,
+n. 3, CE dev'essere interpretato nel senso che i giudici nazionali sono
+competenti ad annullare una garanzia in una fattispecie come quella oggetto
+della causa principale, in cui sia stata data esecuzione ad un aiuto
+illegittimo per mezzo di una garanzia concessa dalla pubblica amministrazione
+al fine di assistere un finanziamento concesso da una societa finanziaria a
+favore di un'impresa che non avrebbe potuto ottenere un finanziamento di tal
+genere in normali condizioni di mercato. Nell'esercizio di tale competenza, i
+giudici medesimi sono tenuti ad assicurare il recupero dell'aiuto e, a tal
+fine, possono disporre l'annullamento della garanzia, segnatamente, qualora,
+in assenza di misure procedurali meno vincolanti, detto annullamento sia
+idoneo a garantire o ad agevolare il ripristino della situazione
+concorrenziale precedente alla concessione della garanzia stessa.
+
+  **Sulle spese**
+
+50      Nei confronti delle parti nella causa principale il presente
+procedimento costituisce un incidente sollevato dinanzi al giudice nazionale,
+cui spetta quindi statuire sulle spese. Le spese sostenute da altri soggetti
+per presentare osservazioni alla Corte non possono dar luogo a rifusione.
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:
+
+**L 'ultimo periodo dell'art. 88, n. 3, CE dev'essere interpretato nel senso
+che i giudici nazionali sono competenti ad annullare una garanzia in una
+fattispecie come quella oggetto della causa principale, in cui sia stata data
+esecuzione ad un aiuto illegittimo per mezzo di una garanzia concessa dalla
+pubblica amministrazione al fine di assistere un finanziamento concesso da una
+societa finanziaria a favore di un'impresa che non avrebbe potuto ottenere un
+finanziamento di tal genere in normali condizioni di mercato. Nell'esercizio
+di tale competenza, i giudici medesimi sono tenuti ad assicurare il recupero
+dell'aiuto e, a tal fine, possono disporre l'annullamento della garanzia,
+segnatamente, qualora, in assenza di misure procedurali meno vincolanti, detto
+annullamento sia idoneo a garantire o ad agevolare il ripristino della
+situazione concorrenziale precedente alla concessione della garanzia stessa.**
+
+Firme
+
+* * *
+
+* Lingua processuale: l'olandese. 
+

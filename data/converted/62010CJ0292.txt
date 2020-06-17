@@ -1,0 +1,1729 @@
+
+
+SENTENZA DELLA CORTE (Prima Sezione)
+
+15 marzo 2012 ( *1 )
+
+«Competenza giurisdizionale ed esecuzione delle decisioni in materia civile e
+commerciale — Notifica pubblica degli atti giudiziari — Mancanza di un
+domicilio o di un luogo di soggiorno noto del convenuto nel territorio di uno
+Stato membro — Competenza “in materia di illeciti civili dolosi o colposi” —
+Violazione dei diritti della personalità che può essere stata commessa
+attraverso la pubblicazione di fotografie su Internet — Luogo in cui l’evento
+dannoso si è verificato o può verificarsi»
+
+Nella causa C-292/10,
+
+avente ad oggetto la domanda di pronuncia pregiudiziale proposta alla Corte,
+ai sensi dell’articolo 267 TFUE, dal Landgericht Regensburg (Germania), con
+decisione del 17 maggio 2010, pervenuta in cancelleria l’11 giugno 2010, nel
+procedimento
+
+G
+
+contro
+
+Cornelius de Visser,
+
+LA CORTE (Prima Sezione),
+
+composta dal sig. A. Tizzano, presidente di sezione, dai sigg. M. Safjan
+(relatore), A. Borg Barthet, J.-J. Kasel e dalla sig.ra M. Berger, giudici,
+
+avvocato generale: sig. P. Cruz Villalón
+
+cancelliere: sig. B. Fülöp, amministratore
+
+vista la fase scritta del procedimento e in seguito all’udienza del 25 maggio
+2011,
+
+considerate le osservazioni presentate:
+
+—
+
+|
+
+per il governo danese, da C. Vang, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per l’Irlanda, da D. O’Hagan, in qualità di agente, assistito da A. Collins,
+SC, e da M. Noonan, BL;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo italiano, da G. Palmieri, in qualità di agente, assistita da S.
+Varone, avvocato dello Stato;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo lussemburghese, da C. Schiltz, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo ungherese, da M.Z. Fehér, K. Szíjjártó e K. Molnár, in qualità
+di agenti;  
+  
+---|---  
+  
+—
+
+|
+
+per il governo dei Paesi Bassi, da C. Wissels, in qualità di agente;  
+  
+---|---  
+  
+—
+
+|
+
+per la Commissione europea, da M. Wilderspin e S. Grünheid, in qualità di
+agenti,  
+  
+---|---  
+  
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+La domanda di pronuncia pregiudiziale verte sull’interpretazione dell’articolo
+6 TUE, dell’articolo 47 della Carta dei diritti fondamentali dell’Unione
+europea (in prosieguo: la «Carta»), dell’articolo 3, paragrafi 1 e 2, della
+direttiva 2000/31/CE del Parlamento europeo e del Consiglio, dell’8 giugno
+2000, relativa a taluni aspetti giuridici dei servizi della società
+dell’informazione, in particolare il commercio elettronico, nel mercato
+interno («direttiva sul commercio elettronico») (GU L 178, pag. 1), degli
+articoli 4, paragrafi 1, 5, punto 3, e 26, paragrafo 2, del regolamento (CE)
+n. 44/2001 del Consiglio, del 22 dicembre 2000, concernente la competenza
+giurisdizionale, il riconoscimento e l’esecuzione delle decisioni in materia
+civile e commerciale (GU 2001, L 12, pag. 1), nonché dell’articolo 12 del
+regolamento (CE) n. 805/2004 del Parlamento europeo e del Consiglio, del 21
+aprile 2004, che istituisce il titolo esecutivo europeo per i crediti non
+contestati (GU L 143, pag. 15).  
+  
+---|---  
+  
+2
+
+|
+
+Tale domanda è stata presentata nell’ambito di una controversia tra G e il
+sig. de Visser in merito ad un’azione risarcitoria per danni derivanti dalla
+pubblicazione su un sito Internet di fotografie nelle quali G compariva in
+parte nuda.  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+La direttiva 2000/31
+
+3
+
+|
+
+Il considerando 23 della direttiva 2000/31 così recita:
+
+«La presente direttiva non è volta a introdurre norme supplementari di diritto
+internazionale privato sui conflitti di leggi, né tratta della competenza
+degli organi giurisdizionali. Le disposizioni della legge applicabile in base
+alle norme del diritto internazionale privato non limitano la libertà di
+fornire servizi della società dell’informazione come stabilito dalla presente
+direttiva».  
+  
+---|---  
+  
+4
+
+|
+
+Conformemente al suo articolo 1, paragrafo 1, tale direttiva mira a
+«contribuire al buon funzionamento del mercato interno garantendo la libera
+circolazione dei servizi della società dell’informazione tra Stati membri».  
+  
+---|---  
+  
+5
+
+|
+
+L’articolo 1, paragrafo 4, della richiamata direttiva è formulato nei termini
+seguenti:
+
+«La presente direttiva non introduce norme supplementari di diritto
+internazionale privato, né tratta delle competenze degli organi
+giurisdizionali».  
+  
+---|---  
+  
+6
+
+|
+
+L’articolo 3 della medesima direttiva, intitolato «Mercato interno», al
+paragrafo 1 così dispone:
+
+«Ogni Stato membro provvede affinché i servizi della società
+dell’informazione, forniti da un prestatore stabilito nel suo territorio,
+rispettino le disposizioni nazionali vigenti in detto Stato membro nell’ambito
+regolamentato».  
+  
+---|---  
+  
+7
+
+|
+
+L’articolo 3, paragrafo 2, della direttiva 2000/31 è così formulato:
+
+«Gli Stati membri non possono, per motivi che rientrano nell’ambito
+regolamentato, limitare la libera circolazione dei servizi [della] società
+dell’informazione provenienti da un altro Stato membro».  
+  
+---|---  
+  
+Il regolamento n. 44/2001
+
+8
+
+|
+
+Il considerando 2 del regolamento n. 44/2001 così recita:
+
+«Alcune divergenze tra le norme nazionali sulla competenza giurisdizionale e
+sul riconoscimento delle decisioni rendono più difficile il buon funzionamento
+del mercato interno. È pertanto indispensabile adottare disposizioni che
+consentano di unificare le norme sui conflitti di competenza in materia civile
+e commerciale e di semplificare le formalità affinché le decisioni emesse
+dagli Stati membri vincolati dal presente regolamento siano riconosciute ed
+eseguite in modo rapido e semplice».  
+  
+---|---  
+  
+9
+
+|
+
+Ai sensi dell’articolo 2 di tale regolamento:
+
+«1. Salve le disposizioni del presente regolamento, le persone domiciliate nel
+territorio di un determinato Stato membro sono convenute, a prescindere dalla
+loro nazionalità, davanti ai giudici di tale Stato membro.
+
+2\. Alle persone che non sono in possesso della cittadinanza dello Stato
+membro nel quale esse sono domiciliate si applicano le norme sulla competenza
+vigenti per i cittadini».  
+  
+---|---  
+  
+10
+
+|
+
+L’articolo 3, paragrafo 1, di detto regolamento così dispone:
+
+«Le persone domiciliate nel territorio di uno Stato membro possono essere
+convenute davanti ai giudici di un altro Stato membro solo in base alle norme
+enunciate nelle sezioni da 2 a 7 del presente capo».  
+  
+---|---  
+  
+11
+
+|
+
+L’articolo 4 del medesimo regolamento è così formulato:
+
+«1. Se il convenuto non è domiciliato nel territorio di uno Stato membro, la
+competenza è disciplinata, in ciascuno Stato membro, dalla legge di tale
+Stato, salva l’applicazione degli articoli 22 e 23.
+
+2\. Chiunque sia domiciliato nel territorio di un determinato Stato membro
+può, indipendentemente dalla propria nazionalità ed al pari dei cittadini di
+questo Stato, addurre nei confronti di tale convenuto le norme sulla
+competenza in vigore nello Stato medesimo, in particolare quelle indicate
+nell’allegato I».  
+  
+---|---  
+  
+12
+
+|
+
+Al capo II, sezione 2, intitolata «Competenze speciali», l’articolo 5, punto
+3, del regolamento n. 44/2001 così prevede:
+
+«La persona domiciliata nel territorio di uno Stato membro può essere
+convenuta in un altro Stato membro:
+
+(...)
+
+|
+
+3)
+
+|
+
+in materia di illeciti civili dolosi o colposi, davanti al giudice del luogo
+in cui l’evento dannoso è avvenuto o può avvenire».  
+  
+---|---  
+  
+13
+
+|
+
+L’articolo 26 di tale regolamento, che compare alle sezione 8 del citato capo
+II, intitolata «Esame della competenza e della ricevibilità dell’azione», è
+formulato nei termini seguenti:
+
+«1. Se il convenuto domiciliato nel territorio di uno Stato membro è citato
+davanti ad un giudice di un altro Stato membro e non compare, il giudice, se
+non è competente in base al presente regolamento, dichiara d’ufficio la
+propria incompetenza.
+
+2\. Il giudice è tenuto a sospendere il processo fin quando non si sarà
+accertato che al convenuto è stata data la possibilità di ricevere la domanda
+giudiziale o un atto equivalente in tempo utile per poter presentare le
+proprie difese, ovvero che è stato fatto tutto il possibile in tal senso.
+
+3\. Le disposizioni del paragrafo 2 sono sostituite da quelle dell’articolo 19
+del regolamento (CE) n. 1348/2000 del Consiglio, del 29 maggio 2000, relativo
+alla notificazione negli Stati membri di atti giudiziari ed extragiudiziali in
+materia civile o commerciale [GU L 160, pag. 37], qualora sia stato necessario
+trasmettere da uno Stato membro a un altro la domanda giudiziale o un atto
+equivalente in esecuzione del presente regolamento.
+
+4\. Ove le disposizioni del regolamento (CE) n. 1348/2000 non siano
+applicabili, si applica l’articolo 15 della convenzione dell’Aia, del 15
+novembre 1965, relativa alla notificazione e alla comunicazione all’estero
+degli atti giudiziari ed extragiudiziari in materia civile o commerciale [in
+prosieguo: la “Convenzione dell’Aia del 1965”], qualora sia stato necessario
+trasmettere la domanda giudiziale o un atto equivalente in esecuzione della
+suddetta convenzione».  
+  
+---|---  
+  
+14
+
+|
+
+Al capo III del regolamento n. 44/2001, rubricato «Riconoscimento ed
+esecuzione», compare l’articolo 34, che prevede, al punto 2, che una decisione
+non è riconosciuta:
+
+«se la domanda giudiziale od un atto equivalente non è stato notificato o
+comunicato al convenuto contumace in tempo utile e in modo tale da poter
+presentare le proprie difese eccetto qualora, pur avendone avuto la
+possibilità, egli non abbia impugnato la decisione».  
+  
+---|---  
+  
+15
+
+|
+
+L’articolo 59 del regolamento n. 44/2001 così dispone:
+
+«1. Per determinare se una parte ha il domicilio nel territorio dello Stato
+membro in cui è pendente il procedimento, il giudice applica la legge
+nazionale.
+
+2\. Qualora una parte non sia domiciliata nello Stato membro i cui giudici
+sono aditi, il giudice, per stabilire se essa ha il domicilio in un altro
+Stato membro, applica la legge di quest’ultimo Stato».  
+  
+---|---  
+  
+Il regolamento n. 805/2004
+
+16
+
+|
+
+Ai sensi del suo articolo 1, il regolamento n. 805/2004 istituisce un titolo
+esecutivo europeo per i crediti non contestati al fine di consentire, grazie
+alla definizione di norme minime, la libera circolazione delle decisioni
+giudiziarie, delle transazioni giudiziarie e degli atti pubblici in tutti gli
+Stati membri senza che siano necessari, nello Stato membro dell’esecuzione,
+procedimenti intermedi per il riconoscimento e l’esecuzione.  
+  
+---|---  
+  
+17
+
+|
+
+L’articolo 5 di tale regolamento, rubricato «Abolizione dell’exequatur», è
+così formulato:
+
+«La decisione giudiziaria che sia stata certificata come titolo esecutivo
+europeo nello Stato membro d’origine è riconosciuta ed eseguita negli altri
+Stati membri senza che sia necessaria una dichiarazione di esecutività e senza
+che sia possibile opporsi al suo riconoscimento».  
+  
+---|---  
+  
+18
+
+|
+
+L’articolo 12, paragrafo 1, di detto regolamento è formulato come segue:
+
+«La decisione giudiziaria relativa ad un credito non contestato ai sensi
+dell’articolo 3, paragrafo 1, lettere b) o c), può essere certificata come
+titolo esecutivo europeo solo se il procedimento giudiziario nello Stato
+membro d’origine è conforme ai requisiti procedurali stabiliti dal presente
+Capo».  
+  
+---|---  
+  
+19
+
+|
+
+Ai sensi dell’articolo 14, paragrafi 1 e 2, del regolamento n. 805/2004:
+
+«1. La notificazione della domanda giudiziale o dell’atto equivalente e delle
+citazioni a comparire in udienza al debitore può anche essere stata effettuata
+secondo una delle seguenti forme:
+
+|
+
+a)
+
+|
+
+notificazione a mani proprie, presso l’indirizzo personale del debitore, a
+persona con esso convivente o che lavori come dipendente nell’abitazione del
+debitore;  
+  
+---|---  
+  
+b)
+
+|
+
+se il debitore è un lavoratore autonomo, o una persona giuridica,
+notificazione in mani proprie nei suoi “locali commerciali” a una persona alle
+dipendenze del debitore;  
+  
+---|---  
+  
+c)
+
+|
+
+deposito del documento nella cassetta delle lettere del debitore;  
+  
+---|---  
+  
+d)
+
+|
+
+deposito del documento presso un ufficio postale o un’autorità pubblica
+competente e relativa comunicazione scritta depositata nella cassetta delle
+lettere del debitore, purché dalla comunicazione scritta risulti chiaramente
+la natura giudiziaria del documento o il fatto che tale comunicazione ha
+l’efficacia legale della notificazione e che determina la decorrenza dei
+termini ai fini del calcolo della loro scadenza;  
+  
+---|---  
+  
+e)
+
+|
+
+notificazione a mezzo posta senza avviso di ricevimento conformemente al
+paragrafo 3, laddove il debitore è domiciliato nello Stato membro di origine;  
+  
+---|---  
+  
+f)
+
+|
+
+notificazione con mezzi elettronici attestata da conferma automatica della
+trasmissione, a condizione che il debitore abbia preventivamente accettato in
+modo esplicito questo metodo di notificazione.  
+  
+---|---  
+  
+2\. Ai fini del presente regolamento la notificazione di cui al paragrafo 1
+non è ammissibile se l’indirizzo del debitore non è conosciuto con certezza».
+
+Il regolamento n. 1393/2007  
+  
+20
+
+|
+
+Secondo il suo articolo 1, paragrafo 2, il regolamento (CE) n. 1393/2007 del
+Parlamento europeo e del Consiglio, del 13 novembre 2007, relativo alla
+notificazione e alla comunicazione negli Stati membri degli atti giudiziari ed
+extragiudiziali in materia civile o commerciale («notificazione o
+comunicazione degli atti») e che abroga il regolamento n. 1348/2000 (GU L 324,
+pag. 79), non si applica quando non è noto il recapito della persona alla
+quale deve essere notificato o comunicato l’atto.  
+  
+---|---  
+  
+21
+
+|
+
+L’articolo 19 del regolamento n. 1393/2007, intitolato «Mancata comparizione
+del convenuto», è formulato nei termini seguenti:
+
+«1. Quando un atto di citazione o un atto equivalente sia stato trasmesso ad
+un altro Stato membro per la notificazione o la comunicazione, secondo le
+disposizioni del presente regolamento, ed il convenuto non compaia, il giudice
+non decide fintantoché non si abbia la prova:
+
+|
+
+a)
+
+|
+
+che l’atto è stato notificato o comunicato, secondo le forme prescritte dalla
+legge dello Stato membro richiesto per la notificazione o la comunicazione
+degli atti nell’ambito di procedimenti nazionali, a persone che si trovano sul
+suo territorio; oppure  
+  
+---|---  
+  
+b)
+
+|
+
+che l’atto è stato effettivamente consegnato al convenuto o nella sua
+residenza abituale secondo un’altra procedura prevista dal presente
+regolamento,  
+  
+---|---  
+  
+e che, in ciascuna di tali eventualità, sia la notificazione o comunicazione
+sia la consegna hanno avuto luogo in tempo utile affinché il convenuto abbia
+avuto la possibilità di difendersi.
+
+2\. Ciascuno Stato membro ha la facoltà di comunicare, a norma dell’articolo
+23, paragrafo 1, che i propri giudici, nonostante le disposizioni del
+paragrafo 1, e benché non sia pervenuto alcun certificato di avvenuta
+notificazione o comunicazione o consegna, possono decidere se sussistono le
+seguenti condizioni:
+
+a)
+
+|
+
+l’atto è stato trasmesso secondo uno dei modi previsti dal presente
+regolamento;  
+  
+---|---  
+  
+b)
+
+|
+
+dalla data di trasmissione dell’atto è trascorso un termine di almeno sei
+mesi, che il giudice ritiene adeguato nel caso di specie;  
+  
+---|---  
+  
+c)
+
+|
+
+non è stato ottenuto alcun certificato malgrado tutta la diligenza usata
+presso le autorità o gli organi competenti dello Stato richiesto.  
+  
+---|---  
+  
+3\. I paragrafi 1 e 2 non ostano a che il giudice adotti, in caso d’urgenza,
+provvedimenti provvisori o cautelari.
+
+4\. Quando un atto di citazione o un atto equivalente sia stato trasmesso ad
+un altro Stato membro per la notificazione o la comunicazione secondo le
+disposizioni del presente regolamento, e una decisione sia stata emessa nei
+confronti di un convenuto non comparso, il giudice ha la facoltà di rimuovere
+la preclusione derivante per il convenuto dallo scadere del termine di
+impugnazione, se sussistono le seguenti condizioni:
+
+a)
+
+|
+
+il convenuto, in assenza di colpa a lui imputabile, non ha avuto conoscenza
+dell’atto in tempo utile per difendersi o della decisione per impugnarla; e  
+  
+---|---  
+  
+b)
+
+|
+
+i motivi di impugnazione del convenuto non sembrano del tutto privi di
+fondamento.  
+  
+---|---  
+  
+La richiesta di rimuovere la preclusione deve essere presentata entro un
+termine ragionevole a decorrere dal momento in cui il convenuto ha avuto
+conoscenza della decisione.
+
+Ciascuno Stato membro ha la facoltà di comunicare, a norma dell’articolo 23,
+paragrafo 1, che tale domanda è inammissibile se è presentata dopo la scadenza
+di un termine che indicherà nella propria comunicazione, purché tale termine
+non sia inferiore ad un anno a decorrere dalla pronuncia della decisione.
+
+5\. Il paragrafo 4 non si applica alle decisioni che riguardano lo stato o la
+capacità delle persone».  
+  
+Il diritto nazionale
+
+22
+
+|
+
+Gli articoli 185, 186 e 188 del codice di procedura civile tedesco
+(Zivilprozessordnung) dispongono quanto segue in materia di notifica pubblica:
+
+«Articolo 185 Notifica pubblica
+
+La notifica può effettuarsi per avviso pubblico (notifica pubblica), quando
+
+1\. il luogo di residenza dell’interessato sia sconosciuto e non sia possibile
+effettuare la notifica dell’atto in questione ad un rappresentante o ad un
+domiciliatario,
+
+2\. nel caso di persone giuridiche, obbligate a fornire al registro delle
+imprese un indirizzo professionale nel territorio nazionale, non sia possibile
+effettuare la notifica né all’indirizzo registrato né all’indirizzo di una
+persona autorizzata a ricevere notifiche iscritto nel registro delle imprese o
+ad un altro indirizzo nazionale di cui si è a conoscenza senza aver svolto
+indagini,
+
+3\. una notifica all’estero non sia possibile o con tutta probabilità non
+andrebbe a buon fine, oppure quando
+
+4\. la notifica non possa effettuarsi, in quanto il luogo di notifica è il
+domicilio di una persona che, ai sensi degli articoli 18-20 della legge
+sull’ordinamento giudiziario, è sottratta alla giurisdizione.
+
+Articolo 186 Autorizzazione ed esecuzione della notifica pubblica
+
+1) Sull’autorizzazione della notifica pubblica decide il tribunale investito
+della causa. La decisione può avvenire senza trattazione orale.
+
+2) La notifica pubblica viene effettuata attraverso l’affissione di un avviso
+nell’albo del tribunale o attraverso il suo inserimento in un sistema
+informativo elettronico che è pubblicamente accessibile all’interno del
+tribunale. In aggiunta l’avviso può essere pubblicato in un sistema
+elettronico di informazione e comunicazione destinato dal tribunale agli
+avvisi. L’avviso deve indicare
+
+|
+
+1.
+
+|
+
+la persona per conto della quale l’atto è notificato,  
+  
+---|---  
+  
+2.
+
+|
+
+il nome e l’ultimo indirizzo conosciuto del destinatario della notifica,  
+  
+---|---  
+  
+3.
+
+|
+
+la data, il numero di riferimento del documento e l’indicazione dell’oggetto
+della causa, nonché  
+  
+---|---  
+  
+4.
+
+|
+
+il luogo in cui il documento può essere consultato.  
+  
+---|---  
+  
+L’avviso deve contenere l’indicazione che si tratta della notifica pubblica di
+un documento e che da tale notifica possono decorrere termini alla scadenza
+dei quali l’interessato rischia la perdita dei diritti. Nel caso di notifica
+di una citazione, l’avviso deve indicare anche che il documento contiene la
+citazione in udienza e che non comparendo si possono subire conseguenze
+giuridiche negative.
+
+3) Nel fascicolo va annotata la data in cui l’avviso è stato affisso e la data
+in cui è stato ritirato.
+
+(...)
+
+Articolo 188 Momento della notifica pubblica
+
+Il documento si considera notificato trascorso un mese dall’affissione
+dell’avviso. Il tribunale investito della causa può stabilire un termine più
+lungo».  
+  
+23
+
+|
+
+L’articolo 331 del codice di procedura civile tedesco, rubricato «Sentenza
+contumaciale contro il convenuto», così dispone:
+
+«1. Qualora l’attore richieda la pronuncia della sentenza contumaciale contro
+il convenuto non comparso all’udienza stabilita per la trattazione orale, gli
+argomenti di fatto dedotti in udienza dall’attore sono da considerare come
+ammessi. Ciò non vale per gli argomenti relativi alla competenza del tribunale
+ai sensi dell’articolo 29, paragrafo 2, o dell’articolo 38.
+
+2\. Se gli argomenti avanzati dall’attore giustificano la domanda formulata,
+essa dev’essere accolta; in caso contrario, l’azione dev’essere respinta.
+
+3\. Nel caso in cui, contravvenendo all’articolo 276, paragrafi 1, prima
+frase, e 2, il convenuto non abbia comunicato in tempo utile l’intenzione di
+difendersi contro l’azione, il tribunale, su istanza dell’attore, decide senza
+trattazione orale; ciò non vale se la comunicazione del convenuto perviene
+prima che la sentenza firmata dai giudici sia trasmessa alla cancelleria.
+L’istanza può essere proposta già nella domanda giudiziale. Il tribunale può
+pronunciarsi senza trattazione orale anche nel caso in cui l’argomento
+avanzato dall’attore non conferisca fondamento a una sua domanda accessoria, a
+condizione che l’attore sia stato informato di tale possibilità prima che il
+tribunale si pronunci».  
+  
+---|---  
+  
+Causa principale e questioni pregiudiziali
+
+24
+
+|
+
+Il sig. de Visser è titolare del nome di dominio e responsabile del sito
+Internet www.*****.de. Sotto il link «Fotos und Videos» (foto e video) di tale
+sito Internet è possibile vedere una fotografia di G. Dopo aver cliccato sul
+link «für weitere Fotos hier klicken» (per altre foto cliccare qui), si
+possono vedere diverse foto della ricorrente in cui la suddetta compare in
+parte nuda.  
+  
+---|---  
+  
+25
+
+|
+
+La vicenda ha origine all’incirca nel 2003, allorché G si è interessata al
+sito Internet e alle prestazioni di servizi del sig. de Visser, contattandolo
+per questa ragione. In seguito, quest’ultimo, tramite una collaboratrice e un
+fotografo da lui incaricato, ha fatto scattare alcune fotografie di G in
+Germania, al fine di utilizzarle «per una festa» («für eine Party»). Tuttavia,
+G non ha mai dato il suo consenso alla pubblicazione di tali foto. La
+questione della pubblicazione su Internet di dette foto non è stata peraltro
+mai discussa con la stessa e quindi non è mai stata oggetto di un accordo
+concreto.  
+  
+---|---  
+  
+26
+
+|
+
+Soltanto nel 2009 G, attraverso alcuni colleghi di lavoro, G è venuta a
+conoscenza della pubblicazione su Internet delle fotografie in discorso.  
+  
+---|---  
+  
+27
+
+|
+
+Sia l’avviso legale del sito Internet in questione, sia la banca dati della
+DENIC (registro di dominio .de) indicano come «Admin-C» (administrative
+contact) il sig. N*****, con indirizzo a Dortmund (Germania). Nell’elenco
+telefonico di Dortmund, tuttavia, nessuno risulta iscritto sotto questo nome.  
+  
+---|---  
+  
+28
+
+|
+
+Il luogo in cui si trova il server che ospita il sito Internet in questione
+non è noto.  
+  
+---|---  
+  
+29
+
+|
+
+Nell’avviso legale del sito Internet www.*****.de, il sig. de Visser figura
+come titolare del dominio con un indirizzo a Terneuzen (Paesi Bassi) e un
+indirizzo postale a Venlo (Paesi Bassi). Non è stato tuttavia possibile
+effettuare una notifica a tali indirizzi, in quanto tutta la corrispondenza
+inviata è tornata al mittente con l’annotazione «Sconosciuto presso tale
+indirizzo». Su richiesta, il consolato del Regno dei Paesi Bassi a Monaco di
+Baviera (Germania) ha dichiarato che il sig. de Visser non era iscritto in
+nessun registro anagrafico nei Paesi Bassi.  
+  
+---|---  
+  
+30
+
+|
+
+Dopo la concessione del gratuito patrocinio a G, il giudice del rinvio ha
+ordinato, in data 8 febbraio 2010, la notifica pubblica della domanda
+giudiziale, e ha disposto che si procedesse a una fase preparatoria scritta.
+In precedenza, nel contesto del procedimento per il gratuito patrocinio, si
+era tentato invano di far pervenire al sig. de Visser lo schema della domanda
+giudiziale per la normale via postale a diversi indirizzi.  
+  
+---|---  
+  
+31
+
+|
+
+La notifica pubblica della domanda giudiziale, conformemente al codice di
+procedura civile tedesco, è stata effettuata mediante affissione di un avviso
+relativo a tale notifica nell’albo del Landgericht Regensburg dall’11 febbraio
+al 15 marzo 2010. Alla data dell’adozione della decisione di rinvio, i termini
+impartiti al sig. de Visser in detta notifica per comunicare la propria
+intenzione di difendersi erano scaduti senza che egli avesse reagito. Secondo
+il giudice del rinvio, tenuto conto delle circostanze, si deve supporre che ad
+oggi egli non abbia avuto conoscenza del procedimento dinanzi ad esso avviato.  
+  
+---|---  
+  
+32
+
+|
+
+Tale giudice aggiunge che, se la possibilità di una notifica pubblica della
+domanda giudiziale secondo il diritto nazionale dovesse venire meno a fronte
+delle norme di diritto dell’Unione, a G resterebbe solo la possibilità di
+indicare altri indirizzi del sig. de Visser presso i quali effettuare tale
+notifica, il che le risulterebbe probabilmente impossibile, non conoscendo
+tali indirizzi o non potendoli accertare. Orbene, ciò potrebbe essere
+incompatibile con l’articolo 47, primo comma, della Carta, in quanto G
+verrebbe allora di fatto privata del diritto a un ricorso giurisdizionale
+effettivo che le è garantito.  
+  
+---|---  
+  
+33
+
+|
+
+Nutrendo, peraltro, alcuni dubbi quanto all’applicabilità e
+all’interpretazione del regolamento n. 44/2001 nonché alla determinazione del
+diritto sostanziale applicabile all’azione principale, il Landgericht
+Regensburg ha deciso di sospendere il giudizio e di sottoporre alla Corte le
+seguenti questioni pregiudiziali:
+
+|
+
+«1)
+
+|
+
+Se l’articolo 6, paragrafo 1, primo comma, prima parte della frase, [TUE], in
+combinato disposto con l’articolo 47, secondo comma, prima frase, della Carta
+(...) o altre disposizioni normative europee ostino ad una “notifica pubblica”
+secondo il diritto nazionale (ai sensi degli articoli 185-188 del codice di
+procedura civile tedesco, mediante affissione dell’avviso di notifica
+nell’albo dell’organo giurisdizionale che dispone la notifica per la durata di
+un mese), qualora la controparte di una controversia civile (in fase iniziale)
+indichi sul proprio sito Internet un indirizzo nel territorio dell’Unione
+europea ma la notifica non sia possibile in assenza di un domicilio del
+convenuto in tale luogo, e qualora non sia altrimenti possibile accertare dove
+il convenuto si trovi al momento  
+  
+---|---  
+  
+2)
+
+|
+
+Qualora la [prima] questione (...) debba essere risolta affermativamente:
+
+Se il giudice nazionale debba disapplicare le disposizioni nazionali che
+consentono una notifica pubblica, conformemente alla giurisprudenza sinora
+elaborata dalla Corte di giustizia (da ultimo sentenza del 12 gennaio 2010,
+Petersen, C-341/08, Racc. pag. I-47) anche qualora il diritto nazionale
+attribuisca tale potere di disapplicazione solo alla Corte costituzionale
+federale (tedesca)
+
+e
+
+se la ricorrente, per poter far valere i propri diritti, debba comunicare
+all’ufficio giudiziario un nuovo indirizzo del convenuto cui possa essere
+validamente effettuata una nuova notifica della domanda giudiziale, atteso
+che, secondo il diritto nazionale, in assenza di notifica pubblica e di
+conoscenza del domicilio del convenuto non sarebbe possibile celebrare il
+processo.  
+  
+---|---  
+  
+3)
+
+|
+
+Qualora la [prima] questione (...) debba essere risolta negativamente, se nel
+caso di specie l’articolo 26, paragrafo 2, del regolamento (...) n. 44/2001
+(...) osti all’emissione di una sentenza contumaciale ai sensi dell’articolo
+331 del codice di procedura civile tedesco e quindi di un titolo esecutivo per
+crediti non contestati nell’accezione del regolamento (...) n. 805/2004 (...),
+nella misura in cui si chiede la condanna al pagamento dei danni morali per un
+importo pari ad almeno EUR 20000,00 più interessi, e delle spese legali per un
+importo pari a EUR 1419,19 più interessi.  
+  
+---|---  
+  
+Le seguenti questioni sono rispettivamente subordinate alla possibilità che la
+ricorrente possa proseguire la causa conformemente alle soluzioni date dalla
+Corte di giustizia [alla prima e alla terza] questione (...):
+
+4)
+
+|
+
+In considerazione degli articoli 4, paragrafo 1, e 5, punto 3, del regolamento
+n. 44/2001, se quest’ultimo sia applicabile anche a casi in cui il convenuto
+di un processo civile, al quale viene intimato, in relazione alla gestione di
+un sito Internet, di cessare un comportamento, di fornire informazioni e di
+pagare danni morali, sia (presumibilmente) cittadino dell’Unione ai sensi
+dell’articolo 9, seconda frase, TUE, ma il suo domicilio sia ignoto e sia
+quindi ipotizzabile, benché non certo, che egli si trovi attualmente fuori del
+territorio dell’Unione e anche fuori della sfera residua di applicazione
+territoriale della Convenzione concernente la competenza giurisdizionale e
+l’esecuzione delle decisioni in materia civile e commerciale, conclusa a
+Lugano il 16 settembre 1988, e l’esatta ubicazione del server che ospita il
+sito Internet non sia nota, ma appaia molto probabile che si trovi sul
+territorio dell’Unione.  
+  
+---|---  
+  
+5)
+
+|
+
+Qualora il regolamento n. 44/2001 sia applicabile alla fattispecie: se, per
+l’ipotesi di (rischio di) violazione di diritti della personalità attraverso
+contenuti di un sito Internet, la locuzione «luogo in cui l’evento dannoso
+(...) può avvenire», di cui all’articolo 5, punto 3, del suddetto regolamento,
+debba essere interpretata nel senso che
+
+[la ricorrente] può promuovere un’azione diretta a far cessare un
+comportamento, a ottenere informazioni e il risarcimento dei danni contro il
+gestore del sito Internet, indipendentemente dal luogo (all’interno o al di
+fuori del territorio dell’Unione) in cui il convenuto è domiciliato, anche
+dinanzi ai giudici di qualunque Stato membro in cui il sito Internet può
+essere consultato,
+
+oppure
+
+la competenza giurisdizionale dei giudici di uno Stato membro — in cui il
+convenuto non è stabilito né vi sono indizi di un suo soggiorno nel medesimo —
+presuppone che, oltre alla mera accessibilità tecnica, sussista uno specifico
+collegamento dei contenuti controversi o del sito Internet con lo Stato del
+foro (collegamento di carattere territoriale).  
+  
+---|---  
+  
+6)
+
+|
+
+Qualora sia richiesto un siffatto specifico collegamento con lo Stato del
+foro: secondo quali criteri esso vada riscontrato.
+
+Se assume rilievo il fatto che il sito Internet controverso si rivolga, alla
+luce delle scelte del gestore, specificamente (anche) agli utenti di Internet
+dello Stato del foro, o se sia sufficiente al riguardo che le informazioni
+accessibili su tale sito presentino un collegamento oggettivo con lo Stato del
+foro, nel senso che, secondo le circostanze del caso concreto ed in
+particolare in base al contenuto del sito controverso, un conflitto tra
+interessi contrapposti — l’interesse della ricorrente al rispetto del proprio
+diritto della personalità e l’interesse del gestore ad impostare
+discrezionalmente il proprio sito — possa effettivamente essersi verificato o
+potrà verificarsi nello Stato del foro per il fatto che uno o più conoscenti
+della persona il cui diritto della personalità è stato leso abbiano preso
+visione del contenuto di tale sito Internet.  
+  
+---|---  
+  
+7)
+
+|
+
+Se al fine del riscontro di tale specifico collegamento con lo Stato del foro
+sia rilevante il numero di accessi al sito Internet controverso operati a
+partire da tale Stato.  
+  
+---|---  
+  
+8)
+
+|
+
+Nel caso in cui il giudice del rinvio, a seconda delle risposte date alle
+questioni che precedono, sia competente a statuire sulla domanda giudiziale:
+se i principi giuridici di cui alla sentenza della Corte di giustizia del 7
+marzo 1995, Shevill e a. (C-68/93, Racc. pag. I-415) siano validi anche per la
+fattispecie precedentemente descritta.  
+  
+---|---  
+  
+9)
+
+|
+
+Ove, ai fini della sussistenza della competenza giurisdizionale, non sia
+necessario alcuno specifico collegamento con lo Stato del foro, oppure ove,
+per poter presumere che tale collegamento esista, basti che le informazioni
+controverse presentino un collegamento oggettivo con lo Stato del foro, nel
+senso che un conflitto tra contrapposti interessi, alla luce delle circostanze
+del caso concreto ed in particolare in base al contenuto del sito Internet
+controverso, possa essersi effettivamente verificato o potrà verificarsi nello
+Stato del foro per il fatto che uno o più conoscenti della persona il cui
+diritto della personalità è stato leso abbiano preso visione del contenuto di
+tale sito, e l’accertamento di un tale specifico collegamento non presupponga
+il riscontro di un numero minimo di accessi al sito controverso a partire
+dallo Stato del foro, ovvero qualora il regolamento n. 44/2001 non sia affatto
+applicabile alla fattispecie:
+
+se l’articolo 3, paragrafi 1 e 2, della direttiva 2000/31 (...) vada
+interpretato nel senso che alle relative disposizioni va attribuito carattere
+di norme di diritto internazionale privato, nel senso che esse, anche
+nell’ambito del diritto civile, prescrivono la sola applicazione del diritto
+vigente nel paese d’origine con esclusione delle norme di conflitto nazionali,
+
+oppure
+
+tali disposizioni costituiscono un correttivo sul piano giuridico sostanziale,
+attraverso il quale l’esito fattuale e giuridico del diritto individuato come
+applicabile in base alle norme di conflitto nazionali viene modificato sotto
+il profilo del contenuto e ridotto alle prescrizioni del paese d’origine.  
+  
+---|---  
+  
+10)
+
+|
+
+Per il caso in cui l’articolo 3, paragrafi 1 e 2, della direttiva 2000/31
+(...) abbia carattere di norma di diritto internazionale privato:
+
+se le disposizioni citate prescrivano esclusivamente la sola applicazione del
+diritto sostanziale vigente nel paese d’origine o anche l’applicazione delle
+norme di conflitto ivi in vigore, con la conseguenza che continui ad essere
+possibile il rinvio da parte del diritto del paese d’origine al diritto del
+paese di destinazione.  
+  
+---|---  
+  
+11)
+
+|
+
+Per il caso in cui l’articolo 3, paragrafi 1 e 2, della direttiva 2000/31
+(...) abbia carattere di norma di diritto internazionale privato:
+
+se ai fini della determinazione del luogo di stabilimento del prestatore di
+servizi si debba fare riferimento al (presunto) domicilio attuale dello
+stesso, al domicilio al momento dell’inizio della pubblicazione delle foto
+della ricorrente o alla (presunta) ubicazione del server che ospita il sito
+Internet».  
+  
+---|---  
+  
+34
+
+|
+
+Con lettera del 28 ottobre 2011, la cancelleria della Corte ha trasmesso al
+giudice del rinvio una copia della sentenza del 25 ottobre 2011, eDate
+Advertising e a. (C-509/09 e C-161/10, Racc. pag. I-10269), invitandolo a
+comunicarle se, alla luce di tale sentenza, quest’ultimo intendesse mantenere
+le questioni pregiudiziali dalla quinta all’undicesima.  
+  
+---|---  
+  
+35
+
+|
+
+Con decisioni del 10 e 16 novembre 2011, pervenute alla Corte rispettivamente
+il 10 e il 16 novembre 2011, il giudice del rinvio ha comunicato a
+quest’ultima che avrebbe ritirato le questioni dalla quinta alla decima, ma
+che avrebbe mantenuto l’undicesima, riformulandola nei termini seguenti:
+
+«Se, tenuto conto della [citata] sentenza (...) eDate Advertising e a.,
+l’articolo 3, paragrafi 1 e 2, della direttiva 2000/31 (...) debba essere
+interpretato nel senso che, qualora il luogo di stabilimento del prestatore
+sia sconosciuto e potrebbe trovarsi fuori del territorio dell’Unione (...), il
+diritto che occorre applicare nell’ambito coordinato sia esclusivamente quello
+dello Stato membro in cui la persona lesa ha il suo domicilio o la sua
+residenza permanente o
+
+se nell’ambito coordinato dalla direttiva 2000/31 (...) occorra garantire che
+il prestatore di un servizio del commercio elettronico non sia soggetto a
+condizioni più severe di quelle previste dal diritto sostanziale applicabile
+nello Stato membro di cui il prestatore ha presumibilmente la cittadinanza o
+
+se in tal caso, nell’ambito coordinato dalla direttiva 2000/31 (...) occorra
+garantire che il prestatore di un servizio del commercio elettronico non sia
+soggetto a condizioni più severe di quelle previste dal diritto sostanziale
+applicabile nell’insieme degli Stati membri».  
+  
+---|---  
+  
+36
+
+|
+
+In tale contesto, la Corte è chiamata a pronunciarsi unicamente sulle prime
+quattro questioni inizialmente sollevate e sull’ultima questione, come
+riformulata.  
+  
+---|---  
+  
+Sulle questioni pregiudiziali
+
+Sulla quarta questione
+
+37
+
+|
+
+Con la quarta questione, che occorre esaminare per prima, il giudice del
+rinvio intende sapere, in sostanza, se, in circostanze come quelle di cui alla
+causa principale, l’articolo 4, paragrafo 1, del regolamento n. 44/2001 debba
+essere interpretato nel senso che osta all’applicazione dell’articolo 5, punto
+3, del medesimo regolamento a un’azione risarcitoria per danni derivanti dalla
+gestione di un sito Internet, promossa contro un convenuto che è probabilmente
+cittadino dell’Unione, ma che si trova in luogo sconosciuto.  
+  
+---|---  
+  
+38
+
+|
+
+Nella decisione di rinvio, detto giudice precisa infatti che, anche se
+numerosi elementi indicano che il convenuto si trova nel territorio
+dell’Unione, tale circostanza non è assolutamente certa. Tale giudice
+s’interroga quindi in particolare sull’interpretazione del criterio espresso
+con la locuzione «non è domiciliato nel territorio di uno Stato membro» che
+imporrebbe, in forza dell’articolo 4, paragrafo 1, del regolamento n. 44/2001,
+l’applicazione delle norme nazionali sulla competenza anziché delle norme
+uniformi di detto regolamento.  
+  
+---|---  
+  
+39
+
+|
+
+A tale proposito, occorre rammentare, da un lato, che, nel caso in cui il
+domicilio del convenuto cittadino di uno Stato membro non sia noto,
+l’applicazione delle norme uniformi sulla competenza dettate dal regolamento
+n. 44/2001 in luogo di quelle in vigore nei diversi Stati membri è conforme
+all’imperativo della certezza del diritto e all’obiettivo, perseguito da detto
+regolamento, di rafforzare la tutela giuridica delle persone stabilite
+nell’Unione, consentendo nel contempo all’attore di individuare agevolmente il
+giudice al quale può rivolgersi e al convenuto di prevedere ragionevolmente
+quello dinanzi al quale può essere citato (v., in tal senso, sentenza del 17
+novembre 2011, Hypoteční banka, C-327/10, Racc. pag. I-11543, punto 44).  
+  
+---|---  
+  
+40
+
+|
+
+Dall’altro lato, la locuzione «non è domiciliato nel territorio di uno Stato
+membro», impiegata all’articolo 4, paragrafo 1, del regolamento n. 44/2001,
+dev’essere intesa nel senso che l’applicazione delle norme nazionali anziché
+delle norme uniformi sulla competenza è possibile solo se il giudice adito
+dispone di indizi probatori che gli consentano di ritenere che il convenuto,
+cittadino dell’Unione non domiciliato nello Stato membro di detto giudice, sia
+effettivamente domiciliato al di fuori del territorio dell’Unione (v., in tale
+senso, sentenza Hypoteční banka, cit., punto 42).  
+  
+---|---  
+  
+41
+
+|
+
+In assenza di tali indizi probatori, in forza del regolamento n. 44/2001 la
+competenza internazionale di un giudice di uno Stato membro è accertata quando
+sono soddisfatte le condizioni per l’applicazione di una delle norme sulla
+competenza previste da tale regolamento, in particolare dell’articolo 5, punto
+3, in materia di illeciti civili dolosi o colposi.  
+  
+---|---  
+  
+42
+
+|
+
+In considerazione di quanto precede, occorre rispondere alla quarta questione
+dichiarando che, in circostanze come quelle di cui al procedimento principale,
+l’articolo 4, paragrafo 1, del regolamento n. 44/2001 dev’essere interpretato
+nel senso che non osta all’applicazione dell’articolo 5, punto 3, del medesimo
+regolamento ad un’azione risarcitoria per danni derivanti dalla gestione di un
+sito Internet, promossa contro un convenuto che è probabilmente cittadino
+dell’Unione, ma che si trova in luogo sconosciuto, se il giudice adito non
+dispone di indizi probatori che gli consentano di ritenere che detto convenuto
+sia effettivamente domiciliato al di fuori del territorio dell’Unione.  
+  
+---|---  
+  
+Sulla prima questione e sulla prima parte della terza questione
+
+43
+
+|
+
+Con la prima questione e la prima parte della terza questione, che occorre
+esaminare congiuntamente, il giudice del rinvio intende sapere, in sostanza,
+se il diritto dell’Unione debba essere interpretato nel senso che osta alla
+pronuncia di una sentenza contumaciale nei confronti di un convenuto al quale,
+nell’impossibilità di reperirlo, la domanda giudiziale è stata notificata
+mediante notifica pubblica secondo il diritto nazionale.  
+  
+---|---  
+  
+44
+
+|
+
+A tale proposito occorre anzitutto rilevare che il regolamento n. 44/2001, al
+pari della Convenzione del 27 settembre 1968, concernente la competenza
+giurisdizionale e l’esecuzione delle decisioni in materia civile e commerciale
+(GU 1972, L 299, pag. 32), come modificata dalle successive convenzioni
+relative all’adesione dei nuovi Stati membri a tale Convenzione, non ha
+l’obiettivo di unificare le norme di diritto processuale degli Stati membri,
+bensì di ripartire le competenze giurisdizionali ai fini della soluzione delle
+controversie in materia civile e commerciale nell’ambito delle relazioni tra
+tali Stati e di facilitare l’esecuzione delle decisioni giudiziarie (sentenza
+Hypoteční banka, cit., punto 37).  
+  
+---|---  
+  
+45
+
+|
+
+Se è vero che, in assenza di una regolamentazione sistematica delle procedure
+interne da parte del diritto dell’Unione spetta agli Stati membri, nell’ambito
+della loro autonomia procedurale, dettare le norme di procedura applicabili
+alle azioni avviate dinanzi ai loro organi giurisdizionali, dette norme non
+devono pregiudicare il diritto dell’Unione, in particolare le disposizioni del
+regolamento n. 44/2001.  
+  
+---|---  
+  
+46
+
+|
+
+Ne consegue che, nell’ambito di applicazione del suddetto regolamento, un
+giudice nazionale può, in forza di una disposizione del suo diritto nazionale,
+procedere contro una persona il cui domicilio non è noto solo se le norme
+sulla competenza previste da tale medesimo regolamento non vi ostino.  
+  
+---|---  
+  
+47
+
+|
+
+Per quanto riguarda le condizioni che devono essere rispettate nell’ambito del
+procedimento, è necessario ricordare che le disposizioni del regolamento n.
+44/2001 complessivamente considerate esprimono l’intenzione di aver cura che,
+nell’ambito degli obiettivi dello stesso, i procedimenti che portano
+all’adozione di decisioni giurisdizionali si svolgano nel rispetto dei diritti
+della difesa (v. sentenze del 21 maggio 1980, Denilauler, 125/79, Racc. pag.
+1553, punto 13, e del 2 aprile 2009, Gambazzi, C-394/07, Racc. pag. I-2563,
+punto 23).  
+  
+---|---  
+  
+48
+
+|
+
+Tuttavia, il principio di tutela dei diritti della difesa, quale previsto
+anche dall’articolo 47 della Carta, deve essere attuato nel rispetto del
+diritto dell’attore di adire un giudice che statuisca sulla fondatezza delle
+sue pretese.  
+  
+---|---  
+  
+49
+
+|
+
+A questo proposito la Corte ha dichiarato, al punto 29 della citata sentenza
+Gambazzi, che i diritti fondamentali, quali il rispetto dei diritti della
+difesa, non costituiscono prerogative assolute, ma possono soggiacere a
+restrizioni. Tuttavia, queste ultime devono rispondere effettivamente ad
+obiettivi d’interesse generale perseguiti dal provvedimento di cui trattasi e
+non costituire, rispetto allo scopo perseguito, una violazione smisurata di
+detti diritti.  
+  
+---|---  
+  
+50
+
+|
+
+Al riguardo è necessario rammentare che la Corte ha già dichiarato che
+l’esigenza di evitare situazioni di diniego di giustizia in cui si verrebbe a
+trovare un attore a causa dell’impossibilità di reperire il convenuto
+configura un siffatto obiettivo di interesse generale (sentenza Hypoteční
+banka, cit., punto 51).  
+  
+---|---  
+  
+51
+
+|
+
+Per quanto riguarda la necessità di evitare una violazione smisurata dei
+diritti della difesa, occorre osservare che essa trova espressione nel
+disposto dell’articolo 26, paragrafo 2, del regolamento n. 44/2001, secondo
+cui il giudice è tenuto a sospendere il processo fin quando non si sarà
+accertato che al convenuto è stata data la possibilità di ricevere la domanda
+giudiziale o un atto equivalente in tempo utile per poter presentare le
+proprie difese, ovvero che è stato fatto tutto il possibile in tal senso.  
+  
+---|---  
+  
+52
+
+|
+
+Per quanto attiene, da un lato, all’applicabilità di tale disposizione, si
+deve anzitutto rilevare che, in circostanze come quelle di cui al procedimento
+principale, essa non è esclusa dalle norme richiamate all’articolo 26,
+paragrafi 3 e 4, del regolamento n. 44/2001, ossia rispettivamente l’articolo
+19 del regolamento n. 1393/2007 e l’articolo 15 della Convenzione dell’Aia del
+1965.  
+  
+---|---  
+  
+53
+
+|
+
+Certamente, la regolarità della notifica della domanda giudiziale ad un
+convenuto contumace dev’essere valutata sulla base delle disposizioni di detta
+Convenzione (sentenza del 13 ottobre 2005, Scania Finance France, C-522/03,
+Racc. pag. I-8639, punto 30) e, a maggior ragione, alla luce delle
+disposizioni del regolamento n. 1393/2007. Tuttavia, tale regola vale soltanto
+a condizione che dette disposizioni siano applicabili. Orbene, tanto
+l’articolo 1, paragrafo 2, del regolamento n. 1393/2007, quanto l’articolo 1,
+secondo comma, della Convenzione dell’Aia del 1965 prevedono che tali
+strumenti «non si applica[no] quando non è noto il recapito della persona alla
+quale deve essere notificato o comunicato l’atto».  
+  
+---|---  
+  
+54
+
+|
+
+Si deve quindi rilevare che, in circostanze come quelle del procedimento
+principale, non essendo noto l’indirizzo del convenuto non trovano
+applicazione né l’articolo 19 del regolamento n. 1393/2007, né l’articolo 15
+della Convenzione dell’Aia del 1965.  
+  
+---|---  
+  
+55
+
+|
+
+Per quanto riguarda, d’altro lato, l’interpretazione dell’articolo 26,
+paragrafo 2, del regolamento n. 44/2001, tale disposizione dev’essere intesa,
+come recentemente dichiarato dalla Corte, nel senso che, nel caso in cui non
+sia dimostrato che al convenuto è stata data la possibilità di ricevere la
+domanda giudiziale, il giudice competente in base a detto regolamento può
+legittimamente far proseguire il procedimento solo qualora sia stato fatto
+tutto il possibile per consentire al convenuto di presentare le proprie
+difese. A tal fine il giudice adito deve assicurarsi che siano state condotte
+tutte le indagini richieste dai principi di diligenza e di buona fede per
+rintracciare detto convenuto (v. sentenza Hypoteční banka, cit., punto 52).  
+  
+---|---  
+  
+56
+
+|
+
+È vero che, anche se tali condizioni sono rispettate, la possibilità di
+proseguire il procedimento all’insaputa del convenuto mediante «notifica
+pubblica», come nel procedimento principale, limita i diritti della difesa di
+tale convenuto. Detta limitazione, tuttavia, è giustificata alla luce del
+diritto dell’attore ad una tutela effettiva dal momento che, in mancanza di
+una notifica di questo tipo, tale diritto resterebbe lettera morta (v.
+sentenza Hypoteční banka, cit., punto 53).  
+  
+---|---  
+  
+57
+
+|
+
+Infatti, contrariamente alla situazione del convenuto che, qualora sia stato
+privato della possibilità di difendersi efficacemente, avrà la possibilità di
+far rispettare i diritti della difesa opponendosi, in forza dell’articolo 34,
+punto 2, del regolamento n. 44/2001, al riconoscimento della decisione
+pronunciata nei suoi confronti, l’attore rischia di essere privato di
+qualunque possibilità di ricorso (v. sentenza Hypoteční banka, cit., punto
+54).  
+  
+---|---  
+  
+58
+
+|
+
+Dalla giurisprudenza della Corte europea dei diritti dell’uomo emerge peraltro
+che il diritto di adire un giudice, garantito dall’articolo 6, paragrafo 1,
+della Convenzione europea per la salvaguardia dei diritti dell’uomo e delle
+libertà fondamentali, firmata a Roma il 4 novembre 1950, che corrisponde
+all’articolo 47, secondo comma, della Carta, non osta a una «citazione
+mediante affissione» («citation par voie d’affichage»), purché i diritti degli
+interessati siano debitamente tutelati (v. Corte eur. D.U., decisione Nunes
+Dias/Portogallo del 10 aprile 2003, Recueil des arrêts et décisions 2003-IV).  
+  
+---|---  
+  
+59
+
+|
+
+Si deve quindi rispondere alla prima questione e alla prima parte della terza
+questione dichiarando che il diritto dell’Unione dev’essere interpretato nel
+senso che non osta alla pronuncia di una sentenza contumaciale nei confronti
+di un convenuto al quale, nell’impossibilità di reperirlo, la domanda
+giudiziale è stata notificata mediante pubblicazione secondo il diritto
+nazionale, a condizione che il giudice adito si sia prima assicurato che siano
+state condotte tutte le ricerche imposte dai principi di diligenza e di buona
+fede per rintracciare tale convenuto.  
+  
+---|---  
+  
+Sulla seconda questione
+
+60
+
+|
+
+In considerazione della risposta fornita, al punto precedente, alla prima
+questione, non è necessario rispondere alla seconda.  
+  
+---|---  
+  
+Sulla seconda parte della terza questione
+
+61
+
+|
+
+Con la seconda parte della terza questione, il giudice del rinvio intende
+sapere, in sostanza, se il diritto dell’Unione debba essere interpretato nel
+senso che osta alla certificazione, in quanto titolo esecutivo europeo ai
+sensi del regolamento n. 805/2004, di una sentenza contumaciale pronunciata
+nei confronti di un convenuto il cui indirizzo non è noto.  
+  
+---|---  
+  
+62
+
+|
+
+Vero è che una sentenza contumaciale è da annoverarsi tra i titoli esecutivi,
+ai sensi dell’articolo 3 di detto regolamento, atti a essere certificati come
+titolo esecutivo europeo. Come sottolineato dal considerando 6 del regolamento
+n. 805/2004, l’assenza di contestazioni da parte del debitore come descritta
+all’articolo 3, paragrafo 1, lettera b), di tale regolamento può assumere la
+forma di mancata comparizione in un’udienza davanti al giudice o mancata
+osservanza dell’invito di un giudice a notificare per iscritto l’intenzione di
+difendere la propria causa.  
+  
+---|---  
+  
+63
+
+|
+
+Tuttavia, ai sensi dell’articolo 14, paragrafo 2, del medesimo regolamento,
+«ai fini del presente regolamento la notificazione di cui al paragrafo 1 non è
+ammissibile se l’indirizzo del debitore non è conosciuto con certezza».  
+  
+---|---  
+  
+64
+
+|
+
+Dal tenore letterale stesso del regolamento n. 805/2004 emerge quindi che una
+sentenza contumaciale pronunciata in caso di impossibilità di determinare il
+domicilio del convenuto non può essere certificata come titolo esecutivo
+europeo. Tale conclusione discende anche da un’analisi degli obiettivi e della
+sistematica di tale regolamento. Infatti, detto regolamento predispone un
+meccanismo di deroga al regime comune di riconoscimento delle sentenze, le cui
+condizioni sono soggette per principio a un’interpretazione restrittiva.  
+  
+---|---  
+  
+65
+
+|
+
+Inoltre, il considerando 10 del regolamento n. 805/2004 sottolinea che, nel
+caso di una decisione relativa a un credito non contestato resa in uno Stato
+membro nei confronti di un debitore contumace, la soppressione di qualsiasi
+controllo nello Stato membro dell’esecuzione è intrinsecamente legata e
+subordinata all’esistenza di garanzie sufficienti del rispetto dei diritti
+della difesa.  
+  
+---|---  
+  
+66
+
+|
+
+Orbene, come risulta dal punto 57 della presente sentenza, la possibilità per
+il convenuto di opporsi al riconoscimento della sentenza pronunciata nei suoi
+confronti in forza dell’articolo 34, punto 2, del regolamento n. 44/2001
+consente a quest’ultimo di far rispettare i suoi diritti della difesa. Tale
+garanzia verrebbe tuttavia meno se, in circostanze come quelle di cui al
+procedimento principale, una sentenza contumaciale pronunciata nei confronti
+di un convenuto che non ha avuto conoscenza del procedimento fosse certificata
+come titolo esecutivo europeo.  
+  
+---|---  
+  
+67
+
+|
+
+Si deve quindi dichiarare che una sentenza contumaciale pronunciata nei
+confronti di un convenuto il cui indirizzo non è noto non può essere
+certificata come titolo esecutivo europeo ai sensi del regolamento n.
+805/2004.  
+  
+---|---  
+  
+68
+
+|
+
+Occorre di conseguenza rispondere alla seconda parte della terza questione
+dichiarando che il diritto dell’Unione dev’essere interpretato nel senso che
+osta alla certificazione come titolo esecutivo europeo, ai sensi del
+regolamento n. 805/2004, di una sentenza contumaciale pronunciata nei
+confronti di un convenuto il cui indirizzo non è noto.  
+  
+---|---  
+  
+Sull’undicesima questione
+
+69
+
+|
+
+Con la sua undicesima questione, il giudice del rinvio chiede, in sostanza, se
+l’articolo 3, paragrafi 1 e 2, della direttiva 2000/31 debba essere
+interpretato nel senso che trova applicazione nel caso in cui il luogo di
+stabilimento del prestatore di servizi della società dell’informazione sia
+sconosciuto.  
+  
+---|---  
+  
+70
+
+|
+
+A tale proposito, è necessario constatare che dalla citata sentenza eDate
+Advertising e a. emerge chiaramente che lo stabilimento del prestatore di
+servizi della società dell’informazione in questione in uno Stato membro
+costituisce tanto la ragion d’essere quanto la condizione per l’applicazione
+del meccanismo istituito dall’articolo 3 della direttiva 2000/31. Infatti,
+detto meccanismo è diretto a garantire la libera circolazione dei servizi
+della società dell’informazione tra gli Stati membri mediante
+l’assoggettamento di detti servizi alla normativa dello Stato membro di
+stabilimento dei loro prestatori (sentenza eDate Advertising e a., cit., punto
+66).  
+  
+---|---  
+  
+71
+
+|
+
+Poiché la possibilità di applicare l’articolo 3, paragrafi 1, e 2, della
+suddetta direttiva è dunque subordinata all’individuazione dello Stato membro
+nel territorio del quale il prestatore del servizio della società
+dell’informazione in questione è effettivamente stabilito (sentenza eDate
+Advertising e a., cit., punto 68), spetta al giudice del rinvio verificare se
+il convenuto nel procedimento principale sia effettivamente stabilito nel
+territorio di uno Stato membro. In mancanza di tale stabilimento, il
+meccanismo previsto dall’articolo 3, paragrafo 2, della direttiva 2000/31 non
+si applica.  
+  
+---|---  
+  
+72
+
+|
+
+In tale contesto, occorre rispondere all’undicesima questione dichiarando che
+l’articolo 3, paragrafi 1 e 2, della direttiva 2000/31 non trova applicazione
+nel caso in cui il luogo di stabilimento del prestatore di servizi della
+società dell’informazione sia sconosciuto, dato che l’applicazione di tale
+disposizione è subordinata all’individuazione dello Stato membro nel
+territorio del quale il prestatore di cui trattasi è effettivamente stabilito.  
+  
+---|---  
+  
+Sulle spese
+
+73
+
+|
+
+Nei confronti delle parti nel procedimento principale la presente causa
+costituisce un incidente sollevato dinanzi al giudice nazionale, cui spetta
+quindi statuire sulle spese. Le spese sostenute da altri soggetti per
+presentare osservazioni alla Corte non possono dar luogo a rifusione.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Prima Sezione) dichiara:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+In circostanze come quelle di cui al procedimento principale, l’articolo 4,
+paragrafo 1, del regolamento (CE) n. 44/2001 del Consiglio, del 22 dicembre
+2000, concernente la competenza giurisdizionale, il riconoscimento e
+l’esecuzione delle decisioni in materia civile e commerciale dev’essere
+interpretato nel senso che non osta all’applicazione dell’articolo 5, punto 3,
+del medesimo regolamento a un’azione risarcitoria per danni derivanti dalla
+gestione di un sito Internet, promossa contro un convenuto che è probabilmente
+cittadino dell’Unione, ma che si trova in un luogo sconosciuto, se il giudice
+adito non dispone di indizi probatori che gli consentano di ritenere che detto
+convenuto sia effettivamente domiciliato al di fuori del territorio
+dell’Unione europea.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+Il diritto dell’Unione dev’essere interpretato nel senso che non osta alla
+pronuncia di una sentenza contumaciale nei confronti di un convenuto al quale,
+nell’impossibilità di reperirlo, la domanda giudiziale è stata notificata
+mediante pubblicazione secondo il diritto nazionale, a condizione che il
+giudice adito si sia prima assicurato che siano state condotte tutte le
+ricerche imposte dai principi di diligenza e di buona fede per rintracciare
+tale convenuto.  
+  
+---|---  
+|  |
+
+3)
+
+|
+
+Il diritto dell’Unione dev’essere interpretato nel senso che osta alla
+certificazione come titolo esecutivo europeo, ai sensi del regolamento (CE) n.
+805/2004 del Parlamento europeo e del Consiglio, del 21 aprile 2004, che
+istituisce il titolo esecutivo europeo per i crediti non contestati, di una
+sentenza contumaciale pronunciata nei confronti di un convenuto il cui
+indirizzo non è noto.  
+  
+---|---  
+|  |
+
+4)
+
+|
+
+L’articolo 3, paragrafi 1 e 2, della direttiva 2000/31/CE del Parlamento
+europeo e del Consiglio, dell’8 giugno 2000, relativa a taluni aspetti
+giuridici dei servizi della società dell’informazione, in particolare il
+commercio elettronico, nel mercato interno («direttiva sul commercio
+elettronico») non trova applicazione nel caso in cui il luogo di stabilimento
+del prestatore di servizi della società dell’informazione sia sconosciuto,
+dato che l’applicazione di tale disposizione è subordinata all’individuazione
+dello Stato membro nel territorio del quale il prestatore di cui trattasi è
+effettivamente stabilito.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: il tedesco.
+

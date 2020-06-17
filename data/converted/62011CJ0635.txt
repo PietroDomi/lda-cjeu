@@ -1,0 +1,988 @@
+
+
+SENTENZA DELLA CORTE (Ottava Sezione)
+
+20 giugno 2013 ( *1 )
+
+«Inadempimento di uno Stato — Direttiva 2005/56/CE — Fusioni transfrontaliere
+delle società di capitali — Articolo 16, paragrafo 2, lettere a) e b) —
+Società derivante da una fusione transfrontaliera — Lavoratori impiegati nello
+Stato membro in cui ha sede la società o in altri Stati membri — Diritti di
+partecipazione — Mancanza di identità dei diritti»
+
+Nella causa C-635/11,
+
+avente ad oggetto il ricorso per inadempimento, ai sensi dell’articolo 258
+TFUE, proposto il 9 dicembre 2011,
+
+Commissione europea, rappresentata da J. Enegren e M. van Beek, in qualità di
+agenti, con domicilio eletto in Lussemburgo,
+
+ricorrente,
+
+contro
+
+Regno dei Paesi Bassi, rappresentato da C. Schillemans e C. Wissels, in
+qualità di agenti,
+
+convenuto,
+
+LA CORTE (Ottava Sezione),
+
+composta da E. Jarašiūnas, presidente di sezione, A. Ó Caoimh e C.G. Fernlund
+(relatore), giudici,
+
+avvocato generale: Y. Bot
+
+cancelliere: A. Calot Escobar
+
+vista la fase scritta del procedimento,
+
+vista la decisione, adottata dopo aver sentito l’avvocato generale, di
+giudicare la causa senza conclusioni,
+
+ha pronunciato la seguente
+
+Sentenza
+
+1
+
+|
+
+Con il suo ricorso, la Commissione europea chiede alla Corte di dichiarare che
+il Regno dei Paesi Bassi, non avendo adottato tutte le misure legislative,
+regolamentari e amministrative necessarie affinché i lavoratori operanti
+presso gli stabilimenti di una società, derivante da una fusione
+transfrontaliera e con sede sociale nei Paesi Bassi, situati in altri Stati
+membri godano degli stessi diritti di partecipazione dei lavoratori impiegati
+nei Paesi Bassi, è venuto meno agli obblighi ad esso incombenti in forza
+dell’articolo 16, paragrafo 2, lettera b), della direttiva 2005/56/CE del
+Parlamento europeo e del Consiglio, del 26 ottobre 2005, relativa alle fusioni
+transfrontaliere delle società di capitali (GU L 310, pag. 1; in prosieguo: la
+«direttiva “fusioni”»).  
+  
+---|---  
+  
+Contesto normativo
+
+Il diritto dell’Unione
+
+2
+
+|
+
+Il considerando 13 della direttiva «fusioni» è formulato come segue:
+
+«Se i lavoratori hanno diritti di partecipazione in una delle società che
+partecipano alla fusione, nelle circostanze previste dalla presente direttiva,
+e se la legislazione nazionale dello Stato membro in cui ha sede la società
+derivante dalla fusione transfrontaliera non prevede un livello di
+partecipazione identico a quello attuato nelle società che partecipano alla
+fusione, anche in comitati dell’organo di vigilanza che abbiano poteri
+decisionali, oppure non contempla un diritto ad esercitare diritti di
+partecipazione identico per i lavoratori di società derivanti dalla fusione
+transfrontaliera, vanno disciplinati la partecipazione dei lavoratori nella
+società derivante dalla fusione transfrontaliera e il loro coinvolgimento
+nella definizione di tali diritti. A tal fine, si applicano i principi e le
+procedure previsti nel regolamento (CE) n. 2157/2001 del Consiglio, dell’8
+ottobre 2001, relativo allo statuto della Società europea (SE) [(GU 294, pag.
+1)] e nella direttiva 2001/86/CE del Consiglio, dell’8 ottobre 2001, che
+completa lo statuto della Società europea per quanto riguarda il
+coinvolgimento dei lavoratori [(GU L 294, pag. 22); in prosieguo: la
+“direttiva SE”], fatte salve tuttavia le modifiche ritenute necessarie in
+quanto la società derivante dalla fusione transfrontaliera sarà soggetta alla
+legislazione nazionale dello Stato membro in cui ha la sede sociale. Gli Stati
+membri possono provvedere, secondo quanto previsto dall’articolo 3, paragrafo
+2, lettera b), della direttiva [SE], a un rapido avvio dei negoziati a norma
+dell’articolo 16 della presente direttiva, al fine di non ritardare
+inutilmente le fusioni».  
+  
+---|---  
+  
+3
+
+|
+
+L’articolo 16 della direttiva «fusioni», dal titolo «Partecipazione dei
+lavoratori», dispone quanto segue:
+
+«1. Fatto salvo il paragrafo 2, la società derivante dalla fusione
+transfrontaliera è soggetta alle disposizioni vigenti in materia di
+partecipazione dei lavoratori, ove esistano, nello Stato membro in cui è
+situata la sua sede sociale.
+
+2\. Tuttavia, le eventuali disposizioni in vigore riguardanti la
+partecipazione dei lavoratori nello Stato membro in cui è situata la sede
+sociale della società derivante dalla fusione transfrontaliera non si
+applicano, se almeno una delle società che partecipano alla fusione ha un
+numero medio di lavoratori, nei sei mesi precedenti la pubblicazione del
+progetto di fusione transfrontaliera di cui all’articolo 6, superiore a 500 ed
+è gestita in regime di partecipazione dei lavoratori ai sensi dell’articolo 2,
+lettera k), della direttiva [SE], oppure se la legislazione nazionale
+applicabile alla società derivante dalla fusione transfrontaliera:
+
+|
+
+a)
+
+|
+
+non prevede un livello di partecipazione dei lavoratori almeno identico a
+quello attuato nelle società che partecipano alla fusione di cui trattasi,
+misurato con riferimento alla quota di rappresentanti dei lavoratori tra i
+membri dell’organo di amministrazione o dell’organo di vigilanza o dei
+rispettivi comitati o del gruppo dirigente competente per i centri di profitto
+della società, qualora sia prevista la rappresentanza dei lavoratori; oppure  
+  
+---|---  
+  
+b)
+
+|
+
+non contempla, per i lavoratori di stabilimenti della società derivante dalla
+fusione transfrontaliera situati in altri Stati membri, un diritto ad
+esercitare diritti di partecipazione identico a quello di cui godono i
+lavoratori impiegati nello Stato membro in cui è situata la sede sociale della
+società derivante dalla fusione transfrontaliera.  
+  
+---|---  
+  
+3\. Nei casi di cui al paragrafo 2 la partecipazione dei lavoratori nella
+società derivante dalla fusione transfrontaliera e il loro coinvolgimento
+nella definizione dei relativi diritti sono disciplinati dagli Stati membri,
+mutatis mutandis e fatti salvi i paragrafi da 4 a 7, secondo i principi e le
+modalità di cui all’articolo 12, paragrafi 2, 3 e 4, del regolamento [n.
+2157/2001] e a norma delle disposizioni seguenti della direttiva [SE]:
+
+(...)
+
+h)
+
+|
+
+allegato, parte terza, lettera b).  
+  
+---|---  
+  
+(...)
+
+5\. L’estensione dei diritti di partecipazione ai lavoratori della società
+derivante dalla fusione transfrontaliera impiegati in altri Stati membri, di
+cui al paragrafo 2, lettera b), non comporta alcun obbligo, per gli Stati
+membri che optano per questa formula, di tener conto di tali lavoratori al
+momento di calcolare l’ordine di grandezza delle soglie che fanno scattare i
+diritti di partecipazione in virtù della legislazione nazionale.
+
+(…)».  
+  
+4
+
+|
+
+Ai sensi dell’articolo 19 della direttiva «fusioni», il termine per la
+trasposizione della direttiva medesima è scaduto il 15 dicembre 2007.  
+  
+---|---  
+  
+Il diritto olandese
+
+5
+
+|
+
+L’articolo 333k che modifica il libro secondo del codice civile, con cui è
+stato trasposto nel diritto nazionale l’articolo 16 della direttiva «fusioni»,
+è formulato come segue:
+
+«1. Ai fini del presente articolo, per disposizioni relative alla
+partecipazione si intendono le disposizioni in materia di partecipazione di
+cui all’articolo 1:1, paragrafo 1, della legge sul ruolo dei lavoratori nella
+società europea.
+
+2\. Nei casi in cui:
+
+|
+
+a)
+
+|
+
+almeno una delle società che partecipano alla fusione impiega in media più di
+500 persone nel corso dei sei mesi precedenti la data di deposito del progetto
+di fusione di cui all’articolo 314 ed è soggetta a disposizioni relative alla
+partecipazione; oppure  
+  
+---|---  
+  
+b)
+
+|
+
+le disposizioni relative alla partecipazione si applicano ad una delle società
+che partecipano alla fusione e la società beneficiaria non rispetta le
+disposizioni degli articoli 157, da 158 a 164, oppure da 158 a 161 e 164
+oppure 267, da 268 a 274 oppure da 268 a 271 e 274,  
+  
+---|---  
+  
+gli articoli 12, paragrafi da 2 a 4, del regolamento [n. 2157/2001] e da 1:4 a
+1:12, 1:14, paragrafi 1, 2, 3, punto a, e 4, 1:16, 1:17, 1:18, paragrafo 1,
+punti a, h, i e j, paragrafi 3 e 6, 1:20, 1:21, paragrafo 2, punto a, fermo
+restando che la percentuale di 25 di cui a tale punto è sostituita da 33⅓,
+paragrafi 4 e 5, 1:26, paragrafo 3, e 1:31, paragrafo 2, della legge sul ruolo
+dei lavoratori delle persone giuridiche europee, nonché gli articoli 670,
+paragrafi 4 e 11, e 670a, paragrafo 1, punto a, del libro settimo del codice
+civile sono applicabili per analogia».  
+  
+6
+
+|
+
+In base al diritto olandese, godono di un diritto di partecipazione legale le
+società soggette al regime strutturale – cioè le società per azioni e a
+responsabilità limitata – che rispondono ai seguenti criteri (v. l’articolo
+2:153/263, paragrafo 2, del codice civile):
+
+|
+
+a)
+
+|
+
+secondo il bilancio e i suoi allegati, il capitale sottoscritto della società
+e le riserve ammontano a un totale di almeno EUR 16 milioni;  
+  
+---|---  
+  
+b)
+
+|
+
+la società o una società controllata ha istituito un comitato aziendale come
+ad essa imposto dalla legge, e  
+  
+---|---  
+  
+c)
+
+|
+
+la società e le società controllate con partecipazione superiore al 50%
+impiegano normalmente nel complesso almeno cento lavoratori.  
+  
+---|---  
+  
+7
+
+|
+
+Il regime strutturale impone l’istituzione di un consiglio di sorveglianza
+dotato di competenze essenziali. Gli articoli 2:158, paragrafo 5 e 2:268,
+paragrafo 5, del codice civile attribuiscono al comitato aziendale di una
+società per azioni o a responsabilità limitata soggetta al regime strutturale
+il diritto di suggerire la nomina di tutti i membri del consiglio di
+sorveglianza. È l’assemblea generale a nominare i membri del consiglio di
+sorveglianza. Talune società sono esonerate, a determinate condizioni,
+dall’applicazione del regime strutturale. È questo in particolare il caso
+delle holding internazionali. Il regime strutturale può essere anche applicato
+su base volontaria.  
+  
+---|---  
+  
+La fase precontenziosa del procedimento
+
+8
+
+|
+
+Dubitando della conformità della normativa olandese con l’articolo 16,
+paragrafo 2, lettera b), della direttiva «fusioni», il 3 novembre 2009 la
+Commissione ha inviato una lettera di diffida al Regno dei Paesi Bassi.
+Quest’ultimo ha risposto con lettera del 18 marzo 2010, sostenendo che detto
+articolo 16, paragrafo 2, lettere a) e b) conteneva una duplice opzione e che
+gli Stati membri potevano, di conseguenza, scegliere tra le due possibilità
+offerte dalla stessa nel momento in cui decidessero di applicare la loro
+legislazione nazionale in materia di diritti di partecipazione dei lavoratori.
+Non soddisfatta della risposta ottenuta, il 25 novembre 2010 la Commissione ha
+notificato al Regno dei Paesi Bassi un parere motivato, al quale tale Stato
+membro ha risposto con lettera del 27 gennaio 2011.  
+  
+---|---  
+  
+Sul ricorso
+
+Argomenti delle parti
+
+9
+
+|
+
+La Commissione sostiene che l’articolo 16, paragrafo 1, della direttiva
+«fusioni» contiene una regola generale in materia di partecipazione dei
+lavoratori nei casi di fusioni transfrontaliere, in virtù della quale si
+applicano le disposizioni in vigore nello Stato membro in cui è situata la
+sede sociale della società.  
+  
+---|---  
+  
+10
+
+|
+
+Secondo la Commissione, le eccezioni a tale regola generale, elencate
+all’articolo 16, paragrafo 2, della direttiva «fusioni», possono essere
+sintetizzate nel modo seguente:
+
+|
+
+—
+
+|
+
+almeno una delle società che partecipano alla fusione impiega più di 500
+lavoratori ed è gestita in regime di partecipazione dei lavoratori (articolo
+16, paragrafo 2, frase introduttiva, prima parte), oppure  
+  
+---|---  
+  
+—
+
+|
+
+la legislazione nazionale applicabile alla società derivante dalla fusione
+transfrontaliera prevede un livello di partecipazione dei lavoratori inferiore
+a quello già attuato nelle società che partecipano alla fusione di cui
+trattasi [articolo 16, paragrafo 2, lettera a)], oppure  
+  
+---|---  
+  
+—
+
+|
+
+la legislazione nazionale applicabile alla società derivante dalla fusione non
+contempla, per i lavoratori di stabilimenti della società situati in altri
+Stati membri, un diritto ad esercitare diritti di partecipazione identico a
+quello di cui godono i lavoratori impiegati nello Stato membro in cui è
+situata la sede sociale della società derivante dalla fusione transfrontaliera
+[articolo 16, paragrafo 2, lettera b)].  
+  
+---|---  
+  
+11
+
+|
+
+La Commissione sostiene che la direttiva «fusioni» non attribuisce agli Stati
+membri, ai fini dell’applicazione del diritto nazionale in materia di
+partecipazione dei lavoratori, la facoltà di scelta tra le fattispecie di cui
+all’articolo 16, paragrafo 2, lettere a) e b), della direttiva «fusioni». Tale
+istituzione rimprovera dunque al Regno dei Paesi Bassi di aver preso in
+considerazione soltanto le disposizioni dell’articolo 16, paragrafo 2, lettera
+a), e di non aver esteso i diritti di partecipazione di cui godono i
+lavoratori impiegati nei Paesi Bassi ai lavoratori interessati dalla fusione
+impiegati in altri Stati membri, ai sensi del disposto del suddetto articolo
+16, paragrafo 2, lettera b).  
+  
+---|---  
+  
+12
+
+|
+
+Secondo la Commissione, la normativa olandese è contraria all’obiettivo,
+chiaramente perseguito dall’articolo 16, paragrafo 3, della direttiva
+«fusioni», di attribuire a tutti i lavoratori di una società derivante da una
+fusione gli stessi diritti di partecipazione, indipendentemente dallo Stato
+membro nel quale essi siano impiegati, e non trova alcun fondamento nella
+lettera dell’articolo 16 di tale direttiva.  
+  
+---|---  
+  
+13
+
+|
+
+La Commissione sostiene che la propria analisi sarebbe confermata dal
+considerando 13 della direttiva «fusioni», il quale menziona i casi in cui il
+diritto nazionale in materia di partecipazione dei lavoratori non si applica
+alla società derivante dalla fusione, e in cui devono essere di conseguenza
+applicate altre disposizioni, ossia quelle di cui all’articolo 16, paragrafo
+3, della direttiva «fusioni» (in prosieguo: le «disposizioni relative alla
+società europea»). Tali disposizioni tengono conto del regolamento n.
+2157/2001 e della direttiva SE.  
+  
+---|---  
+  
+14
+
+|
+
+La Commissione sostiene che l’articolo 16, paragrafo 5, della direttiva
+«fusioni» non concede agli Stati membri la facoltà di non estendere il loro
+diritto nazionale in materia di partecipazione ai lavoratori interessati dalla
+fusione e impiegati in altri Stati membri.  
+  
+---|---  
+  
+15
+
+|
+
+La Commissione sottolinea che idealmente dovrebbe applicarsi il diritto
+nazionale dello Stato membro in cui ha sede la società di nuova creazione, ma
+che ciò avviene soltanto se esso prevede almeno lo stesso livello di
+partecipazione di quello già esistente nelle società interessate prima della
+fusione, e concede ai lavoratori degli stabilimenti esteri un regime di
+partecipazione identico.  
+  
+---|---  
+  
+16
+
+|
+
+Secondo la Commissione risulta dal principio «prima/dopo», consacrato dalla
+direttiva SE, che la legislazione nazionale in materia di partecipazione dei
+lavoratori deve sempre garantire a tutti i lavoratori interessati da una
+fusione almeno il livello più elevato di partecipazione di cui tali lavoratori
+hanno goduto prima di tale fusione. Dal momento che il Regno dei Paesi Bassi
+non prevede tale garanzia, esso sarebbe venuto meno ai propri obblighi.  
+  
+---|---  
+  
+17
+
+|
+
+La Commissione riconosce che la direttiva «fusioni», come sostenuto dal Regno
+dei Paesi Bassi e al pari della direttiva SE, potrebbe comportare una
+restrizione, e dunque una parziale perdita dei diritti di partecipazione, ma
+ciò soltanto qualora la delegazione speciale di negoziazione prevista
+dall’articolo 3 della direttiva SE non abbia optato per l’applicazione delle
+disposizioni di riferimento.  
+  
+---|---  
+  
+18
+
+|
+
+La Commissione respinge l’argomento secondo il quale la sua interpretazione
+della direttiva «fusioni» renderebbe le fusioni transfrontaliere più onerose
+per le piccole società. Essa sostiene che tale direttiva ha notevolmente
+semplificato le fusioni transfrontaliere e ridotto i costi elevati delle
+stesse. Essa osserva che la suddetta direttiva non prevede affatto un regime
+di partecipazione dei lavoratori più snello a vantaggio delle piccole imprese.  
+  
+---|---  
+  
+19
+
+|
+
+Il Regno dei Paesi Bassi nega di essere venuto meno ai propri obblighi per il
+fatto di non aver previsto nella propria legislazione le disposizioni
+dell’articolo 16, paragrafo 2, lettera b), della direttiva «fusioni».  
+  
+---|---  
+  
+20
+
+|
+
+Secondo tale Stato membro, non era necessario prevedere disposizioni del
+genere nel proprio diritto nazionale. Prevedendo l’applicazione delle
+disposizioni relative alla società europea nell’ipotesi di cui all’articolo
+16, paragrafo 2, frase introduttiva, della direttiva «fusioni», quando una
+delle società che partecipano alla fusione impiega più di 500 lavoratori,
+nonché nell’ipotesi di cui all’articolo 16, paragrafo 2, lettera a), di tale
+direttiva, il Regno dei Paesi Bassi avrebbe dato corretta attuazione
+all’articolo 16, paragrafo 2, della suddetta direttiva.  
+  
+---|---  
+  
+21
+
+|
+
+Esso sostiene che l’articolo 16, paragrafo 2, lettere a) e b), della direttiva
+«fusioni» contempla due possibilità tra le quali gli Stati membri possono
+scegliere al fine di garantire alle società che impiegano al massimo 500
+lavoratori l’applicazione del diritto nazionale in materia di partecipazione
+al posto delle disposizioni relative alla società europea.  
+  
+---|---  
+  
+22
+
+|
+
+Tale interpretazione si fonderebbe sulla lettera dell’articolo 16, paragrafo
+2, della direttiva «fusioni».  
+  
+---|---  
+  
+23
+
+|
+
+Secondo tale disposizione, il diritto nazionale non si applicherebbe alle
+piccole società, cioè a quelle che impiegano al massimo 500 lavoratori,
+qualora il diritto nazionale non contempli l’ipotesi menzionata alla lettera
+a) «oppure» alla lettera b). Il Regno dei Paesi Bassi sottolinea come, tanto
+in tale disposizione quanto nel considerando 13 della direttiva «fusioni»,
+venga utilizzato il termine «oppure», e non il termine «e». Ebbene, la
+fattispecie di cui all’articolo 16, paragrafo 2, lettera a), della direttiva
+«fusioni» sarebbe sempre garantita nel sistema olandese quando una società
+olandese soggetta al regime strutturale sia coinvolta in una fusione e la
+società da essa derivante abbia sede nei Paesi Bassi.  
+  
+---|---  
+  
+24
+
+|
+
+Secondo il Regno dei Paesi Bassi, e contrariamente a quanto affermato dalla
+Commissione, l’articolo 16, paragrafo 2, lettera b), della direttiva «fusioni»
+non comporta l’obbligo per gli Stati membri di garantire che le norme sulla
+partecipazione siano estese ai lavoratori impiegati in altri Stati membri.
+Tale interpretazione sarebbe confermata dalla formulazione dell’articolo 16,
+paragrafo 5, di tale direttiva che si riferisce all’«opzione» effettuata dagli
+Stati membri.  
+  
+---|---  
+  
+25
+
+|
+
+Tale interpretazione sarebbe del pari suffragata dagli obiettivi e dagli
+effetti della direttiva «fusioni». L’interpretazione della Commissione, di
+contro, contraddirebbe il principio «prima/dopo» e la ragion d’essere della
+distinzione tra società grandi e piccole operata dall’articolo 16, paragrafo
+2, di tale direttiva.  
+  
+---|---  
+  
+26
+
+|
+
+Per quanto riguarda il principio «prima/dopo» stabilito nella direttiva SE, il
+Regno dei Paesi Bassi, facendo riferimento al considerando 13 della direttiva
+«fusioni», sostiene che esso costituisce anche un principio fondamentale ed un
+obiettivo di tale direttiva. Tuttavia, tale principio non implicherebbe
+un’estensione dei diritti di partecipazione, ma soltanto il loro mantenimento.  
+  
+---|---  
+  
+27
+
+|
+
+Quanto alla distinzione tra società grandi e piccole, il Regno dei Paesi Bassi
+ricorda che, secondo la frase introduttiva dell’articolo 16, paragrafo 2,
+della direttiva «fusioni», le grandi società che impiegano più di 500
+lavoratori sono soggette alle disposizioni relative alla società europea,
+mentre soltanto le piccole società che contano al massimo 500 lavoratori sono,
+in linea di principio, soggette alla normativa nazionale ai sensi
+dell’articolo 16, paragrafo 2, lettere a) o b), di tale direttiva.  
+  
+---|---  
+  
+28
+
+|
+
+La ragion d’essere di tale distinzione risiederebbe nel fatto che la direttiva
+«fusioni», come in generale la legislazione dell’Unione, mira ad applicare
+alle piccole società un regime più leggero rispetto alle grandi società. Ne
+deriva, secondo il Regno dei Paesi Bassi, che l’applicazione del diritto
+nazionale di cui all’articolo 16, paragrafo 2, di tale direttiva deve
+comportare anche un regime più snello rispetto a quello previsto dalle
+disposizioni relative alla società europea. Ebbene, la lettura che di tale
+disposizione, lettera b), dà la Commissione determina l’effetto esattamente
+opposto, in quanto al regime di partecipazione soggetto al diritto nazionale
+si applicano requisiti più stringenti rispetto a quelli che si applicano sulla
+base delle disposizioni relative alla società europea.  
+  
+---|---  
+  
+29
+
+|
+
+Il Regno dei Paesi Bassi sottolinea, in tale contesto, che dal combinato
+disposto degli articoli 7 e 3, paragrafo 6, della direttiva SE, nonché
+dell’articolo 16, paragrafo 3, della direttiva «fusioni», discende che
+l’applicazione delle disposizioni relative alla società europea può di fatto
+comportare una restrizione, e dunque una perdita, dei diritti di
+partecipazione. Pertanto, la Commissione non può sostenere che, in caso di
+applicazione del diritto nazionale, non sarebbe ammissibile una perdita dei
+diritti di partecipazione, il che comporterebbe de facto l’inesistenza di un
+regime più snello per le piccole società.  
+  
+---|---  
+  
+30
+
+|
+
+Di conseguenza, dal momento che la distinzione tra società grandi e piccole di
+cui all’articolo 16, paragrafo 2, della direttiva «fusioni» permette che
+l’applicazione del diritto nazionale possa ugualmente determinare una perdita
+dei diritti di partecipazione dei lavoratori, non sussisterebbe l’obbligo di
+estendere i diritti di partecipazione a tutti i lavoratori, il che
+confermerebbe l’interpretazione secondo cui l’articolo 16, paragrafo 2,
+lettere a) e b), contemplerebbe un’opzione.  
+  
+---|---  
+  
+Giudizio della Corte
+
+31
+
+|
+
+Il Regno dei Paesi Bassi non nega di aver previsto, nel proprio diritto
+nazionale, due delle tre eccezioni di cui all’articolo 16, paragrafo 2, della
+direttiva «fusioni» e di non avere introdotto la terza eccezione, di cui alla
+lettera b) di tale disposizione. Risulta dunque pacifico che la legislazione
+olandese non prevede, per i lavoratori di stabilimenti della società derivante
+dalla fusione transfrontaliera situati in altri Stati membri, la possibilità
+di esercitare gli stessi diritti di partecipazione di cui godono i lavoratori
+impiegati nei Paesi Bassi. Tuttavia, tale Stato membro ritiene che l’assenza
+di una simile disposizione non osti all’applicazione del diritto olandese in
+materia di partecipazione dei lavoratori.  
+  
+---|---  
+  
+32
+
+|
+
+Infatti, secondo il Regno dei Paesi Bassi, dall’utilizzazione del termine
+«oppure» discende che, se il diritto nazionale in materia di diritti di
+partecipazione dei lavoratori prevede una delle due ipotesi, come nel caso del
+diritto olandese, allora si applica tale diritto. In altri termini, secondo
+tale Stato membro, basta che il diritto nazionale abbia previsto l’ipotesi di
+cui all’articolo 16, paragrafo 2, lettera a) «oppure» quella di cui alla
+lettera b) della medesima disposizione, della direttiva «fusioni», perché esso
+risulti applicabile.  
+  
+---|---  
+  
+33
+
+|
+
+Secondo la Commissione, invece, il termine «oppure», inquadrato nel contesto
+dell’articolo 16, paragrafo 2, della direttiva «fusioni», deve essere
+interpretato nel senso che se il diritto nazionale non prevede una delle due
+ipotesi in questione, esso non deve essere applicato.  
+  
+---|---  
+  
+34
+
+|
+
+Va rilevato che l’interpretazione della Commissione è avvalorata dalla
+formulazione dell’articolo 16, paragrafo 3, della direttiva «fusioni». Tale
+norma stabilisce infatti che, «nei casi di cui al paragrafo 2», devono essere
+applicate le specifiche disposizioni da essa previste, cioè quelle relative
+alla società europea. Dal momento che tale articolo 16, paragrafo 3, riguarda
+tutte le ipotesi menzionate al suddetto paragrafo 2, ne consegue che, in base
+ad una interpretazione letterale, esso si applica a ciascuna di esse, e che
+dunque, in ciascuna delle ipotesi menzionate, la legislazione nazionale non
+deve essere applicata, a vantaggio delle disposizioni relative alla società
+europea.  
+  
+---|---  
+  
+35
+
+|
+
+L’obiettivo della direttiva «fusioni», quale emerge dai lavori preparatori e
+dal suo preambolo, conferma tale interpretazione.  
+  
+---|---  
+  
+36
+
+|
+
+Quanto ai lavori preparatori, è opportuno ricordare il parere della
+commissione per l’occupazione e gli affari sociali del 16 marzo 2005, recante
+alcune proposte di emendamento. Infatti tale commissione, da un lato, ha
+sostenuto nel proprio parere che la Proposta di direttiva del Parlamento
+europeo e del Consiglio sulle fusioni transfrontaliere delle società di
+capitali, del 18 novembre 2003 [COM(2003) 703 def.], non rispondeva in modo
+soddisfacente all’ipotesi in cui la legislazione nazionale alla quale è
+soggetta la società derivante dalla fusione offra un grado o un livello di
+partecipazione diverso da quello di cui godono i dipendenti di almeno una
+delle società che partecipano alla fusione.  
+  
+---|---  
+  
+37
+
+|
+
+Dall’altro, tale commissione ha sottolineato l’opportunità di occuparsi anche
+della protezione dei diritti di partecipazione dei dipendenti di un’impresa
+partecipante ad una fusione con sede in uno Stato membro, i quali divengono,
+in conseguenza della fusione, dipendenti di una nuova società iscritta in un
+altro Stato membro, laddove la legislazione di tale secondo Stato non preveda
+la partecipazione dei dipendenti al di fuori del territorio nel quale essa è
+vigente. Gli emendamenti proposti dalla suddetta commissione miravano dunque a
+risolvere questi due problemi in maniera non alternativa, ma cumulativa.
+Ebbene, tali emendamenti sono stati incorporati nel testo finale della
+direttiva «fusioni» proprio attraverso le lettere a) e b) dell’articolo 16,
+paragrafo 2.  
+  
+---|---  
+  
+38
+
+|
+
+Anche il preambolo della direttiva «fusioni» riflette questi due problemi nel
+suo considerando 13, facendo riferimento ad una legislazione nazionale che non
+preveda un identico livello di partecipazione o gli stessi diritti per tutti i
+lavoratori interessati dalla fusione.  
+  
+---|---  
+  
+39
+
+|
+
+Dall’articolo 16, paragrafo 3, della direttiva «fusioni», letto alla luce del
+suddetto considerando 13, deriva che, in tale situazione, la normativa
+specifica applicabile deve fondarsi sui principi e sulle modalità previsti dal
+regolamento n. 2157/2001 e dalla direttiva SE.  
+  
+---|---  
+  
+40
+
+|
+
+A questo proposito, la Commissione richiama giustamente il considerando 18
+della direttiva SE, secondo il quale la garanzia dei diritti acquisiti dei
+lavoratori in materia di coinvolgimento nel processo decisionale delle società
+è un principio fondamentale e l’obiettivo esplicito di tale direttiva. Tale
+considerando afferma anche che «[i] diritti dei lavoratori acquisiti prima
+della costituzione delle SE sono inoltre alla base dell’elaborazione dei
+diritti di coinvolgimento degli stessi nella SE (principio “prima/dopo”)».  
+  
+---|---  
+  
+41
+
+|
+
+Dalla direttiva SE emerge che la garanzia dei diritti acquisiti voluta dal
+legislatore dell’Unione implica non soltanto il mantenimento dei diritti
+acquisiti dei lavoratori nelle società che partecipano alla fusione, ma anche
+l’estensione di tali diritti a tutti i lavoratori coinvolti.  
+  
+---|---  
+  
+42
+
+|
+
+La parte terza, lettera b), dell’allegato alla direttiva SE, in particolare,
+dimostra questa constatazione. Tale testo riguarda la nomina dei membri
+dell’organo di amministrazione o di vigilanza della società europea. Esso
+prevede che i lavoratori di tale società, delle sue affiliate e dipendenze e/o
+il loro organo di rappresentanza sono autorizzati ad eleggere, designare,
+raccomandare o ad opporsi alla designazione di un numero di membri dell’organo
+di amministrazione o di vigilanza della suddetta società pari alla più alta
+quota applicabile nelle società partecipanti prima dell’iscrizione della
+società europea. Tale testo prevede dunque, in materia, un adeguamento al
+regime che, tra i regimi esistenti nelle società coinvolte, appare
+caratterizzato dal maggior livello di protezione dei lavoratori.  
+  
+---|---  
+  
+43
+
+|
+
+Tenuto conto della volontà del legislatore dell’Unione di proteggere il
+diritto di partecipazione dei lavoratori sia nei casi regolati dalle
+disposizioni relative alla società europea, sia in quelli disciplinati dal
+diritto nazionale, occorre considerare che, anche nell’ambito di quest’ultimo,
+è necessario non solo che la partecipazione dei lavoratori nelle società
+interessate dalla fusione sia mantenuta, conformemente all’articolo 16,
+paragrafo 2, lettera a), della direttiva «fusioni», ma anche che i diritti di
+cui godono i lavoratori impiegati nello Stato membro in cui è situata la sede
+sociale della società derivante dalla fusione transfrontaliera siano estesi,
+conformemente all’articolo 16, paragrafo 2, lettera b), di tale direttiva,
+agli altri lavoratori interessati dalla fusione e impiegati in altri Stati
+membri.  
+  
+---|---  
+  
+44
+
+|
+
+Dalla formulazione dell’articolo 16, paragrafi 2 e 3, della direttiva
+«fusioni», e dall’obiettivo di tali disposizioni discende quindi che le
+eventuali norme relative alla partecipazione dei lavoratori, vigenti nello
+Stato membro in cui è situata la sede sociale della società derivante dalla
+fusione, non si applicano se la legislazione nazionale applicabile a tale
+società non prevede cumulativamente le due ipotesi di cui alle lettere a) e b)
+di tale paragrafo 2.  
+  
+---|---  
+  
+45
+
+|
+
+Gli argomenti del Regno dei Paesi Bassi fondati sull’articolo 16, paragrafo 5,
+della direttiva «fusioni» o su un’asserita differenza di trattamento tra
+grandi e piccole imprese non sono sufficienti a destituire di fondamento tale
+interpretazione.  
+  
+---|---  
+  
+46
+
+|
+
+È vero che l’articolo 16, paragrafo 5, della direttiva «fusioni» utilizza
+l’espressione «optano», ma tale espressione non indica affatto una facoltà per
+gli Stati membri di scegliere tra l’ipotesi di cui all’articolo 16, paragrafo
+2, lettera a) e quella di cui alla lettera b) della medesima disposizione.
+Tale espressione riguarda l’ipotesi in cui lo Stato membro abbia previsto
+l’estensione dei diritti dei lavoratori di cui all’articolo 16, paragrafo 2,
+lettera b), di tale direttiva. Per stabilire se la soglia prevista
+all’articolo 16, paragrafo 5, della direttiva «fusioni» sia oltrepassata,
+devono essere presi in considerazione soltanto i lavoratori impiegati in tale
+Stato membro. Non è necessario computare i lavoratori impiegati in altri Stati
+membri. Come emerge dal parere menzionato al punto 36 della presente sentenza,
+lo scopo del legislatore dell’Unione era quello di garantire un equilibrio tra
+la protezione dei diritti dei lavoratori impiegati in un altro Stato membro e
+le esigenze sottese alle disposizioni nazionali relative alla soglia.  
+  
+---|---  
+  
+47
+
+|
+
+Quanto ad un’asserita differenza tra piccole e grandi imprese, la Commissione
+sostiene giustamente che la direttiva «fusioni», e in particolare il suo
+articolo 16, non prevede affatto l’applicazione alle piccole imprese di un
+regime di partecipazione più snello, in virtù del quale i lavoratori impiegati
+in Stati membri diversi da quello in cui è situata la sede sociale della
+società derivante dalla fusione potrebbero essere privati in modo duraturo dei
+loro diritti di partecipazione all’interno di tale società.  
+  
+---|---  
+  
+48
+
+|
+
+Ne consegue che gli argomenti avanzati dal Regno dei Paesi Bassi in merito ad
+un’eventuale perdita di taluni diritti di partecipazione che sarebbe ammessa
+nell’ambito di fusioni che coinvolgono grandi imprese, perdita che dovrebbe
+essere ammessa a fortiori nell’ambito di fusioni tra le piccole imprese e che
+comporterebbe l’insussistenza dell’obbligo di estendere i diritti di
+partecipazione previsti nei Paesi Bassi ai lavoratori in altri Stati membri,
+non possono essere accolti.  
+  
+---|---  
+  
+49
+
+|
+
+Pertanto, il ricorso proposto dalla Commissione dev’essere considerato
+fondato.  
+  
+---|---  
+  
+50
+
+|
+
+Di conseguenza si deve dichiarare che il Regno dei Paesi Bassi, non avendo
+adottato tutte le misure legislative, regolamentari e amministrative
+necessarie affinché i lavoratori operanti presso gli stabilimenti di una
+società, derivante da una fusione transfrontaliera e con sede sociale nei
+Paesi Bassi, situati in altri Stati membri godano di diritti di partecipazione
+identici a quelli dei lavoratori impiegati nei Paesi Bassi, è venuto meno agli
+obblighi ad esso incombenti in forza dell’articolo 16, paragrafo 2, lettera
+b), della direttiva «fusioni».  
+  
+---|---  
+  
+Sulle spese
+
+51
+
+|
+
+Ai sensi dell’articolo 138, paragrafo 1, del regolamento di procedura della
+Corte, la parte soccombente è condannata alle spese se ne è stata fatta
+domanda. Poiché la Commissione ne ha fatto domanda, il Regno dei Paesi Bassi,
+rimasto soccombente, dev’essere condannato alle spese.  
+  
+---|---  
+|
+
+Per questi motivi, la Corte (Ottava Sezione) dichiara e statuisce:  
+  
+---|---  
+|  |
+
+1)
+
+|
+
+Il Regno dei Paesi Bassi, non avendo adottato tutte le misure legislative,
+regolamentari e amministrative necessarie affinché i lavoratori operanti
+presso gli stabilimenti di una società, derivante da una fusione
+transfrontaliera e con sede sociale nei Paesi Bassi, situati in altri Stati
+membri godano di diritti di partecipazione identici a quelli dei lavoratori
+impiegati nei Paesi Bassi, è venuto meno agli obblighi ad esso incombenti in
+forza dell’articolo 16, paragrafo 2, lettera b), della direttiva 2005/56/CE
+del Parlamento europeo e del Consiglio, del 26 ottobre 2005, relativa alle
+fusioni transfrontaliere delle società di capitali.  
+  
+---|---  
+|  |
+
+2)
+
+|
+
+Il Regno dei Paesi Bassi è condannato alle spese.  
+  
+---|---  
+|
+
+Firme  
+  
+---|---  
+  
+* * *
+
+( *1 ) Lingua processuale: l’olandese.
+
+  *[""]: Double quotes
+  *[*]: Asterisk
+  *[?]: Question mark
+
