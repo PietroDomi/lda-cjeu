@@ -8,9 +8,10 @@ def main():
     parser = argparse.ArgumentParser(description="LDA")
     parser.add_argument("--year", type=int, help=f"what year you would like to analyse the data from (year, corpus size): \n(2015, 7), (2014, 113), (2013, 132), (2012, 159), (2011, 242), (2010, 612), (2009, 1090), (2008, 1291), (2007, 1431), (2006, 1720), (2005, 2162), (2004, 2561), (2003, 2983), (2002, 3349), (2001, 3795)", default=2010)
     parser.add_argument("--k", type=int, metavar="NUM_TOPICS", help="number of topics for LDA", default=5)
-    parser.add_argument("--plot", metavar="SHOW DISTR PLOT", help="displays the distribution of documents through time", default=False)
+    parser.add_argument("--plot", type=bool, metavar="SHOW DISTR PLOT", help="displays the distribution of documents through time", default=False)
 
     args = parser.parse_args()
+    NUM_TOPICS = args.k
 
     if os.path.exists("old/last_run.txt"):
         with open("old/last_run.txt","r") as file:
@@ -27,38 +28,47 @@ def main():
             json.dump(args.__dict__, file, indent=2)
             to_collect = True
 
+#TODO: invert order of checks
+    print("\nChecking for preprocessed documents...")
 
-    if to_collect:
-        print("Data collection:")
+    to_load = []
+    processed_docs = pd.Series(dtype=object)
+    for year in range(2015, args.year-1, -1):
+        try:
+            prepro_docs = pickle.load(open(f"data/.preprocessed/{year}_preprocessed.pickle","rb"))
+            processed_docs = pd.concat([processed_docs,prepro_docs], axis=0)
+        except:
+            to_load.append(year)
+    print("\nDocuments Loaded")
+    
+
+    if os.path.exists("data/converted") and int(os.listdir("data/converted")[0][1:5]) <= args.year:
+        print("\nConverting data from html to txt...")
+        NUM_DOCS = html_converter.convert()
+
+    elif os.path.exists("data_scraping/data_html") and int(os.listdir("data_scraping/data_html")[0][1:5]) > args.year:
+        print("\nCollecting data...")
         explore.get(from_year=args.year, show=args.plot)
         os.system("cd data_scraping && scrapy crawl celex")
         print("\n\nData Collected")
-        tot_docs = html_converter.convert()
-        print(f"\nData converted: {tot_docs} total documents")
-    elif int(os.listdir("data/converted")[0][1:5]) > args.year:
-        print("\nConverting data from html to txt...")
-        html_converter.convert()
-    else:
-        print("\nData already collected")        
+        NUM_DOCS = html_converter.convert()
+        print(f"\nData converted: {NUM_DOCS} total documents")
+        with open(".gitignore","a") as file:
+            celexs = open("data_scraping/to_get.txt","r").readlines()
+            for celex in celexs:
+                file.writelines("data_scraping/data_html/"+celex[:-1]+".html\n")
+                file.writelines("data/converted/"+celex[:-1]+".txt\n")
 
-    documents = pd.DataFrame()
-    documents["text"] = model.load_docs(args.year, dir="data/converted/")
-    print("\nDocuments Loaded")
+    NUM_DOCS = html_converter.convert()
 
-    NUM_TOPICS = args.k
-    NUM_DOCS = len(documents.text)
-
-    print("\nChecking for preprocessed documents...")
-    if os.path.exists(f"data/.preprocessed/from_{args.year}_preprocessed.pickle"):
-        with open(f"data/.preprocessed/from_{args.year}_preprocessed.pickle","rb") as file:
-            processed_docs = pickle.load(file)
-        print("\nDocuments preprocessed loaded")
-    else:
-        print("Preprocesssing documents...")
-        processed_docs = documents.text.apply(func=model.preprocess, args=(NUM_DOCS,))
-        with open(f"data/.preprocessed/from_{args.year}_preprocessed.pickle","wb") as file:
+    for year in sorted(to_load, reverse=True):
+        print(f"\nProcesssing documents for {year}...")
+        documents = pd.Series(model.load_docs(year, dir="data/converted/"))
+        processed_docs = pd.concat([documents.apply(func=model.preprocess, args=(len(documents),len(processed_docs),)),processed_docs],axis=0)
+        with open(f"data/.preprocessed/{year}_preprocessed.pickle","wb") as file:
             pickle.dump(processed_docs, file)
-        print("Documents preprocessed and saved")
+    print("Documents preprocessed and saved")
+
 
     dictionary = model.create_dict(processed_docs, NUM_TOPICS, filter_n_most_freq=10)
     print("\nDictionary created:", dictionary)
