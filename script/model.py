@@ -1,4 +1,5 @@
-import os, re, csv
+import os, re, csv, pickle
+import pandas as pd
 from nltk.stem.snowball import ItalianStemmer
 from gensim.corpora import Dictionary
 from nltk.corpus import stopwords
@@ -7,10 +8,10 @@ from spacy.lang.it import Italian
 it_stopwords = stopwords.words('italian')
 it_stopwords.append("quest")
 
-def load_docs(from_year, dir="data/converted/"):
+def load_docs(year, dir="data/converted/"):
     docs = []
     for txt in os.listdir(dir):
-        if int(txt[1:5]) >= from_year:
+        if int(txt[1:5]) == year:
             text = open(dir+txt,"r",encoding='utf-8').read()
             docs.append(text)
     return docs
@@ -69,7 +70,7 @@ def print_topics(model, output=None):
         row = []
         print(f"\nTopic {topic[0]}")
         for word in topic[1]:
-            row.append(word[0])
+            row.append(word)
             print(f"\t{word[0]}")
         if not output == None:
             fwriter.writerow(row)

@@ -15,19 +15,24 @@ def get(from_year, show=False):
     #     tot += np.sum(np.array(distr)==i)
     #     print(i,tot)
 
-    print()
+    # print()
     if show:
         plt.hist(distr,bins=(np.max(distr)-np.min(distr))+1)
         plt.title("Documents distribution through time")
         plt.xlabel("Year")
         plt.ylabel("Count")
+        plt.savefig("fig/distr.png")
         plt.show()
 
     distr, to_get = to_get_list(celexs, from_year, create_txt=True)
 
+    with open("data_scraping/to_get.txt","r") as file:
+        not_get = file.readlines()
+
     with open("data_scraping/to_get.txt","w") as file:
         for c in sorted(to_get):
-            file.writelines(c+"\n")
+            if c+"\n" not in not_get:
+                file.writelines(c+"\n")
 
 
 def to_get_list(celexs, from_year=2010, create_txt=False):
