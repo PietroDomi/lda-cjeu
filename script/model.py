@@ -39,7 +39,7 @@ def preprocess(text, NUM_DOCS, num_preprocessed, stemming):
             if stemming:
                 result.append(stemmer.stem(word=token.text))
             else:
-                result.append(token.lemma_)
+                result.append(token.lemma_.lower())
             if "'" in result[-1] or "’" in result[-1]:
                 raise Exception(f"Detected_ {token.lemma_}")
     return result
