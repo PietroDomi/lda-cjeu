@@ -42,7 +42,7 @@ def main():
     print("\nDocuments Loaded")
     
 
-    if os.path.exists("data/converted") and int(os.listdir("data/converted")[0][1:5]) <= args.year:
+    if os.path.exists("data/converted") and int(os.listdir("data/converted")[0][1:5]) > args.year:
         print("\nConverting data from html to txt...")
         NUM_DOCS = html_converter.convert()
 

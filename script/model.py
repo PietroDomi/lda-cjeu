@@ -20,13 +20,15 @@ i = 0
 
 def preprocess(text, NUM_DOCS, num_preprocessed):
     global i
+    if i == 0:
+        i = num_preprocessed
     i += 1
     result = []
     stemmer = ItalianStemmer()
     if i % 20 == 0:
-        print(f"\t{i+num_preprocessed} out of {NUM_DOCS+num_preprocessed} documents preprocessed")
+        print(f"\t{i} out of {NUM_DOCS+num_preprocessed} documents preprocessed")
     nlp = Italian()
-    t0 = text.split("Lingua processuale")[0].split("Sentenza")[1:]
+    t0 = text.split("Lingua processuale")[0].split("Sentenza")[-1]
     t1 = "".join(t0)
     t1 =  re.sub(r"’|'|«|»|\d{1,4}\/\d{1,4}\/(cee|ce)|\d+|---\|*|^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$", " ", t1, flags=re.IGNORECASE)
     # print(t1)
@@ -66,7 +68,7 @@ def print_topics(model, output=None):
     if not output == None:
         file = open("data/output/"+output+".csv","w", newline='')
         fwriter = csv.writer(file, delimiter=",")
-    for topic in model.show_topics(formatted=False):
+    for topic in model.show_topics(formatted=False, num_words=25):
         row = []
         print(f"\nTopic {topic[0]}")
         for word in topic[1]:
