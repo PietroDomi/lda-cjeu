@@ -18,7 +18,7 @@ def load_docs(year, dir="data/converted/"):
 
 i = 0
 
-def preprocess(text, NUM_DOCS, num_preprocessed):
+def preprocess(text, NUM_DOCS, num_preprocessed, stemming):
     global i
     if i == 0:
         i = num_preprocessed
@@ -36,7 +36,10 @@ def preprocess(text, NUM_DOCS, num_preprocessed):
     for token in doc:
         if token.text.lower() not in it_stopwords and not token.is_punct | token.is_space and len(token) > 3:
             assert token.lang_ == "it"
-            result.append(stemmer.stem(word=token.lemma_))
+            if stemming:
+                result.append(stemmer.stem(word=token.text))
+            else:
+                result.append(token.lemma_)
             if "'" in result[-1] or "’" in result[-1]:
                 raise Exception(f"Detected_ {token.lemma_}")
     return result
@@ -59,14 +62,14 @@ def run_model(model, corpus, NUM_TOPICS, dictionary, save_file):
     return lda_model
 
 
-def classify(lda_model, corpus, i, num=1):
-    print(f"\nClassification document {num} with model {i+1}")
+def classify(lda_model, corpus, i, stemming, num=1):
+    print(f"\nClassification document {num} with model {i} and stemming={stemming}")
     for index, score in sorted(lda_model[corpus[num]], key=lambda tup: -1*tup[1]):
         print("\nScore: {}\t \nTopic: {}".format(score, lda_model.print_topic(index, 10)))
 
 def print_topics(model, output=None):
     if not output == None:
-        file = open("data/output/"+output+".csv","w", newline='')
+        file = open("data/output/"+output+".csv","w", newline='',encoding='utf-8')
         fwriter = csv.writer(file, delimiter=",")
     for topic in model.show_topics(formatted=False, num_words=25):
         row = []
