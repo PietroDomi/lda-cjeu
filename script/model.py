@@ -18,13 +18,13 @@ def load_docs(year, dir="data/converted/"):
 
 i = 0
 
-def preprocess(text, NUM_DOCS):
+def preprocess(text, NUM_DOCS, num_preprocessed):
     global i
     i += 1
     result = []
     stemmer = ItalianStemmer()
     if i % 20 == 0:
-        print(f"\t{i} out of {NUM_DOCS} documents preprocessed")
+        print(f"\t{i+num_preprocessed} out of {NUM_DOCS+num_preprocessed} documents preprocessed")
     nlp = Italian()
     t0 = text.split("Lingua processuale")[0].split("Sentenza")[1:]
     t1 = "".join(t0)
