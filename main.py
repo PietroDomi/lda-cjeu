@@ -84,9 +84,9 @@ def main():
     tfidf = TfidfModel(corpus_bow)
     corpus_tfidf = tfidf[corpus_bow]
 
-    lda_model_bow = model.run_model(LdaModel, corpus_bow, NUM_TOPICS, dictionary, save_file="bow")
+    lda_model_bow = model.run_model(LdaModel, corpus_bow, NUM_TOPICS, dictionary, save_file="bow", plot_convergence=True)
 
-    lda_model_tfidf = model.run_model(LdaModel, corpus_tfidf, NUM_TOPICS, dictionary, save_file="tfidf")
+    lda_model_tfidf = model.run_model(LdaModel, corpus_tfidf, NUM_TOPICS, dictionary, save_file="tfidf", plot_convergence=False)
 
     for i, lda_model, corpus in zip(("bow","tfidf"), (lda_model_bow, lda_model_tfidf), (corpus_bow, corpus_tfidf)):
         model.print_topics(lda_model, output=f"{'s' if STEMMING else 'l'}_model_{i}_k{NUM_TOPICS}_from{FROM_YEAR}")

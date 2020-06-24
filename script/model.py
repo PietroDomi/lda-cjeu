@@ -4,6 +4,12 @@ from nltk.stem.snowball import ItalianStemmer
 from gensim.corpora import Dictionary
 from nltk.corpus import stopwords
 from spacy.lang.it import Italian
+import logging
+import matplotlib.pyplot as plt
+logging.basicConfig(filename='old/gensim.log',
+                    format="%(asctime)s - %(levelname)s - %(message)s",
+                    level=logging.INFO)
+
 
 it_stopwords = stopwords.words('italian')
 it_stopwords.append("quest")
@@ -46,15 +52,32 @@ def preprocess(text, NUM_DOCS, num_preprocessed, stemming):
 
 def create_dict(corpus, NUM_TOPICS=5, filter_n_most_freq=10):
     dictionary = Dictionary(corpus)
-    dictionary.filter_extremes(no_below=round(0.5/NUM_TOPICS*dictionary.num_docs))
+    dictionary.filter_extremes(no_below=round(0.01*dictionary.num_docs))
     dictionary.filter_n_most_frequent(10)
     return dictionary
 
 
-def run_model(model, corpus, NUM_TOPICS, dictionary, save_file):
+def run_model(model, corpus, NUM_TOPICS, dictionary, save_file, plot_convergence=False):
     print(f"\nRunning model...")
-    lda_model = model(corpus, num_topics=NUM_TOPICS, id2word=dictionary)
+    
+    lda_model = model(corpus, num_topics=NUM_TOPICS, id2word=dictionary, chunksize=3000, eval_every=1, alpha='auto', eta='auto', passes=30, iterations=200)
     lda_model.save("data/.models/"+save_file)
+
+    if plot_convergence:
+        p = re.compile("(-*\d+\.\d+) per-word .* (\d+\.\d+) perplexity")
+        matches = [p.findall(l) for l in open('old/gensim.log', encoding='utf-8')]
+        matches = [m for m in matches if len(m) > 0]
+        tuples = [t[0] for t in matches]
+        perplexity = [float(t[1]) for t in tuples]
+        liklihood = [float(t[0]) for t in tuples]
+        iter = list(range(0,len(tuples)*10,10))
+        plt.plot(iter,liklihood,c="blue")
+        plt.ylabel("log liklihood")
+        plt.xlabel("iteration")
+        plt.title("Topic Model Convergence")
+        plt.grid()
+        plt.savefig(f"fig/convergence_liklihood_{NUM_TOPICS}_{save_file}.png")
+        plt.close()
 
     for idx, topic in lda_model.print_topics(-1):
         print('\nTopic: {} \nWords: {}'.format(idx, topic))
