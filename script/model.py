@@ -52,7 +52,7 @@ def preprocess(text, NUM_DOCS, num_preprocessed, stemming):
 
 def create_dict(corpus, NUM_TOPICS=5, filter_n_most_freq=10):
     dictionary = Dictionary(corpus)
-    dictionary.filter_extremes(no_below=round(0.01*dictionary.num_docs))
+    dictionary.filter_extremes(no_below=round(0.1/NUM_TOPICS*dictionary.num_docs))
     dictionary.filter_n_most_frequent(10)
     return dictionary
 
