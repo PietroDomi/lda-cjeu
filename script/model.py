@@ -60,8 +60,13 @@ def create_dict(corpus, NUM_TOPICS=5, filter_n_most_freq=10):
 def run_model(model, corpus, NUM_TOPICS, dictionary, save_file, plot_convergence=False):
     print(f"\nRunning model...")
     
-    lda_model = model(corpus, num_topics=NUM_TOPICS, id2word=dictionary, chunksize=3000, eval_every=1, alpha='auto', eta='auto', passes=30, iterations=200)
-    lda_model.save("data/.models/"+save_file)
+    lda_model = model(corpus, num_topics=NUM_TOPICS, id2word=dictionary, 
+                        chunksize=3000, 
+                        eval_every=10, 
+                        eta='auto', 
+                        passes=30, 
+                        iterations=200)
+    # lda_model.save("data/.models/"+save_file)
 
     if plot_convergence:
         p = re.compile("(-*\d+\.\d+) per-word .* (\d+\.\d+) perplexity")
@@ -94,7 +99,7 @@ def print_topics(model, output=None):
     if not output == None:
         file = open("data/output/"+output+".csv","w", newline='',encoding='utf-8')
         fwriter = csv.writer(file, delimiter=",")
-    for topic in model.show_topics(formatted=False, num_words=25):
+    for topic in model.show_topics(num_topics=model.num_topics, formatted=False, num_words=25):
         row = []
         print(f"\nTopic {topic[0]}")
         for word in topic[1]:

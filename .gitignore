@@ -1,7 +1,7 @@
 __pycache__/
-script/__pycache__/
 data_scraping/data_scraping/__pycache__/
 data_scraping/data_scraping/spiders/__pycache__/
 data/converted/*.txt
 data_scraping/data_html/*.html
 .models/
+script/__pycache__/

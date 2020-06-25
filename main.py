@@ -1,7 +1,7 @@
 import pandas as pd
 from script import model, explore, html_converter
 import os, pickle, argparse, json
-from gensim.models import TfidfModel, LdaModel
+from gensim.models import TfidfModel, LdaModel, LdaMulticore
 
 
 def main():
@@ -84,9 +84,9 @@ def main():
     tfidf = TfidfModel(corpus_bow)
     corpus_tfidf = tfidf[corpus_bow]
 
-    lda_model_bow = model.run_model(LdaModel, corpus_bow, NUM_TOPICS, dictionary, save_file="bow", plot_convergence=True)
+    lda_model_bow = model.run_model(LdaMulticore, corpus_bow, NUM_TOPICS, dictionary, save_file="bow", plot_convergence=False)
 
-    lda_model_tfidf = model.run_model(LdaModel, corpus_tfidf, NUM_TOPICS, dictionary, save_file="tfidf", plot_convergence=False)
+    lda_model_tfidf = model.run_model(LdaMulticore, corpus_tfidf, NUM_TOPICS, dictionary, save_file="tfidf", plot_convergence=False)
 
     for i, lda_model, corpus in zip(("bow","tfidf"), (lda_model_bow, lda_model_tfidf), (corpus_bow, corpus_tfidf)):
         model.print_topics(lda_model, output=f"{'s' if STEMMING else 'l'}_model_{i}_k{NUM_TOPICS}_from{FROM_YEAR}")
