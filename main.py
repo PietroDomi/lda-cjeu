@@ -1,6 +1,6 @@
 import pandas as pd
 from script import model, explore, html_converter
-import os, pickle, argparse, json
+import os, pickle, argparse, json, pyLDAvis
 from gensim.models import TfidfModel, LdaModel, LdaMulticore
 
 
@@ -36,7 +36,7 @@ def main():
     for year in range(2015, FROM_YEAR-1, -1):
         try:
             prepro_docs = pickle.load(open(f"data/.preprocessed/{'s' if STEMMING else 'l'}_{year}_preprocessed.pickle","rb"))
-            processed_docs = pd.concat([processed_docs,prepro_docs], axis=0)
+            processed_docs = pd.concat([processed_docs,prepro_docs], axis=0, ignore_index=True)
         except:
             to_load.append(year)
     print("\nDocuments Loaded")
@@ -89,10 +89,13 @@ def main():
     lda_model_tfidf = model.run_model(LdaMulticore, corpus_tfidf, NUM_TOPICS, dictionary, save_file="tfidf", plot_convergence=False)
 
     for i, lda_model, corpus in zip(("bow","tfidf"), (lda_model_bow, lda_model_tfidf), (corpus_bow, corpus_tfidf)):
-        model.print_topics(lda_model, output=f"{'s' if STEMMING else 'l'}_model_{i}_k{NUM_TOPICS}_from{FROM_YEAR}")
-        model.classify(lda_model,corpus,i,STEMMING)
+        model.print_topics(lda_model,corpus, output=f"{'s' if STEMMING else 'l'}_model_{i}_k{NUM_TOPICS}_from{FROM_YEAR}")
+        model.classify(lda_model,corpus,i,STEMMING,num=77)
+    
+    model.topics_difference(lda_model_bow,lda_model_bow, title="Topics difference in BOW model")
+    model.topics_difference(lda_model_tfidf,lda_model_tfidf, title="Topics difference in TFIDF model")
+    model.topics_difference(lda_model_bow,lda_model_tfidf, title="Topics difference in BOW-TFIDF models")
 
-    # lda_model_bow.show_topics
 
 
 if __name__ == "__main__":

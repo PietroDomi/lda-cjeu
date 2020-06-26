@@ -9,14 +9,16 @@ def get(from_year, show=False):
 
     distr, _ = to_get_list(celexs)
     
-    # tot = 0
-    # print("Year","Cum. Sum\n")
-    # for i in range(2015,2000,-1):
-    #     tot += np.sum(np.array(distr)==i)
-    #     print(i,tot)
+    
 
     # print()
     if show:
+        tot = 0
+        print("Year","Cum. Sum\n")
+        for i in range(2015,1999,-1):
+            tot += np.sum(np.array(distr)==i)
+            print(i,tot)
+
         plt.hist(distr,bins=(np.max(distr)-np.min(distr))+1)
         plt.title("Documents distribution through time")
         plt.xlabel("Year")

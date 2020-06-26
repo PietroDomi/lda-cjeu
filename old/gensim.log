@@ -8393,3 +8393,488 @@
 2020-06-25 09:36:39,664 - INFO - topic #2 (0.200): 0.015*"inademp" + 0.006*"sottovoc" + 0.006*"impart" + 0.006*"asil" + 0.006*"trasposizion" + 0.005*"acque" + 0.005*"inquin" + 0.005*"fondatezz" + 0.005*"omess" + 0.004*"disposit"
 2020-06-25 09:36:39,664 - INFO - topic #3 (0.200): 0.004*"annual" + 0.004*"consolid" + 0.001*"banc" + 0.001*"istit" + 0.001*"flor" + 0.001*"faun" + 0.001*"appalt" + 0.001*"tip" + 0.001*"aggiud" + 0.001*"vit"
 2020-06-25 09:36:39,664 - INFO - topic #4 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"marc" + 0.003*"impugn" + 0.003*"doganal" + 0.003*"appalt" + 0.003*"ben" + 0.003*"impost" + 0.002*"prodott"
+2020-06-25 09:45:18,589 - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2020-06-25 09:45:19,249 - INFO - built Dictionary(14407 unique tokens: ['accert', 'accessor', 'accezion', 'accumun', 'adott']...) from 489 documents (total 1065687 corpus positions)
+2020-06-25 09:45:19,279 - INFO - discarding 11844 tokens: [('accumun', 1), ('adott', 330), ('advies', 1), ('aerometr', 1), ('afferm', 266), ('alcun', 350), ('altre', 265), ('altri', 392), ('altro', 364), ('altrov', 3)]...
+2020-06-25 09:45:19,279 - INFO - keeping 2563 tokens which were in no less than 10 and no more than 244 (=50.0%) documents
+2020-06-25 09:45:19,286 - INFO - resulting dictionary: Dictionary(2563 unique tokens: ['accert', 'accessor', 'accezion', 'affatt', 'aggiunt']...)
+2020-06-25 09:45:19,288 - INFO - discarding 10 tokens: [('precedent', 244), ('serviz', 244), ('period', 244), ('autorizz', 243), ('lim', 243), ('disciplin', 242), ('grad', 242), ('assicur', 241), ('suddett', 240), ('parl', 240)]...
+2020-06-25 09:45:19,290 - INFO - resulting dictionary: Dictionary(2553 unique tokens: ['accert', 'accessor', 'accezion', 'affatt', 'aggiunt']...)
+2020-06-25 09:45:19,672 - INFO - collecting document frequencies
+2020-06-25 09:45:19,672 - INFO - PROGRESS: processing document #0
+2020-06-25 09:45:19,706 - INFO - calculating IDF weights for 489 documents and 2553 features (136195 matrix non-zeros)
+2020-06-25 09:45:19,715 - INFO - using symmetric alpha at 0.2
+2020-06-25 09:45:19,716 - INFO - using serial LDA version on this node
+2020-06-25 09:45:19,718 - INFO - running online LDA training, 5 topics, 30 passes over the supplied corpus of 489 documents, updating every 21000 documents, evaluating every ~489 documents, iterating 200x with a convergence threshold of 0.001000
+2020-06-25 09:45:19,719 - INFO - training LDA model using 7 processes
+2020-06-25 09:45:19,767 - INFO - PROGRESS: pass 0, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:27,571 - INFO - topic #0 (0.200): 0.019*"lavor" + 0.012*"contratt" + 0.009*"merc" + 0.005*"tutel" + 0.005*"accord" + 0.005*"comunitar" + 0.004*"doganal" + 0.004*"regim" + 0.004*"esecu" + 0.004*"commercial"
+2020-06-25 09:45:27,571 - INFO - topic #1 (0.200): 0.007*"rilasc" + 0.007*"guid" + 0.007*"patent" + 0.006*"contratt" + 0.006*"tfu" + 0.006*"controll" + 0.005*"territor" + 0.005*"repubbl" + 0.005*"esecu" + 0.004*"consum"
+2020-06-25 09:45:27,571 - INFO - topic #2 (0.200): 0.018*"lavor" + 0.008*"accord" + 0.006*"contratt" + 0.006*"merc" + 0.006*"temp" + 0.006*"impres" + 0.005*"quadr" + 0.005*"societ" + 0.005*"impugn" + 0.004*"ricorrent"
+2020-06-25 09:45:27,572 - INFO - topic #3 (0.200): 0.007*"impost" + 0.006*"prestazion" + 0.006*"tfu" + 0.006*"regim" + 0.005*"societ" + 0.005*"merc" + 0.005*"territor" + 0.005*"lavor" + 0.005*"repubbl" + 0.005*"cittadin"
+2020-06-25 09:45:27,572 - INFO - topic #4 (0.200): 0.010*"prodott" + 0.010*"lavor" + 0.008*"marc" + 0.007*"impugn" + 0.006*"registr" + 0.006*"controll" + 0.006*"impres" + 0.005*"impost" + 0.005*"doganal" + 0.005*"aiut"
+2020-06-25 09:45:27,572 - INFO - topic diff=1.333836, rho=1.000000
+2020-06-25 09:45:29,294 - INFO - -7.115 per-word bound, 138.7 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:29,294 - INFO - PROGRESS: pass 1, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:30,638 - INFO - topic #0 (0.200): 0.022*"lavor" + 0.016*"contratt" + 0.011*"merc" + 0.007*"doganal" + 0.006*"minor" + 0.006*"comunitar" + 0.005*"tutel" + 0.005*"licenz" + 0.005*"accord" + 0.005*"convenzion"
+2020-06-25 09:45:30,639 - INFO - topic #1 (0.200): 0.008*"rilasc" + 0.007*"guid" + 0.007*"patent" + 0.007*"territor" + 0.006*"tfu" + 0.006*"cittadin" + 0.006*"controll" + 0.006*"soggiorn" + 0.006*"esecu" + 0.006*"repubbl"
+2020-06-25 09:45:30,639 - INFO - topic #2 (0.200): 0.022*"lavor" + 0.008*"accord" + 0.007*"impres" + 0.006*"temp" + 0.006*"merc" + 0.006*"contratt" + 0.005*"quadr" + 0.005*"access" + 0.005*"impugn" + 0.005*"ricorrent"
+2020-06-25 09:45:30,639 - INFO - topic #3 (0.200): 0.008*"impost" + 0.007*"prestazion" + 0.007*"societ" + 0.006*"regim" + 0.006*"tfu" + 0.006*"repubbl" + 0.005*"territor" + 0.005*"aiut" + 0.005*"impugn" + 0.005*"fiscal"
+2020-06-25 09:45:30,639 - INFO - topic #4 (0.200): 0.013*"prodott" + 0.009*"marc" + 0.007*"impost" + 0.007*"impugn" + 0.007*"registr" + 0.007*"ben" + 0.006*"doganal" + 0.006*"controll" + 0.006*"merc" + 0.006*"pag"
+2020-06-25 09:45:30,639 - INFO - topic diff=0.285259, rho=0.679942
+2020-06-25 09:45:32,132 - INFO - -7.051 per-word bound, 132.6 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:32,132 - INFO - PROGRESS: pass 2, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:33,247 - INFO - topic #0 (0.200): 0.023*"lavor" + 0.018*"contratt" + 0.011*"merc" + 0.009*"minor" + 0.008*"doganal" + 0.006*"convenzion" + 0.006*"comunitar" + 0.005*"codic" + 0.005*"licenz" + 0.005*"pian"
+2020-06-25 09:45:33,248 - INFO - topic #1 (0.200): 0.009*"rilasc" + 0.008*"cittadin" + 0.007*"soggiorn" + 0.007*"territor" + 0.007*"guid" + 0.007*"esecu" + 0.006*"patent" + 0.006*"controll" + 0.006*"repubbl" + 0.006*"tfu"
+2020-06-25 09:45:33,248 - INFO - topic #2 (0.200): 0.023*"lavor" + 0.009*"accord" + 0.008*"impres" + 0.007*"temp" + 0.006*"access" + 0.006*"merc" + 0.006*"document" + 0.006*"contratt" + 0.006*"impugn" + 0.005*"quadr"
+2020-06-25 09:45:33,248 - INFO - topic #3 (0.200): 0.008*"impost" + 0.008*"societ" + 0.008*"prestazion" + 0.007*"regim" + 0.007*"tfu" + 0.006*"repubbl" + 0.006*"aiut" + 0.005*"fiscal" + 0.005*"impugn" + 0.005*"territor"
+2020-06-25 09:45:33,248 - INFO - topic #4 (0.200): 0.015*"prodott" + 0.010*"marc" + 0.008*"impost" + 0.008*"registr" + 0.008*"ben" + 0.007*"impugn" + 0.007*"doganal" + 0.006*"pass" + 0.006*"controll" + 0.006*"pag"
+2020-06-25 09:45:33,248 - INFO - topic diff=0.194568, rho=0.562277
+2020-06-25 09:45:34,655 - INFO - -7.022 per-word bound, 129.9 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:34,655 - INFO - PROGRESS: pass 3, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:35,691 - INFO - topic #0 (0.200): 0.022*"lavor" + 0.019*"contratt" + 0.011*"merc" + 0.010*"minor" + 0.010*"doganal" + 0.007*"convenzion" + 0.006*"codic" + 0.006*"comunitar" + 0.005*"compett" + 0.005*"pian"
+2020-06-25 09:45:35,691 - INFO - topic #1 (0.200): 0.010*"cittadin" + 0.009*"rilasc" + 0.009*"soggiorn" + 0.008*"territor" + 0.007*"esecu" + 0.007*"guid" + 0.007*"veicol" + 0.006*"repubbl" + 0.006*"patent" + 0.006*"controll"
+2020-06-25 09:45:35,692 - INFO - topic #2 (0.200): 0.023*"lavor" + 0.009*"impres" + 0.009*"accord" + 0.007*"document" + 0.007*"access" + 0.007*"temp" + 0.006*"impugn" + 0.006*"merc" + 0.006*"contratt" + 0.006*"ricorrent"
+2020-06-25 09:45:35,692 - INFO - topic #3 (0.200): 0.009*"societ" + 0.008*"impost" + 0.008*"prestazion" + 0.008*"regim" + 0.007*"tfu" + 0.007*"aiut" + 0.007*"repubbl" + 0.006*"impugn" + 0.006*"fiscal" + 0.005*"appalt"
+2020-06-25 09:45:35,692 - INFO - topic #4 (0.200): 0.016*"prodott" + 0.010*"marc" + 0.009*"impost" + 0.008*"ben" + 0.008*"registr" + 0.007*"pass" + 0.007*"doganal" + 0.007*"pag" + 0.006*"controll" + 0.006*"merc"
+2020-06-25 09:45:35,692 - INFO - topic diff=0.149357, rho=0.490114
+2020-06-25 09:45:37,082 - INFO - -7.005 per-word bound, 128.5 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:37,082 - INFO - PROGRESS: pass 4, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:38,072 - INFO - topic #0 (0.200): 0.022*"lavor" + 0.020*"contratt" + 0.011*"merc" + 0.011*"doganal" + 0.010*"minor" + 0.007*"convenzion" + 0.006*"codic" + 0.006*"compett" + 0.006*"comunitar" + 0.005*"accord"
+2020-06-25 09:45:38,072 - INFO - topic #1 (0.200): 0.012*"cittadin" + 0.010*"rilasc" + 0.009*"soggiorn" + 0.008*"territor" + 0.008*"esecu" + 0.007*"veicol" + 0.007*"guid" + 0.007*"repubbl" + 0.006*"patent" + 0.006*"controll"
+2020-06-25 09:45:38,072 - INFO - topic #2 (0.200): 0.023*"lavor" + 0.009*"impres" + 0.009*"accord" + 0.007*"document" + 0.007*"access" + 0.007*"impugn" + 0.007*"temp" + 0.006*"merc" + 0.006*"ricorrent" + 0.006*"contratt"
+2020-06-25 09:45:38,073 - INFO - topic #3 (0.200): 0.010*"societ" + 0.009*"impost" + 0.008*"prestazion" + 0.008*"regim" + 0.008*"tfu" + 0.007*"aiut" + 0.007*"repubbl" + 0.006*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:38,073 - INFO - topic #4 (0.200): 0.017*"prodott" + 0.011*"marc" + 0.010*"impost" + 0.009*"ben" + 0.009*"registr" + 0.007*"pass" + 0.007*"pag" + 0.006*"merc" + 0.006*"doganal" + 0.006*"controll"
+2020-06-25 09:45:38,073 - INFO - topic diff=0.121744, rho=0.440098
+2020-06-25 09:45:39,472 - INFO - -6.995 per-word bound, 127.5 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:39,472 - INFO - PROGRESS: pass 5, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:40,633 - INFO - topic #0 (0.200): 0.022*"lavor" + 0.020*"contratt" + 0.011*"doganal" + 0.011*"merc" + 0.011*"minor" + 0.007*"convenzion" + 0.007*"codic" + 0.006*"compett" + 0.006*"giurisdizional" + 0.006*"comunitar"
+2020-06-25 09:45:40,633 - INFO - topic #1 (0.200): 0.013*"cittadin" + 0.010*"rilasc" + 0.010*"soggiorn" + 0.009*"territor" + 0.008*"esecu" + 0.007*"veicol" + 0.007*"guid" + 0.006*"repubbl" + 0.006*"controll" + 0.006*"patent"
+2020-06-25 09:45:40,633 - INFO - topic #2 (0.200): 0.022*"lavor" + 0.010*"impres" + 0.008*"accord" + 0.008*"document" + 0.007*"impugn" + 0.007*"access" + 0.007*"temp" + 0.006*"merc" + 0.006*"ricorrent" + 0.006*"contratt"
+2020-06-25 09:45:40,633 - INFO - topic #3 (0.200): 0.010*"societ" + 0.009*"impost" + 0.008*"prestazion" + 0.008*"aiut" + 0.008*"regim" + 0.008*"tfu" + 0.007*"repubbl" + 0.006*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:40,634 - INFO - topic #4 (0.200): 0.017*"prodott" + 0.011*"marc" + 0.010*"impost" + 0.009*"ben" + 0.009*"registr" + 0.007*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"controll" + 0.006*"doganal"
+2020-06-25 09:45:40,634 - INFO - topic diff=0.102140, rho=0.402813
+2020-06-25 09:45:42,291 - INFO - -6.988 per-word bound, 126.9 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:42,291 - INFO - PROGRESS: pass 6, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:43,334 - INFO - topic #0 (0.200): 0.022*"lavor" + 0.021*"contratt" + 0.012*"doganal" + 0.011*"minor" + 0.011*"merc" + 0.007*"convenzion" + 0.007*"codic" + 0.007*"compett" + 0.006*"giurisdizional" + 0.005*"accord"
+2020-06-25 09:45:43,334 - INFO - topic #1 (0.200): 0.014*"cittadin" + 0.010*"soggiorn" + 0.010*"rilasc" + 0.009*"territor" + 0.008*"esecu" + 0.008*"veicol" + 0.007*"guid" + 0.007*"controll" + 0.006*"patent" + 0.006*"repubbl"
+2020-06-25 09:45:43,334 - INFO - topic #2 (0.200): 0.022*"lavor" + 0.010*"impres" + 0.008*"accord" + 0.008*"document" + 0.007*"impugn" + 0.007*"access" + 0.006*"temp" + 0.006*"merc" + 0.006*"ricorrent" + 0.006*"contratt"
+2020-06-25 09:45:43,334 - INFO - topic #3 (0.200): 0.010*"societ" + 0.009*"aiut" + 0.009*"impost" + 0.008*"regim" + 0.008*"prestazion" + 0.008*"tfu" + 0.008*"repubbl" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:43,334 - INFO - topic #4 (0.200): 0.018*"prodott" + 0.011*"marc" + 0.010*"impost" + 0.009*"ben" + 0.009*"registr" + 0.008*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"controll" + 0.006*"doganal"
+2020-06-25 09:45:43,334 - INFO - topic diff=0.088279, rho=0.373639
+2020-06-25 09:45:44,656 - INFO - -6.983 per-word bound, 126.5 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:44,656 - INFO - PROGRESS: pass 7, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:45,529 - INFO - topic #0 (0.200): 0.022*"lavor" + 0.021*"contratt" + 0.013*"doganal" + 0.011*"minor" + 0.011*"merc" + 0.008*"convenzion" + 0.007*"codic" + 0.007*"compett" + 0.006*"giurisdizional" + 0.006*"accord"
+2020-06-25 09:45:45,529 - INFO - topic #1 (0.200): 0.015*"cittadin" + 0.010*"soggiorn" + 0.010*"rilasc" + 0.009*"territor" + 0.008*"esecu" + 0.008*"veicol" + 0.007*"guid" + 0.007*"controll" + 0.007*"paes" + 0.007*"patent"
+2020-06-25 09:45:45,529 - INFO - topic #2 (0.200): 0.022*"lavor" + 0.010*"impres" + 0.008*"accord" + 0.008*"document" + 0.008*"impugn" + 0.007*"access" + 0.006*"temp" + 0.006*"ricorrent" + 0.006*"merc" + 0.006*"tutel"
+2020-06-25 09:45:45,530 - INFO - topic #3 (0.200): 0.010*"societ" + 0.010*"aiut" + 0.009*"impost" + 0.009*"regim" + 0.008*"prestazion" + 0.008*"tfu" + 0.008*"repubbl" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:45,530 - INFO - topic #4 (0.200): 0.018*"prodott" + 0.011*"marc" + 0.010*"impost" + 0.010*"ben" + 0.009*"registr" + 0.008*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"controll" + 0.005*"doganal"
+2020-06-25 09:45:45,530 - INFO - topic diff=0.077655, rho=0.350006
+2020-06-25 09:45:46,847 - INFO - -6.980 per-word bound, 126.2 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:46,847 - INFO - PROGRESS: pass 8, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:47,730 - INFO - topic #0 (0.200): 0.022*"lavor" + 0.021*"contratt" + 0.013*"doganal" + 0.011*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.007*"codic" + 0.007*"compett" + 0.007*"giurisdizional" + 0.006*"dann"
+2020-06-25 09:45:47,730 - INFO - topic #1 (0.200): 0.015*"cittadin" + 0.011*"soggiorn" + 0.011*"rilasc" + 0.009*"territor" + 0.008*"esecu" + 0.008*"veicol" + 0.007*"guid" + 0.007*"paes" + 0.007*"controll" + 0.007*"patent"
+2020-06-25 09:45:47,730 - INFO - topic #2 (0.200): 0.022*"lavor" + 0.010*"impres" + 0.008*"accord" + 0.008*"document" + 0.008*"impugn" + 0.007*"access" + 0.007*"ricorrent" + 0.006*"merc" + 0.006*"temp" + 0.006*"tutel"
+2020-06-25 09:45:47,730 - INFO - topic #3 (0.200): 0.011*"societ" + 0.010*"aiut" + 0.009*"regim" + 0.009*"impost" + 0.008*"prestazion" + 0.008*"tfu" + 0.008*"repubbl" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:47,731 - INFO - topic #4 (0.200): 0.019*"prodott" + 0.011*"marc" + 0.011*"impost" + 0.010*"ben" + 0.010*"registr" + 0.008*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"controll" + 0.006*"sest"
+2020-06-25 09:45:47,731 - INFO - topic diff=0.069135, rho=0.330355
+2020-06-25 09:45:49,206 - INFO - -6.977 per-word bound, 126.0 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:49,207 - INFO - PROGRESS: pass 9, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:50,112 - INFO - topic #0 (0.200): 0.022*"lavor" + 0.022*"contratt" + 0.013*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.007*"codic" + 0.007*"compett" + 0.007*"giurisdizional" + 0.006*"dann"
+2020-06-25 09:45:50,112 - INFO - topic #1 (0.200): 0.016*"cittadin" + 0.011*"soggiorn" + 0.011*"rilasc" + 0.010*"territor" + 0.008*"veicol" + 0.008*"esecu" + 0.007*"guid" + 0.007*"paes" + 0.007*"controll" + 0.007*"penal"
+2020-06-25 09:45:50,113 - INFO - topic #2 (0.200): 0.021*"lavor" + 0.010*"impres" + 0.008*"accord" + 0.008*"document" + 0.008*"impugn" + 0.007*"access" + 0.007*"ricorrent" + 0.006*"merc" + 0.006*"temp" + 0.006*"tutel"
+2020-06-25 09:45:50,113 - INFO - topic #3 (0.200): 0.011*"aiut" + 0.011*"societ" + 0.009*"regim" + 0.009*"impost" + 0.008*"prestazion" + 0.008*"tfu" + 0.008*"repubbl" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:50,113 - INFO - topic #4 (0.200): 0.019*"prodott" + 0.012*"marc" + 0.011*"impost" + 0.010*"ben" + 0.010*"registr" + 0.008*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"sest" + 0.005*"controll"
+2020-06-25 09:45:50,113 - INFO - topic diff=0.062171, rho=0.313682
+2020-06-25 09:45:51,459 - INFO - -6.975 per-word bound, 125.8 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:51,459 - INFO - PROGRESS: pass 10, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:52,287 - INFO - topic #0 (0.200): 0.022*"lavor" + 0.022*"contratt" + 0.014*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.007*"compett" + 0.007*"giurisdizional" + 0.006*"dann"
+2020-06-25 09:45:52,287 - INFO - topic #1 (0.200): 0.016*"cittadin" + 0.011*"soggiorn" + 0.011*"rilasc" + 0.010*"territor" + 0.008*"veicol" + 0.008*"esecu" + 0.007*"guid" + 0.007*"paes" + 0.007*"controll" + 0.007*"penal"
+2020-06-25 09:45:52,287 - INFO - topic #2 (0.200): 0.021*"lavor" + 0.010*"impres" + 0.008*"impugn" + 0.008*"accord" + 0.008*"document" + 0.007*"access" + 0.007*"ricorrent" + 0.007*"merc" + 0.006*"temp" + 0.006*"tutel"
+2020-06-25 09:45:52,287 - INFO - topic #3 (0.200): 0.011*"aiut" + 0.011*"societ" + 0.009*"regim" + 0.009*"impost" + 0.008*"tfu" + 0.008*"repubbl" + 0.008*"prestazion" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:52,288 - INFO - topic #4 (0.200): 0.020*"prodott" + 0.012*"marc" + 0.011*"impost" + 0.010*"ben" + 0.010*"registr" + 0.008*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"sest" + 0.005*"vend"
+2020-06-25 09:45:52,288 - INFO - topic diff=0.056235, rho=0.299302
+2020-06-25 09:45:53,653 - INFO - -6.973 per-word bound, 125.6 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:53,653 - INFO - PROGRESS: pass 11, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:54,592 - INFO - topic #0 (0.200): 0.023*"lavor" + 0.022*"contratt" + 0.014*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.007*"compett" + 0.007*"giurisdizional" + 0.006*"dann"
+2020-06-25 09:45:54,593 - INFO - topic #1 (0.200): 0.017*"cittadin" + 0.011*"soggiorn" + 0.011*"rilasc" + 0.010*"territor" + 0.009*"veicol" + 0.008*"esecu" + 0.007*"guid" + 0.007*"paes" + 0.007*"penal" + 0.007*"controll"
+2020-06-25 09:45:54,593 - INFO - topic #2 (0.200): 0.021*"lavor" + 0.010*"impres" + 0.008*"impugn" + 0.008*"document" + 0.008*"accord" + 0.007*"access" + 0.007*"ricorrent" + 0.007*"merc" + 0.006*"temp" + 0.006*"tutel"
+2020-06-25 09:45:54,593 - INFO - topic #3 (0.200): 0.012*"aiut" + 0.011*"societ" + 0.009*"regim" + 0.009*"impost" + 0.009*"repubbl" + 0.008*"tfu" + 0.008*"prestazion" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:54,593 - INFO - topic #4 (0.200): 0.020*"prodott" + 0.012*"marc" + 0.011*"impost" + 0.010*"ben" + 0.010*"registr" + 0.008*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"sest" + 0.005*"vend"
+2020-06-25 09:45:54,593 - INFO - topic diff=0.051342, rho=0.286734
+2020-06-25 09:45:55,931 - INFO - -6.971 per-word bound, 125.5 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:55,932 - INFO - PROGRESS: pass 12, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:56,785 - INFO - topic #0 (0.200): 0.023*"lavor" + 0.022*"contratt" + 0.014*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.007*"compett" + 0.007*"giurisdizional" + 0.006*"dann"
+2020-06-25 09:45:56,786 - INFO - topic #1 (0.200): 0.017*"cittadin" + 0.011*"soggiorn" + 0.011*"rilasc" + 0.010*"territor" + 0.009*"veicol" + 0.008*"esecu" + 0.007*"guid" + 0.007*"paes" + 0.007*"penal" + 0.007*"controll"
+2020-06-25 09:45:56,786 - INFO - topic #2 (0.200): 0.020*"lavor" + 0.010*"impres" + 0.009*"impugn" + 0.008*"document" + 0.008*"accord" + 0.007*"access" + 0.007*"ricorrent" + 0.007*"merc" + 0.006*"temp" + 0.006*"tutel"
+2020-06-25 09:45:56,786 - INFO - topic #3 (0.200): 0.012*"aiut" + 0.011*"societ" + 0.009*"regim" + 0.009*"repubbl" + 0.009*"impost" + 0.008*"tfu" + 0.008*"prestazion" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:56,787 - INFO - topic #4 (0.200): 0.020*"prodott" + 0.012*"marc" + 0.011*"impost" + 0.010*"ben" + 0.010*"registr" + 0.008*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"sest" + 0.006*"vend"
+2020-06-25 09:45:56,787 - INFO - topic diff=0.047231, rho=0.275628
+2020-06-25 09:45:58,089 - INFO - -6.970 per-word bound, 125.3 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:45:58,089 - INFO - PROGRESS: pass 13, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:45:58,919 - INFO - topic #0 (0.200): 0.023*"lavor" + 0.022*"contratt" + 0.014*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.007*"compett" + 0.007*"giurisdizional" + 0.006*"dann"
+2020-06-25 09:45:58,919 - INFO - topic #1 (0.200): 0.017*"cittadin" + 0.011*"soggiorn" + 0.011*"rilasc" + 0.010*"territor" + 0.009*"veicol" + 0.008*"esecu" + 0.007*"paes" + 0.007*"guid" + 0.007*"penal" + 0.007*"controll"
+2020-06-25 09:45:58,920 - INFO - topic #2 (0.200): 0.020*"lavor" + 0.010*"impres" + 0.009*"impugn" + 0.008*"document" + 0.008*"accord" + 0.007*"access" + 0.007*"ricorrent" + 0.007*"merc" + 0.006*"tutel" + 0.006*"temp"
+2020-06-25 09:45:58,920 - INFO - topic #3 (0.200): 0.012*"aiut" + 0.011*"societ" + 0.009*"regim" + 0.009*"repubbl" + 0.009*"impost" + 0.008*"tfu" + 0.008*"prestazion" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:45:58,920 - INFO - topic #4 (0.200): 0.020*"prodott" + 0.012*"marc" + 0.011*"impost" + 0.011*"ben" + 0.010*"registr" + 0.008*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"sest" + 0.006*"vend"
+2020-06-25 09:45:58,920 - INFO - topic diff=0.043734, rho=0.265719
+2020-06-25 09:46:00,208 - INFO - -6.968 per-word bound, 125.2 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:00,208 - INFO - PROGRESS: pass 14, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:01,067 - INFO - topic #0 (0.200): 0.023*"lavor" + 0.022*"contratt" + 0.014*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.007*"compett" + 0.007*"giurisdizional" + 0.006*"accord"
+2020-06-25 09:46:01,067 - INFO - topic #1 (0.200): 0.018*"cittadin" + 0.011*"soggiorn" + 0.011*"rilasc" + 0.010*"territor" + 0.009*"veicol" + 0.008*"esecu" + 0.007*"paes" + 0.007*"guid" + 0.007*"penal" + 0.007*"controll"
+2020-06-25 09:46:01,067 - INFO - topic #2 (0.200): 0.020*"lavor" + 0.010*"impres" + 0.009*"impugn" + 0.008*"document" + 0.008*"accord" + 0.007*"access" + 0.007*"ricorrent" + 0.007*"merc" + 0.007*"tutel" + 0.006*"temp"
+2020-06-25 09:46:01,068 - INFO - topic #3 (0.200): 0.013*"aiut" + 0.011*"societ" + 0.009*"regim" + 0.009*"repubbl" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:46:01,068 - INFO - topic #4 (0.200): 0.021*"prodott" + 0.012*"marc" + 0.011*"impost" + 0.011*"ben" + 0.011*"registr" + 0.008*"pass" + 0.007*"pag" + 0.007*"merc" + 0.006*"sest" + 0.006*"vend"
+2020-06-25 09:46:01,068 - INFO - topic diff=0.040641, rho=0.256807
+2020-06-25 09:46:02,430 - INFO - -6.967 per-word bound, 125.1 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:02,430 - INFO - PROGRESS: pass 15, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:03,250 - INFO - topic #0 (0.200): 0.024*"lavor" + 0.022*"contratt" + 0.014*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.007*"compett" + 0.007*"giurisdizional" + 0.006*"accord"
+2020-06-25 09:46:03,251 - INFO - topic #1 (0.200): 0.018*"cittadin" + 0.012*"soggiorn" + 0.012*"rilasc" + 0.010*"territor" + 0.009*"veicol" + 0.008*"esecu" + 0.008*"paes" + 0.007*"guid" + 0.007*"penal" + 0.007*"controll"
+2020-06-25 09:46:03,251 - INFO - topic #2 (0.200): 0.020*"lavor" + 0.010*"impres" + 0.009*"impugn" + 0.008*"document" + 0.008*"accord" + 0.007*"ricorrent" + 0.007*"access" + 0.007*"merc" + 0.007*"tutel" + 0.006*"temp"
+2020-06-25 09:46:03,251 - INFO - topic #3 (0.200): 0.013*"aiut" + 0.011*"societ" + 0.009*"regim" + 0.009*"repubbl" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:46:03,251 - INFO - topic #4 (0.200): 0.021*"prodott" + 0.012*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.007*"pag" + 0.006*"sest" + 0.006*"vend"
+2020-06-25 09:46:03,251 - INFO - topic diff=0.037966, rho=0.248736
+2020-06-25 09:46:04,524 - INFO - -6.966 per-word bound, 125.0 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:04,524 - INFO - PROGRESS: pass 16, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:05,389 - INFO - topic #0 (0.200): 0.024*"lavor" + 0.023*"contratt" + 0.014*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"compett" + 0.008*"giurisdizional" + 0.007*"accord"
+2020-06-25 09:46:05,389 - INFO - topic #1 (0.200): 0.018*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.010*"territor" + 0.009*"veicol" + 0.008*"esecu" + 0.008*"paes" + 0.007*"guid" + 0.007*"penal" + 0.007*"controll"
+2020-06-25 09:46:05,390 - INFO - topic #2 (0.200): 0.019*"lavor" + 0.010*"impres" + 0.010*"impugn" + 0.008*"document" + 0.008*"accord" + 0.007*"ricorrent" + 0.007*"access" + 0.007*"merc" + 0.007*"tutel" + 0.006*"temp"
+2020-06-25 09:46:05,390 - INFO - topic #3 (0.200): 0.013*"aiut" + 0.011*"societ" + 0.009*"regim" + 0.009*"repubbl" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:46:05,390 - INFO - topic #4 (0.200): 0.021*"prodott" + 0.012*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.006*"pag" + 0.006*"sest" + 0.006*"vend"
+2020-06-25 09:46:05,390 - INFO - topic diff=0.035590, rho=0.241381
+2020-06-25 09:46:06,674 - INFO - -6.965 per-word bound, 124.9 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:06,674 - INFO - PROGRESS: pass 17, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:07,458 - INFO - topic #0 (0.200): 0.025*"lavor" + 0.023*"contratt" + 0.014*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"giurisdizional" + 0.008*"compett" + 0.007*"accord"
+2020-06-25 09:46:07,458 - INFO - topic #1 (0.200): 0.018*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"esecu" + 0.008*"paes" + 0.007*"guid" + 0.007*"penal" + 0.007*"controll"
+2020-06-25 09:46:07,458 - INFO - topic #2 (0.200): 0.019*"lavor" + 0.010*"impres" + 0.010*"impugn" + 0.008*"document" + 0.008*"accord" + 0.007*"ricorrent" + 0.007*"access" + 0.007*"merc" + 0.007*"tutel" + 0.006*"temp"
+2020-06-25 09:46:07,458 - INFO - topic #3 (0.200): 0.013*"aiut" + 0.011*"societ" + 0.009*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.007*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:46:07,459 - INFO - topic #4 (0.200): 0.021*"prodott" + 0.012*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.006*"sest" + 0.006*"pag" + 0.006*"vend"
+2020-06-25 09:46:07,459 - INFO - topic diff=0.033475, rho=0.234642
+2020-06-25 09:46:08,686 - INFO - -6.964 per-word bound, 124.8 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:08,687 - INFO - PROGRESS: pass 18, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:09,478 - INFO - topic #0 (0.200): 0.025*"lavor" + 0.023*"contratt" + 0.015*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"giurisdizional" + 0.008*"compett" + 0.007*"accord"
+2020-06-25 09:46:09,478 - INFO - topic #1 (0.200): 0.018*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"esecu" + 0.008*"paes" + 0.007*"guid" + 0.007*"penal" + 0.007*"controll"
+2020-06-25 09:46:09,478 - INFO - topic #2 (0.200): 0.018*"lavor" + 0.010*"impres" + 0.010*"impugn" + 0.008*"document" + 0.008*"accord" + 0.007*"ricorrent" + 0.007*"access" + 0.007*"merc" + 0.007*"tutel" + 0.006*"temp"
+2020-06-25 09:46:09,479 - INFO - topic #3 (0.200): 0.013*"aiut" + 0.011*"societ" + 0.009*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"impugn" + 0.006*"fiscal" + 0.006*"appalt"
+2020-06-25 09:46:09,479 - INFO - topic #4 (0.200): 0.021*"prodott" + 0.012*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.006*"sest" + 0.006*"pag" + 0.006*"vend"
+2020-06-25 09:46:09,479 - INFO - topic diff=0.031557, rho=0.228438
+2020-06-25 09:46:10,750 - INFO - -6.963 per-word bound, 124.7 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:10,751 - INFO - PROGRESS: pass 19, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:11,536 - INFO - topic #0 (0.200): 0.026*"lavor" + 0.023*"contratt" + 0.015*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"giurisdizional" + 0.008*"compett" + 0.007*"accord"
+2020-06-25 09:46:11,536 - INFO - topic #1 (0.200): 0.019*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"esecu" + 0.008*"paes" + 0.008*"guid" + 0.007*"penal" + 0.007*"controll"
+2020-06-25 09:46:11,536 - INFO - topic #2 (0.200): 0.018*"lavor" + 0.010*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"accord" + 0.008*"ricorrent" + 0.007*"access" + 0.007*"tutel" + 0.007*"merc" + 0.006*"temp"
+2020-06-25 09:46:11,536 - INFO - topic #3 (0.200): 0.013*"aiut" + 0.011*"societ" + 0.009*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"impugn" + 0.006*"appalt"
+2020-06-25 09:46:11,537 - INFO - topic #4 (0.200): 0.021*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.006*"sest" + 0.006*"vend" + 0.006*"pag"
+2020-06-25 09:46:11,537 - INFO - topic diff=0.029873, rho=0.222701
+2020-06-25 09:46:12,775 - INFO - -6.962 per-word bound, 124.7 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:12,775 - INFO - PROGRESS: pass 20, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:13,582 - INFO - topic #0 (0.200): 0.026*"lavor" + 0.023*"contratt" + 0.015*"doganal" + 0.010*"minor" + 0.010*"merc" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"giurisdizional" + 0.008*"compett" + 0.007*"accord"
+2020-06-25 09:46:13,582 - INFO - topic #1 (0.200): 0.019*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"esecu" + 0.008*"guid" + 0.007*"penal" + 0.007*"patent"
+2020-06-25 09:46:13,582 - INFO - topic #2 (0.200): 0.018*"lavor" + 0.011*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"ricorrent" + 0.008*"accord" + 0.007*"access" + 0.007*"tutel" + 0.007*"merc" + 0.006*"temp"
+2020-06-25 09:46:13,583 - INFO - topic #3 (0.200): 0.013*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"impugn" + 0.006*"appalt"
+2020-06-25 09:46:13,583 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.006*"sest" + 0.006*"vend" + 0.006*"alleg"
+2020-06-25 09:46:13,583 - INFO - topic diff=0.028373, rho=0.217376
+2020-06-25 09:46:14,898 - INFO - -6.961 per-word bound, 124.6 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:14,898 - INFO - PROGRESS: pass 21, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:15,725 - INFO - topic #0 (0.200): 0.027*"lavor" + 0.023*"contratt" + 0.015*"doganal" + 0.010*"merc" + 0.010*"minor" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"giurisdizional" + 0.008*"compett" + 0.007*"accord"
+2020-06-25 09:46:15,726 - INFO - topic #1 (0.200): 0.019*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"esecu" + 0.008*"guid" + 0.007*"penal" + 0.007*"patent"
+2020-06-25 09:46:15,726 - INFO - topic #2 (0.200): 0.017*"lavor" + 0.011*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"ricorrent" + 0.007*"accord" + 0.007*"access" + 0.007*"tutel" + 0.007*"merc" + 0.006*"controll"
+2020-06-25 09:46:15,726 - INFO - topic #3 (0.200): 0.013*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.006*"impugn"
+2020-06-25 09:46:15,726 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.006*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:15,726 - INFO - topic diff=0.026950, rho=0.212415
+2020-06-25 09:46:17,166 - INFO - -6.960 per-word bound, 124.5 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:17,167 - INFO - PROGRESS: pass 22, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:18,111 - INFO - topic #0 (0.200): 0.027*"lavor" + 0.024*"contratt" + 0.015*"doganal" + 0.010*"merc" + 0.010*"minor" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"compett" + 0.008*"giurisdizional" + 0.007*"accord"
+2020-06-25 09:46:18,111 - INFO - topic #1 (0.200): 0.019*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"guid" + 0.008*"esecu" + 0.007*"penal" + 0.007*"patent"
+2020-06-25 09:46:18,111 - INFO - topic #2 (0.200): 0.017*"lavor" + 0.011*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"ricorrent" + 0.007*"accord" + 0.007*"access" + 0.007*"tutel" + 0.007*"merc" + 0.006*"controll"
+2020-06-25 09:46:18,112 - INFO - topic #3 (0.200): 0.014*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.006*"impugn"
+2020-06-25 09:46:18,112 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.006*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:18,112 - INFO - topic diff=0.025582, rho=0.207779
+2020-06-25 09:46:19,473 - INFO - -6.959 per-word bound, 124.4 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:19,474 - INFO - PROGRESS: pass 23, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:20,300 - INFO - topic #0 (0.200): 0.028*"lavor" + 0.024*"contratt" + 0.015*"doganal" + 0.010*"merc" + 0.010*"minor" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"compett" + 0.008*"giurisdizional" + 0.007*"accord"
+2020-06-25 09:46:20,300 - INFO - topic #1 (0.200): 0.019*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"guid" + 0.007*"penal" + 0.007*"esecu" + 0.007*"patent"
+2020-06-25 09:46:20,301 - INFO - topic #2 (0.200): 0.017*"lavor" + 0.011*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"ricorrent" + 0.007*"accord" + 0.007*"access" + 0.007*"tutel" + 0.007*"merc" + 0.006*"controll"
+2020-06-25 09:46:20,301 - INFO - topic #3 (0.200): 0.014*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.006*"impugn"
+2020-06-25 09:46:20,301 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.007*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:20,301 - INFO - topic diff=0.024334, rho=0.203434
+2020-06-25 09:46:21,573 - INFO - -6.959 per-word bound, 124.4 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:21,573 - INFO - PROGRESS: pass 24, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:22,336 - INFO - topic #0 (0.200): 0.028*"lavor" + 0.024*"contratt" + 0.015*"doganal" + 0.010*"merc" + 0.010*"minor" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"compett" + 0.008*"giurisdizional" + 0.007*"accord"
+2020-06-25 09:46:22,336 - INFO - topic #1 (0.200): 0.019*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"guid" + 0.008*"penal" + 0.007*"esecu" + 0.007*"patent"
+2020-06-25 09:46:22,337 - INFO - topic #2 (0.200): 0.016*"lavor" + 0.012*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"ricorrent" + 0.007*"accord" + 0.007*"access" + 0.007*"tutel" + 0.007*"merc" + 0.006*"controll"
+2020-06-25 09:46:22,337 - INFO - topic #3 (0.200): 0.014*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.006*"impugn"
+2020-06-25 09:46:22,337 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.011*"ben" + 0.011*"registr" + 0.009*"pass" + 0.007*"merc" + 0.007*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:22,337 - INFO - topic diff=0.023204, rho=0.199351
+2020-06-25 09:46:23,580 - INFO - -6.958 per-word bound, 124.3 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:23,580 - INFO - PROGRESS: pass 25, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:24,461 - INFO - topic #0 (0.200): 0.029*"lavor" + 0.024*"contratt" + 0.015*"doganal" + 0.010*"merc" + 0.010*"minor" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"compett" + 0.008*"giurisdizional" + 0.008*"accord"
+2020-06-25 09:46:24,462 - INFO - topic #1 (0.200): 0.019*"cittadin" + 0.012*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"guid" + 0.008*"penal" + 0.007*"esecu" + 0.007*"patent"
+2020-06-25 09:46:24,462 - INFO - topic #2 (0.200): 0.016*"lavor" + 0.012*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"ricorrent" + 0.007*"accord" + 0.007*"access" + 0.007*"tutel" + 0.007*"merc" + 0.006*"controll"
+2020-06-25 09:46:24,462 - INFO - topic #3 (0.200): 0.014*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.005*"impugn"
+2020-06-25 09:46:24,462 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.011*"registr" + 0.011*"ben" + 0.009*"pass" + 0.007*"merc" + 0.007*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:24,463 - INFO - topic diff=0.022105, rho=0.195504
+2020-06-25 09:46:25,756 - INFO - -6.957 per-word bound, 124.3 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:25,756 - INFO - PROGRESS: pass 26, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:26,570 - INFO - topic #0 (0.200): 0.029*"lavor" + 0.024*"contratt" + 0.015*"doganal" + 0.010*"merc" + 0.010*"minor" + 0.008*"convenzion" + 0.008*"codic" + 0.008*"compett" + 0.008*"giurisdizional" + 0.008*"accord"
+2020-06-25 09:46:26,571 - INFO - topic #1 (0.200): 0.019*"cittadin" + 0.013*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"guid" + 0.008*"penal" + 0.007*"esecu" + 0.007*"patent"
+2020-06-25 09:46:26,571 - INFO - topic #2 (0.200): 0.015*"lavor" + 0.012*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"ricorrent" + 0.007*"access" + 0.007*"accord" + 0.007*"tutel" + 0.007*"merc" + 0.007*"controll"
+2020-06-25 09:46:26,571 - INFO - topic #3 (0.200): 0.014*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.005*"impugn"
+2020-06-25 09:46:26,571 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.011*"registr" + 0.011*"ben" + 0.009*"pass" + 0.007*"merc" + 0.007*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:26,571 - INFO - topic diff=0.021109, rho=0.191872
+2020-06-25 09:46:27,797 - INFO - -6.957 per-word bound, 124.2 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:27,797 - INFO - PROGRESS: pass 27, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:28,668 - INFO - topic #0 (0.200): 0.030*"lavor" + 0.024*"contratt" + 0.014*"doganal" + 0.010*"merc" + 0.009*"minor" + 0.008*"convenzion" + 0.008*"accord" + 0.008*"compett" + 0.008*"codic" + 0.008*"giurisdizional"
+2020-06-25 09:46:28,668 - INFO - topic #1 (0.200): 0.020*"cittadin" + 0.013*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"guid" + 0.008*"penal" + 0.007*"patent" + 0.007*"esecu"
+2020-06-25 09:46:28,668 - INFO - topic #2 (0.200): 0.015*"lavor" + 0.012*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"ricorrent" + 0.007*"access" + 0.007*"tutel" + 0.007*"accord" + 0.007*"merc" + 0.007*"controll"
+2020-06-25 09:46:28,668 - INFO - topic #3 (0.200): 0.014*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.005*"impugn"
+2020-06-25 09:46:28,669 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.012*"registr" + 0.012*"ben" + 0.009*"pass" + 0.007*"merc" + 0.007*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:28,669 - INFO - topic diff=0.020230, rho=0.188435
+2020-06-25 09:46:29,880 - INFO - -6.956 per-word bound, 124.2 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:29,880 - INFO - PROGRESS: pass 28, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:30,677 - INFO - topic #0 (0.200): 0.031*"lavor" + 0.024*"contratt" + 0.014*"doganal" + 0.010*"merc" + 0.009*"minor" + 0.008*"convenzion" + 0.008*"accord" + 0.008*"compett" + 0.008*"giurisdizional" + 0.008*"codic"
+2020-06-25 09:46:30,677 - INFO - topic #1 (0.200): 0.020*"cittadin" + 0.013*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"guid" + 0.008*"penal" + 0.007*"patent" + 0.007*"esecu"
+2020-06-25 09:46:30,678 - INFO - topic #2 (0.200): 0.014*"lavor" + 0.013*"impugn" + 0.010*"impres" + 0.008*"document" + 0.008*"ricorrent" + 0.007*"access" + 0.007*"tutel" + 0.007*"accord" + 0.007*"merc" + 0.007*"controll"
+2020-06-25 09:46:30,678 - INFO - topic #3 (0.200): 0.014*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.005*"impugn"
+2020-06-25 09:46:30,678 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.012*"registr" + 0.012*"ben" + 0.009*"pass" + 0.007*"merc" + 0.007*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:30,678 - INFO - topic diff=0.019444, rho=0.185176
+2020-06-25 09:46:31,867 - INFO - -6.956 per-word bound, 124.1 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:31,867 - INFO - PROGRESS: pass 29, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:32,620 - INFO - topic #0 (0.200): 0.031*"lavor" + 0.024*"contratt" + 0.014*"doganal" + 0.009*"merc" + 0.009*"minor" + 0.008*"accord" + 0.008*"convenzion" + 0.008*"compett" + 0.008*"giurisdizional" + 0.008*"codic"
+2020-06-25 09:46:32,621 - INFO - topic #1 (0.200): 0.020*"cittadin" + 0.013*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"guid" + 0.008*"penal" + 0.007*"patent" + 0.007*"esecu"
+2020-06-25 09:46:32,621 - INFO - topic #2 (0.200): 0.014*"lavor" + 0.013*"impugn" + 0.010*"impres" + 0.009*"document" + 0.008*"ricorrent" + 0.007*"access" + 0.007*"tutel" + 0.007*"merc" + 0.007*"accord" + 0.007*"controll"
+2020-06-25 09:46:32,621 - INFO - topic #3 (0.200): 0.014*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.005*"impugn"
+2020-06-25 09:46:32,621 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.012*"registr" + 0.012*"ben" + 0.009*"pass" + 0.007*"merc" + 0.007*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:32,621 - INFO - topic diff=0.018695, rho=0.182080
+2020-06-25 09:46:33,802 - INFO - -6.955 per-word bound, 124.1 perplexity estimate based on a held-out corpus of 489 documents with 431642 words
+2020-06-25 09:46:33,936 - INFO - topic #0 (0.200): 0.031*"lavor" + 0.024*"contratt" + 0.014*"doganal" + 0.009*"merc" + 0.009*"minor" + 0.008*"accord" + 0.008*"convenzion" + 0.008*"compett" + 0.008*"giurisdizional" + 0.008*"codic"
+2020-06-25 09:46:33,936 - INFO - topic #1 (0.200): 0.020*"cittadin" + 0.013*"rilasc" + 0.012*"soggiorn" + 0.011*"territor" + 0.009*"veicol" + 0.008*"paes" + 0.008*"guid" + 0.008*"penal" + 0.007*"patent" + 0.007*"esecu"
+2020-06-25 09:46:33,936 - INFO - topic #2 (0.200): 0.014*"lavor" + 0.013*"impugn" + 0.010*"impres" + 0.009*"document" + 0.008*"ricorrent" + 0.007*"access" + 0.007*"tutel" + 0.007*"merc" + 0.007*"accord" + 0.007*"controll"
+2020-06-25 09:46:33,936 - INFO - topic #3 (0.200): 0.014*"aiut" + 0.011*"societ" + 0.010*"repubbl" + 0.009*"regim" + 0.009*"impost" + 0.009*"tfu" + 0.008*"prestazion" + 0.006*"fiscal" + 0.006*"appalt" + 0.005*"impugn"
+2020-06-25 09:46:33,937 - INFO - topic #4 (0.200): 0.022*"prodott" + 0.013*"marc" + 0.012*"impost" + 0.012*"registr" + 0.012*"ben" + 0.009*"pass" + 0.007*"merc" + 0.007*"sest" + 0.006*"vend" + 0.006*"prestazion"
+2020-06-25 09:46:33,970 - INFO - using symmetric alpha at 0.2
+2020-06-25 09:46:33,971 - INFO - using serial LDA version on this node
+2020-06-25 09:46:33,974 - INFO - running online LDA training, 5 topics, 30 passes over the supplied corpus of 489 documents, updating every 21000 documents, evaluating every ~489 documents, iterating 200x with a convergence threshold of 0.001000
+2020-06-25 09:46:33,974 - INFO - training LDA model using 7 processes
+2020-06-25 09:46:35,614 - INFO - PROGRESS: pass 0, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:39,872 - INFO - topic #0 (0.200): 0.004*"marc" + 0.003*"inademp" + 0.003*"veicol" + 0.002*"doganal" + 0.002*"repubbl" + 0.002*"minor" + 0.002*"belg" + 0.002*"italian" + 0.002*"vit" + 0.002*"prestazion"
+2020-06-25 09:46:39,873 - INFO - topic #1 (0.200): 0.004*"lavor" + 0.004*"appalt" + 0.003*"doganal" + 0.003*"treaties" + 0.003*"contratt" + 0.002*"searc" + 0.002*"ben" + 0.002*"document" + 0.002*"impugn" + 0.002*"clausol"
+2020-06-25 09:46:39,873 - INFO - topic #2 (0.200): 0.003*"marc" + 0.003*"aiut" + 0.003*"medicinal" + 0.003*"impugn" + 0.003*"lavor" + 0.002*"contratt" + 0.002*"quot" + 0.002*"societ" + 0.002*"inademp" + 0.002*"appalt"
+2020-06-25 09:46:39,873 - INFO - topic #3 (0.200): 0.004*"lavor" + 0.003*"aiut" + 0.003*"contratt" + 0.002*"sottovoc" + 0.002*"classif" + 0.002*"fer" + 0.002*"doganal" + 0.002*"societ" + 0.002*"alcol" + 0.002*"cittadin"
+2020-06-25 09:46:39,874 - INFO - topic #4 (0.200): 0.005*"aiut" + 0.004*"inademp" + 0.003*"italian" + 0.003*"repubbl" + 0.003*"detrazion" + 0.003*"impiant" + 0.002*"veicol" + 0.002*"pass" + 0.002*"lavor" + 0.002*"acque"
+2020-06-25 09:46:39,874 - INFO - topic diff=1.788079, rho=1.000000
+2020-06-25 09:46:40,849 - INFO - -9.196 per-word bound, 586.5 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:46:41,524 - INFO - PROGRESS: pass 1, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:42,618 - INFO - topic #0 (0.200): 0.004*"veicol" + 0.003*"minor" + 0.003*"marc" + 0.003*"inademp" + 0.003*"doganal" + 0.003*"repubbl" + 0.003*"italian" + 0.002*"prestazion" + 0.002*"belg" + 0.002*"daz"
+2020-06-25 09:46:42,618 - INFO - topic #1 (0.200): 0.005*"lavor" + 0.004*"doganal" + 0.004*"treaties" + 0.004*"appalt" + 0.003*"searc" + 0.003*"contratt" + 0.003*"detrazion" + 0.003*"ben" + 0.002*"publications" + 0.002*"languag"
+2020-06-25 09:46:42,618 - INFO - topic #2 (0.200): 0.004*"aiut" + 0.004*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"medicinal" + 0.003*"contratt" + 0.002*"societ" + 0.002*"lavor" + 0.002*"impres" + 0.002*"registr"
+2020-06-25 09:46:42,618 - INFO - topic #3 (0.200): 0.005*"lavor" + 0.003*"sottovoc" + 0.003*"soggiorn" + 0.003*"alcol" + 0.002*"cittadin" + 0.002*"contratt" + 0.002*"voc" + 0.002*"aiut" + 0.002*"doganal" + 0.002*"prodott"
+2020-06-25 09:46:42,618 - INFO - topic #4 (0.200): 0.006*"aiut" + 0.005*"inademp" + 0.004*"impiant" + 0.004*"italian" + 0.003*"detrazion" + 0.003*"repubbl" + 0.003*"acque" + 0.003*"impart" + 0.003*"recuper" + 0.002*"inquin"
+2020-06-25 09:46:42,618 - INFO - topic diff=0.312848, rho=0.679942
+2020-06-25 09:46:43,538 - INFO - -8.980 per-word bound, 505.0 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:46:44,209 - INFO - PROGRESS: pass 2, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:45,199 - INFO - topic #0 (0.200): 0.005*"veicol" + 0.004*"minor" + 0.004*"doganal" + 0.003*"inademp" + 0.003*"italian" + 0.003*"repubbl" + 0.003*"daz" + 0.002*"immatricol" + 0.002*"figl" + 0.002*"giurisdizional"
+2020-06-25 09:46:45,199 - INFO - topic #1 (0.200): 0.005*"treaties" + 0.004*"lavor" + 0.004*"doganal" + 0.004*"searc" + 0.004*"detrazion" + 0.003*"english" + 0.003*"publications" + 0.003*"languag" + 0.003*"brows" + 0.003*"ingiunzion"
+2020-06-25 09:46:45,199 - INFO - topic #2 (0.200): 0.005*"aiut" + 0.004*"marc" + 0.004*"impugn" + 0.004*"appalt" + 0.003*"contratt" + 0.003*"lavor" + 0.002*"societ" + 0.002*"impost" + 0.002*"prestazion" + 0.002*"ben"
+2020-06-25 09:46:45,200 - INFO - topic #3 (0.200): 0.005*"lavor" + 0.004*"soggiorn" + 0.004*"sottovoc" + 0.003*"alcol" + 0.003*"voc" + 0.003*"doganal" + 0.003*"esport" + 0.003*"fer" + 0.003*"cittadin" + 0.003*"prodott"
+2020-06-25 09:46:45,200 - INFO - topic #4 (0.200): 0.006*"inademp" + 0.004*"impiant" + 0.004*"aiut" + 0.004*"acque" + 0.003*"inquin" + 0.003*"impart" + 0.003*"trasposizion" + 0.003*"urban" + 0.003*"repubbl" + 0.002*"inammissibil"
+2020-06-25 09:46:45,200 - INFO - topic diff=0.301470, rho=0.562277
+2020-06-25 09:46:45,995 - INFO - -8.865 per-word bound, 466.3 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:46:46,662 - INFO - PROGRESS: pass 3, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:47,583 - INFO - topic #0 (0.200): 0.006*"veicol" + 0.005*"doganal" + 0.005*"minor" + 0.004*"inademp" + 0.003*"daz" + 0.003*"aere" + 0.003*"immatricol" + 0.003*"figl" + 0.002*"repubbl" + 0.002*"vit"
+2020-06-25 09:46:47,583 - INFO - topic #1 (0.200): 0.006*"treaties" + 0.004*"searc" + 0.003*"english" + 0.003*"publications" + 0.003*"languag" + 0.003*"brows" + 0.003*"lavor" + 0.003*"ingiunzion" + 0.003*"doganal" + 0.002*"detrazion"
+2020-06-25 09:46:47,583 - INFO - topic #2 (0.200): 0.005*"aiut" + 0.004*"marc" + 0.004*"contratt" + 0.003*"lavor" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"ben" + 0.003*"impost" + 0.003*"prestazion" + 0.002*"societ"
+2020-06-25 09:46:47,584 - INFO - topic #3 (0.200): 0.005*"lavor" + 0.004*"sottovoc" + 0.004*"soggiorn" + 0.004*"doganal" + 0.004*"alcol" + 0.004*"voc" + 0.003*"fer" + 0.003*"esport" + 0.003*"classif" + 0.003*"prodott"
+2020-06-25 09:46:47,584 - INFO - topic #4 (0.200): 0.006*"inademp" + 0.004*"impiant" + 0.004*"acque" + 0.004*"inquin" + 0.003*"urban" + 0.003*"impart" + 0.003*"trasposizion" + 0.003*"selvat" + 0.003*"inammissibil" + 0.002*"prevenzion"
+2020-06-25 09:46:47,584 - INFO - topic diff=0.265726, rho=0.490114
+2020-06-25 09:46:48,354 - INFO - -8.797 per-word bound, 444.7 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:46:49,008 - INFO - PROGRESS: pass 4, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:49,860 - INFO - topic #0 (0.200): 0.007*"doganal" + 0.006*"veicol" + 0.005*"minor" + 0.004*"daz" + 0.004*"aere" + 0.004*"inademp" + 0.003*"immatricol" + 0.003*"figl" + 0.003*"vit" + 0.003*"patent"
+2020-06-25 09:46:49,883 - INFO - topic #2 (0.200): 0.005*"aiut" + 0.004*"lavor" + 0.004*"contratt" + 0.004*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"ben" + 0.003*"impost" + 0.003*"prestazion" + 0.002*"societ"
+2020-06-25 09:46:49,883 - INFO - topic #3 (0.200): 0.005*"sottovoc" + 0.005*"doganal" + 0.004*"voc" + 0.004*"alcol" + 0.004*"soggiorn" + 0.004*"lavor" + 0.004*"fer" + 0.003*"classif" + 0.003*"accis" + 0.003*"esport"
+2020-06-25 09:46:49,883 - INFO - topic #4 (0.200): 0.006*"inademp" + 0.004*"impiant" + 0.004*"acque" + 0.004*"inquin" + 0.003*"urban" + 0.003*"selvat" + 0.003*"trasposizion" + 0.003*"impart" + 0.003*"inammissibil" + 0.002*"prevenzion"
+2020-06-25 09:46:49,883 - INFO - topic diff=0.210078, rho=0.440098
+2020-06-25 09:46:50,659 - INFO - -8.761 per-word bound, 433.9 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:46:51,322 - INFO - PROGRESS: pass 5, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:52,164 - INFO - topic #0 (0.200): 0.007*"doganal" + 0.006*"minor" + 0.006*"veicol" + 0.004*"daz" + 0.004*"aere" + 0.004*"immatricol" + 0.004*"inademp" + 0.003*"patent" + 0.003*"figl" + 0.003*"guid"
+2020-06-25 09:46:52,185 - INFO - topic #2 (0.200): 0.005*"aiut" + 0.004*"lavor" + 0.004*"contratt" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"ben" + 0.003*"impost" + 0.002*"prestazion" + 0.002*"societ"
+2020-06-25 09:46:52,185 - INFO - topic #3 (0.200): 0.006*"sottovoc" + 0.005*"doganal" + 0.005*"voc" + 0.005*"alcol" + 0.004*"fer" + 0.004*"accis" + 0.004*"classif" + 0.003*"soggiorn" + 0.003*"lavor" + 0.003*"esport"
+2020-06-25 09:46:52,185 - INFO - topic #4 (0.200): 0.005*"inademp" + 0.004*"acque" + 0.004*"impiant" + 0.004*"inquin" + 0.003*"urban" + 0.003*"selvat" + 0.003*"trasposizion" + 0.002*"prevenzion" + 0.002*"inammissibil" + 0.002*"impart"
+2020-06-25 09:46:52,186 - INFO - topic diff=0.156346, rho=0.402813
+2020-06-25 09:46:52,932 - INFO - -8.744 per-word bound, 428.8 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:46:53,600 - INFO - PROGRESS: pass 6, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:54,438 - INFO - topic #0 (0.200): 0.007*"doganal" + 0.006*"minor" + 0.005*"veicol" + 0.005*"daz" + 0.004*"immatricol" + 0.004*"aere" + 0.004*"patent" + 0.004*"inademp" + 0.003*"guid" + 0.003*"vit"
+2020-06-25 09:46:54,467 - INFO - topic #2 (0.200): 0.005*"aiut" + 0.004*"lavor" + 0.004*"contratt" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"ben" + 0.003*"impost" + 0.002*"prestazion" + 0.002*"inademp"
+2020-06-25 09:46:54,468 - INFO - topic #3 (0.200): 0.006*"sottovoc" + 0.005*"voc" + 0.005*"alcol" + 0.005*"doganal" + 0.004*"fer" + 0.004*"accis" + 0.003*"classif" + 0.003*"apparecc" + 0.003*"capitol" + 0.003*"soggiorn"
+2020-06-25 09:46:54,468 - INFO - topic #4 (0.200): 0.005*"inademp" + 0.004*"inquin" + 0.004*"acque" + 0.004*"impiant" + 0.003*"urban" + 0.003*"selvat" + 0.003*"prevenzion" + 0.002*"trasposizion" + 0.002*"inammissibil" + 0.002*"impart"
+2020-06-25 09:46:54,468 - INFO - topic diff=0.115407, rho=0.373639
+2020-06-25 09:46:55,217 - INFO - -8.732 per-word bound, 425.3 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:46:55,885 - INFO - PROGRESS: pass 7, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:56,656 - INFO - topic #0 (0.200): 0.007*"doganal" + 0.005*"minor" + 0.005*"daz" + 0.005*"veicol" + 0.004*"immatricol" + 0.004*"patent" + 0.004*"aere" + 0.003*"inademp" + 0.003*"guid" + 0.003*"infrastruttur"
+2020-06-25 09:46:56,675 - INFO - topic #2 (0.200): 0.005*"aiut" + 0.004*"lavor" + 0.004*"contratt" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"ben" + 0.003*"impost" + 0.002*"inademp" + 0.002*"prestazion"
+2020-06-25 09:46:56,675 - INFO - topic #3 (0.200): 0.007*"sottovoc" + 0.006*"voc" + 0.005*"alcol" + 0.005*"doganal" + 0.005*"fer" + 0.004*"accis" + 0.003*"classif" + 0.003*"apparecc" + 0.003*"capitol" + 0.003*"not"
+2020-06-25 09:46:56,676 - INFO - topic #4 (0.200): 0.004*"inademp" + 0.004*"inquin" + 0.004*"impiant" + 0.004*"acque" + 0.003*"urban" + 0.003*"selvat" + 0.003*"prevenzion" + 0.002*"riduzion" + 0.002*"inammissibil" + 0.002*"flor"
+2020-06-25 09:46:56,676 - INFO - topic diff=0.085506, rho=0.350006
+2020-06-25 09:46:57,423 - INFO - -8.723 per-word bound, 422.5 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:46:58,081 - INFO - PROGRESS: pass 8, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:46:58,869 - INFO - topic #0 (0.200): 0.006*"doganal" + 0.005*"daz" + 0.004*"immatricol" + 0.004*"minor" + 0.004*"patent" + 0.004*"aere" + 0.004*"veicol" + 0.003*"guid" + 0.003*"inademp" + 0.003*"infrastruttur"
+2020-06-25 09:46:58,928 - INFO - topic #2 (0.200): 0.004*"aiut" + 0.004*"lavor" + 0.003*"contratt" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"ben" + 0.003*"impost" + 0.003*"inademp" + 0.002*"prestazion"
+2020-06-25 09:46:58,929 - INFO - topic #3 (0.200): 0.007*"sottovoc" + 0.006*"voc" + 0.006*"alcol" + 0.005*"fer" + 0.004*"doganal" + 0.004*"accis" + 0.003*"classif" + 0.003*"apparecc" + 0.003*"capitol" + 0.003*"not"
+2020-06-25 09:46:58,929 - INFO - topic #4 (0.200): 0.004*"inquin" + 0.004*"inademp" + 0.004*"impiant" + 0.003*"urban" + 0.003*"acque" + 0.003*"selvat" + 0.003*"prevenzion" + 0.002*"flor" + 0.002*"faun" + 0.002*"riduzion"
+2020-06-25 09:46:58,929 - INFO - topic diff=0.064009, rho=0.330355
+2020-06-25 09:46:59,666 - INFO - -8.715 per-word bound, 420.1 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:00,338 - INFO - PROGRESS: pass 9, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:01,158 - INFO - topic #0 (0.200): 0.005*"patent" + 0.004*"doganal" + 0.004*"immatricol" + 0.004*"aere" + 0.004*"daz" + 0.003*"guid" + 0.003*"veicol" + 0.003*"minor" + 0.003*"infrastruttur" + 0.003*"inademp"
+2020-06-25 09:47:01,193 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"inademp" + 0.003*"ben" + 0.003*"impost" + 0.002*"repubbl"
+2020-06-25 09:47:01,194 - INFO - topic #3 (0.200): 0.007*"sottovoc" + 0.006*"voc" + 0.006*"alcol" + 0.005*"fer" + 0.004*"accis" + 0.004*"doganal" + 0.003*"classif" + 0.003*"apparecc" + 0.003*"not" + 0.003*"nomenclatur"
+2020-06-25 09:47:01,194 - INFO - topic #4 (0.200): 0.004*"inquin" + 0.003*"urban" + 0.003*"selvat" + 0.003*"impiant" + 0.003*"inademp" + 0.003*"acque" + 0.002*"prevenzion" + 0.002*"flor" + 0.002*"faun" + 0.002*"riduzion"
+2020-06-25 09:47:01,194 - INFO - topic diff=0.048896, rho=0.313682
+2020-06-25 09:47:01,972 - INFO - -8.708 per-word bound, 418.1 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:02,658 - INFO - PROGRESS: pass 10, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:03,436 - INFO - topic #0 (0.200): 0.005*"patent" + 0.004*"immatricol" + 0.004*"aere" + 0.003*"guid" + 0.003*"doganal" + 0.003*"daz" + 0.003*"veicol" + 0.003*"aeromobil" + 0.003*"infrastruttur" + 0.002*"minor"
+2020-06-25 09:47:03,456 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"marc" + 0.003*"inademp" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"ben" + 0.003*"impost" + 0.002*"repubbl"
+2020-06-25 09:47:03,457 - INFO - topic #3 (0.200): 0.007*"sottovoc" + 0.006*"voc" + 0.005*"alcol" + 0.005*"fer" + 0.003*"accis" + 0.003*"doganal" + 0.003*"nomenclatur" + 0.003*"apparecc" + 0.003*"not" + 0.003*"classif"
+2020-06-25 09:47:03,457 - INFO - topic #4 (0.200): 0.003*"urban" + 0.003*"selvat" + 0.003*"inquin" + 0.003*"inademp" + 0.003*"impiant" + 0.003*"acque" + 0.002*"prevenzion" + 0.002*"flor" + 0.002*"faun" + 0.001*"vall"
+2020-06-25 09:47:03,457 - INFO - topic diff=0.038011, rho=0.299302
+2020-06-25 09:47:04,179 - INFO - -8.702 per-word bound, 416.4 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:04,836 - INFO - PROGRESS: pass 11, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:05,607 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"immatricol" + 0.003*"guid" + 0.003*"aere" + 0.003*"doganal" + 0.003*"aeromobil" + 0.002*"daz" + 0.002*"veicol" + 0.002*"infrastruttur" + 0.002*"minor"
+2020-06-25 09:47:05,642 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"marc" + 0.003*"inademp" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben" + 0.002*"repubbl"
+2020-06-25 09:47:05,643 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.006*"voc" + 0.005*"alcol" + 0.005*"fer" + 0.003*"accis" + 0.003*"doganal" + 0.003*"nomenclatur" + 0.003*"apparecc" + 0.003*"not" + 0.002*"classif"
+2020-06-25 09:47:05,643 - INFO - topic #4 (0.200): 0.003*"selvat" + 0.003*"urban" + 0.002*"inquin" + 0.002*"acque" + 0.002*"inademp" + 0.002*"impiant" + 0.002*"flor" + 0.002*"faun" + 0.002*"prevenzion" + 0.001*"vall"
+2020-06-25 09:47:05,643 - INFO - topic diff=0.029674, rho=0.286734
+2020-06-25 09:47:06,385 - INFO - -8.697 per-word bound, 415.0 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:07,108 - INFO - PROGRESS: pass 12, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:07,912 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.003*"aere" + 0.003*"immatricol" + 0.002*"aeromobil" + 0.002*"doganal" + 0.002*"veicol" + 0.002*"carbur" + 0.002*"daz" + 0.002*"infrastruttur"
+2020-06-25 09:47:07,932 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben" + 0.003*"doganal"
+2020-06-25 09:47:07,932 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.006*"voc" + 0.005*"alcol" + 0.005*"fer" + 0.003*"nomenclatur" + 0.002*"apparecc" + 0.002*"accis" + 0.002*"not" + 0.002*"doganal" + 0.002*"classific"
+2020-06-25 09:47:07,933 - INFO - topic #4 (0.200): 0.003*"selvat" + 0.003*"urban" + 0.002*"flor" + 0.002*"inquin" + 0.002*"faun" + 0.002*"acque" + 0.002*"inademp" + 0.002*"impiant" + 0.001*"prevenzion" + 0.001*"vall"
+2020-06-25 09:47:07,933 - INFO - topic diff=0.023224, rho=0.275628
+2020-06-25 09:47:08,674 - INFO - -8.694 per-word bound, 414.0 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:09,340 - INFO - PROGRESS: pass 13, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:10,085 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.002*"aere" + 0.002*"aeromobil" + 0.002*"immatricol" + 0.002*"doganal" + 0.002*"carbur" + 0.001*"veicol" + 0.001*"daz" + 0.001*"infrastruttur"
+2020-06-25 09:47:10,104 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"doganal" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:10,105 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.006*"voc" + 0.005*"fer" + 0.004*"alcol" + 0.003*"nomenclatur" + 0.002*"apparecc" + 0.002*"not" + 0.002*"classific" + 0.002*"classif" + 0.002*"doganal"
+2020-06-25 09:47:10,105 - INFO - topic #4 (0.200): 0.003*"selvat" + 0.002*"urban" + 0.002*"flor" + 0.002*"faun" + 0.002*"acque" + 0.001*"inquin" + 0.001*"inademp" + 0.001*"impiant" + 0.001*"vall" + 0.001*"prevenzion"
+2020-06-25 09:47:10,106 - INFO - topic diff=0.018354, rho=0.265719
+2020-06-25 09:47:10,859 - INFO - -8.691 per-word bound, 413.2 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:11,536 - INFO - PROGRESS: pass 14, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:12,270 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.002*"aere" + 0.002*"aeromobil" + 0.002*"immatricol" + 0.001*"doganal" + 0.001*"carbur" + 0.001*"veicol" + 0.001*"daz" + 0.001*"infrastruttur"
+2020-06-25 09:47:12,299 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"impugn" + 0.003*"doganal" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:12,300 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.006*"voc" + 0.004*"fer" + 0.003*"alcol" + 0.003*"nomenclatur" + 0.002*"apparecc" + 0.002*"not" + 0.002*"classific" + 0.002*"classif" + 0.002*"capitol"
+2020-06-25 09:47:12,300 - INFO - topic #4 (0.200): 0.003*"selvat" + 0.002*"flor" + 0.002*"faun" + 0.002*"urban" + 0.001*"acque" + 0.001*"inquin" + 0.001*"inademp" + 0.001*"impiant" + 0.001*"vall" + 0.001*"prevenzion"
+2020-06-25 09:47:12,300 - INFO - topic diff=0.014691, rho=0.256807
+2020-06-25 09:47:13,014 - INFO - -8.689 per-word bound, 412.7 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:13,670 - INFO - PROGRESS: pass 15, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:14,422 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.002*"aere" + 0.001*"aeromobil" + 0.001*"immatricol" + 0.001*"doganal" + 0.001*"carbur" + 0.001*"veicol" + 0.001*"daz" + 0.001*"infrastruttur"
+2020-06-25 09:47:14,465 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:14,465 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.006*"voc" + 0.004*"fer" + 0.003*"alcol" + 0.003*"nomenclatur" + 0.002*"apparecc" + 0.002*"not" + 0.002*"classific" + 0.002*"plastic" + 0.002*"capitol"
+2020-06-25 09:47:14,466 - INFO - topic #4 (0.200): 0.003*"selvat" + 0.002*"flor" + 0.002*"faun" + 0.001*"urban" + 0.001*"acque" + 0.001*"inquin" + 0.001*"inademp" + 0.001*"impiant" + 0.001*"vall" + 0.001*"natural"
+2020-06-25 09:47:14,466 - INFO - topic diff=0.011661, rho=0.248736
+2020-06-25 09:47:15,220 - INFO - -8.688 per-word bound, 412.3 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:15,959 - INFO - PROGRESS: pass 16, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:16,776 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.001*"aere" + 0.001*"aeromobil" + 0.001*"immatricol" + 0.001*"doganal" + 0.001*"veicol" + 0.001*"carbur" + 0.001*"daz" + 0.001*"infrastruttur"
+2020-06-25 09:47:16,776 - INFO - topic #1 (0.200): 0.007*"treaties" + 0.005*"searc" + 0.004*"english" + 0.004*"languag" + 0.004*"publications" + 0.004*"brows" + 0.003*"national" + 0.003*"hrvatsk" + 0.003*"kalb" + 0.003*"svensk"
+2020-06-25 09:47:16,776 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:16,776 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.006*"voc" + 0.003*"fer" + 0.002*"alcol" + 0.002*"nomenclatur" + 0.002*"apparecc" + 0.002*"not" + 0.002*"classific" + 0.002*"plastic" + 0.002*"capitol"
+2020-06-25 09:47:16,777 - INFO - topic #4 (0.200): 0.003*"selvat" + 0.002*"flor" + 0.002*"faun" + 0.001*"urban" + 0.001*"acque" + 0.001*"inquin" + 0.001*"inademp" + 0.001*"impiant" + 0.001*"vall" + 0.001*"natural"
+2020-06-25 09:47:16,777 - INFO - topic diff=0.009363, rho=0.241381
+2020-06-25 09:47:17,499 - INFO - -8.687 per-word bound, 412.0 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:18,160 - INFO - PROGRESS: pass 17, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:18,917 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.001*"aere" + 0.001*"aeromobil" + 0.001*"immatricol" + 0.001*"doganal" + 0.001*"veicol" + 0.001*"carbur" + 0.001*"daz" + 0.001*"infrastruttur"
+2020-06-25 09:47:18,947 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:18,948 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.005*"voc" + 0.003*"fer" + 0.002*"nomenclatur" + 0.002*"alcol" + 0.002*"apparecc" + 0.002*"not" + 0.002*"plastic" + 0.002*"classific" + 0.001*"capitol"
+2020-06-25 09:47:18,948 - INFO - topic #4 (0.200): 0.003*"selvat" + 0.002*"flor" + 0.002*"faun" + 0.001*"urban" + 0.001*"acque" + 0.001*"inquin" + 0.001*"inademp" + 0.001*"impiant" + 0.001*"natural" + 0.001*"vall"
+2020-06-25 09:47:18,948 - INFO - topic diff=0.007652, rho=0.234642
+2020-06-25 09:47:19,736 - INFO - -8.686 per-word bound, 411.8 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:20,431 - INFO - PROGRESS: pass 18, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:21,185 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.001*"aere" + 0.001*"aeromobil" + 0.001*"immatricol" + 0.001*"doganal" + 0.001*"veicol" + 0.001*"carbur" + 0.001*"daz" + 0.001*"infrastruttur"
+2020-06-25 09:47:21,204 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:21,205 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.005*"voc" + 0.002*"fer" + 0.002*"nomenclatur" + 0.002*"apparecc" + 0.002*"alcol" + 0.002*"plastic" + 0.002*"not" + 0.002*"classific" + 0.001*"esplic"
+2020-06-25 09:47:21,205 - INFO - topic #4 (0.200): 0.003*"selvat" + 0.002*"flor" + 0.002*"faun" + 0.001*"urban" + 0.001*"acque" + 0.001*"inquin" + 0.001*"inademp" + 0.001*"natural" + 0.001*"impiant" + 0.001*"vall"
+2020-06-25 09:47:21,206 - INFO - topic diff=0.006285, rho=0.228438
+2020-06-25 09:47:21,912 - INFO - -8.685 per-word bound, 411.6 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:22,587 - INFO - PROGRESS: pass 19, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:23,406 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.001*"aere" + 0.001*"aeromobil" + 0.001*"immatricol" + 0.001*"doganal" + 0.001*"veicol" + 0.001*"carbur" + 0.001*"daz" + 0.001*"infrastruttur"
+2020-06-25 09:47:23,425 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:23,425 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.005*"voc" + 0.002*"nomenclatur" + 0.002*"fer" + 0.002*"apparecc" + 0.002*"plastic" + 0.001*"alcol" + 0.001*"classific" + 0.001*"not" + 0.001*"esplic"
+2020-06-25 09:47:23,426 - INFO - topic #4 (0.200): 0.002*"selvat" + 0.002*"flor" + 0.002*"faun" + 0.001*"urban" + 0.001*"acque" + 0.001*"inquin" + 0.001*"inademp" + 0.001*"natural" + 0.001*"impiant" + 0.001*"vall"
+2020-06-25 09:47:23,426 - INFO - topic diff=0.005184, rho=0.222701
+2020-06-25 09:47:24,163 - INFO - -8.685 per-word bound, 411.5 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:24,839 - INFO - PROGRESS: pass 20, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:25,615 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.001*"aere" + 0.001*"aeromobil" + 0.001*"immatricol" + 0.001*"veicol" + 0.001*"doganal" + 0.001*"carbur" + 0.001*"daz" + 0.001*"infrastruttur"
+2020-06-25 09:47:25,633 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:25,634 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.004*"voc" + 0.002*"nomenclatur" + 0.002*"plastic" + 0.002*"apparecc" + 0.001*"fer" + 0.001*"classific" + 0.001*"alcol" + 0.001*"not" + 0.001*"esplic"
+2020-06-25 09:47:25,635 - INFO - topic #4 (0.200): 0.002*"selvat" + 0.002*"flor" + 0.002*"faun" + 0.001*"urban" + 0.001*"acque" + 0.001*"inquin" + 0.001*"natural" + 0.001*"inademp" + 0.001*"impiant" + 0.001*"vall"
+2020-06-25 09:47:25,635 - INFO - topic diff=0.004351, rho=0.217376
+2020-06-25 09:47:26,358 - INFO - -8.684 per-word bound, 411.3 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:27,033 - INFO - PROGRESS: pass 21, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:27,773 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.001*"aere" + 0.001*"aeromobil" + 0.001*"immatricol" + 0.001*"veicol" + 0.001*"doganal" + 0.001*"carbur" + 0.001*"daz" + 0.001*"infrastruttur"
+2020-06-25 09:47:27,773 - INFO - topic #1 (0.200): 0.007*"treaties" + 0.005*"searc" + 0.004*"english" + 0.004*"publications" + 0.004*"languag" + 0.004*"brows" + 0.003*"national" + 0.003*"gaeilg" + 0.003*"kalb" + 0.003*"keel"
+2020-06-25 09:47:27,774 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:27,774 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.004*"voc" + 0.002*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"fer" + 0.001*"classific" + 0.001*"not" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:27,774 - INFO - topic #4 (0.200): 0.002*"selvat" + 0.002*"flor" + 0.002*"faun" + 0.001*"urban" + 0.001*"acque" + 0.001*"inquin" + 0.001*"natural" + 0.001*"inademp" + 0.001*"impiant" + 0.000*"vall"
+2020-06-25 09:47:27,774 - INFO - topic diff=0.003609, rho=0.212415
+2020-06-25 09:47:28,481 - INFO - -8.684 per-word bound, 411.2 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:29,142 - INFO - PROGRESS: pass 22, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:29,900 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.001*"aere" + 0.001*"aeromobil" + 0.001*"immatricol" + 0.001*"veicol" + 0.001*"doganal" + 0.001*"carbur" + 0.000*"daz" + 0.000*"infrastruttur"
+2020-06-25 09:47:29,918 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:29,919 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.004*"voc" + 0.001*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"fer" + 0.001*"classific" + 0.001*"not" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:29,919 - INFO - topic #4 (0.200): 0.002*"selvat" + 0.001*"flor" + 0.001*"faun" + 0.001*"urban" + 0.001*"acque" + 0.001*"natural" + 0.000*"inquin" + 0.000*"inademp" + 0.000*"impiant" + 0.000*"vall"
+2020-06-25 09:47:29,919 - INFO - topic diff=0.003018, rho=0.207779
+2020-06-25 09:47:30,667 - INFO - -8.684 per-word bound, 411.2 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:31,384 - INFO - PROGRESS: pass 23, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:32,187 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.001*"aere" + 0.001*"aeromobil" + 0.001*"immatricol" + 0.000*"veicol" + 0.000*"doganal" + 0.000*"carbur" + 0.000*"daz" + 0.000*"infrastruttur"
+2020-06-25 09:47:32,216 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:32,216 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.003*"voc" + 0.001*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"classific" + 0.001*"fer" + 0.001*"not" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:32,216 - INFO - topic #4 (0.200): 0.001*"selvat" + 0.001*"flor" + 0.001*"faun" + 0.001*"urban" + 0.000*"acque" + 0.000*"natural" + 0.000*"inquin" + 0.000*"inademp" + 0.000*"impiant" + 0.000*"vall"
+2020-06-25 09:47:32,217 - INFO - topic diff=0.002554, rho=0.203434
+2020-06-25 09:47:32,923 - INFO - -8.683 per-word bound, 411.1 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:33,577 - INFO - PROGRESS: pass 24, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:34,384 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.001*"aere" + 0.001*"aeromobil" + 0.000*"immatricol" + 0.000*"veicol" + 0.000*"doganal" + 0.000*"carbur" + 0.000*"daz" + 0.000*"infrastruttur"
+2020-06-25 09:47:34,385 - INFO - topic #1 (0.200): 0.007*"treaties" + 0.005*"searc" + 0.004*"english" + 0.004*"brows" + 0.004*"languag" + 0.004*"publications" + 0.003*"national" + 0.003*"about" + 0.003*"official" + 0.003*"keel"
+2020-06-25 09:47:34,385 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"marc" + 0.003*"doganal" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:34,385 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.003*"voc" + 0.001*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"classific" + 0.001*"fer" + 0.001*"not" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:34,385 - INFO - topic #4 (0.200): 0.001*"selvat" + 0.001*"flor" + 0.001*"faun" + 0.001*"urban" + 0.000*"acque" + 0.000*"natural" + 0.000*"inquin" + 0.000*"inademp" + 0.000*"impiant" + 0.000*"vall"
+2020-06-25 09:47:34,385 - INFO - topic diff=0.002235, rho=0.199351
+2020-06-25 09:47:35,111 - INFO - -8.683 per-word bound, 411.0 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:35,812 - INFO - PROGRESS: pass 25, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:36,553 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.000*"aere" + 0.000*"aeromobil" + 0.000*"immatricol" + 0.000*"veicol" + 0.000*"doganal" + 0.000*"carbur" + 0.000*"daz" + 0.000*"infrastruttur"
+2020-06-25 09:47:36,582 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"doganal" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:36,582 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.002*"voc" + 0.001*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"classific" + 0.001*"fer" + 0.001*"not" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:36,583 - INFO - topic #4 (0.200): 0.001*"selvat" + 0.001*"flor" + 0.001*"faun" + 0.000*"urban" + 0.000*"acque" + 0.000*"natural" + 0.000*"inquin" + 0.000*"inademp" + 0.000*"impiant" + 0.000*"vall"
+2020-06-25 09:47:36,583 - INFO - topic diff=0.001872, rho=0.195504
+2020-06-25 09:47:37,308 - INFO - -8.683 per-word bound, 410.9 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:37,972 - INFO - PROGRESS: pass 26, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:38,735 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.000*"aere" + 0.000*"aeromobil" + 0.000*"immatricol" + 0.000*"veicol" + 0.000*"doganal" + 0.000*"carbur" + 0.000*"daz" + 0.000*"infrastruttur"
+2020-06-25 09:47:38,766 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"doganal" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:38,766 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.002*"voc" + 0.001*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"classific" + 0.001*"fer" + 0.001*"not" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:38,766 - INFO - topic #4 (0.200): 0.001*"selvat" + 0.001*"flor" + 0.001*"faun" + 0.000*"urban" + 0.000*"acque" + 0.000*"natural" + 0.000*"inquin" + 0.000*"inademp" + 0.000*"impiant" + 0.000*"vall"
+2020-06-25 09:47:38,767 - INFO - topic diff=0.001572, rho=0.191872
+2020-06-25 09:47:39,489 - INFO - -8.683 per-word bound, 410.9 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:40,161 - INFO - PROGRESS: pass 27, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:40,897 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.000*"aere" + 0.000*"aeromobil" + 0.000*"immatricol" + 0.000*"veicol" + 0.000*"doganal" + 0.000*"carbur" + 0.000*"daz" + 0.000*"incontest"
+2020-06-25 09:47:40,927 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"doganal" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:40,928 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.002*"voc" + 0.001*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"classific" + 0.001*"not" + 0.001*"fer" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:40,928 - INFO - topic #4 (0.200): 0.001*"selvat" + 0.001*"flor" + 0.001*"faun" + 0.000*"urban" + 0.000*"acque" + 0.000*"natural" + 0.000*"inquin" + 0.000*"inademp" + 0.000*"impiant" + 0.000*"vall"
+2020-06-25 09:47:40,928 - INFO - topic diff=0.001325, rho=0.188435
+2020-06-25 09:47:41,657 - INFO - -8.682 per-word bound, 410.8 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:42,333 - INFO - PROGRESS: pass 28, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:43,106 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.000*"aere" + 0.000*"aeromobil" + 0.000*"immatricol" + 0.000*"veicol" + 0.000*"doganal" + 0.000*"incontest" + 0.000*"carbur" + 0.000*"daz"
+2020-06-25 09:47:43,106 - INFO - topic #1 (0.200): 0.007*"treaties" + 0.005*"searc" + 0.004*"english" + 0.004*"brows" + 0.004*"publications" + 0.004*"languag" + 0.003*"national" + 0.003*"eest" + 0.003*"guest" + 0.003*"keel"
+2020-06-25 09:47:43,107 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"doganal" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:43,107 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.002*"voc" + 0.001*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"classific" + 0.001*"not" + 0.001*"fer" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:43,107 - INFO - topic #4 (0.200): 0.001*"selvat" + 0.001*"flor" + 0.001*"faun" + 0.000*"urban" + 0.000*"acque" + 0.000*"natural" + 0.000*"inquin" + 0.000*"inademp" + 0.000*"impiant" + 0.000*"vall"
+2020-06-25 09:47:43,107 - INFO - topic diff=0.001119, rho=0.185176
+2020-06-25 09:47:43,804 - INFO - -8.682 per-word bound, 410.8 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:44,469 - INFO - PROGRESS: pass 29, dispatched chunk #0 = documents up to #489/489, outstanding queue size 1
+2020-06-25 09:47:45,218 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.000*"aere" + 0.000*"aeromobil" + 0.000*"immatricol" + 0.000*"incontest" + 0.000*"veicol" + 0.000*"doganal" + 0.000*"carbur" + 0.000*"daz"
+2020-06-25 09:47:45,237 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"doganal" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:45,237 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.001*"voc" + 0.001*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"classific" + 0.001*"not" + 0.001*"fer" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:45,238 - INFO - topic #4 (0.200): 0.001*"selvat" + 0.001*"flor" + 0.001*"faun" + 0.000*"urban" + 0.000*"acque" + 0.000*"natural" + 0.000*"inquin" + 0.000*"inademp" + 0.000*"impiant" + 0.000*"vall"
+2020-06-25 09:47:45,238 - INFO - topic diff=0.000949, rho=0.182080
+2020-06-25 09:47:45,952 - INFO - -8.682 per-word bound, 410.8 perplexity estimate based on a held-out corpus of 489 documents with 3570 words
+2020-06-25 09:47:46,045 - INFO - topic #0 (0.200): 0.005*"patent" + 0.003*"guid" + 0.000*"aere" + 0.000*"aeromobil" + 0.000*"immatricol" + 0.000*"incontest" + 0.000*"veicol" + 0.000*"doganal" + 0.000*"carbur" + 0.000*"daz"
+2020-06-25 09:47:46,064 - INFO - topic #2 (0.200): 0.004*"lavor" + 0.004*"aiut" + 0.003*"contratt" + 0.003*"inademp" + 0.003*"doganal" + 0.003*"marc" + 0.003*"impugn" + 0.003*"appalt" + 0.003*"impost" + 0.003*"ben"
+2020-06-25 09:47:46,064 - INFO - topic #3 (0.200): 0.008*"sottovoc" + 0.001*"voc" + 0.001*"plastic" + 0.001*"nomenclatur" + 0.001*"apparecc" + 0.001*"classific" + 0.001*"not" + 0.001*"fer" + 0.001*"alcol" + 0.001*"esplic"
+2020-06-25 09:47:46,065 - INFO - topic #4 (0.200): 0.001*"selvat" + 0.001*"flor" + 0.001*"faun" + 0.000*"urban" + 0.000*"acque" + 0.000*"natural" + 0.000*"inquin" + 0.000*"inademp" + 0.000*"impiant" + 0.000*"vall"
