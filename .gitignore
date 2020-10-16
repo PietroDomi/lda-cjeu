@@ -5,3 +5,4 @@ data/converted/*.txt
 data_scraping/data_html/*.html
 .models/
 script/__pycache__/
+data/lda*.csv
